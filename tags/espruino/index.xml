@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Espruino on inajobのいろいろレビュー</title>
-    <link>https://inajob.github.io/inajob-review/tags/espruino/</link>
+    <link>https://inajob.github.io/iroiro-review/tags/espruino/</link>
     <description>Recent content in Espruino on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Wed, 01 May 2019 23:00:45 +0000</lastBuildDate>
     
-	<atom:link href="https://inajob.github.io/inajob-review/tags/espruino/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/espruino/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>JavaScriptで開発できる小さなWord Clock</title>
-      <link>https://inajob.github.io/inajob-review/post/javascript%E3%81%A7%E9%96%8B%E7%99%BA%E3%81%A7%E3%81%8D%E3%82%8B%E5%B0%8F%E3%81%95%E3%81%AAword-clock/</link>
+      <link>https://inajob.github.io/iroiro-review/post/javascript%E3%81%A7%E9%96%8B%E7%99%BA%E3%81%A7%E3%81%8D%E3%82%8B%E5%B0%8F%E3%81%95%E3%81%AAword-clock/</link>
       <pubDate>Wed, 01 May 2019 23:00:45 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/javascript%E3%81%A7%E9%96%8B%E7%99%BA%E3%81%A7%E3%81%8D%E3%82%8B%E5%B0%8F%E3%81%95%E3%81%AAword-clock/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/javascript%E3%81%A7%E9%96%8B%E7%99%BA%E3%81%A7%E3%81%8D%E3%82%8B%E5%B0%8F%E3%81%95%E3%81%AAword-clock/</guid>
       <description>Tiny Word Clockから発見。画像もここから転載。
 Espruinoは組み込み環境向けのJavaScript開発環境。
 この記事ではEspruinoを使っていわゆる「WordClock」を作成する方法を紹介している。

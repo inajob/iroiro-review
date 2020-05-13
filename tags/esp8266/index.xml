@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Esp8266 on inajobのいろいろレビュー</title>
-    <link>https://inajob.github.io/inajob-review/tags/esp8266/</link>
+    <link>https://inajob.github.io/iroiro-review/tags/esp8266/</link>
     <description>Recent content in Esp8266 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Mon, 30 Mar 2020 23:00:30 +0000</lastBuildDate>
     
-	<atom:link href="https://inajob.github.io/inajob-review/tags/esp8266/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/esp8266/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ESP8266を使ったMicroPythonでゲームが作れるゲーム機</title>
-      <link>https://inajob.github.io/inajob-review/post/esp8266%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fmicropython%E3%81%A7%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%8C%E4%BD%9C%E3%82%8C%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <link>https://inajob.github.io/iroiro-review/post/esp8266%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fmicropython%E3%81%A7%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%8C%E4%BD%9C%E3%82%8C%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
       <pubDate>Mon, 30 Mar 2020 23:00:30 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/esp8266%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fmicropython%E3%81%A7%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%8C%E4%BD%9C%E3%82%8C%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/esp8266%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fmicropython%E3%81%A7%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%8C%E4%BD%9C%E3%82%8C%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
       <description>GamerGorlから発見。画像もここから転載。
 ESP8266を使ったゲーム機を学習用に使っているという記事です。
 学習用といいつつ、ゲーム機として十分の機能を搭載しているように見えます。 アナログジョイスティックと2キーのボタン、128x64のOLED、ブザー、フルカラーLEDなどが接続されています。
@@ -28,10 +28,10 @@ ESP8266を使ったゲーム機を学習用に使っているという記事で�
     
     <item>
       <title>ESP8266とOLEDで作るTwitterクライアント</title>
-      <link>https://inajob.github.io/inajob-review/post/esp8266%E3%81%A8oled%E3%81%A7%E4%BD%9C%E3%82%8Btwitter%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/</link>
+      <link>https://inajob.github.io/iroiro-review/post/esp8266%E3%81%A8oled%E3%81%A7%E4%BD%9C%E3%82%8Btwitter%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/</link>
       <pubDate>Mon, 25 Nov 2019 23:00:58 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/esp8266%E3%81%A8oled%E3%81%A7%E4%BD%9C%E3%82%8Btwitter%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/esp8266%E3%81%A8oled%E3%81%A7%E4%BD%9C%E3%82%8Btwitter%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/</guid>
       <description>ESP8266 Twitter Clientから発見。画像もここから転載。
 ESP8266を使った水色が美しいOLEDを使ったTwitterクライアントです。 水色がTwitterのイメージカラーの水色と相まって非常にかっこいい仕上げとなっています。
  </description>
@@ -39,10 +39,10 @@ ESP8266を使った水色が美しいOLEDを使ったTwitterクライアント�
     
     <item>
       <title>ESP32/ESP8266をホームオートメーションに使うためのフレームワークESPHome</title>
-      <link>https://inajob.github.io/inajob-review/post/esp32-esp8266%E3%82%92%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AB%E4%BD%BF%E3%81%86%E3%81%9F%E3%82%81%E3%81%AE%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AFesphome/</link>
+      <link>https://inajob.github.io/iroiro-review/post/esp32-esp8266%E3%82%92%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AB%E4%BD%BF%E3%81%86%E3%81%9F%E3%82%81%E3%81%AE%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AFesphome/</link>
       <pubDate>Sun, 24 Nov 2019 23:00:39 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/esp32-esp8266%E3%82%92%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AB%E4%BD%BF%E3%81%86%E3%81%9F%E3%82%81%E3%81%AE%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AFesphome/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/esp32-esp8266%E3%82%92%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AB%E4%BD%BF%E3%81%86%E3%81%9F%E3%82%81%E3%81%AE%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AFesphome/</guid>
       <description>ESPHomeから発見。画像もここから転載。
 ESPHomeはプログラムを書くことなく、ESP32やESP8266のファームウェアを作ることができる仕組みです。 目的を”家に設置するセンサの制御”に特化することで、これを実現しています。
 使い方はYAMLファイルにどのピンにどのセンサーがついているかを指定し、esphomeコマンドを実行するだけです。
@@ -51,10 +51,10 @@ ESPHomeはプログラムを書くことなく、ESP32やESP8266のファーム�
     
     <item>
       <title>無線で制御できる「絵文字表示器」</title>
-      <link>https://inajob.github.io/inajob-review/post/%E7%84%A1%E7%B7%9A%E3%81%A7%E5%88%B6%E5%BE%A1%E3%81%A7%E3%81%8D%E3%82%8B%E7%B5%B5%E6%96%87%E5%AD%97%E8%A1%A8%E7%A4%BA%E5%99%A8/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%84%A1%E7%B7%9A%E3%81%A7%E5%88%B6%E5%BE%A1%E3%81%A7%E3%81%8D%E3%82%8B%E7%B5%B5%E6%96%87%E5%AD%97%E8%A1%A8%E7%A4%BA%E5%99%A8/</link>
       <pubDate>Mon, 11 Nov 2019 23:00:48 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E7%84%A1%E7%B7%9A%E3%81%A7%E5%88%B6%E5%BE%A1%E3%81%A7%E3%81%8D%E3%82%8B%E7%B5%B5%E6%96%87%E5%AD%97%E8%A1%A8%E7%A4%BA%E5%99%A8/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%84%A1%E7%B7%9A%E3%81%A7%E5%88%B6%E5%BE%A1%E3%81%A7%E3%81%8D%E3%82%8B%E7%B5%B5%E6%96%87%E5%AD%97%E8%A1%A8%E7%A4%BA%E5%99%A8/</guid>
       <description>IoT Emoji Signから発見。画像もここから転載。（CC BY-NC-SA By 陳亮）
 ESP8266ボードを使ったフルカラーマトリクスLED表示ガジェットです。 スマートフォンから簡単に表示内容を変更できるようです。
 面白いと思ったのは、フルカラーマトリクスLEDの作り方です。表面実装のアドレッサブルフルカラーLEDを3Dプリンタで作った型の上に並べ、表面実装の部品同士を直接導線でつないで、その状態でグルーガンで固めてしまっています。かなり力技ですが、きれいに仕上がっているので、案外良い方法なのかも・・と感じました。
@@ -63,10 +63,10 @@ ESP8266ボードを使ったフルカラーマトリクスLED表示ガジェッ�
     
     <item>
       <title>アナログ式の次の電車の出発までのカウントダウンタイマー</title>
-      <link>https://inajob.github.io/inajob-review/post/%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E5%BC%8F%E3%81%AE%E6%AC%A1%E3%81%AE%E9%9B%BB%E8%BB%8A%E3%81%AE%E5%87%BA%E7%99%BA%E3%81%BE%E3%81%A7%E3%81%AE%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%83%80%E3%82%A6%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E5%BC%8F%E3%81%AE%E6%AC%A1%E3%81%AE%E9%9B%BB%E8%BB%8A%E3%81%AE%E5%87%BA%E7%99%BA%E3%81%BE%E3%81%A7%E3%81%AE%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%83%80%E3%82%A6%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC/</link>
       <pubDate>Thu, 19 Sep 2019 23:00:28 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E5%BC%8F%E3%81%AE%E6%AC%A1%E3%81%AE%E9%9B%BB%E8%BB%8A%E3%81%AE%E5%87%BA%E7%99%BA%E3%81%BE%E3%81%A7%E3%81%AE%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%83%80%E3%82%A6%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E5%BC%8F%E3%81%AE%E6%AC%A1%E3%81%AE%E9%9B%BB%E8%BB%8A%E3%81%AE%E5%87%BA%E7%99%BA%E3%81%BE%E3%81%A7%E3%81%AE%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%83%80%E3%82%A6%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC/</guid>
       <description>Worried About Missing Your Train? This ESP8266 Project Can Help から発見。画像もここから転載。
 この記事ではアナログパネルメーターによる、電車の乗換案内ガジェットの作例を紹介しています。 よく「電流計」などのインターフェースとして使われるアナログパネルメーターですが、この作例では「乗換までのカウントダウン」を表示するために使われています。
 モジュールとしてはESP8266を利用しています。
@@ -75,10 +75,10 @@ ESP8266ボードを使ったフルカラーマトリクスLED表示ガジェッ�
     
     <item>
       <title>ESP8266,ESP32に脆弱性！</title>
-      <link>https://inajob.github.io/inajob-review/post/esp8266-esp32%E3%81%AB%E8%84%86%E5%BC%B1%E6%80%A7/</link>
+      <link>https://inajob.github.io/iroiro-review/post/esp8266-esp32%E3%81%AB%E8%84%86%E5%BC%B1%E6%80%A7/</link>
       <pubDate>Tue, 10 Sep 2019 23:00:57 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/esp8266-esp32%E3%81%AB%E8%84%86%E5%BC%B1%E6%80%A7/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/esp8266-esp32%E3%81%AB%E8%84%86%E5%BC%B1%E6%80%A7/</guid>
       <description>ESP8266 AND ESP32 WIFI HACKED!から発見。画像もここから転載。
 ESP32やESP8266はWiFiを扱うためには非常に手軽なボードです。しかしこの記事で紹介しているのは、それらのファームウェアに存在している脆弱性についてです。
 すでに脆弱性は修正されているようですが、製品として出荷されてしまったものの中には、この脆弱性を抱えているものが多く存在していそうです。

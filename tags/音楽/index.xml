@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>音楽 on inajobのいろいろレビュー</title>
-    <link>https://inajob.github.io/inajob-review/tags/%E9%9F%B3%E6%A5%BD/</link>
+    <link>https://inajob.github.io/iroiro-review/tags/%E9%9F%B3%E6%A5%BD/</link>
     <description>Recent content in 音楽 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Mon, 13 Apr 2020 23:00:53 +0000</lastBuildDate>
     
-	<atom:link href="https://inajob.github.io/inajob-review/tags/%E9%9F%B3%E6%A5%BD/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%9F%B3%E6%A5%BD/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>AY-3-8910とArduinoを組み合わせたチップチューンプレイヤー</title>
-      <link>https://inajob.github.io/inajob-review/post/ay-3-8910%E3%81%A8arduino%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E3%83%81%E3%83%83%E3%83%97%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC/</link>
+      <link>https://inajob.github.io/iroiro-review/post/ay-3-8910%E3%81%A8arduino%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E3%83%81%E3%83%83%E3%83%97%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC/</link>
       <pubDate>Mon, 13 Apr 2020 23:00:53 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/ay-3-8910%E3%81%A8arduino%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E3%83%81%E3%83%83%E3%83%97%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/ay-3-8910%E3%81%A8arduino%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E3%83%81%E3%83%83%E3%83%97%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC/</guid>
       <description>Arduino MIDI Chiptune Synthesizerから発見。画像もここから転載(CC BY-SA By TheSpodShed)
 ArduinoとPSG音源ICであるAY-3-8910をくっつけたチップチューン用のボードの作例を紹介します。 Arduino Microのボードを使って、USB MIDIでPCからのデータを受信し、音楽を再生しています。
 思った以上に少ない部品でチップチューンのICを鳴らすことができるのだなと感じました。
@@ -25,10 +25,10 @@ ArduinoとPSG音源ICであるAY-3-8910をくっつけたチップチューン�
     
     <item>
       <title>アーケードゲームのボタンをふんだんに使ったMIDIコントローラー</title>
-      <link>https://inajob.github.io/inajob-review/post/%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E3%83%9C%E3%82%BF%E3%83%B3%E3%82%92%E3%81%B5%E3%82%93%E3%81%A0%E3%82%93%E3%81%AB%E4%BD%BF%E3%81%A3%E3%81%9Fmidi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E3%83%9C%E3%82%BF%E3%83%B3%E3%82%92%E3%81%B5%E3%82%93%E3%81%A0%E3%82%93%E3%81%AB%E4%BD%BF%E3%81%A3%E3%81%9Fmidi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC/</link>
       <pubDate>Tue, 07 Apr 2020 23:00:31 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E3%83%9C%E3%82%BF%E3%83%B3%E3%82%92%E3%81%B5%E3%82%93%E3%81%A0%E3%82%93%E3%81%AB%E4%BD%BF%E3%81%A3%E3%81%9Fmidi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E3%83%9C%E3%82%BF%E3%83%B3%E3%82%92%E3%81%B5%E3%82%93%E3%81%A0%E3%82%93%E3%81%AB%E4%BD%BF%E3%81%A3%E3%81%9Fmidi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC/</guid>
       <description>This 3D-Printed MIDI “Jammer” Keyboard Was Built with an Arduino Dueから発見。画像もここから転載。
 アーケードゲームのスイッチをふんだんに使ったMIDIコントローラです。ケースは3Dプリンタで作成され、コントローラはArduino DUEです。
 アーケードのボタンは操作していて楽しいので、音楽を奏でるためのボタンとしては結構相性が良いと感じました。
@@ -37,10 +37,10 @@ ArduinoとPSG音源ICであるAY-3-8910をくっつけたチップチューン�
     
     <item>
       <title>ライフゲームを基にしたシンセサイザー</title>
-      <link>https://inajob.github.io/inajob-review/post/%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E5%9F%BA%E3%81%AB%E3%81%97%E3%81%9F%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E5%9F%BA%E3%81%AB%E3%81%97%E3%81%9F%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</link>
       <pubDate>Tue, 31 Mar 2020 23:00:10 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E5%9F%BA%E3%81%AB%E3%81%97%E3%81%9F%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E5%9F%BA%E3%81%AB%E3%81%97%E3%81%9F%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</guid>
       <description>E V O B O X Xから発見。画像もここから転載。
 トランク型のいい雰囲気の、、シンセサイザーです。 全然それっぽくない外観ですがこの見た目でシンセサイザーです。ライフゲームの画面を基に音が鳴る仕組みのようです。トランク型の筐体は、持ち運びに便利そうです。
 中身はRaspberry Pi 3+のようです。（ This Synthesizer Uses Conway’s Game of Life to Generate Tones  ）
@@ -49,10 +49,10 @@ ArduinoとPSG音源ICであるAY-3-8910をくっつけたチップチューン�
     
     <item>
       <title>YM2612を搭載したチップチューン専用プレーヤー</title>
-      <link>https://inajob.github.io/inajob-review/post/ym2612%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%83%81%E3%83%83%E3%83%97%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%E5%B0%82%E7%94%A8%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC/</link>
+      <link>https://inajob.github.io/iroiro-review/post/ym2612%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%83%81%E3%83%83%E3%83%97%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%E5%B0%82%E7%94%A8%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC/</link>
       <pubDate>Wed, 11 Mar 2020 23:00:42 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/ym2612%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%83%81%E3%83%83%E3%83%97%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%E5%B0%82%E7%94%A8%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/ym2612%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%83%81%E3%83%83%E3%83%97%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%E5%B0%82%E7%94%A8%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC/</guid>
       <description>MegaGRRL - Portable YM2612 VGM Playerから発見。画像もここから転載。
 MegaGRRLは昔ながらの音源ICを搭載したポータブル音楽プレーヤーです。ポータブルプレーヤとしては大き目な240x320の液晶を搭載し、6つのスイッチと、たくさんのLEDが実装されています。
 コアとなるマイコンボードはESP32です。フロントパネルも基板として設計されており非常に完成度の高い見た目となっています。
@@ -61,10 +61,10 @@ MegaGRRLは昔ながらの音源ICを搭載したポータブル音楽プレー�
     
     <item>
       <title>新しいOrganelleの紹介</title>
-      <link>https://inajob.github.io/inajob-review/post/%E6%96%B0%E3%81%97%E3%81%84organelle%E3%81%AE%E7%B4%B9%E4%BB%8B/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%96%B0%E3%81%97%E3%81%84organelle%E3%81%AE%E7%B4%B9%E4%BB%8B/</link>
       <pubDate>Mon, 09 Mar 2020 23:00:25 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E6%96%B0%E3%81%97%E3%81%84organelle%E3%81%AE%E7%B4%B9%E4%BB%8B/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%96%B0%E3%81%97%E3%81%84organelle%E3%81%AE%E7%B4%B9%E4%BB%8B/</guid>
       <description>The Organelle Music Computer Has Been Redesigned with a Ton of New Featuresから発見。画像もここから転載。
 知る人ぞ知る電子楽器Organelleの新しいバージョンが発表されたようです。 Organelleは2016年に発表された電子楽器で、内部にコンピュータを内蔵しており、PureDataで作ったデータをそのまま演奏できるという鍵盤楽器でした。
 今回発表された新しいOrganelle Mは、その機能をさらに強化したバージョンとなっています。
@@ -74,10 +74,10 @@ MegaGRRLは昔ながらの音源ICを搭載したポータブル音楽プレー�
     
     <item>
       <title>キューブ型の自動演奏物理ドラム</title>
-      <link>https://inajob.github.io/inajob-review/post/%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%96%E5%9E%8B%E3%81%AE%E8%87%AA%E5%8B%95%E6%BC%94%E5%A5%8F%E7%89%A9%E7%90%86%E3%83%89%E3%83%A9%E3%83%A0/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%96%E5%9E%8B%E3%81%AE%E8%87%AA%E5%8B%95%E6%BC%94%E5%A5%8F%E7%89%A9%E7%90%86%E3%83%89%E3%83%A9%E3%83%A0/</link>
       <pubDate>Wed, 29 Jan 2020 23:00:53 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%96%E5%9E%8B%E3%81%AE%E8%87%AA%E5%8B%95%E6%BC%94%E5%A5%8F%E7%89%A9%E7%90%86%E3%83%89%E3%83%A9%E3%83%A0/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%96%E5%9E%8B%E3%81%AE%E8%87%AA%E5%8B%95%E6%BC%94%E5%A5%8F%E7%89%A9%E7%90%86%E3%83%89%E3%83%A9%E3%83%A0/</guid>
       <description>PLAY TO THE BEAT OF THIS ROBOTIC DRUMMER IN A BOXから発見。画像もここから転載。
 ギター演奏のお供をしてくれる物理的なドラムマシンです。持ち運びも考慮されており、ふたを閉めるとキューブ型に収まります。スピーカから発される音とは違い、実際に物理的に鳴っている音はアコースティック楽器にはぴったりだと感じました。
  </description>
@@ -85,10 +85,10 @@ MegaGRRLは昔ながらの音源ICを搭載したポータブル音楽プレー�
     
     <item>
       <title>ESP32用のオーディオDSPライブラリ</title>
-      <link>https://inajob.github.io/inajob-review/post/esp32%E7%94%A8%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AAdsp%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA/</link>
+      <link>https://inajob.github.io/iroiro-review/post/esp32%E7%94%A8%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AAdsp%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA/</link>
       <pubDate>Tue, 28 Jan 2020 23:00:11 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/esp32%E7%94%A8%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AAdsp%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/esp32%E7%94%A8%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AAdsp%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA/</guid>
       <description>yummyDSPから発見。画像もここから転載。
 ESP32向けのDSPライブラリです。いい感じにDSPの処理が抽象化されておりNodeを組み合わせるような感じで信号処理を記述することができるようです。
 まだまだ開発段階のようですが、ESP32はパワフルなので、信号処理用のチップとして使うのもよさそうです。</description>
@@ -96,10 +96,10 @@ ESP32向けのDSPライブラリです。いい感じにDSPの処理が抽象化
     
     <item>
       <title>多腕のピアノ自動演奏装置</title>
-      <link>https://inajob.github.io/inajob-review/post/%E5%A4%9A%E8%85%95%E3%81%AE%E3%83%94%E3%82%A2%E3%83%8E%E8%87%AA%E5%8B%95%E6%BC%94%E5%A5%8F%E8%A3%85%E7%BD%AE/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%A4%9A%E8%85%95%E3%81%AE%E3%83%94%E3%82%A2%E3%83%8E%E8%87%AA%E5%8B%95%E6%BC%94%E5%A5%8F%E8%A3%85%E7%BD%AE/</link>
       <pubDate>Thu, 23 Jan 2020 20:00:39 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E5%A4%9A%E8%85%95%E3%81%AE%E3%83%94%E3%82%A2%E3%83%8E%E8%87%AA%E5%8B%95%E6%BC%94%E5%A5%8F%E8%A3%85%E7%BD%AE/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%A4%9A%E8%85%95%E3%81%AE%E3%83%94%E3%82%A2%E3%83%8E%E8%87%AA%E5%8B%95%E6%BC%94%E5%A5%8F%E8%A3%85%E7%BD%AE/</guid>
       <description>The Pianist Octopusから発見。画像もここから転載。
 3Dプリンタで作られた多腕のキーボード演奏装置です。 多数のサーボモータを使い鍵盤ごとに対応したアームを動かしてピアノを演奏するようです。
 アームの有機的な造形により、まるで生き物のような不思議な雰囲気を醸し出しているのも印象的です。 動画が無いのが残念ですが、ぜひ動いているところを見てみたいと思いました。
@@ -108,10 +108,10 @@ ESP32向けのDSPライブラリです。いい感じにDSPの処理が抽象化
     
     <item>
       <title>STM32L476Gを使ったチップチューン音源</title>
-      <link>https://inajob.github.io/inajob-review/post/stm32l476g%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%81%E3%83%83%E3%83%97%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%E9%9F%B3%E6%BA%90/</link>
+      <link>https://inajob.github.io/iroiro-review/post/stm32l476g%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%81%E3%83%83%E3%83%97%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%E9%9F%B3%E6%BA%90/</link>
       <pubDate>Sun, 19 Jan 2020 23:00:36 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/stm32l476g%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%81%E3%83%83%E3%83%97%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%E9%9F%B3%E6%BA%90/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/stm32l476g%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%81%E3%83%83%E3%83%97%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%E9%9F%B3%E6%BA%90/</guid>
       <description>Playing Chiptunes on an STM32L476G Discovery Boardから発見。画像もここから転載。
 AY-3-8910のエミュレータをSTM32で実現しています。 古い音源チップはそのうち入手できなくなってしまうかもしれないので、ソフトウェアでエミュレータを作るのは良い考えだと感じました。
  </description>
@@ -119,10 +119,10 @@ AY-3-8910のエミュレータをSTM32で実現しています。 古い音源�
     
     <item>
       <title>ESP32によるシンセサイザーモジュール</title>
-      <link>https://inajob.github.io/inajob-review/post/esp32%E3%81%AB%E3%82%88%E3%82%8B%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</link>
+      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%81%AB%E3%82%88%E3%82%8B%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</link>
       <pubDate>Wed, 18 Dec 2019 23:00:49 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/esp32%E3%81%AB%E3%82%88%E3%82%8B%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%81%AB%E3%82%88%E3%82%8B%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</guid>
       <description>Eurorack audio synthesis platformから発見。画像もここから転載。
 ESP32をコアとしたかなり高機能なユーロラックモジュールです。 WiFiを経由してサンプリング音源をダウンロードすることもできるようです。
 ほかにもオーディオコーデックのWM8731、12bitADCのMCP3208などを組み込んでいます。
@@ -132,10 +132,10 @@ ESP32をコアとしたかなり高機能なユーロラックモジュールで
     
     <item>
       <title>ゲームボーイを組み込んだ3Dプリンタ製のショルキー</title>
-      <link>https://inajob.github.io/inajob-review/post/%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4%E3%82%92%E7%B5%84%E3%81%BF%E8%BE%BC%E3%82%93%E3%81%A03d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B7%E3%83%A7%E3%83%AB%E3%82%AD%E3%83%BC/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4%E3%82%92%E7%B5%84%E3%81%BF%E8%BE%BC%E3%82%93%E3%81%A03d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B7%E3%83%A7%E3%83%AB%E3%82%AD%E3%83%BC/</link>
       <pubDate>Thu, 14 Nov 2019 23:00:53 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4%E3%82%92%E7%B5%84%E3%81%BF%E8%BE%BC%E3%82%93%E3%81%A03d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B7%E3%83%A7%E3%83%AB%E3%82%AD%E3%83%BC/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4%E3%82%92%E7%B5%84%E3%81%BF%E8%BE%BC%E3%82%93%E3%81%A03d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B7%E3%83%A7%E3%83%AB%E3%82%AD%E3%83%BC/</guid>
       <description>3D Printed Dual Game Boy Chiptune Keytarから発見。画像もここから転載。
 動画がすべて、というガジェットですが、ゲームボーイの音源を使った「ショルキー」です。
 フレーム部分は3Dプリンタで作られており、鍵盤や、ネック部分は既存の製品の流用のようです。 ともかく演奏動画がかっこいいので、見てみてください。
@@ -144,10 +144,10 @@ ESP32をコアとしたかなり高機能なユーロラックモジュールで
     
     <item>
       <title>オープンなDIYドラムマシン「SHAPESHIFTER」</title>
-      <link>https://inajob.github.io/inajob-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%81%AAdiy%E3%83%89%E3%83%A9%E3%83%A0%E3%83%9E%E3%82%B7%E3%83%B3shapeshifter/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%81%AAdiy%E3%83%89%E3%83%A9%E3%83%A0%E3%83%9E%E3%82%B7%E3%83%B3shapeshifter/</link>
       <pubDate>Wed, 13 Nov 2019 23:00:53 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%81%AAdiy%E3%83%89%E3%83%A9%E3%83%A0%E3%83%9E%E3%82%B7%E3%83%B3shapeshifter/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%81%AAdiy%E3%83%89%E3%83%A9%E3%83%A0%E3%83%9E%E3%82%B7%E3%83%B3shapeshifter/</guid>
       <description>SHAPESHIFTERから発見。画像もここから転載。
 ドラムマシンというのは、音楽ガジェットの中では比較的シンプルなものですが、それだけに様々な個性のガジェットが存在します。
 そんなドラムマシンを自作したい！という方向けのソリューションがこの「SHAPESHIFTER」です。
@@ -159,10 +159,10 @@ CPUボードはTeensy3.6を使っています。Teensyはオーディオ向け�
     
     <item>
       <title>Arduinoを基にしたコンパクトなドラムマシン</title>
-      <link>https://inajob.github.io/inajob-review/post/arduino%E3%82%92%E5%9F%BA%E3%81%AB%E3%81%97%E3%81%9F%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%83%89%E3%83%A9%E3%83%A0%E3%83%9E%E3%82%B7%E3%83%B3/</link>
+      <link>https://inajob.github.io/iroiro-review/post/arduino%E3%82%92%E5%9F%BA%E3%81%AB%E3%81%97%E3%81%9F%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%83%89%E3%83%A9%E3%83%A0%E3%83%9E%E3%82%B7%E3%83%B3/</link>
       <pubDate>Tue, 01 Oct 2019 23:00:18 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/arduino%E3%82%92%E5%9F%BA%E3%81%AB%E3%81%97%E3%81%9F%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%83%89%E3%83%A9%E3%83%A0%E3%83%9E%E3%82%B7%E3%83%B3/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/arduino%E3%82%92%E5%9F%BA%E3%81%AB%E3%81%97%E3%81%9F%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%83%89%E3%83%A9%E3%83%A0%E3%83%9E%E3%82%B7%E3%83%B3/</guid>
       <description>DrumKid: aleatoric drum machineから発見。画像もここから転載。
 Arduinoを基にしたドラムマシンです。ただのドラムマシンとは違い、ランダム要素を活用し、”偶然の音楽”を生み出すことにフォーカスしています。
 20ものパラメータがあり、ボタンでパラメータ群を選択し、つまみでそのパラメータ群を操作するようです。
@@ -172,10 +172,10 @@ Arduinoを基にしたドラムマシンです。ただのドラムマシンと�
     
     <item>
       <title>段ボール筐体とアーケードゲームスイッチを使ったリズムボックス</title>
-      <link>https://inajob.github.io/inajob-review/post/%E6%AE%B5%E3%83%9C%E3%83%BC%E3%83%AB%E7%AD%90%E4%BD%93%E3%81%A8%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%AA%E3%82%BA%E3%83%A0%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%AE%B5%E3%83%9C%E3%83%BC%E3%83%AB%E7%AD%90%E4%BD%93%E3%81%A8%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%AA%E3%82%BA%E3%83%A0%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/</link>
       <pubDate>Mon, 09 Sep 2019 23:00:53 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E6%AE%B5%E3%83%9C%E3%83%BC%E3%83%AB%E7%AD%90%E4%BD%93%E3%81%A8%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%AA%E3%82%BA%E3%83%A0%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%AE%B5%E3%83%9C%E3%83%BC%E3%83%AB%E7%AD%90%E4%BD%93%E3%81%A8%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%AA%E3%82%BA%E3%83%A0%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/</guid>
       <description>Beatbox by Rhythmo - DIY Cardboard MIDI Controller Kitから発見。画像もここから転載。
 BeatBoxは段ボール筐体のリズムボックスです。ボタンをタップすることで様々なドラムの音を鳴らすことができます。
 技術的にはBeatboxはMIDIコントローラとして実装されています。そのため機能の割り振りを変えることで、様々な操作を行うことができます。</description>
@@ -183,10 +183,10 @@ BeatBoxは段ボール筐体のリズムボックスです。ボタンをタッ�
     
     <item>
       <title>面白い形状の静電容量タッチMIDIコントローラ</title>
-      <link>https://inajob.github.io/inajob-review/post/%E9%9D%A2%E7%99%BD%E3%81%84%E5%BD%A2%E7%8A%B6%E3%81%AE%E9%9D%99%E9%9B%BB%E5%AE%B9%E9%87%8F%E3%82%BF%E3%83%83%E3%83%81midi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%9D%A2%E7%99%BD%E3%81%84%E5%BD%A2%E7%8A%B6%E3%81%AE%E9%9D%99%E9%9B%BB%E5%AE%B9%E9%87%8F%E3%82%BF%E3%83%83%E3%83%81midi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9/</link>
       <pubDate>Thu, 05 Sep 2019 23:00:30 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E9%9D%A2%E7%99%BD%E3%81%84%E5%BD%A2%E7%8A%B6%E3%81%AE%E9%9D%99%E9%9B%BB%E5%AE%B9%E9%87%8F%E3%82%BF%E3%83%83%E3%83%81midi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%9D%A2%E7%99%BD%E3%81%84%E5%BD%A2%E7%8A%B6%E3%81%AE%E9%9D%99%E9%9B%BB%E5%AE%B9%E9%87%8F%E3%82%BF%E3%83%83%E3%83%81midi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9/</guid>
       <description>Oceania Midi Controller (for Make Noise 0-Coast and Other Synths) から発見。画像もここから転載（CC BY-NC-SA By maxhirez）
 金属の板を加工して作ったタッチセンサによるMIDI鍵盤の作例です。 CPUはArduino MEGAを使っているようです。詳しい回路図がないのが残念ですが、すべての鍵盤とGPIOをつなぎ、またMIDI出力端子も搭載してるようです。
 動画では、この楽器と合わせて0-CoastというMIDIが入力できるシンセと接続して音を鳴らしています。こちらの0-Coastというシンセも興味深いです。
@@ -197,10 +197,10 @@ BeatBoxは段ボール筐体のリズムボックスです。ボタンをタッ�
     
     <item>
       <title>YMZ294をならすためのArduinoボード</title>
-      <link>https://inajob.github.io/inajob-review/post/ymz294%E3%82%92%E3%81%AA%E3%82%89%E3%81%99%E3%81%9F%E3%82%81%E3%81%AEarduino%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <link>https://inajob.github.io/iroiro-review/post/ymz294%E3%82%92%E3%81%AA%E3%82%89%E3%81%99%E3%81%9F%E3%82%81%E3%81%AEarduino%E3%83%9C%E3%83%BC%E3%83%89/</link>
       <pubDate>Tue, 03 Sep 2019 23:00:29 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/ymz294%E3%82%92%E3%81%AA%E3%82%89%E3%81%99%E3%81%9F%E3%82%81%E3%81%AEarduino%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/ymz294%E3%82%92%E3%81%AA%E3%82%89%E3%81%99%E3%81%9F%E3%82%81%E3%81%AEarduino%E3%83%9C%E3%83%BC%E3%83%89/</guid>
       <description>Simple chiptune playerから発見。画像もここから転載。
 ヤマハのYMZ294というPSG音源チップを制御するためのボード。メインCPUはATmega328。 USBシリアルICであるCP2102が搭載されており、Arduinoとしてプログラミングすることができる。 また0.25WのオーディオアンプICであるNJM2113が搭載されており、スピーカーとつながっている。
 オーディオジャック端子もあり、ポータブルな音楽プレーヤーのようなものを作ることができそうだ。
@@ -210,10 +210,10 @@ BeatBoxは段ボール筐体のリズムボックスです。ボタンをタッ�
     
     <item>
       <title>MID信号に合わせて光る鍵盤型ディスプレイ</title>
-      <link>https://inajob.github.io/inajob-review/post/mid%E4%BF%A1%E5%8F%B7i%E3%81%AB%E5%90%88%E3%82%8F%E3%81%9B%E3%81%A6%E5%85%89%E3%82%8B%E9%8D%B5%E7%9B%A4%E5%9E%8B%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</link>
+      <link>https://inajob.github.io/iroiro-review/post/mid%E4%BF%A1%E5%8F%B7i%E3%81%AB%E5%90%88%E3%82%8F%E3%81%9B%E3%81%A6%E5%85%89%E3%82%8B%E9%8D%B5%E7%9B%A4%E5%9E%8B%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</link>
       <pubDate>Wed, 28 Aug 2019 23:00:49 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/mid%E4%BF%A1%E5%8F%B7i%E3%81%AB%E5%90%88%E3%82%8F%E3%81%9B%E3%81%A6%E5%85%89%E3%82%8B%E9%8D%B5%E7%9B%A4%E5%9E%8B%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/mid%E4%BF%A1%E5%8F%B7i%E3%81%AB%E5%90%88%E3%82%8F%E3%81%9B%E3%81%A6%E5%85%89%E3%82%8B%E9%8D%B5%E7%9B%A4%E5%9E%8B%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</guid>
       <description>FLASHING LEDS WITH MIDI, NOTE BY NOTEから発見。画像もここから転載。
 鍵盤風のボードにLEDがついたもので、MIDI信号に合わせて点滅するもののようです。 設計は公開されているようです。開発ボードとしてはTeensy3.2を使っているようです。
 作者は日本人の方のようで、もしかしたらどこかのイベントで本物を見ることができるかもしません。
@@ -222,10 +222,10 @@ BeatBoxは段ボール筐体のリズムボックスです。ボタンをタッ�
     
     <item>
       <title>Arduboy互換機にMidiがついた「midiboy」</title>
-      <link>https://inajob.github.io/inajob-review/post/arduboy%E4%BA%92%E6%8F%9B%E6%A9%9F%E3%81%ABmidi%E3%81%8C%E3%81%A4%E3%81%84%E3%81%9Fmidiboy/</link>
+      <link>https://inajob.github.io/iroiro-review/post/arduboy%E4%BA%92%E6%8F%9B%E6%A9%9F%E3%81%ABmidi%E3%81%8C%E3%81%A4%E3%81%84%E3%81%9Fmidiboy/</link>
       <pubDate>Wed, 17 Jul 2019 23:00:47 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/arduboy%E4%BA%92%E6%8F%9B%E6%A9%9F%E3%81%ABmidi%E3%81%8C%E3%81%A4%E3%81%84%E3%81%9Fmidiboy/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/arduboy%E4%BA%92%E6%8F%9B%E6%A9%9F%E3%81%ABmidi%E3%81%8C%E3%81%A4%E3%81%84%E3%81%9Fmidiboy/</guid>
       <description>Meet Midiboy!から発見。画像もここから転載。
 MidiboyはArduboyにMIDI端子がついたガジェットです。
 回路図を見るとArduboyとはちょっと違った回路になっていることがわかります。
@@ -236,10 +236,10 @@ MIDI端子はINとOUTがあり、それぞれがArduinoのピンとつながっ�
     
     <item>
       <title>自作MIDIコントローラの作り方と、既製品との比較</title>
-      <link>https://inajob.github.io/inajob-review/post/%E8%87%AA%E4%BD%9Cmidi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%E3%81%A8%E6%97%A2%E8%A3%BD%E5%93%81%E3%81%A8%E3%81%AE%E6%AF%94%E8%BC%83/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9Cmidi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%E3%81%A8%E6%97%A2%E8%A3%BD%E5%93%81%E3%81%A8%E3%81%AE%E6%AF%94%E8%BC%83/</link>
       <pubDate>Tue, 09 Jul 2019 23:00:31 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E8%87%AA%E4%BD%9Cmidi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%E3%81%A8%E6%97%A2%E8%A3%BD%E5%93%81%E3%81%A8%E3%81%AE%E6%AF%94%E8%BC%83/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9Cmidi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%E3%81%A8%E6%97%A2%E8%A3%BD%E5%93%81%E3%81%A8%E3%81%AE%E6%AF%94%E8%BC%83/</guid>
       <description>GreatScott! Asks Should You DIY or Buy a MIDI Launchpad? にて発見。画像もここから転載。
 よくあるグリッド状のMidiコントローラを自作した記事。 ボタンを光らせるためにLEDを斜めに配置しているあたりが非常に参考になります。 3Dプリンタを使った筐体の製作も、似たようなものを作りたい人には有用でしょう。 コントローラはArduino Nano。
 ユニバーサル基板を使ったり、フルカラーLEDを接着剤で3Dプリントした柱に取り付けたりと、手作り感満載だが、完成品はかなりそれっぽく仕上がっています。
@@ -248,10 +248,10 @@ MIDI端子はINとOUTがあり、それぞれがArduinoのピンとつながっ�
     
     <item>
       <title>レコードを置くと自動で再生するスタンド</title>
-      <link>https://inajob.github.io/inajob-review/post/%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AC%E3%83%BC%E3%83%99%E3%83%AB%E3%82%92%E7%BD%AE%E3%81%8F%E3%81%A8%E8%87%AA%E5%8B%95%E3%81%A7%E5%86%8D%E7%94%9F%E3%81%99%E3%82%8B%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AC%E3%83%BC%E3%83%99%E3%83%AB%E3%82%92%E7%BD%AE%E3%81%8F%E3%81%A8%E8%87%AA%E5%8B%95%E3%81%A7%E5%86%8D%E7%94%9F%E3%81%99%E3%82%8B%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89/</link>
       <pubDate>Mon, 08 Jul 2019 23:00:13 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AC%E3%83%BC%E3%83%99%E3%83%AB%E3%82%92%E7%BD%AE%E3%81%8F%E3%81%A8%E8%87%AA%E5%8B%95%E3%81%A7%E5%86%8D%E7%94%9F%E3%81%99%E3%82%8B%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AC%E3%83%BC%E3%83%99%E3%83%AB%E3%82%92%E7%BD%AE%E3%81%8F%E3%81%A8%E8%87%AA%E5%8B%95%E3%81%A7%E5%86%8D%E7%94%9F%E3%81%99%E3%82%8B%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89/</guid>
       <description>MAGIC RECORD STAND CAN PLAY YOUR RECORDS FOR YOUから発見。画像もここから転載。
 レコードを置くと、その曲を再生してくれる　というかなり未来っぽいガジェットです。
 その仕組みは3Dプリンタで作られた台座に組み込まれたカメラです。カメラでレーベルの画像を取得し、Google Vision APIやOpenCVを使って認識をしているようです。さらに認識したデータをSpotify APIに問い合わせて曲を再生しているようです。
@@ -260,10 +260,10 @@ MIDI端子はINとOUTがあり、それぞれがArduinoのピンとつながっ�
     
     <item>
       <title>モーターの回転を基にしたシンセサイザーモジュール</title>
-      <link>https://inajob.github.io/inajob-review/post/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AE%E5%9B%9E%E8%BB%A2%E9%9F%B3%E3%82%92%E5%9F%BA%E3%81%AB%E3%81%97%E3%81%9F%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AE%E5%9B%9E%E8%BB%A2%E9%9F%B3%E3%82%92%E5%9F%BA%E3%81%AB%E3%81%97%E3%81%9F%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</link>
       <pubDate>Wed, 12 Jun 2019 23:00:58 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AE%E5%9B%9E%E8%BB%A2%E9%9F%B3%E3%82%92%E5%9F%BA%E3%81%AB%E3%81%97%E3%81%9F%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AE%E5%9B%9E%E8%BB%A2%E9%9F%B3%E3%82%92%E5%9F%BA%E3%81%AB%E3%81%97%E3%81%9F%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</guid>
       <description>Motor Synthから発見。画像もここから転載。
 Maker Faire Tokyoなどでもモーターを使って音楽をならすという作例は見かけますが、このプロダクトはそれをまじめにシンセサイザーとして実装した例です。
 写真中央上部の8個の銀色の丸いものがモーターです。このシンセサイザーはモータの回転により生じる電磁波を音源として利用しています。
@@ -273,10 +273,10 @@ Maker Faire Tokyoなどでもモーターを使って音楽をならすという
     
     <item>
       <title>ピコピコシーケンサ&#43;シンセサイザー「hapiNES L」</title>
-      <link>https://inajob.github.io/inajob-review/post/%E3%83%94%E3%82%B3%E3%83%94%E3%82%B3%E3%82%B7%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%B5-%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BChapines-l/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%94%E3%82%B3%E3%83%94%E3%82%B3%E3%82%B7%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%B5-%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BChapines-l/</link>
       <pubDate>Wed, 10 Apr 2019 23:00:03 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E3%83%94%E3%82%B3%E3%83%94%E3%82%B3%E3%82%B7%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%B5-%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BChapines-l/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%94%E3%82%B3%E3%83%94%E3%82%B3%E3%82%B7%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%B5-%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BChapines-l/</guid>
       <description>hapiNES L にて発見。写真もこちらから転載。
 hapiNES Lはファミコン風のピコピコシンセサイザー。
 4ボイスのシンセサイザーで、この「L」と呼ばれるバージョンには、プリアンプや、MIDIインターフェース、アナログSyncなどのインターフェースが搭載されている。
@@ -288,10 +288,10 @@ hapiNES Lはファミコン風のピコピコシンセサイザー。
     
     <item>
       <title>Teensyで作るDIYのドラムマシン</title>
-      <link>https://inajob.github.io/inajob-review/post/teensy%E3%81%A7%E4%BD%9C%E3%82%8Bdiy%E3%81%AE%E3%83%89%E3%83%A9%E3%83%A0%E3%83%9E%E3%82%B7%E3%83%B3/</link>
+      <link>https://inajob.github.io/iroiro-review/post/teensy%E3%81%A7%E4%BD%9C%E3%82%8Bdiy%E3%81%AE%E3%83%89%E3%83%A9%E3%83%A0%E3%83%9E%E3%82%B7%E3%83%B3/</link>
       <pubDate>Tue, 09 Apr 2019 23:00:33 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/teensy%E3%81%A7%E4%BD%9C%E3%82%8Bdiy%E3%81%AE%E3%83%89%E3%83%A9%E3%83%A0%E3%83%9E%E3%82%B7%E3%83%B3/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/teensy%E3%81%A7%E4%BD%9C%E3%82%8Bdiy%E3%81%AE%E3%83%89%E3%83%A9%E3%83%A0%E3%83%9E%E3%82%B7%E3%83%B3/</guid>
       <description>Fasma Festival 2017 – DIY Drum Machine (Teensy) で発見。 （画像もここから転載）
 製品ページも存在する模様。
 Teensy 3.2を使ったドラムマシンらしい。Teensy 3.2はかなりパワフルな開発ボードで、特にこういう音系の開発用にはライブラリが充実しているらしく、単純なPCM音源を鳴らすタイプのガジェットは簡単に作れてしまうようだ。
@@ -302,10 +302,10 @@ Teensy Audio Libraryを使うと、GUIを使って本当にコードを書くこ
     
     <item>
       <title>8ステップシーケンサキットBaby8</title>
-      <link>https://inajob.github.io/inajob-review/post/8%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%82%B7%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%B5%E3%82%AD%E3%83%83%E3%83%88baby8/</link>
+      <link>https://inajob.github.io/iroiro-review/post/8%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%82%B7%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%B5%E3%82%AD%E3%83%83%E3%83%88baby8/</link>
       <pubDate>Sun, 07 Apr 2019 23:00:10 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/8%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%82%B7%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%B5%E3%82%AD%E3%83%83%E3%83%88baby8/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/8%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%82%B7%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%B5%E3%82%AD%E3%83%83%E3%83%88baby8/</guid>
       <description>Baby8 Sequencer Kit V3で発見。画像もここから転載。
 CV/GATE出力の8ステップシーケンサのキット。
 別途販売されているMini Atari Punk Console Kitとつなげることで、音を鳴らすことができる。
@@ -315,10 +315,10 @@ CV/GATE出力の8ステップシーケンサのキット。
     
     <item>
       <title>あのnanoloopのハードウェア版</title>
-      <link>https://inajob.github.io/inajob-review/post/%E3%81%82%E3%81%AEnanoloop%E3%81%AE%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E7%89%88/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%82%E3%81%AEnanoloop%E3%81%AE%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E7%89%88/</link>
       <pubDate>Sun, 17 Mar 2019 23:00:10 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E3%81%82%E3%81%AEnanoloop%E3%81%AE%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E7%89%88/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%82%E3%81%AEnanoloop%E3%81%AE%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E7%89%88/</guid>
       <description>nanoloopから発見。画像もここから転載。
 nanoloopというシーケンサを知っていますか？nanoloopはゲームボーイで動作するソフトウェアとしてのシーケンサで、この界隈ではかなり有名なものです。
 今回はそのnanoloopのハードウェア版がKickstarterに登場していたので紹介します。

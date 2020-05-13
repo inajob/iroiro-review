@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fusion360 on inajobのいろいろレビュー</title>
-    <link>https://inajob.github.io/inajob-review/tags/fusion360/</link>
+    <link>https://inajob.github.io/iroiro-review/tags/fusion360/</link>
     <description>Recent content in Fusion360 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Wed, 04 Sep 2019 23:00:24 +0000</lastBuildDate>
     
-	<atom:link href="https://inajob.github.io/inajob-review/tags/fusion360/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/fusion360/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fusion360で有機的な強い形状を生成する</title>
-      <link>https://inajob.github.io/inajob-review/post/fusion360%E3%81%A7%E6%9C%89%E6%A9%9F%E7%9A%84%E3%81%AA%E5%BC%B7%E3%81%84%E5%BD%A2%E7%8A%B6%E3%82%92%E7%94%9F%E6%88%90%E3%81%99%E3%82%8B/</link>
+      <link>https://inajob.github.io/iroiro-review/post/fusion360%E3%81%A7%E6%9C%89%E6%A9%9F%E7%9A%84%E3%81%AA%E5%BC%B7%E3%81%84%E5%BD%A2%E7%8A%B6%E3%82%92%E7%94%9F%E6%88%90%E3%81%99%E3%82%8B/</link>
       <pubDate>Wed, 04 Sep 2019 23:00:24 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/fusion360%E3%81%A7%E6%9C%89%E6%A9%9F%E7%9A%84%E3%81%AA%E5%BC%B7%E3%81%84%E5%BD%A2%E7%8A%B6%E3%82%92%E7%94%9F%E6%88%90%E3%81%99%E3%82%8B/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/fusion360%E3%81%A7%E6%9C%89%E6%A9%9F%E7%9A%84%E3%81%AA%E5%BC%B7%E3%81%84%E5%BD%A2%E7%8A%B6%E3%82%92%E7%94%9F%E6%88%90%E3%81%99%E3%82%8B/</guid>
       <description>COMPUTER OPTIMIZED 3D PRINTED BOOKSHELVES から発見。画像もここから転載。
 この写真の奇妙なデザインのブックシェルフ。これはFusion360の機能であるTopology Optimizationの機能によって作成されたものです。
 この機能は構造にかかる力を分析し、最適に力を分散する形状を計算する機能です。 計算によって求められる形状は従来の角ばった、直線が基本となるものではなく、写真のような有機的な形状になります。

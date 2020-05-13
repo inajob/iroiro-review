@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hack on inajobのいろいろレビュー</title>
-    <link>https://inajob.github.io/inajob-review/tags/hack/</link>
+    <link>https://inajob.github.io/iroiro-review/tags/hack/</link>
     <description>Recent content in Hack on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Wed, 25 Dec 2019 23:00:35 +0000</lastBuildDate>
     
-	<atom:link href="https://inajob.github.io/inajob-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>真鍮線を使って作る基板を使わない電子工作</title>
-      <link>https://inajob.github.io/inajob-review/post/%E7%9C%9F%E9%8D%AE%E7%B7%9A%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E4%BD%9C%E3%82%8B%E5%9F%BA%E6%9D%BF%E3%82%92%E4%BD%BF%E3%82%8F%E3%81%AA%E3%81%84%E9%9B%BB%E5%AD%90%E5%B7%A5%E4%BD%9C/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%9C%9F%E9%8D%AE%E7%B7%9A%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E4%BD%9C%E3%82%8B%E5%9F%BA%E6%9D%BF%E3%82%92%E4%BD%BF%E3%82%8F%E3%81%AA%E3%81%84%E9%9B%BB%E5%AD%90%E5%B7%A5%E4%BD%9C/</link>
       <pubDate>Wed, 25 Dec 2019 23:00:35 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E7%9C%9F%E9%8D%AE%E7%B7%9A%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E4%BD%9C%E3%82%8B%E5%9F%BA%E6%9D%BF%E3%82%92%E4%BD%BF%E3%82%8F%E3%81%AA%E3%81%84%E9%9B%BB%E5%AD%90%E5%B7%A5%E4%BD%9C/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%9C%9F%E9%8D%AE%E7%B7%9A%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E4%BD%9C%E3%82%8B%E5%9F%BA%E6%9D%BF%E3%82%92%E4%BD%BF%E3%82%8F%E3%81%AA%E3%81%84%E9%9B%BB%E5%AD%90%E5%B7%A5%E4%BD%9C/</guid>
       <description>Freeform ESP8266 OLED MQTT clientから発見。画像もここから転載。
 真鍮線を使って、基板を使わずに作られた電子工作作品です。 見た目にも美しく、しかもそれが実際の配線になっているという点で究極の「機能美」を実現しています。
 真鍮線を用いたガジェットの作成は独特のテクニックが必要となりますが、この記事ではそれを丁寧に紹介しています。
@@ -25,10 +25,10 @@ A Skeleton Arduino Unoの記事もよく似た方法でArduino Unoを作って�
     
     <item>
       <title>16×2のキャラクタディスプレイを電源も含めて2線で制御する裏技</title>
-      <link>https://inajob.github.io/inajob-review/post/162%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%82%92%E9%9B%BB%E6%BA%90%E3%82%82%E5%90%AB%E3%82%81%E3%81%A62%E7%B7%9A%E3%81%A7%E5%88%B6%E5%BE%A1%E3%81%99%E3%82%8B%E8%A3%8F%E6%8A%80/</link>
+      <link>https://inajob.github.io/iroiro-review/post/162%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%82%92%E9%9B%BB%E6%BA%90%E3%82%82%E5%90%AB%E3%82%81%E3%81%A62%E7%B7%9A%E3%81%A7%E5%88%B6%E5%BE%A1%E3%81%99%E3%82%8B%E8%A3%8F%E6%8A%80/</link>
       <pubDate>Mon, 09 Dec 2019 23:00:02 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/162%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%82%92%E9%9B%BB%E6%BA%90%E3%82%82%E5%90%AB%E3%82%81%E3%81%A62%E7%B7%9A%E3%81%A7%E5%88%B6%E5%BE%A1%E3%81%99%E3%82%8B%E8%A3%8F%E6%8A%80/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/162%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%82%92%E9%9B%BB%E6%BA%90%E3%82%82%E5%90%AB%E3%82%81%E3%81%A62%E7%B7%9A%E3%81%A7%E5%88%B6%E5%BE%A1%E3%81%99%E3%82%8B%E8%A3%8F%E6%8A%80/</guid>
       <description>16 x 2 LCD controlled via power lineから発見。画像もここから転載。
 電子工作でよく使われる、いわゆる1602キャラクタディスプレイですが、その制御には意外と多くのピンが必要です。そこでI2Cに変換するアダプタボードなどを使ったりするのが定番ですが、この記事では、Arduino Pro Miniを変換アダプタボードとして利用し、電源も合わせて2線で通信する方法を紹介しています。
 2線となると、つまり電源（VCCとGND）しかないということです。これでどうやって通信するかというと、VCCの電圧を変化させることにより通信を行っています。そんなことをすると、キャラクタディスプレイやArduinoの電源が瞬断してしまう、と思ったのですが、電源部分に100uFの電解コンデンサを入れることで、データ通信に伴う電力不足を補うように回路が組まれています。
@@ -38,10 +38,10 @@ A Skeleton Arduino Unoの記事もよく似た方法でArduino Unoを作って�
     
     <item>
       <title>格安3Dプリンタを改造してはんだ付けマシーンに改造する</title>
-      <link>https://inajob.github.io/inajob-review/post/%E6%A0%BC%E5%AE%893d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E3%83%9E%E3%82%B7%E3%83%BC%E3%83%B3%E3%81%AB%E6%94%B9%E9%80%A0%E3%81%99%E3%82%8B/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%A0%BC%E5%AE%893d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E3%83%9E%E3%82%B7%E3%83%BC%E3%83%B3%E3%81%AB%E6%94%B9%E9%80%A0%E3%81%99%E3%82%8B/</link>
       <pubDate>Sun, 08 Dec 2019 23:00:49 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E6%A0%BC%E5%AE%893d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E3%83%9E%E3%82%B7%E3%83%BC%E3%83%B3%E3%81%AB%E6%94%B9%E9%80%A0%E3%81%99%E3%82%8B/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%A0%BC%E5%AE%893d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E3%83%9E%E3%82%B7%E3%83%BC%E3%83%B3%E3%81%AB%E6%94%B9%E9%80%A0%E3%81%99%E3%82%8B/</guid>
       <description>This Modified 3D Printer Can Solder Through-Hole Components Quicklyから発見。画像もここから転載。
 3Dプリンタの価格はどんどん安くなってきています。この記事では、3Dプリンタを改造して、自動はんだ付けロボットを作成しています。
 フィラメントの代わりに半田を送り出す仕組みにすることで、3Dプリンタのファームウェアを変更することなく改造しています。
@@ -51,10 +51,10 @@ A Skeleton Arduino Unoの記事もよく似た方法でArduino Unoを作って�
     
     <item>
       <title>カラー液晶付きテスターを改造してテトリスを実行する</title>
-      <link>https://inajob.github.io/inajob-review/post/%E3%82%AB%E3%83%A9%E3%83%BC%E6%B6%B2%E6%99%B6%E4%BB%98%E3%81%8D%E3%83%86%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9%E3%82%92%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%A9%E3%83%BC%E6%B6%B2%E6%99%B6%E4%BB%98%E3%81%8D%E3%83%86%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9%E3%82%92%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B/</link>
       <pubDate>Thu, 05 Dec 2019 23:00:49 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E3%82%AB%E3%83%A9%E3%83%BC%E6%B6%B2%E6%99%B6%E4%BB%98%E3%81%8D%E3%83%86%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9%E3%82%92%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%A9%E3%83%BC%E6%B6%B2%E6%99%B6%E4%BB%98%E3%81%8D%E3%83%86%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9%E3%82%92%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B/</guid>
       <description>GM328A reverse engineering, new firmware and Tetris! から発見。画像もここから転載。
 中国通販サイトでよく見かける電子部品チェッカーですが、実はいくつか種類があります。よく見かけるのはモノクロ画面のものですが、中にはカラー液晶を備えているものもあります。
 コアとなっているCPUはArduinoと同じATmega328なので、比較的簡単に改造することができるようです。
@@ -65,10 +65,10 @@ A Skeleton Arduino Unoの記事もよく似た方法でArduino Unoを作って�
     
     <item>
       <title>ギターアンプ型パソコンの紹介</title>
-      <link>https://inajob.github.io/inajob-review/post/%E3%82%AE%E3%82%BF%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%97%E5%9E%8B%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%81%AE%E7%B4%B9%E4%BB%8B/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AE%E3%82%BF%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%97%E5%9E%8B%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%81%AE%E7%B4%B9%E4%BB%8B/</link>
       <pubDate>Wed, 04 Dec 2019 23:00:59 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E3%82%AE%E3%82%BF%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%97%E5%9E%8B%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%81%AE%E7%B4%B9%E4%BB%8B/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AE%E3%82%BF%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%97%E5%9E%8B%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%81%AE%E7%B4%B9%E4%BB%8B/</guid>
       <description>Marshall Computerから発見。画像もここから転載（CC BY-NC-SA by Celian_31）
 パソコンの形、というのは今や、大体同じになってきています。しかし、もっといろいろな形のパソコンがあってもよいはずです。
 この記事で紹介しているのは「ギターアンプ型」のパソコンです。使い古したギターアンプを分解し、中にパソコンのマザーボードや電源、ディスプレイを詰め込んでちゃんと使えるパソコンに仕上げています。
@@ -78,10 +78,10 @@ A Skeleton Arduino Unoの記事もよく似た方法でArduino Unoを作って�
     
     <item>
       <title>iPadとブレッドボードを組み合わせた電子工作開発ボード</title>
-      <link>https://inajob.github.io/inajob-review/post/ipad%E3%81%A8%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E9%9B%BB%E5%AD%90%E5%B7%A5%E4%BD%9C%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <link>https://inajob.github.io/iroiro-review/post/ipad%E3%81%A8%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E9%9B%BB%E5%AD%90%E5%B7%A5%E4%BD%9C%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
       <pubDate>Sun, 01 Dec 2019 23:00:53 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/ipad%E3%81%A8%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E9%9B%BB%E5%AD%90%E5%B7%A5%E4%BD%9C%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/ipad%E3%81%A8%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E9%9B%BB%E5%AD%90%E5%B7%A5%E4%BD%9C%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
       <description>Flowboard Provides a Novel, Visual Approach to Arduino Programming から発見。画像もここから転載。
 電子工作は慣れればそれほど難しくないですが、その導入においてはとっつきにくさを感じる人も多いのではないでしょうか？特に、ハードウェアもプログラミングも未経験な方はこの両方のハードルを越えるのが苦労するポイントとなっています。 この記事で紹介しているのは、電子工作の敷居を下げるためのソリューションです。
 両端にあるのは電子工作ではおなじみの「ブレッドボード」で、その中央に据えてあるのがiPadです。このiPad部分はビジュアルプログラミング環境となっており、視覚的に電子回路の制御ができる。というもののようです。
@@ -90,10 +90,10 @@ A Skeleton Arduino Unoの記事もよく似た方法でArduino Unoを作って�
     
     <item>
       <title>白線を引くように地面に絵を描くことができるロボット</title>
-      <link>https://inajob.github.io/inajob-review/post/%E7%99%BD%E7%B7%9A%E3%82%92%E5%BC%95%E3%81%8F%E3%82%88%E3%81%86%E3%81%AB%E5%9C%B0%E9%9D%A2%E3%81%AB%E7%B5%B5%E3%82%92%E6%8F%8F%E3%81%8F%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%99%BD%E7%B7%9A%E3%82%92%E5%BC%95%E3%81%8F%E3%82%88%E3%81%86%E3%81%AB%E5%9C%B0%E9%9D%A2%E3%81%AB%E7%B5%B5%E3%82%92%E6%8F%8F%E3%81%8F%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</link>
       <pubDate>Thu, 28 Nov 2019 23:00:03 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E7%99%BD%E7%B7%9A%E3%82%92%E5%BC%95%E3%81%8F%E3%82%88%E3%81%86%E3%81%AB%E5%9C%B0%E9%9D%A2%E3%81%AB%E7%B5%B5%E3%82%92%E6%8F%8F%E3%81%8F%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%99%BD%E7%B7%9A%E3%82%92%E5%BC%95%E3%81%8F%E3%82%88%E3%81%86%E3%81%AB%E5%9C%B0%E9%9D%A2%E3%81%AB%E7%B5%B5%E3%82%92%E6%8F%8F%E3%81%8F%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
       <description>Sustainabot Can Print Messages and Diagrams with Just About Any Material から発見。画像もここから転載。
 このロボットは白線を引くように何らかの「粉末」を使って平面に図を描くことができます。3Dプリンタで作られた筐体に安価な8bitCPUが搭載されたものです。
 スマートフォンからBluetoothで画像を転送することができます。
@@ -103,10 +103,10 @@ A Skeleton Arduino Unoの記事もよく似た方法でArduino Unoを作って�
     
     <item>
       <title>PCB上の磁石を円周状に移動させる技</title>
-      <link>https://inajob.github.io/inajob-review/post/pcb%E4%B8%8A%E3%81%AE%E7%A3%81%E7%9F%B3%E3%82%92%E5%86%86%E5%91%A8%E7%8A%B6%E3%81%AB%E7%A7%BB%E5%8B%95%E3%81%95%E3%81%9B%E3%82%8B%E6%8A%80/</link>
+      <link>https://inajob.github.io/iroiro-review/post/pcb%E4%B8%8A%E3%81%AE%E7%A3%81%E7%9F%B3%E3%82%92%E5%86%86%E5%91%A8%E7%8A%B6%E3%81%AB%E7%A7%BB%E5%8B%95%E3%81%95%E3%81%9B%E3%82%8B%E6%8A%80/</link>
       <pubDate>Tue, 26 Nov 2019 23:00:39 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/pcb%E4%B8%8A%E3%81%AE%E7%A3%81%E7%9F%B3%E3%82%92%E5%86%86%E5%91%A8%E7%8A%B6%E3%81%AB%E7%A7%BB%E5%8B%95%E3%81%95%E3%81%9B%E3%82%8B%E6%8A%80/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/pcb%E4%B8%8A%E3%81%AE%E7%A3%81%E7%9F%B3%E3%82%92%E5%86%86%E5%91%A8%E7%8A%B6%E3%81%AB%E7%A7%BB%E5%8B%95%E3%81%95%E3%81%9B%E3%82%8B%E6%8A%80/</guid>
       <description>Ant highway - Precise linear (circular) motorから発見。画像もここから転載。
 ジグザグの回路パターンのPCBにパルスを流して磁石を移動させるという技を使ってレースゲームのようなガジェットを実現しています。
 どのくらいの細かい精度で制御できるのかが気になるところです。
@@ -116,10 +116,10 @@ A Skeleton Arduino Unoの記事もよく似た方法でArduino Unoを作って�
     
     <item>
       <title>パンチテープを読み込めるBADGE</title>
-      <link>https://inajob.github.io/inajob-review/post/%E3%83%91%E3%83%B3%E3%83%81%E3%83%86%E3%83%BC%E3%83%97%E3%82%92%E8%AA%AD%E3%81%BF%E8%BE%BC%E3%82%81%E3%82%8Bbadge/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%91%E3%83%B3%E3%83%81%E3%83%86%E3%83%BC%E3%83%97%E3%82%92%E8%AA%AD%E3%81%BF%E8%BE%BC%E3%82%81%E3%82%8Bbadge/</link>
       <pubDate>Wed, 06 Nov 2019 23:00:24 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E3%83%91%E3%83%B3%E3%83%81%E3%83%86%E3%83%BC%E3%83%97%E3%82%92%E8%AA%AD%E3%81%BF%E8%BE%BC%E3%82%81%E3%82%8Bbadge/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%91%E3%83%B3%E3%83%81%E3%83%86%E3%83%BC%E3%83%97%E3%82%92%E8%AA%AD%E3%81%BF%E8%BE%BC%E3%82%81%E3%82%8Bbadge/</guid>
       <description>CYPHERCON BADGE HAS A PAPER TAPE READER BUILT INから発見。画像もここから転載。
 海外のカンファレンスでよく見かける”BADGE”ですが、今回紹介するのは、パンチテープを読み込めるBADGEです。
 基板を重ねてうまいことテープを通す空間を作っています。
@@ -129,10 +129,10 @@ A Skeleton Arduino Unoの記事もよく似た方法でArduino Unoを作って�
     
     <item>
       <title>OLEDを重ねて作る自作の立体ディスプレイ</title>
-      <link>https://inajob.github.io/inajob-review/post/oled%E3%82%92%E9%87%8D%E3%81%AD%E3%81%A6%E4%BD%9C%E3%82%8B%E8%87%AA%E4%BD%9C%E3%81%AE%E7%AB%8B%E4%BD%93%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</link>
+      <link>https://inajob.github.io/iroiro-review/post/oled%E3%82%92%E9%87%8D%E3%81%AD%E3%81%A6%E4%BD%9C%E3%82%8B%E8%87%AA%E4%BD%9C%E3%81%AE%E7%AB%8B%E4%BD%93%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</link>
       <pubDate>Wed, 30 Oct 2019 23:00:27 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/oled%E3%82%92%E9%87%8D%E3%81%AD%E3%81%A6%E4%BD%9C%E3%82%8B%E8%87%AA%E4%BD%9C%E3%81%AE%E7%AB%8B%E4%BD%93%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/oled%E3%82%92%E9%87%8D%E3%81%AD%E3%81%A6%E4%BD%9C%E3%82%8B%E8%87%AA%E4%BD%9C%E3%81%AE%E7%AB%8B%E4%BD%93%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</guid>
       <description>Enginursday: 3D Volumetric Display with Transparent OLEDから発見。画像もここから転載。
 3Dディスプレイというのは色々難しい技術で作るものだ、という先入観がありましたが、この作例を見てその考えが少し変わりました。
 背景が透明なOLEDを何枚も重ねることで3Dディスプレイを実現しています。
@@ -141,10 +141,10 @@ A Skeleton Arduino Unoの記事もよく似た方法でArduino Unoを作って�
     
     <item>
       <title>電磁誘導で物体を移動させる方法</title>
-      <link>https://inajob.github.io/inajob-review/post/%E9%9B%BB%E7%A3%81%E8%AA%98%E5%B0%8E%E3%81%A7%E7%89%A9%E4%BD%93%E3%82%92%E7%A7%BB%E5%8B%95%E3%81%95%E3%81%9B%E3%82%8B%E6%96%B9%E6%B3%95/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E7%A3%81%E8%AA%98%E5%B0%8E%E3%81%A7%E7%89%A9%E4%BD%93%E3%82%92%E7%A7%BB%E5%8B%95%E3%81%95%E3%81%9B%E3%82%8B%E6%96%B9%E6%B3%95/</link>
       <pubDate>Mon, 28 Oct 2019 23:00:48 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E9%9B%BB%E7%A3%81%E8%AA%98%E5%B0%8E%E3%81%A7%E7%89%A9%E4%BD%93%E3%82%92%E7%A7%BB%E5%8B%95%E3%81%95%E3%81%9B%E3%82%8B%E6%96%B9%E6%B3%95/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E7%A3%81%E8%AA%98%E5%B0%8E%E3%81%A7%E7%89%A9%E4%BD%93%E3%82%92%E7%A7%BB%E5%8B%95%E3%81%95%E3%81%9B%E3%82%8B%E6%96%B9%E6%B3%95/</guid>
       <description>FLEXIBLE 2D actuator, stepper motor compatibleから発見。画像もここから転載。
 とにかくこの動画を見てください。
  仕組みはわからないですが、今まで見たことのない動きで小さな磁石(?)を動かしています。

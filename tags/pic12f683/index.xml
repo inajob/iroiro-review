@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pic12f683 on inajobのいろいろレビュー</title>
-    <link>https://inajob.github.io/inajob-review/tags/pic12f683/</link>
+    <link>https://inajob.github.io/iroiro-review/tags/pic12f683/</link>
     <description>Recent content in Pic12f683 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Mon, 10 Jun 2019 23:00:38 +0000</lastBuildDate>
     
-	<atom:link href="https://inajob.github.io/inajob-review/tags/pic12f683/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/pic12f683/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>8×8のマトリクスLEDを使ったゲーム機</title>
-      <link>https://inajob.github.io/inajob-review/post/88%E3%81%AE%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <link>https://inajob.github.io/iroiro-review/post/88%E3%81%AE%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
       <pubDate>Mon, 10 Jun 2019 23:00:38 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/88%E3%81%AE%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/88%E3%81%AE%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
       <description>Retro Pocket Game Consoleから発見。画像もここから引用（CC BY-NC-SA By hobbyman）
 8x8のマトリクスLEDと2つのボタンを搭載したゲーム機。単4電池3本で動作する。 メインのマイコンはPIC12F683
 マトリクスLEDはMAX7219というICで制御されておりI2Cでメインのマイコンとつながっている。

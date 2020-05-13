@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cnc on inajobのいろいろレビュー</title>
-    <link>https://inajob.github.io/inajob-review/tags/cnc/</link>
+    <link>https://inajob.github.io/iroiro-review/tags/cnc/</link>
     <description>Recent content in Cnc on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Wed, 29 Apr 2020 23:00:39 +0000</lastBuildDate>
     
-	<atom:link href="https://inajob.github.io/inajob-review/tags/cnc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/cnc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>絵筆による自動描画装置</title>
-      <link>https://inajob.github.io/inajob-review/post/%E7%B5%B5%E7%AD%86%E3%81%AB%E3%82%88%E3%82%8B%E8%87%AA%E5%8B%95%E6%8F%8F%E7%94%BB%E8%A3%85%E7%BD%AE/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%B5%B5%E7%AD%86%E3%81%AB%E3%82%88%E3%82%8B%E8%87%AA%E5%8B%95%E6%8F%8F%E7%94%BB%E8%A3%85%E7%BD%AE/</link>
       <pubDate>Wed, 29 Apr 2020 23:00:39 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E7%B5%B5%E7%AD%86%E3%81%AB%E3%82%88%E3%82%8B%E8%87%AA%E5%8B%95%E6%8F%8F%E7%94%BB%E8%A3%85%E7%BD%AE/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%B5%B5%E7%AD%86%E3%81%AB%E3%82%88%E3%82%8B%E8%87%AA%E5%8B%95%E6%8F%8F%E7%94%BB%E8%A3%85%E7%BD%AE/</guid>
       <description>COLOR YOUR WORLD WITH THIS CNC PAINTING ROBOTから発見。画像もここから転載。
 絵筆を使った自動描画装置の作例です。 特にこの作例で面白いのは絵筆の掃除部分です。洗濯機のような装置に筆を突っ込んで洗浄したのちに、筆を拭いてから別の色を筆に塗り付けています。
 ペンを使ったCNCの作例は多く見かけるようになりましたが、筆を使ったCNCはまだまだ開発途上のようで、今後の発展が楽しみです。
@@ -25,10 +25,10 @@
     
     <item>
       <title>基板を切削するためのCNCマシン</title>
-      <link>https://inajob.github.io/inajob-review/post/%E5%9F%BA%E6%9D%BF%E3%82%92%E5%88%87%E5%89%8A%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AEcnc%E3%83%9E%E3%82%B7%E3%83%B3/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%9F%BA%E6%9D%BF%E3%82%92%E5%88%87%E5%89%8A%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AEcnc%E3%83%9E%E3%82%B7%E3%83%B3/</link>
       <pubDate>Fri, 24 Apr 2020 23:00:54 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E5%9F%BA%E6%9D%BF%E3%82%92%E5%88%87%E5%89%8A%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AEcnc%E3%83%9E%E3%82%B7%E3%83%B3/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%9F%BA%E6%9D%BF%E3%82%92%E5%88%87%E5%89%8A%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AEcnc%E3%83%9E%E3%82%B7%E3%83%B3/</guid>
       <description>Mill Single or Dual-Layer PCBs with Ant’s Desktop CNC Machineから発見。画像もここから転載。
 CNCマシンを使って基板を「掘る」というのは、よく見るテクニックですが、それに特化したCNCを作ろうというのがこのプロジェクトです。
 基板に特化することで、より精度よく、コンパクトに、安く実現することを目指しているようです。 成果はオープンソースで公開されているのでまねして作ってみるのも面白そうです。
@@ -37,10 +37,10 @@ CNCマシンを使って基板を「掘る」というのは、よく見るテ�
     
     <item>
       <title>チョコレートを射出して模様を描く装置</title>
-      <link>https://inajob.github.io/inajob-review/post/%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E3%82%92%E5%B0%84%E5%87%BA%E3%81%97%E3%81%A6%E6%A8%A1%E6%A7%98%E3%82%92%E6%8F%8F%E3%81%8F%E8%A3%85%E7%BD%AE/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E3%82%92%E5%B0%84%E5%87%BA%E3%81%97%E3%81%A6%E6%A8%A1%E6%A7%98%E3%82%92%E6%8F%8F%E3%81%8F%E8%A3%85%E7%BD%AE/</link>
       <pubDate>Tue, 18 Feb 2020 23:00:36 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E3%82%92%E5%B0%84%E5%87%BA%E3%81%97%E3%81%A6%E6%A8%A1%E6%A7%98%E3%82%92%E6%8F%8F%E3%81%8F%E8%A3%85%E7%BD%AE/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E3%82%92%E5%B0%84%E5%87%BA%E3%81%97%E3%81%A6%E6%A8%A1%E6%A7%98%E3%82%92%E6%8F%8F%E3%81%8F%E8%A3%85%E7%BD%AE/</guid>
       <description>SYRINGE PUMP TURNS CNC MACHINE INTO A FROSTING BOT から発見。画像もここから転載。
 3Dプリンタを活用して作成したオリジナルのCNCマシンです。チョコレートを絞り出すシリンダを装着することで、お菓子にお絵かきする装置を作成しています。
 これがあれば、よく誕生日ケーキなどで見かける名前入りのプレートなどをコンピュータ制御で作ることができそうです。
@@ -49,10 +49,10 @@ CNCマシンを使って基板を「掘る」というのは、よく見るテ�
     
     <item>
       <title>CNCで作った金型にグルーガンでグルーを注入してパーツを作る</title>
-      <link>https://inajob.github.io/inajob-review/post/cnc%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E9%87%91%E5%9E%8B%E3%81%AB%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%AC%E3%83%B3%E3%81%A7%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%92%E6%B3%A8%E5%85%A5%E3%81%97%E3%81%A6%E3%83%91%E3%83%BC%E3%83%84%E3%82%92%E4%BD%9C%E3%82%8B/</link>
+      <link>https://inajob.github.io/iroiro-review/post/cnc%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E9%87%91%E5%9E%8B%E3%81%AB%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%AC%E3%83%B3%E3%81%A7%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%92%E6%B3%A8%E5%85%A5%E3%81%97%E3%81%A6%E3%83%91%E3%83%BC%E3%83%84%E3%82%92%E4%BD%9C%E3%82%8B/</link>
       <pubDate>Sun, 02 Feb 2020 23:00:22 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/cnc%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E9%87%91%E5%9E%8B%E3%81%AB%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%AC%E3%83%B3%E3%81%A7%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%92%E6%B3%A8%E5%85%A5%E3%81%97%E3%81%A6%E3%83%91%E3%83%BC%E3%83%84%E3%82%92%E4%BD%9C%E3%82%8B/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/cnc%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E9%87%91%E5%9E%8B%E3%81%AB%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%AC%E3%83%B3%E3%81%A7%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%92%E6%B3%A8%E5%85%A5%E3%81%97%E3%81%A6%E3%83%91%E3%83%BC%E3%83%84%E3%82%92%E4%BD%9C%E3%82%8B/</guid>
       <description>INJECTION MOLDING WITH A HOT GLUE GUNから発見。画像もここから転載。
 プラスチック部品を作るのに3Dプリンタは便利ですが、やはり金型を使ったキャスティングのほうが良いことも多いです。 難点として金型を作るのが大変というのがありますが、この動画ではCNCを使って金型を作り、グルーガンのグルーを詰めてプラスチックの部品を作っています。
 この手法を使うと、大きなケースなどを作ることは難しそうですが、小さいサイズのものであれば手軽に量産することができそうです。
@@ -61,10 +61,10 @@ CNCマシンを使って基板を「掘る」というのは、よく見るテ�
     
     <item>
       <title>DVDドライブと3Dプリンタで作るレーザー彫刻機</title>
-      <link>https://inajob.github.io/inajob-review/post/dvd%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E5%BD%AB%E5%88%BB%E6%A9%9F/</link>
+      <link>https://inajob.github.io/iroiro-review/post/dvd%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E5%BD%AB%E5%88%BB%E6%A9%9F/</link>
       <pubDate>Sun, 31 Mar 2019 11:43:07 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/dvd%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E5%BD%AB%E5%88%BB%E6%A9%9F/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/dvd%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E5%BD%AB%E5%88%BB%E6%A9%9F/</guid>
       <description>DIY Mini CNC Laser Engraver.から発見。画像もここから転載（CC BY-NC-SA By Maggie Shah）</description>
     </item>
     

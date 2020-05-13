@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>レーザーカッター on inajobのいろいろレビュー</title>
-    <link>https://inajob.github.io/inajob-review/tags/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC/</link>
+    <link>https://inajob.github.io/iroiro-review/tags/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC/</link>
     <description>Recent content in レーザーカッター on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Sun, 01 Mar 2020 23:00:12 +0000</lastBuildDate>
     
-	<atom:link href="https://inajob.github.io/inajob-review/tags/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>3Dプリンタとレーザーカッターで作るPCケース</title>
-      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A8%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A7%E4%BD%9C%E3%82%8Bpc%E3%82%B1%E3%83%BC%E3%82%B9/</link>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A8%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A7%E4%BD%9C%E3%82%8Bpc%E3%82%B1%E3%83%BC%E3%82%B9/</link>
       <pubDate>Sun, 01 Mar 2020 23:00:12 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A8%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A7%E4%BD%9C%E3%82%8Bpc%E3%82%B1%E3%83%BC%E3%82%B9/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A8%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A7%E4%BD%9C%E3%82%8Bpc%E3%82%B1%E3%83%BC%E3%82%B9/</guid>
       <description>Mikros: Tiny 3D Printed Computer Caseから発見。画像もここから転載（CC BY-NC-SA By r0bbee）
 マザーボードはどんどん小さくなっており、MiniITXやMicroITXのものであれば、ぎりぎり標準的な3Dプリンタでケースが作れそうです。
 この記事では3Dプリンタとレーザーカッターを使って、PCケースを自作しています。 3Dプリンタで作れるとなると、いろいろと攻めた形のケースが作れそうだなと思いました。</description>
@@ -24,10 +24,10 @@
     
     <item>
       <title>コンピュータ制御の機織り機</title>
-      <link>https://inajob.github.io/inajob-review/post/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E5%88%B6%E5%BE%A1%E3%81%AE%E6%A9%9F%E7%B9%94%E3%82%8A%E6%A9%9F/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E5%88%B6%E5%BE%A1%E3%81%AE%E6%A9%9F%E7%B9%94%E3%82%8A%E6%A9%9F/</link>
       <pubDate>Wed, 12 Feb 2020 23:00:27 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E5%88%B6%E5%BE%A1%E3%81%AE%E6%A9%9F%E7%B9%94%E3%82%8A%E6%A9%9F/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E5%88%B6%E5%BE%A1%E3%81%AE%E6%A9%9F%E7%B9%94%E3%82%8A%E6%A9%9F/</guid>
       <description>OPEN SOURCE COMPUTER CONTROLLED LOOM WEAVES PIKACHU FOR YOUから発見。画像もここから転載。
 「機織り機」を3DプリンタやレーザーカッターでDIYした例を紹介します。 昔からある「機織り機」ですが、この作例では、任意の図案を織り込めるようにコンピュータ制御を取り入れているようです。
 機織りの基本となる縦の糸のパターンをコンピュータで制御することで、人間は何も考えず横糸を通せば絵柄の入った織物が作れるよいうようなもののようです。
@@ -37,10 +37,10 @@
     
     <item>
       <title>自作のピンボールマシン</title>
-      <link>https://inajob.github.io/inajob-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E3%83%94%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%9E%E3%82%B7%E3%83%B3/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E3%83%94%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%9E%E3%82%B7%E3%83%B3/</link>
       <pubDate>Mon, 13 Jan 2020 23:00:56 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E3%83%94%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%9E%E3%82%B7%E3%83%B3/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E3%83%94%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%9E%E3%82%B7%E3%83%B3/</guid>
       <description>Tabletop Pinball Machine Using Evive- Arduino Based Embedded Plaformから発見。画像もここから転載（CC BY-NC-SA By theSTEMpedia）
 ピンボールマシンは、とても面白いゲームです。 この記事ではレーザーカッターや3Dプリンタを使ってシンプルですが楽しそうなピンボールを作成しています。
 制御はSTEM用の環境であるeviveを使っているようです。
@@ -49,10 +49,10 @@
     
     <item>
       <title>ノートパソコンをいい感じに設置する台</title>
-      <link>https://inajob.github.io/inajob-review/post/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%82%92%E3%81%84%E3%81%84%E6%84%9F%E3%81%98%E3%81%AB%E8%A8%AD%E7%BD%AE%E3%81%99%E3%82%8B%E5%8F%B0/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%82%92%E3%81%84%E3%81%84%E6%84%9F%E3%81%98%E3%81%AB%E8%A8%AD%E7%BD%AE%E3%81%99%E3%82%8B%E5%8F%B0/</link>
       <pubDate>Thu, 31 Oct 2019 23:00:57 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%82%92%E3%81%84%E3%81%84%E6%84%9F%E3%81%98%E3%81%AB%E8%A8%AD%E7%BD%AE%E3%81%99%E3%82%8B%E5%8F%B0/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%82%92%E3%81%84%E3%81%84%E6%84%9F%E3%81%98%E3%81%AB%E8%A8%AD%E7%BD%AE%E3%81%99%E3%82%8B%E5%8F%B0/</guid>
       <description>3-in-1 Desktop Organizerから発見。画像もここから転載（CC BY-NC-SA By harryMake）から紹介。
 最近はノートパソコンの性能が十分に高いため、据え置きノートパソコンのような使い方をしている方も多いのではないでしょうか？また、そういう使い方をする際は、ノートパソコンにお気に入りのキーボードを取り付けることも多いでしょう。
 そんな方にお勧めの「台」がこちらです。
@@ -62,10 +62,10 @@
     
     <item>
       <title>ほぼすべてをレーザーカッターで作成した3Dプリンタ</title>
-      <link>https://inajob.github.io/inajob-review/post/%E3%81%BB%E3%81%BC%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%97%E3%81%9F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%BB%E3%81%BC%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%97%E3%81%9F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
       <pubDate>Mon, 22 Jul 2019 23:00:48 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E3%81%BB%E3%81%BC%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%97%E3%81%9F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%BB%E3%81%BC%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%97%E3%81%9F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
       <description>LP3D: A fully lasercut kit 3D printerから発見。画像もここから転載。
 LP3Dはほぼすべての部品をレーザーカッターで作成した3Dプリンタ。記事に細かいことが書かれていませんが、写真を見る限り、本当にほとんどの部品をレーザーカットで作っているようです。
 直動機構はレーザーカットで作ったラックとピニオンを使っており、ステッピングモーターで動かしている。精度の問題でまだまだ苦労しているようですが、これが実現すれば今よりも低コストの3Dプリンタが実現できそうです。
@@ -74,10 +74,10 @@ LP3Dはほぼすべての部品をレーザーカッターで作成した3Dプ�
     
     <item>
       <title>チーズバーガー型の自作ゲーム機</title>
-      <link>https://inajob.github.io/inajob-review/post/%E3%83%81%E3%83%BC%E3%82%BA%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC%E5%9E%8B%E3%81%AE%E8%87%AA%E4%BD%9C%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%81%E3%83%BC%E3%82%BA%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC%E5%9E%8B%E3%81%AE%E8%87%AA%E4%BD%9C%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
       <pubDate>Tue, 02 Jul 2019 23:00:21 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E3%83%81%E3%83%BC%E3%82%BA%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC%E5%9E%8B%E3%81%AE%E8%87%AA%E4%BD%9C%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%81%E3%83%BC%E3%82%BA%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC%E5%9E%8B%E3%81%AE%E8%87%AA%E4%BD%9C%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
       <description>Retro Gaming… On a Cheeseburger? から発見。画像もここから転載。
 Raspberry Pi Zeroを使ったゲーム機。特筆すべきはこのゲーム機の形状です。
 このチーズバーガーを模した筐体は、レーザーカッターで切断したMDFを積層して作られています。 積層したMDFの側面をやすりがけして丸みのある形に加工しています。

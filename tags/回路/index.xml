@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>回路 on inajobのいろいろレビュー</title>
-    <link>https://inajob.github.io/inajob-review/tags/%E5%9B%9E%E8%B7%AF/</link>
+    <link>https://inajob.github.io/iroiro-review/tags/%E5%9B%9E%E8%B7%AF/</link>
     <description>Recent content in 回路 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Tue, 08 Oct 2019 23:00:41 +0000</lastBuildDate>
     
-	<atom:link href="https://inajob.github.io/inajob-review/tags/%E5%9B%9E%E8%B7%AF/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E5%9B%9E%E8%B7%AF/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>3ポートでLED4つスイッチ4つを扱う回路 &#34;Tucoplexing&#34; の紹介</title>
-      <link>https://inajob.github.io/inajob-review/post/3%E3%83%9D%E3%83%BC%E3%83%88%E3%81%A7led4%E3%81%A4%E3%82%B9%E3%82%A4%E3%83%83%E3%83%814%E3%81%A4%E3%82%92%E6%89%B1%E3%81%86%E5%9B%9E%E8%B7%AF-tucoplexing-%E3%81%AE%E7%B4%B9%E4%BB%8B/</link>
+      <link>https://inajob.github.io/iroiro-review/post/3%E3%83%9D%E3%83%BC%E3%83%88%E3%81%A7led4%E3%81%A4%E3%82%B9%E3%82%A4%E3%83%83%E3%83%814%E3%81%A4%E3%82%92%E6%89%B1%E3%81%86%E5%9B%9E%E8%B7%AF-tucoplexing-%E3%81%AE%E7%B4%B9%E4%BB%8B/</link>
       <pubDate>Tue, 08 Oct 2019 23:00:41 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/3%E3%83%9D%E3%83%BC%E3%83%88%E3%81%A7led4%E3%81%A4%E3%82%B9%E3%82%A4%E3%83%83%E3%83%814%E3%81%A4%E3%82%92%E6%89%B1%E3%81%86%E5%9B%9E%E8%B7%AF-tucoplexing-%E3%81%AE%E7%B4%B9%E4%BB%8B/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/3%E3%83%9D%E3%83%BC%E3%83%88%E3%81%A7led4%E3%81%A4%E3%82%B9%E3%82%A4%E3%83%83%E3%83%814%E3%81%A4%E3%82%92%E6%89%B1%E3%81%86%E5%9B%9E%E8%B7%AF-tucoplexing-%E3%81%AE%E7%B4%B9%E4%BB%8B/</guid>
       <description>TUCOPLEXING: A NEW CHARLIPLEX FOR BUTTONS AND SWITCHES から発見。画像もここから転載。
 少ないGPIOで多くの入出力を扱うというのはMakerの性です。有名なものとしてCharlieplexingがあります。
 この記事で紹介している”Tucoplexing”は3つのGPIOで4つのLEDと4つのスイッチの入力を制御しています。

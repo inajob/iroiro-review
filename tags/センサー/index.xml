@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>センサー on inajobのいろいろレビュー</title>
-    <link>https://inajob.github.io/inajob-review/tags/%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/</link>
+    <link>https://inajob.github.io/iroiro-review/tags/%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/</link>
     <description>Recent content in センサー on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Sun, 29 Sep 2019 23:00:43 +0000</lastBuildDate>
     
-	<atom:link href="https://inajob.github.io/inajob-review/tags/%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>細かなセンシングができるタッチセンサー</title>
-      <link>https://inajob.github.io/inajob-review/post/%E7%B4%B0%E3%81%8B%E3%81%AA%E3%82%BB%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%BF%E3%83%83%E3%83%81%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%B4%B0%E3%81%8B%E3%81%AA%E3%82%BB%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%BF%E3%83%83%E3%83%81%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/</link>
       <pubDate>Sun, 29 Sep 2019 23:00:43 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E7%B4%B0%E3%81%8B%E3%81%AA%E3%82%BB%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%BF%E3%83%83%E3%83%81%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%B4%B0%E3%81%8B%E3%81%AA%E3%82%BB%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%BF%E3%83%83%E3%83%81%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/</guid>
       <description>TRILL: Touch Sensing for Makersから転載。画像もここから転載。
 静電容量タッチをうまい具合に扱うことができるセンサーのプロジェクトです。 様々な形や大きさのセンサーが用意されており、またそれらを組み合わせたり、はさみで切って（！！）形状を変形させることもできるようです。
 それとは別にタッチセンサーのコントロールボードであるTOUCH CRAFTという製品も合わせて用意されており、これを使うと、任意の基板上のパターンや、アルミホイルなどで作ったオリジナルのタッチデバイスを制御することもできるようです。

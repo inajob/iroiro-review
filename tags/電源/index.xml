@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>電源 on inajobのいろいろレビュー</title>
-    <link>https://inajob.github.io/inajob-review/tags/%E9%9B%BB%E6%BA%90/</link>
+    <link>https://inajob.github.io/iroiro-review/tags/%E9%9B%BB%E6%BA%90/</link>
     <description>Recent content in 電源 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Wed, 18 Sep 2019 23:00:18 +0000</lastBuildDate>
     
-	<atom:link href="https://inajob.github.io/inajob-review/tags/%E9%9B%BB%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%9B%BB%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ソーラーパワーでスーパーキャパシタに充電する</title>
-      <link>https://inajob.github.io/inajob-review/post/%E3%82%BD%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%91%E3%83%AF%E3%83%BC%E3%81%A7%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%91%E3%82%B7%E3%82%BF%E3%81%AB%E5%85%85%E9%9B%BB%E3%81%99%E3%82%8B/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%BD%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%91%E3%83%AF%E3%83%BC%E3%81%A7%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%91%E3%82%B7%E3%82%BF%E3%81%AB%E5%85%85%E9%9B%BB%E3%81%99%E3%82%8B/</link>
       <pubDate>Wed, 18 Sep 2019 23:00:18 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E3%82%BD%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%91%E3%83%AF%E3%83%BC%E3%81%A7%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%91%E3%82%B7%E3%82%BF%E3%81%AB%E5%85%85%E9%9B%BB%E3%81%99%E3%82%8B/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%BD%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%91%E3%83%AF%E3%83%BC%E3%81%A7%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%91%E3%82%B7%E3%82%BF%E3%81%AB%E5%85%85%E9%9B%BB%E3%81%99%E3%82%8B/</guid>
       <description>Solar harvesting into supercapacitorsから発見。画像もここから転載。
 ソーラーパワーで駆動させるガジェットを作るには、複雑な電源回路を設計する必要があります。この記事で紹介しているボードは、ソーラーパワーでスーパーキャパシタに充電するという機能だけを持っています。
 このボードを使うことで、比較的簡単に自分のプロダクトをそーらパワー対応できそうです。(もちろん消費電力を低く保つ必要はあります)

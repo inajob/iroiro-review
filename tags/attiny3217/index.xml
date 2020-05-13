@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Attiny3217 on inajobのいろいろレビュー</title>
-    <link>https://inajob.github.io/inajob-review/tags/attiny3217/</link>
+    <link>https://inajob.github.io/iroiro-review/tags/attiny3217/</link>
     <description>Recent content in Attiny3217 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Sun, 19 Apr 2020 23:00:55 +0000</lastBuildDate>
     
-	<atom:link href="https://inajob.github.io/inajob-review/tags/attiny3217/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/attiny3217/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Attiny3217の開発ボード</title>
-      <link>https://inajob.github.io/inajob-review/post/attiny3217%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <link>https://inajob.github.io/iroiro-review/post/attiny3217%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
       <pubDate>Sun, 19 Apr 2020 23:00:55 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/attiny3217%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/attiny3217%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
       <description>Tiny Core 32 Dev Board - Attiny3217から発見。画像もここから転載。
 ATtiny3217の開発ボードです。32K Flash, 2K SRAM, 256 bytes EEPROM といった性能です。なんとなくATmega328に近そうなスペックです。
 ATtiny3217の価格などはよくわかっていないのですが、安くで入手できるならArduinoの代替としても使いやすそうだなと思いました。</description>

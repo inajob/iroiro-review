@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Atmega328 on inajobのいろいろレビュー</title>
-    <link>https://inajob.github.io/inajob-review/tags/atmega328/</link>
+    <link>https://inajob.github.io/iroiro-review/tags/atmega328/</link>
     <description>Recent content in Atmega328 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Sun, 15 Dec 2019 23:00:35 +0000</lastBuildDate>
     
-	<atom:link href="https://inajob.github.io/inajob-review/tags/atmega328/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/atmega328/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>シンプルなAtmega328書き込み器</title>
-      <link>https://inajob.github.io/inajob-review/post/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AAatmega328%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF%E5%99%A8/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AAatmega328%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF%E5%99%A8/</link>
       <pubDate>Sun, 15 Dec 2019 23:00:35 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AAatmega328%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF%E5%99%A8/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AAatmega328%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF%E5%99%A8/</guid>
       <description>Tiny Stand Alone Atmega328 Bootloader Burner から発見。画像もここから転載。
 表面実装パッケージのATmega328に書き込む装置の紹介です。 通常この手の書き込み器にはごついSMDパッケージ用のマウンタを使いますが、この記事で紹介しているのは、もっと単純にフットプリントを用意して、単にそこにCPUを載せるだけのものです。
 位置がずれないように基板を複数枚重ねて、凹んだところにCPUを置くようになっています。シンプルだけどそこそこ確実でよい方法だと感じました。
@@ -25,10 +25,10 @@
     
     <item>
       <title>Atmega328PB用Arduino Nanoサイズ開発ボード</title>
-      <link>https://inajob.github.io/inajob-review/post/atmega328pb%E7%94%A8arduino-nano%E3%82%B5%E3%82%A4%E3%82%BA%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <link>https://inajob.github.io/iroiro-review/post/atmega328pb%E7%94%A8arduino-nano%E3%82%B5%E3%82%A4%E3%82%BA%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
       <pubDate>Thu, 12 Dec 2019 23:00:30 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/atmega328pb%E7%94%A8arduino-nano%E3%82%B5%E3%82%A4%E3%82%BA%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/atmega328pb%E7%94%A8arduino-nano%E3%82%B5%E3%82%A4%E3%82%BA%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
       <description>NanoPBから発見。画像もここから転載。
 ATmega328にはいくつか種類があります、今回紹介するボードに搭載されているのはATmega328PBです。 またUSB-SerialのチップとしてCP2102を使っているのもこのボードの特徴です。
 ATmega328PBはほかのものと違い2つのGPIOが増えています。（今までのATmega328ではVCCとGNDだったピンがGPIOとなっています。）そのためこのボードではそれを活用できるように工夫が施されています。
@@ -37,10 +37,10 @@ ATmega328PBはほかのものと違い2つのGPIOが増えています。（今�
     
     <item>
       <title>10×20のLEDディスプレイを搭載したゲームコンソール</title>
-      <link>https://inajob.github.io/inajob-review/post/1020%E3%81%AEled%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</link>
+      <link>https://inajob.github.io/iroiro-review/post/1020%E3%81%AEled%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</link>
       <pubDate>Mon, 24 Jun 2019 23:00:42 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/1020%E3%81%AEled%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/1020%E3%81%AEled%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</guid>
       <description>Spork Consoleから発見。画像もここから転載。
 10×20のLED画面を搭載したゲーム機です。コントローラは別基板になっており、ケーブルで接続する方式のようです。CPUはATmega328。 200個ものLEDとその制御のための大量の周辺ICをはんだ付けするのは大変そうですが・・
 レトロな雰囲気が素敵なプロダクトで今後が楽しみです。</description>
@@ -48,10 +48,10 @@ ATmega328PBはほかのものと違い2つのGPIOが増えています。（今�
     
     <item>
       <title>「コインの代わりにコイン電池」8×8のドットマトリクスLEDを使ったかわいいゲーム機</title>
-      <link>https://inajob.github.io/inajob-review/post/%E3%82%B3%E3%82%A4%E3%83%B3%E3%81%AE%E4%BB%A3%E3%82%8F%E3%82%8A%E3%81%AB%E3%82%B3%E3%82%A4%E3%83%B3%E9%9B%BB%E6%B1%A088%E3%81%AE%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%82%A4%E3%83%B3%E3%81%AE%E4%BB%A3%E3%82%8F%E3%82%8A%E3%81%AB%E3%82%B3%E3%82%A4%E3%83%B3%E9%9B%BB%E6%B1%A088%E3%81%AE%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
       <pubDate>Thu, 23 May 2019 23:00:53 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E3%82%B3%E3%82%A4%E3%83%B3%E3%81%AE%E4%BB%A3%E3%82%8F%E3%82%8A%E3%81%AB%E3%82%B3%E3%82%A4%E3%83%B3%E9%9B%BB%E6%B1%A088%E3%81%AE%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%82%A4%E3%83%B3%E3%81%AE%E4%BB%A3%E3%82%8F%E3%82%8A%E3%81%AB%E3%82%B3%E3%82%A4%E3%83%B3%E9%9B%BB%E6%B1%A088%E3%81%AE%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
       <description>LedCade - µ arcade game cabinet - 8x8 LED matrixから発見。画像もここから転載。
 写真を見るだけでついほしくなってしまう、かわいいくかっこいい携帯ゲーム端末です。組み立て式を想定しているらしく、1枚のPCB基板を組み合わせてこの写真のようなアーケード風の筐体を実現しています。 CPUはArduinoと同じATmega328です。
 また、おなじみ「Insert Coin」の表示に合わせて「コイン型電池」を入れる、というのも洒落がきいています。
@@ -61,10 +61,10 @@ ATmega328PBはほかのものと違い2つのGPIOが増えています。（今�
     
     <item>
       <title>コンパクトなサイズのATmega328ボード「Pico328」</title>
-      <link>https://inajob.github.io/inajob-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AEatmega328%E3%83%9C%E3%83%BC%E3%83%89pico328/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AEatmega328%E3%83%9C%E3%83%BC%E3%83%89pico328/</link>
       <pubDate>Mon, 13 May 2019 23:00:17 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AEatmega328%E3%83%9C%E3%83%BC%E3%83%89pico328/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AEatmega328%E3%83%9C%E3%83%BC%E3%83%89pico328/</guid>
       <description>Pico328, a tiny expandable Atmega328 boardにて発見。画像もここから。
 Arduinoと同じAtmega328を非常に小さくまとめているボードです。 単に小さいというだけではなく、このフットプリントにぴったり合うOLEDやRTC、フルカラーLEDなども提供しているのがポイントが高いです。
 上記URLで販売もしているようなので、小型のプロトタイピングボードが欲しい人は購入してみてはどうでしょう？</description>
@@ -72,10 +72,10 @@ Arduinoと同じAtmega328を非常に小さくまとめているボードです�
     
     <item>
       <title>CPUをカートリッジで取り換えられるポータブルゲーム機</title>
-      <link>https://inajob.github.io/inajob-review/post/cpu%E3%82%92%E3%82%AB%E3%83%BC%E3%83%88%E3%83%AA%E3%83%83%E3%82%B8%E3%81%A7%E5%8F%96%E3%82%8A%E6%8F%9B%E3%81%88%E3%82%89%E3%82%8C%E3%82%8B%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <link>https://inajob.github.io/iroiro-review/post/cpu%E3%82%92%E3%82%AB%E3%83%BC%E3%83%88%E3%83%AA%E3%83%83%E3%82%B8%E3%81%A7%E5%8F%96%E3%82%8A%E6%8F%9B%E3%81%88%E3%82%89%E3%82%8C%E3%82%8B%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
       <pubDate>Sun, 21 Apr 2019 23:00:47 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/cpu%E3%82%92%E3%82%AB%E3%83%BC%E3%83%88%E3%83%AA%E3%83%83%E3%82%B8%E3%81%A7%E5%8F%96%E3%82%8A%E6%8F%9B%E3%81%88%E3%82%89%E3%82%8C%E3%82%8B%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/cpu%E3%82%92%E3%82%AB%E3%83%BC%E3%83%88%E3%83%AA%E3%83%83%E3%82%B8%E3%81%A7%E5%8F%96%E3%82%8A%E6%8F%9B%E3%81%88%E3%82%89%E3%82%8C%E3%82%8B%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
       <description>Multi game console - Attiny85, Atmega328 and moreから発見。画像もここから転載。
 このゲーム機はSDカードのスロットを備えており、ここにSDカード型の基板で作った「カセット」を入れることでゲームを切り替えます。
 特徴的なのはこのカセットの側に「CPU」がついているということです。
@@ -85,10 +85,10 @@ ArduboyやGamebuinoといったゲーム機は本体に搭載されたCPUのFlas
     
     <item>
       <title>いい感じのLED照明キット</title>
-      <link>https://inajob.github.io/inajob-review/post/%E3%81%84%E3%81%84%E6%84%9F%E3%81%98%E3%81%AEled%E7%85%A7%E6%98%8E%E3%82%AD%E3%83%83%E3%83%88/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%84%E3%81%84%E6%84%9F%E3%81%98%E3%81%AEled%E7%85%A7%E6%98%8E%E3%82%AD%E3%83%83%E3%83%88/</link>
       <pubDate>Sat, 30 Mar 2019 23:00:10 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E3%81%84%E3%81%84%E6%84%9F%E3%81%98%E3%81%AEled%E7%85%A7%E6%98%8E%E3%82%AD%E3%83%83%E3%83%88/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%84%E3%81%84%E6%84%9F%E3%81%98%E3%81%AEled%E7%85%A7%E6%98%8E%E3%82%AD%E3%83%83%E3%83%88/</guid>
       <description>MagicCube - Tap to Change Color にて発見。画像もこちらから転載（By Rudeldi CC BY-NC-SA）
 MagicCube - tap to change colorから購入もできる。
 透明フィラメントを使って、いい感じの雰囲気を演出している。 CPUはArduinoとおなじATmega328P、加速度センサー、充電回路などを搭載している。
@@ -97,10 +97,10 @@ MagicCube - tap to change colorから購入もできる。
     
     <item>
       <title>やたらとかわいいDIYゲーム機「PIXA」</title>
-      <link>https://inajob.github.io/inajob-review/post/%E3%82%84%E3%81%9F%E3%82%89%E3%81%A8%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84diy%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9Fpixa/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%84%E3%81%9F%E3%82%89%E3%81%A8%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84diy%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9Fpixa/</link>
       <pubDate>Sat, 16 Feb 2019 03:37:13 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E3%82%84%E3%81%9F%E3%82%89%E3%81%A8%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84diy%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9Fpixa/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%84%E3%81%9F%E3%82%89%E3%81%A8%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84diy%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9Fpixa/</guid>
       <description>PYXA | DIY Game Consoleから発見。写真もここから転載。
 カラー液晶を搭載したゲーム機。 128x160のフルカラー液晶。SDカード、バッテリーなどを搭載している。
 CPUはATmega328Pと書かれているが、経験上CPU性能が心配。画面制御用に何か別のチップが搭載されるのだろうか？

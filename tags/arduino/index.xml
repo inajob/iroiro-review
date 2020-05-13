@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arduino on inajobのいろいろレビュー</title>
-    <link>https://inajob.github.io/inajob-review/tags/arduino/</link>
+    <link>https://inajob.github.io/iroiro-review/tags/arduino/</link>
     <description>Recent content in Arduino on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Wed, 15 Apr 2020 23:00:36 +0000</lastBuildDate>
     
-	<atom:link href="https://inajob.github.io/inajob-review/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ArduinoからHDMI出力するためのボード</title>
-      <link>https://inajob.github.io/inajob-review/post/arduino%E3%81%8B%E3%82%89hdmi%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <link>https://inajob.github.io/iroiro-review/post/arduino%E3%81%8B%E3%82%89hdmi%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%9C%E3%83%BC%E3%83%89/</link>
       <pubDate>Wed, 15 Apr 2020 23:00:36 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/arduino%E3%81%8B%E3%82%89hdmi%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/arduino%E3%81%8B%E3%82%89hdmi%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%9C%E3%83%BC%E3%83%89/</guid>
       <description>HDMI FROM YOUR ARDUINOから発見。画像もここから転載。
 Arduinoからディスプレイに映像を映すには様々なテクニックが必要です。特に最近のディスプレイはHDMIコネクタが標準となっており、こうなればArduinoからは映像を出すことは難しいです。
 そこで登場するのが、このHDMIを出力するShieldです。
@@ -27,10 +27,10 @@ Arduinoからディスプレイに映像を映すには様々なテクニック�
     
     <item>
       <title>AY-3-8910とArduinoを組み合わせたチップチューンプレイヤー</title>
-      <link>https://inajob.github.io/inajob-review/post/ay-3-8910%E3%81%A8arduino%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E3%83%81%E3%83%83%E3%83%97%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC/</link>
+      <link>https://inajob.github.io/iroiro-review/post/ay-3-8910%E3%81%A8arduino%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E3%83%81%E3%83%83%E3%83%97%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC/</link>
       <pubDate>Mon, 13 Apr 2020 23:00:53 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/ay-3-8910%E3%81%A8arduino%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E3%83%81%E3%83%83%E3%83%97%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/ay-3-8910%E3%81%A8arduino%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E3%83%81%E3%83%83%E3%83%97%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC/</guid>
       <description>Arduino MIDI Chiptune Synthesizerから発見。画像もここから転載(CC BY-SA By TheSpodShed)
 ArduinoとPSG音源ICであるAY-3-8910をくっつけたチップチューン用のボードの作例を紹介します。 Arduino Microのボードを使って、USB MIDIでPCからのデータを受信し、音楽を再生しています。
 思った以上に少ない部品でチップチューンのICを鳴らすことができるのだなと感じました。
@@ -39,10 +39,10 @@ ArduinoとPSG音源ICであるAY-3-8910をくっつけたチップチューン�
     
     <item>
       <title>Arduinoから使いやすいEEPROMボード</title>
-      <link>https://inajob.github.io/inajob-review/post/arduino%E3%81%8B%E3%82%89%E4%BD%BF%E3%81%84%E3%82%84%E3%81%99%E3%81%84eeprom%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <link>https://inajob.github.io/iroiro-review/post/arduino%E3%81%8B%E3%82%89%E4%BD%BF%E3%81%84%E3%82%84%E3%81%99%E3%81%84eeprom%E3%83%9C%E3%83%BC%E3%83%89/</link>
       <pubDate>Thu, 09 Apr 2020 23:00:05 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/arduino%E3%81%8B%E3%82%89%E4%BD%BF%E3%81%84%E3%82%84%E3%81%99%E3%81%84eeprom%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/arduino%E3%81%8B%E3%82%89%E4%BD%BF%E3%81%84%E3%82%84%E3%81%99%E3%81%84eeprom%E3%83%9C%E3%83%BC%E3%83%89/</guid>
       <description>Simple DataFlash Boardから発見。画像もここから転載
 Arduinoに簡単に接続できるEEPROMのモジュールです。ArduinoにもEEPROMは搭載されていますが、さらにたくさんの容量が必要な時にはこのようなボードが便利そうです。
 データはOSHParkで公開されているので、簡単にボードを注文することができそうです。</description>
@@ -50,10 +50,10 @@ Arduinoに簡単に接続できるEEPROMのモジュールです。Arduinoにも
     
     <item>
       <title>3キーとロータリーエンコーダ付きの名刺サイズキーボード</title>
-      <link>https://inajob.github.io/inajob-review/post/3%E3%82%AD%E3%83%BC%E3%81%A8%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E4%BB%98%E3%81%8D%E3%81%AE%E5%90%8D%E5%88%BA%E3%82%B5%E3%82%A4%E3%82%BA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <link>https://inajob.github.io/iroiro-review/post/3%E3%82%AD%E3%83%BC%E3%81%A8%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E4%BB%98%E3%81%8D%E3%81%AE%E5%90%8D%E5%88%BA%E3%82%B5%E3%82%A4%E3%82%BA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
       <pubDate>Thu, 16 Jan 2020 23:00:37 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/3%E3%82%AD%E3%83%BC%E3%81%A8%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E4%BB%98%E3%81%8D%E3%81%AE%E5%90%8D%E5%88%BA%E3%82%B5%E3%82%A4%E3%82%BA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/3%E3%82%AD%E3%83%BC%E3%81%A8%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E4%BB%98%E3%81%8D%E3%81%AE%E5%90%8D%E5%88%BA%E3%82%B5%E3%82%A4%E3%82%BA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
       <description>USB Mini Media Keyboardから発見。画像もここから転載。
 最近日本で流行っている「自作キーボード」ですが、海外でも流行っているようです。特にこの記事で紹介しているような名刺サイズのキーボードはボタンの数が少ないこともあり自作キーボード入門者には最適なプロダクトです。
 この記事ではブレッドボードを使った試作の段階を紹介しており、自分で1からキーボードを設計したい人には参考になる内容です。
@@ -62,10 +62,10 @@ CPUにはArduino Pro Microをつかい3つのキーと1つのロータリーエ�
     
     <item>
       <title>3Dプリンタで作成するWord Clock</title>
-      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8Bword-clock/</link>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8Bword-clock/</link>
       <pubDate>Tue, 07 Jan 2020 23:00:08 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8Bword-clock/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8Bword-clock/</guid>
       <description>Animated Word Clock から発見。画像もここから転載（CC BY-NC-SA By TechKiwiGadgets）
 またまたWordClockです。
 3Dプリンタで文字をくりぬいて、写真のように文字が浮かび上がるような効果を演出しています。
@@ -77,10 +77,10 @@ LEDの手前に製氷皿のように格子状のマス目のボードを用意�
     
     <item>
       <title>バッテリーを搭載したArduinoケース</title>
-      <link>https://inajob.github.io/inajob-review/post/%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Farduino%E3%82%B1%E3%83%BC%E3%82%B9/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Farduino%E3%82%B1%E3%83%BC%E3%82%B9/</link>
       <pubDate>Sun, 05 Jan 2020 23:00:20 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Farduino%E3%82%B1%E3%83%BC%E3%82%B9/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Farduino%E3%82%B1%E3%83%BC%E3%82%B9/</guid>
       <description>Portable Arduino Labから発見。画像もここから転載。（CC BY-NC-SA By YADUKRISHNAN K M）
 Arduinoはプロトタイプに便利ですがいくつか気になる点があります。 それが バッテリーとエンクロージャです。
 この記事で紹介している。Portable Arduino Labは、バッテリーを搭載したケース付きのArduinoです。バッテリーの充電ボードは自分でエッチングして作っているようです。</description>
@@ -88,10 +88,10 @@ Arduinoはプロトタイプに便利ですがいくつか気になる点があ�
     
     <item>
       <title>Atmega328PB用Arduino Nanoサイズ開発ボード</title>
-      <link>https://inajob.github.io/inajob-review/post/atmega328pb%E7%94%A8arduino-nano%E3%82%B5%E3%82%A4%E3%82%BA%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <link>https://inajob.github.io/iroiro-review/post/atmega328pb%E7%94%A8arduino-nano%E3%82%B5%E3%82%A4%E3%82%BA%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
       <pubDate>Thu, 12 Dec 2019 23:00:30 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/atmega328pb%E7%94%A8arduino-nano%E3%82%B5%E3%82%A4%E3%82%BA%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/atmega328pb%E7%94%A8arduino-nano%E3%82%B5%E3%82%A4%E3%82%BA%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
       <description>NanoPBから発見。画像もここから転載。
 ATmega328にはいくつか種類があります、今回紹介するボードに搭載されているのはATmega328PBです。 またUSB-SerialのチップとしてCP2102を使っているのもこのボードの特徴です。
 ATmega328PBはほかのものと違い2つのGPIOが増えています。（今までのATmega328ではVCCとGNDだったピンがGPIOとなっています。）そのためこのボードではそれを活用できるように工夫が施されています。
@@ -100,10 +100,10 @@ ATmega328PBはほかのものと違い2つのGPIOが増えています。（今�
     
     <item>
       <title>基板がUSBポートに直刺しできるArduino互換機</title>
-      <link>https://inajob.github.io/inajob-review/post/%E5%9F%BA%E6%9D%BF%E3%81%8C%E7%9B%B4%E5%88%BA%E3%81%97%E3%81%A7%E3%81%8D%E3%82%8Barduino%E4%BA%92%E6%8F%9B%E6%A9%9F/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%9F%BA%E6%9D%BF%E3%81%8C%E7%9B%B4%E5%88%BA%E3%81%97%E3%81%A7%E3%81%8D%E3%82%8Barduino%E4%BA%92%E6%8F%9B%E6%A9%9F/</link>
       <pubDate>Thu, 24 Oct 2019 23:00:54 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E5%9F%BA%E6%9D%BF%E3%81%8C%E7%9B%B4%E5%88%BA%E3%81%97%E3%81%A7%E3%81%8D%E3%82%8Barduino%E4%BA%92%E6%8F%9B%E6%A9%9F/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%9F%BA%E6%9D%BF%E3%81%8C%E7%9B%B4%E5%88%BA%E3%81%97%E3%81%A7%E3%81%8D%E3%82%8Barduino%E4%BA%92%E6%8F%9B%E6%A9%9F/</guid>
       <description>miniduino USBから発見。画像もここから転載。
 基板がUSB端子の形をしていて、直接PCに接続できるという、開発ボードはいくつかありますが、これはArduino Leonardo互換のものです。
 電源回りが少し特徴的で、まずは5Vのレギュレータを積んでいません。これはUSBに接続することが前提なので納得の仕様です。
@@ -112,10 +112,10 @@ ATmega328PBはほかのものと違い2つのGPIOが増えています。（今�
     
     <item>
       <title>Arduinoを基にしたコンパクトなドラムマシン</title>
-      <link>https://inajob.github.io/inajob-review/post/arduino%E3%82%92%E5%9F%BA%E3%81%AB%E3%81%97%E3%81%9F%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%83%89%E3%83%A9%E3%83%A0%E3%83%9E%E3%82%B7%E3%83%B3/</link>
+      <link>https://inajob.github.io/iroiro-review/post/arduino%E3%82%92%E5%9F%BA%E3%81%AB%E3%81%97%E3%81%9F%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%83%89%E3%83%A9%E3%83%A0%E3%83%9E%E3%82%B7%E3%83%B3/</link>
       <pubDate>Tue, 01 Oct 2019 23:00:18 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/arduino%E3%82%92%E5%9F%BA%E3%81%AB%E3%81%97%E3%81%9F%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%83%89%E3%83%A9%E3%83%A0%E3%83%9E%E3%82%B7%E3%83%B3/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/arduino%E3%82%92%E5%9F%BA%E3%81%AB%E3%81%97%E3%81%9F%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%83%89%E3%83%A9%E3%83%A0%E3%83%9E%E3%82%B7%E3%83%B3/</guid>
       <description>DrumKid: aleatoric drum machineから発見。画像もここから転載。
 Arduinoを基にしたドラムマシンです。ただのドラムマシンとは違い、ランダム要素を活用し、”偶然の音楽”を生み出すことにフォーカスしています。
 20ものパラメータがあり、ボタンでパラメータ群を選択し、つまみでそのパラメータ群を操作するようです。
@@ -125,10 +125,10 @@ Arduinoを基にしたドラムマシンです。ただのドラムマシンと�
     
     <item>
       <title>Type-Cコネクタ搭載のArduino Nano</title>
-      <link>https://inajob.github.io/inajob-review/post/type-c%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E6%90%AD%E8%BC%89%E3%81%AEarduino-nano/</link>
+      <link>https://inajob.github.io/iroiro-review/post/type-c%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E6%90%AD%E8%BC%89%E3%81%AEarduino-nano/</link>
       <pubDate>Mon, 26 Aug 2019 23:00:09 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/type-c%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E6%90%AD%E8%BC%89%E3%81%AEarduino-nano/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/type-c%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E6%90%AD%E8%BC%89%E3%81%AEarduino-nano/</guid>
       <description>Seeeduino Nanoから発見。画像もここから転載。
 Seeed作った新しいArduino NanoはUSBコネクタがType-Cなのが特徴です。Grooveの端子も1つ用意されており、プロトタイピングにちょうど良さそうです。
 Arduino Nanoの互換品はUSBコネクタが「もげる」ものが多いため、Type-Cなのはありがたいです。 自作キーボードでよく使われているArduino Microとは違うようなので、キーボード畑の方は良くチェックしてから買ってください。（USB-Serial ICはSeeduinoと同じだとするとATmega16U2かな？）</description>
@@ -136,10 +136,10 @@ Arduino Nanoの互換品はUSBコネクタが「もげる」ものが多いた�
     
     <item>
       <title>Arduinoでタッチセンサーを試せる開発ボード「CapBoard」</title>
-      <link>https://inajob.github.io/inajob-review/post/arduino%E3%81%A7%E3%82%BF%E3%83%83%E3%83%81%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92%E8%A9%A6%E3%81%9B%E3%82%8B%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89capboard/</link>
+      <link>https://inajob.github.io/iroiro-review/post/arduino%E3%81%A7%E3%82%BF%E3%83%83%E3%83%81%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92%E8%A9%A6%E3%81%9B%E3%82%8B%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89capboard/</link>
       <pubDate>Mon, 12 Aug 2019 23:00:07 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/arduino%E3%81%A7%E3%82%BF%E3%83%83%E3%83%81%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92%E8%A9%A6%E3%81%9B%E3%82%8B%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89capboard/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/arduino%E3%81%A7%E3%82%BF%E3%83%83%E3%83%81%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92%E8%A9%A6%E3%81%9B%E3%82%8B%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89capboard/</guid>
       <description>CapBoardから発見。画像もここから掲載。
 CapBoardはArduinoNanoを組み込んで使う、タッチセンサーをプロトタイピングするためのボードです。
 公式ページはこちら
@@ -149,10 +149,10 @@ Arduinoでも静電容量のタッチを検出する方法があることは知�
     
     <item>
       <title>自作MIDIコントローラの作り方と、既製品との比較</title>
-      <link>https://inajob.github.io/inajob-review/post/%E8%87%AA%E4%BD%9Cmidi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%E3%81%A8%E6%97%A2%E8%A3%BD%E5%93%81%E3%81%A8%E3%81%AE%E6%AF%94%E8%BC%83/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9Cmidi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%E3%81%A8%E6%97%A2%E8%A3%BD%E5%93%81%E3%81%A8%E3%81%AE%E6%AF%94%E8%BC%83/</link>
       <pubDate>Tue, 09 Jul 2019 23:00:31 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E8%87%AA%E4%BD%9Cmidi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%E3%81%A8%E6%97%A2%E8%A3%BD%E5%93%81%E3%81%A8%E3%81%AE%E6%AF%94%E8%BC%83/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9Cmidi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%E3%81%A8%E6%97%A2%E8%A3%BD%E5%93%81%E3%81%A8%E3%81%AE%E6%AF%94%E8%BC%83/</guid>
       <description>GreatScott! Asks Should You DIY or Buy a MIDI Launchpad? にて発見。画像もここから転載。
 よくあるグリッド状のMidiコントローラを自作した記事。 ボタンを光らせるためにLEDを斜めに配置しているあたりが非常に参考になります。 3Dプリンタを使った筐体の製作も、似たようなものを作りたい人には有用でしょう。 コントローラはArduino Nano。
 ユニバーサル基板を使ったり、フルカラーLEDを接着剤で3Dプリントした柱に取り付けたりと、手作り感満載だが、完成品はかなりそれっぽく仕上がっています。
@@ -161,10 +161,10 @@ Arduinoでも静電容量のタッチを検出する方法があることは知�
     
     <item>
       <title>自作のサイクルコンピュータ</title>
-      <link>https://inajob.github.io/inajob-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF/</link>
       <pubDate>Tue, 25 Jun 2019 23:00:17 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF/</guid>
       <description>DIY Cycle Speedometer にて発見。画像もここから転載（By HarshadB9, CC BY-NC-SA）
 サイクルコンピュータを自作している。タイヤの回転の取得にはホールセンサを用い、タイヤには磁石を取り付けているようだ。ディスプレイは良くある小さなOLED。バッテリはモバイルバッテリーを流用している。（スマートフォン用の消費電力が低いと電力供給をやめてしまう賢いものは避けて、dumbなバッテリーを利用せよとのこと。）
 コントローラはArduino Nano。
@@ -173,10 +173,10 @@ Arduinoでも静電容量のタッチを検出する方法があることは知�
     
     <item>
       <title>新しいArduino Nanoシリーズ</title>
-      <link>https://inajob.github.io/inajob-review/post/%E6%96%B0%E3%81%97%E3%81%84arduino-nano%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%96%B0%E3%81%97%E3%81%84arduino-nano%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/</link>
       <pubDate>Wed, 05 Jun 2019 23:00:06 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E6%96%B0%E3%81%97%E3%81%84arduino-nano%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%96%B0%E3%81%97%E3%81%84arduino-nano%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/</guid>
       <description>Introducing Four New Arduino Nanosから発見。画像もここから転載。
 Arduino Nanoサイズの新しい開発ボードが発表されたようです。
 Arduino Nano Every ほかのボードは技適が確認できていないので、日本人的に最も興味があるボードはこれです。
@@ -188,10 +188,10 @@ Arduino Nano Every ほかのボードは技適が確認できていないので�
     
     <item>
       <title>ポンプを簡単に制御するボード「Programmable-Air」</title>
-      <link>https://inajob.github.io/inajob-review/post/%E3%83%9D%E3%83%B3%E3%83%97%E3%82%92%E7%B0%A1%E5%8D%98%E3%81%AB%E5%88%B6%E5%BE%A1%E3%81%99%E3%82%8B%E3%83%9C%E3%83%BC%E3%83%89programmable-air/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%9D%E3%83%B3%E3%83%97%E3%82%92%E7%B0%A1%E5%8D%98%E3%81%AB%E5%88%B6%E5%BE%A1%E3%81%99%E3%82%8B%E3%83%9C%E3%83%BC%E3%83%89programmable-air/</link>
       <pubDate>Mon, 03 Jun 2019 23:00:43 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E3%83%9D%E3%83%B3%E3%83%97%E3%82%92%E7%B0%A1%E5%8D%98%E3%81%AB%E5%88%B6%E5%BE%A1%E3%81%99%E3%82%8B%E3%83%9C%E3%83%BC%E3%83%89programmable-air/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9D%E3%83%B3%E3%83%97%E3%82%92%E7%B0%A1%E5%8D%98%E3%81%AB%E5%88%B6%E5%BE%A1%E3%81%99%E3%82%8B%E3%83%9C%E3%83%BC%E3%83%89programmable-air/</guid>
       <description>Programmable-Airから発見。画像もここから転載。
 簡単に空気をコントロールすることができるボードです。
 要は小型のポンプがArduinoで簡単に制御できるボードなのです。 パッと何ができるものなのかは想像しづらいですが、ページにはいくつかのデモが紹介されています。
@@ -202,10 +202,10 @@ Arduino Nano Every ほかのボードは技適が確認できていないので�
     
     <item>
       <title>M5Stackをゲーム機風に変身させる裏技</title>
-      <link>https://inajob.github.io/inajob-review/post/m5stack%E3%82%92%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E9%A2%A8%E3%81%AB%E5%A4%89%E8%BA%AB%E3%81%95%E3%81%9B%E3%82%8B%E8%A3%8F%E6%8A%80/</link>
+      <link>https://inajob.github.io/iroiro-review/post/m5stack%E3%82%92%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E9%A2%A8%E3%81%AB%E5%A4%89%E8%BA%AB%E3%81%95%E3%81%9B%E3%82%8B%E8%A3%8F%E6%8A%80/</link>
       <pubDate>Mon, 27 May 2019 23:00:33 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/m5stack%E3%82%92%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E9%A2%A8%E3%81%AB%E5%A4%89%E8%BA%AB%E3%81%95%E3%81%9B%E3%82%8B%E8%A3%8F%E6%8A%80/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/m5stack%E3%82%92%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E9%A2%A8%E3%81%AB%E5%A4%89%E8%BA%AB%E3%81%95%E3%81%9B%E3%82%8B%E8%A3%8F%E6%8A%80/</guid>
       <description>Esplora X M5Stackから発見。画像もここから転載（CC BY-NC-SA By 陳亮）
 M5Stackは良いプラットフォームですが、ボタンが3つしかないのが人によっては不満かもしれません。 そこでこの記事ではArduinoの一種であるEsploraとM5Stackを合体させてゲーム機風に改造しています。
 Esploraはあまり流行っている印象はありませんが、このようにI2Cゲームコントローラとして利用するのは結構よさそうです。</description>
@@ -213,10 +213,10 @@ Esploraはあまり流行っている印象はありませんが、このよう�
     
     <item>
       <title>自作のポケベルのようなもの</title>
-      <link>https://inajob.github.io/inajob-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E3%83%9D%E3%82%B1%E3%83%99%E3%83%AB%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%82%82%E3%81%AE/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E3%83%9D%E3%82%B1%E3%83%99%E3%83%AB%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%82%82%E3%81%AE/</link>
       <pubDate>Wed, 15 May 2019 23:00:32 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E3%83%9D%E3%82%B1%E3%83%99%E3%83%AB%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%82%82%E3%81%AE/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E3%83%9D%E3%82%B1%E3%83%99%E3%83%AB%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%82%82%E3%81%AE/</guid>
       <description>Ben&amp;rsquo;s Text Radios for Maker Faireにて発見。
 Arduinoでシリアルコンソールを作成し、無線の送信には、eRIC-LoRaのモジュールを使用しているようです。 キーボード部分はレーザーカッターを使っているのはわかるが、肝心のボタン部分がどうなっているのかはよくわからない・・
 日本では技適があるのでLoRaモジュールの中でも使えるものは限られているのだろうが、ちょっと試してみたいなと思いました。
@@ -225,10 +225,10 @@ Arduinoでシリアルコンソールを作成し、無線の送信には、eRIC
     
     <item>
       <title>シンプルでかわいいArduino互換ボード「NANO」</title>
-      <link>https://inajob.github.io/inajob-review/post/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%A7%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84arduino%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89nano/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%A7%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84arduino%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89nano/</link>
       <pubDate>Sun, 28 Apr 2019 23:00:54 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%A7%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84arduino%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89nano/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%A7%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84arduino%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89nano/</guid>
       <description>Circuit Learn NANO: One PCB. Easy to Learn. Infinite Posibilities. にて発見。画像もここから転載。
 Arduino Nanoをマウントした、かわいらしいボード。
 サーボ制御用の端子や、アナログセンサー向けの端子が搭載搭載されている。
@@ -239,10 +239,10 @@ s4aというScratchでArduinoのプログラムを作ることができるフォ
     
     <item>
       <title>スルーホール部品のみで作るArduino互換キット</title>
-      <link>https://inajob.github.io/inajob-review/post/%E3%82%B9%E3%83%AB%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB%E9%83%A8%E5%93%81%E3%81%AE%E3%81%BF%E3%81%A7%E4%BD%9C%E3%82%8Barduino%E4%BA%92%E6%8F%9B%E3%82%AD%E3%83%83%E3%83%88/</link>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%AB%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB%E9%83%A8%E5%93%81%E3%81%AE%E3%81%BF%E3%81%A7%E4%BD%9C%E3%82%8Barduino%E4%BA%92%E6%8F%9B%E3%82%AD%E3%83%83%E3%83%88/</link>
       <pubDate>Thu, 11 Apr 2019 23:00:41 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/%E3%82%B9%E3%83%AB%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB%E9%83%A8%E5%93%81%E3%81%AE%E3%81%BF%E3%81%A7%E4%BD%9C%E3%82%8Barduino%E4%BA%92%E6%8F%9B%E3%82%AD%E3%83%83%E3%83%88/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%AB%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB%E9%83%A8%E5%93%81%E3%81%AE%E3%81%BF%E3%81%A7%E4%BD%9C%E3%82%8Barduino%E4%BA%92%E6%8F%9B%E3%82%AD%E3%83%83%E3%83%88/</guid>
       <description>MAKIT-THT Soldering Kitで発見
 最近の電子回路の多くは表面実装の部品を使っているものが多いです。 そうすることで、大量生産は楽ですし、基板のサイズを小さくすることができます。しかし、表面実装チップの実装は電子工作素人には難しい・・
 ということで作られたのが、このMAKEIT-THTです。これはArduino Unoと同等の機能を持ったボードですが、すべてスルーホール部品で実装されています。
@@ -255,10 +255,10 @@ Tindieからキットを購入できるので、自分の手でArduinoを作っ�
     
     <item>
       <title>DVDドライブと3Dプリンタで作るレーザー彫刻機</title>
-      <link>https://inajob.github.io/inajob-review/post/dvd%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E5%BD%AB%E5%88%BB%E6%A9%9F/</link>
+      <link>https://inajob.github.io/iroiro-review/post/dvd%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E5%BD%AB%E5%88%BB%E6%A9%9F/</link>
       <pubDate>Sun, 31 Mar 2019 11:43:07 +0000</pubDate>
       
-      <guid>https://inajob.github.io/inajob-review/post/dvd%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E5%BD%AB%E5%88%BB%E6%A9%9F/</guid>
+      <guid>https://inajob.github.io/iroiro-review/post/dvd%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E5%BD%AB%E5%88%BB%E6%A9%9F/</guid>
       <description>DIY Mini CNC Laser Engraver.から発見。画像もここから転載（CC BY-NC-SA By Maggie Shah）</description>
     </item>
     
