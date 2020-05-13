@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Badge on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/inajob-review/tags/badge/</link>
+    <description>Recent content in Badge on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Tue, 05 May 2020 23:00:27 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/inajob-review/tags/badge/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DEFCON27のBadgeは磁力で通信する</title>
+      <link>https://inajob.github.io/inajob-review/post/defcon27%E3%81%AEbadge%E3%81%AF%E7%A3%81%E5%8A%9B%E3%81%A7%E9%80%9A%E4%BF%A1%E3%81%99%E3%82%8B/</link>
+      <pubDate>Tue, 05 May 2020 23:00:27 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/defcon27%E3%81%AEbadge%E3%81%AF%E7%A3%81%E5%8A%9B%E3%81%A7%E9%80%9A%E4%BF%A1%E3%81%99%E3%82%8B/</guid>
+      <description>FIRST LOOK AT DEF CON 27 OFFICIAL BADGE; KINGPIN IS BACK!から発見。画像もここから転載。
+海外のカンファレンスでよく見かける「バッジ」ですが、この記事で紹介されているDEFCON27のBadgeには様々な機能が搭載されています。
+特に気になるのがバッジ間でデータを転送する機能です。説明によるとこの通信は電波ではなく磁場で行っているようです。あまり見たことがないテクニックですが、補聴器などで採用されている技術のようです。</description>
+    </item>
+    
+    <item>
+      <title>パンチテープを読み込めるBADGE</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%83%91%E3%83%B3%E3%83%81%E3%83%86%E3%83%BC%E3%83%97%E3%82%92%E8%AA%AD%E3%81%BF%E8%BE%BC%E3%82%81%E3%82%8Bbadge/</link>
+      <pubDate>Wed, 06 Nov 2019 23:00:24 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%83%91%E3%83%B3%E3%83%81%E3%83%86%E3%83%BC%E3%83%97%E3%82%92%E8%AA%AD%E3%81%BF%E8%BE%BC%E3%82%81%E3%82%8Bbadge/</guid>
+      <description>CYPHERCON BADGE HAS A PAPER TAPE READER BUILT INから発見。画像もここから転載。
+海外のカンファレンスでよく見かける”BADGE”ですが、今回紹介するのは、パンチテープを読み込めるBADGEです。
+基板を重ねてうまいことテープを通す空間を作っています。
+電子工作でパンチテープを読み取るもの、というのは今まで見たことがなかったですが、このテクニックは応用ができそうです。
+紹介動画</description>
+    </item>
+    
+  </channel>
+</rss>

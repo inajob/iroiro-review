@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raspberrypi on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/inajob-review/tags/raspberrypi/</link>
+    <description>Recent content in Raspberrypi on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Tue, 31 Mar 2020 23:00:10 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/inajob-review/tags/raspberrypi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ライフゲームを基にしたシンセサイザー</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E5%9F%BA%E3%81%AB%E3%81%97%E3%81%9F%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</link>
+      <pubDate>Tue, 31 Mar 2020 23:00:10 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E5%9F%BA%E3%81%AB%E3%81%97%E3%81%9F%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</guid>
+      <description>E V O B O X Xから発見。画像もここから転載。
+トランク型のいい雰囲気の、、シンセサイザーです。 全然それっぽくない外観ですがこの見た目でシンセサイザーです。ライフゲームの画面を基に音が鳴る仕組みのようです。トランク型の筐体は、持ち運びに便利そうです。
+中身はRaspberry Pi 3+のようです。（ This Synthesizer Uses Conway’s Game of Life to Generate Tones  ）
+ </description>
+    </item>
+    
+    <item>
+      <title>キーボード一体型のRaspberryPi端末</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%B8%80%E4%BD%93%E5%9E%8B%E3%81%AEraspberrypi%E7%AB%AF%E6%9C%AB/</link>
+      <pubDate>Wed, 09 Oct 2019 23:00:37 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%B8%80%E4%BD%93%E5%9E%8B%E3%81%AEraspberrypi%E7%AB%AF%E6%9C%AB/</guid>
+      <description>Hacking the official Raspberry Pi keyboard: Build a battery-powered all-in-one Pi keyboard! から発見。画像もここから転載。
+RaspberryPiの公式キーボードが発売されました。といってもこれはRaspberryPiのカラーリングのキーボードというだけで、ただのUSBハブ付きのキーボードです。
+この記事では、このキーボードの中にRaspberryPi Zeroを内蔵し、バッテリー駆動で動作できるようにしています。
+この作例を見ると、この公式キーボードにはちょうどRaspberry Pi Zeroが入るくらいのスペースが余っているのです！ そのおかげもあって、かなり完成度の高いものが出来上がっています。</description>
+    </item>
+    
+  </channel>
+</rss>

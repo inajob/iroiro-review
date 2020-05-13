@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7セグ on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/inajob-review/tags/7%E3%82%BB%E3%82%B0/</link>
+    <description>Recent content in 7セグ on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sun, 15 Mar 2020 23:00:07 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/inajob-review/tags/7%E3%82%BB%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>UVLEDを使った新しいディスプレイ</title>
+      <link>https://inajob.github.io/inajob-review/post/uvled%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%96%B0%E3%81%97%E3%81%84%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</link>
+      <pubDate>Sun, 15 Mar 2020 23:00:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/uvled%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%96%B0%E3%81%97%E3%81%84%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</guid>
+      <description>Photochromic &amp;amp; Glow-in-the-Dark Clockから発見。画像もここから転載。（CC BY-NC-SA By mosivers）
+紫外線LEDを使って作った新しいディスプレイの作例です。
+2種類のデモが紹介されています。1つは「UV感光フィラメントで作られた板」これを使うとUV LEDの光が当たったところだけ色が変わります。
+もう一つは「蓄光テープ」。これを使うとUV LEDの光が当たったところだけが暗闇でぼんやり光ります。
+どちらもLEDが消灯してからもしばらくの間色がついたままなので、省電力でのディスプレイを実現する際にも役に立つテクニックかもしれません。
+また、この7セグメントのような表示は3Dプリンタとグルーガンで自作しており、その点でも参考になりそうな作例です。
+ </description>
+    </item>
+    
+    <item>
+      <title>表面実装LEDを使った7セグメントLED</title>
+      <link>https://inajob.github.io/inajob-review/post/%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85led%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88led/</link>
+      <pubDate>Mon, 27 Jan 2020 23:00:58 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85led%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88led/</guid>
+      <description>TinyLED Displaysから発見。画像もここから転載。
+7セグメントLEDを表面実装LEDで実現しています。見た目も一風変わっていてプロダクトに組み込むといい雰囲気が演出できそうです。
+ </description>
+    </item>
+    
+    <item>
+      <title>アクリル板を使った大きな7セグメントLED</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E6%9D%BF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%A4%A7%E3%81%8D%E3%81%AA7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88led/</link>
+      <pubDate>Thu, 26 Dec 2019 23:00:56 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E6%9D%BF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%A4%A7%E3%81%8D%E3%81%AA7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88led/</guid>
+      <description>Edge-Lit Seven Segment Display から発見。画像もここから転載。
+大きな7セグメントLEDを作る試みは数多くありますが、この記事で紹介しているのはアクリル板のエッジを使う方法です。
+セグメント状にカットしたアクリル板のエッジ部分にフルカラーLEDを搭載することで、エッジ全体が光っているような効果を生み出しています。また、セグメント部分から光が漏れないように非導電性のアルミホイルのようなものでセグメントを覆っています。
+さらにフルカラーLEDを使っているため色とりどりの数字を表示することができます。
+ </description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタ製の手回し式の7セグメント表示機</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E6%89%8B%E5%9B%9E%E3%81%97%E5%BC%8F%E3%81%AE7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
+      <pubDate>Sun, 24 Mar 2019 23:00:44 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E6%89%8B%E5%9B%9E%E3%81%97%E5%BC%8F%E3%81%AE7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
+      <description>Peters 7-seg all mechanical display prototype 2 から発見。写真もここから転載。
+普通7セグメント表示機といえばLEDを使ったものを想像しますが、これは手回し式の7セグメント表示機です。
+高速道路の表示などで、この手のLEDを使わない表示機は使われたりしていますが、この記事では、これを3Dプリンタで自作し、さらに手回しで操作できるようにしています。
+動力の肝となるのは輪ゴムで、手回しによりカムを回転させて、数字を切り替えています。
+ </description>
+    </item>
+    
+    <item>
+      <title>アクリル板の縁を使った自作7セグ</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E6%9D%BF%E3%81%AE%E7%B8%81%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E8%87%AA%E4%BD%9C7%E3%82%BB%E3%82%B0/</link>
+      <pubDate>Thu, 21 Mar 2019 23:00:27 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E6%9D%BF%E3%81%AE%E7%B8%81%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E8%87%AA%E4%BD%9C7%E3%82%BB%E3%82%B0/</guid>
+      <description>Mod-able Laser WiFi Clockで発見。（画像もここから転載）
+アクリル板とLEDを使って表示機を作る作例は何個か知っていますが、これはアクリル板の縁（ふち）をつかって、7セグメントLEDを作っています。
+写真で見る限り、非常にきれいにセグメントが点灯しています。
+アクリル板はレーザーカッターで簡単に加工できる割には、完成度が高く仕上げることができるので、それっぽい製品を作りたい人にはよさそうな手法に見えます。
+ただコントロールに使っているESP8266のパッケージは技適が通っていない版のようで、日本で買う場合には注意が必要そう。
+ </description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタとグルーガンで作るオリジナルの7セグ</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A8%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%AC%E3%83%B3%E3%81%A7%E4%BD%9C%E3%82%8B%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%81%AE7%E3%82%BB%E3%82%B0/</link>
+      <pubDate>Wed, 20 Mar 2019 23:00:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A8%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%AC%E3%83%B3%E3%81%A7%E4%BD%9C%E3%82%8B%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%81%AE7%E3%82%BB%E3%82%B0/</guid>
+      <description>Reaction timer with 3D printed segment displayから発見
+要は3Dプリンタで型を作り、好きな7セグの形を作り、光らせたい部分にグルーガンで透明のプラスチックを流し込み、一緒にLEDを固定するということです。
+理論上はこれでよいのですが、グルーを流し込むところが結構難しいらしく、失敗すると3Dプリントした型が溶けたりしてしまうようです。
+またLEDの配線も苦労しているようです。</description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタによる電磁石による物理7セグ</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AB%E3%82%88%E3%82%8B%E9%9B%BB%E7%A3%81%E7%9F%B3%E3%81%AB%E3%82%88%E3%82%8B%E7%89%A9%E7%90%867%E3%82%BB%E3%82%B0/</link>
+      <pubDate>Tue, 19 Mar 2019 23:00:34 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AB%E3%82%88%E3%82%8B%E9%9B%BB%E7%A3%81%E7%9F%B3%E3%81%AB%E3%82%88%E3%82%8B%E7%89%A9%E7%90%867%E3%82%BB%E3%82%B0/</guid>
+      <description>Electromagnetic display から発見。
+物理的なセグメントディスプレイは高速道路などで見かけたりもしますが、その仕組みはよく知りませんでした。
+このプロジェクトでは、これを3Dプリンタで自作してしまおうというものです。 こういう作例を見ると、今まで何気なく見ていた仕組みがどうやって動いているか理解が深まります。
+物理7セグは古典的ですが、表示の維持に電力が不要であったり、周りが明るい環境でも視認性を確保できる、など様々な利点があるため、場合によってはLEDよりも役立つかもしれません。</description>
+    </item>
+    
+    <item>
+      <title>簡単に制御できる7セグLEDモジュール</title>
+      <link>https://inajob.github.io/inajob-review/post/%E7%B0%A1%E5%8D%98%E3%81%AB%E5%88%B6%E5%BE%A1%E3%81%A7%E3%81%8D%E3%82%8B7%E3%82%BB%E3%82%B0led%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:26 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E7%B0%A1%E5%8D%98%E3%81%AB%E5%88%B6%E5%BE%A1%E3%81%A7%E3%81%8D%E3%82%8B7%E3%82%BB%E3%82%B0led%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</guid>
+      <description>Addressable 7-Segment Display で発見。 残念ながらもうキャンペーン期間は終わってしまっている。
+しかし、プロジェクトはオープンソース化されているので、どんなものかはわかります。
+これはフルカラーLEDの制御でよく使われているWS2811を使って、7セグメントLEDを制御するためのボードです。WS2811はデイジーチェーンによる接続ができるため、写真のように、次々モジュールをつなげることで桁を増やすことができます。
+WS2811をフルカラーLED以外の制御に使うというのはもしかしたらほかにも応用が聞くのでは?と思いました（あと安そう 10PCS WS2811S SOP-8 1つ9円くらい？）</description>
+    </item>
+    
+  </channel>
+</rss>

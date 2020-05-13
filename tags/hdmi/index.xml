@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hdmi on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/inajob-review/tags/hdmi/</link>
+    <description>Recent content in Hdmi on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 15 Apr 2020 23:00:36 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/inajob-review/tags/hdmi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ArduinoからHDMI出力するためのボード</title>
+      <link>https://inajob.github.io/inajob-review/post/arduino%E3%81%8B%E3%82%89hdmi%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Wed, 15 Apr 2020 23:00:36 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/arduino%E3%81%8B%E3%82%89hdmi%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>HDMI FROM YOUR ARDUINOから発見。画像もここから転載。
+Arduinoからディスプレイに映像を映すには様々なテクニックが必要です。特に最近のディスプレイはHDMIコネクタが標準となっており、こうなればArduinoからは映像を出すことは難しいです。
+そこで登場するのが、このHDMIを出力するShieldです。
+といってもHDMI出力はやはり大変のようでかなり複雑な構成になっています。 説明を見るとRA8876という液晶コントローラのチップで映像を作り、このチップから出てくるRGB信号をCH7035Bを使ってHDMIに変換しているようです。
+まぁしかし普通にこういうことをするならRaspberry Piを使うのが簡単なんだろうなぁという感想です。ともあれこういう挑戦は非常に興味深いと感じました。
+ </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>プロッタ on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/inajob-review/tags/%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</link>
+    <description>Recent content in プロッタ on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Tue, 14 Apr 2020 23:00:54 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/inajob-review/tags/%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>コンパクトな自作プロッタ</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E8%87%AA%E4%BD%9C%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</link>
+      <pubDate>Tue, 14 Apr 2020 23:00:54 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E8%87%AA%E4%BD%9C%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</guid>
+      <description>Bart Dring Revises His 3D-Printed Pen Plotter Designから発見。画像もここから転載。
+3Dプリンタで作られた非常にかわいらしいペンプロッタです。 コアとなるボードはESP32のようです。サーボモータでペンを持ち上げる動作が非常にチャーミングです。
+ソースコードや3Dプリンタ用モデルデータはオープンソースで公開されています（ライセンス表記なし）
+ </description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタで作ったかわいいプロッタ</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</link>
+      <pubDate>Wed, 08 Apr 2020 23:00:01 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</guid>
+      <description>Tracey - Drawing Machineから発見。画像もここから転載（CC BY-NC-SA By BitSand）
+アーム的な機構のペンプロッタの作例を紹介します。 3Dプリンタで作られたアームにコントローラはESP8266を使っているようです。
+直動機構を使ったプロッタに比べると安く作れそうに見えます。その分精度の面では劣りそうですが2つのアームでプロットする様子は人間の腕の動きとも似ていて、こちらも味があります。
+またレーザーを使った彫刻やUVLEDと感光版を使ったぼんやり光る演出など、様々な活用例に挑戦しているのも面白いです。
+ </description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタで作ったケースに3Dプリンタで文字を書く</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%B1%E3%83%BC%E3%82%B9%E3%81%AB3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E6%96%87%E5%AD%97%E3%82%92%E6%9B%B8%E3%81%8F/</link>
+      <pubDate>Wed, 18 Mar 2020 23:00:06 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%B1%E3%83%BC%E3%82%B9%E3%81%AB3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E6%96%87%E5%AD%97%E3%82%92%E6%9B%B8%E3%81%8F/</guid>
+      <description>ENCLOSURE NEEDS LABELS? MAKE THE 3D PRINTER DO ITから発見。画像もここから転載
+立体物に印刷をするためには、ちょっとした工夫が必要です。この記事で紹介しているのは3Dプリンタにペンを持たせて筐体に直接文字を描くという方法です。
+安定して動かすのが大変そうに思いますが、動画では非常にきれいに書き込みをしているように見えます。
+ </description>
+    </item>
+    
+    <item>
+      <title>プロッタで作るFlappyBird</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8Bflappybird/</link>
+      <pubDate>Thu, 30 Jan 2020 23:00:28 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8Bflappybird/</guid>
+      <description>1980S PLOTTER PLAYS FLAPPY BIRDから発見。画像もここから転載
+古き良きプロッタを使ってゲームをプレイしちゃおうという野心的な試みです。 その名もずばりPlotty Birdです。
+動画を見る限り、まず初めに壁を描いたあと紙を巻き戻して、ゲームスタート、壁にぶつからないようにうまくペンを操作するいわゆる「Flappy Bird」的なゲームです。 印刷するためのプロッタをゲーム機にしてしまうという発想の転換が面白いと感じました。
+プロダクトはオープンソースになっているようです。</description>
+    </item>
+    
+    <item>
+      <title>オムニホイールで自走するプロッタ</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%82%AA%E3%83%A0%E3%83%8B%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%E3%81%A7%E8%87%AA%E8%B5%B0%E3%81%99%E3%82%8B%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</link>
+      <pubDate>Mon, 19 Aug 2019 23:00:26 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%82%AA%E3%83%A0%E3%83%8B%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%E3%81%A7%E8%87%AA%E8%B5%B0%E3%81%99%E3%82%8B%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</guid>
+      <description>OMNI WHEELS MOVE THIS CNC PLOTTER から発見。画像もここから転載。
+この記事ではオムニホイールを使った自走式のプロッタを紹介しています。
+オムニホイールとはPepperの足などにも使われている、特殊なタイヤで、普通のようなタイヤの動きに加えて横方向にすべるような動作をします。
+そのためこの作例のように4つオムニホイールを十字に配置することで、あらゆる方向に移動できるようになります。
+プロッタの作例はMaker界隈では無数に見ることができますが、オムニホイールを使った例は初めて見ました。
+ </description>
+    </item>
+    
+    <item>
+      <title>コンパクトな自動お絵描き装置</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E8%87%AA%E5%8B%95%E3%81%8A%E7%B5%B5%E6%8F%8F%E3%81%8D%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Thu, 15 Aug 2019 23:00:48 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E8%87%AA%E5%8B%95%E3%81%8A%E7%B5%B5%E6%8F%8F%E3%81%8D%E8%A3%85%E7%BD%AE/</guid>
+      <description>drawbotから発見。画像もここから転載（drawbot by MG-dream-technology 、CC BY-NC-SA）
+プロッタの一種ですがX軸、Y軸ではなく、2つ関節があるアームのような形状なのが特徴です。
+この構造だと安定しないように思いましたが、動画を見る限り結構精度よく動作しているようです。
+X-Y軸式のプロッタよりも少ない部品で作ることができ、かつ省スペースなのがよさそうに見えます。また人が書く動作と似ているからか、どことなくかわいい感じがします。
+制御は3Dプリンタなどでよく使うAduino Mega 2560 と RAMPS1.4 を利用しているようです。
+”プロッタ”といってもいろいろなタイプのものがある、ということを感じさせる作品です。
+ </description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタを使ってペンプロッタを実現する方法</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Sun, 16 Jun 2019 23:00:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/</guid>
+      <description>How to Use a 3D Printer as a Pen Plotter にて発見。画像もここから転載。
+LaserWebというレーザーカッター用のデータを作成するツールを使います。このツールはGコードがカスタマイズできるため、3Dプリンタで動作するようにGコードの設定を変更できます。これによりSVGのファイルを3Dプリンタ向けに変換できます。
+3DプリンタのExtruderの横にペンを固定して準備OK。
+Gコードという共通のフォーマットがあるおかげで思ったより素直に実現できるようです。
+ </description>
+    </item>
+    
+  </channel>
+</rss>

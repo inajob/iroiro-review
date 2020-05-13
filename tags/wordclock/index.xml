@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wordclock on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/inajob-review/tags/wordclock/</link>
+    <description>Recent content in Wordclock on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Tue, 07 Jan 2020 23:00:08 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/inajob-review/tags/wordclock/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3Dプリンタで作成するWord Clock</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8Bword-clock/</link>
+      <pubDate>Tue, 07 Jan 2020 23:00:08 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8Bword-clock/</guid>
+      <description>Animated Word Clock から発見。画像もここから転載（CC BY-NC-SA By TechKiwiGadgets）
+またまたWordClockです。
+3Dプリンタで文字をくりぬいて、写真のように文字が浮かび上がるような効果を演出しています。
+LEDの手前に製氷皿のように格子状のマス目のボードを用意し（これがグレーのフィラメントであるのも意味がありそう？）その底面にはアルファベットの形状でくりぬきを開けておきます。
+さらにそれを覆うケースにはアルファベットの形状でエンボスが刻まれています。
+この二重のアルファベット形状のくりぬきとエンボスにより、文字の投影を実現しています。 マイコンはArduino、LEDはよく使われるWS2812Bを使っています。
+ </description>
+    </item>
+    
+    <item>
+      <title>謎のカッコよさがある力作WordClock</title>
+      <link>https://inajob.github.io/inajob-review/post/%E8%AC%8E%E3%81%AE%E3%82%AB%E3%83%83%E3%82%B3%E3%82%88%E3%81%95%E3%81%8C%E3%81%82%E3%82%8B%E5%8A%9B%E4%BD%9Cwordclock/</link>
+      <pubDate>Thu, 07 Nov 2019 23:00:35 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E8%AC%8E%E3%81%AE%E3%82%AB%E3%83%83%E3%82%B3%E3%82%88%E3%81%95%E3%81%8C%E3%81%82%E3%82%8B%E5%8A%9B%E4%BD%9Cwordclock/</guid>
+      <description>Word Clock Controlled by 114 Servos から発見。画像もここから転載（CC BY-NC-SA By mosivers）
+とにかくかっこいいので、まずは上のリンクから動画を見てほしいです。
+今までにない新しいアプローチのWordClockです。アルファベット1文字1文字に対応するLEDをサーボモーターによって前後させることで、スクリーンに映るアルファベットをのフォーカスを調整しています。
+動画を見れば原理も一目瞭然なのですが、この発想と大量のサーボモーターを制御している努力に脱帽です。
+ </description>
+    </item>
+    
+    <item>
+      <title>映画”マトリックス”風の小型でとてもかっこいいWord Clock</title>
+      <link>https://inajob.github.io/inajob-review/post/%E6%98%A0%E7%94%BB%E3%83%9E%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E9%A2%A8%E3%81%AE%E5%B0%8F%E5%9E%8B%E3%81%A7%E3%81%A8%E3%81%A6%E3%82%82%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84word-clock/</link>
+      <pubDate>Mon, 04 Nov 2019 23:00:11 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E6%98%A0%E7%94%BB%E3%83%9E%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E9%A2%A8%E3%81%AE%E5%B0%8F%E5%9E%8B%E3%81%A7%E3%81%A8%E3%81%A6%E3%82%82%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84word-clock/</guid>
+      <description>This Word Clock Is as Small as They Get から発見。画像もここから転載。
+電子工作の作例としてWordClockをよく見ますが、これはその中でも群を抜いてかっこいいものです。
+Small Word Clockにより詳しい製作ログが公開されていますが、このアルファベットを表示しているマスク部分も基板として作成しているようです。ソルダーレジストをアルファベット型に抜くことで、この写真のような良い感じの表示を実現しているようです。
+CPUはPIC16F887 を使っているようです。
+ </description>
+    </item>
+    
+    <item>
+      <title>JavaScriptで開発できる小さなWord Clock</title>
+      <link>https://inajob.github.io/inajob-review/post/javascript%E3%81%A7%E9%96%8B%E7%99%BA%E3%81%A7%E3%81%8D%E3%82%8B%E5%B0%8F%E3%81%95%E3%81%AAword-clock/</link>
+      <pubDate>Wed, 01 May 2019 23:00:45 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/javascript%E3%81%A7%E9%96%8B%E7%99%BA%E3%81%A7%E3%81%8D%E3%82%8B%E5%B0%8F%E3%81%95%E3%81%AAword-clock/</guid>
+      <description>Tiny Word Clockから発見。画像もここから転載。
+Espruinoは組み込み環境向けのJavaScript開発環境。
+この記事ではEspruinoを使っていわゆる「WordClock」を作成する方法を紹介している。
+ここで紹介されているマイコンボードは技適取得されていないので、日本で利用する場合には注意が必要です。
+ </description>
+    </item>
+    
+    <item>
+      <title>ありそうでなかった日本語「Word Clock」</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%81%82%E3%82%8A%E3%81%9D%E3%81%86%E3%81%A7%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E6%97%A5%E6%9C%AC%E8%AA%9Eword-clock/</link>
+      <pubDate>Tue, 30 Apr 2019 23:50:01 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%81%82%E3%82%8A%E3%81%9D%E3%81%86%E3%81%A7%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E6%97%A5%E6%9C%AC%E8%AA%9Eword-clock/</guid>
+      <description>Japanese Word Clockから発見。写真もここから転載。
+英語のWordClockというのはArduinoの作例などでよく見かけます。
+ こういうやつ。
+しかし今回紹介するJapanese Word Clockはこれの日本語版です。
+まだ作業途中のようですが、完成すると今までに見たことがないガジェットになるでしょう
+ </description>
+    </item>
+    
+  </channel>
+</rss>

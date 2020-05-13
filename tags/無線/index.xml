@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>無線 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/inajob-review/tags/%E7%84%A1%E7%B7%9A/</link>
+    <description>Recent content in 無線 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Thu, 11 Jul 2019 23:00:25 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/inajob-review/tags/%E7%84%A1%E7%B7%9A/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>無線通信できるOLED付き開発ボード</title>
+      <link>https://inajob.github.io/inajob-review/post/%E7%84%A1%E7%B7%9A%E9%80%9A%E4%BF%A1%E3%81%A7%E3%81%8D%E3%82%8Boled%E4%BB%98%E3%81%8D%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Thu, 11 Jul 2019 23:00:25 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E7%84%A1%E7%B7%9A%E9%80%9A%E4%BF%A1%E3%81%A7%E3%81%8D%E3%82%8Boled%E4%BB%98%E3%81%8D%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>Two way OLED remoteにて発見。画像もここから掲載。（2019/07/12 ページがなくなってしまっているようです 残念・・）
+よくあるOLED付きの開発ボードかな、と思ったら無線通信機能がオプションとしてあるようです。
+RFM69HW 433Mhz moduleと書かれていて、確かに写真にもそのモジュールをはんだ付けできそうなフットプリントがあります。
+調べると300円程度で入手できる無線モジュールのようです。残念ながら日本では技適がないため利用できませんが・・
+ </description>
+    </item>
+    
+  </channel>
+</rss>

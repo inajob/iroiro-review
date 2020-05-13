@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>機械学習 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/inajob-review/tags/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/</link>
+    <description>Recent content in 機械学習 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Mon, 23 Mar 2020 23:00:34 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/inajob-review/tags/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ディープラーニングを使った強いじゃんけんAI搭載ガジェット</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%BC%B7%E3%81%84%E3%81%98%E3%82%83%E3%82%93%E3%81%91%E3%82%93ai%E6%90%AD%E8%BC%89%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
+      <pubDate>Mon, 23 Mar 2020 23:00:34 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%BC%B7%E3%81%84%E3%81%98%E3%82%83%E3%82%93%E3%81%91%E3%82%93ai%E6%90%AD%E8%BC%89%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
+      <description>Neural Network Device ‘Solves’ Rock-Paper-Scissorsから発見。画像もここから転載。
+この小さなガジェットのCPUはATtiny1614（Flash:16KB, SRAM: 2KB）です。この小さなCPUでニューラルネットワーク(RNN)を実装し、ランダムよりも強いじゃんけんAIを実現しているそうです。
+ニューラルネットワークでAIというと、ハイスペックなCPUが必要というイメージですが、場合によっては小さな組み込み用CPUでも実現できるんだなと思いました。
+ </description>
+    </item>
+    
+    <item>
+      <title>サイコロが等確率を調べる装置</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%82%B5%E3%82%A4%E3%82%B3%E3%83%AD%E3%81%8C%E7%AD%89%E7%A2%BA%E7%8E%87%E3%82%92%E8%AA%BF%E3%81%B9%E3%82%8B%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Thu, 13 Feb 2020 23:00:40 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%82%B5%E3%82%A4%E3%82%B3%E3%83%AD%E3%81%8C%E7%AD%89%E7%A2%BA%E7%8E%87%E3%82%92%E8%AA%BF%E3%81%B9%E3%82%8B%E8%A3%85%E7%BD%AE/</guid>
+      <description>AUTOMATED DICE TESTER USES MACHINE VISION TO ENSURE A FAIR GAMEから発見。画像もここから転載。
+さいころは理想的には等確率ですが、実際はものによって偏りがあります。 この装置はその偏りを調べるためのものです。
+箱がグルンと回転することでサイコロを振り、その結果をカメラで撮影しOpenCVで画像認識をしてどの目が出ているかを判定しているようです。
+この装置があれば人間はただ待っているだけでサイコロの目の偏りを調べることができます。
+ </description>
+    </item>
+    
+    <item>
+      <title>RISC-VチップMAixを使ったRaspberryPiピンを持つ開発ボード</title>
+      <link>https://inajob.github.io/inajob-review/post/risc-v%E3%83%81%E3%83%83%E3%83%97maix%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fraspberrypi%E4%BA%92%E6%8F%9B%E3%83%94%E3%83%B3%E3%82%92%E6%8C%81%E3%81%A4%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Tue, 17 Dec 2019 23:00:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/risc-v%E3%83%81%E3%83%83%E3%83%97maix%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fraspberrypi%E4%BA%92%E6%8F%9B%E3%83%94%E3%83%B3%E3%82%92%E6%8C%81%E3%81%A4%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>Grove AI HAT for Edge Computingから発見。
+RISC-VチップであるMAixを搭載したRaspberry Piに接続できるAIボードです。 このボードをつけることでRaspberry Piから機械学習処理をオフロードしたり、カメラやディスプレイの制御を任せることができるようです。
+ </description>
+    </item>
+    
+    <item>
+      <title>機械学習で3Dプリンタの失敗を検知する</title>
+      <link>https://inajob.github.io/inajob-review/post/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%A73d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E5%A4%B1%E6%95%97%E3%82%92%E6%A4%9C%E7%9F%A5%E3%81%99%E3%82%8B/</link>
+      <pubDate>Tue, 29 Oct 2019 23:00:29 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%A73d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E5%A4%B1%E6%95%97%E3%82%92%E6%A4%9C%E7%9F%A5%E3%81%99%E3%82%8B/</guid>
+      <description>FINDING PLASTIC SPAGHETTI WITH MACHINE LEARNINGから発見。画像もここから転載。
+3Dプリンタでのプリンティングはよく失敗します。失敗を減らすことはできますが100%ではありません。そうなると失敗したタイミングで印刷を停止するのが経済的です。
+この記事で紹介している The Spaghetti Detective というサービスは画像解析を用いて、3Dプリンタの失敗を検知するサービスです。
+オープンソース版のセルフホステッド版と、クラウド上に処理を任せるSaaS版があり、SaaS版については、そのうち課金を始める計画のようです。今のところはベータ版につき無料で利用できるようです。
+OctoPrintのプラグインとして提供されているので、簡単に利用することができそうです。
+以前も似たような内容を紹介しましたが早くこういう技術が発達して、もじゃもじゃが生成される恐怖から逃れたいです。</description>
+    </item>
+    
+    <item>
+      <title>ディープラーニングで3Dプリンタの失敗を検知する</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%A73d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E5%A4%B1%E6%95%97%E3%82%92%E6%A4%9C%E7%9F%A5%E3%81%99%E3%82%8B/</link>
+      <pubDate>Mon, 01 Jul 2019 23:00:33 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%A73d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E5%A4%B1%E6%95%97%E3%82%92%E6%A4%9C%E7%9F%A5%E3%81%99%E3%82%8B/</guid>
+      <description>PrintRite - Tensorflow for 3D Printingから発見。画像もここから転載。
+3Dプリントは楽しいですが、よく失敗します。失敗に気づかず放置しているとたちまち「プラスチックのもじゃもじゃ」が生成されてしまい、非常にがっかりします。
+ずっと見ていれば、おかしくなった時に停止させることができますが、数時間もかかる3Dプリントの間中見張っているのは現実的ではありません。
+この記事で紹介しているのは、Webカメラの映像を機械学習で判別することで、3Dプリントの失敗を検知するという手法です。
+3Dプリントのヘッド部分にRaspberry Pi Zeroとカメラモジュールを取り付け、実際の解析はOctoPrintの動作しているRaspberry Pi 3B+上でTensorflowにより実行されます。
+まだまだ発展途上のようですが、オープンソースの3DプリントサーバであるOctoPrintのプラグインとして実装されているようです。
+3Dプリントが失敗するととても残念な気持ちになるので、早く実用段階になってほしいプロジェクトです。</description>
+    </item>
+    
+  </channel>
+</rss>

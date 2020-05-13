@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>作例 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/inajob-review/tags/%E4%BD%9C%E4%BE%8B/</link>
+    <description>Recent content in 作例 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Mon, 06 Apr 2020 23:00:02 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/inajob-review/tags/%E4%BD%9C%E4%BE%8B/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>外付けのSlack通知LED</title>
+      <link>https://inajob.github.io/inajob-review/post/%E5%A4%96%E4%BB%98%E3%81%91%E3%81%AEslack%E9%80%9A%E7%9F%A5led/</link>
+      <pubDate>Mon, 06 Apr 2020 23:00:02 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E5%A4%96%E4%BB%98%E3%81%91%E3%81%AEslack%E9%80%9A%E7%9F%A5led/</guid>
+      <description>Build a Slack Status Indicator for Your Desk to Keep Coworkers at Bayから発見。画像もここから転載。
+Adafruit Trinket M0を使ったSlack通知のLEDです。
+GitHubにソースコードも公開されているので、気になる人は見てみてください。
+Adafruit Trinket M0はPythonで開発できるので組み込みといいつつ、気軽に開発できそうです。 PCとはUSBで接続しシリアル経由でやり取りします。PC側のサーバはGo言語で書かれていて今風です。</description>
+    </item>
+    
+    <item>
+      <title>導通すると振動するシンプルな自作テスター</title>
+      <link>https://inajob.github.io/inajob-review/post/%E5%B0%8E%E9%80%9A%E3%81%99%E3%82%8B%E3%81%A8%E6%8C%AF%E5%8B%95%E3%81%99%E3%82%8B%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E8%87%AA%E4%BD%9C%E3%83%86%E3%82%B9%E3%82%BF%E3%83%BC/</link>
+      <pubDate>Sun, 28 Jul 2019 23:00:19 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E5%B0%8E%E9%80%9A%E3%81%99%E3%82%8B%E3%81%A8%E6%8C%AF%E5%8B%95%E3%81%99%E3%82%8B%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E8%87%AA%E4%BD%9C%E3%83%86%E3%82%B9%E3%82%BF%E3%83%BC/</guid>
+      <description>Continuity tester using mobile motorから発見。画像もここから転載。
+この記事で紹介しているのは、自作のテスター。 2つの接点が導通しているかを調べるための工具です。
+普通のテスターと違うのは、通電しているときに、ブルブルと振動するということ。その秘密は内部に仕込まれたモーターです。
+仕組みは非常に単純でモーターと電池がつながっているだけです。
+振動で導通を確認できるのは非常に直感的で面白いアイデアですが、私は思いついたことがなかったので目からうろこでした。</description>
+    </item>
+    
+  </channel>
+</rss>

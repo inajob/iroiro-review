@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raspberry Pi on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/inajob-review/tags/raspberry-pi/</link>
+    <description>Recent content in Raspberry Pi on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Mon, 11 May 2020 23:00:49 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/inajob-review/tags/raspberry-pi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>かっこいい形状の小型のRaspberryPiラップトップ</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E5%BD%A2%E7%8A%B6%E3%81%AE%E5%B0%8F%E5%9E%8B%E3%81%AEraspberrypi%E3%83%A9%E3%83%83%E3%83%97%E3%83%88%E3%83%83%E3%83%97/</link>
+      <pubDate>Mon, 11 May 2020 23:00:49 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E5%BD%A2%E7%8A%B6%E3%81%AE%E5%B0%8F%E5%9E%8B%E3%81%AEraspberrypi%E3%83%A9%E3%83%83%E3%83%97%E3%83%88%E3%83%83%E3%83%97/</guid>
+      <description>DIY Ultra Portable Raspberry Pi Laptopから発見。画像もここから転載（CC BY-NC-SA By electronics for everyone）
+非常にかっこいいRaspberry Piコンソールの作例です。ケースは3Dプリンタで作成していて、ヒンジ部分の造形が興味深いです。
+キーボードとの接続はBluetooth,ディスプレイとの接続はGPIOを使っています。GPIOを使ったディスプレイは少し反応速度が遅いのが気になるところです。</description>
+    </item>
+    
+    <item>
+      <title>やや大き目な折り畳みケータイ型Raspberry Piケース</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%82%84%E3%82%84%E5%A4%A7%E3%81%8D%E7%9B%AE%E3%81%AA%E6%8A%98%E3%82%8A%E7%95%B3%E3%81%BF%E3%82%B1%E3%83%BC%E3%82%BF%E3%82%A4%E5%9E%8Braspberry-pi%E3%82%B1%E3%83%BC%E3%82%B9/</link>
+      <pubDate>Wed, 22 Apr 2020 23:00:55 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%82%84%E3%82%84%E5%A4%A7%E3%81%8D%E7%9B%AE%E3%81%AA%E6%8A%98%E3%82%8A%E7%95%B3%E3%81%BF%E3%82%B1%E3%83%BC%E3%82%BF%E3%82%A4%E5%9E%8Braspberry-pi%E3%82%B1%E3%83%BC%E3%82%B9/</guid>
+      <description>This Giant Raspberry Pi Flip Phone Lets You Relive the Good Ol’ Daysから発見。画像もここから転載。
+3Dプリンタで作られた、Raspberry Pi向けのやや大き目の折り畳み型ケータイケースの作例です。
+2Gの通信モジュールも内蔵しており、実際に通信することができるようです。キーパッド部分はメカニカルキーボードのスイッチを使っているようです。
+大き目で作ることですることで様々な難しい障害を取り除くことができるので、まずはすこし「大き目」でものを作ってみるというアプローチも良いなと感じました。
+ </description>
+    </item>
+    
+    <item>
+      <title>アーケードゲーム風のRaspberry Piケース</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E9%A2%A8%E3%81%AEraspberry-pi%E3%82%B1%E3%83%BC%E3%82%B9/</link>
+      <pubDate>Thu, 16 Apr 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E9%A2%A8%E3%81%AEraspberry-pi%E3%82%B1%E3%83%BC%E3%82%B9/</guid>
+      <description>CompactPi Mini Arcade - CPi01から発見。画像もここから転載。
+見ての通りアーケードゲーム風のRaspberry Piのエンクロージャです。 3Dプリンタを使って作られていますが、完成度は非常に高く、おもちゃっぽい色合いのフィラメントが良い雰囲気を演出しています。
+ディスプレイは800x480、バッテリ、スピーカーも搭載されています。さらに手前に小さなOLEDのディスプレイが搭載してあり、ガジェット感を演出しています。
+ </description>
+    </item>
+    
+    <item>
+      <title>レトロな見た目のRaspberry Piコンソール</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%83%AC%E3%83%88%E3%83%AD%E3%81%AA%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AEraspberry-pi%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Mon, 16 Mar 2020 23:00:51 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%83%AC%E3%83%88%E3%83%AD%E3%81%AA%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AEraspberry-pi%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</guid>
+      <description>FLIPT-BIT: Retro-styled Raspberry Pi Computerから発見。画像もここから転載（CC BY-NC-SA By lewisb42）
+レトロコンピューター風のRaspberry Piのケースの作例です。 キーボードと画面、トラックパッドを箱状のケースに詰め込んだ力作です。
+ケースはアクリル板と3Dプリンタによる造形で作られています。 RaspberryPiに必要なものが全部入ったケースで使い勝手がよさそうです。</description>
+    </item>
+    
+    <item>
+      <title>ブリーフケースに内蔵したPC</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%83%96%E3%83%AA%E3%83%BC%E3%83%95%E3%82%B1%E3%83%BC%E3%82%B9%E3%81%AB%E5%86%85%E8%94%B5%E3%81%97%E3%81%9Fpc/</link>
+      <pubDate>Thu, 05 Mar 2020 23:00:48 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%83%96%E3%83%AA%E3%83%BC%E3%83%95%E3%82%B1%E3%83%BC%E3%82%B9%E3%81%AB%E5%86%85%E8%94%B5%E3%81%97%E3%81%9Fpc/</guid>
+      <description>NightPi Is a Raspberry Pi Briefcase Laptop for Pentesting and Moreから発見。画像もここから転載。
+ブリーフケース型のPCという一風変わった作例を紹介します。
+中身はRaspberry Pi 3B+で、さらに動作に必要なバッテリーや、ACアダプタ、ハードディスク、ディスプレイなどが内蔵されています。 確かにブリーフケースは持ち運びやすいので、ちょっと大きめの作品のケースには向いているのかな？と感じました。</description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi Zero WをつかったDIYなスマートグラス</title>
+      <link>https://inajob.github.io/inajob-review/post/raspberry-pi-zero-w%E3%82%92%E3%81%A4%E3%81%8B%E3%81%A3%E3%81%9Fdiy%E3%81%AA%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B0%E3%83%A9%E3%82%B9/</link>
+      <pubDate>Wed, 26 Feb 2020 23:00:10 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/raspberry-pi-zero-w%E3%82%92%E3%81%A4%E3%81%8B%E3%81%A3%E3%81%9Fdiy%E3%81%AA%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B0%E3%83%A9%E3%82%B9/</guid>
+      <description>DIY Smart Glasses Built with a Raspberry Pi Zero Wから発見。画像もここから転載。
+スマート眼鏡というと、自作は難しいようなイメージがありますが、この記事ではスマート眼鏡を自作しています。
+コアとなるボードはRaspberry Pi Zeroで、まぁぎりぎり眼鏡に装着できるかな？というサイズです。
+肝心のディスプレイ部分はOLEDをプラ板に反射させることで実現しているようです。 入力はマイクから音声入力するようです。
+やや大掛かりな見た目ではあるものの、スマート眼鏡が自作できるというのはワクワクする話です。</description>
+    </item>
+    
+    <item>
+      <title>何かに似たRaspberry Piケース</title>
+      <link>https://inajob.github.io/inajob-review/post/%E4%BD%95%E3%81%8B%E3%81%AB%E4%BC%BC%E3%81%9Fraspberry-pi%E3%82%B1%E3%83%BC%E3%82%B9/</link>
+      <pubDate>Mon, 17 Feb 2020 23:00:27 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E4%BD%95%E3%81%8B%E3%81%AB%E4%BC%BC%E3%81%9Fraspberry-pi%E3%82%B1%E3%83%BC%E3%82%B9/</guid>
+      <description>RasProから発見。画像もここから転載（Public Domain）
+写真を見れば一目瞭然例のアレによく似たRaspberry Piのケースです。 AC電源やファンを内蔵するなど、意外とちゃんと作られています。
+取っ手も付いているし、案外良い製品に見えてきました。
+ </description>
+    </item>
+    
+    <item>
+      <title>6面全部がフルカラーマトリクスLEDのキューブ型ガジェット</title>
+      <link>https://inajob.github.io/inajob-review/post/6%E9%9D%A2%E5%85%A8%E9%83%A8%E3%81%8C%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%81%AE%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%96%E5%9E%8B%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
+      <pubDate>Sun, 16 Feb 2020 23:00:03 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/6%E9%9D%A2%E5%85%A8%E9%83%A8%E3%81%8C%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%81%AE%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%96%E5%9E%8B%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
+      <description>PiXXL Cube Is a Raspberry Pi-Powered, Six-Sided Displayから発見。画像もここから転載。
+簡単に思いつくけど、作るのが難しそうなガジェットです。 加速度センサーを内蔵しているようで、傾けながら立体的な迷路を攻略する様子の動画も紹介されています。
+ </description>
+    </item>
+    
+    <item>
+      <title>日本人が作ったキーボード付きRaspberryPiコンソール「Hyper Keyboard Pi」</title>
+      <link>https://inajob.github.io/inajob-review/post/%E6%97%A5%E6%9C%AC%E4%BA%BA%E3%81%8C%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8Draspberrypi%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Mon, 20 Jan 2020 23:00:03 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E6%97%A5%E6%9C%AC%E4%BA%BA%E3%81%8C%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8Draspberrypi%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</guid>
+      <description>This May Be the Raspberry Pi Pocket Computer You’ve Been Waiting Forから発見。画像もここから転載。
+Raspberry Pi 3を使ったキーボード付きの端末です。 PCB基板をケースしてサンドイッチする方式で、非常にシンプルなインターフェースを実現しています。
+キーボードの上のほうにゲームなどに便利そうなの十字キーがあるのも特徴的です。</description>
+    </item>
+    
+    <item>
+      <title>木工作と3Dプリンタで作成する雰囲気のあるRaspberryPiコンソール</title>
+      <link>https://inajob.github.io/inajob-review/post/%E6%9C%A8%E5%B7%A5%E4%BD%9C%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B%E9%9B%B0%E5%9B%B2%E6%B0%97%E3%81%AE%E3%81%82%E3%82%8Braspberrypi%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Thu, 09 Jan 2020 23:00:54 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E6%9C%A8%E5%B7%A5%E4%BD%9C%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B%E9%9B%B0%E5%9B%B2%E6%B0%97%E3%81%AE%E3%81%82%E3%82%8Braspberrypi%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</guid>
+      <description>Tiny Wooden Laptopから発見。画像もここから転載（CC BY-NC-SA By makefailrepeat）
+Raspberry Pi 3を使ったコンソールです。ディプレイ4インチで800x480。キーボードはBluetoothの無線キーボードを使っています。
+ディスプレイの裏側にRaspberry Piをマウントし、キーボードの下には余ったケーブルやバッテリーを入れているようです。
+3Dプリンタだけで作るとどうしても安っぽい感じになりがちですが、この作品のように木工作を組み合わせることで、味のある雰囲気が出せるのだなと感じました。
+ </description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi 3を使った携帯ゲーム機</title>
+      <link>https://inajob.github.io/inajob-review/post/raspberry-pi-3%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Mon, 06 Jan 2020 23:00:58 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/raspberry-pi-3%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>Portable Retro Game Console with 7.9-inch displayから発見。画像もここから転載。
+Raspberry Pi 3を使ったポータブルゲーム機の作例です。 ケースは3Dプリンタで作成しています。
+ 7.9インチディスプレイ(iPad mini 3のものと同じ) 2048x1536 USB DAC(16Bit, 48kHz) 3.5mmオーディオジャック 3Wスピーカ 8000mAh バッテリー  筐体の中身の写真がないので、想像するしかないですが、この大きさに収めるにはかなりの工夫が必要そうです。
+ </description>
+    </item>
+    
+    <item>
+      <title>RaspberryPiとキーボードをくっつけたシンプルなLinuxコンソール</title>
+      <link>https://inajob.github.io/inajob-review/post/raspberrypi%E3%81%A8%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E3%81%8F%E3%81%A3%E3%81%A4%E3%81%91%E3%81%9F%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AAlinux%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Sun, 22 Dec 2019 23:00:41 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/raspberrypi%E3%81%A8%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E3%81%8F%E3%81%A3%E3%81%A4%E3%81%91%E3%81%9F%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AAlinux%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</guid>
+      <description>POCKETPI MK2から発見。画像もここから転載。
+Raspberry Piコンソールの作例はたくさんありますが、ここで紹介するのはシンプルにアクリル板にキーボードとバッテリー、ディスプレイを固定するというものです。
+凝ったケースもよいですが、まずはこのような簡単な仕組みから作ってみるのもよいと思いました。
+ </description>
+    </item>
+    
+    <item>
+      <title>ポータブルなキーボード付きRaspberryPiコンソール</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%E3%81%AA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8Draspberrypi%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Wed, 11 Dec 2019 23:00:02 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%E3%81%AA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8Draspberrypi%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</guid>
+      <description>PocketPi! から発見。画像もここから転載。
+Raspberry Piを使ってコンソールを作る試みは数多くありますが、これはポケコン風に組みてた作例です。
+あつらえたようにぴったりなキーボードは実は無線キーボードをバラしたもののようです。 ケースは3Dプリンタで作成されており、様々な試行錯誤を繰り返して、このコンパクトな形状に収めることができたようです。
+ </description>
+    </item>
+    
+    <item>
+      <title>手のひらサイズのLinuxゲームコンソール</title>
+      <link>https://inajob.github.io/inajob-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AElinux%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Wed, 07 Aug 2019 23:00:17 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AElinux%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</guid>
+      <description>The PinkyPi Pushes the Limits of How Small a Raspberry Pi Handheld Can Be から発見
+元ネタはPinkyPi - Full build - Updatedのようだ。
+PinkyPiはRaspberry Pi Zero Wを使ったゲーム機。1.33インチの240x240の液晶と500mAのバッテリー、そして充電ICのTP4056、23Wのオーディオアンプが搭載されている。
+3Dプリンタ製のケースにより手のひらサイズを実現している。
+TP4056ボードは充電容量に応じて抵抗を変更する必要があるらしい。
+基本的には既製品のボードを使っているだけなので、比較的簡単に真似ができそうだ。
+ </description>
+    </item>
+    
+    <item>
+      <title>手のひらサイズのLinuxマシン用基板</title>
+      <link>https://inajob.github.io/inajob-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AElinux%E3%83%9E%E3%82%B7%E3%83%B3%E7%94%A8%E5%9F%BA%E6%9D%BF/</link>
+      <pubDate>Tue, 06 Aug 2019 23:00:41 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AElinux%E3%83%9E%E3%82%B7%E3%83%B3%E7%94%A8%E5%9F%BA%E6%9D%BF/</guid>
+      <description>SnapOnAir Raspberry PI ZERO PCBから発見。画像もここから転載。
+RaspberryPi Zero W を使った非常にコンパクトにまとまった基板です。 表面実装が必要な部分が多いので、気軽に作ることは難しそうだが、完成品を見ると非常に欲しくなります。
+作者によると夏より前にクラウドファンディングを計画しているようです。完成品が欲しい方は要チェックです。
+We plan to make a @crowd_supply campain or @Indiegogo or @kickstarter crowdfunding before summer. This to release a fully assembled model pic.twitter.com/53blnTTJe3
+&amp;mdash; pwav robot (@pwavrobot) 2019年3月15日 
+ </description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi 4にPCI Expressのボードを接続する裏技</title>
+      <link>https://inajob.github.io/inajob-review/post/raspberry-pi-4%E3%81%ABpci-express%E3%81%AE%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E6%8E%A5%E7%B6%9A%E3%81%99%E3%82%8B%E8%A3%8F%E6%8A%80/</link>
+      <pubDate>Sun, 04 Aug 2019 23:00:40 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/raspberry-pi-4%E3%81%ABpci-express%E3%81%AE%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E6%8E%A5%E7%B6%9A%E3%81%99%E3%82%8B%E8%A3%8F%E6%8A%80/</guid>
+      <description>Raspberry Pi 4 B+ - PCI Expressから発見。画像もここから転載。
+Raspberry Pi 4は様々な面で性能が向上していますが、この記事で扱っているのはUSB3.0のコントローラ部分です。 Raspberry Pi 4ではUSB3.0はPCI Expressのインターフェースで接続されています。PCI Expressのスロットが出ているわけではありませんが、制御チップはボード上にあります。
+そこで、この記事ではPCI Expressの制御チップから無理やり配線を変更して、PCI Expressのライザーカードに接続し、SASコントローラボードをつなげています。
+このライザーカードはUSB3.0のケーブルを使ってPCI Expressの信号を伝えるもののようで、つまりPCI-ExpressとつながっているUSB3.0のコントローラのICをひっぺがして、PCI-Expressの信号をそのままUSB3.0の端子に出るようにすれば、このライザーカードを経由してPCI Expressボードが使えるようになるという算段です。
+ </description>
+    </item>
+    
+    <item>
+      <title>Raspberry PiをモバイルにするPiTop4</title>
+      <link>https://inajob.github.io/inajob-review/post/raspberry-pi%E3%82%92%E6%8D%AE%E3%81%88%E7%BD%AE%E3%81%8D%E6%A9%9F%E3%81%AB%E3%81%99%E3%82%8Bpitop4/</link>
+      <pubDate>Thu, 01 Aug 2019 23:00:31 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/raspberry-pi%E3%82%92%E6%8D%AE%E3%81%88%E7%BD%AE%E3%81%8D%E6%A9%9F%E3%81%AB%E3%81%99%E3%82%8Bpitop4/</guid>
+      <description>pi-top [4] the smarter way to design, code &amp;amp; make anything!から発見。画像もここから転載。
+pi-topシリーズのRaspberry Pi 4版が出てきました。 今までのノートPC型とは打って変わって、小さな画面の付いた手のひらサイズのケースです。
+GPIOがむき出しになっているので、電子工作でも使いやすそうです。バッテリーも内蔵しているので、モバイル環境での使い勝手もよさそうです。</description>
+    </item>
+    
+    <item>
+      <title>RaspberryPiに簡単に取り付けられるサーマルカメラモジュール</title>
+      <link>https://inajob.github.io/inajob-review/post/raspberrypi%E3%81%AB%E7%B0%A1%E5%8D%98%E3%81%AB%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91%E3%82%89%E3%82%8C%E3%82%8B%E3%82%B5%E3%83%BC%E3%83%9E%E3%83%AB%E3%82%AB%E3%83%A1%E3%83%A9%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Wed, 10 Jul 2019 23:00:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/raspberrypi%E3%81%AB%E7%B0%A1%E5%8D%98%E3%81%AB%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91%E3%82%89%E3%82%8C%E3%82%8B%E3%82%B5%E3%83%BC%E3%83%9E%E3%83%AB%E3%82%AB%E3%83%A1%E3%83%A9%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</guid>
+      <description>Making a DIY thermal camera based on a Raspberry Pi から発見。画像もここから掲載。
+Raspberry Piで簡単に利用できるサーマルカメラの紹介記事です。 サーマルカメラというのはよくSFなどで出てくる温度が可視化できるカメラです。
+ここで紹介しているサーマルカメラはMLX90640というもので32x24の解像度があります。 そして、この記事でお勧めしているのはこのサーマルカメラを使いやすくしたGY-MCU90640というボードです。 ボード上にSTM32F103を搭載し、I2C接続やUARTで簡単にサーマルカメラの出力を取得できるようにしています。
+一般的にカメラモジュールを直接扱うのは面倒なことが多いので、このモジュールは非常にありがたいです。
+お値段は5000RUB（だいたい$80）で、まぁまぁリーズナブルといえましょう。
+サーマルカメラを使った工作を考えている方はぜひ買ってみてください。</description>
+    </item>
+    
+    <item>
+      <title>チーズバーガー型の自作ゲーム機</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%83%81%E3%83%BC%E3%82%BA%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC%E5%9E%8B%E3%81%AE%E8%87%AA%E4%BD%9C%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Tue, 02 Jul 2019 23:00:21 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%83%81%E3%83%BC%E3%82%BA%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC%E5%9E%8B%E3%81%AE%E8%87%AA%E4%BD%9C%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>Retro Gaming… On a Cheeseburger? から発見。画像もここから転載。
+Raspberry Pi Zeroを使ったゲーム機。特筆すべきはこのゲーム機の形状です。
+このチーズバーガーを模した筐体は、レーザーカッターで切断したMDFを積層して作られています。 積層したMDFの側面をやすりがけして丸みのある形に加工しています。
+レーザーカッターを使った作例は、「いかにも」という風貌になりがちですが、このように手をかけることで、ここまでの質感を表現できることに驚きました。
+ </description>
+    </item>
+    
+    <item>
+      <title>自作のハンドヘルドPC「Spellbook」</title>
+      <link>https://inajob.github.io/inajob-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E3%83%8F%E3%83%B3%E3%83%89%E3%83%98%E3%83%AB%E3%83%89pcspellbook/</link>
+      <pubDate>Wed, 19 Jun 2019 23:00:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E3%83%8F%E3%83%B3%E3%83%89%E3%83%98%E3%83%AB%E3%83%89pcspellbook/</guid>
+      <description>Spellbookから発見。画像もここから転載。
+SpellbookはRaspberry Pi Zeroを使った自作のハンドヘルドPCです。 製作のほとんどの工程が動画で紹介されています。
+コンポーネントを固定するために3Dプリンタで”お弁当箱の仕切り”のような部品を作っているのがとても参考になりました。
+原理上できるのはわかるのですが、このSpellbookはかなりコンパクトにそれを実現しているのが印象的です。
+   </description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi Zero用のバッテリーボード「PiSugar」</title>
+      <link>https://inajob.github.io/inajob-review/post/raspberry-pi-zero%E7%94%A8%E3%81%AE%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89pisugar/</link>
+      <pubDate>Wed, 29 May 2019 23:00:30 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/raspberry-pi-zero%E7%94%A8%E3%81%AE%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89pisugar/</guid>
+      <description>PiSugar Battery for Raspberry Pi zeroから発見。画像もここから転載。
+Raspberry Pi Zeroは小型で組み込みやすいのですが、バッテリーをふくめるとどうでしょう？ 大きなバッテリーのために結局かさばってしまった、というような作例をよく見かけます。
+ここで紹介しているPiSugarはRaspberry Pi Zeroにぴったりのバッテリーボードです。 これを使うことで、簡単にバッテリー入りの小型のガジェットを作ることができそうです。
+基板同士の接続はスプリングピンで実現しているため、はんだ付けをすることなく組み立てられるというのも魅力です。バッテリーと基板の固定には磁石を用いているというのも変わったアイデアだな、と感じました。
+ </description>
+    </item>
+    
+    <item>
+      <title>かっこいい外付けRaspberryPi「USBerry PI」</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E5%A4%96%E4%BB%98%E3%81%91raspberrypiusberry-pi/</link>
+      <pubDate>Tue, 14 May 2019 23:00:00 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E5%A4%96%E4%BB%98%E3%81%91raspberrypiusberry-pi/</guid>
+      <description>USBerry PI - USB Rasberry Pi Zero(W) にて発見。画像もここから転載（By quintaar CC BY-NC-SA）
+普通のノートパソコンからは気軽にGPIOを操作することはできません。この記事ではRaspberryPi Zero WをPCにつなげ、気軽に電子工作ができるような「外付けRaspberryPi」を作成しています。
+ こういうUSBのコネクタを生やすやつを使って、RaspberryPi Zero WをPCに直結できるようにしているようです。
+PCからの接続は、 Raspberry Pi ZeroをUSBケーブル1本で遊ぶ の手法を使っているようです。
+ </description>
+    </item>
+    
+    <item>
+      <title>手拍子に反応する機械を作る</title>
+      <link>https://inajob.github.io/inajob-review/post/%E6%89%8B%E6%8B%8D%E5%AD%90%E3%81%AB%E5%8F%8D%E5%BF%9C%E3%81%99%E3%82%8B%E6%A9%9F%E6%A2%B0%E3%82%92%E4%BD%9C%E3%82%8B/</link>
+      <pubDate>Tue, 02 Apr 2019 23:00:59 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E6%89%8B%E6%8B%8D%E5%AD%90%E3%81%AB%E5%8F%8D%E5%BF%9C%E3%81%99%E3%82%8B%E6%A9%9F%E6%A2%B0%E3%82%92%E4%BD%9C%E3%82%8B/</guid>
+      <description>Build your own Raspberry Pi “Clapper” 👏👏から発見
+手拍子を検知してLEDを点けるというデモ。もちろん任意のスクリプトを手拍子で実行できるので、RaspberryPiを使ってできることなら何でもできます。
+手拍子の検出はオープンソースのnikhiljohn10/pi-clapを使っている。
+音声認識というと案外使い勝手が難しいイメージがありますが、手拍子というのは、案外良い着眼点かもしれないと感じました。
+誤検知がどのくらいあるのか気になるところ。</description>
+    </item>
+    
+  </channel>
+</rss>

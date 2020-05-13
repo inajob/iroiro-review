@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diy on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/inajob-review/tags/diy/</link>
+    <description>Recent content in Diy on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Tue, 05 Nov 2019 23:00:34 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/inajob-review/tags/diy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>音声で制御できる光る部品箱</title>
+      <link>https://inajob.github.io/inajob-review/post/%E9%9F%B3%E5%A3%B0%E3%81%A7%E5%88%B6%E5%BE%A1%E3%81%A7%E3%81%8D%E3%82%8B%E5%85%89%E3%82%8B%E9%83%A8%E5%93%81%E7%AE%B1/</link>
+      <pubDate>Tue, 05 Nov 2019 23:00:34 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E9%9F%B3%E5%A3%B0%E3%81%A7%E5%88%B6%E5%BE%A1%E3%81%A7%E3%81%8D%E3%82%8B%E5%85%89%E3%82%8B%E9%83%A8%E5%93%81%E7%AE%B1/</guid>
+      <description>FindyBot3000 - a Voice Controlled Organizerから発見。画像もここから転載（CC BY-NC-SA By Inventor22）
+Google Homeの登場により、「音声で操作する」というのもずいぶん一般化してきました。 この記事で紹介しているのは「音声で操作する引き出し」です。
+電子工作をしている人あるあるとして、「どこにあの部品があるかわからない」というのがあります。この引き出しは、音声の指示に応じて該当する引き出しが光るというものです。
+まず「LEDを入れたいんだけど」と伝えると、空いている引き出しが光るので、そこに部品を入れます。これにより、後から検索ができるという寸法です。あいまい検索にも対応しているようで、LEDの色により確度を表したりもできるようです。
+また、単なるマトリクスLEDのようにも扱えるので、文字を表示したりすることもできるようです。
+ </description>
+    </item>
+    
+  </channel>
+</rss>

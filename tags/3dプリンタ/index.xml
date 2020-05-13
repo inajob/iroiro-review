@@ -1,0 +1,1122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3dプリンタ on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/inajob-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
+    <description>Recent content in 3dプリンタ on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sun, 03 May 2020 23:00:11 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/inajob-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>自作のモバイル温度湿度計</title>
+      <link>https://inajob.github.io/inajob-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E6%B8%A9%E5%BA%A6%E6%B9%BF%E5%BA%A6%E8%A8%88/</link>
+      <pubDate>Sun, 03 May 2020 23:00:11 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E6%B8%A9%E5%BA%A6%E6%B9%BF%E5%BA%A6%E8%A8%88/</guid>
+      <description>Xpedit - Atmosphere Monitoring Device for Hiking and Trekkingから発見。画像もここから転載。（CC BY-NC-SA）
+ハイキングや登山のお供によさそうなモバイル式の温度湿度計です。ほかにも高度や大気圧なども測定できるようです。 ケースは3Dプリンタで作っており、操作しやすそうな大きなダイヤルが特徴的です。</description>
+    </item>
+    
+    <item>
+      <title>ミシンにアドオンする刺繍マシン</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%83%9F%E3%82%B7%E3%83%B3%E3%81%AB%E3%82%A2%E3%83%89%E3%82%AA%E3%83%B3%E3%81%99%E3%82%8B%E5%88%BA%E7%B9%8D%E3%83%9E%E3%82%B7%E3%83%B3/</link>
+      <pubDate>Thu, 30 Apr 2020 23:00:02 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%83%9F%E3%82%B7%E3%83%B3%E3%81%AB%E3%82%A2%E3%83%89%E3%82%AA%E3%83%B3%E3%81%99%E3%82%8B%E5%88%BA%E7%B9%8D%E3%83%9E%E3%82%B7%E3%83%B3/</guid>
+      <description>A BETTER EMBROIDERY MACHINE, WITH 3D PRINTING AND COMMON PARTSから発見。画像もここから転載。
+普通の電動ミシンにアドオンする刺繍マシンの作例です。
+コンピュータミシンの中には好きな模様を刺繍できるものがありますが、この記事で紹介している装置は、その機能を普通のミシンにアドオンするためのものです。
+写真を見れば一目瞭然の構造ですが、生地をX,Y軸にコンピュータ制御で移動させることで刺繍の模様を制御します。
+仕組みは違いますが3DプリンタのExtruderが電動ミシンに置き換わったようなものです。
+制御用のUIはAndroidで動作するように作りこまれており、可なり高い完成度です。
+ </description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタで作るからくりプッシュボタン</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A%E3%83%97%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%82%BF%E3%83%B3/</link>
+      <pubDate>Tue, 28 Apr 2020 23:00:53 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A%E3%83%97%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%82%BF%E3%83%B3/</guid>
+      <description>CLICKY SIGNSPINNER WORKS JUST LIKE A RETRACTABLE PENから発見。画像もここから転載。
+3Dプリンタで作ると面白いものの一つに「からくり」があります。 この記事で紹介しているのは、プッシュボタンを押すことで次々と表示が切り替わるからくりです。
+ばねとなる部品はPETGで生成し他はPLAで作っているようです。</description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタで作られたとてもリアルな「カタン」セット</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%81%A8%E3%81%A6%E3%82%82%E3%83%AA%E3%82%A2%E3%83%AB%E3%81%AA%E3%82%AB%E3%82%BF%E3%83%B3%E3%82%BB%E3%83%83%E3%83%88/</link>
+      <pubDate>Mon, 27 Apr 2020 23:00:09 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%81%A8%E3%81%A6%E3%82%82%E3%83%AA%E3%82%A2%E3%83%AB%E3%81%AA%E3%82%AB%E3%82%BF%E3%83%B3%E3%82%BB%E3%83%83%E3%83%88/</guid>
+      <description>3D Catan. Designed, 3D Printed and Painted.から発見。画像もここから転載（CC BY-NC-SA By Maclsk）
+「カタン」というボードゲームを知っていますか？ この記事で紹介しているのはとてもリアルな「カタン」のキットの作例です。
+3Dプリンタで作られた1色の味気ない造形を、やすりで磨き、塗装をしてこの素晴らしい見た目を実現しています。味気ない3Dプリンタの造形物も塗装をすることで、ここまでそれっぽくなるという良い例です。
+最近はフルカラーの3Dプリンタも出てきているようなので、そういったものを使うともっと手軽にこのようなものが作れるかもしれません。
+3Dプリンタの基となるSTLファイルは公開されているので、とりあえずモノクロでも良いので作ってみたいなと思いました。</description>
+    </item>
+    
+    <item>
+      <title>基板を切削するためのCNCマシン</title>
+      <link>https://inajob.github.io/inajob-review/post/%E5%9F%BA%E6%9D%BF%E3%82%92%E5%88%87%E5%89%8A%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AEcnc%E3%83%9E%E3%82%B7%E3%83%B3/</link>
+      <pubDate>Fri, 24 Apr 2020 23:00:54 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E5%9F%BA%E6%9D%BF%E3%82%92%E5%88%87%E5%89%8A%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AEcnc%E3%83%9E%E3%82%B7%E3%83%B3/</guid>
+      <description>Mill Single or Dual-Layer PCBs with Ant’s Desktop CNC Machineから発見。画像もここから転載。
+CNCマシンを使って基板を「掘る」というのは、よく見るテクニックですが、それに特化したCNCを作ろうというのがこのプロジェクトです。
+基板に特化することで、より精度よく、コンパクトに、安く実現することを目指しているようです。 成果はオープンソースで公開されているのでまねして作ってみるのも面白そうです。
+ </description>
+    </item>
+    
+    <item>
+      <title>非常に小さなThinkpad風ガジェット</title>
+      <link>https://inajob.github.io/inajob-review/post/%E9%9D%9E%E5%B8%B8%E3%81%AB%E5%B0%8F%E3%81%95%E3%81%AAthinkpad%E9%A2%A8%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
+      <pubDate>Thu, 23 Apr 2020 23:00:22 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E9%9D%9E%E5%B8%B8%E3%81%AB%E5%B0%8F%E3%81%95%E3%81%AAthinkpad%E9%A2%A8%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
+      <description>ThinkTiny Is a Micro ThinkPad-Inspired Notebookから発見。画像もここから転載。
+非常に小さなThinkpad風のガジェットです。Thinkpad風なのは見た目だけではなく、操作するための「スティック」がThinkpadのトラックポイントとよく似た操作感です。
+ICはATtiny1614を使い、こういった工作ではおなじみの128x64のOLEDを利用しています。 小さいガジェットはいろいろ見てきましたが、このように一つテーマを持って物を作るというのは面白いと感じました。
+ </description>
+    </item>
+    
+    <item>
+      <title>やや大き目な折り畳みケータイ型Raspberry Piケース</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%82%84%E3%82%84%E5%A4%A7%E3%81%8D%E7%9B%AE%E3%81%AA%E6%8A%98%E3%82%8A%E7%95%B3%E3%81%BF%E3%82%B1%E3%83%BC%E3%82%BF%E3%82%A4%E5%9E%8Braspberry-pi%E3%82%B1%E3%83%BC%E3%82%B9/</link>
+      <pubDate>Wed, 22 Apr 2020 23:00:55 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%82%84%E3%82%84%E5%A4%A7%E3%81%8D%E7%9B%AE%E3%81%AA%E6%8A%98%E3%82%8A%E7%95%B3%E3%81%BF%E3%82%B1%E3%83%BC%E3%82%BF%E3%82%A4%E5%9E%8Braspberry-pi%E3%82%B1%E3%83%BC%E3%82%B9/</guid>
+      <description>This Giant Raspberry Pi Flip Phone Lets You Relive the Good Ol’ Daysから発見。画像もここから転載。
+3Dプリンタで作られた、Raspberry Pi向けのやや大き目の折り畳み型ケータイケースの作例です。
+2Gの通信モジュールも内蔵しており、実際に通信することができるようです。キーパッド部分はメカニカルキーボードのスイッチを使っているようです。
+大き目で作ることですることで様々な難しい障害を取り除くことができるので、まずはすこし「大き目」でものを作ってみるというアプローチも良いなと感じました。
+ </description>
+    </item>
+    
+    <item>
+      <title>アーケードゲーム風のRaspberry Piケース</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E9%A2%A8%E3%81%AEraspberry-pi%E3%82%B1%E3%83%BC%E3%82%B9/</link>
+      <pubDate>Thu, 16 Apr 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E9%A2%A8%E3%81%AEraspberry-pi%E3%82%B1%E3%83%BC%E3%82%B9/</guid>
+      <description>CompactPi Mini Arcade - CPi01から発見。画像もここから転載。
+見ての通りアーケードゲーム風のRaspberry Piのエンクロージャです。 3Dプリンタを使って作られていますが、完成度は非常に高く、おもちゃっぽい色合いのフィラメントが良い雰囲気を演出しています。
+ディスプレイは800x480、バッテリ、スピーカーも搭載されています。さらに手前に小さなOLEDのディスプレイが搭載してあり、ガジェット感を演出しています。
+ </description>
+    </item>
+    
+    <item>
+      <title>コンパクトな自作プロッタ</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E8%87%AA%E4%BD%9C%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</link>
+      <pubDate>Tue, 14 Apr 2020 23:00:54 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E8%87%AA%E4%BD%9C%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</guid>
+      <description>Bart Dring Revises His 3D-Printed Pen Plotter Designから発見。画像もここから転載。
+3Dプリンタで作られた非常にかわいらしいペンプロッタです。 コアとなるボードはESP32のようです。サーボモータでペンを持ち上げる動作が非常にチャーミングです。
+ソースコードや3Dプリンタ用モデルデータはオープンソースで公開されています（ライセンス表記なし）
+ </description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタで作ったかわいいプロッタ</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</link>
+      <pubDate>Wed, 08 Apr 2020 23:00:01 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</guid>
+      <description>Tracey - Drawing Machineから発見。画像もここから転載（CC BY-NC-SA By BitSand）
+アーム的な機構のペンプロッタの作例を紹介します。 3Dプリンタで作られたアームにコントローラはESP8266を使っているようです。
+直動機構を使ったプロッタに比べると安く作れそうに見えます。その分精度の面では劣りそうですが2つのアームでプロットする様子は人間の腕の動きとも似ていて、こちらも味があります。
+またレーザーを使った彫刻やUVLEDと感光版を使ったぼんやり光る演出など、様々な活用例に挑戦しているのも面白いです。
+ </description>
+    </item>
+    
+    <item>
+      <title>アーケードゲームのボタンをふんだんに使ったMIDIコントローラー</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E3%83%9C%E3%82%BF%E3%83%B3%E3%82%92%E3%81%B5%E3%82%93%E3%81%A0%E3%82%93%E3%81%AB%E4%BD%BF%E3%81%A3%E3%81%9Fmidi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC/</link>
+      <pubDate>Tue, 07 Apr 2020 23:00:31 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E3%83%9C%E3%82%BF%E3%83%B3%E3%82%92%E3%81%B5%E3%82%93%E3%81%A0%E3%82%93%E3%81%AB%E4%BD%BF%E3%81%A3%E3%81%9Fmidi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC/</guid>
+      <description>This 3D-Printed MIDI “Jammer” Keyboard Was Built with an Arduino Dueから発見。画像もここから転載。
+アーケードゲームのスイッチをふんだんに使ったMIDIコントローラです。ケースは3Dプリンタで作成され、コントローラはArduino DUEです。
+アーケードのボタンは操作していて楽しいので、音楽を奏でるためのボタンとしては結構相性が良いと感じました。
+ </description>
+    </item>
+    
+    <item>
+      <title>サーボモーターで制御するシンプルなロボットアーム</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%82%B5%E3%83%BC%E3%83%9C%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%A7%E5%88%B6%E5%BE%A1%E3%81%99%E3%82%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%A2%E3%83%BC%E3%83%A0/</link>
+      <pubDate>Sun, 05 Apr 2020 23:00:02 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%82%B5%E3%83%BC%E3%83%9C%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%A7%E5%88%B6%E5%BE%A1%E3%81%99%E3%82%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%A2%E3%83%BC%E3%83%A0/</guid>
+      <description>Robotic Arm Gripperから発見。画像もここから転載。
+単純そうなロボットアームの作例です。
+閉じる力は輪ゴムを利用し、開く力をサーボモーターから与えるようにしています。 こうすることで電力を使わずアームを閉じることが実現できているようです。
+似たような作品を作る際には参考になりそうです。</description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタで作った立体迷路</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E7%AB%8B%E4%BD%93%E8%BF%B7%E8%B7%AF/</link>
+      <pubDate>Wed, 25 Mar 2020 23:00:45 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E7%AB%8B%E4%BD%93%E8%BF%B7%E8%B7%AF/</guid>
+      <description>Three Dimensional Mazeから発見。画像もここから転載（CC BY-NC-SA By WhyyNot）
+みたまんま3Dプリンタで作る立体迷路です。こういうおもちゃを自分で設計して作ることができるのはとても楽しそうです。</description>
+    </item>
+    
+    <item>
+      <title>シンプルな磁石によるベアリング</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E7%A3%81%E7%9F%B3%E3%81%AB%E3%82%88%E3%82%8B%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0/</link>
+      <pubDate>Tue, 24 Mar 2020 23:00:51 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E7%A3%81%E7%9F%B3%E3%81%AB%E3%82%88%E3%82%8B%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0/</guid>
+      <description>Simple Ball Bearing Carから発見。画像もここから転載(CC BY-NC-SA By gzumwalt)
+3Dプリンタで作った造形物に回転機構を組み込むときは一般的には軸とベアリングを使いますが、この例では磁石を使う方法を紹介しています。
+写真を見れば一目瞭然、磁石と鉄のボールをうまく3Dプリンタの造形物にはめ込むようにすることでミニカーのタイヤを実現しています。
+ベアリングを使うよりもはるかに簡単な仕組みで実現できるので、回転部分を含む3Dプリンタの作品を作る際に活用できそうなテクニックです。
+ </description>
+    </item>
+    
+    <item>
+      <title>フィラメントが不要のプラスチック粉から造形できる3Dプリンタ</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%81%8C%E4%B8%8D%E8%A6%81%E3%81%AE%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E7%B2%89%E3%81%8B%E3%82%89%E9%80%A0%E5%BD%A2%E3%81%A7%E3%81%8D%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
+      <pubDate>Sun, 22 Mar 2020 23:00:37 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%81%8C%E4%B8%8D%E8%A6%81%E3%81%AE%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E7%B2%89%E3%81%8B%E3%82%89%E9%80%A0%E5%BD%A2%E3%81%A7%E3%81%8D%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
+      <description>Direct granules extruderから発見。画像もここから転載。
+3Dプリンタは通常フィラメントを使います。フィラメントは安い、とは言えそこそこします。 フィラメントより安いペレットや、失敗プリントした造形物を粉砕した粉などから3Dプリントすることができればもっと安くで3Dプリントをすることができます。
+この記事で紹介しているのはプラスチックの粉から3Dプリントをすることができる3Dプリンタです。 この技術が一般的になればもっと安く3Dプリントができそうです。将来が楽しみなプロジェクトです。
+ </description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタで作ったケースに3Dプリンタで文字を書く</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%B1%E3%83%BC%E3%82%B9%E3%81%AB3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E6%96%87%E5%AD%97%E3%82%92%E6%9B%B8%E3%81%8F/</link>
+      <pubDate>Wed, 18 Mar 2020 23:00:06 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%B1%E3%83%BC%E3%82%B9%E3%81%AB3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E6%96%87%E5%AD%97%E3%82%92%E6%9B%B8%E3%81%8F/</guid>
+      <description>ENCLOSURE NEEDS LABELS? MAKE THE 3D PRINTER DO ITから発見。画像もここから転載
+立体物に印刷をするためには、ちょっとした工夫が必要です。この記事で紹介しているのは3Dプリンタにペンを持たせて筐体に直接文字を描くという方法です。
+安定して動かすのが大変そうに思いますが、動画では非常にきれいに書き込みをしているように見えます。
+ </description>
+    </item>
+    
+    <item>
+      <title>レトロな見た目のRaspberry Piコンソール</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%83%AC%E3%83%88%E3%83%AD%E3%81%AA%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AEraspberry-pi%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Mon, 16 Mar 2020 23:00:51 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%83%AC%E3%83%88%E3%83%AD%E3%81%AA%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AEraspberry-pi%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</guid>
+      <description>FLIPT-BIT: Retro-styled Raspberry Pi Computerから発見。画像もここから転載（CC BY-NC-SA By lewisb42）
+レトロコンピューター風のRaspberry Piのケースの作例です。 キーボードと画面、トラックパッドを箱状のケースに詰め込んだ力作です。
+ケースはアクリル板と3Dプリンタによる造形で作られています。 RaspberryPiに必要なものが全部入ったケースで使い勝手がよさそうです。</description>
+    </item>
+    
+    <item>
+      <title>UVLEDを使った新しいディスプレイ</title>
+      <link>https://inajob.github.io/inajob-review/post/uvled%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%96%B0%E3%81%97%E3%81%84%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</link>
+      <pubDate>Sun, 15 Mar 2020 23:00:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/uvled%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%96%B0%E3%81%97%E3%81%84%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</guid>
+      <description>Photochromic &amp;amp; Glow-in-the-Dark Clockから発見。画像もここから転載。（CC BY-NC-SA By mosivers）
+紫外線LEDを使って作った新しいディスプレイの作例です。
+2種類のデモが紹介されています。1つは「UV感光フィラメントで作られた板」これを使うとUV LEDの光が当たったところだけ色が変わります。
+もう一つは「蓄光テープ」。これを使うとUV LEDの光が当たったところだけが暗闇でぼんやり光ります。
+どちらもLEDが消灯してからもしばらくの間色がついたままなので、省電力でのディスプレイを実現する際にも役に立つテクニックかもしれません。
+また、この7セグメントのような表示は3Dプリンタとグルーガンで自作しており、その点でも参考になりそうな作例です。
+ </description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタで作れるタクトスイッチカバー付きケース</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8C%E3%82%8B%E3%82%BF%E3%82%AF%E3%83%88%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%82%AB%E3%83%90%E3%83%BC%E4%BB%98%E3%81%8D%E3%82%B1%E3%83%BC%E3%82%B9/</link>
+      <pubDate>Thu, 12 Mar 2020 23:00:41 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8C%E3%82%8B%E3%82%BF%E3%82%AF%E3%83%88%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%82%AB%E3%83%90%E3%83%BC%E4%BB%98%E3%81%8D%E3%82%B1%E3%83%BC%E3%82%B9/</guid>
+      <description>3D PRINTED BUTTONS, PRINTED AS A SINGLE UNITから発見。画像もここから転載。
+「3Dプリンタはどんな形状でも作れる」と思われるかもしれませんが、意外と苦手な形も多いのです。 オーバーハングがきついとサポートなしには造形することができませんし、積層方向に力がかかると簡単に折れてしまいます。
+そのような制限をうまくかいくぐり作成されたのがこの、タクトスイッチのカバー付きケースです。
+写真では違いう色のフィラメントが使われていますが、これは原理をわかりやすく説明するためのもので、実際は1色のフィラメントで造形できるようです。
+表面実装の小さなタクトスイッチはそのままでは押しづらいため、このようなキーキャップ付きのケースの作例は非常に参考になります。</description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタ製のよくできたFMラジオ</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%88%E3%81%8F%E3%81%A7%E3%81%8D%E3%81%9Ffm%E3%83%A9%E3%82%B8%E3%82%AA/</link>
+      <pubDate>Wed, 04 Mar 2020 23:00:28 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%88%E3%81%8F%E3%81%A7%E3%81%8D%E3%81%9Ffm%E3%83%A9%E3%82%B8%E3%82%AA/</guid>
+      <description>FM Radioから発見。画像もここから転載。（CC BY-NC-SA By indoorgeek）
+今やFMラジオを作るのも簡単になったようで、 RDA5807MなどというIC一つで十分のようです。 あとは周辺にOLEDをつけて、Arduinoで制御して、、という具合に作られたのがこのFMラジオです。
+注目すべきは洗練されたケースです。3Dプリンタの作例としては非常にきれいにまとまっており高い完成度となっています。
+フィラメントの色合いや、基板を表に出さないなど、いくつかの要点を抑えると3Dプリンタでもそこそこの完成度のものが作れるのだなと感じました。
+ </description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタとレーザーカッターで作るPCケース</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A8%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A7%E4%BD%9C%E3%82%8Bpc%E3%82%B1%E3%83%BC%E3%82%B9/</link>
+      <pubDate>Sun, 01 Mar 2020 23:00:12 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A8%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A7%E4%BD%9C%E3%82%8Bpc%E3%82%B1%E3%83%BC%E3%82%B9/</guid>
+      <description>Mikros: Tiny 3D Printed Computer Caseから発見。画像もここから転載（CC BY-NC-SA By r0bbee）
+マザーボードはどんどん小さくなっており、MiniITXやMicroITXのものであれば、ぎりぎり標準的な3Dプリンタでケースが作れそうです。
+この記事では3Dプリンタとレーザーカッターを使って、PCケースを自作しています。 3Dプリンタで作れるとなると、いろいろと攻めた形のケースが作れそうだなと思いました。</description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタで作成した完成度の高いサイモンゲーム</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%97%E3%81%9F%E5%AE%8C%E6%88%90%E5%BA%A6%E3%81%AE%E9%AB%98%E3%81%84%E3%82%B5%E3%82%A4%E3%83%A2%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0/</link>
+      <pubDate>Thu, 27 Feb 2020 23:00:16 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%97%E3%81%9F%E5%AE%8C%E6%88%90%E5%BA%A6%E3%81%AE%E9%AB%98%E3%81%84%E3%82%B5%E3%82%A4%E3%83%A2%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0/</guid>
+      <description>Simon Says Game - 3D Printable | Arduino Nano | DIY Projectから発見。画像もここから転載（CC BY-NC-SA By DIY Machines）
+昔からある電子ゲーム「サイモン」専用機を紹介します。 「サイモン」とは、光がついた順番をどんどん覚えていくという暗記ゲームで、4つのLED付きのボタンがあれば簡単に作れるため、よく電子工作の題材として登場します。
+この記事で紹介しているのも、そんな「サイモン」ゲーム機なのですが、非常に完成度が高いです。 ケースはすべて3Dプリンタで作成し、制御はArduino Nano、画面表示には128x32のモノクロOLEDと、ごくごくありふれた部品で作成されています。
+にもかかわらず、非常に高い完成度となっており、3Dプリンタでもここまでのものが作れるのかと、感心しました。
+ </description>
+    </item>
+    
+    <item>
+      <title>チョコレートを射出して模様を描く装置</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E3%82%92%E5%B0%84%E5%87%BA%E3%81%97%E3%81%A6%E6%A8%A1%E6%A7%98%E3%82%92%E6%8F%8F%E3%81%8F%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Tue, 18 Feb 2020 23:00:36 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E3%82%92%E5%B0%84%E5%87%BA%E3%81%97%E3%81%A6%E6%A8%A1%E6%A7%98%E3%82%92%E6%8F%8F%E3%81%8F%E8%A3%85%E7%BD%AE/</guid>
+      <description>SYRINGE PUMP TURNS CNC MACHINE INTO A FROSTING BOT から発見。画像もここから転載。
+3Dプリンタを活用して作成したオリジナルのCNCマシンです。チョコレートを絞り出すシリンダを装着することで、お菓子にお絵かきする装置を作成しています。
+これがあれば、よく誕生日ケーキなどで見かける名前入りのプレートなどをコンピュータ制御で作ることができそうです。
+ </description>
+    </item>
+    
+    <item>
+      <title>何かに似たRaspberry Piケース</title>
+      <link>https://inajob.github.io/inajob-review/post/%E4%BD%95%E3%81%8B%E3%81%AB%E4%BC%BC%E3%81%9Fraspberry-pi%E3%82%B1%E3%83%BC%E3%82%B9/</link>
+      <pubDate>Mon, 17 Feb 2020 23:00:27 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E4%BD%95%E3%81%8B%E3%81%AB%E4%BC%BC%E3%81%9Fraspberry-pi%E3%82%B1%E3%83%BC%E3%82%B9/</guid>
+      <description>RasProから発見。画像もここから転載（Public Domain）
+写真を見れば一目瞭然例のアレによく似たRaspberry Piのケースです。 AC電源やファンを内蔵するなど、意外とちゃんと作られています。
+取っ手も付いているし、案外良い製品に見えてきました。
+ </description>
+    </item>
+    
+    <item>
+      <title>コンピュータ制御の機織り機</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E5%88%B6%E5%BE%A1%E3%81%AE%E6%A9%9F%E7%B9%94%E3%82%8A%E6%A9%9F/</link>
+      <pubDate>Wed, 12 Feb 2020 23:00:27 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E5%88%B6%E5%BE%A1%E3%81%AE%E6%A9%9F%E7%B9%94%E3%82%8A%E6%A9%9F/</guid>
+      <description>OPEN SOURCE COMPUTER CONTROLLED LOOM WEAVES PIKACHU FOR YOUから発見。画像もここから転載。
+「機織り機」を3DプリンタやレーザーカッターでDIYした例を紹介します。 昔からある「機織り機」ですが、この作例では、任意の図案を織り込めるようにコンピュータ制御を取り入れているようです。
+機織りの基本となる縦の糸のパターンをコンピュータで制御することで、人間は何も考えず横糸を通せば絵柄の入った織物が作れるよいうようなもののようです。
+完全に自動化しないところが逆に好感が持てます。
+ </description>
+    </item>
+    
+    <item>
+      <title>スマートフォンに追加のスイッチを簡単に追加するHACK</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%81%AB%E8%BF%BD%E5%8A%A0%E3%81%AE%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%82%92%E7%B0%A1%E5%8D%98%E3%81%AB%E8%BF%BD%E5%8A%A0%E3%81%99%E3%82%8Bhack/</link>
+      <pubDate>Tue, 11 Feb 2020 23:00:25 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%81%AB%E8%BF%BD%E5%8A%A0%E3%81%AE%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%82%92%E7%B0%A1%E5%8D%98%E3%81%AB%E8%BF%BD%E5%8A%A0%E3%81%99%E3%82%8Bhack/</guid>
+      <description>ADD SCROLL WHEELS AND BUTTONS TO SMARTPHONES WITH 3D-PRINTED WIDGETS READ BY ACCELEROMETERにて発見。画像もここから転載。
+スマートフォンの物理ボタンはどんどん減ってきています。しかし、物理ボタンのほうが操作しやすいと思う人も多いのではないでしょうか？
+この記事で紹介しているのは、スマートフォンに物理的なボタンやダイヤルを追加する方法です。 特徴的なのは、何の配線もいらないということです。
+そのタネはスマートフォンの加速度センサーです。物理ボタンやダイアルを操作した時の特徴的な振動を検知して操作を認識するようです。
+ </description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタ製の電源入りのブレッドボード</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E9%9B%BB%E6%BA%90%E5%85%A5%E3%82%8A%E3%81%AE%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Sun, 09 Feb 2020 23:00:36 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E9%9B%BB%E6%BA%90%E5%85%A5%E3%82%8A%E3%81%AE%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>Dev Board Breadboardから発見。画像もここから転載（CC BY-NC-SA By 陳亮）
+プロトタイピングに便利なブレッドボードですが、この記事で紹介するのは、さらに便利なブレッドボードです。
+写真の通り中央部分に電池を内蔵しているのです。1本でもArduinoを動作させることができるように単四サイズのリチウムイオン電池を利用しています（2.5-3.65V）
+ブレッドボードは3Dプリンタで作成しており、内部の金属パーツは既存のブレッドボードを分解して取り出しています。
+今まで当たり前に利用していたブレッドボードですが、電源が内蔵されることでさらに便利になりそうです。</description>
+    </item>
+    
+    <item>
+      <title>自作のポータブル数独ゲーム機</title>
+      <link>https://inajob.github.io/inajob-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%E6%95%B0%E7%8B%AC%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Mon, 03 Feb 2020 23:00:59 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%E6%95%B0%E7%8B%AC%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>Portable Electronic Sudoku Gameから発見。画像もここから転載。
+Arduinoと2.8インチのタッチパネル液晶を使った、ポータブル数独ゲーム機を紹介します。
+見ての通り数独ゲームです。3Dプリンタ製のケースをまとい、バッテリーを内蔵しています。 特段変わったことをしているわけではないですが「なんだ、これでいいじゃん」と思わせてくれる「しっくり感」があります。
+ちょっと部品をそろえれば誰でも作れそうなところもポイントが高いです。
+ </description>
+    </item>
+    
+    <item>
+      <title>多腕のピアノ自動演奏装置</title>
+      <link>https://inajob.github.io/inajob-review/post/%E5%A4%9A%E8%85%95%E3%81%AE%E3%83%94%E3%82%A2%E3%83%8E%E8%87%AA%E5%8B%95%E6%BC%94%E5%A5%8F%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Thu, 23 Jan 2020 20:00:39 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E5%A4%9A%E8%85%95%E3%81%AE%E3%83%94%E3%82%A2%E3%83%8E%E8%87%AA%E5%8B%95%E6%BC%94%E5%A5%8F%E8%A3%85%E7%BD%AE/</guid>
+      <description>The Pianist Octopusから発見。画像もここから転載。
+3Dプリンタで作られた多腕のキーボード演奏装置です。 多数のサーボモータを使い鍵盤ごとに対応したアームを動かしてピアノを演奏するようです。
+アームの有機的な造形により、まるで生き物のような不思議な雰囲気を醸し出しているのも印象的です。 動画が無いのが残念ですが、ぜひ動いているところを見てみたいと思いました。
+ </description>
+    </item>
+    
+    <item>
+      <title>自作のピンボールマシン</title>
+      <link>https://inajob.github.io/inajob-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E3%83%94%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%9E%E3%82%B7%E3%83%B3/</link>
+      <pubDate>Mon, 13 Jan 2020 23:00:56 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E3%83%94%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%9E%E3%82%B7%E3%83%B3/</guid>
+      <description>Tabletop Pinball Machine Using Evive- Arduino Based Embedded Plaformから発見。画像もここから転載（CC BY-NC-SA By theSTEMpedia）
+ピンボールマシンは、とても面白いゲームです。 この記事ではレーザーカッターや3Dプリンタを使ってシンプルですが楽しそうなピンボールを作成しています。
+制御はSTEM用の環境であるeviveを使っているようです。
+ </description>
+    </item>
+    
+    <item>
+      <title>木工作と3Dプリンタで作成する雰囲気のあるRaspberryPiコンソール</title>
+      <link>https://inajob.github.io/inajob-review/post/%E6%9C%A8%E5%B7%A5%E4%BD%9C%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B%E9%9B%B0%E5%9B%B2%E6%B0%97%E3%81%AE%E3%81%82%E3%82%8Braspberrypi%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Thu, 09 Jan 2020 23:00:54 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E6%9C%A8%E5%B7%A5%E4%BD%9C%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B%E9%9B%B0%E5%9B%B2%E6%B0%97%E3%81%AE%E3%81%82%E3%82%8Braspberrypi%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</guid>
+      <description>Tiny Wooden Laptopから発見。画像もここから転載（CC BY-NC-SA By makefailrepeat）
+Raspberry Pi 3を使ったコンソールです。ディプレイ4インチで800x480。キーボードはBluetoothの無線キーボードを使っています。
+ディスプレイの裏側にRaspberry Piをマウントし、キーボードの下には余ったケーブルやバッテリーを入れているようです。
+3Dプリンタだけで作るとどうしても安っぽい感じになりがちですが、この作品のように木工作を組み合わせることで、味のある雰囲気が出せるのだなと感じました。
+ </description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタで作るミニ四駆</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%9F%E3%83%8B%E5%9B%9B%E9%A7%86/</link>
+      <pubDate>Wed, 08 Jan 2020 23:00:27 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%9F%E3%83%8B%E5%9B%9B%E9%A7%86/</guid>
+      <description>Project Small Carから発見。画像もここから転載（CC BY-NC-SA By osoba95）
+3Dプリンタで作ったミニ四駆のような車をマイコンで制御する作例を紹介した記事です。 サーボモータによるステアリングも付けられており意外と本格的です。
+この車の設計が単純ですが絶妙で、車のようなロボットを作りたい方には非常に参考になると感じました。</description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタで作成するWord Clock</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8Bword-clock/</link>
+      <pubDate>Tue, 07 Jan 2020 23:00:08 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8Bword-clock/</guid>
+      <description>Animated Word Clock から発見。画像もここから転載（CC BY-NC-SA By TechKiwiGadgets）
+またまたWordClockです。
+3Dプリンタで文字をくりぬいて、写真のように文字が浮かび上がるような効果を演出しています。
+LEDの手前に製氷皿のように格子状のマス目のボードを用意し（これがグレーのフィラメントであるのも意味がありそう？）その底面にはアルファベットの形状でくりぬきを開けておきます。
+さらにそれを覆うケースにはアルファベットの形状でエンボスが刻まれています。
+この二重のアルファベット形状のくりぬきとエンボスにより、文字の投影を実現しています。 マイコンはArduino、LEDはよく使われるWS2812Bを使っています。
+ </description>
+    </item>
+    
+    <item>
+      <title>チョコレートで造形する3Dプリンタ</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E3%81%A7%E9%80%A0%E5%BD%A2%E3%81%99%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
+      <pubDate>Tue, 24 Dec 2019 23:00:32 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E3%81%A7%E9%80%A0%E5%BD%A2%E3%81%99%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
+      <description>It’s all about Chocoから発見。画像もここから転載。
+チョコレートを材料とした3Dプリンタが登場しました。 確かにチョコレートは比較的簡単に3Dプリンタで扱うことができるように思います。
+いわゆる「フィラメント」のようなものはどのように提供されるのか？簡単に自作できるのか？ 失敗したプリントはまた材料として使うことができるのか？
+など気になることが満載です。
+まぁチョコレートだし失敗したら食べちゃうってのもありですね！
+kickstarterでのキャンペーンは無事終了し、販売を開始しているようです。</description>
+    </item>
+    
+    <item>
+      <title>空・陸両用のドローン</title>
+      <link>https://inajob.github.io/inajob-review/post/%E7%A9%BA%E9%99%B8%E4%B8%A1%E7%94%A8%E3%81%AE%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3/</link>
+      <pubDate>Thu, 19 Dec 2019 23:00:42 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E7%A9%BA%E9%99%B8%E4%B8%A1%E7%94%A8%E3%81%AE%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3/</guid>
+      <description>Researchers develop new flying / driving robotから発見。画像もここから転載。
+空・陸両用のドローンです、地上形態の時は、本体が2つに折れ曲がってタイヤで走ることができます。 タイヤを動かしているモーターはプロペラのものを流用しているようで、シンプルさを保ったまま空・陸両用を実現しています。
+変形して地上も走れるというのは、かなり男の子心をそそる仕組みになっています。
+ </description>
+    </item>
+    
+    <item>
+      <title>ポータブルなキーボード付きRaspberryPiコンソール</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%E3%81%AA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8Draspberrypi%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Wed, 11 Dec 2019 23:00:02 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%E3%81%AA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8Draspberrypi%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</guid>
+      <description>PocketPi! から発見。画像もここから転載。
+Raspberry Piを使ってコンソールを作る試みは数多くありますが、これはポケコン風に組みてた作例です。
+あつらえたようにぴったりなキーボードは実は無線キーボードをバラしたもののようです。 ケースは3Dプリンタで作成されており、様々な試行錯誤を繰り返して、このコンパクトな形状に収めることができたようです。
+ </description>
+    </item>
+    
+    <item>
+      <title>リボルバーのようにグルンと回転しフィラメントを交換する3Dプリンタ</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%83%AA%E3%83%9C%E3%83%AB%E3%83%90%E3%83%BC%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E3%82%B0%E3%83%AB%E3%83%B3%E3%81%A8%E5%9B%9E%E8%BB%A2%E3%81%97%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E4%BA%A4%E6%8F%9B%E3%81%99%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
+      <pubDate>Tue, 10 Dec 2019 23:00:27 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%83%AA%E3%83%9C%E3%83%AB%E3%83%90%E3%83%BC%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E3%82%B0%E3%83%AB%E3%83%B3%E3%81%A8%E5%9B%9E%E8%BB%A2%E3%81%97%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E4%BA%A4%E6%8F%9B%E3%81%99%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
+      <description>MICROSCOPE-INSPIRED TOOLCHANGER SPINS MULTICOLOR 3D PRINTSから発見。画像もここから転載。
+この記事では複数のExtruderを搭載し多色の印刷ができる3Dプリンタを紹介しています。 特徴的なのは顕微鏡のリボルバーのように回転するExtruderです。
+多色の3Dプリンタとして一般的なものの、Extruderは2個のものがほとんどですが、このように回転される機構を利用することでより多くのExtruderの付いた3Dプリンタが作れそうです。
+ </description>
+    </item>
+    
+    <item>
+      <title>格安3Dプリンタを改造してはんだ付けマシーンに改造する</title>
+      <link>https://inajob.github.io/inajob-review/post/%E6%A0%BC%E5%AE%893d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E3%83%9E%E3%82%B7%E3%83%BC%E3%83%B3%E3%81%AB%E6%94%B9%E9%80%A0%E3%81%99%E3%82%8B/</link>
+      <pubDate>Sun, 08 Dec 2019 23:00:49 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E6%A0%BC%E5%AE%893d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E3%83%9E%E3%82%B7%E3%83%BC%E3%83%B3%E3%81%AB%E6%94%B9%E9%80%A0%E3%81%99%E3%82%8B/</guid>
+      <description>This Modified 3D Printer Can Solder Through-Hole Components Quicklyから発見。画像もここから転載。
+3Dプリンタの価格はどんどん安くなってきています。この記事では、3Dプリンタを改造して、自動はんだ付けロボットを作成しています。
+フィラメントの代わりに半田を送り出す仕組みにすることで、3Dプリンタのファームウェアを変更することなく改造しています。
+基板の固定をどうするのか、位置合わせをどうするのか？など課題が多そうなプロダクトですが、これが実現するとおうちで簡単に電子ガジェットが量産できるので夢が広がりますね。
+ </description>
+    </item>
+    
+    <item>
+      <title>光造形式3Dプリンタで作るキーボード用のモールド</title>
+      <link>https://inajob.github.io/inajob-review/post/%E5%85%89%E9%80%A0%E5%BD%A2%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E7%94%A8%E3%81%AE%E3%83%A2%E3%83%BC%E3%83%AB%E3%83%89/</link>
+      <pubDate>Mon, 02 Dec 2019 23:00:13 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E5%85%89%E9%80%A0%E5%BD%A2%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E7%94%A8%E3%81%AE%E3%83%A2%E3%83%BC%E3%83%AB%E3%83%89/</guid>
+      <description>DIY Flexible keyboard without using siliconeから発見。画像もここから紹介。
+LCD 3Dプリンタ（おそらく光学式の3Dプリンタ）を使ってフレキシブルレジンを使った作例です。
+(こういうやつかな？↓) 
+この写真のようにキーボードのボタンのシリコンモールドのようなものを高精度で出力できるようです。
+こういう素材が使えると3Dプリンタの活用できる幅が広がりそうだと感じました。</description>
+    </item>
+    
+    <item>
+      <title>ゲームボーイを組み込んだ3Dプリンタ製のショルキー</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4%E3%82%92%E7%B5%84%E3%81%BF%E8%BE%BC%E3%82%93%E3%81%A03d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B7%E3%83%A7%E3%83%AB%E3%82%AD%E3%83%BC/</link>
+      <pubDate>Thu, 14 Nov 2019 23:00:53 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4%E3%82%92%E7%B5%84%E3%81%BF%E8%BE%BC%E3%82%93%E3%81%A03d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B7%E3%83%A7%E3%83%AB%E3%82%AD%E3%83%BC/</guid>
+      <description>3D Printed Dual Game Boy Chiptune Keytarから発見。画像もここから転載。
+動画がすべて、というガジェットですが、ゲームボーイの音源を使った「ショルキー」です。
+フレーム部分は3Dプリンタで作られており、鍵盤や、ネック部分は既存の製品の流用のようです。 ともかく演奏動画がかっこいいので、見てみてください。
+ </description>
+    </item>
+    
+    <item>
+      <title>機械学習で3Dプリンタの失敗を検知する</title>
+      <link>https://inajob.github.io/inajob-review/post/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%A73d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E5%A4%B1%E6%95%97%E3%82%92%E6%A4%9C%E7%9F%A5%E3%81%99%E3%82%8B/</link>
+      <pubDate>Tue, 29 Oct 2019 23:00:29 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%A73d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E5%A4%B1%E6%95%97%E3%82%92%E6%A4%9C%E7%9F%A5%E3%81%99%E3%82%8B/</guid>
+      <description>FINDING PLASTIC SPAGHETTI WITH MACHINE LEARNINGから発見。画像もここから転載。
+3Dプリンタでのプリンティングはよく失敗します。失敗を減らすことはできますが100%ではありません。そうなると失敗したタイミングで印刷を停止するのが経済的です。
+この記事で紹介している The Spaghetti Detective というサービスは画像解析を用いて、3Dプリンタの失敗を検知するサービスです。
+オープンソース版のセルフホステッド版と、クラウド上に処理を任せるSaaS版があり、SaaS版については、そのうち課金を始める計画のようです。今のところはベータ版につき無料で利用できるようです。
+OctoPrintのプラグインとして提供されているので、簡単に利用することができそうです。
+以前も似たような内容を紹介しましたが早くこういう技術が発達して、もじゃもじゃが生成される恐怖から逃れたいです。</description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタで作るCNCの作り方</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8Bcnc%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9/</link>
+      <pubDate>Sun, 27 Oct 2019 23:00:06 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8Bcnc%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9/</guid>
+      <description>DIY 3D Printed Dremel CNC から発見。画像もここから転載（CC BY-NC-SA By Nikus）
+3Dプリンタは便利ですが、プラスチック製品しか作ることができません。もっと強度の高いものを作る際にはCNCが便利です。
+そこで、この記事では3Dプリンタを使ってCNCを作る方法を丁寧に紹介しています。もちろんシャフトやベアリング、ドリル、CPUなどは既製品を買う必要がありますが、それでもかなりの低コストでCNCを作ることができます（作者曰く$300以下）
+本当に丁寧に説明されており、これなら自分でも作れそう・・？　と思わせてくれる記事です。
+CNCの制御にはCNCjsというWebブラウザベースのソフトウェアを使っていました。CNC制御のツールってなんか怪しいのが多いけど、このツールはよさそうに思いました。
+この自作のCNCはかなり有名なものらしくFacebookグループなどもあるようです。
+3Dプリンタは持っているけど、CNCはまだ・・という方はこの記事を覗いてみてください。
+ </description>
+    </item>
+    
+    <item>
+      <title>Micro:bitを使ったコンパスと3Dプリンタ製のケース</title>
+      <link>https://inajob.github.io/inajob-review/post/micro-bit%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B3%E3%83%B3%E3%83%91%E3%82%B9%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9/</link>
+      <pubDate>Wed, 23 Oct 2019 23:00:27 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/micro-bit%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B3%E3%83%B3%E3%83%91%E3%82%B9%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9/</guid>
+      <description>Micro:bit Compassから発見。画像もここから転載（CC BY-NCS-SA By 陳亮）
+Micro:bitを使ったコンパスの作例ですが、私が注目したのは、3Dプリンタ製のケースです。Micro:bitのLEDは小さく、ドット絵を表示しようにも少し寂しい感じになってしまいます。
+レーザーカッターで作成したケースで拡散している例を見たことはありましたが、同様のことが3Dプリンタ製のケースでもできることに気づきました。</description>
+    </item>
+    
+    <item>
+      <title>やや雑なつくりのロボット犬</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%82%84%E3%82%84%E9%9B%91%E3%81%AA%E3%81%A4%E3%81%8F%E3%82%8A%E3%81%AE%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E7%8A%AC/</link>
+      <pubDate>Tue, 22 Oct 2019 23:00:30 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%82%84%E3%82%84%E9%9B%91%E3%81%AA%E3%81%A4%E3%81%8F%E3%82%8A%E3%81%AE%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E7%8A%AC/</guid>
+      <description>Mike&amp;rsquo;s Robot Dogから発見。画像もここから転載（CC BY-NC-SA By MikeTheMaker）
+ペット型ロボットを作るのはDIY Makerの典型的な夢の一つです。この記事では「犬型ロボット」を作成しています。
+といいつつ、かなり怪しげな外観で、いかにも「ロボット！」という感じです。動作の動画をみてもかなりたどたどしい感じで、「がんばれ！」といいたくなるような動きです。
+しかし逆にこの”足りて無さ”がかわいい気がして、ついつい気になってしまうロボットだと感じました。
+完成度が高い動物型のロボットだとNybbleがお勧めです。（もともとOpenCatと呼ばれていましたが、クラウドファンディング用に愛称を決めたのでしょう）
+ </description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタ製のスピーカの構成を実験するためのキット</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%81%AE%E6%A7%8B%E6%88%90%E3%82%92%E5%AE%9F%E9%A8%93%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%82%AD%E3%83%83%E3%83%88/</link>
+      <pubDate>Mon, 21 Oct 2019 23:00:57 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%81%AE%E6%A7%8B%E6%88%90%E3%82%92%E5%AE%9F%E9%A8%93%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%82%AD%E3%83%83%E3%83%88/</guid>
+      <description>Thomas Sanladerer Announces M3-SK — a Modular, 3D-Printable Speaker Kitから発見。画像もここから転載。
+スピーカを設計したことはありますか？ スピーカの設計は鳴らしたい音の特性に応じて様々なパラメータが存在します。なかなか理屈通りの音が鳴るわけでもありません。
+結果試行錯誤を繰り返すことになるわけですが、この記事で紹介しているモジュール式のスピーカーキットは、その試行錯誤を簡単にしてくれるソリューションです。
+3Dプリンタで作ったねじ付きのスピーカーケースによって構成されるこのキットは、組み合わせ次第で様々なスピーカを試作することができます。
+スピーカの自作や音響周りに興味がある方は試しに作ってみてはどうでしょうか？
+ </description>
+    </item>
+    
+    <item>
+      <title>ゴミ袋と3Dプリンタで作るホバークラフト</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%82%B4%E3%83%9F%E8%A2%8B%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%9B%E3%83%90%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88/</link>
+      <pubDate>Sun, 20 Oct 2019 23:00:48 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%82%B4%E3%83%9F%E8%A2%8B%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%9B%E3%83%90%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88/</guid>
+      <description>A GARBAGE BAG SKIRT IS FIT FOR A HOVERCRAFTから発見。画像もここから転載。
+3Dプリンタで作成した、ホバークラフトの作例です。ミソとなっているのは、”ごみ袋”です。
+仕上げも丁寧に行われており、3Dプリンタでモノづくりをする際の良い参考となりそうです。
+ </description>
+    </item>
+    
+    <item>
+      <title>ファミコン互換機をポータブルに改造</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%83%95%E3%82%A1%E3%83%9F%E3%82%B3%E3%83%B3%E4%BA%92%E6%8F%9B%E6%A9%9F%E3%82%92%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%E3%81%AB%E6%94%B9%E9%80%A0/</link>
+      <pubDate>Mon, 14 Oct 2019 23:00:17 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%83%95%E3%82%A1%E3%83%9F%E3%82%B3%E3%83%B3%E4%BA%92%E6%8F%9B%E6%A9%9F%E3%82%92%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%E3%81%AB%E6%94%B9%E9%80%A0/</guid>
+      <description>The Thinnest &amp;amp; Narrowest Portable Nes? から発見。画像もここから転載（CC BY-NCS-SA By M-Parks）
+持ち運べるファミコン互換機の作例です。1から作るのは大変なので、既存の据え置き型のファミコン互換機を改造する形で作成しています。
+といっても、コントローラや液晶、充電機能、オーディオアンプなど、周辺機器は自作しています。
+1から作ることが難しいものでも、このように既存の製品を組み合わせることで実現することができるという良い例だと感じました。</description>
+    </item>
+    
+    <item>
+      <title>転がして距離を測る定規を3Dプリンタで自作</title>
+      <link>https://inajob.github.io/inajob-review/post/%E8%BB%A2%E3%81%8C%E3%81%97%E3%81%A6%E8%B7%9D%E9%9B%A2%E3%82%92%E6%B8%AC%E3%82%8B%E5%AE%9A%E8%A6%8F%E3%82%923d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E8%87%AA%E4%BD%9C/</link>
+      <pubDate>Thu, 10 Oct 2019 23:00:15 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E8%BB%A2%E3%81%8C%E3%81%97%E3%81%A6%E8%B7%9D%E9%9B%A2%E3%82%92%E6%B8%AC%E3%82%8B%E5%AE%9A%E8%A6%8F%E3%82%923d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E8%87%AA%E4%BD%9C/</guid>
+      <description>Geneva Roller Ruler, a Pocket Sized Infinite Rulerから発見。画像もここから転載（CC BY-MC-SA By MechEngineerMike）
+3Dプリンタを使った転がすタイプの定規です。1回転するごとに数字が増加する目盛りを搭載しているので、回転数を数える必要がありません。
+目盛りの更新には「ジェネバ機構」と呼ばれる歯車を利用しているようです。 機構の勉強に一つ作ってみてはどうでしょうか？
+ </description>
+    </item>
+    
+    <item>
+      <title>かわいいサイズのフルカラーマトリクスLEDガジェット</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
+      <pubDate>Thu, 03 Oct 2019 23:00:27 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
+      <description>PixelCon Frame (mini) から発見。画像もここから転載。
+PixelCon Frameは8x8のフルカラーLEDを搭載した、アイコン表示用のガジェットです。CPUはESP8266を使っており、WiFi経由で表示を書き換えることができるようです。
+ケースは3Dプリンタで作成されているようですが、写真を見る限りとても完成度が高いです。
+ソースコードや回路図はGitHubで公開されており、回路に関しては非常にシンプルです。GitHubにも書かれていますが、バッテリーなどは搭載されていないようです。</description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタでダイアル式のロックを自作</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AB%E5%BC%8F%E3%81%AE%E3%83%AD%E3%83%83%E3%82%AF%E3%82%92%E8%87%AA%E4%BD%9C/</link>
+      <pubDate>Thu, 26 Sep 2019 23:00:29 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AB%E5%BC%8F%E3%81%AE%E3%83%AD%E3%83%83%E3%82%AF%E3%82%92%E8%87%AA%E4%BD%9C/</guid>
+      <description>3D PRINTING A COMBINATION LOCKから発見。画像もここから転載。
+金庫などで使われるダイアル式の鍵を3Dプリンタで作るという作例です。私は何となくしか仕組みを知りませんでしたが、ここで紹介されている動画と、3Dデータを見ることで理解が深まりました。まだ試していませんが、3Dプリントして自作することで、さらに詳しく理解することができるでしょう。
+ </description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタで作った木工作の工具</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E6%9C%A8%E5%B7%A5%E4%BD%9C%E3%81%AE%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Mon, 23 Sep 2019 23:00:00 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E6%9C%A8%E5%B7%A5%E4%BD%9C%E3%81%AE%E5%B7%A5%E5%85%B7/</guid>
+      <description>3D Printed Gadgets for Woodworking から発見。画像もここから転載（CC BY-NC-SA By rschoenm）
+3Dプリンタで作れるものはたくさんありますが、「何かをする道具」を作る、というのも面白い使い方です。
+この記事では木工作に便利なツールを3Dプリンタを使って作成しています。私は木工作はあまりやらないのですが、どのツールも木工作の効率や加工精度を上げるために非常に役立ちそうです。
+もちろんこれらのツールは市販されているものがほとんどですが、自分専用に作ることで、より、用途にマッチしたものの作成や、低コストでの調達が可能となります。
+普段よく行っている作業で、3Dプリンタでツールを作ることで効率化できることはないか？考えてみてはどうでしょうか？</description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタ製の点字で入力できるキーボード</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E7%82%B9%E5%AD%97%E3%81%A7%E5%85%A5%E5%8A%9B%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Tue, 17 Sep 2019 23:00:45 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E7%82%B9%E5%AD%97%E3%81%A7%E5%85%A5%E5%8A%9B%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>Knoboから発見。画像もここから転載。
+knoboは点字形式で入力できる一風変わった入力装置です。右側の6つの黒いスイッチを点字と同じように押すことでアルファベットを入力することができます。
+他のキーはスペースや改行に使います。また左上のダイアルでスクロールなどもできます。
+製作の背景としては、Text-to-Speechなどの発達により「点字」の利用がどんどん減っていることを挙げています。Text-to-speechは便利ですが、それはでは読み書きの能力は養えない　ということを課題に感じ、このデバイスを作成しているそうです。
+ </description>
+    </item>
+    
+    <item>
+      <title>Fusion360で有機的な強い形状を生成する</title>
+      <link>https://inajob.github.io/inajob-review/post/fusion360%E3%81%A7%E6%9C%89%E6%A9%9F%E7%9A%84%E3%81%AA%E5%BC%B7%E3%81%84%E5%BD%A2%E7%8A%B6%E3%82%92%E7%94%9F%E6%88%90%E3%81%99%E3%82%8B/</link>
+      <pubDate>Wed, 04 Sep 2019 23:00:24 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/fusion360%E3%81%A7%E6%9C%89%E6%A9%9F%E7%9A%84%E3%81%AA%E5%BC%B7%E3%81%84%E5%BD%A2%E7%8A%B6%E3%82%92%E7%94%9F%E6%88%90%E3%81%99%E3%82%8B/</guid>
+      <description>COMPUTER OPTIMIZED 3D PRINTED BOOKSHELVES から発見。画像もここから転載。
+この写真の奇妙なデザインのブックシェルフ。これはFusion360の機能であるTopology Optimizationの機能によって作成されたものです。
+この機能は構造にかかる力を分析し、最適に力を分散する形状を計算する機能です。 計算によって求められる形状は従来の角ばった、直線が基本となるものではなく、写真のような有機的な形状になります。
+3Dプリンタを用いるとこういった有機的な形状も簡単に作成できます。
+近いうちにこういう有機的な形状の製品が身近にあふれるようになるかもしれません。
+ </description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタで作るキーチェーンに取り付けるのを補助する器具</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%82%AD%E3%83%BC%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%81%AB%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91%E3%82%8B%E3%81%AE%E3%82%92%E8%A3%9C%E5%8A%A9%E3%81%99%E3%82%8B%E5%99%A8%E5%85%B7/</link>
+      <pubDate>Sun, 01 Sep 2019 23:00:04 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%82%AD%E3%83%BC%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%81%AB%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91%E3%82%8B%E3%81%AE%E3%82%92%E8%A3%9C%E5%8A%A9%E3%81%99%E3%82%8B%E5%99%A8%E5%85%B7/</guid>
+      <description>Simple Keychain Tool から発見。画像もここから転載（CC BY-NC-SA By chienline）
+キーホルダーなどについているリング。あれに何かを通すとき、爪で無理やりこじ開けていませんか？ この記事では、そのこじ開けを行うための専用の器具を3Dプリンタで生成しています。
+TinkerCADというブラウザで動作する無料のCADを使った造形方法のチュートリアル形式なので、3Dプリンタ用のモデルの作成に挑戦したい方にお勧めの記事です。</description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタで作るイアホンケーブルを巻き取るやつ</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%82%A4%E3%82%A2%E3%83%9B%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E3%82%92%E5%B7%BB%E3%81%8D%E5%8F%96%E3%82%8B%E3%82%84%E3%81%A4/</link>
+      <pubDate>Mon, 26 Aug 2019 23:00:49 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%82%A4%E3%82%A2%E3%83%9B%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E3%82%92%E5%B7%BB%E3%81%8D%E5%8F%96%E3%82%8B%E3%82%84%E3%81%A4/</guid>
+      <description>Earbud Buddiesから発見。画像もここから転載（CC BY-NC-SA By EdgertonCenter）
+この記事では学生向けにデザインのフローを体験させる方法を紹介している。題材となるのはイアホンケーブルホルダー。
+まずは簡単に平面状のデザインを、ということで3種類のデザインが示されている。
+実際のイアホンの大きさをはかり、イアホンケーブルホルダーを設計し、実際に3Dプリンタで出力してみて、また調整する。このサイクルを通して自分の納得するものを作っていく。
+最終的には完成したモデルを公開する。という流れを紹介している。
+3Dプリンタがあれば、このようなフローを簡単に実行できるということで、改めて3Dプリンタの手軽さと、モノづくりの民主化を感じることができる記事でした。
+そして、題材として使われているイアホンケーブルホルダーも普通に良い作品で、自分も作ってみようと思いました。</description>
+    </item>
+    
+    <item>
+      <title>魚用のスマート餌やり器</title>
+      <link>https://inajob.github.io/inajob-review/post/%E9%AD%9A%E7%94%A8%E3%81%AE%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E9%A4%8C%E3%82%84%E3%82%8A%E5%99%A8/</link>
+      <pubDate>Sun, 25 Aug 2019 23:00:05 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E9%AD%9A%E7%94%A8%E3%81%AE%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E9%A4%8C%E3%82%84%E3%82%8A%E5%99%A8/</guid>
+      <description>SMART FISH FEEDER “DOMOVOY” から発見。写真もここから掲載。
+金魚や熱帯魚などの魚を飼っていると定期的にえさをやる必要があります。 この記事で紹介しているSMART FISH FEEDER &amp;ldquo;DOMVOY&amp;rdquo;は、決まった時間に決まった量のえさを与えることを実現するものです。
+内部に3Dプリンタ製のスクリューのようなものがあり、時間になると餌を削り出す仕組みのようです。
+オープンソースでソースが公開されています。
+こういう実生活で役に立つガジェットは良いですね。
+ </description>
+    </item>
+    
+    <item>
+      <title>コンパクトな自動お絵描き装置</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E8%87%AA%E5%8B%95%E3%81%8A%E7%B5%B5%E6%8F%8F%E3%81%8D%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Thu, 15 Aug 2019 23:00:48 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E8%87%AA%E5%8B%95%E3%81%8A%E7%B5%B5%E6%8F%8F%E3%81%8D%E8%A3%85%E7%BD%AE/</guid>
+      <description>drawbotから発見。画像もここから転載（drawbot by MG-dream-technology 、CC BY-NC-SA）
+プロッタの一種ですがX軸、Y軸ではなく、2つ関節があるアームのような形状なのが特徴です。
+この構造だと安定しないように思いましたが、動画を見る限り結構精度よく動作しているようです。
+X-Y軸式のプロッタよりも少ない部品で作ることができ、かつ省スペースなのがよさそうに見えます。また人が書く動作と似ているからか、どことなくかわいい感じがします。
+制御は3Dプリンタなどでよく使うAduino Mega 2560 と RAMPS1.4 を利用しているようです。
+”プロッタ”といってもいろいろなタイプのものがある、ということを感じさせる作品です。
+ </description>
+    </item>
+    
+    <item>
+      <title>かっこいいオープンソースの3Dプリンタ「BLV mgn Cube」</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BFblv-mgn-cube/</link>
+      <pubDate>Wed, 14 Aug 2019 23:00:18 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BFblv-mgn-cube/</guid>
+      <description>BLV mgn Cube - 3d printerにて発見。画像もここから転載（CC BY-NC-SA, by Blv）
+3Dプリンタ用のデータ共有サービスであるThingiverseを眺めていたら、すごくかっこいい3Dプリンタを発見しました。
+組み立て説明書も非常に丁寧でしかもかっこいいです。
+コントローラボードはよくあるArduino Megaべーすのものではなく、　DUET 2 WIFIと呼ばれるもののようです。
+このボードは AtmelのSAM4E8EとWiFiボードとしてESP8266が搭載されています。おそらくこのスペックなら、プリントサーバとしてもふるまうことができそうです。</description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタで作るベアリング不要のフィラメントホルダー</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E4%B8%8D%E8%A6%81%E3%81%AE%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC/</link>
+      <pubDate>Tue, 13 Aug 2019 23:00:46 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E4%B8%8D%E8%A6%81%E3%81%AE%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC/</guid>
+      <description>Smooth spool holder with no bearingから発見。写真もここから転載。
+3Dプリンタは任意の形のプラスチックを作成することができますが、それ以外に部品が必要となることも多いです。「ベアリング」もその一つです。
+回転軸を持つ造形物を作る際には、スムーズに回転させるためにベアリングを用いるのが普通です。
+この記事で紹介しているフィラメントホルダーはベアリング不要でスムーズな回転を実現しています。プラスチックの剛性を利用してちょうどよいテンションの回転軸を作ることができるようです。</description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタ製のネコ型ロボットSmallKat</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%83%8D%E3%82%B3%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88smallkat/</link>
+      <pubDate>Thu, 08 Aug 2019 23:00:52 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%83%8D%E3%82%B3%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88smallkat/</guid>
+      <description>SmallKat: An adorable dynamics oriented quadrupedから発見。画像もここから転載。
+SmallKatは3Dプリンタで作られた猫型のロボットです。 動画を見る限り、まだ動きがたどたどしいですが、止まっている写真を見る限りはかなり「猫っぽい」仕上がりとなっています。
+コアとなるモジュールはESP32で、加えて16個のサーボモーター、IMUなどで構成されており、比較的安価なのが特徴のようです。
+制御は遠隔で行いWiFi経由で指示を送るという設計なので、開発は普通にパソコン上のプログラムで行います。もう一つの方法としてはロボットにRaspberryPiを搭載し、そこから制御を行う、というのがあるようですが、開発段階においては前者のほうが便利だし、安い、とのことです。
+確かにロボットを一気に作り上げるより、パソコンから簡単に試行錯誤できるようなプラットフォームを作るというのは良い方法だと感じました。
+オープンソースで公開されており、さらにはキットも販売しているので、気になる方は作ってみてはどうでしょう？
+ </description>
+    </item>
+    
+    <item>
+      <title>手のひらサイズのLinuxゲームコンソール</title>
+      <link>https://inajob.github.io/inajob-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AElinux%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Wed, 07 Aug 2019 23:00:17 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AElinux%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</guid>
+      <description>The PinkyPi Pushes the Limits of How Small a Raspberry Pi Handheld Can Be から発見
+元ネタはPinkyPi - Full build - Updatedのようだ。
+PinkyPiはRaspberry Pi Zero Wを使ったゲーム機。1.33インチの240x240の液晶と500mAのバッテリー、そして充電ICのTP4056、23Wのオーディオアンプが搭載されている。
+3Dプリンタ製のケースにより手のひらサイズを実現している。
+TP4056ボードは充電容量に応じて抵抗を変更する必要があるらしい。
+基本的には既製品のボードを使っているだけなので、比較的簡単に真似ができそうだ。
+ </description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタで写真をエンボス状に印刷する</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E5%86%99%E7%9C%9F%E3%82%92%E3%82%A8%E3%83%B3%E3%83%9C%E3%82%B9%E7%8A%B6%E3%81%AB%E5%8D%B0%E5%88%B7%E3%81%99%E3%82%8B/</link>
+      <pubDate>Tue, 30 Jul 2019 23:00:58 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E5%86%99%E7%9C%9F%E3%82%92%E3%82%A8%E3%83%B3%E3%83%9C%E3%82%B9%E7%8A%B6%E3%81%AB%E5%8D%B0%E5%88%B7%E3%81%99%E3%82%8B/</guid>
+      <description>3D PRINTING PHOTOS IS SLOW BUT AWESOMEにて発見。画像もここから転載。
+3Dプリンタには様々な応用方法があり、世界中のハッカーが新しい使い方を発見し続けています。この記事で紹介しているのは「写真」を3Dプリントしています。
+写真の濃淡をエンボスで表現し、光を通してみると写真が浮かび上がるような造形物を実現しています。infillを100%に設定するため、作成にはかなりの時間がかかるようですが、動画を見るととても見栄えがするようなので、一度は作ってみたいです。
+画像をこのようにエンボス状の3Dデータにするには　このサイトが使えるようです。
+ </description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタ製の自作電動ドライバー</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E8%87%AA%E4%BD%9C%E9%9B%BB%E5%8B%95%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90%E3%83%BC/</link>
+      <pubDate>Mon, 29 Jul 2019 23:00:52 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E8%87%AA%E4%BD%9C%E9%9B%BB%E5%8B%95%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90%E3%83%BC/</guid>
+      <description>3D PRINT YOUR OWN ELECTRIC SCREWDRIVER から発見。写真もここから転載。
+この記事では電動ドライバーを自作しています。 バッテリ充電式で、マイコンなどは用いずに直接モータードライバに電力を供給し、減速付きのDCモーターを駆動しています。
+こういうギア付きのDCモーターがあるのを初めて知りました。
+ より詳しい情報はhttps://www.electronoobs.com/eng_circuitos_tut29.phpこちらに記載されている。
+ </description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタで作ったスイスアーミー風SDカード入れ</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%B9%E3%82%A4%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%9F%E3%83%BC%E9%A2%A8sd%E3%82%AB%E3%83%BC%E3%83%89%E5%85%A5%E3%82%8C/</link>
+      <pubDate>Thu, 25 Jul 2019 23:00:38 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%B9%E3%82%A4%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%9F%E3%83%BC%E9%A2%A8sd%E3%82%AB%E3%83%BC%E3%83%89%E5%85%A5%E3%82%8C/</guid>
+      <description>PACK YOUR SD CARDS SWISS ARMY STYLE から発見。写真もここから掲載。
+SIMや、DSのゲームなど、SDカードに代表される、小型のカードを持ち歩くときにぴったりの「スイスアーミー」風のケースを3Dプリンタで作ったという記事です。
+Thingiverseにデータがあるため、3Dプリンタがあればだれでもこれを作ることができます。
+利用するカードに合わせてパーツを組み替えることで、自分専用のカード入れが作れるということが、3Dプリンタで自分で作れることとマッチしていて良いなと感じました。</description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタ製のカメラやスマートフォンをうまくマウントするためのモジュール</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%AB%E3%83%A1%E3%83%A9%E3%82%84%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%82%92%E3%81%86%E3%81%BE%E3%81%8F%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Wed, 24 Jul 2019 23:00:25 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%AB%E3%83%A1%E3%83%A9%E3%82%84%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%82%92%E3%81%86%E3%81%BE%E3%81%8F%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</guid>
+      <description>Modular Mounting Systemにて発見。画像もここから掲載（CC BY, by yyh1002）
+3Dプリンタで作るユニバーサルなマウンタです。 スマートフォンや、GoProなどを好きな場所に固定することができるモジュール群です。
+コネクタの形状が統一してあるため、好きな部品を組み合わせて自由にアームを構成することができます。
+好きな部品を出力できる3Dプリンタと相性が良いプロダクトだと感じました。</description>
+    </item>
+    
+    <item>
+      <title>ほぼすべてをレーザーカッターで作成した3Dプリンタ</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%81%BB%E3%81%BC%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%97%E3%81%9F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
+      <pubDate>Mon, 22 Jul 2019 23:00:48 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%81%BB%E3%81%BC%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%97%E3%81%9F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
+      <description>LP3D: A fully lasercut kit 3D printerから発見。画像もここから転載。
+LP3Dはほぼすべての部品をレーザーカッターで作成した3Dプリンタ。記事に細かいことが書かれていませんが、写真を見る限り、本当にほとんどの部品をレーザーカットで作っているようです。
+直動機構はレーザーカットで作ったラックとピニオンを使っており、ステッピングモーターで動かしている。精度の問題でまだまだ苦労しているようですが、これが実現すれば今よりも低コストの3Dプリンタが実現できそうです。
+ </description>
+    </item>
+    
+    <item>
+      <title>チーズバーガー型の自作ゲーム機</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%83%81%E3%83%BC%E3%82%BA%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC%E5%9E%8B%E3%81%AE%E8%87%AA%E4%BD%9C%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Tue, 02 Jul 2019 23:00:21 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%83%81%E3%83%BC%E3%82%BA%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC%E5%9E%8B%E3%81%AE%E8%87%AA%E4%BD%9C%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>Retro Gaming… On a Cheeseburger? から発見。画像もここから転載。
+Raspberry Pi Zeroを使ったゲーム機。特筆すべきはこのゲーム機の形状です。
+このチーズバーガーを模した筐体は、レーザーカッターで切断したMDFを積層して作られています。 積層したMDFの側面をやすりがけして丸みのある形に加工しています。
+レーザーカッターを使った作例は、「いかにも」という風貌になりがちですが、このように手をかけることで、ここまでの質感を表現できることに驚きました。
+ </description>
+    </item>
+    
+    <item>
+      <title>ディープラーニングで3Dプリンタの失敗を検知する</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%A73d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E5%A4%B1%E6%95%97%E3%82%92%E6%A4%9C%E7%9F%A5%E3%81%99%E3%82%8B/</link>
+      <pubDate>Mon, 01 Jul 2019 23:00:33 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%A73d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E5%A4%B1%E6%95%97%E3%82%92%E6%A4%9C%E7%9F%A5%E3%81%99%E3%82%8B/</guid>
+      <description>PrintRite - Tensorflow for 3D Printingから発見。画像もここから転載。
+3Dプリントは楽しいですが、よく失敗します。失敗に気づかず放置しているとたちまち「プラスチックのもじゃもじゃ」が生成されてしまい、非常にがっかりします。
+ずっと見ていれば、おかしくなった時に停止させることができますが、数時間もかかる3Dプリントの間中見張っているのは現実的ではありません。
+この記事で紹介しているのは、Webカメラの映像を機械学習で判別することで、3Dプリントの失敗を検知するという手法です。
+3Dプリントのヘッド部分にRaspberry Pi Zeroとカメラモジュールを取り付け、実際の解析はOctoPrintの動作しているRaspberry Pi 3B+上でTensorflowにより実行されます。
+まだまだ発展途上のようですが、オープンソースの3DプリントサーバであるOctoPrintのプラグインとして実装されているようです。
+3Dプリントが失敗するととても残念な気持ちになるので、早く実用段階になってほしいプロジェクトです。</description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタ製のnano SIMカードアダプタ</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AEnano-sim%E3%82%AB%E3%83%BC%E3%83%89%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF/</link>
+      <pubDate>Thu, 20 Jun 2019 23:00:22 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AEnano-sim%E3%82%AB%E3%83%BC%E3%83%89%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF/</guid>
+      <description>Nano to Standard SIM card adapterにて発見。画像もここから掲載。
+文字通りnano SIMを普通のSIMのサイズに変換するアダプタを3Dプリンタで作っている例です。 こういう単なる決まった形のプラスチック、というのは3Dプリンタで簡単に作れるので、単純ですが、良い利用例だと思いました。</description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタ製の輪ゴムガトリング銃</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E8%BC%AA%E3%82%B4%E3%83%A0%E3%82%AC%E3%83%88%E3%83%AA%E3%83%B3%E3%82%B0%E9%8A%83/</link>
+      <pubDate>Tue, 18 Jun 2019 23:00:15 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E8%BC%AA%E3%82%B4%E3%83%A0%E3%82%AC%E3%83%88%E3%83%AA%E3%83%B3%E3%82%B0%E9%8A%83/</guid>
+      <description>PALM-SIZED GATLING GUN HAS 32 MINI ELASTICS WITH YOUR NAME ON THEM  から発見
+3Dプリンタで作られた、自動式の輪ゴムガトリング銃。 サーボモーター自動的に輪ゴムを乱射することができる。
+らせん状のフックを回転させつつ、輪ゴムを順番に飛ばしていく機構が、よく考えられている。
+ </description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタを使ってペンプロッタを実現する方法</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Sun, 16 Jun 2019 23:00:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/</guid>
+      <description>How to Use a 3D Printer as a Pen Plotter にて発見。画像もここから転載。
+LaserWebというレーザーカッター用のデータを作成するツールを使います。このツールはGコードがカスタマイズできるため、3Dプリンタで動作するようにGコードの設定を変更できます。これによりSVGのファイルを3Dプリンタ向けに変換できます。
+3DプリンタのExtruderの横にペンを固定して準備OK。
+Gコードという共通のフォーマットがあるおかげで思ったより素直に実現できるようです。
+ </description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタを駆使したオープンソースのマニピュレーターの作例</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E9%A7%86%E4%BD%BF%E3%81%97%E3%81%9F%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E3%83%9E%E3%83%8B%E3%83%94%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AE%E4%BD%9C%E4%BE%8B/</link>
+      <pubDate>Thu, 13 Jun 2019 23:00:09 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E9%A7%86%E4%BD%BF%E3%81%97%E3%81%9F%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E3%83%9E%E3%83%8B%E3%83%94%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AE%E4%BD%9C%E4%BE%8B/</guid>
+      <description>OpenManipulator Link にて発見。画像もここから転載（By STEAM Cup USA, Apache Licence 2.0）
+自作の腕型ロボット。こういうのを「マニピュレーター」というらしい。
+OpenCRというボードがあるらしい。CPUはSTM32F746ZGT6。かなり高性能だ。
+部品のほとんどは3Dプリンタで作成している。
+ </description>
+    </item>
+    
+    <item>
+      <title>8×8のマトリクスLEDを使ったゲーム機</title>
+      <link>https://inajob.github.io/inajob-review/post/88%E3%81%AE%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Mon, 10 Jun 2019 23:00:38 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/88%E3%81%AE%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>Retro Pocket Game Consoleから発見。画像もここから引用（CC BY-NC-SA By hobbyman）
+8x8のマトリクスLEDと2つのボタンを搭載したゲーム機。単4電池3本で動作する。 メインのマイコンはPIC12F683
+マトリクスLEDはMAX7219というICで制御されておりI2Cでメインのマイコンとつながっている。
+電池ボックスも含めて3Dプリンタで設計してあり、見た目も非常に完成度が高い。</description>
+    </item>
+    
+    <item>
+      <title>理論上無限の長さの作品が作れる自走式3Dプリンタ</title>
+      <link>https://inajob.github.io/inajob-review/post/%E7%90%86%E8%AB%96%E4%B8%8A%E7%84%A1%E9%99%90%E3%81%AE%E9%95%B7%E3%81%95%E3%81%AE%E4%BD%9C%E5%93%81%E3%81%8C%E4%BD%9C%E3%82%8C%E3%82%8B%E8%87%AA%E8%B5%B0%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
+      <pubDate>Sun, 09 Jun 2019 23:00:31 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E7%90%86%E8%AB%96%E4%B8%8A%E7%84%A1%E9%99%90%E3%81%AE%E9%95%B7%E3%81%95%E3%81%AE%E4%BD%9C%E5%93%81%E3%81%8C%E4%BD%9C%E3%82%8C%E3%82%8B%E8%87%AA%E8%B5%B0%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
+      <description>INFINITE BUILD VOLUME WITH REPRAP ON WHEELS にて発見。写真もここから転載。
+3Dプリンタにはいくつかの制約がありますが、「造形物の大きさ」というのもその一つです。 これをどうにかするために、様々なアイデアが提案されています。
+この記事で紹介されているのは「自走式の3Dプリンタ」です。 3Dプリンタ自体にタイヤのようなものがついており、自走します。それにより、理論上無限の長さの造形物を作ることが可能になっています。
+ヒートベッドは無限に用意するのか？造形面は平面なのか？固定は十分か？　など気になることはありますが、新しいアイデアとして非常に面白いと感じました。
+ </description>
+    </item>
+    
+    <item>
+      <title>多色3Dプリント時の問題を解決するソリューション</title>
+      <link>https://inajob.github.io/inajob-review/post/%E5%A4%9A%E8%89%B23d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E6%99%82%E3%81%AE%E5%95%8F%E9%A1%8C%E3%82%92%E8%A7%A3%E6%B1%BA%E3%81%99%E3%82%8B%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/</link>
+      <pubDate>Tue, 21 May 2019 23:00:11 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E5%A4%9A%E8%89%B23d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E6%99%82%E3%81%AE%E5%95%8F%E9%A1%8C%E3%82%92%E8%A7%A3%E6%B1%BA%E3%81%99%E3%82%8B%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/</guid>
+      <description>PURGE BUCKETS TO HELP WITH MULTIMATERIAL PRINTINGから発見。写真もこちらから転載。
+多色のフィラメントを同時に扱うことができる3Dプリンタにもいくつかの方式があります。
+今回問題となるのはノズルは1つで、フィラメントを2種類利用できるような3Dプリンタです。
+この種類のプリンタは、フィラメント切り替え時にグラデーションのように素材の切り替えが行われます。これはこれで良い効果なのですが、場合によっては、スパッと素材の切り替えを行いたい場合もあります。
+実際のところこれを行うためには、切り替え時の素材が混ざってしまったフィラメントをゴミとして捨てることが必要となります。
+extruderを端に追いやって、ただ単にゴミとなるフィラメントを捨てると、3Dプリンタの周りがもじゃもじゃしたゴミだらけになってしまいますが、この記事で紹介している方法は、ごみを捨てるための「ゴミ箱」を3Dプリンタの横に設置する方法です。
+我が家の3Dプリンタは1種類のフィラメントしか、扱えませんが複数のフィラメントを混ぜるタイプの3Dプリンタをお持ちの方は試してみてはどうでしょうか？
+ </description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタのフィラメント自動送りソリューション</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E8%87%AA%E5%8B%95%E9%80%81%E3%82%8A%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/</link>
+      <pubDate>Sun, 19 May 2019 23:00:13 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E8%87%AA%E5%8B%95%E9%80%81%E3%82%8A%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/</guid>
+      <description>ACTIVE STRAIN RELIEF FOR 3D PRINTER FILAMENT にて発見。写真もここから転載。
+この記事では、積層式の3Dプリンタのフィラメントを物干しざおのようにつるしている状態から、そのまま利用するための方法を紹介している。
+この作者は始めはクリップを使って、フィラメントを引き出しやすくしていたが、よく引っかかるなどといった問題があったらしく、これを作るに至ったようだ。
+この装置はフィラメントが引っ張られるのを検知して、ある程度の長さのフィラメントを自動的に送り出すものだ。ラッパのようになった部分からフィラメントが出ており、3Dプリンタがフィラメントを消費していくと、いずれこのラッパの部分が引っ張られて、周りのリングに接触する。
+それを契機にモーターが回転し一定量のフィラメントを送り出す。そうするとフィラメントがたるむのでまたラッパの部分は元に戻りリングとの接触が解除される。といった仕組みの装置らしい。
+マイコンは使わずタイマICでこの仕組みを実現しているようで、その試行錯誤も含めて記事に記載されている。</description>
+    </item>
+    
+    <item>
+      <title>3Dプリントで効率的に強度を保つ方法</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A7%E5%8A%B9%E7%8E%87%E7%9A%84%E3%81%AB%E5%BC%B7%E5%BA%A6%E3%82%92%E4%BF%9D%E3%81%A4%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Thu, 16 May 2019 23:00:00 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A7%E5%8A%B9%E7%8E%87%E7%9A%84%E3%81%AB%E5%BC%B7%E5%BA%A6%E3%82%92%E4%BF%9D%E3%81%A4%E6%96%B9%E6%B3%95/</guid>
+      <description>FINITE ELEMENT ANALYSIS RESULTS IN SMART INFILLにて発見。画像もここから転載。
+積層式の3Dプリンタで物を作るときは、印刷時間を節約するために、造形物の内側を空洞にするのが一般的です。しかし、そうすると強度がなくなってしまいます。
+この記事では、Fusion360で構造分析を行い、負荷のかかる部分は100%で造形することで、印刷時間を短縮しつつも、丈夫な部品を造形する方法を紹介しています。 Slic3rの編集機能で、部分的にオプションを変更できる機能は知らなかったので、今度試してみたいと思いました。
+ </description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタでゼロから作る「スピーカー」</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E4%BD%9C%E3%82%8B%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC/</link>
+      <pubDate>Wed, 17 Apr 2019 23:00:09 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E4%BD%9C%E3%82%8B%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC/</guid>
+      <description>An Entirely 3D Printed Speakerから発見。画像もここから転載。
+3Dプリンタでは様々なものを作ることができますが、”スピーカー”もその一つです。
+3Dプリンタのほかに、磁石と、コイルを作るためのワイヤー、固定用のねじが必要です。
+一般的にスピーカを構成するのは薄い膜と、コイル、永久磁石です、そしてケースです。
+この作例ではこの薄い膜とケースを3Dプリンタで作成しています。確かに原理上はできそうですが、実際に動いているのを見ると不思議な気持ちになります。
+スピーカーというのは部品として広く普及しているものだけに、その仕組みについて考える機会はあまりないですが、このように自分で1から作ることで、その仕組みを深く知る良い機会になるでしょう。
+ </description>
+    </item>
+    
+    <item>
+      <title>DVDドライブと3Dプリンタで作るレーザー彫刻機</title>
+      <link>https://inajob.github.io/inajob-review/post/dvd%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E5%BD%AB%E5%88%BB%E6%A9%9F/</link>
+      <pubDate>Sun, 31 Mar 2019 11:43:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/dvd%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E5%BD%AB%E5%88%BB%E6%A9%9F/</guid>
+      <description>DIY Mini CNC Laser Engraver.から発見。画像もここから転載（CC BY-NC-SA By Maggie Shah）</description>
+    </item>
+    
+    <item>
+      <title>いい感じのLED照明キット</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%81%84%E3%81%84%E6%84%9F%E3%81%98%E3%81%AEled%E7%85%A7%E6%98%8E%E3%82%AD%E3%83%83%E3%83%88/</link>
+      <pubDate>Sat, 30 Mar 2019 23:00:10 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%81%84%E3%81%84%E6%84%9F%E3%81%98%E3%81%AEled%E7%85%A7%E6%98%8E%E3%82%AD%E3%83%83%E3%83%88/</guid>
+      <description>MagicCube - Tap to Change Color にて発見。画像もこちらから転載（By Rudeldi CC BY-NC-SA）
+MagicCube - tap to change colorから購入もできる。
+透明フィラメントを使って、いい感じの雰囲気を演出している。 CPUはArduinoとおなじATmega328P、加速度センサー、充電回路などを搭載している。
+ </description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタで作れるブラシ</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8C%E3%82%8B%E3%83%96%E3%83%A9%E3%82%B7/</link>
+      <pubDate>Thu, 28 Mar 2019 23:00:25 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8C%E3%82%8B%E3%83%96%E3%83%A9%E3%82%B7/</guid>
+      <description>BRUSH WITH THE POWER OF 3D PRINTING で発見。
+3Dプリンタは通常ケースや、フィギュアのようなプラスチックの塊を作るイメージが強く、ふさふさした毛のようなものは作れないようなイメージがあります。
+しかし、この記事で紹介しているのは「ブラシ」の作り方です。ふさふさ、という感じではないでしょうが、一般的に知られている3Dプリンタの作例とは少し違っています。
+モデルはBouldering Brush - Fully 3D Printed!で配布されています。
+他にもこのような例としてこのクリスマスツリー のようなものもあります。
+(EZ Print Christmas Tree by SynJa is licensed under the Creative Commons - Attribution license.)
+3Dプリンタはまだまだ発展中の技術であり、こういった意外な作例を通して新しい発見があるかもしれません。
+(ヘッダ画像は： Bouldering Brush - Fully 3D Printed! by Turbo_SunShine is licensed under the Creative Commons - Attribution license.)</description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタ製の手回し式の7セグメント表示機</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E6%89%8B%E5%9B%9E%E3%81%97%E5%BC%8F%E3%81%AE7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
+      <pubDate>Sun, 24 Mar 2019 23:00:44 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E6%89%8B%E5%9B%9E%E3%81%97%E5%BC%8F%E3%81%AE7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
+      <description>Peters 7-seg all mechanical display prototype 2 から発見。写真もここから転載。
+普通7セグメント表示機といえばLEDを使ったものを想像しますが、これは手回し式の7セグメント表示機です。
+高速道路の表示などで、この手のLEDを使わない表示機は使われたりしていますが、この記事では、これを3Dプリンタで自作し、さらに手回しで操作できるようにしています。
+動力の肝となるのは輪ゴムで、手回しによりカムを回転させて、数字を切り替えています。
+ </description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタとグルーガンで作るオリジナルの7セグ</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A8%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%AC%E3%83%B3%E3%81%A7%E4%BD%9C%E3%82%8B%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%81%AE7%E3%82%BB%E3%82%B0/</link>
+      <pubDate>Wed, 20 Mar 2019 23:00:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A8%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%AC%E3%83%B3%E3%81%A7%E4%BD%9C%E3%82%8B%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%81%AE7%E3%82%BB%E3%82%B0/</guid>
+      <description>Reaction timer with 3D printed segment displayから発見
+要は3Dプリンタで型を作り、好きな7セグの形を作り、光らせたい部分にグルーガンで透明のプラスチックを流し込み、一緒にLEDを固定するということです。
+理論上はこれでよいのですが、グルーを流し込むところが結構難しいらしく、失敗すると3Dプリントした型が溶けたりしてしまうようです。
+またLEDの配線も苦労しているようです。</description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタによる電磁石による物理7セグ</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AB%E3%82%88%E3%82%8B%E9%9B%BB%E7%A3%81%E7%9F%B3%E3%81%AB%E3%82%88%E3%82%8B%E7%89%A9%E7%90%867%E3%82%BB%E3%82%B0/</link>
+      <pubDate>Tue, 19 Mar 2019 23:00:34 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AB%E3%82%88%E3%82%8B%E9%9B%BB%E7%A3%81%E7%9F%B3%E3%81%AB%E3%82%88%E3%82%8B%E7%89%A9%E7%90%867%E3%82%BB%E3%82%B0/</guid>
+      <description>Electromagnetic display から発見。
+物理的なセグメントディスプレイは高速道路などで見かけたりもしますが、その仕組みはよく知りませんでした。
+このプロジェクトでは、これを3Dプリンタで自作してしまおうというものです。 こういう作例を見ると、今まで何気なく見ていた仕組みがどうやって動いているか理解が深まります。
+物理7セグは古典的ですが、表示の維持に電力が不要であったり、周りが明るい環境でも視認性を確保できる、など様々な利点があるため、場合によってはLEDよりも役立つかもしれません。</description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタで作るチョロＱ</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%81%E3%83%A7%E3%83%AD%EF%BD%91/</link>
+      <pubDate>Tue, 12 Mar 2019 00:15:42 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%81%E3%83%A7%E3%83%AD%EF%BD%91/</guid>
+      <description>Fully 3D-printable wind-up car gift cardで発見。
+プラモデルみたいな、ランナー付きのパーツキットで、プルバック式のチョロQのようなものが作れるという3Dモデル。
+ばね自体も3Dプリンタで生成している。ばねをうまく動かすためにはinfill100%が推奨とのこと。
+説明書もよくできているし、参考にしたいプロダクト。
+ </description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタ内に空気清浄器をいれる</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E5%86%85%E3%81%AB%E7%A9%BA%E6%B0%97%E6%B8%85%E6%B5%84%E5%99%A8%E3%82%92%E3%81%84%E3%82%8C%E3%82%8B/</link>
+      <pubDate>Tue, 05 Feb 2019 12:01:45 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E5%86%85%E3%81%AB%E7%A9%BA%E6%B0%97%E6%B8%85%E6%B5%84%E5%99%A8%E3%82%92%E3%81%84%E3%82%8C%E3%82%8B/</guid>
+      <description>3D Printed Air Purifier &amp;ndash; Get Rid of ABS Smell and VOC&amp;rsquo;s 
+で発見。3Dプリンタを立方体のケースに入れて、中にファンとコンパクトな空気清浄機(ガスマスクのフィルタ)を入れるというHack。
+確かに3Dプリンタは特にABSを使うときは、においが気になるし、におわなくてもプラスチック由来の有害物質が出ると聞きます。 ファンを固定するプラスチック部品も3Dプリンタで作っているようです。
+利用しているガスマスクのフィルタは下記のようです（結構高かった！）
+  </description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタでオーバーハングを克服する裏技</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%8F%E3%83%B3%E3%82%B0%E3%82%92%E5%85%8B%E6%9C%8D%E3%81%99%E3%82%8B%E8%A3%8F%E6%8A%80/</link>
+      <pubDate>Mon, 04 Feb 2019 12:35:20 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%8F%E3%83%B3%E3%82%B0%E3%82%92%E5%85%8B%E6%9C%8D%E3%81%99%E3%82%8B%E8%A3%8F%E6%8A%80/</guid>
+      <description>Supportless 90° overhangs with a twist
+みたまんま ネタばれになるので、リンク先を参照。
+他にも興味深いコメントが・・
+ ”無重力空間で3Dプリントしたらよさそう！” &amp;ldquo;特許とられてそう&amp;rdquo;  まぁ調べると5軸の3Dプリンタとかもあるので、まじめにやるならそういう方向ですかね・・</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>キーボード on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/inajob-review/tags/%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
+    <description>Recent content in キーボード on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Thu, 16 Jan 2020 23:00:37 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/inajob-review/tags/%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3キーとロータリーエンコーダ付きの名刺サイズキーボード</title>
+      <link>https://inajob.github.io/inajob-review/post/3%E3%82%AD%E3%83%BC%E3%81%A8%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E4%BB%98%E3%81%8D%E3%81%AE%E5%90%8D%E5%88%BA%E3%82%B5%E3%82%A4%E3%82%BA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Thu, 16 Jan 2020 23:00:37 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3%E3%82%AD%E3%83%BC%E3%81%A8%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E4%BB%98%E3%81%8D%E3%81%AE%E5%90%8D%E5%88%BA%E3%82%B5%E3%82%A4%E3%82%BA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>USB Mini Media Keyboardから発見。画像もここから転載。
+最近日本で流行っている「自作キーボード」ですが、海外でも流行っているようです。特にこの記事で紹介しているような名刺サイズのキーボードはボタンの数が少ないこともあり自作キーボード入門者には最適なプロダクトです。
+この記事ではブレッドボードを使った試作の段階を紹介しており、自分で1からキーボードを設計したい人には参考になる内容です。
+CPUにはArduino Pro Microをつかい3つのキーと1つのロータリーエンコーダを搭載しています。 ショートカットキーなどを割り振ることで実用的に利用することもできます。</description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタ製の点字で入力できるキーボード</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E7%82%B9%E5%AD%97%E3%81%A7%E5%85%A5%E5%8A%9B%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Tue, 17 Sep 2019 23:00:45 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E7%82%B9%E5%AD%97%E3%81%A7%E5%85%A5%E5%8A%9B%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>Knoboから発見。画像もここから転載。
+knoboは点字形式で入力できる一風変わった入力装置です。右側の6つの黒いスイッチを点字と同じように押すことでアルファベットを入力することができます。
+他のキーはスペースや改行に使います。また左上のダイアルでスクロールなどもできます。
+製作の背景としては、Text-to-Speechなどの発達により「点字」の利用がどんどん減っていることを挙げています。Text-to-speechは便利ですが、それはでは読み書きの能力は養えない　ということを課題に感じ、このデバイスを作成しているそうです。
+ </description>
+    </item>
+    
+  </channel>
+</rss>

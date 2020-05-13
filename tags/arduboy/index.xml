@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arduboy on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/inajob-review/tags/arduboy/</link>
+    <description>Recent content in Arduboy on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Tue, 24 Sep 2019 23:00:20 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/inajob-review/tags/arduboy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Arduboy用のよくできたピクロスPiCross</title>
+      <link>https://inajob.github.io/inajob-review/post/arduboy%E7%94%A8%E3%81%AE%E3%82%88%E3%81%8F%E3%81%A7%E3%81%8D%E3%81%9F%E3%83%94%E3%82%AF%E3%83%AD%E3%82%B9picross/</link>
+      <pubDate>Tue, 24 Sep 2019 23:00:20 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/arduboy%E7%94%A8%E3%81%AE%E3%82%88%E3%81%8F%E3%81%A7%E3%81%8D%E3%81%9F%E3%83%94%E3%82%AF%E3%83%AD%E3%82%B9picross/</guid>
+      <description>PiCross 1.0から発見。画像もここから転載。
+Arduboy用に作られた非常にできの良いピクロスゲームPiCrossを紹介します。
+Arduboyの画面は128x64と小さいですが、このピクロスゲームは、スクロールによりその狭さを感じさせないつくりになっています。レベルもかなりたくさん用意されているので一通り遊び終わるにはかなりの時間がかかりそうです。
+（このゲームは容量節約のためUSBブートローダーが入っていないので、別のゲームに切り替えるときは、まず「↓」ボタンを押しながら起動してから、書き込む必要があります。）
+元記事にはブラウザで動作するエミュレータ”ProjectABE”へのリンクもありますので、Arduboyを持っていない人も遊ぶことができます。</description>
+    </item>
+    
+  </channel>
+</rss>

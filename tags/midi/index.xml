@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Midi on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/inajob-review/tags/midi/</link>
+    <description>Recent content in Midi on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 16 Oct 2019 23:00:09 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/inajob-review/tags/midi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ATtinyでMIDIをCVに変換する</title>
+      <link>https://inajob.github.io/inajob-review/post/attiny%E3%81%A7midi%E3%82%92cv%E3%81%AB%E5%A4%89%E6%8F%9B%E3%81%99%E3%82%8B/</link>
+      <pubDate>Wed, 16 Oct 2019 23:00:09 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/attiny%E3%81%A7midi%E3%82%92cv%E3%81%AB%E5%A4%89%E6%8F%9B%E3%81%99%E3%82%8B/</guid>
+      <description>DIY GOOD OL’ MIDI TO CVから発見。画像もここから転載。
+MIDIの入力を受け付けて、CV/Gage出力することができるプログラムの紹介です。 この仕組みがあると、MIDIを出力できる高レイヤーのDTM機器と、CV/Gateで動作する低レイヤーのシンセサイザーなどを連携させることができます。
+しかもこれはATTinyを使った簡単な回路で、しかもプログラムを変更することで様々なMIDI信号に対応できます。ハードウェアDTM機器を組み合わせて使っている方には便利なユーティリティとして使うことができるでしょう。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ゲーム機 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/inajob-review/tags/%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+    <description>Recent content in ゲーム機 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 06 May 2020 23:00:39 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/inajob-review/tags/%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Arduboy互換のキット式のゲーム機</title>
+      <link>https://inajob.github.io/inajob-review/post/arduboy%E4%BA%92%E6%8F%9B%E3%81%AE%E3%82%AD%E3%83%83%E3%83%88%E5%BC%8F%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Wed, 06 May 2020 23:00:39 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/arduboy%E4%BA%92%E6%8F%9B%E3%81%AE%E3%82%AD%E3%83%83%E3%83%88%E5%BC%8F%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>Peanut Kitから発見。画像もここから転載。
+PeanutはArduboy互換のゲーム機の自作キットです。
+3枚の基板でサンドイッチにする形で構成される筐体と、射出成型されたそれっぽいアーケード風の十字キーが特徴です。
+Arduino MicroやLiPo充電ボードなど、既存のボードを組み合わせることでキットを構成しているのが安い価格の秘訣かもしれません。</description>
+    </item>
+    
+    <item>
+      <title>非常に小さなThinkpad風ガジェット</title>
+      <link>https://inajob.github.io/inajob-review/post/%E9%9D%9E%E5%B8%B8%E3%81%AB%E5%B0%8F%E3%81%95%E3%81%AAthinkpad%E9%A2%A8%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
+      <pubDate>Thu, 23 Apr 2020 23:00:22 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E9%9D%9E%E5%B8%B8%E3%81%AB%E5%B0%8F%E3%81%95%E3%81%AAthinkpad%E9%A2%A8%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
+      <description>ThinkTiny Is a Micro ThinkPad-Inspired Notebookから発見。画像もここから転載。
+非常に小さなThinkpad風のガジェットです。Thinkpad風なのは見た目だけではなく、操作するための「スティック」がThinkpadのトラックポイントとよく似た操作感です。
+ICはATtiny1614を使い、こういった工作ではおなじみの128x64のOLEDを利用しています。 小さいガジェットはいろいろ見てきましたが、このように一つテーマを持って物を作るというのは面白いと感じました。
+ </description>
+    </item>
+    
+    <item>
+      <title>アーケードゲーム風のRaspberry Piケース</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E9%A2%A8%E3%81%AEraspberry-pi%E3%82%B1%E3%83%BC%E3%82%B9/</link>
+      <pubDate>Thu, 16 Apr 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E9%A2%A8%E3%81%AEraspberry-pi%E3%82%B1%E3%83%BC%E3%82%B9/</guid>
+      <description>CompactPi Mini Arcade - CPi01から発見。画像もここから転載。
+見ての通りアーケードゲーム風のRaspberry Piのエンクロージャです。 3Dプリンタを使って作られていますが、完成度は非常に高く、おもちゃっぽい色合いのフィラメントが良い雰囲気を演出しています。
+ディスプレイは800x480、バッテリ、スピーカーも搭載されています。さらに手前に小さなOLEDのディスプレイが搭載してあり、ガジェット感を演出しています。
+ </description>
+    </item>
+    
+    <item>
+      <title>ESP8266を使ったMicroPythonでゲームが作れるゲーム機</title>
+      <link>https://inajob.github.io/inajob-review/post/esp8266%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fmicropython%E3%81%A7%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%8C%E4%BD%9C%E3%82%8C%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Mon, 30 Mar 2020 23:00:30 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/esp8266%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fmicropython%E3%81%A7%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%8C%E4%BD%9C%E3%82%8C%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>GamerGorlから発見。画像もここから転載。
+ESP8266を使ったゲーム機を学習用に使っているという記事です。
+学習用といいつつ、ゲーム機として十分の機能を搭載しているように見えます。 アナログジョイスティックと2キーのボタン、128x64のOLED、ブザー、フルカラーLEDなどが接続されています。
+プログラムはMicroPythonで記述することができます。
+ページには生徒の皆さんが作った様々なゲームの作例が紹介されています。
+改めてESP8266のすごさを思い知りました。
+ </description>
+    </item>
+    
+    <item>
+      <title>床が抜けるギミック付きのチェスボード</title>
+      <link>https://inajob.github.io/inajob-review/post/%E5%BA%8A%E3%81%8C%E6%8A%9C%E3%81%91%E3%82%8B%E3%82%AE%E3%83%9F%E3%83%83%E3%82%AF%E4%BB%98%E3%81%8D%E3%81%AE%E3%83%81%E3%82%A7%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Thu, 26 Mar 2020 23:00:31 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E5%BA%8A%E3%81%8C%E6%8A%9C%E3%81%91%E3%82%8B%E3%82%AE%E3%83%9F%E3%83%83%E3%82%AF%E4%BB%98%E3%81%8D%E3%81%AE%E3%83%81%E3%82%A7%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>TRAP CHESS KEEPS PLAYERS ON THEIR TOESから発見。画像もここから転載。
+一見普通に見えるこのチェスボードですが、すごい仕掛けが隠されています。 1ターンごとに「ランダムな床が抜けます」。駒がいるマスが抜けた場合は当然その駒はなくなってしまいます。
+チェスには詳しくないですが、こういう「追加ルール」をつけてゲームを面白くする。というのは自作ゲームを考える際には良い着眼点だなと感じました。
+また単純に床が抜けて駒が落ちるというギミックは見ていて面白いです。
+ </description>
+    </item>
+    
+    <item>
+      <title>あのArduboyにクランクをつける改造</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%81%82%E3%81%AEarduboy%E3%81%AB%E3%82%AF%E3%83%A9%E3%83%B3%E3%82%AF%E3%82%92%E3%81%A4%E3%81%91%E3%82%8B%E6%94%B9%E9%80%A0/</link>
+      <pubDate>Tue, 03 Mar 2020 23:00:04 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%81%82%E3%81%AEarduboy%E3%81%AB%E3%82%AF%E3%83%A9%E3%83%B3%E3%82%AF%E3%82%92%E3%81%A4%E3%81%91%E3%82%8B%E6%94%B9%E9%80%A0/</guid>
+      <description>THE ARDUBOY GETS A CRANK MODから発見。画像もここから転載。
+いわずもがなPlayDateに対抗して作られたArduboyの改造機です。 改造機といっても改造したのはArduboyの開発者のKevinさんですが・・
+Arduboyのフロントパネルはそのままにバックパネルを分厚いものに変更して、もともとのエレガントさを保ちつつ改造ができています。 クランクがあるゲーム機は珍しいですが、こういう作例を見ると、別の世界線ではそういうゲーム機が流行ってるとかありそうだな・・　と感じました。
+ </description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタで作成した完成度の高いサイモンゲーム</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%97%E3%81%9F%E5%AE%8C%E6%88%90%E5%BA%A6%E3%81%AE%E9%AB%98%E3%81%84%E3%82%B5%E3%82%A4%E3%83%A2%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0/</link>
+      <pubDate>Thu, 27 Feb 2020 23:00:16 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%97%E3%81%9F%E5%AE%8C%E6%88%90%E5%BA%A6%E3%81%AE%E9%AB%98%E3%81%84%E3%82%B5%E3%82%A4%E3%83%A2%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0/</guid>
+      <description>Simon Says Game - 3D Printable | Arduino Nano | DIY Projectから発見。画像もここから転載（CC BY-NC-SA By DIY Machines）
+昔からある電子ゲーム「サイモン」専用機を紹介します。 「サイモン」とは、光がついた順番をどんどん覚えていくという暗記ゲームで、4つのLED付きのボタンがあれば簡単に作れるため、よく電子工作の題材として登場します。
+この記事で紹介しているのも、そんな「サイモン」ゲーム機なのですが、非常に完成度が高いです。 ケースはすべて3Dプリンタで作成し、制御はArduino Nano、画面表示には128x32のモノクロOLEDと、ごくごくありふれた部品で作成されています。
+にもかかわらず、非常に高い完成度となっており、3Dプリンタでもここまでのものが作れるのかと、感心しました。
+ </description>
+    </item>
+    
+    <item>
+      <title>かっこいい1次元ゲーム機</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%841%E6%AC%A1%E5%85%83%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Thu, 20 Feb 2020 23:00:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%841%E6%AC%A1%E5%85%83%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>Surabiko HORIZONから発見。画像もここから転載
+「1次元ゲーム機」初めて聞く単語ですが、まさにそうとしか言いようがないゲーム機です。 フルカラーのLEDが横に32個並んでいて、十字キーとA,Bボタンがあるというものです。
+それだけ聞くとそんなに魅力を感じないかもしれませんが、動作の動画を見ると、フルカラーのLEDが滑らかに変化する様子が非常にきれいで「案外これもありかも？」と思える逸品です。
+ </description>
+    </item>
+    
+    <item>
+      <title>自作のポータブル数独ゲーム機</title>
+      <link>https://inajob.github.io/inajob-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%E6%95%B0%E7%8B%AC%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Mon, 03 Feb 2020 23:00:59 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%E6%95%B0%E7%8B%AC%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>Portable Electronic Sudoku Gameから発見。画像もここから転載。
+Arduinoと2.8インチのタッチパネル液晶を使った、ポータブル数独ゲーム機を紹介します。
+見ての通り数独ゲームです。3Dプリンタ製のケースをまとい、バッテリーを内蔵しています。 特段変わったことをしているわけではないですが「なんだ、これでいいじゃん」と思わせてくれる「しっくり感」があります。
+ちょっと部品をそろえれば誰でも作れそうなところもポイントが高いです。
+ </description>
+    </item>
+    
+    <item>
+      <title>ATtiny85で動作するゲーム集</title>
+      <link>https://inajob.github.io/inajob-review/post/attiny85%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E9%9B%86/</link>
+      <pubDate>Wed, 22 Jan 2020 23:00:28 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/attiny85%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E9%9B%86/</guid>
+      <description>game collection for Attiny85から発見。画像もここから転載。
+ATtiny85に向けた8種類のゲームを紹介しています。 ATtiny85を使ったゲーム機の作例は結構あるようで、それらで動作するように作られたゲームのようです。
+ゲーム機の自作をする場合、ゲーム機を作り、さらにそこで動くゲームを作る必要がありますが、こういう汎用的なゲーム集があれば、それに合わせたゲーム機を作ることで、既存の資産を活用することができるため、非常に良い取り組みだと感じました。
+ </description>
+    </item>
+    
+    <item>
+      <title>Arduboyをカートリッジ式にするという壮大な計画</title>
+      <link>https://inajob.github.io/inajob-review/post/arduboy%E3%82%92%E3%82%AB%E3%83%BC%E3%83%88%E3%83%AA%E3%83%83%E3%82%B8%E5%BC%8F%E3%81%AB%E3%81%99%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E5%A3%AE%E5%A4%A7%E3%81%AA%E8%A8%88%E7%94%BB/</link>
+      <pubDate>Tue, 21 Jan 2020 23:00:16 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/arduboy%E3%82%92%E3%82%AB%E3%83%BC%E3%83%88%E3%83%AA%E3%83%83%E3%82%B8%E5%BC%8F%E3%81%AB%E3%81%99%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E5%A3%AE%E5%A4%A7%E3%81%AA%E8%A8%88%E7%94%BB/</guid>
+      <description>THE ARDUBOY COMMUNITY ROLLED THEIR OWN CARTRIDGEから発見。画像もここから転載。
+Arduboyはユーザに愛されているプロダクトです。かくいう私もArduboyの購入者で頻繁にコミュニティフォーラムを確認しています。
+この記事で紹介しているArduboyにアドオンする形のカートリッジもこのフォーラムから生まれたものです。
+従来ArduboyはUSBの書き込みによりゲームを書き換えることしかできませんでした。つまりパソコンのない環境でゲームを入れ替えることはできなかったのです。
+そこで立ち上がったのがカートリッジ対応のプロジェクトです。SPI Flashチップを内蔵し、Arduboyの基板についているデバッグ用のパッドを駆使してカートリッジ用のコネクタを作成したり、追加基板のマウントのために筐体を少し分厚くするためのケースを3Dプリンタで作成したりと、コミュニティのメンバーが知恵を出し合ってどんどん良いものになっていきました。
+そして、このFlashCart向けの端子を利用してArduboyに周辺機器を追加したりするアイデアもたくさん上がっています。
+本家Arduboyの開発者のKevinさんもこの活動に積極的に取り組んでおり、公式でもFlashCart対応のArduboyが出るかも・・という動きが進行中のようです。
+ </description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi 3を使った携帯ゲーム機</title>
+      <link>https://inajob.github.io/inajob-review/post/raspberry-pi-3%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Mon, 06 Jan 2020 23:00:58 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/raspberry-pi-3%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>Portable Retro Game Console with 7.9-inch displayから発見。画像もここから転載。
+Raspberry Pi 3を使ったポータブルゲーム機の作例です。 ケースは3Dプリンタで作成しています。
+ 7.9インチディスプレイ(iPad mini 3のものと同じ) 2048x1536 USB DAC(16Bit, 48kHz) 3.5mmオーディオジャック 3Wスピーカ 8000mAh バッテリー  筐体の中身の写真がないので、想像するしかないですが、この大きさに収めるにはかなりの工夫が必要そうです。
+ </description>
+    </item>
+    
+    <item>
+      <title>Adafruitの新作ゲーム機PyGamer</title>
+      <link>https://inajob.github.io/inajob-review/post/adafruit%E3%81%AE%E6%96%B0%E4%BD%9C%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9Fpygamer/</link>
+      <pubDate>Mon, 23 Dec 2019 23:00:57 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/adafruit%E3%81%AE%E6%96%B0%E4%BD%9C%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9Fpygamer/</guid>
+      <description>NEW PRODUCT – Adafruit PyGamer for MakeCode Arcade, CircuitPython or Arduinoから発見。画像もここから転載。
+Adafruitは最近CircuitPythonが動作するゲーム機のようなボードをたくさん出し始めました。
+PyGamerもその一つです。メインCPUはATSAMD51で、160x128のTFT液晶を搭載。 アナログジョイスティックと4つのボタン、5つのフルカラー液晶、SDカードリーダー、バッテリー用ポートがついています。
+またMicrosoftの提供するMakeCode Arcadeでゲームを作ることができるのも特徴の一つです。
+大体ほしい機能がそろっているゲーム機で、ここまで様々出てきたゲーム機の集大成という感じがするボードです。</description>
+    </item>
+    
+    <item>
+      <title>カラー液晶付きテスターを改造してテトリスを実行する</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%82%AB%E3%83%A9%E3%83%BC%E6%B6%B2%E6%99%B6%E4%BB%98%E3%81%8D%E3%83%86%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9%E3%82%92%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B/</link>
+      <pubDate>Thu, 05 Dec 2019 23:00:49 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%82%AB%E3%83%A9%E3%83%BC%E6%B6%B2%E6%99%B6%E4%BB%98%E3%81%8D%E3%83%86%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9%E3%82%92%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B/</guid>
+      <description>GM328A reverse engineering, new firmware and Tetris! から発見。画像もここから転載。
+中国通販サイトでよく見かける電子部品チェッカーですが、実はいくつか種類があります。よく見かけるのはモノクロ画面のものですが、中にはカラー液晶を備えているものもあります。
+コアとなっているCPUはArduinoと同じATmega328なので、比較的簡単に改造することができるようです。
+この記事では、カラー液晶の電子部品チェッカーのファームウェアを書き換えて、機能を改良したり、挙句の果てに「テトリス」を動かしたりしています。
+ピンの配置を変えずにテトリスを動作させるのには工夫が必要だったようで、そのあたりは記事に詳しく記載されています。
+ </description>
+    </item>
+    
+    <item>
+      <title>ARを使ったボードゲームデバイス</title>
+      <link>https://inajob.github.io/inajob-review/post/ar%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</link>
+      <pubDate>Tue, 15 Oct 2019 23:00:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/ar%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</guid>
+      <description>Tilt Five: Holographic Tabletop Gamingから発見。画像もここから転載。
+AR技術を使ったボードゲームデバイスです。
+専用のスマートグラスと、ARマーカー付きのボードを使い、現実の机の上で、バーチャルな演出入りのボードゲームを遊ぶことができるようです。
+ボードゲーム特化というよりは、AR時代の新しい「ディスプレイ」という感じです。こういうものが出てくると、今の「ディスプレイ」と「マウス」を使ったパソコンも近いうちに全く違ったものになるのでは？とワクワクしました。
+ </description>
+    </item>
+    
+    <item>
+      <title>ファミコン互換機をポータブルに改造</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%83%95%E3%82%A1%E3%83%9F%E3%82%B3%E3%83%B3%E4%BA%92%E6%8F%9B%E6%A9%9F%E3%82%92%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%E3%81%AB%E6%94%B9%E9%80%A0/</link>
+      <pubDate>Mon, 14 Oct 2019 23:00:17 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%83%95%E3%82%A1%E3%83%9F%E3%82%B3%E3%83%B3%E4%BA%92%E6%8F%9B%E6%A9%9F%E3%82%92%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%E3%81%AB%E6%94%B9%E9%80%A0/</guid>
+      <description>The Thinnest &amp;amp; Narrowest Portable Nes? から発見。画像もここから転載（CC BY-NCS-SA By M-Parks）
+持ち運べるファミコン互換機の作例です。1から作るのは大変なので、既存の据え置き型のファミコン互換機を改造する形で作成しています。
+といっても、コントローラや液晶、充電機能、オーディオアンプなど、周辺機器は自作しています。
+1から作ることが難しいものでも、このように既存の製品を組み合わせることで実現することができるという良い例だと感じました。</description>
+    </item>
+    
+    <item>
+      <title>Linux携帯ゲーム機RetroStone 2</title>
+      <link>https://inajob.github.io/inajob-review/post/linux%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9Fretrostone-2/</link>
+      <pubDate>Sun, 08 Sep 2019 23:00:31 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/linux%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9Fretrostone-2/</guid>
+      <description>RetroStone 2 - Ultimate RetroGaming Consoleから発見。画像もここから転載。
+携帯Linuxゲームエミュレータコンソールのプロジェクトを紹介します。
+RetroStone 2はAllwinnerのプロセッサを使ったLinuxゲームエミュレータコンソールです。有名なエミュレータ用OSであるRetropieのAllwinnerバージョンであるRetrorangepiというOSを動かすことができるようです。
+USBやHDMIもサポートしており、マルチプレイヤーゲームなども遊ぶことができるようです。 また中身はLinuxましんなので、ディスプレイ、マウス、キーボードを接続することで普通のPCとしても利用できるようです。</description>
+    </item>
+    
+    <item>
+      <title>Corex M0&#43;を使ったゲーム機の作例</title>
+      <link>https://inajob.github.io/inajob-review/post/corex-m0-%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E3%81%AE%E4%BD%9C%E4%BE%8B/</link>
+      <pubDate>Mon, 02 Sep 2019 23:00:39 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/corex-m0-%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E3%81%AE%E4%BD%9C%E4%BE%8B/</guid>
+      <description>40-fps 16-bpp platform game on a Cortex M0+ board から発見。画像もここから転載。
+この記事で紹介しているのはArduino Zeroと同じCorex M0+のCPUを使った携帯ゲーム機です。画面は1.8インチの160x128のTFTディスプレイ。SDカードも利用できる。フレームレートは40FPS。画面の制御のためにDMAを駆使しているようです。
+CPUボードはuChipというDIP-16サイズの開発ボードを使っています。
+ </description>
+    </item>
+    
+    <item>
+      <title>Arduboyの「ミニ」バージョンが登場しそう</title>
+      <link>https://inajob.github.io/inajob-review/post/arduboy%E3%81%AE%E3%83%9F%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%8C%E7%99%BB%E5%A0%B4%E3%81%97%E3%81%9D%E3%81%86/</link>
+      <pubDate>Sun, 21 Jul 2019 23:00:28 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/arduboy%E3%81%AE%E3%83%9F%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%8C%E7%99%BB%E5%A0%B4%E3%81%97%E3%81%9D%E3%81%86/</guid>
+      <description>The Arduboy Mini, Coming Soon!から発見。画像もここから転載。
+Arduboyは十分小さく、薄いと思っていたのですが、どうやらさらに小さなバージョンが登場するようです。
+基本的は回路や設計はArduboyと同じですが、特徴的なのはflash modです。これはArduboyの有名な改造例の1つで、外付けのフラッシュROMにたくさんのゲームを入れておくことができるというものです。
+Arduboy界隈はコミュニティが活発で、みんなに愛されているゲーム機なんだなと感じます。
+ </description>
+    </item>
+    
+    <item>
+      <title>Arduboy互換機にMidiがついた「midiboy」</title>
+      <link>https://inajob.github.io/inajob-review/post/arduboy%E4%BA%92%E6%8F%9B%E6%A9%9F%E3%81%ABmidi%E3%81%8C%E3%81%A4%E3%81%84%E3%81%9Fmidiboy/</link>
+      <pubDate>Wed, 17 Jul 2019 23:00:47 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/arduboy%E4%BA%92%E6%8F%9B%E6%A9%9F%E3%81%ABmidi%E3%81%8C%E3%81%A4%E3%81%84%E3%81%9Fmidiboy/</guid>
+      <description>Meet Midiboy!から発見。画像もここから転載。
+MidiboyはArduboyにMIDI端子がついたガジェットです。
+回路図を見るとArduboyとはちょっと違った回路になっていることがわかります。
+まずCPUがAtmega328になっています。このチップはハードウェアとしてはUSBをサポートしていません。しかし、ソフトウェアでUSBを実装しているようでそこに直接USBの信号を入力しています。（USBaspというソフトウェアのようです）
+MIDI端子はINとOUTがあり、それぞれがArduinoのピンとつながっています。
+（USBaspはAVRのライターとしては知っていたのですが、USBasp自体のファームウェアを書き換える機能が存在することをこれを見て知りました。）</description>
+    </item>
+    
+    <item>
+      <title>10×20のLEDディスプレイを搭載したゲームコンソール</title>
+      <link>https://inajob.github.io/inajob-review/post/1020%E3%81%AEled%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Mon, 24 Jun 2019 23:00:42 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/1020%E3%81%AEled%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</guid>
+      <description>Spork Consoleから発見。画像もここから転載。
+10×20のLED画面を搭載したゲーム機です。コントローラは別基板になっており、ケーブルで接続する方式のようです。CPUはATmega328。 200個ものLEDとその制御のための大量の周辺ICをはんだ付けするのは大変そうですが・・
+レトロな雰囲気が素敵なプロダクトで今後が楽しみです。</description>
+    </item>
+    
+    <item>
+      <title>8×8のマトリクスLEDを使ったゲーム機</title>
+      <link>https://inajob.github.io/inajob-review/post/88%E3%81%AE%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Mon, 10 Jun 2019 23:00:38 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/88%E3%81%AE%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>Retro Pocket Game Consoleから発見。画像もここから引用（CC BY-NC-SA By hobbyman）
+8x8のマトリクスLEDと2つのボタンを搭載したゲーム機。単4電池3本で動作する。 メインのマイコンはPIC12F683
+マトリクスLEDはMAX7219というICで制御されておりI2Cでメインのマイコンとつながっている。
+電池ボックスも含めて3Dプリンタで設計してあり、見た目も非常に完成度が高い。</description>
+    </item>
+    
+    <item>
+      <title>M5Stackをゲーム機風に変身させる裏技</title>
+      <link>https://inajob.github.io/inajob-review/post/m5stack%E3%82%92%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E9%A2%A8%E3%81%AB%E5%A4%89%E8%BA%AB%E3%81%95%E3%81%9B%E3%82%8B%E8%A3%8F%E6%8A%80/</link>
+      <pubDate>Mon, 27 May 2019 23:00:33 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/m5stack%E3%82%92%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E9%A2%A8%E3%81%AB%E5%A4%89%E8%BA%AB%E3%81%95%E3%81%9B%E3%82%8B%E8%A3%8F%E6%8A%80/</guid>
+      <description>Esplora X M5Stackから発見。画像もここから転載（CC BY-NC-SA By 陳亮）
+M5Stackは良いプラットフォームですが、ボタンが3つしかないのが人によっては不満かもしれません。 そこでこの記事ではArduinoの一種であるEsploraとM5Stackを合体させてゲーム機風に改造しています。
+Esploraはあまり流行っている印象はありませんが、このようにI2Cゲームコントローラとして利用するのは結構よさそうです。</description>
+    </item>
+    
+    <item>
+      <title>STM32F4を使ったゲーム機Meowbit</title>
+      <link>https://inajob.github.io/inajob-review/post/stm32f4%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9Fmeowbit/</link>
+      <pubDate>Sun, 26 May 2019 23:00:06 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/stm32f4%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9Fmeowbit/</guid>
+      <description>Meowbit -Codable Console for Microsoft Makecode Arcade から発見。画像もここから転載。
+なんともかわいらしいネコミミ付きのゲーム機です。&amp;rdquo;bit&amp;rdquo;という名前から想像できるように、ゲーム機の下側が「micro:bit」のようなカートリッジコネクタになっているのが特徴です。
+しかし、見た目とは異なり、コアとなるCPUはSTM32F401RET6で特にmicro:bitと同じというわけではありません。
+ゲームの開発はMicrosoftの Makecode ArcadeというScratchのようなビジュアル開発環境で行うことができます。また、MicroPythonでもプログラミングできるようです。
+十字キーは清音のタクトスイッチですが、分離された配置なのが少し気になる方もいるかもしれません。
+お値段も$39.9と比較的手ごろなので、ついつい買ってしまいそうです。
+ </description>
+    </item>
+    
+    <item>
+      <title>「コインの代わりにコイン電池」8×8のドットマトリクスLEDを使ったかわいいゲーム機</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%82%B3%E3%82%A4%E3%83%B3%E3%81%AE%E4%BB%A3%E3%82%8F%E3%82%8A%E3%81%AB%E3%82%B3%E3%82%A4%E3%83%B3%E9%9B%BB%E6%B1%A088%E3%81%AE%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Thu, 23 May 2019 23:00:53 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%82%B3%E3%82%A4%E3%83%B3%E3%81%AE%E4%BB%A3%E3%82%8F%E3%82%8A%E3%81%AB%E3%82%B3%E3%82%A4%E3%83%B3%E9%9B%BB%E6%B1%A088%E3%81%AE%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>LedCade - µ arcade game cabinet - 8x8 LED matrixから発見。画像もここから転載。
+写真を見るだけでついほしくなってしまう、かわいいくかっこいい携帯ゲーム端末です。組み立て式を想定しているらしく、1枚のPCB基板を組み合わせてこの写真のようなアーケード風の筐体を実現しています。 CPUはArduinoと同じATmega328です。
+また、おなじみ「Insert Coin」の表示に合わせて「コイン型電池」を入れる、というのも洒落がきいています。
+デザインデータも公開されているので似たようなものを作りたい方は参考にしてみてください。
+ </description>
+    </item>
+    
+    <item>
+      <title>クレジットカードサイズのゲーム機再び！「MicroArcade」</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E5%86%8D%E3%81%B3microarcade/</link>
+      <pubDate>Wed, 24 Apr 2019 23:30:37 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E5%86%8D%E3%81%B3microarcade/</guid>
+      <description>This Tiny Pac-Man Game Is the Size of a Credit Card で発見した。 日本語記事も書かれています。これはときめく。パックマンができるクレカ大のゲーム機
+画像はsuper impulseから転載
+基本的には、日本語記事を読んでください。という感じですが・・
+まず値段が20~25ドルというのは、この手のガジェットにしては安い！書き換えができるとエンジニア的には楽しそうだが、一般の購入者はそんな機能は求めていないのかなぁ・・
+Arduboyっぽい！と思ったらどうやらArduboyからライセンスを受けているらしく、Arduboyにどっぷりはまっていた身からすると、その点でも興味深いです。
+動くデモをケビンさん（Arduboyの作者）が投稿されていたので貼っておきます↓
+Pac Man Micro Arcade by Super Impulse Coming Soon pic.twitter.com/KMwcQtq3PK
+&amp;mdash; Kevin Bates (@bateskecom) 2019年2月24日</description>
+    </item>
+    
+    <item>
+      <title>手のひらサイズのLinuxゲーム機</title>
+      <link>https://inajob.github.io/inajob-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AElinux%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Tue, 23 Apr 2019 23:00:44 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AElinux%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>Funkey projectから発見。画像もここから転載。
+合成写真か？！と思うような小型のゲーム機です。しかし、この小ささでLinuxが動作するようです。 どうやらこのコンセプトとプロとタイプは2年前に発表されたもののようですが、今回量産に向けて再び設計からやり直しているようです。
+この大きさとなると、小さいことで有名なRaspberryPi Zeroですら大きすぎるため、1から基板を作ることになります。
+まだ販売予定などについては触れられていないようですが、ページを見る限り基板の大まかな設計はできているように見えます。
+今後の発展が楽しみなプロジェクトです。</description>
+    </item>
+    
+    <item>
+      <title>CPUをカートリッジで取り換えられるポータブルゲーム機</title>
+      <link>https://inajob.github.io/inajob-review/post/cpu%E3%82%92%E3%82%AB%E3%83%BC%E3%83%88%E3%83%AA%E3%83%83%E3%82%B8%E3%81%A7%E5%8F%96%E3%82%8A%E6%8F%9B%E3%81%88%E3%82%89%E3%82%8C%E3%82%8B%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Sun, 21 Apr 2019 23:00:47 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/cpu%E3%82%92%E3%82%AB%E3%83%BC%E3%83%88%E3%83%AA%E3%83%83%E3%82%B8%E3%81%A7%E5%8F%96%E3%82%8A%E6%8F%9B%E3%81%88%E3%82%89%E3%82%8C%E3%82%8B%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>Multi game console - Attiny85, Atmega328 and moreから発見。画像もここから転載。
+このゲーム機はSDカードのスロットを備えており、ここにSDカード型の基板で作った「カセット」を入れることでゲームを切り替えます。
+特徴的なのはこのカセットの側に「CPU」がついているということです。
+ArduboyやGamebuinoといったゲーム機は本体に搭載されたCPUのFlash領域を書き換えることでゲームを書き換えていましたが、それはそれで書き換えが面倒だったり、Flashの書き換え回数制限など問題がいくつかあります。
+この方式だとそういうことをせずにゲームを切り替えられるということで、面白い方法だなと思いました。</description>
+    </item>
+    
+    <item>
+      <title>フレキシブル基板によるArduboy</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%83%95%E3%83%AC%E3%82%AD%E3%82%B7%E3%83%96%E3%83%AB%E5%9F%BA%E6%9D%BF%E3%81%AB%E3%82%88%E3%82%8Barduboy/</link>
+      <pubDate>Thu, 18 Apr 2019 23:00:37 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%83%95%E3%83%AC%E3%82%AD%E3%82%B7%E3%83%96%E3%83%AB%E5%9F%BA%E6%9D%BF%E3%81%AB%E3%82%88%E3%82%8Barduboy/</guid>
+      <description>Introducing the “Arduflexboy” から発見。画像もここから転載。
+Arduboyの作者であるKevinさんが作った、フレキシブル基板によるArduboyの作例です。
+OSHParkを使うと誰でも簡単にフレキシブル基板を作ることができるようです。価格は1平方インチ当たり$15。
+ </description>
+    </item>
+    
+    <item>
+      <title>やたらとかわいいDIYゲーム機「PIXA」</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%82%84%E3%81%9F%E3%82%89%E3%81%A8%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84diy%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9Fpixa/</link>
+      <pubDate>Sat, 16 Feb 2019 03:37:13 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%82%84%E3%81%9F%E3%82%89%E3%81%A8%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84diy%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9Fpixa/</guid>
+      <description>PYXA | DIY Game Consoleから発見。写真もここから転載。
+カラー液晶を搭載したゲーム機。 128x160のフルカラー液晶。SDカード、バッテリーなどを搭載している。
+CPUはATmega328Pと書かれているが、経験上CPU性能が心配。画面制御用に何か別のチップが搭載されるのだろうか？
+ともあれ気になるプロダクトである。
+2019/03/16まで支援を募集しているので、欲しい人は一口乗ってみてはどうだろうか？</description>
+    </item>
+    
+  </channel>
+</rss>

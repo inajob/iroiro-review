@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Atmega32u4 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/inajob-review/tags/atmega32u4/</link>
+    <description>Recent content in Atmega32u4 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sun, 23 Jun 2019 23:00:24 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/inajob-review/tags/atmega32u4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>限界まで小さいATmega32U4モジュール</title>
+      <link>https://inajob.github.io/inajob-review/post/%E9%99%90%E7%95%8C%E3%81%BE%E3%81%A7%E5%B0%8F%E3%81%95%E3%81%84atmega32u4%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Sun, 23 Jun 2019 23:00:24 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E9%99%90%E7%95%8C%E3%81%BE%E3%81%A7%E5%B0%8F%E3%81%95%E3%81%84atmega32u4%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</guid>
+      <description>ATTOから発見。画像もここから転載。
+とんでもなく小さいサイズのATmega32u4モジュールです。ほぼICのサイズなので、理論上最小なのでは？と思いました。
+小さいながらUSB端子やリセットボタンを備えているので、簡単に書き換えができるというのも特徴です。小さなガジェットを作りたい人にはお勧めの開発ボードです。
+小さくするが故の制限ですが、ピン間隔が2.54mmより狭くなっているため、ブレッドボードで利用する際は別売りのブレイクアウトボードが必要となる点には注意が必要です。</description>
+    </item>
+    
+  </channel>
+</rss>

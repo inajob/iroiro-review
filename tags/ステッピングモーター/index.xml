@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ステッピングモーター on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/inajob-review/tags/%E3%82%B9%E3%83%86%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC/</link>
+    <description>Recent content in ステッピングモーター on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Tue, 25 Feb 2020 23:00:54 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/inajob-review/tags/%E3%82%B9%E3%83%86%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>針金を自在に加工する装置</title>
+      <link>https://inajob.github.io/inajob-review/post/%E9%87%9D%E9%87%91%E3%82%92%E8%87%AA%E5%9C%A8%E3%81%AB%E5%8A%A0%E5%B7%A5%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Tue, 25 Feb 2020 23:00:54 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E9%87%9D%E9%87%91%E3%82%92%E8%87%AA%E5%9C%A8%E3%81%AB%E5%8A%A0%E5%B7%A5%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/</guid>
+      <description>WIRE BENDER AIMS TO TAKE CIRCUIT SCULPTURES TO THE NEXT LEVELから発見。画像もここから転載。
+”何かを作る機械”というのは見ているだけで飽きないものです。この記事で紹介しているのは「ワイヤーベンダー」と呼ばれる針金を好きな形に曲げることができる装置です。
+2つのステッピングモーターを使い、針金を送り出しては曲げ、を繰り返しています。
+生成される針金細工は丈夫で、大きさの制限も少なそうなので、様々な応用ができそうだなと感じました。
+Wire bending machine update - added straightening wheels. It works so much better now, the wire is not twisting any longer. Now the feeding wheel is a problem, plastic one is quite slippery. I will have to build a metal one. #bendingmachine #cnc pic.twitter.com/GnjpbGnn7R
+&amp;mdash; Jiří Praus (@jipraus) 2019年6月30日</description>
+    </item>
+    
+  </channel>
+</rss>

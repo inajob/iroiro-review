@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>開発ボード on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/inajob-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+    <description>Recent content in 開発ボード on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Mon, 20 Apr 2020 23:00:21 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/inajob-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ATtiny84aの小型開発ボード</title>
+      <link>https://inajob.github.io/inajob-review/post/attiny84a%E3%81%AE%E5%B0%8F%E5%9E%8B%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Mon, 20 Apr 2020 23:00:21 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/attiny84a%E3%81%AE%E5%B0%8F%E5%9E%8B%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>Tiniest USB development board with Micronucleusから発見。画像もここから転載。
+USB端子がついたとても小さいサイズの開発ボードです。 コアとなっているICはATtiny84aで、Flashは8KB（USBのブートローダのため残りは6658bytes）、RAMは512Bytes 8MHｚで動作します。
+小型のプロジェクトのプロトタイピングに便利そうです。 (日本だと8pinoが非常に近いですね）</description>
+    </item>
+    
+    <item>
+      <title>Attiny3217の開発ボード</title>
+      <link>https://inajob.github.io/inajob-review/post/attiny3217%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Sun, 19 Apr 2020 23:00:55 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/attiny3217%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>Tiny Core 32 Dev Board - Attiny3217から発見。画像もここから転載。
+ATtiny3217の開発ボードです。32K Flash, 2K SRAM, 256 bytes EEPROM といった性能です。なんとなくATmega328に近そうなスペックです。
+ATtiny3217の価格などはよくわかっていないのですが、安くで入手できるならArduinoの代替としても使いやすそうだなと思いました。</description>
+    </item>
+    
+    <item>
+      <title>ATmega1284Pを搭載した小型の開発ボード</title>
+      <link>https://inajob.github.io/inajob-review/post/atmega1284p%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E5%B0%8F%E5%9E%8B%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Tue, 17 Mar 2020 23:00:55 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/atmega1284p%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E5%B0%8F%E5%9E%8B%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>Dooba Releases ioNode Dev Board with ATmega1284P Microcontrollerから発見。画像もここから転載
+Arduinoだと性能が足りないときに使えそうなマイコンATmega1284Pを搭載した、小型の開発ボードです。スペックはRAMが16Kb、Flashが128Kbです。
+公式サイトではこのモジュールと一緒に使える様々なモジュールも販売されています。</description>
+    </item>
+    
+    <item>
+      <title>Arduino Zeroの互換ボードが安い</title>
+      <link>https://inajob.github.io/inajob-review/post/arduino-zero%E3%81%AE%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89%E3%81%8C%E5%AE%89%E3%81%84/</link>
+      <pubDate>Tue, 10 Mar 2020 23:00:15 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/arduino-zero%E3%81%AE%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89%E3%81%8C%E5%AE%89%E3%81%84/</guid>
+      <description>SAM D21 Mini Development Boards: The Same Hardware, Only Priced Differentlyから発見。画像もここから転載。
+ATSAMD21を搭載した小型の開発ボードが安く販売されているという話です。 このCPUはArduino Zeroとおなじものなので、おそらく同じ開発環境が使えるはずです。
+性能としてはARM Cortex-M0+, 32KBのRAM,256KBのFlashといった感じです。
+これを製品に組み込む場合は、USBのVID/PIDをどうするか、という問題がやや気になりますが、性能の良いボードが安くで手に入るのはうれしいことです。</description>
+    </item>
+    
+    <item>
+      <title>使いやすそうなATtiny1634の開発ボード</title>
+      <link>https://inajob.github.io/inajob-review/post/%E4%BD%BF%E3%81%84%E3%82%84%E3%81%99%E3%81%9D%E3%81%86%E3%81%AAattiny1634%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Wed, 19 Feb 2020 23:00:11 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E4%BD%BF%E3%81%84%E3%82%84%E3%81%99%E3%81%9D%E3%81%86%E3%81%AAattiny1634%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>ATtiny1634 Development Boardから発見。画像もここから転載
+ATtiny1634というICを使いやすくするためのボードを紹介します。 このICは16KBのフラッシュ、1KBのRAM、ADCなどを搭載した使いやすそうなものです。
+ATtinyにはいくつかラインアップがありますが、1634は知らなかったため、このボードに興味を持ちました。
+WikipediaのATtinyの項目を見るとATtiny1634は2011年に発表されたもののようで、最近もたくさんの種類のATtinyが発表されることを知りました。 一度じっくりスペックを比較したいなと思いました。</description>
+    </item>
+    
+    <item>
+      <title>3Dプリンタ製の電源入りのブレッドボード</title>
+      <link>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E9%9B%BB%E6%BA%90%E5%85%A5%E3%82%8A%E3%81%AE%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Sun, 09 Feb 2020 23:00:36 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E9%9B%BB%E6%BA%90%E5%85%A5%E3%82%8A%E3%81%AE%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>Dev Board Breadboardから発見。画像もここから転載（CC BY-NC-SA By 陳亮）
+プロトタイピングに便利なブレッドボードですが、この記事で紹介するのは、さらに便利なブレッドボードです。
+写真の通り中央部分に電池を内蔵しているのです。1本でもArduinoを動作させることができるように単四サイズのリチウムイオン電池を利用しています（2.5-3.65V）
+ブレッドボードは3Dプリンタで作成しており、内部の金属パーツは既存のブレッドボードを分解して取り出しています。
+今まで当たり前に利用していたブレッドボードですが、電源が内蔵されることでさらに便利になりそうです。</description>
+    </item>
+    
+    <item>
+      <title>洗濯ばさみのような基板書き込み装置「SOICbite」</title>
+      <link>https://inajob.github.io/inajob-review/post/%E6%B4%97%E6%BF%AF%E3%81%B0%E3%81%95%E3%81%BF%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E5%9F%BA%E6%9D%BF%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF%E8%A3%85%E7%BD%AEsoicbite/</link>
+      <pubDate>Tue, 04 Feb 2020 23:00:47 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E6%B4%97%E6%BF%AF%E3%81%B0%E3%81%95%E3%81%BF%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E5%9F%BA%E6%9D%BF%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF%E8%A3%85%E7%BD%AEsoicbite/</guid>
+      <description>SOICbite Programming/Debug Connector Footprintから発見。画像もここから転載。
+基板を作るとき書き込み用ピンヘッダをつけることはよくありますが、普段は利用しないのでソケットやピンをつけないのが一般的です。しかし、いざ使う場面でソケットや、ピンをつける、というのも煩わしいです。
+そんな時ポゴピンなどで押し当てて接続したり、無理やりジャンパをひっかけて接続したりすることもありますが、「SOICbite」はこの問題に対してとてもスマートな解決策となりそうです。
+SOICbyteでは通常SOIC-8の形のICに書き込むための「クリップ」を利用します。 このクリップは、本来ICを挟んで使用するものですが、ここでは基板を挟んで使います。
+頭が良いのは、基板側にある「穴」です。洗濯ばさみ上のクリップには、この「穴」に対応した凸形状がついており、クリップ時に端子がちょうどよい位置に引っかかるようになっています。
+こうすることで追加の部品は必要なく簡単にアクセス可能なデバッグ用端子を用意することができるというわけです。
+本来の用途と違う使い道で、課題を解決する、まさにHackなアイデアだと感じました。</description>
+    </item>
+    
+    <item>
+      <title>RISC-VチップMAixを使ったRaspberryPiピンを持つ開発ボード</title>
+      <link>https://inajob.github.io/inajob-review/post/risc-v%E3%83%81%E3%83%83%E3%83%97maix%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fraspberrypi%E4%BA%92%E6%8F%9B%E3%83%94%E3%83%B3%E3%82%92%E6%8C%81%E3%81%A4%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Tue, 17 Dec 2019 23:00:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/risc-v%E3%83%81%E3%83%83%E3%83%97maix%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fraspberrypi%E4%BA%92%E6%8F%9B%E3%83%94%E3%83%B3%E3%82%92%E6%8C%81%E3%81%A4%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>Grove AI HAT for Edge Computingから発見。
+RISC-VチップであるMAixを搭載したRaspberry Piに接続できるAIボードです。 このボードをつけることでRaspberry Piから機械学習処理をオフロードしたり、カメラやディスプレイの制御を任せることができるようです。
+ </description>
+    </item>
+    
+    <item>
+      <title>シンプルなAtmega328書き込み器</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AAatmega328%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF%E5%99%A8/</link>
+      <pubDate>Sun, 15 Dec 2019 23:00:35 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AAatmega328%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF%E5%99%A8/</guid>
+      <description>Tiny Stand Alone Atmega328 Bootloader Burner から発見。画像もここから転載。
+表面実装パッケージのATmega328に書き込む装置の紹介です。 通常この手の書き込み器にはごついSMDパッケージ用のマウンタを使いますが、この記事で紹介しているのは、もっと単純にフットプリントを用意して、単にそこにCPUを載せるだけのものです。
+位置がずれないように基板を複数枚重ねて、凹んだところにCPUを置くようになっています。シンプルだけどそこそこ確実でよい方法だと感じました。
+ </description>
+    </item>
+    
+    <item>
+      <title>Atmega328PB用Arduino Nanoサイズ開発ボード</title>
+      <link>https://inajob.github.io/inajob-review/post/atmega328pb%E7%94%A8arduino-nano%E3%82%B5%E3%82%A4%E3%82%BA%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Thu, 12 Dec 2019 23:00:30 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/atmega328pb%E7%94%A8arduino-nano%E3%82%B5%E3%82%A4%E3%82%BA%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>NanoPBから発見。画像もここから転載。
+ATmega328にはいくつか種類があります、今回紹介するボードに搭載されているのはATmega328PBです。 またUSB-SerialのチップとしてCP2102を使っているのもこのボードの特徴です。
+ATmega328PBはほかのものと違い2つのGPIOが増えています。（今までのATmega328ではVCCとGNDだったピンがGPIOとなっています。）そのためこのボードではそれを活用できるように工夫が施されています。
+このボードは作者が欲しくて作ったもののようで、こうやって作ったボードを簡単に売れるフットワークが良いですね。</description>
+    </item>
+    
+    <item>
+      <title>iPadとブレッドボードを組み合わせた電子工作開発ボード</title>
+      <link>https://inajob.github.io/inajob-review/post/ipad%E3%81%A8%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E9%9B%BB%E5%AD%90%E5%B7%A5%E4%BD%9C%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Sun, 01 Dec 2019 23:00:53 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/ipad%E3%81%A8%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E9%9B%BB%E5%AD%90%E5%B7%A5%E4%BD%9C%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>Flowboard Provides a Novel, Visual Approach to Arduino Programming から発見。画像もここから転載。
+電子工作は慣れればそれほど難しくないですが、その導入においてはとっつきにくさを感じる人も多いのではないでしょうか？特に、ハードウェアもプログラミングも未経験な方はこの両方のハードルを越えるのが苦労するポイントとなっています。 この記事で紹介しているのは、電子工作の敷居を下げるためのソリューションです。
+両端にあるのは電子工作ではおなじみの「ブレッドボード」で、その中央に据えてあるのがiPadです。このiPad部分はビジュアルプログラミング環境となっており、視覚的に電子回路の制御ができる。というもののようです。
+ </description>
+    </item>
+    
+    <item>
+      <title>I2Cで接続できるジョグダイアル付きのキーパッド</title>
+      <link>https://inajob.github.io/inajob-review/post/i2c%E3%81%A7%E6%8E%A5%E7%B6%9A%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B8%E3%83%A7%E3%82%B0%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AB%E4%BB%98%E3%81%8D%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%91%E3%83%83%E3%83%89/</link>
+      <pubDate>Tue, 12 Nov 2019 23:00:29 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/i2c%E3%81%A7%E6%8E%A5%E7%B6%9A%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B8%E3%83%A7%E3%82%B0%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AB%E4%BB%98%E3%81%8D%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%91%E3%83%83%E3%83%89/</guid>
+      <description>I2C NavKey から発見。画像もここから転載。
+便利そうなキーバッドです。 I2C接続で簡単に扱うことができ、また、4つのねじで簡単に固定できるところも魅力です。
+Tindieで販売中のようで、日本からも買うことができるようなので、このコントローラにビビッと来た人は売り場を覗いてみてください。</description>
+    </item>
+    
+    <item>
+      <title>基板がUSBポートに直刺しできるArduino互換機</title>
+      <link>https://inajob.github.io/inajob-review/post/%E5%9F%BA%E6%9D%BF%E3%81%8C%E7%9B%B4%E5%88%BA%E3%81%97%E3%81%A7%E3%81%8D%E3%82%8Barduino%E4%BA%92%E6%8F%9B%E6%A9%9F/</link>
+      <pubDate>Thu, 24 Oct 2019 23:00:54 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E5%9F%BA%E6%9D%BF%E3%81%8C%E7%9B%B4%E5%88%BA%E3%81%97%E3%81%A7%E3%81%8D%E3%82%8Barduino%E4%BA%92%E6%8F%9B%E6%A9%9F/</guid>
+      <description>miniduino USBから発見。画像もここから転載。
+基板がUSB端子の形をしていて、直接PCに接続できるという、開発ボードはいくつかありますが、これはArduino Leonardo互換のものです。
+電源回りが少し特徴的で、まずは5Vのレギュレータを積んでいません。これはUSBに接続することが前提なので納得の仕様です。
+代わりにバッテリーをチャージしたり、バッテリーの電圧を5Vに昇圧する仕組みが搭載されています。これらも含めて回路図が公開されているので、似たようなプロダクトを作る際は参考になりそうです。</description>
+    </item>
+    
+    <item>
+      <title>ATSAMD21を使った最小構成開発環境の紹介</title>
+      <link>https://inajob.github.io/inajob-review/post/atsamd21%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%9C%80%E5%B0%8F%E6%A7%8B%E6%88%90%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%81%AE%E7%B4%B9%E4%BB%8B/</link>
+      <pubDate>Mon, 07 Oct 2019 23:00:47 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/atsamd21%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%9C%80%E5%B0%8F%E6%A7%8B%E6%88%90%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%81%AE%E7%B4%B9%E4%BB%8B/</guid>
+      <description>Minimal ATSAMD21 Computer 2 から発見。画像もここから転載。
+ATSAMD21というのはArduino M0やArduino Zeroなどで使われているAtmelのCortex-M0+のCPUです。 この記事では、ArduinoボードではなくICと周辺部品をブレッドボード上で回路を構成し、最低限の開発環境を作る方法を紹介しています。
+同じIC（ATSAMD21G18A）は秋月電子でも買うことができるため このICを使って何か作ろうと考えている方は要チェックです。
+初回のブートローダーの書き込みにはArduino Zeroなどを使うようです。その後Arduinoとして書き込む際はICに内蔵されているUSBの機能で書き込みができるということのようです。
+プロトタイピングをArduino M0やArduino Zeroで行った後に小さくプリント基板にまとめる際などにもこの記事に記載のノウハウが役に立つでしょう。</description>
+    </item>
+    
+    <item>
+      <title>カラーディスプレイ付きのRISC-V開発ボード</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E4%BB%98%E3%81%8D%E3%81%AErisc-v%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Mon, 16 Sep 2019 23:00:57 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E4%BB%98%E3%81%8D%E3%81%AErisc-v%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>Sipeed Longan Nano - RISC-V GD32VF103CBT6 Development Boardから発見。画像もここから転載。
+RISC-Vのチップが次々と発表されています。その一つであるGD32VF103CBT6を搭載した開発ボードがSeeedから発表されています。
+USB-CとSDカードスロット、小さいですが160x80でフルカラーのLCDが搭載されています。 Flashは128KB、RAMは32KBと非常にパワフルなCPUですが、お値段$4.9ということで、ついつい衝動買いしたくなってしまいます。
+ </description>
+    </item>
+    
+    <item>
+      <title>最新のTeensy4.0はすごい性能らしい</title>
+      <link>https://inajob.github.io/inajob-review/post/%E6%9C%80%E6%96%B0%E3%81%AEteensy4-0%E3%81%AF%E3%81%99%E3%81%94%E3%81%84%E6%80%A7%E8%83%BD%E3%82%89%E3%81%97%E3%81%84/</link>
+      <pubDate>Thu, 29 Aug 2019 23:00:49 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E6%9C%80%E6%96%B0%E3%81%AEteensy4-0%E3%81%AF%E3%81%99%E3%81%94%E3%81%84%E6%80%A7%E8%83%BD%E3%82%89%E3%81%97%E3%81%84/</guid>
+      <description>Teensy 4.0 Development Boardから発見。画像もここから転載。
+Teensyはもともと性能の良いボードでしたが、新しいTeensy4.0はさらにすごいです。
+ ARM Cortex-M7 600MHz 1024KB RAM 2048KB Flash  などなど これだけ性能が高いと今まではできなかった面白い電子工作が実現できそうです。 気になるお値段も$19.95とかなりお買い得です。</description>
+    </item>
+    
+    <item>
+      <title>Type-Cコネクタ搭載のArduino Nano</title>
+      <link>https://inajob.github.io/inajob-review/post/type-c%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E6%90%AD%E8%BC%89%E3%81%AEarduino-nano/</link>
+      <pubDate>Mon, 26 Aug 2019 23:00:09 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/type-c%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E6%90%AD%E8%BC%89%E3%81%AEarduino-nano/</guid>
+      <description>Seeeduino Nanoから発見。画像もここから転載。
+Seeed作った新しいArduino NanoはUSBコネクタがType-Cなのが特徴です。Grooveの端子も1つ用意されており、プロトタイピングにちょうど良さそうです。
+Arduino Nanoの互換品はUSBコネクタが「もげる」ものが多いため、Type-Cなのはありがたいです。 自作キーボードでよく使われているArduino Microとは違うようなので、キーボード畑の方は良くチェックしてから買ってください。（USB-Serial ICはSeeduinoと同じだとするとATmega16U2かな？）</description>
+    </item>
+    
+    <item>
+      <title>Raspberry Piのピンと同じ配置を持つESP32ボード</title>
+      <link>https://inajob.github.io/inajob-review/post/raspberry-pi%E3%81%AE%E3%83%94%E3%83%B3%E3%81%A8%E5%90%8C%E3%81%98%E9%85%8D%E7%BD%AE%E3%82%92%E6%8C%81%E3%81%A4esp32%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Wed, 31 Jul 2019 23:00:21 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/raspberry-pi%E3%81%AE%E3%83%94%E3%83%B3%E3%81%A8%E5%90%8C%E3%81%98%E9%85%8D%E7%BD%AE%E3%82%92%E6%8C%81%E3%81%A4esp32%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>Obsidian ESP32 Bridges Platformsから発見。画像もここから転載。
+ESP32を搭載した開発ボードです。特筆すべきはRaspberryPi互換のピンヘッダです。 これによりRaspberryPi用の様々な拡張ボードを利用することができます。
+プロトタイピングによさそうなボードです。</description>
+    </item>
+    
+    <item>
+      <title>ブレッドボードから利用しやすいFPGAボード「FireAnt」</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%81%8B%E3%82%89%E5%88%A9%E7%94%A8%E3%81%97%E3%82%84%E3%81%99%E3%81%84fpga%E3%83%9C%E3%83%BC%E3%83%89fireant/</link>
+      <pubDate>Tue, 16 Jul 2019 23:00:35 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%81%8B%E3%82%89%E5%88%A9%E7%94%A8%E3%81%97%E3%82%84%E3%81%99%E3%81%84fpga%E3%83%9C%E3%83%BC%E3%83%89fireant/</guid>
+      <description>FireAntから発見。画像もここから転載。
+最近は安いFPGAがたくさん出回っていますが、まだまだ開発の敷居は高いです。
+FireAntはブレッドボード上で簡単に利用できるFPGA開発ボードです。 FPGAはあまり詳しくないのですが「Efinix Trion T8」というチップのようです。
+また簡単に動作を試せるように4つのLEDと2つのスイッチが基板上に搭載されています。
+FPGAのチップが小型のためUSB-シリアルICのほうが大きいのがちょっと滑稽ですね</description>
+    </item>
+    
+    <item>
+      <title>FeatherWingサイズのLinuxが動く開発ボード</title>
+      <link>https://inajob.github.io/inajob-review/post/featherwing%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AElinux%E3%81%8C%E5%8B%95%E3%81%8F%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Mon, 15 Jul 2019 23:00:36 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/featherwing%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AElinux%E3%81%8C%E5%8B%95%E3%81%8F%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>Giant Boardから発見。画像もここから転載。
+AdafruitのFeatherシリーズと同じフットプリントのLinuxが動くボードのクラウドファンディングです。
+プロセッサはARM Cortex A5 500MHz, メモリは128MBと、Linuxボードにしてはかわいらしい性能ですが、携帯ゲーム機などを作るのであればよいバランスかもしれません。 またFeatherシリーズと同じフットプリントなので、それ用の拡張ボードがそのまま利用できる、というのが大きな特徴です。</description>
+    </item>
+    
+    <item>
+      <title>ESP32搭載TinyPICO用のVGA出力ボード</title>
+      <link>https://inajob.github.io/inajob-review/post/esp32%E6%90%AD%E8%BC%89tinypico%E7%94%A8%E3%81%AEvga%E5%87%BA%E5%8A%9B%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Sun, 30 Jun 2019 23:00:37 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/esp32%E6%90%AD%E8%BC%89tinypico%E7%94%A8%E3%81%AEvga%E5%87%BA%E5%8A%9B%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>Bitluni Has Already Designed a VGA Shield for the TinyPICO ESP32 Boardから発見。画像もここから転載。
+以前紹介したTinyPICOというESP32を搭載した小型ボードにくっつけることができる VGA出力のためのボードを紹介します。
+動画ではステンシルを使ってソルダーペーストを載せ、リフロー炉ではんだ付けする流れが紹介されており、表面実装基板を作る流れを知りたい方にも有用なものとなっています。
+TinyPICOが小型であるため、全体としてとてもコンパクトにまとまった構成でVGA出力が実現できています。これで昔ながらのゲームを作るといわゆる「なんとかミニ」的なプロダクトが簡単に作れそうだなと感じました。
+ </description>
+    </item>
+    
+    <item>
+      <title>ブラウザから開発・書き込みができるFPGAボード</title>
+      <link>https://inajob.github.io/inajob-review/post/%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6%E3%81%8B%E3%82%89%E9%96%8B%E7%99%BA%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8Bfpga%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Thu, 27 Jun 2019 23:00:48 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6%E3%81%8B%E3%82%89%E9%96%8B%E7%99%BA%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8Bfpga%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>WebFPGA: Rapid FPGA Development Systemから発見。画像もここから転載。
+FPGAボードが身近になってきていますが、まだまだ難しそうで敬遠してしまいます。 今回紹介するWebFPGAはブラウザからプログラミングできることが特徴のFPGAボードです。
+すでにWebでできているIDEは動いているようで、ブラウザからWebUSBの仕組みを使って直接FPGAにプログラミングを行うようです。
+ブラウザIDEと聞くとベンダーロックインされると思われるかもしれませんが、このプロジェクトはそのようなことをするものではなくLattice IDEという一般的なIDEを使っても開発ができるとのことです。
+ブラウザから直接USBを扱うことができるWebUSBはこのプロジェクトに限らず様々な場面で役立ちそうだなと感じました。</description>
+    </item>
+    
+    <item>
+      <title>小型のESP32モジュール「TinyPico」</title>
+      <link>https://inajob.github.io/inajob-review/post/%E5%B0%8F%E5%9E%8B%E3%81%AEesp32%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%ABtinypico/</link>
+      <pubDate>Wed, 26 Jun 2019 23:00:23 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E5%B0%8F%E5%9E%8B%E3%81%AEesp32%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%ABtinypico/</guid>
+      <description>TinyPICO A tiny, mighty ESP32 development board から発見。画像もここから転載。
+ESP32は性能が高く、機能も多く、安い、という良いボードですが、一般に流通しているdevkitCはやや大きいのが玉に瑕です。このクラウドファンディングのキャンペーンは、小型で良いサイズのESP32ボードです。また特徴としてはボード上にフルカラーのLEDやLiPoのバッテリー回路が搭載されています。
+USB端子はあの「もげる」MicroUSBなのがやや不安です。
+日本においては技適が通っていないと電波を発することができないので、そのあたりが気になるところですが、この大きさは魅力的です。
+クラウドファンディングは成功し、無事製品が作られることになったようです。</description>
+    </item>
+    
+    <item>
+      <title>限界まで小さいATmega32U4モジュール</title>
+      <link>https://inajob.github.io/inajob-review/post/%E9%99%90%E7%95%8C%E3%81%BE%E3%81%A7%E5%B0%8F%E3%81%95%E3%81%84atmega32u4%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Sun, 23 Jun 2019 23:00:24 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E9%99%90%E7%95%8C%E3%81%BE%E3%81%A7%E5%B0%8F%E3%81%95%E3%81%84atmega32u4%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</guid>
+      <description>ATTOから発見。画像もここから転載。
+とんでもなく小さいサイズのATmega32u4モジュールです。ほぼICのサイズなので、理論上最小なのでは？と思いました。
+小さいながらUSB端子やリセットボタンを備えているので、簡単に書き換えができるというのも特徴です。小さなガジェットを作りたい人にはお勧めの開発ボードです。
+小さくするが故の制限ですが、ピン間隔が2.54mmより狭くなっているため、ブレッドボードで利用する際は別売りのブレイクアウトボードが必要となる点には注意が必要です。</description>
+    </item>
+    
+    <item>
+      <title>8ビットプログラミングができる定規「Digirule2」</title>
+      <link>https://inajob.github.io/inajob-review/post/8%E3%83%93%E3%83%83%E3%83%88%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E5%AE%9A%E8%A6%8Fdigirule2/</link>
+      <pubDate>Mon, 17 Jun 2019 23:00:06 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/8%E3%83%93%E3%83%83%E3%83%88%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E5%AE%9A%E8%A6%8Fdigirule2/</guid>
+      <description>Digirule2 - The 8-bit Programmable Binary Rulerから発見。画像もここから転載。
+「Digirule2」は定規型の8bitコンピュータです。 20cmの定規の形状で、8bitアドレスと、8bitのデータを格納できます。 33の命令を使って、プログラムを組んで走らせることができます。
+バッテリーはコイン電池（CR2032）で、プロセッサはPIC18F43K20です。インストラクションはPICのそれではなく、独自に定義されたもののようです。
+エクセルのシートを使うことで、効率的にプログラムが組めるようです（要はハンドアセンブルです。）
+オープンソースプロダクトなので、本家サイトでソースコードも公開されています https://bradsprojects.com/digirule2/
+ともかくこの見た目がかっこいいので、手に入れたくなるガジェットです。</description>
+    </item>
+    
+    <item>
+      <title>RISC-Vを使ったArduinoっぽい基板「Maixduino」</title>
+      <link>https://inajob.github.io/inajob-review/post/risc-v%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Farduino%E3%81%A3%E3%81%BD%E3%81%84%E5%9F%BA%E6%9D%BFmaixduino/</link>
+      <pubDate>Wed, 22 May 2019 23:00:12 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/risc-v%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Farduino%E3%81%A3%E3%81%BD%E3%81%84%E5%9F%BA%E6%9D%BFmaixduino/</guid>
+      <description>Doing Machine Learning From the Arduino Development Environment? から発見。画像もここから転載。
+格安のRISC-Vボードとして登場したMAixですが、この記事で紹介しているのはMAixを使ったArduino風のボード「Maixduino」です。
+このボードはMAixとESP32が搭載されている、「流行りもの大集合」的なボードで、LCDやSDカード、カメラ、スピーカなども接続できるようになっています。
+ESP32は技適付きのものが写真に写っているので、日本でも安心して使えそうです、後は気になるのは価格かな・・・
+ｯと思ったら、、　Pre Orderができるようになっていました！！
+Sipeed Maixduino Kit for RISC-V AI + IoT
+カメラや液晶付きで$23.90のようです！　これは買いでしょう！。</description>
+    </item>
+    
+  </channel>
+</rss>

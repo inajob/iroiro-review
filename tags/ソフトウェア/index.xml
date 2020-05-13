@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ソフトウェア on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/inajob-review/tags/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2/</link>
+    <description>Recent content in ソフトウェア on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sun, 03 Mar 2019 01:00:11 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/inajob-review/tags/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>組み込み機器でもGo言語を使う「tinygo」</title>
+      <link>https://inajob.github.io/inajob-review/post/%E7%B5%84%E3%81%BF%E8%BE%BC%E3%81%BF%E6%A9%9F%E5%99%A8%E3%81%A7%E3%82%82go%E8%A8%80%E8%AA%9E%E3%82%92%E4%BD%BF%E3%81%86tinygo/</link>
+      <pubDate>Sun, 03 Mar 2019 01:00:11 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/inajob-review/post/%E7%B5%84%E3%81%BF%E8%BE%BC%E3%81%BF%E6%A9%9F%E5%99%A8%E3%81%A7%E3%82%82go%E8%A8%80%E8%AA%9E%E3%82%92%E4%BD%BF%E3%81%86tinygo/</guid>
+      <description>tinygo-org/tinygoから発見
+Go言語が流行っていますが、組み込みの世界では依然C/C++が主流です。（Arduinoも中身はC/C++です）
+しかし、このプロジェクトでは組み込み環境でもGo言語を使えるようにするものです。
+この手の高級な言語を組み込み環境で使うというのは、そこそこのメモリやCPU性能を要求するというものが多い中で、このtinygoは「Arduino Uno」や「Digispark」までサポートしているというのが驚きです。
+また激安で有名なSTM32F103を使ったボード（通称 Bluepill）でも動作するのもうれしいところです。
+まぁ、まだまだ開発中のプロダクトということで、かなりの制限があります。 reflectionやmapは部分的にしかサポートされていませんし、並列実行も制限が多いようです。また利用できる標準ライブラリもほとんどありません。
+そしてGC（Garbage Collection）は今のところArm系でしか動かないようなので、われらがAVRではデモ程度しか動かないでしょう。
+しかしC/C++以外でも組み込みの開発ができるというのは面白いので、今後が期待できるプロジェクトです。
+記事を準備していたら、日本語のもっと素晴らしいエントリができてました！こっちを見れば実際の開発の様子を知ることができます。→ TinyGoで始める組み込みプログラミング
+2019/02/19 追記 TinyGoはGoogleがスポンサーすることになったようです。
+またAVRでもGCが動くようになり、Arduino用としてもそこそこ使えるようになってきたようです。
+ただ、ちょっと使ってみたところArduinoで言うところのPROGMEM（データROMに変数を配置する）機能はまたtinygoから利用する術がないようです。主にこれは液晶用のビットマップフォントなどを使う際に重宝する機能なのですが、そういう使い方をしないのであれば、普通にGo言語を使ってArduinoのプログラミングができそうでした。</description>
+    </item>
+    
+  </channel>
+</rss>
