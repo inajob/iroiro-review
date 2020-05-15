@@ -6,10 +6,22 @@
     <description>Recent content in Raspberry Pi on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 11 May 2020 23:00:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2020 23:00:08 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/raspberry-pi/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>レトロラジオ風のRaspberryPiゲームコンソール</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%83%88%E3%83%AD%E3%83%A9%E3%82%B8%E3%82%AA%E9%A2%A8%E3%81%AEraspberrypi%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Thu, 14 May 2020 23:00:08 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%83%88%E3%83%AD%E3%83%A9%E3%82%B8%E3%82%AA%E9%A2%A8%E3%81%AEraspberrypi%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</guid>
+      <description>1963 Pi Tourer Game Consoleから発見。画像もここから転載（CC BY-NC-SA By MisterM）
+レトロラジオとアーケードゲームをくっつけたようなユニークな形状のRaspberry Piコンソールの作例です。レトロな外観のラジオ部分は実際に古いラジオを分解して再利用しているようです。
+コントローラの内部にRaspberry Piを内蔵するアイデアは応用が利きそうです。
+ </description>
+    </item>
     
     <item>
       <title>かっこいい形状の小型のRaspberryPiラップトップ</title>
