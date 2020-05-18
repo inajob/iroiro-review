@@ -6,10 +6,22 @@
     <description>Recent content in inajobがいろいろ紹介するサイトです on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 14 May 2020 23:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2020 23:00:22 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Raspberry Pi Compute Moduleを使ったタブレット</title>
+      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-compute-module%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88/</link>
+      <pubDate>Sun, 17 May 2020 23:00:22 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-compute-module%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88/</guid>
+      <description>CutiePi tabletから発見。画像もここから転載。
+Raspberry Piを使ったタブレット端末のプロジェクトです。
+利用しているのはRaspberry Pi 3 Compute Moduleです。 Compute Moduleを使うことで薄型のデバイスに簡単に内蔵できる非常に良い例です。
+ </description>
+    </item>
     
     <item>
       <title>レトロラジオ風のRaspberryPiゲームコンソール</title>
