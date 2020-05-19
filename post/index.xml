@@ -6,10 +6,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 17 May 2020 23:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2020 23:00:18 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>クレジットカードのスキミング発見機</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E3%82%B9%E3%82%AD%E3%83%9F%E3%83%B3%E3%82%B0%E7%99%BA%E8%A6%8B%E6%A9%9F/</link>
+      <pubDate>Mon, 18 May 2020 23:00:18 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E3%82%B9%E3%82%AD%E3%83%9F%E3%83%B3%E3%82%B0%E7%99%BA%E8%A6%8B%E6%A9%9F/</guid>
+      <description>Hunter Cat: Aspects and Characteristicsから転載。画像もここから転載。
+クレジットカードがスキミングされているかどうかを判定するための、カード型デバイスです。 コアとなるICはSAMD11で、電源はCR2032です。
+カード型の筐体はクレジットカードの代わりにATMなどに突っ込むことができます。
+判定は確実なものではなく、「OK」「WARNING」「DANGEROUS」というレベルで危険度を表示してくれます。仕組みとしては磁気読み取りのヘッドが複数あるかどうかを見ているようです。普通のデバイスではこのヘッドは1つですが、スキミング機器がつけられているとこのヘッドが2つ見える、ということなのだと思います。
+スキミングの被害については日本ではあまりメジャーではないですが、こういうデバイスがあれば被害を抑えることができるかなと思いました。また逆に攻撃者の気持ちになって「いかに判定できないスキミングを行うか？」というのを考えるのも面白そうだと思いました。
+ </description>
+    </item>
     
     <item>
       <title>Raspberry Pi Compute Moduleを使ったタブレット</title>
@@ -2133,20 +2147,6 @@ CPUはATTiny85を使っている。Webページには基板の作り方なども
 車のドアを開けっ放しにしているかどうかは、通常ダッシュボードのインジケータから知ることができますが、この記事で紹介しているのは別の方法です。
 車の中にミニチュアの車の模型を配置し、実際の車のドアが開いている場合は、そのミニチュアの車のドアが連動して開いた状態になる。というものです。
 これは非常に直感的で、ガジェットとしても面白いと感じました。
- </description>
-    </item>
-    
-    <item>
-      <title>クレジットカードのスキミング発見機</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E3%82%B9%E3%82%AD%E3%83%9F%E3%83%B3%E3%82%B0%E7%99%BA%E8%A6%8B%E6%A9%9F/</link>
-      <pubDate>Wed, 21 Aug 2019 12:21:18 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E3%82%B9%E3%82%AD%E3%83%9F%E3%83%B3%E3%82%B0%E7%99%BA%E8%A6%8B%E6%A9%9F/</guid>
-      <description>Hunter Cat: Aspects and Characteristicsから転載。画像もここから転載。
-クレジットカードがスキミングされているかどうかを判定するための、カード型デバイスです。 コアとなるICはSAMD11で、電源はCR2032です。
-カード型の筐体はクレジットカードの代わりにATMなどに突っ込むことができます。
-判定は確実なものではなく、「OK」「WARNING」「DANGEROUS」というレベルで危険度を表示してくれます。仕組みとしては磁気読み取りのヘッドが複数あるかどうかを見ているようです。普通のデバイスではこのヘッドは1つですが、スキミング機器がつけられているとこのヘッドが2つ見える、ということなのだと思います。
-スキミングの被害については日本ではあまりメジャーではないですが、こういうデバイスがあれば被害を抑えることができるかなと思いました。また逆に攻撃者の気持ちになって「いかに判定できないスキミングを行うか？」というのを考えるのも面白そうだと思いました。
  </description>
     </item>
     
