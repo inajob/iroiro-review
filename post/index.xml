@@ -6,10 +6,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 24 May 2020 23:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2020 23:00:41 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3Dプリンタ製のELワイヤ固定具</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AEel%E3%83%AF%E3%82%A4%E3%83%A4%E5%9B%BA%E5%AE%9A%E5%85%B7/</link>
+      <pubDate>Mon, 25 May 2020 23:00:41 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AEel%E3%83%AF%E3%82%A4%E3%83%A4%E5%9B%BA%E5%AE%9A%E5%85%B7/</guid>
+      <description>DIY EL Wire + 3D Printed &amp;ldquo;Neon&amp;rdquo; Sign!から発見。画像もここから転載。
+ELワイヤは見た目が面白い電子部品ですが、固定する方法には工夫が必要です。 この記事で紹介しているのは、ELワイヤを固定するための「枠」を3Dプリンタで作成する方法です。
+写真を見るとかなりいい感じなので、ELワイヤを使った作品も試してみたいなと思いました。
+ </description>
+    </item>
     
     <item>
       <title>なぜ作った！？炎が噴き出すNintendo64</title>
