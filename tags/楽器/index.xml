@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>楽器 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E6%A5%BD%E5%99%A8/</link>
+    <description>Recent content in 楽器 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 27 May 2020 23:00:29 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%A5%BD%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>かっこいい見た目のレーザーハープ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AE%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%8F%E3%83%BC%E3%83%97/</link>
+      <pubDate>Wed, 27 May 2020 23:00:29 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AE%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%8F%E3%83%BC%E3%83%97/</guid>
+      <description>Upright Laser Harpから発見。画像もここから転載。
+レーザーカッターで作られた、非常にかっこいい見た目のレーザーハープです。内部に音源を搭載することで、スタンドアローンでの演奏が可能のようです。鍵盤は全部で12個で様々な曲が演奏できそうです。制御はArduino Megaで行っているようです。
+音源としてはAdafruit Music Maker shieldを使っているようで、そのコアとなるICはVS1053bです。</description>
+    </item>
+    
+  </channel>
+</rss>
