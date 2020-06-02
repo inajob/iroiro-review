@@ -6,10 +6,24 @@
     <description>Recent content in inajobがいろいろ紹介するサイトです on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 31 May 2020 23:00:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2020 23:00:14 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>鶏に餌をやりをしつつそれをTwitchで実況できるデバイス</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%B6%8F%E3%81%AB%E9%A4%8C%E3%82%92%E3%82%84%E3%82%8A%E3%82%92%E3%81%97%E3%81%A4%E3%81%A4%E3%81%9D%E3%82%8C%E3%82%92twitch%E3%81%A7%E5%AE%9F%E6%B3%81%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</link>
+      <pubDate>Mon, 01 Jun 2020 23:00:14 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%B6%8F%E3%81%AB%E9%A4%8C%E3%82%92%E3%82%84%E3%82%8A%E3%82%92%E3%81%97%E3%81%A4%E3%81%A4%E3%81%9D%E3%82%8C%E3%82%92twitch%E3%81%A7%E5%AE%9F%E6%B3%81%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</guid>
+      <description>An Internet-Connected, Solar-Powered, Twitch-Streaming Chicken Feederから発見。画像もここから転載。
+時代は動画です。この記事で紹介しているのは鶏への餌やりマシーンです。 キャンディーディスペンサーを改造してコンピュータ制御で餌がやれるようになっています。
+さらに面白いことに、餌をやる様子をTwitchで配信する機能があることです。しかもTwitchでDonationを受け付けると餌をやる　というインタラクティブな要素を備えています。
+これらすべてがソーラーパワーで動くようになっており、日光がある限り動き続けることができるようです。
+鳥の飼育をコンテンツにしてしまうというとても面白い試みです。
+ </description>
+    </item>
     
     <item>
       <title>ビデオに文字をオーバーレイするOSDのオープンソース実装</title>
