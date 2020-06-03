@@ -6,10 +6,24 @@
     <description>Recent content in inajobがいろいろ紹介するサイトです on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 01 Jun 2020 23:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2020 23:00:54 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>デジタルでアナログな腕時計</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%81%A7%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E3%81%AA%E8%85%95%E6%99%82%E8%A8%88/</link>
+      <pubDate>Tue, 02 Jun 2020 23:00:54 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%81%A7%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E3%81%AA%E8%85%95%E6%99%82%E8%A8%88/</guid>
+      <description>Charliewatchから発見。画像もここから転載。
+アナログ風の表示を円周場に並べたLEDで行うという力業な作例です。
+60+12もの大量のLEDを制御するためにCharlieplexという技を使っているようです。これによりわずか18本のGPIOで制御が可能となっています。
+メインとなるCPUはMSP430系列のCC430F5137IRGZRを使っているようです。
+バッテリーはCR2032 またはCR2450を使えるようです。
+記事の内容は若干古いようでGitHubにさらに詳しい情報が載せられています。</description>
+    </item>
     
     <item>
       <title>鶏に餌をやりをしつつそれをTwitchで実況できるデバイス</title>
