@@ -6,10 +6,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 06 Jun 2020 23:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2020 23:00:04 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>クリアグリーンの筐体が綺麗なシンセサイザー</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AF%E3%83%AA%E3%82%A2%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%81%AE%E7%AD%90%E4%BD%93%E3%81%8C%E7%B6%BA%E9%BA%97%E3%81%AA%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</link>
+      <pubDate>Sun, 07 Jun 2020 23:00:04 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AF%E3%83%AA%E3%82%A2%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%81%AE%E7%AD%90%E4%BD%93%E3%81%8C%E7%B6%BA%E9%BA%97%E3%81%AA%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</guid>
+      <description>KELPIE: Synth Module for Keyboard Controllers から発見。画像もここから転載。
+クリアグリーンの筐体がとてもきれいなシンセサイザーです。”製品”を作るというテーマで作られているようで、なるほど確かに非常に完成度が高いものとなっています。
+制御はTeensy3.2を使い、SGTL5000というDACで音を鳴らしているようです。 オシレータは16個ありさらに8個のノイズ源もあります。
+さらに量産化に向けてのいくつかの試算を行っているようです。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタで作ったドミノを並べる装置</title>
