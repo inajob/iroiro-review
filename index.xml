@@ -6,10 +6,20 @@
     <description>Recent content in inajobがいろいろ紹介するサイトです on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 07 Jun 2020 23:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2020 23:00:44 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>USB-CコネクタサイズのLiPo充電ボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/usb-c%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AElipo%E5%85%85%E9%9B%BB%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Mon, 08 Jun 2020 23:00:44 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/usb-c%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AElipo%E5%85%85%E9%9B%BB%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>Ant USB-C LiPo Chargerから発見。画像もここから転載。
+USB-C端子サイズのLiPo充電ボードを紹介します。ICはMCP73831T-2ATI/MCを利用しています。自作の電子デバイスでバッテリーを扱いたい時などには役に立ちそうです。</description>
+    </item>
     
     <item>
       <title>クリアグリーンの筐体が綺麗なシンセサイザー</title>
