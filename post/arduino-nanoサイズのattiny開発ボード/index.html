@@ -8,12 +8,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>
       
-  3Dプリンタの発する有害ガスを測定するデバイス &ndash; inajobのいろいろレビュー
+  Arduino NanoサイズのATtiny開発ボード &ndash; inajobのいろいろレビュー
 
     </title>
     
     
-    <meta name="description" property="og:description" content="3Dプリンタの発する有害ガスを測定するデバイスを紹介します。|">
+    <meta name="description" property="og:description" content="Arduino NanoサイズのATtiny開発ボードを紹介します。|">
     
 
     <meta name="apple-mobile-web-app-title" content="inajobのいろいろレビュー">
@@ -22,17 +22,17 @@
     
     
 
-    <meta property="og:title" content="3Dプリンタの発する有害ガスを測定するデバイス | inajobのいろいろレビュー">
-    <meta property="og:description" content="3Dプリンタの発する有害ガスを測定するデバイスを紹介します。|">
+    <meta property="og:title" content="Arduino NanoサイズのATtiny開発ボード | inajobのいろいろレビュー">
+    <meta property="og:description" content="Arduino NanoサイズのATtiny開発ボードを紹介します。|">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@ina_ani">
     <meta name="twitter:creator" content="@ina_ani">
-    <meta name="twitter:title" content="3Dプリンタの発する有害ガスを測定するデバイス | inajobのいろいろレビュー">
-    <meta name="twitter:description" content="3Dプリンタの発する有害ガスを測定するデバイスを紹介します。|">
+    <meta name="twitter:title" content="Arduino NanoサイズのATtiny開発ボード | inajobのいろいろレビュー">
+    <meta name="twitter:description" content="Arduino NanoサイズのATtiny開発ボードを紹介します。|">
     
-    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/emission-monitor.jpg">
-    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/emission-monitor.jpg">
+    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/attiny-nano.png">
+    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/attiny-nano.png">
     
     
     <meta name="google-site-verification" content="Wjrrx4mV4IokyVrRy-5rjpG1sfwkjQ-uVRiXhMMXhW8" />
@@ -90,7 +90,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 <div class="Subhead">
   <div class="Subhead-heading">
-    <div class="h1 mt-3 mb-1">3Dプリンタの発する有害ガスを測定するデバイス</div>
+    <div class="h1 mt-3 mb-1">Arduino NanoサイズのATtiny開発ボード</div>
   </div>
   <div class="Subhead-description">
     
@@ -98,17 +98,21 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 
 
-<a href='/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF' class="muted-link">
-  <span class="Label" style="background-color:#0099dd;">3Dプリンタ</span>
+<a href='/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">開発ボード</span>
+</a>
+
+<a href='/iroiro-review/tags/attiny' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">Attiny</span>
 </a>
 
 
 
     
     <div class="float-md-right">
-      <span title="Lastmod: 2020-06-09. Published at: 2020-06-09.">
+      <span title="Lastmod: 2020-06-10. Published at: 2020-06-10.">
         
-          Published: 2020-06-09
+          Published: 2020-06-10
         
       </span>
     </div>
@@ -118,39 +122,34 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <article>
   
   <section class="pb-6 mb-3 border-bottom">
-    <img src="https://inajob.github.io/iroiro-review/img/emission-monitor.jpg" />
-    <p><a href="https://hackaday.io/project/167424-smart-3d-printer-emission-monitor">Smart 3D Printer Emission Monitor</a>から発見。画像もここから転載。</p>
+    <img src="https://inajob.github.io/iroiro-review/img/attiny-nano.png" />
+    <p><a href="https://www.tindie.com/products/drazzy/attiny32171607-dev-board-arduino-compatible/">ATtiny3217/1607 dev board, Arduino compatible</a>から発見。画像もここから転載。</p>
 
-<p>この記事で紹介しているのは、3Dプリンタでプリント中に有害ガスがどの程度発生しているかをモニタリングするシステムです。</p>
+<p>最近発表された新しいATtinyシリーズのマイコンはとてもパワフルで、Arduinoで使われているAtmega328pと同じような性能があるチップもあります。</p>
 
-<p>センサーとhしてはCCS811というMOXセンサーのようです。
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=inajob-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07WGQZR2N&linkId=139b853d5d06a8e434c481ee422b3e00"></iframe></p>
+<p>そこで、この記事ではArduino Nanoと同じサイズのATtinyが搭載された開発ボードを紹介しています。</p>
 
-<p>データはWiFi経由で送信されて、スマートフォンで確認することができます。</p>
-
-<p>さらに危険なレベルになるとLEDが赤く光りブザーが鳴ります。</p>
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/VX-_Cv9xZlY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>新しいチップを試してみたい方にはお勧めのボードです。</p>
 
   </section>
 
-  <div><a href="/iroiro-review/post/arduino-nano%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AEattiny%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/">&lt;- 前の記事 - Arduino NanoサイズのATtiny開発ボード</a></div>
-  <div style="text-align:right;"><a href="/iroiro-review/post/usb-c%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AElipo%E5%85%85%E9%9B%BB%E3%83%9C%E3%83%BC%E3%83%89/">次の記事 - USB-CコネクタサイズのLiPo充電ボード - &gt;</a></div>
+  <div></div>
+  <div style="text-align:right;"><a href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E7%99%BA%E3%81%99%E3%82%8B%E6%9C%89%E5%AE%B3%E3%82%AC%E3%82%B9%E3%82%92%E6%B8%AC%E5%AE%9A%E3%81%99%E3%82%8B%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/">次の記事 - 3Dプリンタの発する有害ガスを測定するデバイス - &gt;</a></div>
 
   
 
 <h3>関連記事</h3>
 <ul>
   
-  <li><a href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%83%89%E3%83%9F%E3%83%8E%E3%82%92%E4%B8%A6%E3%81%B9%E3%82%8B%E8%A3%85%E7%BD%AE/">3Dプリンタで作ったドミノを並べる装置</a></li>
+  <li><a href="/iroiro-review/post/usb-c%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AElipo%E5%85%85%E9%9B%BB%E3%83%9C%E3%83%BC%E3%83%89/">USB-CコネクタサイズのLiPo充電ボード</a></li>
   
-  <li><a href="/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E5%B0%8F%E5%9E%8B%E3%82%A8%E3%82%A2%E3%83%BC%E3%83%9B%E3%83%83%E3%82%B1%E3%83%BC%E5%8F%B0/">自作の小型エアーホッケー台</a></li>
+  <li><a href="/iroiro-review/post/attiny84a%E3%81%AE%E5%B0%8F%E5%9E%8B%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/">ATtiny84aの小型開発ボード</a></li>
   
-  <li><a href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AEel%E3%83%AF%E3%82%A4%E3%83%A4%E5%9B%BA%E5%AE%9A%E5%85%B7/">3Dプリンタ製のELワイヤ固定具</a></li>
+  <li><a href="/iroiro-review/post/attiny3217%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/">Attiny3217の開発ボード</a></li>
   
-  <li><a href="/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E6%B8%A9%E5%BA%A6%E6%B9%BF%E5%BA%A6%E8%A8%88/">自作のモバイル温度湿度計</a></li>
+  <li><a href="/iroiro-review/post/atmega1284p%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E5%B0%8F%E5%9E%8B%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/">ATmega1284Pを搭載した小型の開発ボード</a></li>
   
-  <li><a href="/iroiro-review/post/%E3%83%9F%E3%82%B7%E3%83%B3%E3%81%AB%E3%82%A2%E3%83%89%E3%82%AA%E3%83%B3%E3%81%99%E3%82%8B%E5%88%BA%E7%B9%8D%E3%83%9E%E3%82%B7%E3%83%B3/">ミシンにアドオンする刺繍マシン</a></li>
+  <li><a href="/iroiro-review/post/arduino-zero%E3%81%AE%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89%E3%81%8C%E5%AE%89%E3%81%84/">Arduino Zeroの互換ボードが安い</a></li>
   
 </ul>
 
@@ -178,7 +177,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           }(document, 'script', 'facebook-jssdk'));</script>
 
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E7%99%BA%E3%81%99%E3%82%8B%E6%9C%89%E5%AE%B3%E3%82%AC%E3%82%B9%E3%82%92%E6%B8%AC%E5%AE%9A%E3%81%99%E3%82%8B%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/" 
+            data-href="/iroiro-review/post/arduino-nano%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AEattiny%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/" 
             data-layout="button_count">
           </div>
         
@@ -211,7 +210,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           
   
     <div id="toc" class="Box Box--blue mb-3">
-      <b>3Dプリンタの発する有害ガスを測定するデバイス</b>
+      <b>Arduino NanoサイズのATtiny開発ボード</b>
       
     </div>
   
@@ -227,7 +226,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
         
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E7%99%BA%E3%81%99%E3%82%8B%E6%9C%89%E5%AE%B3%E3%82%AC%E3%82%B9%E3%82%92%E6%B8%AC%E5%AE%9A%E3%81%99%E3%82%8B%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/" 
+            data-href="/iroiro-review/post/arduino-nano%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AEattiny%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/" 
             data-layout="button_count">
           </div>
         
