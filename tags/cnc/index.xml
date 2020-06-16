@@ -6,10 +6,25 @@
     <description>Recent content in Cnc on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 20 May 2020 23:00:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2020 23:00:28 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/cnc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>精度が高そうな2腕式のプロッタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%B2%BE%E5%BA%A6%E3%81%8C%E9%AB%98%E3%81%9D%E3%81%86%E3%81%AA2%E8%85%95%E5%BC%8F%E3%81%AE%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</link>
+      <pubDate>Mon, 15 Jun 2020 23:00:28 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%B2%BE%E5%BA%A6%E3%81%8C%E9%AB%98%E3%81%9D%E3%81%86%E3%81%AA2%E8%85%95%E5%BC%8F%E3%81%AE%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</guid>
+      <description>Mechpenから発見。画像もここから転載。
+金属の筐体の2腕式のプロッタです。140cmまで腕が届くためA0までの絵を描くことができます。
+その大きさもあって筐体の重さは15Kgとかなり重たいです。ステッピングモーターはギアで減速され1度あたり177.778ステップとかなり高精度となっています。
+制御はRaspberry Piで行っています。
+また描画データを用意する方法としてturtletoyというサイトを紹介しており、こちらはこちらで非常に興味深いです。
+3Dプリンタなどを使ったペンプロッタの作例は数多くありますが、ここまで大きく、かつ精度が良いものは珍しいと感じました。
+ </description>
+    </item>
     
     <item>
       <title>PVCパイプを好きな形に加工するCNC</title>
