@@ -6,10 +6,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 17 Jun 2020 23:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2020 23:00:04 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>表面実装のパーツも搭載できるユニバーサル基板</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85%E3%81%AE%E3%83%91%E3%83%BC%E3%83%84%E3%82%82%E6%90%AD%E8%BC%89%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB%E5%9F%BA%E6%9D%BF/</link>
+      <pubDate>Sat, 20 Jun 2020 23:00:04 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85%E3%81%AE%E3%83%91%E3%83%BC%E3%83%84%E3%82%82%E6%90%AD%E8%BC%89%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB%E5%9F%BA%E6%9D%BF/</guid>
+      <description>Advanced protoboard layout with 1.27mm pitch for smd partsから発見。画像もここから転載。
+写真を見ればわかりやすい、1.27mmのSMD部品を載せることができるユニバーサル基板です。
+2.54mmピッチのDIP部品と、1.27mmのSMD部品を合わせて載せられるところがこの基板の特徴です。
+1.27mmピッチのSMD部品であれば専用のブレイクアウト基板を使わずとも、簡単に試作ができるので良いアイデアだなと思いました。
+さらに裏面はGNDベタが二重丸のパッドの外に配置されており、はんだボールを作ることで、GNDに設置することができるという面白い作りになっています。 </description>
+    </item>
     
     <item>
       <title>3Dプリンタで作成したペンプロッタ</title>
