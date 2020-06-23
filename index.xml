@@ -6,10 +6,22 @@
     <description>Recent content in inajobがいろいろ紹介するサイトです on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 21 Jun 2020 23:00:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2020 23:00:36 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ESP32を使ったリモコンサイズのディスプレイ付きボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%AA%E3%83%A2%E3%82%B3%E3%83%B3%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E4%BB%98%E3%81%8D%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Mon, 22 Jun 2020 23:00:36 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%AA%E3%83%A2%E3%82%B3%E3%83%B3%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E4%BB%98%E3%81%8D%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>ESP32 Keyring PCBから発見。画像もここから転載。
+ESP32は非常にパワフルなボードです。この記事ではESP32を使った非常にコンパクトなディスプレイ付きのボードを紹介します。
+ディスプレイは240x240のカラーのもので、5つのボタンが搭載されています。リモコンサイズのコンパクトな筐体が非常に印象的です。
+残念ながら販売は終了しているようです。</description>
+    </item>
     
     <item>
       <title>OLEDによるスマートグラス</title>
