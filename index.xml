@@ -6,10 +6,24 @@
     <description>Recent content in inajobがいろいろ紹介するサイトです on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 22 Jun 2020 23:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2020 23:00:41 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>木片を積み上げて造形する3Dプリンタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%9C%A8%E7%89%87%E3%82%92%E7%A9%8D%E3%81%BF%E4%B8%8A%E3%81%92%E3%81%A6%E9%80%A0%E5%BD%A2%E3%81%99%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
+      <pubDate>Tue, 23 Jun 2020 23:00:41 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%9C%A8%E7%89%87%E3%82%92%E7%A9%8D%E3%81%BF%E4%B8%8A%E3%81%92%E3%81%A6%E9%80%A0%E5%BD%A2%E3%81%99%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
+      <description>ALEKYA - Open Source Construction Robotから発見。画像もここから転載。
+「3Dプリンタ」と聞くと今はやりのプラスチック製品を作るものを思いつきますが、この記事で紹介しているのは「木のブロック」を組み合わせて物を作る3Dプリンタです。
+3DプリンタのようなX-Y軸を動くヘッドが木のブロックを重ねていき、層が変わるとそこに木工ボンドを塗り込みます。
+このプロセスを繰り返すことで、指定した形の物体を生成します。
+実はこのプロジェクトはもっと大きな建造物を作るためのプロトタイプのようですが、このサイズでも非常にインパクトがあります。プラスチック製の3Dプリンタほどは精度がいらないプロトタイピングなどで応用が利きそうです。
+ </description>
+    </item>
     
     <item>
       <title>ESP32を使ったリモコンサイズのディスプレイ付きボード</title>

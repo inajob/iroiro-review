@@ -8,12 +8,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>
       
-  ESP32を使ったリモコンサイズのディスプレイ付きボード &ndash; inajobのいろいろレビュー
+  木片を積み上げて造形する3Dプリンタ &ndash; inajobのいろいろレビュー
 
     </title>
     
     
-    <meta name="description" property="og:description" content="リモコンサイズのディスプレイ付きESP32ボードを紹介します。|">
+    <meta name="description" property="og:description" content="木片を積み上げて造形する3Dプリンタを紹介します。|">
     
 
     <meta name="apple-mobile-web-app-title" content="inajobのいろいろレビュー">
@@ -22,17 +22,17 @@
     
     
 
-    <meta property="og:title" content="ESP32を使ったリモコンサイズのディスプレイ付きボード | inajobのいろいろレビュー">
-    <meta property="og:description" content="リモコンサイズのディスプレイ付きESP32ボードを紹介します。|">
+    <meta property="og:title" content="木片を積み上げて造形する3Dプリンタ | inajobのいろいろレビュー">
+    <meta property="og:description" content="木片を積み上げて造形する3Dプリンタを紹介します。|">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@ina_ani">
     <meta name="twitter:creator" content="@ina_ani">
-    <meta name="twitter:title" content="ESP32を使ったリモコンサイズのディスプレイ付きボード | inajobのいろいろレビュー">
-    <meta name="twitter:description" content="リモコンサイズのディスプレイ付きESP32ボードを紹介します。|">
+    <meta name="twitter:title" content="木片を積み上げて造形する3Dプリンタ | inajobのいろいろレビュー">
+    <meta name="twitter:description" content="木片を積み上げて造形する3Dプリンタを紹介します。|">
     
-    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/esp32-keyring.jpg">
-    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/esp32-keyring.jpg">
+    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/wood-piece-printer.jpg">
+    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/wood-piece-printer.jpg">
     
     
     <meta name="google-site-verification" content="Wjrrx4mV4IokyVrRy-5rjpG1sfwkjQ-uVRiXhMMXhW8" />
@@ -90,7 +90,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 <div class="Subhead">
   <div class="Subhead-heading">
-    <div class="h1 mt-3 mb-1">ESP32を使ったリモコンサイズのディスプレイ付きボード</div>
+    <div class="h1 mt-3 mb-1">木片を積み上げて造形する3Dプリンタ</div>
   </div>
   <div class="Subhead-description">
     
@@ -98,21 +98,17 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 
 
-<a href='/iroiro-review/tags/esp32' class="muted-link">
-  <span class="Label" style="background-color:#0099dd;">ESP32</span>
-</a>
-
-<a href='/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89' class="muted-link">
-  <span class="Label" style="background-color:#0099dd;">開発ボード</span>
+<a href='/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">3Dプリンタ</span>
 </a>
 
 
 
     
     <div class="float-md-right">
-      <span title="Lastmod: 2020-06-22. Published at: 2020-06-22.">
+      <span title="Lastmod: 2020-06-23. Published at: 2020-06-23.">
         
-          Published: 2020-06-22
+          Published: 2020-06-23
         
       </span>
     </div>
@@ -122,34 +118,38 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <article>
   
   <section class="pb-6 mb-3 border-bottom">
-    <img src="https://inajob.github.io/iroiro-review/img/esp32-keyring.jpg" />
-    <p><a href="https://www.tindie.com/products/electronictrik/esp32-keyring-pcb/">ESP32 Keyring PCB</a>から発見。画像もここから転載。</p>
+    <img src="https://inajob.github.io/iroiro-review/img/wood-piece-printer.jpg" />
+    <p><a href="https://hackaday.io/project/167297-alekya-open-source-construction-robot">ALEKYA - Open Source Construction Robot</a>から発見。画像もここから転載。</p>
 
-<p>ESP32は非常にパワフルなボードです。この記事ではESP32を使った非常にコンパクトなディスプレイ付きのボードを紹介します。</p>
+<p>「3Dプリンタ」と聞くと今はやりのプラスチック製品を作るものを思いつきますが、この記事で紹介しているのは「木のブロック」を組み合わせて物を作る3Dプリンタです。</p>
 
-<p>ディスプレイは240x240のカラーのもので、5つのボタンが搭載されています。リモコンサイズのコンパクトな筐体が非常に印象的です。</p>
+<p>3DプリンタのようなX-Y軸を動くヘッドが木のブロックを重ねていき、層が変わるとそこに木工ボンドを塗り込みます。</p>
 
-<p>残念ながら販売は終了しているようです。</p>
+<p>このプロセスを繰り返すことで、指定した形の物体を生成します。</p>
+
+<p>実はこのプロジェクトはもっと大きな建造物を作るためのプロトタイプのようですが、このサイズでも非常にインパクトがあります。プラスチック製の3Dプリンタほどは精度がいらないプロトタイピングなどで応用が利きそうです。</p>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/gqL55pt3gqA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   </section>
 
-  <div><a href="/iroiro-review/post/%E6%9C%A8%E7%89%87%E3%82%92%E7%A9%8D%E3%81%BF%E4%B8%8A%E3%81%92%E3%81%A6%E9%80%A0%E5%BD%A2%E3%81%99%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/">&lt;- 前の記事 - 木片を積み上げて造形する3Dプリンタ</a></div>
-  <div style="text-align:right;"><a href="/iroiro-review/post/oled%E3%81%AB%E3%82%88%E3%82%8B%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B0%E3%83%A9%E3%82%B9/">次の記事 - OLEDによるスマートグラス - &gt;</a></div>
+  <div></div>
+  <div style="text-align:right;"><a href="/iroiro-review/post/esp32%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%AA%E3%83%A2%E3%82%B3%E3%83%B3%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E4%BB%98%E3%81%8D%E3%83%9C%E3%83%BC%E3%83%89/">次の記事 - ESP32を使ったリモコンサイズのディスプレイ付きボード - &gt;</a></div>
 
   
 
 <h3>関連記事</h3>
 <ul>
   
-  <li><a href="/iroiro-review/post/raspberry-pi%E3%81%AE%E3%83%94%E3%83%B3%E3%81%A8%E5%90%8C%E3%81%98%E9%85%8D%E7%BD%AE%E3%82%92%E6%8C%81%E3%81%A4esp32%E3%83%9C%E3%83%BC%E3%83%89/">Raspberry Piのピンと同じ配置を持つESP32ボード</a></li>
+  <li><a href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%97%E3%81%9F%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/">3Dプリンタで作成したペンプロッタ</a></li>
   
-  <li><a href="/iroiro-review/post/esp32%E6%90%AD%E8%BC%89tinypico%E7%94%A8%E3%81%AEvga%E5%87%BA%E5%8A%9B%E3%83%9C%E3%83%BC%E3%83%89/">ESP32搭載TinyPICO用のVGA出力ボード</a></li>
+  <li><a href="/iroiro-review/post/%E6%B0%B4%E9%81%93%E3%83%A1%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AE%E8%A1%A8%E7%A4%BA%E3%82%92%E3%82%AB%E3%83%A1%E3%83%A9%E3%81%A7%E5%8F%96%E5%BE%97%E3%81%97%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92wifi%E3%81%A7%E9%80%81%E4%BF%A1%E3%81%99%E3%82%8B/">水道メーターの表示をカメラで取得しデータをWiFiで送信する</a></li>
   
-  <li><a href="/iroiro-review/post/%E5%B0%8F%E5%9E%8B%E3%81%AEesp32%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%ABtinypico/">小型のESP32モジュール「TinyPico」</a></li>
+  <li><a href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E7%99%BA%E3%81%99%E3%82%8B%E6%9C%89%E5%AE%B3%E3%82%AC%E3%82%B9%E3%82%92%E6%B8%AC%E5%AE%9A%E3%81%99%E3%82%8B%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/">3Dプリンタの発する有害ガスを測定するデバイス</a></li>
   
-  <li><a href="/iroiro-review/post/%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85%E3%81%AE%E3%83%91%E3%83%BC%E3%83%84%E3%82%82%E6%90%AD%E8%BC%89%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB%E5%9F%BA%E6%9D%BF/">表面実装のパーツも搭載できるユニバーサル基板</a></li>
+  <li><a href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%83%89%E3%83%9F%E3%83%8E%E3%82%92%E4%B8%A6%E3%81%B9%E3%82%8B%E8%A3%85%E7%BD%AE/">3Dプリンタで作ったドミノを並べる装置</a></li>
   
-  <li><a href="/iroiro-review/post/usb%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89tomu%E3%81%A8%E3%81%9D%E3%81%AE%E5%85%84%E5%BC%9F%E3%81%9F%E3%81%A1/">USBコネクタサイズの開発ボードTomuとその兄弟たち</a></li>
+  <li><a href="/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E5%B0%8F%E5%9E%8B%E3%82%A8%E3%82%A2%E3%83%BC%E3%83%9B%E3%83%83%E3%82%B1%E3%83%BC%E5%8F%B0/">自作の小型エアーホッケー台</a></li>
   
 </ul>
 
@@ -177,7 +177,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           }(document, 'script', 'facebook-jssdk'));</script>
 
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/esp32%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%AA%E3%83%A2%E3%82%B3%E3%83%B3%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E4%BB%98%E3%81%8D%E3%83%9C%E3%83%BC%E3%83%89/" 
+            data-href="/iroiro-review/post/%E6%9C%A8%E7%89%87%E3%82%92%E7%A9%8D%E3%81%BF%E4%B8%8A%E3%81%92%E3%81%A6%E9%80%A0%E5%BD%A2%E3%81%99%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/" 
             data-layout="button_count">
           </div>
         
@@ -210,7 +210,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           
   
     <div id="toc" class="Box Box--blue mb-3">
-      <b>ESP32を使ったリモコンサイズのディスプレイ付きボード</b>
+      <b>木片を積み上げて造形する3Dプリンタ</b>
       
     </div>
   
@@ -226,7 +226,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
         
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/esp32%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%AA%E3%83%A2%E3%82%B3%E3%83%B3%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E4%BB%98%E3%81%8D%E3%83%9C%E3%83%BC%E3%83%89/" 
+            data-href="/iroiro-review/post/%E6%9C%A8%E7%89%87%E3%82%92%E7%A9%8D%E3%81%BF%E4%B8%8A%E3%81%92%E3%81%A6%E9%80%A0%E5%BD%A2%E3%81%99%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/" 
             data-layout="button_count">
           </div>
         
