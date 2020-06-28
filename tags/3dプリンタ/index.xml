@@ -6,10 +6,22 @@
     <description>Recent content in 3dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 24 Jun 2020 23:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2020 11:00:44 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>感圧センサーによる3Dプリンタのオートレベリング</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%84%9F%E5%9C%A7%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%88%E3%83%AC%E3%83%99%E3%83%AA%E3%83%B3%E3%82%B0/</link>
+      <pubDate>Sun, 28 Jun 2020 11:00:44 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%84%9F%E5%9C%A7%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%88%E3%83%AC%E3%83%99%E3%83%AA%E3%83%B3%E3%82%B0/</guid>
+      <description>FS-Touch Bed Levelling Toolから発見。画像もここから転載。（CC BY-NC-SA By Antzy Carmasaic）
+3Dプリンタのセットアップで面倒なのは、Z Levelの調整です。この記事で紹介しているのは、感圧センサーを使ってZ Levelを調整する装置です。
+ふつうこの手のセンシングは近接センサを使うことが多いですが、感圧センサーのほうがより精度よく調整ができそうです。
+ </description>
+    </item>
     
     <item>
       <title>火星探査機をまねた6個のタイヤのあるローバー</title>
