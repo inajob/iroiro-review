@@ -8,12 +8,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>
       
-  USB-Cコネクタの付いたArduino Microボード &ndash; inajobのいろいろレビュー
+  Arduinoで作ったシリアル通信できるキーボード &ndash; inajobのいろいろレビュー
 
     </title>
     
     
-    <meta name="description" property="og:description" content="USB-Cコネクタが搭載されたArduino Microボードを紹介します。|">
+    <meta name="description" property="og:description" content="Arduinoで作ったシリアル通信できるキーボードの作例を紹介します。|">
     
 
     <meta name="apple-mobile-web-app-title" content="inajobのいろいろレビュー">
@@ -22,17 +22,17 @@
     
     
 
-    <meta property="og:title" content="USB-Cコネクタの付いたArduino Microボード | inajobのいろいろレビュー">
-    <meta property="og:description" content="USB-Cコネクタが搭載されたArduino Microボードを紹介します。|">
+    <meta property="og:title" content="Arduinoで作ったシリアル通信できるキーボード | inajobのいろいろレビュー">
+    <meta property="og:description" content="Arduinoで作ったシリアル通信できるキーボードの作例を紹介します。|">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@ina_ani">
     <meta name="twitter:creator" content="@ina_ani">
-    <meta name="twitter:title" content="USB-Cコネクタの付いたArduino Microボード | inajobのいろいろレビュー">
-    <meta name="twitter:description" content="USB-Cコネクタが搭載されたArduino Microボードを紹介します。|">
+    <meta name="twitter:title" content="Arduinoで作ったシリアル通信できるキーボード | inajobのいろいろレビュー">
+    <meta name="twitter:description" content="Arduinoで作ったシリアル通信できるキーボードの作例を紹介します。|">
     
-    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/arduino-micro-c.jpg">
-    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/arduino-micro-c.jpg">
+    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/arduino-keyboard.jpg">
+    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/arduino-keyboard.jpg">
     
     
     <meta name="google-site-verification" content="Wjrrx4mV4IokyVrRy-5rjpG1sfwkjQ-uVRiXhMMXhW8" />
@@ -90,7 +90,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 <div class="Subhead">
   <div class="Subhead-heading">
-    <div class="h1 mt-3 mb-1">USB-Cコネクタの付いたArduino Microボード</div>
+    <div class="h1 mt-3 mb-1">Arduinoで作ったシリアル通信できるキーボード</div>
   </div>
   <div class="Subhead-description">
     
@@ -98,21 +98,21 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 
 
-<a href='/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89' class="muted-link">
-  <span class="Label" style="background-color:#0099dd;">開発ボード</span>
-</a>
-
 <a href='/iroiro-review/tags/arduino' class="muted-link">
   <span class="Label" style="background-color:#0099dd;">Arduino</span>
+</a>
+
+<a href='/iroiro-review/tags/%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">キーボード</span>
 </a>
 
 
 
     
     <div class="float-md-right">
-      <span title="Lastmod: 2020-06-28. Published at: 2020-06-28.">
+      <span title="Lastmod: 2020-06-29. Published at: 2020-06-29.">
         
-          Published: 2020-06-28
+          Published: 2020-06-29
         
       </span>
     </div>
@@ -122,34 +122,35 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <article>
   
   <section class="pb-6 mb-3 border-bottom">
-    <img src="https://inajob.github.io/iroiro-review/img/arduino-micro-c.jpg" />
-    <p><a href="https://hackaday.io/project/167454-c-duino-a-diy-usb-c-pro-micro">C-Duino: A DIY USB C Pro Micro</a>から発見。画像もここから転載。</p>
+    <img src="https://inajob.github.io/iroiro-review/img/arduino-keyboard.jpg" />
+    <p><a href="https://electronoobs.com/eng_arduino_tut103.php">ARDUINO KEYBOARD SERIAL OUTPUT</a>から発見。画像もここから転載。</p>
 
-<p>Arduino Pro MicroのUSBコネクタは一般的にはMicroUSB端子ですが、これがもげやすかったりして困ることがあります。また近年USB-Cコネクタの製品が増えてきたことからケーブルの種類を統一できないなどの理由で、自作ガジェットもUSB-Cで接続できるようにしたくなることが増えてきています。</p>
+<p>Arduinoによって作られた、シリアル通信で入力を受け取ることができるコンパクトなキーボードの作例を紹介します。</p>
 
-<p>そんな時に役立ちそうなのがこのUSB－Cコネクタの付いたPro Microのボードです。</p>
+<p>大量のキーの入力を検知するたに4x10のマトリクス配線を利用しています。
+Arduinoにキーボードが搭載できると、「ポケコン」のようなガジェットを簡単に作れるようになるため、夢が広がります。</p>
 
-<p>特に通信が早くなる、といった効能はないですが、今後はUSB-Cが一般的になってきそうなので、なかなか良いプロダクトに感じます。</p>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/M6OcPC5g_eM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   </section>
 
-  <div><a href="/iroiro-review/post/arduino%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%AB%E9%80%9A%E4%BF%A1%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/">&lt;- 前の記事 - Arduinoで作ったシリアル通信できるキーボード</a></div>
-  <div style="text-align:right;"><a href="/iroiro-review/post/%E6%84%9F%E5%9C%A7%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%88%E3%83%AC%E3%83%99%E3%83%AA%E3%83%B3%E3%82%B0/">次の記事 - 感圧センサーによる3Dプリンタのオートレベリング - &gt;</a></div>
+  <div></div>
+  <div style="text-align:right;"><a href="/iroiro-review/post/usb-c%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%81%AE%E4%BB%98%E3%81%84%E3%81%9Farduino-micro%E3%83%9C%E3%83%BC%E3%83%89/">次の記事 - USB-Cコネクタの付いたArduino Microボード - &gt;</a></div>
 
   
 
 <h3>関連記事</h3>
 <ul>
   
-  <li><a href="/iroiro-review/post/%E5%9F%BA%E6%9D%BF%E3%81%8C%E7%9B%B4%E5%88%BA%E3%81%97%E3%81%A7%E3%81%8D%E3%82%8Barduino%E4%BA%92%E6%8F%9B%E6%A9%9F/">基板がUSBポートに直刺しできるArduino互換機</a></li>
+  <li><a href="/iroiro-review/post/3%E3%82%AD%E3%83%BC%E3%81%A8%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E4%BB%98%E3%81%8D%E3%81%AE%E5%90%8D%E5%88%BA%E3%82%B5%E3%82%A4%E3%82%BA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/">3キーとロータリーエンコーダ付きの名刺サイズキーボード</a></li>
   
-  <li><a href="/iroiro-review/post/type-c%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E6%90%AD%E8%BC%89%E3%81%AEarduino-nano/">Type-Cコネクタ搭載のArduino Nano</a></li>
+  <li><a href="/iroiro-review/post/usb-c%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%81%AE%E4%BB%98%E3%81%84%E3%81%9Farduino-micro%E3%83%9C%E3%83%BC%E3%83%89/">USB-Cコネクタの付いたArduino Microボード</a></li>
   
-  <li><a href="/iroiro-review/post/esp32%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%AA%E3%83%A2%E3%82%B3%E3%83%B3%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E4%BB%98%E3%81%8D%E3%83%9C%E3%83%BC%E3%83%89/">ESP32を使ったリモコンサイズのディスプレイ付きボード</a></li>
+  <li><a href="/iroiro-review/post/arduino%E3%81%8B%E3%82%89hdmi%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%9C%E3%83%BC%E3%83%89/">ArduinoからHDMI出力するためのボード</a></li>
   
-  <li><a href="/iroiro-review/post/%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85%E3%81%AE%E3%83%91%E3%83%BC%E3%83%84%E3%82%82%E6%90%AD%E8%BC%89%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB%E5%9F%BA%E6%9D%BF/">表面実装のパーツも搭載できるユニバーサル基板</a></li>
+  <li><a href="/iroiro-review/post/ay-3-8910%E3%81%A8arduino%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E3%83%81%E3%83%83%E3%83%97%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC/">AY-3-8910とArduinoを組み合わせたチップチューンプレイヤー</a></li>
   
-  <li><a href="/iroiro-review/post/usb%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89tomu%E3%81%A8%E3%81%9D%E3%81%AE%E5%85%84%E5%BC%9F%E3%81%9F%E3%81%A1/">USBコネクタサイズの開発ボードTomuとその兄弟たち</a></li>
+  <li><a href="/iroiro-review/post/arduino%E3%81%8B%E3%82%89%E4%BD%BF%E3%81%84%E3%82%84%E3%81%99%E3%81%84eeprom%E3%83%9C%E3%83%BC%E3%83%89/">Arduinoから使いやすいEEPROMボード</a></li>
   
 </ul>
 
@@ -177,7 +178,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           }(document, 'script', 'facebook-jssdk'));</script>
 
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/usb-c%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%81%AE%E4%BB%98%E3%81%84%E3%81%9Farduino-micro%E3%83%9C%E3%83%BC%E3%83%89/" 
+            data-href="/iroiro-review/post/arduino%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%AB%E9%80%9A%E4%BF%A1%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/" 
             data-layout="button_count">
           </div>
         
@@ -210,7 +211,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           
   
     <div id="toc" class="Box Box--blue mb-3">
-      <b>USB-Cコネクタの付いたArduino Microボード</b>
+      <b>Arduinoで作ったシリアル通信できるキーボード</b>
       
     </div>
   
@@ -226,7 +227,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
         
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/usb-c%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%81%AE%E4%BB%98%E3%81%84%E3%81%9Farduino-micro%E3%83%9C%E3%83%BC%E3%83%89/" 
+            data-href="/iroiro-review/post/arduino%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%AB%E9%80%9A%E4%BF%A1%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/" 
             data-layout="button_count">
           </div>
         

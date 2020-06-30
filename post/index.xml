@@ -6,10 +6,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 28 Jun 2020 23:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2020 23:00:03 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arduinoで作ったシリアル通信できるキーボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/arduino%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%AB%E9%80%9A%E4%BF%A1%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Mon, 29 Jun 2020 23:00:03 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/arduino%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%AB%E9%80%9A%E4%BF%A1%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>ARDUINO KEYBOARD SERIAL OUTPUTから発見。画像もここから転載。
+Arduinoによって作られた、シリアル通信で入力を受け取ることができるコンパクトなキーボードの作例を紹介します。
+大量のキーの入力を検知するたに4x10のマトリクス配線を利用しています。 Arduinoにキーボードが搭載できると、「ポケコン」のようなガジェットを簡単に作れるようになるため、夢が広がります。
+ </description>
+    </item>
     
     <item>
       <title>USB-Cコネクタの付いたArduino Microボード</title>
