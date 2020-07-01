@@ -6,10 +6,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 29 Jun 2020 23:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2020 23:00:16 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3DプリンタとBB弾を使ったベアリング</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A8bb%E5%BC%BE%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0/</link>
+      <pubDate>Tue, 30 Jun 2020 23:00:16 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A8bb%E5%BC%BE%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0/</guid>
+      <description>3D printable bearing generatorから発見。画像もここから転載。
+メカなどを作っていてほしくなるパーツの一つに「ベアリング」があります。 通常金属製のベアリングを利用しますが、この記事ではプラスチック製のベアリングを3Dプリンタで作成する方法を紹介しています。
+ベアリングのボール部分は滑らかに回転する必要があるので、その部分は3DプリントではなくBB弾を利用しています。</description>
+    </item>
     
     <item>
       <title>Arduinoで作ったシリアル通信できるキーボード</title>
