@@ -6,10 +6,22 @@
     <description>Recent content in 3dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 30 Jun 2020 23:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2020 23:00:43 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>スマートフォンにくっつける3Dプリンタ製のゲームパッド</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%81%AB%E3%81%8F%E3%81%A3%E3%81%A4%E3%81%91%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%91%E3%83%83%E3%83%89/</link>
+      <pubDate>Wed, 01 Jul 2020 23:00:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%81%AB%E3%81%8F%E3%81%A3%E3%81%A4%E3%81%91%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%91%E3%83%83%E3%83%89/</guid>
+      <description>Playloopから発見。画像もここから転載。
+スマートフォンでレトローゲームを楽しむためのアダプタ式のゲームパッドです。 3Dプリンタで作られた筐体は、左右に広がるギミックがついており、あらゆるサイズのスマートフォンにフィットします。左右に広がるギミック部分にはギアが使われており非常にかっこいいです。
+スマートフォンとはUSB端子で接続され、HIDデバイスとして認識されるため、一般的なゲームコンソールのゲームをプレイすることができます。
+公式サイトではPre-Orderができるようですが、最近は動きがあまりなさそうです・・</description>
+    </item>
     
     <item>
       <title>3DプリンタとBB弾を使ったベアリング</title>
