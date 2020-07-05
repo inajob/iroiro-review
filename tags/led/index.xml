@@ -6,10 +6,22 @@
     <description>Recent content in Led on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 02 Jun 2020 23:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2020 23:00:54 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/led/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arduinoで作る巨大なテトリス</title>
+      <link>https://inajob.github.io/iroiro-review/post/arduino%E3%81%A7%E4%BD%9C%E3%82%8B%E5%B7%A8%E5%A4%A7%E3%81%AA%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9/</link>
+      <pubDate>Sat, 04 Jul 2020 23:00:54 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/arduino%E3%81%A7%E4%BD%9C%E3%82%8B%E5%B7%A8%E5%A4%A7%E3%81%AA%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9/</guid>
+      <description>ARDUINO TETRIS LED GAMEから発見。画像もここから転載。
+Arduinoを使って作られた大きなカラーディスプレイでテトリスを動かしている作例を紹介します。 LEDディスプレイはWS2812を並べて作られていて、その仕組みは単純ですが、一般的な携帯ゲーム機よりはるかに大きな筐体が非常に印象的なゲーム機です。
+また、音楽についてはDFPlayerという SDカードから任意のmp3ファイルを再生できる便利なモジュールを使用しています。
+  </description>
+    </item>
     
     <item>
       <title>デジタルでアナログな腕時計</title>
