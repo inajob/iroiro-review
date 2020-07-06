@@ -8,12 +8,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>
       
-  Arduinoで作る巨大なテトリス &ndash; inajobのいろいろレビュー
+  RaspberryPi4にPCI Expressポートを増やす、さらに簡単な方法が編み出される &ndash; inajobのいろいろレビュー
 
     </title>
     
     
-    <meta name="description" property="og:description" content="ArduinoとWS2812により大きなテトリスを作成する方法を紹介します。|">
+    <meta name="description" property="og:description" content="以前紹介したRaspberryPi4にPCI Expressポートを増やす方法を、より簡単に実施する方法が編み出されました。|">
     
 
     <meta name="apple-mobile-web-app-title" content="inajobのいろいろレビュー">
@@ -22,17 +22,17 @@
     
     
 
-    <meta property="og:title" content="Arduinoで作る巨大なテトリス | inajobのいろいろレビュー">
-    <meta property="og:description" content="ArduinoとWS2812により大きなテトリスを作成する方法を紹介します。|">
+    <meta property="og:title" content="RaspberryPi4にPCI Expressポートを増やす、さらに簡単な方法が編み出される | inajobのいろいろレビュー">
+    <meta property="og:description" content="以前紹介したRaspberryPi4にPCI Expressポートを増やす方法を、より簡単に実施する方法が編み出されました。|">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@ina_ani">
     <meta name="twitter:creator" content="@ina_ani">
-    <meta name="twitter:title" content="Arduinoで作る巨大なテトリス | inajobのいろいろレビュー">
-    <meta name="twitter:description" content="ArduinoとWS2812により大きなテトリスを作成する方法を紹介します。|">
+    <meta name="twitter:title" content="RaspberryPi4にPCI Expressポートを増やす、さらに簡単な方法が編み出される | inajobのいろいろレビュー">
+    <meta name="twitter:description" content="以前紹介したRaspberryPi4にPCI Expressポートを増やす方法を、より簡単に実施する方法が編み出されました。|">
     
-    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/big-tetris.jpg">
-    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/big-tetris.jpg">
+    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/rpi4_bridge_chip.jpg">
+    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/rpi4_bridge_chip.jpg">
     
     
     <meta name="google-site-verification" content="Wjrrx4mV4IokyVrRy-5rjpG1sfwkjQ-uVRiXhMMXhW8" />
@@ -90,7 +90,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 <div class="Subhead">
   <div class="Subhead-heading">
-    <div class="h1 mt-3 mb-1">Arduinoで作る巨大なテトリス</div>
+    <div class="h1 mt-3 mb-1">RaspberryPi4にPCI Expressポートを増やす、さらに簡単な方法が編み出される</div>
   </div>
   <div class="Subhead-description">
     
@@ -98,21 +98,21 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 
 
-<a href='/iroiro-review/tags/led' class="muted-link">
-  <span class="Label" style="background-color:#0099dd;">LED</span>
+<a href='/iroiro-review/tags/raspberrypi' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">RaspberryPi</span>
 </a>
 
-<a href='/iroiro-review/tags/arduino' class="muted-link">
-  <span class="Label" style="background-color:#0099dd;">Arduino</span>
+<a href='/iroiro-review/tags/hack' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">Hack</span>
 </a>
 
 
 
     
     <div class="float-md-right">
-      <span title="Lastmod: 2020-07-04. Published at: 2020-07-04.">
+      <span title="Lastmod: 2020-07-05. Published at: 2020-07-05.">
         
-          Published: 2020-07-04
+          Published: 2020-07-05
         
       </span>
     </div>
@@ -122,37 +122,38 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <article>
   
   <section class="pb-6 mb-3 border-bottom">
-    <img src="https://inajob.github.io/iroiro-review/img/big-tetris.jpg" />
-    <p><a href="https://electronoobs.com/eng_arduino_tut104.php">ARDUINO TETRIS LED GAME</a>から発見。画像もここから転載。</p>
+    <img src="https://inajob.github.io/iroiro-review/img/rpi4_bridge_chip.jpg" />
+    <p><a href="https://blog.zakkemble.net/rpi4-pci-express-bridge-chip/">Raspberry Pi 4 PCI-Express Bridge “Chip”</a>から発見。画像もここから転載。</p>
 
-<p>Arduinoを使って作られた大きなカラーディスプレイでテトリスを動かしている作例を紹介します。
-LEDディスプレイはWS2812を並べて作られていて、その仕組みは単純ですが、一般的な携帯ゲーム機よりはるかに大きな筐体が非常に印象的なゲーム機です。</p>
+<p>以前紹介した<a href="../../post/raspberry-pi-4%E3%81%ABpci-express%E3%81%AE%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E6%8E%A5%E7%B6%9A%E3%81%99%E3%82%8B%E8%A3%8F%E6%8A%80/">Raspberry Pi 4にPCI Expressのボードを接続する裏技
+</a>を簡単に実施する方法が編み出されました。
+PCI Expressバスに直結されているUSBハブのコントローラチップをはがして、PCI Expressの信号をそのままUSBポートに引き出すという改造ですが、以前はこれを細いワイヤーのはんだ付けで実施していましたが、今回紹介するのは、それ専用の「基板」を利用する方法です。</p>
 
-<p>また、音楽についてはDFPlayerという SDカードから任意のmp3ファイルを再生できる便利なモジュールを使用しています。</p>
+<p><img src="../../img/rpi4_bridge_chip2.jpg" alt="" /></p>
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=inajob-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00Y7JV0PO&linkId=34b59e3063d9dbbd971a02097b7aab83"></iframe>
+<p>ICと同じ大きさのこの基板は、前述の信号のバイパスを行う配線となっています。</p>
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/3FmxySApcyQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>これを使うことで、USBハブのICをはがして、この基板を実装しなおすだけで、PCI Expressが利用できるというものです。</p>
 
   </section>
 
-  <div><a href="/iroiro-review/post/raspberrypi4%E3%81%ABpci-express%E3%83%9D%E3%83%BC%E3%83%88%E3%82%92%E5%A2%97%E3%82%84%E3%81%99%E3%82%88%E3%82%8A%E7%B0%A1%E5%8D%98%E3%81%AA%E6%96%B9%E6%B3%95%E3%81%8C%E7%B7%A8%E3%81%BF%E5%87%BA%E3%81%95%E3%82%8C%E3%82%8B/">&lt;- 前の記事 - RaspberryPi4にPCI Expressポートを増やす、さらに簡単な方法が編み出される</a></div>
-  <div style="text-align:right;"><a href="/iroiro-review/post/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%81%AB%E3%81%8F%E3%81%A3%E3%81%A4%E3%81%91%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%91%E3%83%83%E3%83%89/">次の記事 - スマートフォンにくっつける3Dプリンタ製のゲームパッド - &gt;</a></div>
+  <div></div>
+  <div style="text-align:right;"><a href="/iroiro-review/post/arduino%E3%81%A7%E4%BD%9C%E3%82%8B%E5%B7%A8%E5%A4%A7%E3%81%AA%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9/">次の記事 - Arduinoで作る巨大なテトリス - &gt;</a></div>
 
   
 
 <h3>関連記事</h3>
 <ul>
   
-  <li><a href="/iroiro-review/post/arduino%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%AB%E9%80%9A%E4%BF%A1%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/">Arduinoで作ったシリアル通信できるキーボード</a></li>
+  <li><a href="/iroiro-review/post/%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E5%9F%BA%E3%81%AB%E3%81%97%E3%81%9F%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/">ライフゲームを基にしたシンセサイザー</a></li>
   
-  <li><a href="/iroiro-review/post/usb-c%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%81%AE%E4%BB%98%E3%81%84%E3%81%9Farduino-micro%E3%83%9C%E3%83%BC%E3%83%89/">USB-Cコネクタの付いたArduino Microボード</a></li>
+  <li><a href="/iroiro-review/post/%E3%82%AB%E3%83%A9%E3%83%BC%E6%B6%B2%E6%99%B6%E4%BB%98%E3%81%8D%E3%83%86%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9%E3%82%92%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B/">カラー液晶付きテスターを改造してテトリスを実行する</a></li>
   
-  <li><a href="/iroiro-review/post/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%81%A7%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E3%81%AA%E8%85%95%E6%99%82%E8%A8%88/">デジタルでアナログな腕時計</a></li>
+  <li><a href="/iroiro-review/post/ipad%E3%81%A8%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E9%9B%BB%E5%AD%90%E5%B7%A5%E4%BD%9C%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/">iPadとブレッドボードを組み合わせた電子工作開発ボード</a></li>
   
-  <li><a href="/iroiro-review/post/arduino%E3%81%8B%E3%82%89hdmi%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%9C%E3%83%BC%E3%83%89/">ArduinoからHDMI出力するためのボード</a></li>
+  <li><a href="/iroiro-review/post/%E3%83%91%E3%83%B3%E3%83%81%E3%83%86%E3%83%BC%E3%83%97%E3%82%92%E8%AA%AD%E3%81%BF%E8%BE%BC%E3%82%81%E3%82%8Bbadge/">パンチテープを読み込めるBADGE</a></li>
   
-  <li><a href="/iroiro-review/post/ay-3-8910%E3%81%A8arduino%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E3%83%81%E3%83%83%E3%83%97%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC/">AY-3-8910とArduinoを組み合わせたチップチューンプレイヤー</a></li>
+  <li><a href="/iroiro-review/post/%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%B8%80%E4%BD%93%E5%9E%8B%E3%81%AEraspberrypi%E7%AB%AF%E6%9C%AB/">キーボード一体型のRaspberryPi端末</a></li>
   
 </ul>
 
@@ -180,7 +181,7 @@ LEDディスプレイはWS2812を並べて作られていて、その仕組み�
           }(document, 'script', 'facebook-jssdk'));</script>
 
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/arduino%E3%81%A7%E4%BD%9C%E3%82%8B%E5%B7%A8%E5%A4%A7%E3%81%AA%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9/" 
+            data-href="/iroiro-review/post/raspberrypi4%E3%81%ABpci-express%E3%83%9D%E3%83%BC%E3%83%88%E3%82%92%E5%A2%97%E3%82%84%E3%81%99%E3%82%88%E3%82%8A%E7%B0%A1%E5%8D%98%E3%81%AA%E6%96%B9%E6%B3%95%E3%81%8C%E7%B7%A8%E3%81%BF%E5%87%BA%E3%81%95%E3%82%8C%E3%82%8B/" 
             data-layout="button_count">
           </div>
         
@@ -213,7 +214,7 @@ LEDディスプレイはWS2812を並べて作られていて、その仕組み�
           
   
     <div id="toc" class="Box Box--blue mb-3">
-      <b>Arduinoで作る巨大なテトリス</b>
+      <b>RaspberryPi4にPCI Expressポートを増やす、さらに簡単な方法が編み出される</b>
       
     </div>
   
@@ -229,7 +230,7 @@ LEDディスプレイはWS2812を並べて作られていて、その仕組み�
 
         
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/arduino%E3%81%A7%E4%BD%9C%E3%82%8B%E5%B7%A8%E5%A4%A7%E3%81%AA%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9/" 
+            data-href="/iroiro-review/post/raspberrypi4%E3%81%ABpci-express%E3%83%9D%E3%83%BC%E3%83%88%E3%82%92%E5%A2%97%E3%82%84%E3%81%99%E3%82%88%E3%82%8A%E7%B0%A1%E5%8D%98%E3%81%AA%E6%96%B9%E6%B3%95%E3%81%8C%E7%B7%A8%E3%81%BF%E5%87%BA%E3%81%95%E3%82%8C%E3%82%8B/" 
             data-layout="button_count">
           </div>
         

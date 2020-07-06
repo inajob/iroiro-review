@@ -6,10 +6,22 @@
     <description>Recent content in Hack on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 18 May 2020 23:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2020 23:00:51 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>RaspberryPi4にPCI Expressポートを増やす、さらに簡単な方法が編み出される</title>
+      <link>https://inajob.github.io/iroiro-review/post/raspberrypi4%E3%81%ABpci-express%E3%83%9D%E3%83%BC%E3%83%88%E3%82%92%E5%A2%97%E3%82%84%E3%81%99%E3%82%88%E3%82%8A%E7%B0%A1%E5%8D%98%E3%81%AA%E6%96%B9%E6%B3%95%E3%81%8C%E7%B7%A8%E3%81%BF%E5%87%BA%E3%81%95%E3%82%8C%E3%82%8B/</link>
+      <pubDate>Sun, 05 Jul 2020 23:00:51 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/raspberrypi4%E3%81%ABpci-express%E3%83%9D%E3%83%BC%E3%83%88%E3%82%92%E5%A2%97%E3%82%84%E3%81%99%E3%82%88%E3%82%8A%E7%B0%A1%E5%8D%98%E3%81%AA%E6%96%B9%E6%B3%95%E3%81%8C%E7%B7%A8%E3%81%BF%E5%87%BA%E3%81%95%E3%82%8C%E3%82%8B/</guid>
+      <description>Raspberry Pi 4 PCI-Express Bridge “Chip”から発見。画像もここから転載。
+以前紹介したRaspberry Pi 4にPCI Expressのボードを接続する裏技 を簡単に実施する方法が編み出されました。 PCI Expressバスに直結されているUSBハブのコントローラチップをはがして、PCI Expressの信号をそのままUSBポートに引き出すという改造ですが、以前はこれを細いワイヤーのはんだ付けで実施していましたが、今回紹介するのは、それ専用の「基板」を利用する方法です。
+ICと同じ大きさのこの基板は、前述の信号のバイパスを行う配線となっています。
+これを使うことで、USBハブのICをはがして、この基板を実装しなおすだけで、PCI Expressが利用できるというものです。</description>
+    </item>
     
     <item>
       <title>クレジットカードのスキミング発見機</title>
