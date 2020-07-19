@@ -6,10 +6,22 @@
     <description>Recent content in inajobがいろいろ紹介するサイトです on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 15 Jul 2020 23:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2020 23:00:37 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>めっちゃかっこいい自撮り用のロボットアーム</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%81%E3%81%A3%E3%81%A1%E3%82%83%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E8%87%AA%E6%92%AE%E3%82%8A%E7%94%A8%E3%81%AE%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%A2%E3%83%BC%E3%83%A0/</link>
+      <pubDate>Sat, 18 Jul 2020 23:00:37 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%81%E3%81%A3%E3%81%A1%E3%82%83%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E8%87%AA%E6%92%AE%E3%82%8A%E7%94%A8%E3%81%AE%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%A2%E3%83%BC%E3%83%A0/</guid>
+      <description>This YouTuber Built His Own 8-Axis Camera Crane Robotから発見。画像もここから転載。
+映像を見れば一目瞭然、ぐるぐると周囲を回転しながら人物を撮影するロボットアームの作例です。作者はMaker系のYoutuberで自身のDIY動画を撮影するために、このロボットアームの製作を思いついたようです。
+これほどの機器を作ってしまうほどの作者の動画はDIY動画の中でも群を抜いてカメラワークやBGMに凝っています。
+ </description>
+    </item>
     
     <item>
       <title>シンプルな8x8ドットマトリクスのゲーム機</title>
