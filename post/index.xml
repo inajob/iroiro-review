@@ -6,10 +6,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 18 Jul 2020 23:00:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2020 23:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>蛇のような面白い動きをするロボット</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%9B%87%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E9%9D%A2%E7%99%BD%E3%81%84%E5%8B%95%E3%81%8D%E3%82%92%E3%81%99%E3%82%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</link>
+      <pubDate>Sun, 19 Jul 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%9B%87%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E9%9D%A2%E7%99%BD%E3%81%84%E5%8B%95%E3%81%8D%E3%82%92%E3%81%99%E3%82%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
+      <description>Snake Robot Gains High Mobility and Dexterityから発見。画像もここから転載。
+ロボットといえば、手足があるようなものを想像しがちですが、この記事で紹介しているのは蛇のようなロボットです。
+たくさんのサーボーモーターを組み合わせて立体的な動きも可能となっています。 単純にくねくねと進むだけでなく段差を上るなど、面白い動きもデモされています。
+ </description>
+    </item>
     
     <item>
       <title>めっちゃかっこいい自撮り用のロボットアーム</title>
