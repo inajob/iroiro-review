@@ -6,10 +6,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 21 Jul 2020 23:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2020 23:00:05 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>無線通信ができる自作のポケベル風デバイス</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%84%A1%E7%B7%9A%E9%80%9A%E4%BF%A1%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E8%87%AA%E4%BD%9C%E3%81%AE%E3%83%9D%E3%82%B1%E3%83%99%E3%83%AB%E9%A2%A8%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</link>
+      <pubDate>Wed, 22 Jul 2020 23:00:05 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%84%A1%E7%B7%9A%E9%80%9A%E4%BF%A1%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E8%87%AA%E4%BD%9C%E3%81%AE%E3%83%9D%E3%82%B1%E3%83%99%E3%83%AB%E9%A2%A8%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</guid>
+      <description>Dual Displays and LoRa, the SnapOnAirDUO Is a Pager for the Timesから発見。画像もここから転載。
+これはポケベルのようなメッセージ送信ができるガジェットです。LoRaで通信し、P2Pでネットワークを構成することで、テキストメッセージを送信します。
+大きめのフルカラーディスプレイに加えて、通信状況を表示するための小さなOLEDのディスプレイが搭載されています。
+P2P型の通信モデルを採用することで、携帯電話のような基地局を必要としないネットワークが構成できます。
+大企業のインフラを必要としない手軽なコミュニケーション手段として、非常に興味深いです。</description>
+    </item>
     
     <item>
       <title>折り畳み式の3Dプリンタ</title>
