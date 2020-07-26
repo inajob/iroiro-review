@@ -6,10 +6,24 @@
     <description>Recent content in 開発ボード on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 14 Jul 2020 23:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2020 23:00:12 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>オープンソースの電子ブックリーダー</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E9%9B%BB%E5%AD%90%E3%83%96%E3%83%83%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC/</link>
+      <pubDate>Sat, 25 Jul 2020 23:00:12 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E9%9B%BB%E5%AD%90%E3%83%96%E3%83%83%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC/</guid>
+      <description>The Open Book — An Open, Feather-Compatible eBook!から発見。画像もここから転載。
+昨今様々な電子書籍リーダーが販売されていますが、そのほとんどが「ロックイン」されており、自由にアプリケーションを開発できるプラットフォームとはいい辛いです。
+そこで開発されているのが、このボードです。オープンソースの電子書籍端末の設計です。このボード自体はe-inkディスプレイやSDカードスロットなどの機器をまとめるだけで、頭脳となるCPUは搭載されていません。
+代わりにAdafruit Featherをマウントするためのピンヘッダが搭載されています。
+そして、このボード、よく見るとびっしりと”文字”が書かれているのも特徴の一つです。それぞれのパーツが何なのか、どういうピン配置なのかといったことが細かく基板上に書かれているのです。
+部品代だけだと$42.26、基板の作成に$66.80程度と、お安い！というほどではありませんが、”自由”な電子書籍端末を手に入れる代償としてはそこそこリーズナブルなのではないでしょうか？</description>
+    </item>
     
     <item>
       <title>結構小型のCircuitPythonが動く開発ボード</title>
