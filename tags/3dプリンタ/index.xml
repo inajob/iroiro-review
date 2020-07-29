@@ -6,10 +6,22 @@
     <description>Recent content in 3dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 27 Jul 2020 23:00:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2020 23:00:22 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3Dプリンタで作った撮影用のターンテーブル</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E6%92%AE%E5%BD%B1%E7%94%A8%E3%81%AE%E3%82%BF%E3%83%BC%E3%83%B3%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB/</link>
+      <pubDate>Tue, 28 Jul 2020 23:00:22 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E6%92%AE%E5%BD%B1%E7%94%A8%E3%81%AE%E3%82%BF%E3%83%BC%E3%83%B3%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB/</guid>
+      <description>Fully 3D-Printable Turntableから発見。画像もここから転載。
+3Dプリンタで作った撮影用のターンテーブルの作例です。 特徴としては3Dプリンタの部品のみで構成されており、ねじやベアリングなどが不要という点です。手回し式で動かすので、本当に3Dプリントするだけで作ることができそうです。
+単純な機構ですが、こういう装置があると、小型のガジェットなどをいい感じに撮影することができます。
+ </description>
+    </item>
     
     <item>
       <title>電子ペーパーとOLEDを組み合わせたコンパクトなPDA</title>
