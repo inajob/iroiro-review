@@ -6,10 +6,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 28 Jul 2020 23:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2020 23:00:33 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>10人対戦ができる自作ゲーム機</title>
+      <link>https://inajob.github.io/iroiro-review/post/10%E4%BA%BA%E5%AF%BE%E6%88%A6%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E8%87%AA%E4%BD%9C%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Wed, 29 Jul 2020 23:00:33 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/10%E4%BA%BA%E5%AF%BE%E6%88%A6%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E8%87%AA%E4%BD%9C%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>Bitluni Developed a Custom 10-Player Video Game Consoleから発見。画像もここから転載。
+コントローラが大量に映っていますが、これは10人対戦が可能なゲーム機です。 CPUはESP32を用い、アナログコンポジットの映像もESP32で生成しています。
+映像周りの処理がプロセッサを占有してしまうため、凝ったゲームを作ることは、難しいようですが、それでも10人対戦というだけで単純なゲームでも白熱しそうです。
+動画ではリフローオーブンを使ったり、基板を洗浄したりする様子が紹介されており、DIY電子工作の事例としても非常に興味深いです。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタで作った撮影用のターンテーブル</title>
