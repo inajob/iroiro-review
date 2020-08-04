@@ -6,10 +6,25 @@
     <description>Recent content in inajobがいろいろ紹介するサイトです on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 02 Aug 2020 23:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2020 23:00:20 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3Dプリンタで滑らかな層を作るテクニックが開発中</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E6%BB%91%E3%82%89%E3%81%8B%E3%81%AA%E5%B1%A4%E3%82%92%E4%BD%9C%E3%82%8B%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF%E3%81%8C%E9%96%8B%E7%99%BA%E4%B8%AD/</link>
+      <pubDate>Mon, 03 Aug 2020 23:00:20 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E6%BB%91%E3%82%89%E3%81%8B%E3%81%AA%E5%B1%A4%E3%82%92%E4%BD%9C%E3%82%8B%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF%E3%81%8C%E9%96%8B%E7%99%BA%E4%B8%AD/</guid>
+      <description>HOW’S THAT 2.5D PRINTER WORKING FOR YOU?から発見。画像もここから転載。
+積層式の3Dプリンタと、切っても切れないのが、「積層痕」です。 文字通りプラスチックを「層」にして重ねているため、その断面が地層のように積層した凹凸の形状になってしまうというものです。
+しかし、今この「積層痕」をなくし、滑らかに表面を生成する技術が研究されています。しかもこの方法は3Dプリンタはそのままでソフトウェアの機能でそれを実現します。
+コアとなる仕組みは簡単で、レイヤーごとに生成するのをやめて、Z軸についても上下しながら生成するという手法です。
+とはいえ、この方法はいつでも使えるわけではありません。あまりに大きなZ軸の移動は機構上できませんし、Extruder周辺の部品ががすでに生成した形状と衝突してしまう問題もあります。
+この記事で紹介しているのは、上記のような条件を加味した結果うまくZ軸を上下させても大丈夫な範囲を計算し、そこだけをピンポイントにスムーズに出力するという方法のようです。
+ </description>
+    </item>
     
     <item>
       <title>手で素早く振ると残像で情報を表示する名刺</title>
