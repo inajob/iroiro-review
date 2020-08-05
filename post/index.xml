@@ -6,10 +6,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 03 Aug 2020 23:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2020 23:00:38 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ネックにバーコードを搭載したかっこいいギター風楽器</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%8D%E3%83%83%E3%82%AF%E3%81%AB%E3%83%90%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E3%82%AE%E3%82%BF%E3%83%BC%E9%A2%A8%E6%A5%BD%E5%99%A8/</link>
+      <pubDate>Tue, 04 Aug 2020 23:00:38 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%8D%E3%83%83%E3%82%AF%E3%81%AB%E3%83%90%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E3%82%AE%E3%82%BF%E3%83%BC%E9%A2%A8%E6%A5%BD%E5%99%A8/</guid>
+      <description>James Bruton’s Guitar Uses Barcodes for Stringsから発見。画像もここから転載。
+見た目のインパクトが非常にあるバーコード楽器を紹介します。
+このギター風(?)の楽器はネック部分にバーコードを備えており、バーコードスキャナでこれをスキャンすることで音楽を演奏するものです。
+日本のMakerの方であればELECTRONICOS FANTASTICOSの「バーコード楽器」であるBarcoderを見たことがあるかもしれませんが、あちらはアナログとしてバーコードを読み取っているのに対して、この記事の楽器はバーコードはド、レ、ミといった音程に対応しており、デジタルな情報となっています。 （個人的には、楽器としてはアナログのほうが面白いように思いますが）
+しかし、このネックにバーコードを大量にくっつけた見た目はインパクトがあるため、パフォーマンスとしては非常に面白いと感じました。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタで滑らかな層を作るテクニックが開発中</title>
