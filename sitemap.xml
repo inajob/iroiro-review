@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://inajob.github.io/iroiro-review/post/%E7%94%BB%E6%9C%9F%E7%9A%84%E3%81%AA%E6%96%87%E5%AD%97%E5%85%A5%E5%8A%9B%E3%82%92%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%99%E3%82%8B%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%B9/</loc>
+    <lastmod>2020-08-05T23:00:16+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://inajob.github.io/iroiro-review/post/%E3%83%8D%E3%83%83%E3%82%AF%E3%81%AB%E3%83%90%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E3%82%AE%E3%82%BF%E3%83%BC%E9%A2%A8%E6%A5%BD%E5%99%A8/</loc>
     <lastmod>2020-08-04T23:00:38+00:00</lastmod>
   </url>
@@ -1931,7 +1936,7 @@
   
   <url>
     <loc>https://inajob.github.io/iroiro-review/tags/hack/</loc>
-    <lastmod>2020-08-03T23:00:20+00:00</lastmod>
+    <lastmod>2020-08-05T23:00:16+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2009,7 +2014,7 @@
   
   <url>
     <loc>https://inajob.github.io/iroiro-review/post/</loc>
-    <lastmod>2020-08-04T23:00:38+00:00</lastmod>
+    <lastmod>2020-08-05T23:00:16+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2087,7 +2092,7 @@
   
   <url>
     <loc>https://inajob.github.io/iroiro-review/</loc>
-    <lastmod>2020-08-04T23:00:38+00:00</lastmod>
+    <lastmod>2020-08-05T23:00:16+00:00</lastmod>
   </url>
   
   <url>
@@ -2231,6 +2236,12 @@
   <url>
     <loc>https://inajob.github.io/iroiro-review/tags/%E4%BD%9C%E4%BE%8B/</loc>
     <lastmod>2020-04-06T23:00:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/tags/%E5%85%A5%E5%8A%9B/</loc>
+    <lastmod>2020-08-05T23:00:16+00:00</lastmod>
     <priority>0</priority>
   </url>
   

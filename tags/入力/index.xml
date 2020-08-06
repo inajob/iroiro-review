@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>入力 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E5%85%A5%E5%8A%9B/</link>
+    <description>Recent content in 入力 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 05 Aug 2020 23:00:16 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E5%85%A5%E5%8A%9B/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>画期的な文字入力をサポートするスマートフォンケース</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%94%BB%E6%9C%9F%E7%9A%84%E3%81%AA%E6%96%87%E5%AD%97%E5%85%A5%E5%8A%9B%E3%82%92%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%99%E3%82%8B%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%B9/</link>
+      <pubDate>Wed, 05 Aug 2020 23:00:16 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%94%BB%E6%9C%9F%E7%9A%84%E3%81%AA%E6%96%87%E5%AD%97%E5%85%A5%E5%8A%9B%E3%82%92%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%99%E3%82%8B%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%B9/</guid>
+      <description>TypeCaseから発見。画像もここから転載。
+スマートフォンで文字を打とうとすると、どうしても両手を使うことになってしまいます。しかし、このスマートフォンケース TypeCaseを使うと、スマートフォンを保持している手だけを使って文字入力ができます。
+仕組みとしては5つのボタンが付いたスマートフォンケースとなっており、このボタンの同時押しを検出して文字の入力を行います。
+5つのボタンの組み合わせでアルファベットを表現するのですが、この対応を覚えるのが結構大変そうです。そのために図に示したような「早覚え表」のようなものが用意されています。
+慣れれば、快適に操作できるの・・　かな？</description>
+    </item>
+    
+  </channel>
+</rss>
