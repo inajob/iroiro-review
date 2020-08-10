@@ -6,10 +6,22 @@
     <description>Recent content in inajobがいろいろ紹介するサイトです on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 08 Aug 2020 23:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2020 23:00:15 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>「逆AR？！」バーチャルな表情を演出するHACK</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%80%86ar%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%81%AA%E8%A1%A8%E6%83%85%E3%82%92%E6%BC%94%E5%87%BA%E3%81%99%E3%82%8Bhack/</link>
+      <pubDate>Sun, 09 Aug 2020 23:00:15 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%80%86ar%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%81%AA%E8%A1%A8%E6%83%85%E3%82%92%E6%BC%94%E5%87%BA%E3%81%99%E3%82%8Bhack/</guid>
+      <description>MONSTER M4SK Toon Hatから発見。画像もここから転載。
+写真の通り「目」をコミカルに演出できる「逆AR」なディスプレイです。
+目の前には実際にはハーフミラーが斜め45度に配置されており、帽子のつばの部分にあるディスプレイの映像が反射するようになっているようです。
+シンプルですが応用が利きそうなテクニックです。</description>
+    </item>
     
     <item>
       <title>Seeedが販売する新しいLinuxボード</title>
