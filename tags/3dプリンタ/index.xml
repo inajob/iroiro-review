@@ -6,10 +6,22 @@
     <description>Recent content in 3dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 03 Aug 2020 23:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2020 23:00:45 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3Dプリンタ製のよちよち歩きの手のひらサイズのロボット</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%88%E3%81%A1%E3%82%88%E3%81%A1%E6%AD%A9%E3%81%8D%E3%81%AE%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</link>
+      <pubDate>Mon, 10 Aug 2020 23:00:45 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%88%E3%81%A1%E3%82%88%E3%81%A1%E6%AD%A9%E3%81%8D%E3%81%AE%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
+      <description>Ultimaker Robot &amp;ldquo;Pin Walker&amp;rdquo;.から発見。画像もここから転載。（CC BY-NC-SA By gzumwalt）
+3Dプリンタで作成した、よちよちと歩くロボット型の人形です。
+内部にはギア付きのモーターとリチウムイオン電池が入っており、3Dプリンタで作られたからくりによって左右の足を順番に動かすようにして前に進む動作を実現しています。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタで滑らかな層を作るテクニックが開発中</title>
