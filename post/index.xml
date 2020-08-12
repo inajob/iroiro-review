@@ -6,10 +6,25 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 10 Aug 2020 23:00:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2020 11:00:32 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>LinuxベースのスマートウォッチPineTime</title>
+      <link>https://inajob.github.io/iroiro-review/post/linux%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81pinetime/</link>
+      <pubDate>Wed, 12 Aug 2020 11:00:32 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/linux%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81pinetime/</guid>
+      <description> It’s a Fine Time for PineTime?から発見。画像もここから転載。
+高性能なLinuxボードで有名なPIN64ですが、どうやらスマートウォッチにも進出する予定のようです。
+しかもこのスマートウォッチLinuxベースとのことで、どんなものになるのか楽しみです。（記事をよく読むとどうもFreeRTOSかMbedと書いてあるので Linuxベースというのはちょっと違うのかも？）
+ともかくHackしやすそうなスマートウォッチが登場するのは楽しみです。
+追記(2020/08/12) この記事が書かれてから、しばらく経ち、本家でもDevelopment Kitを販売していたようです。（現在は在庫切れ）
+下記動画ではPythonを使って簡単に開発ができる様子を紹介しています。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタ製のよちよち歩きの手のひらサイズのロボット</title>
