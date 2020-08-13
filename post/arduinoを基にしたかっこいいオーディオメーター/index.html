@@ -8,12 +8,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>
       
-  LinuxベースのスマートウォッチPineTime &ndash; inajobのいろいろレビュー
+  Arduinoを基にしたかっこいいオーディオメーター &ndash; inajobのいろいろレビュー
 
     </title>
     
     
-    <meta name="description" property="og:description" content="PINE64が計画しているLinuxベースのスマートウォッチを紹介します。|">
+    <meta name="description" property="og:description" content="Arduinoを基にしたかっこいいオーディオメーターの作例を紹介します。|">
     
 
     <meta name="apple-mobile-web-app-title" content="inajobのいろいろレビュー">
@@ -22,17 +22,17 @@
     
     
 
-    <meta property="og:title" content="LinuxベースのスマートウォッチPineTime | inajobのいろいろレビュー">
-    <meta property="og:description" content="PINE64が計画しているLinuxベースのスマートウォッチを紹介します。|">
+    <meta property="og:title" content="Arduinoを基にしたかっこいいオーディオメーター | inajobのいろいろレビュー">
+    <meta property="og:description" content="Arduinoを基にしたかっこいいオーディオメーターの作例を紹介します。|">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@ina_ani">
     <meta name="twitter:creator" content="@ina_ani">
-    <meta name="twitter:title" content="LinuxベースのスマートウォッチPineTime | inajobのいろいろレビュー">
-    <meta name="twitter:description" content="PINE64が計画しているLinuxベースのスマートウォッチを紹介します。|">
+    <meta name="twitter:title" content="Arduinoを基にしたかっこいいオーディオメーター | inajobのいろいろレビュー">
+    <meta name="twitter:description" content="Arduinoを基にしたかっこいいオーディオメーターの作例を紹介します。|">
     
-    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/pinetime.jpg">
-    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/pinetime.jpg">
+    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/audio_meter_axo.jpg">
+    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/audio_meter_axo.jpg">
     
     
     <meta name="google-site-verification" content="Wjrrx4mV4IokyVrRy-5rjpG1sfwkjQ-uVRiXhMMXhW8" />
@@ -90,7 +90,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 <div class="Subhead">
   <div class="Subhead-heading">
-    <div class="h1 mt-3 mb-1">LinuxベースのスマートウォッチPineTime</div>
+    <div class="h1 mt-3 mb-1">Arduinoを基にしたかっこいいオーディオメーター</div>
   </div>
   <div class="Subhead-description">
     
@@ -98,8 +98,12 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 
 
-<a href='/iroiro-review/tags/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81' class="muted-link">
-  <span class="Label" style="background-color:#0099dd;">スマートウォッチ</span>
+<a href='/iroiro-review/tags/arduino' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">Arduino</span>
+</a>
+
+<a href='/iroiro-review/tags/%E9%9F%B3%E6%A5%BD' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">音楽</span>
 </a>
 
 
@@ -118,31 +122,37 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <article>
   
   <section class="pb-6 mb-3 border-bottom">
-    <img src="https://inajob.github.io/iroiro-review/img/pinetime.jpg" />
-    
+    <img src="https://inajob.github.io/iroiro-review/img/audio_meter_axo.jpg" />
+    <p><a href="https://www.electrosmash.com/arduino-audio-meter">Arduino Audio Meter</a>から発見。画像もここから転載。</p>
 
-<p><a href="https://www.hackster.io/news/it-s-a-fine-time-for-pinetime-92a9f8ab17f4">It’s a Fine Time for PineTime?</a>から発見。画像もここから転載。</p>
+<p>Arduinoを基にしたかっこいいオーディオメーターの作例です。
+オーディオ信号を受け取って、それに応じでエフェクトを表示します。8x8のドットマトリクスLEDが4つを使った表示は非常にインパクトがあります。</p>
 
-<p>高性能なLinuxボードで有名なPIN64ですが、どうやらスマートウォッチにも進出する予定のようです。</p>
+<p>プロジェクトはオープンソースになっており、好きな動作に変更できます。動画ではゲームを動かしている例なども紹介されています。</p>
 
-<p>しかもこのスマートウォッチLinuxベースとのことで、どんなものになるのか楽しみです。（記事をよく読むとどうもFreeRTOSかMbedと書いてあるので Linuxベースというのはちょっと違うのかも？）</p>
-
-<p>ともかくHackしやすそうなスマートウォッチが登場するのは楽しみです。</p>
-
-<h1 id="追記-2020-08-12">追記(2020/08/12)</h1>
-
-<p>この記事が書かれてから、しばらく経ち、本家でも<a href="https://www.pine64.org/pinetime/">Development Kitを販売していた</a>ようです。（現在は在庫切れ）</p>
-
-<p>下記動画ではPythonを使って簡単に開発ができる様子を紹介しています。</p>
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/tuk9Nmr3Jo8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/IUKeNdt1Qo0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   </section>
 
-  <div><a href="/iroiro-review/post/arduino%E3%82%92%E5%9F%BA%E3%81%AB%E3%81%97%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA%E3%83%A1%E3%83%BC%E3%82%BF%E3%83%BC/">&lt;- 前の記事 - Arduinoを基にしたかっこいいオーディオメーター</a></div>
-  <div style="text-align:right;"><a href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%88%E3%81%A1%E3%82%88%E3%81%A1%E6%AD%A9%E3%81%8D%E3%81%AE%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/">次の記事 - 3Dプリンタ製のよちよち歩きの手のひらサイズのロボット - &gt;</a></div>
+  <div></div>
+  <div style="text-align:right;"><a href="/iroiro-review/post/linux%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81pinetime/">次の記事 - LinuxベースのスマートウォッチPineTime - &gt;</a></div>
 
   
+
+<h3>関連記事</h3>
+<ul>
+  
+  <li><a href="/iroiro-review/post/ay-3-8910%E3%81%A8arduino%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E3%83%81%E3%83%83%E3%83%97%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC/">AY-3-8910とArduinoを組み合わせたチップチューンプレイヤー</a></li>
+  
+  <li><a href="/iroiro-review/post/arduino%E3%82%92%E5%9F%BA%E3%81%AB%E3%81%97%E3%81%9F%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%83%89%E3%83%A9%E3%83%A0%E3%83%9E%E3%82%B7%E3%83%B3/">Arduinoを基にしたコンパクトなドラムマシン</a></li>
+  
+  <li><a href="/iroiro-review/post/%E8%87%AA%E4%BD%9Cmidi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%E3%81%A8%E6%97%A2%E8%A3%BD%E5%93%81%E3%81%A8%E3%81%AE%E6%AF%94%E8%BC%83/">自作MIDIコントローラの作り方と、既製品との比較</a></li>
+  
+  <li><a href="/iroiro-review/post/%E3%83%8D%E3%83%83%E3%82%AF%E3%81%AB%E3%83%90%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E3%82%AE%E3%82%BF%E3%83%BC%E9%A2%A8%E6%A5%BD%E5%99%A8/">ネックにバーコードを搭載したかっこいいギター風楽器</a></li>
+  
+  <li><a href="/iroiro-review/post/arduino%E3%81%A7%E4%BD%9C%E3%82%8B%E5%B7%A8%E5%A4%A7%E3%81%AA%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9/">Arduinoで作る巨大なテトリス</a></li>
+  
+</ul>
 
 
 
@@ -168,7 +178,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           }(document, 'script', 'facebook-jssdk'));</script>
 
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/linux%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81pinetime/" 
+            data-href="/iroiro-review/post/arduino%E3%82%92%E5%9F%BA%E3%81%AB%E3%81%97%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA%E3%83%A1%E3%83%BC%E3%82%BF%E3%83%BC/" 
             data-layout="button_count">
           </div>
         
@@ -201,12 +211,8 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           
   
     <div id="toc" class="Box Box--blue mb-3">
-      <b>LinuxベースのスマートウォッチPineTime</b>
-      <nav id="TableOfContents">
-<ul>
-<li><a href="#追記-2020-08-12">追記(2020/08/12)</a></li>
-</ul>
-</nav>
+      <b>Arduinoを基にしたかっこいいオーディオメーター</b>
+      
     </div>
   
 
@@ -221,7 +227,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
         
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/linux%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81pinetime/" 
+            data-href="/iroiro-review/post/arduino%E3%82%92%E5%9F%BA%E3%81%AB%E3%81%97%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA%E3%83%A1%E3%83%BC%E3%82%BF%E3%83%BC/" 
             data-layout="button_count">
           </div>
         

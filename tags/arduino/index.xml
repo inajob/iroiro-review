@@ -6,10 +6,22 @@
     <description>Recent content in Arduino on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 04 Jul 2020 23:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2020 23:00:34 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arduinoを基にしたかっこいいオーディオメーター</title>
+      <link>https://inajob.github.io/iroiro-review/post/arduino%E3%82%92%E5%9F%BA%E3%81%AB%E3%81%97%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA%E3%83%A1%E3%83%BC%E3%82%BF%E3%83%BC/</link>
+      <pubDate>Wed, 12 Aug 2020 23:00:34 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/arduino%E3%82%92%E5%9F%BA%E3%81%AB%E3%81%97%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA%E3%83%A1%E3%83%BC%E3%82%BF%E3%83%BC/</guid>
+      <description>Arduino Audio Meterから発見。画像もここから転載。
+Arduinoを基にしたかっこいいオーディオメーターの作例です。 オーディオ信号を受け取って、それに応じでエフェクトを表示します。8x8のドットマトリクスLEDが4つを使った表示は非常にインパクトがあります。
+プロジェクトはオープンソースになっており、好きな動作に変更できます。動画ではゲームを動かしている例なども紹介されています。
+ </description>
+    </item>
     
     <item>
       <title>Arduinoで作る巨大なテトリス</title>
