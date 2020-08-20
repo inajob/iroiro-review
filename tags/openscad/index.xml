@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Openscad on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/openscad/</link>
+    <description>Recent content in Openscad on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 19 Aug 2020 23:00:29 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/openscad/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OpenSCADで設計し3Dプリンタを使って鍵を作成する</title>
+      <link>https://inajob.github.io/iroiro-review/post/openscad%E3%81%A7%E8%A8%AD%E8%A8%88%E3%81%973d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E9%8D%B5%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B/</link>
+      <pubDate>Wed, 19 Aug 2020 23:00:29 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/openscad%E3%81%A7%E8%A8%AD%E8%A8%88%E3%81%973d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E9%8D%B5%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B/</guid>
+      <description>Protec 3D Printingから発見。画像もここから転載。
+今や単純な形状の鍵であれば3Dプリンタで簡単に複製が作れてしまうようです。
+この記事では特定の種類の鍵について、鍵のパターンを生成するロジックをOpenSCADのライブラリとして作成し、簡単に3Dプリンタ用の鍵のモデルデータを作成できるということを紹介しています。
+鍵の複製は、ものがあれば今までも比較的簡単にできていましたが、3Dプリンタの普及によりさらに簡単に複製できるようになってきていると言えそうです。</description>
+    </item>
+    
+  </channel>
+</rss>
