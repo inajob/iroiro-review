@@ -6,10 +6,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 22 Aug 2020 23:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2020 23:00:31 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Macintosh風の小型Linuxマシン</title>
+      <link>https://inajob.github.io/iroiro-review/post/macintosh%E9%A2%A8%E3%81%AE%E5%B0%8F%E5%9E%8Blinux%E3%83%9E%E3%82%B7%E3%83%B3/</link>
+      <pubDate>Sun, 23 Aug 2020 23:00:31 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/macintosh%E9%A2%A8%E3%81%AE%E5%B0%8F%E5%9E%8Blinux%E3%83%9E%E3%82%B7%E3%83%B3/</guid>
+      <description>Mac(intosh) miniから発見。画像もここから転載。
+とてもかわいらしいClassic Mac風のガジェットです。中身はOrange Pi Zero Plus2というLinuxボードで、その内部でMacのエミュレータを動かしているようです。
+また低解像度でUIを表示するために内部的にVNCを使って自身の画面を取得し表示しているようです。
+実用的ではないサイズですが、ちゃんと動作するこだわりのあるミニチュアとして面白い作品です。
+成果物はオープンソースで公開されています</description>
+    </item>
     
     <item>
       <title>紅茶バッグをいい感じのタイミングで持ち上げてくれるガジェット</title>
