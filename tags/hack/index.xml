@@ -6,10 +6,22 @@
     <description>Recent content in Hack on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 09 Aug 2020 23:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2020 23:00:59 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>実に簡単に作れる3Dプリンタフィラメントホルダー</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%AE%9F%E3%81%AB%E7%B0%A1%E5%8D%98%E3%81%AB%E4%BD%9C%E3%82%8C%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC/</link>
+      <pubDate>Mon, 24 Aug 2020 23:00:59 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%AE%9F%E3%81%AB%E7%B0%A1%E5%8D%98%E3%81%AB%E4%BD%9C%E3%82%8C%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC/</guid>
+      <description>30 Second 3D Printer Filament Spool Holderから発見。画像もここから転載。
+3Dプリンタのフィラメントのスプールをマウントする「フィラメントホルダー」をお手軽に作っている作例です。
+フィラメントホルダーは、意外と3Dプリントするうえで重要で、引っかかることなく安定してフィラメントを送り出すことが求められます。 また、安物の3Dプリンタだと、簡易的なフィラメントホルダーしかついておらず、自分でも作りたくなる人も多いのではないでしょうか？
+この記事ではフィラメントを買ったら必ずと言っていいほど付属している「箱」を使ってフィラメントホルダーを作っています。サイズもぴったりですし、案外良い方法なのでは？と思いました。</description>
+    </item>
     
     <item>
       <title>「逆AR？！」バーチャルな表情を演出するHACK</title>
