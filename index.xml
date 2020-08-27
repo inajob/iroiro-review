@@ -6,10 +6,20 @@
     <description>Recent content in inajobがいろいろ紹介するサイトです on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 25 Aug 2020 23:00:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2020 11:00:59 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cyberdeck式のLinuxコンソール</title>
+      <link>https://inajob.github.io/iroiro-review/post/cyberdeck%E5%BC%8F%E3%81%AElinux%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Thu, 27 Aug 2020 11:00:59 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/cyberdeck%E5%BC%8F%E3%81%AElinux%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</guid>
+      <description>Build Log: Atreus Deckから発見。画像もここから転載。
+キーボードに小型のディスプレイを搭載したモバイル機器をCyberdeckなどと言うようですが、この記事ではCyberdeckを改良していく様子が紹介されています。筐体をアクリル板にしたり、MDFにしたり、3Dプリンタにしたり、搭載するコンピュータをRaspberry Piにしたり、Androidスマートフォンにしたりと、様々な改良をしている様子が紹介されています。</description>
+    </item>
     
     <item>
       <title>Bluetoothで操作できるパリピ感満載のミストマシーン</title>
