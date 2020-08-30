@@ -6,10 +6,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 27 Aug 2020 11:00:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2020 23:00:14 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ノートパソコン用の自作デュアルディスプレイ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E7%94%A8%E3%81%AE%E8%87%AA%E4%BD%9C%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</link>
+      <pubDate>Sat, 29 Aug 2020 23:00:14 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E7%94%A8%E3%81%AE%E8%87%AA%E4%BD%9C%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</guid>
+      <description>DUAL SCREEN LAPTOP IS A SLICK DIY BUILDから発見。画像もここから転載。
+写真の通り、ノートパソコンにくっつけられるデュアルディスプレイの紹介です。
+アルミ板、ディスプレイパネル、ドライバボード、3Dプリンタによるベゼル・ヒンジ、バッテリーなどを綺麗にまとめて、写真のような完成度の高いセカンドディスプレイを作成しています。
+ノートパソコンの上側にディスプレイを増設するというアイデアが非常に面白いです。 また、動画では細かいTipsもたくさん紹介されており、完成度が高い工作をする際の参考になります。
+ </description>
+    </item>
     
     <item>
       <title>Cyberdeck式のLinuxコンソール</title>
