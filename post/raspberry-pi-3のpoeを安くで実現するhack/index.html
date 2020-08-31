@@ -8,12 +8,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>
       
-  ノートパソコン用の自作デュアルディスプレイ &ndash; inajobのいろいろレビュー
+  Raspberry Pi 3のPoEを安くで実現するHACK &ndash; inajobのいろいろレビュー
 
     </title>
     
     
-    <meta name="description" property="og:description" content="ノートパソコンで利用するためのデュアルディスプレイの作例を紹介します。|">
+    <meta name="description" property="og:description" content="Raspberry Pi 3でPoEを安くで実現する方法を紹介します。|">
     
 
     <meta name="apple-mobile-web-app-title" content="inajobのいろいろレビュー">
@@ -22,17 +22,17 @@
     
     
 
-    <meta property="og:title" content="ノートパソコン用の自作デュアルディスプレイ | inajobのいろいろレビュー">
-    <meta property="og:description" content="ノートパソコンで利用するためのデュアルディスプレイの作例を紹介します。|">
+    <meta property="og:title" content="Raspberry Pi 3のPoEを安くで実現するHACK | inajobのいろいろレビュー">
+    <meta property="og:description" content="Raspberry Pi 3でPoEを安くで実現する方法を紹介します。|">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@ina_ani">
     <meta name="twitter:creator" content="@ina_ani">
-    <meta name="twitter:title" content="ノートパソコン用の自作デュアルディスプレイ | inajobのいろいろレビュー">
-    <meta name="twitter:description" content="ノートパソコンで利用するためのデュアルディスプレイの作例を紹介します。|">
+    <meta name="twitter:title" content="Raspberry Pi 3のPoEを安くで実現するHACK | inajobのいろいろレビュー">
+    <meta name="twitter:description" content="Raspberry Pi 3でPoEを安くで実現する方法を紹介します。|">
     
-    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/laptopdoublescreen800.jpg">
-    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/laptopdoublescreen800.jpg">
+    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/poor-poe.jpg">
+    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/poor-poe.jpg">
     
     
     <meta name="google-site-verification" content="Wjrrx4mV4IokyVrRy-5rjpG1sfwkjQ-uVRiXhMMXhW8" />
@@ -90,7 +90,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 <div class="Subhead">
   <div class="Subhead-heading">
-    <div class="h1 mt-3 mb-1">ノートパソコン用の自作デュアルディスプレイ</div>
+    <div class="h1 mt-3 mb-1">Raspberry Pi 3のPoEを安くで実現するHACK</div>
   </div>
   <div class="Subhead-description">
     
@@ -98,21 +98,17 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 
 
-<a href='/iroiro-review/tags/diy' class="muted-link">
-  <span class="Label" style="background-color:#0099dd;">DIY</span>
-</a>
-
-<a href='/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF' class="muted-link">
-  <span class="Label" style="background-color:#0099dd;">3Dプリンタ</span>
+<a href='/iroiro-review/tags/raspberrypi' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">RaspberryPi</span>
 </a>
 
 
 
     
     <div class="float-md-right">
-      <span title="Lastmod: 2020-08-29. Published at: 2020-08-29.">
+      <span title="Lastmod: 2020-08-30. Published at: 2020-08-30.">
         
-          Published: 2020-08-29
+          Published: 2020-08-30
         
       </span>
     </div>
@@ -122,37 +118,33 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <article>
   
   <section class="pb-6 mb-3 border-bottom">
-    <img src="https://inajob.github.io/iroiro-review/img/laptopdoublescreen800.jpg" />
-    <p><a href="https://hackaday.com/2019/09/28/dual-screen-laptop-is-a-slick-diy-build/">DUAL SCREEN LAPTOP IS A SLICK DIY BUILD</a>から発見。画像もここから転載。</p>
+    <img src="https://inajob.github.io/iroiro-review/img/poor-poe.jpg" />
+    <p><a href="http://albert-david.blogspot.com/2019/09/poor-mans-poe-for-raspberry-pi-3-under-2.html">Poor man&rsquo;s PoE for Raspberry pi-<sup>3</sup>&frasl;<sub>4</sub> under ~$2</a>から発見。画像もここから転載。</p>
 
-<p>写真の通り、ノートパソコンにくっつけられるデュアルディスプレイの紹介です。</p>
+<p>最近のRaspberry piはLANケーブルから電源を供給するPoEをサポートしています。
+しかし、通常PoEを利用するためには、専用のボード（PoE Hat）を取り付ける必要があります。</p>
 
-<p>アルミ板、ディスプレイパネル、ドライバボード、3Dプリンタによるベゼル・ヒンジ、バッテリーなどを綺麗にまとめて、写真のような完成度の高いセカンドディスプレイを作成しています。</p>
+<p>この記事では、もっと簡単にPoEを実現する方法を紹介しています。</p>
 
-<p>ノートパソコンの上側にディスプレイを増設するというアイデアが非常に面白いです。
-また、動画では細かいTipsもたくさん紹介されており、完成度が高い工作をする際の参考になります。</p>
+<p>単純にPoEで供給される電力をDC-DCコンバータで5Vに降圧して、RaspberryPiの電源に接続しています。</p>
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/J2aY6cvk-WI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>PoE Hatを見ると回路はもっと複雑なものとなっていることから、ここで紹介している方法はPoE Hatのものとは違うアプローチのようなので、利用する際にはPoEについて詳しく学んだうえで実施するのがよさそうです。</p>
 
   </section>
 
-  <div><a href="/iroiro-review/post/raspberry-pi-3%E3%81%AEpoe%E3%82%92%E5%AE%89%E3%81%8F%E3%81%A7%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8Bhack/">&lt;- 前の記事 - Raspberry Pi 3のPoEを安くで実現するHACK</a></div>
-  <div style="text-align:right;"><a href="/iroiro-review/post/cyberdeck%E5%BC%8F%E3%81%AElinux%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/">次の記事 - Cyberdeck式のLinuxコンソール - &gt;</a></div>
+  <div></div>
+  <div style="text-align:right;"><a href="/iroiro-review/post/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E7%94%A8%E3%81%AE%E8%87%AA%E4%BD%9C%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/">次の記事 - ノートパソコン用の自作デュアルディスプレイ - &gt;</a></div>
 
   
 
 <h3>関連記事</h3>
 <ul>
   
-  <li><a href="/iroiro-review/post/bluetooth%E3%81%A7%E6%93%8D%E4%BD%9C%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%91%E3%83%AA%E3%83%94%E6%84%9F%E6%BA%80%E8%BC%89%E3%81%AE%E3%83%9F%E3%82%B9%E3%83%88%E3%83%9E%E3%82%B7%E3%83%BC%E3%83%B3/">Bluetoothで操作できるパリピ感満載のミストマシーン</a></li>
+  <li><a href="/iroiro-review/post/raspberrypi4%E3%81%ABpci-express%E3%83%9D%E3%83%BC%E3%83%88%E3%82%92%E5%A2%97%E3%82%84%E3%81%99%E3%82%88%E3%82%8A%E7%B0%A1%E5%8D%98%E3%81%AA%E6%96%B9%E6%B3%95%E3%81%8C%E7%B7%A8%E3%81%BF%E5%87%BA%E3%81%95%E3%82%8C%E3%82%8B/">RaspberryPi4にPCI Expressポートを増やす、さらに簡単な方法が編み出される</a></li>
   
-  <li><a href="/iroiro-review/post/%E5%AE%9F%E3%81%AB%E7%B0%A1%E5%8D%98%E3%81%AB%E4%BD%9C%E3%82%8C%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC/">実に簡単に作れる3Dプリンタフィラメントホルダー</a></li>
+  <li><a href="/iroiro-review/post/%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E5%9F%BA%E3%81%AB%E3%81%97%E3%81%9F%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/">ライフゲームを基にしたシンセサイザー</a></li>
   
-  <li><a href="/iroiro-review/post/macintosh%E9%A2%A8%E3%81%AE%E5%B0%8F%E5%9E%8Blinux%E3%83%9E%E3%82%B7%E3%83%B3/">Macintosh風の小型Linuxマシン</a></li>
-  
-  <li><a href="/iroiro-review/post/%E7%B4%85%E8%8C%B6%E3%83%90%E3%83%83%E3%82%B0%E3%82%92%E3%81%84%E3%81%84%E6%84%9F%E3%81%98%E3%81%AE%E3%82%BF%E3%82%A4%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%A7%E6%8C%81%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/">紅茶バッグをいい感じのタイミングで持ち上げてくれるガジェット</a></li>
-  
-  <li><a href="/iroiro-review/post/openscad%E3%81%A7%E8%A8%AD%E8%A8%88%E3%81%973d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E9%8D%B5%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B/">OpenSCADで設計し3Dプリンタを使って鍵を作成する</a></li>
+  <li><a href="/iroiro-review/post/%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%B8%80%E4%BD%93%E5%9E%8B%E3%81%AEraspberrypi%E7%AB%AF%E6%9C%AB/">キーボード一体型のRaspberryPi端末</a></li>
   
 </ul>
 
@@ -180,7 +172,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           }(document, 'script', 'facebook-jssdk'));</script>
 
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E7%94%A8%E3%81%AE%E8%87%AA%E4%BD%9C%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/" 
+            data-href="/iroiro-review/post/raspberry-pi-3%E3%81%AEpoe%E3%82%92%E5%AE%89%E3%81%8F%E3%81%A7%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8Bhack/" 
             data-layout="button_count">
           </div>
         
@@ -213,7 +205,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           
   
     <div id="toc" class="Box Box--blue mb-3">
-      <b>ノートパソコン用の自作デュアルディスプレイ</b>
+      <b>Raspberry Pi 3のPoEを安くで実現するHACK</b>
       
     </div>
   
@@ -229,7 +221,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
         
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E7%94%A8%E3%81%AE%E8%87%AA%E4%BD%9C%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/" 
+            data-href="/iroiro-review/post/raspberry-pi-3%E3%81%AEpoe%E3%82%92%E5%AE%89%E3%81%8F%E3%81%A7%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8Bhack/" 
             data-layout="button_count">
           </div>
         
