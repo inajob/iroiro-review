@@ -6,10 +6,24 @@
     <description>Recent content in Attiny on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 20 Jul 2020 23:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2020 23:00:57 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/attiny/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>UPDI用の書き込みボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/updi%E7%94%A8%E3%81%AE%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Wed, 02 Sep 2020 23:00:57 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/updi%E7%94%A8%E3%81%AE%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>UPDI Programmer Stickから発見。画像もここから転載。
+新しいATtinyシリーズはブートローダーの書き換え方法が今までのICSPとは違いUDPIというプロトコルになっています。
+一度書き込んでArduino化してしまえばそれ以降はシリアルで書き換えられる点は今までと同じですが、初回はこのUDPIを使ってブートローダを書き換える必要があります。
+そこで必要となるのがUDPIライターです。もちろん公式のライターを使うというのが一番良いのでしょうが、この記事ではUDPIライターを自作しています。
+UDPIライターの実体はArduino UNO互換の基板で、ソフトウェアとしては、jtag2udpiを使っています。
+つまり手元にArduino UNOがあればだれでも比較的簡単にUDPIライターが作れるということです。 とはいえ、この記事で紹介されているライターは非常にコンパクトで、新しいATTinyの開発のお供として非常に魅力的です。</description>
+    </item>
     
     <item>
       <title>新しいATtinyシリーズでLispを動かす</title>

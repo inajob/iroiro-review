@@ -8,12 +8,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>
       
-  USB Type-C周りの回路図 &ndash; inajobのいろいろレビュー
+  UPDI用の書き込みボード &ndash; inajobのいろいろレビュー
 
     </title>
     
     
-    <meta name="description" property="og:description" content="USB Type-Cを利用するための回路図を紹介します。|">
+    <meta name="description" property="og:description" content="新しいATtinyに書き込むために使えるUPDI書き込み器の作例を紹介します。|">
     
 
     <meta name="apple-mobile-web-app-title" content="inajobのいろいろレビュー">
@@ -22,17 +22,17 @@
     
     
 
-    <meta property="og:title" content="USB Type-C周りの回路図 | inajobのいろいろレビュー">
-    <meta property="og:description" content="USB Type-Cを利用するための回路図を紹介します。|">
+    <meta property="og:title" content="UPDI用の書き込みボード | inajobのいろいろレビュー">
+    <meta property="og:description" content="新しいATtinyに書き込むために使えるUPDI書き込み器の作例を紹介します。|">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@ina_ani">
     <meta name="twitter:creator" content="@ina_ani">
-    <meta name="twitter:title" content="USB Type-C周りの回路図 | inajobのいろいろレビュー">
-    <meta name="twitter:description" content="USB Type-Cを利用するための回路図を紹介します。|">
+    <meta name="twitter:title" content="UPDI用の書き込みボード | inajobのいろいろレビュー">
+    <meta name="twitter:description" content="新しいATtinyに書き込むために使えるUPDI書き込み器の作例を紹介します。|">
     
-    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/usbccct-600x483.png">
-    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/usbccct-600x483.png">
+    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/updiprogrammerstick.jpg">
+    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/updiprogrammerstick.jpg">
     
     
     <meta name="google-site-verification" content="Wjrrx4mV4IokyVrRy-5rjpG1sfwkjQ-uVRiXhMMXhW8" />
@@ -90,7 +90,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 <div class="Subhead">
   <div class="Subhead-heading">
-    <div class="h1 mt-3 mb-1">USB Type-C周りの回路図</div>
+    <div class="h1 mt-3 mb-1">UPDI用の書き込みボード</div>
   </div>
   <div class="Subhead-description">
     
@@ -98,21 +98,21 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 
 
-<a href='/iroiro-review/tags/hack' class="muted-link">
-  <span class="Label" style="background-color:#0099dd;">HACK</span>
+<a href='/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">開発ボード</span>
 </a>
 
-<a href='/iroiro-review/tags/usb' class="muted-link">
-  <span class="Label" style="background-color:#0099dd;">usb</span>
+<a href='/iroiro-review/tags/attiny' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">ATtiny</span>
 </a>
 
 
 
     
     <div class="float-md-right">
-      <span title="Lastmod: 2020-09-01. Published at: 2020-09-01.">
+      <span title="Lastmod: 2020-09-02. Published at: 2020-09-02.">
         
-          Published: 2020-09-01
+          Published: 2020-09-02
         
       </span>
     </div>
@@ -122,36 +122,39 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <article>
   
   <section class="pb-6 mb-3 border-bottom">
-    <img src="https://inajob.github.io/iroiro-review/img/usbccct-600x483.png" />
-    <p><a href="http://dangerousprototypes.com/blog/2019/10/14/bus-pirate-love-the-usb-c-connector/">BUS PIRATE: Love the USB C connector!</a>から発見。画像もここから転載。</p>
+    <img src="https://inajob.github.io/iroiro-review/img/updiprogrammerstick.jpg" />
+    <p><a href="http://www.technoblogy.com/show?2OJT">UPDI Programmer Stick</a>から発見。画像もここから転載。</p>
 
-<p>最近はUSB Type-Cの付いた製品をよく見かけるようになってきました。
-一方で以前からよく使われていたマイクロUSBコネクタはもげやすく、できれば使いたくありません。</p>
+<p>新しいATtinyシリーズはブートローダーの書き換え方法が今までのICSPとは違いUDPIというプロトコルになっています。</p>
 
-<p>ということで特にUSB3.0の特殊な機能を使うことはしないが、今までの信号線としてのUSBをType-Cコネクタで実現したい、という需要が結構あるわけです。</p>
+<p>一度書き込んでArduino化してしまえばそれ以降はシリアルで書き換えられる点は今までと同じですが、初回はこのUDPIを使ってブートローダを書き換える必要があります。</p>
 
-<p>この記事ではUSBのType-Cコネクタの結線方法について回路図を用いて説明しています。
-はんだ付けはちょっとつらそうですが、これを基にあなたの基板のUSB端子もType-Cにしてみませんか？</p>
+<p>そこで必要となるのがUDPIライターです。もちろん公式のライターを使うというのが一番良いのでしょうが、この記事ではUDPIライターを自作しています。</p>
+
+<p>UDPIライターの実体はArduino UNO互換の基板で、ソフトウェアとしては、<a href="https://github.com/SpenceKonde/jtag2updi">jtag2udpi</a>を使っています。</p>
+
+<p>つまり手元にArduino UNOがあればだれでも比較的簡単にUDPIライターが作れるということです。
+とはいえ、この記事で紹介されているライターは非常にコンパクトで、新しいATTinyの開発のお供として非常に魅力的です。</p>
 
   </section>
 
-  <div><a href="/iroiro-review/post/updi%E7%94%A8%E3%81%AE%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF%E3%83%9C%E3%83%BC%E3%83%89/">&lt;- 前の記事 - UPDI用の書き込みボード</a></div>
-  <div style="text-align:right;"><a href="/iroiro-review/post/%E6%9C%AC%E7%89%A9%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E6%88%A6%E8%BB%8A%E6%A8%A1%E5%9E%8B/">次の記事 - 本物サイズの3Dプリンタ製の戦車模型 - &gt;</a></div>
+  <div></div>
+  <div style="text-align:right;"><a href="/iroiro-review/post/usb-type-c%E5%91%A8%E3%82%8A%E3%81%AE%E5%9B%9E%E8%B7%AF%E5%9B%B3/">次の記事 - USB Type-C周りの回路図 - &gt;</a></div>
 
   
 
 <h3>関連記事</h3>
 <ul>
   
-  <li><a href="/iroiro-review/post/%E5%AE%9F%E3%81%AB%E7%B0%A1%E5%8D%98%E3%81%AB%E4%BD%9C%E3%82%8C%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC/">実に簡単に作れる3Dプリンタフィラメントホルダー</a></li>
+  <li><a href="/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E9%9B%BB%E5%AD%90%E3%83%96%E3%83%83%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC/">オープンソースの電子ブックリーダー</a></li>
   
-  <li><a href="/iroiro-review/post/%E9%80%86ar%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%81%AA%E8%A1%A8%E6%83%85%E3%82%92%E6%BC%94%E5%87%BA%E3%81%99%E3%82%8Bhack/">「逆AR？！」バーチャルな表情を演出するHACK</a></li>
+  <li><a href="/iroiro-review/post/%E7%B5%90%E6%A7%8B%E5%B0%8F%E5%9E%8B%E3%81%AEcircuitpython%E3%81%8C%E5%8B%95%E3%81%8F%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/">結構小型のCircuitPythonが動く開発ボード</a></li>
   
-  <li><a href="/iroiro-review/post/%E7%94%BB%E6%9C%9F%E7%9A%84%E3%81%AA%E6%96%87%E5%AD%97%E5%85%A5%E5%8A%9B%E3%82%92%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%99%E3%82%8B%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%B9/">画期的な文字入力をサポートするスマートフォンケース</a></li>
+  <li><a href="/iroiro-review/post/usb-c%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%81%AE%E4%BB%98%E3%81%84%E3%81%9Farduino-micro%E3%83%9C%E3%83%BC%E3%83%89/">USB-Cコネクタの付いたArduino Microボード</a></li>
   
-  <li><a href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E6%BB%91%E3%82%89%E3%81%8B%E3%81%AA%E5%B1%A4%E3%82%92%E4%BD%9C%E3%82%8B%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF%E3%81%8C%E9%96%8B%E7%99%BA%E4%B8%AD/">3Dプリンタで滑らかな層を作るテクニックが開発中</a></li>
+  <li><a href="/iroiro-review/post/esp32%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%AA%E3%83%A2%E3%82%B3%E3%83%B3%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E4%BB%98%E3%81%8D%E3%83%9C%E3%83%BC%E3%83%89/">ESP32を使ったリモコンサイズのディスプレイ付きボード</a></li>
   
-  <li><a href="/iroiro-review/post/%E3%83%81%E3%83%BC%E3%82%BA%E5%89%8A%E3%82%8A%E5%99%A8%E3%81%AE%E3%82%88%E3%81%86%E3%81%AAmac-pro%E3%82%92%E3%83%81%E3%83%BC%E3%82%BA%E5%89%8A%E3%82%8A%E5%99%A8%E3%81%AB%E6%94%B9%E9%80%A0/">チーズ削り器のようなMac Proをチーズ削り器に改造</a></li>
+  <li><a href="/iroiro-review/post/%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85%E3%81%AE%E3%83%91%E3%83%BC%E3%83%84%E3%82%82%E6%90%AD%E8%BC%89%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB%E5%9F%BA%E6%9D%BF/">表面実装のパーツも搭載できるユニバーサル基板</a></li>
   
 </ul>
 
@@ -179,7 +182,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           }(document, 'script', 'facebook-jssdk'));</script>
 
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/usb-type-c%E5%91%A8%E3%82%8A%E3%81%AE%E5%9B%9E%E8%B7%AF%E5%9B%B3/" 
+            data-href="/iroiro-review/post/updi%E7%94%A8%E3%81%AE%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF%E3%83%9C%E3%83%BC%E3%83%89/" 
             data-layout="button_count">
           </div>
         
@@ -212,7 +215,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           
   
     <div id="toc" class="Box Box--blue mb-3">
-      <b>USB Type-C周りの回路図</b>
+      <b>UPDI用の書き込みボード</b>
       
     </div>
   
@@ -228,7 +231,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
         
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/usb-type-c%E5%91%A8%E3%82%8A%E3%81%AE%E5%9B%9E%E8%B7%AF%E5%9B%B3/" 
+            data-href="/iroiro-review/post/updi%E7%94%A8%E3%81%AE%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF%E3%83%9C%E3%83%BC%E3%83%89/" 
             data-layout="button_count">
           </div>
         
