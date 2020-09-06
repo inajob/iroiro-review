@@ -8,12 +8,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>
       
-  UPDI用の書き込みボード &ndash; inajobのいろいろレビュー
+  小型の携帯ゲーム機Spark &ndash; inajobのいろいろレビュー
 
     </title>
     
     
-    <meta name="description" property="og:description" content="新しいATtinyに書き込むために使えるUPDI書き込み器の作例を紹介します。|">
+    <meta name="description" property="og:description" content="小型のOLEDを搭載した携帯ゲーム機「Spark」を紹介します。|">
     
 
     <meta name="apple-mobile-web-app-title" content="inajobのいろいろレビュー">
@@ -22,17 +22,17 @@
     
     
 
-    <meta property="og:title" content="UPDI用の書き込みボード | inajobのいろいろレビュー">
-    <meta property="og:description" content="新しいATtinyに書き込むために使えるUPDI書き込み器の作例を紹介します。|">
+    <meta property="og:title" content="小型の携帯ゲーム機Spark | inajobのいろいろレビュー">
+    <meta property="og:description" content="小型のOLEDを搭載した携帯ゲーム機「Spark」を紹介します。|">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@ina_ani">
     <meta name="twitter:creator" content="@ina_ani">
-    <meta name="twitter:title" content="UPDI用の書き込みボード | inajobのいろいろレビュー">
-    <meta name="twitter:description" content="新しいATtinyに書き込むために使えるUPDI書き込み器の作例を紹介します。|">
+    <meta name="twitter:title" content="小型の携帯ゲーム機Spark | inajobのいろいろレビュー">
+    <meta name="twitter:description" content="小型のOLEDを搭載した携帯ゲーム機「Spark」を紹介します。|">
     
-    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/updiprogrammerstick.jpg">
-    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/updiprogrammerstick.jpg">
+    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/spark-game.png">
+    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/spark-game.png">
     
     
     <meta name="google-site-verification" content="Wjrrx4mV4IokyVrRy-5rjpG1sfwkjQ-uVRiXhMMXhW8" />
@@ -90,7 +90,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 <div class="Subhead">
   <div class="Subhead-heading">
-    <div class="h1 mt-3 mb-1">UPDI用の書き込みボード</div>
+    <div class="h1 mt-3 mb-1">小型の携帯ゲーム機Spark</div>
   </div>
   <div class="Subhead-description">
     
@@ -98,21 +98,21 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 
 
-<a href='/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89' class="muted-link">
-  <span class="Label" style="background-color:#0099dd;">開発ボード</span>
+<a href='/iroiro-review/tags/%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">ゲーム機</span>
 </a>
 
-<a href='/iroiro-review/tags/attiny' class="muted-link">
-  <span class="Label" style="background-color:#0099dd;">ATtiny</span>
+<a href='/iroiro-review/tags/atmega32u4' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">atmega32u4</span>
 </a>
 
 
 
     
     <div class="float-md-right">
-      <span title="Lastmod: 2020-09-02. Published at: 2020-09-02.">
+      <span title="Lastmod: 2020-09-05. Published at: 2020-09-05.">
         
-          Published: 2020-09-02
+          Published: 2020-09-05
         
       </span>
     </div>
@@ -122,39 +122,36 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <article>
   
   <section class="pb-6 mb-3 border-bottom">
-    <img src="https://inajob.github.io/iroiro-review/img/updiprogrammerstick.jpg" />
-    <p><a href="http://www.technoblogy.com/show?2OJT">UPDI Programmer Stick</a>から発見。画像もここから転載。</p>
+    <img src="https://inajob.github.io/iroiro-review/img/spark-game.png" />
+    <p><a href="https://hackaday.io/project/168134-spark-handheld-video-game-kit">Spark Handheld Video Game Kit</a>から発見。画像もここから転載。</p>
 
-<p>新しいATtinyシリーズはブートローダーの書き換え方法が今までのICSPとは違いUDPIというプロトコルになっています。</p>
+<p>Sparkは手のひらサイズのポータブルゲーム機です。コアとなるCPUはAtmega32u4で、128x64のモノクロOLED、スピーカーを搭載しています。</p>
 
-<p>一度書き込んでArduino化してしまえばそれ以降はシリアルで書き換えられる点は今までと同じですが、初回はこのUDPIを使ってブートローダを書き換える必要があります。</p>
+<p>バッテリーはCR2032です。スペックはほぼArduboyと同じなので、Arduboy用のゲームであれば簡単動かすことができそうです。（ディスプレイがI2C接続なのでArduboyとは違います。）</p>
 
-<p>そこで必要となるのがUDPIライターです。もちろん公式のライターを使うというのが一番良いのでしょうが、この記事ではUDPIライターを自作しています。</p>
+<p>回路図も公開されているので、似たようなものが作りたい人は要チェックです。</p>
 
-<p>UDPIライターの実体はArduino UNO互換の基板で、ソフトウェアとしては、<a href="https://github.com/SpenceKonde/jtag2updi">jtag2udpi</a>を使っています。</p>
-
-<p>つまり手元にArduino UNOがあればだれでも比較的簡単にUDPIライターが作れるということです。
-とはいえ、この記事で紹介されているライターは非常にコンパクトで、新しいATTinyの開発のお供として非常に魅力的です。</p>
+<p>OLEDのフレキケーブルをそのまま基板にはんだ付けするスタイルのゲーム基板は作るのは大変そうですが、コンパクトな筐体を実現することができます。</p>
 
   </section>
 
-  <div><a href="/iroiro-review/post/%E5%B0%8F%E5%9E%8B%E3%81%AE%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9Fspark/">&lt;- 前の記事 - 小型の携帯ゲーム機Spark</a></div>
-  <div style="text-align:right;"><a href="/iroiro-review/post/usb-type-c%E5%91%A8%E3%82%8A%E3%81%AE%E5%9B%9E%E8%B7%AF%E5%9B%B3/">次の記事 - USB Type-C周りの回路図 - &gt;</a></div>
+  <div></div>
+  <div style="text-align:right;"><a href="/iroiro-review/post/updi%E7%94%A8%E3%81%AE%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF%E3%83%9C%E3%83%BC%E3%83%89/">次の記事 - UPDI用の書き込みボード - &gt;</a></div>
 
   
 
 <h3>関連記事</h3>
 <ul>
   
-  <li><a href="/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E9%9B%BB%E5%AD%90%E3%83%96%E3%83%83%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC/">オープンソースの電子ブックリーダー</a></li>
+  <li><a href="/iroiro-review/post/10%E4%BA%BA%E5%AF%BE%E6%88%A6%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E8%87%AA%E4%BD%9C%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/">10人対戦ができる自作ゲーム機</a></li>
   
-  <li><a href="/iroiro-review/post/%E7%B5%90%E6%A7%8B%E5%B0%8F%E5%9E%8B%E3%81%AEcircuitpython%E3%81%8C%E5%8B%95%E3%81%8F%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/">結構小型のCircuitPythonが動く開発ボード</a></li>
+  <li><a href="/iroiro-review/post/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA8x8%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/">シンプルな8x8ドットマトリクスのゲーム機</a></li>
   
-  <li><a href="/iroiro-review/post/usb-c%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%81%AE%E4%BB%98%E3%81%84%E3%81%9Farduino-micro%E3%83%9C%E3%83%BC%E3%83%89/">USB-Cコネクタの付いたArduino Microボード</a></li>
+  <li><a href="/iroiro-review/post/%E3%81%AA%E3%81%9C%E4%BD%9C%E3%81%A3%E3%81%9F%E7%82%8E%E3%81%8C%E5%99%B4%E3%81%8D%E5%87%BA%E3%81%99nintendo64/">なぜ作った！？炎が噴き出すNintendo64</a></li>
   
-  <li><a href="/iroiro-review/post/esp32%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%AA%E3%83%A2%E3%82%B3%E3%83%B3%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E4%BB%98%E3%81%8D%E3%83%9C%E3%83%BC%E3%83%89/">ESP32を使ったリモコンサイズのディスプレイ付きボード</a></li>
+  <li><a href="/iroiro-review/post/%E3%83%AC%E3%83%88%E3%83%AD%E3%83%A9%E3%82%B8%E3%82%AA%E9%A2%A8%E3%81%AEraspberrypi%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/">レトロラジオ風のRaspberryPiゲームコンソール</a></li>
   
-  <li><a href="/iroiro-review/post/%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85%E3%81%AE%E3%83%91%E3%83%BC%E3%83%84%E3%82%82%E6%90%AD%E8%BC%89%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB%E5%9F%BA%E6%9D%BF/">表面実装のパーツも搭載できるユニバーサル基板</a></li>
+  <li><a href="/iroiro-review/post/arduboy%E4%BA%92%E6%8F%9B%E3%81%AE%E3%82%AD%E3%83%83%E3%83%88%E5%BC%8F%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/">Arduboy互換のキット式のゲーム機</a></li>
   
 </ul>
 
@@ -182,7 +179,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           }(document, 'script', 'facebook-jssdk'));</script>
 
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/updi%E7%94%A8%E3%81%AE%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF%E3%83%9C%E3%83%BC%E3%83%89/" 
+            data-href="/iroiro-review/post/%E5%B0%8F%E5%9E%8B%E3%81%AE%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9Fspark/" 
             data-layout="button_count">
           </div>
         
@@ -215,7 +212,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           
   
     <div id="toc" class="Box Box--blue mb-3">
-      <b>UPDI用の書き込みボード</b>
+      <b>小型の携帯ゲーム機Spark</b>
       
     </div>
   
@@ -231,7 +228,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
         
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/updi%E7%94%A8%E3%81%AE%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF%E3%83%9C%E3%83%BC%E3%83%89/" 
+            data-href="/iroiro-review/post/%E5%B0%8F%E5%9E%8B%E3%81%AE%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9Fspark/" 
             data-layout="button_count">
           </div>
         
