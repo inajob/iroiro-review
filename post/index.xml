@@ -6,10 +6,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 06 Sep 2020 23:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2020 23:00:33 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3Dプリンタ製のモジュラー式ピンポン玉ドットマトリクスLED</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%A9%E3%83%BC%E5%BC%8F%E3%83%94%E3%83%B3%E3%83%9D%E3%83%B3%E7%8E%89%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led/</link>
+      <pubDate>Mon, 07 Sep 2020 23:00:33 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%A9%E3%83%BC%E5%BC%8F%E3%83%94%E3%83%B3%E3%83%9D%E3%83%B3%E7%8E%89%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led/</guid>
+      <description>3D Printed Modular LED Wallから発見。画像もここから転載。(CC BY-NC-SA By DrPEX)
+ピンポン玉を反射材として利用するフルカラーのLEDの作例をよく目にするようになってきました。
+この記事で紹介しているのは8x8サイズを基本とした拡張可能なピンポン玉ドットマトリクスLEDボードです。
+3Dプリンタを利用して作成したこのモジュールを使うことで簡単に好きな大きさのディスプレイを作成することができます。 ジョイント部分は2つの円をくっつけたような部品をハンマーでジグソーパズルのようにはめ込むようになっており、こんなものでうまくくっつけられるのか？とちょっと試してみたいなと思いました。
+ </description>
+    </item>
     
     <item>
       <title>ゆるゆるとした線に味があるシンプルなペンプロッタ</title>
