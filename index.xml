@@ -6,10 +6,23 @@
     <description>Recent content in inajobがいろいろ紹介するサイトです on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 08 Sep 2020 23:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2020 23:00:09 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>アイロンビーズドット絵生成器</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%82%A4%E3%83%AD%E3%83%B3%E3%83%93%E3%83%BC%E3%82%BA%E3%83%89%E3%83%83%E3%83%88%E7%B5%B5%E7%94%9F%E6%88%90%E5%99%A8/</link>
+      <pubDate>Wed, 09 Sep 2020 23:00:09 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%82%A4%E3%83%AD%E3%83%B3%E3%83%93%E3%83%BC%E3%82%BA%E3%83%89%E3%83%83%E3%83%88%E7%B5%B5%E7%94%9F%E6%88%90%E5%99%A8/</guid>
+      <description>PERLER PRINTER PUSHES PIXEL-ART LIKE NO SPRITE ARTIST COULDから発見。画像もここから転載。
+アイロンビーズでドット絵を作っている作例を見たことがあるでしょうか？ 大抵それらの作品はビーズを手で配置しているものです。
+しかしこの記事で紹介しているのは、自動でアイロンビーズを配置し、加熱する、全自動アイロンビーズドット生成器です。
+様々な色のアイロンビーズフィードするための数十本もの管が非常に印象的な機械です。
+ </description>
+    </item>
     
     <item>
       <title>使用済みコーヒー豆を利用して作る丈夫な3Dプリンタ用フィラメント</title>
