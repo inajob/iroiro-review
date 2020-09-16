@@ -6,10 +6,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 14 Sep 2020 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2020 23:00:15 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DIY式のペンプロッタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/diy%E5%BC%8F%E3%81%AE%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</link>
+      <pubDate>Tue, 15 Sep 2020 23:00:15 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/diy%E5%BC%8F%E3%81%AE%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</guid>
+      <description>DIY CNC Writing Machine Using GRBLから発見。画像もここから転載。（CC BY-NC-SA By AsherT）
+手書きプロッタの作例です。木工作、レーザーカッターをうまく組み合わせてかなり実用性の高そうなペンプロッタを実現しています。
+ペンのスプリング部分にはボールペンの芯を使うなど、その辺にあるものをうまく利用しています。
+ </description>
+    </item>
     
     <item>
       <title>表面実装部品をうまく整理するための3Dプリンタ製のケース</title>
