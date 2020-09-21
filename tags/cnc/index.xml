@@ -6,10 +6,22 @@
     <description>Recent content in Cnc on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 17 Jun 2020 23:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2020 23:00:42 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/cnc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>テーブルサイズの大きなCNCマシン</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E5%A4%A7%E3%81%8D%E3%81%AAcnc%E3%83%9E%E3%82%B7%E3%83%B3/</link>
+      <pubDate>Sun, 20 Sep 2020 23:00:42 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E5%A4%A7%E3%81%8D%E3%81%AAcnc%E3%83%9E%E3%82%B7%E3%83%B3/</guid>
+      <description>Low Cost DIY CNC Routerから発見。画像もここから転載。
+机を改造して大きなCNCマシンを作成しています。 これだけ大きなCNCマシンがあればかなり大掛かりな装置を作ることができそうです。
+この大きさ故、結構パワフルな設計が必要です、動力を伝えるためのチェーン、大容量の電源とそれを制御するリレー、埃を吸い取るための掃除機など、まねして作るのは大変そうです。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタで作成したペンプロッタ</title>
