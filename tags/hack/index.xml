@@ -6,10 +6,22 @@
     <description>Recent content in Hack on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 09 Sep 2020 23:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2020 23:00:47 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ダイオードを使った温度センサー</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%80%E3%82%A4%E3%82%AA%E3%83%BC%E3%83%89%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%B8%A9%E5%BA%A6%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/</link>
+      <pubDate>Mon, 21 Sep 2020 23:00:47 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%80%E3%82%A4%E3%82%AA%E3%83%BC%E3%83%89%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%B8%A9%E5%BA%A6%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/</guid>
+      <description>Single Diode Temperature Sensor with Arduino ICU (&amp;amp; reverse-bias leakage)から発見。画像もここから転載。
+温度を測る方法はたくさんありますが、この記事で紹介しているのはダイオードを使う方法です。
+ダイオードにに逆方向に電圧をかけた際の漏れ電流が温度に応じて変化するという性質をつかい、温度を計測します。同じくダイオードを使う方法として順方向の電流が温度に応じて変化する現象を利用するものもありますが、この記事によると、逆方向の漏れ電流を扱うほうがより簡単な回路でかつ高精度な測定ができるとのことです。
+ただし、順方向とは異なり逆方向の漏れ電流は温度に対して非線形の特性を持つため、その温度を知るためには少し込み入った計算が必要となります。またダイオードの種類やロットによっても特性が異なるのでキャリブレーションが必要です。</description>
+    </item>
     
     <item>
       <title>アイロンビーズドット絵生成器</title>
