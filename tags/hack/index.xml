@@ -6,10 +6,23 @@
     <description>Recent content in Hack on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 21 Sep 2020 23:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2020 23:00:20 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MIDI端子に内蔵された超小さいシンセ</title>
+      <link>https://inajob.github.io/iroiro-review/post/midi%E7%AB%AF%E5%AD%90%E3%81%AB%E5%86%85%E8%94%B5%E3%81%95%E3%82%8C%E3%81%9F%E8%B6%85%E5%B0%8F%E3%81%95%E3%81%84%E3%82%B7%E3%83%B3%E3%82%BB/</link>
+      <pubDate>Tue, 22 Sep 2020 23:00:20 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/midi%E7%AB%AF%E5%AD%90%E3%81%AB%E5%86%85%E8%94%B5%E3%81%95%E3%82%8C%E3%81%9F%E8%B6%85%E5%B0%8F%E3%81%95%E3%81%84%E3%82%B7%E3%83%B3%E3%82%BB/</guid>
+      <description>Flash Synthから発見。画像もここから転載。
+写真で示しているのはMIDI端子です。そしてこの中には小さなシンセが内蔵されています。 16の音を同時に演奏でき、電源はMIDI端子から取得します。サンプリングレートは44.1kHzと高音質です。
+コアとなるCPUは省電力なSTM32L432KCです。省スペースを実現するためにフレキシブル基板を利用しているようです。
+その他これを作成するにあたって考えられた様々なトピックが記載されている記事です。
+ </description>
+    </item>
     
     <item>
       <title>ダイオードを使った温度センサー</title>

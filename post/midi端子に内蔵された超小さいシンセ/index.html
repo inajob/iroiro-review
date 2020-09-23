@@ -8,12 +8,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>
       
-  ダイオードを使った温度センサー &ndash; inajobのいろいろレビュー
+  MIDI端子に内蔵された超小さいシンセ &ndash; inajobのいろいろレビュー
 
     </title>
     
     
-    <meta name="description" property="og:description" content="ダイオードの特性を利用し温度センサーとする方法を紹介します。|">
+    <meta name="description" property="og:description" content="MIDI端子に内蔵された超小さな音源の作例を紹介します。|">
     
 
     <meta name="apple-mobile-web-app-title" content="inajobのいろいろレビュー">
@@ -22,17 +22,17 @@
     
     
 
-    <meta property="og:title" content="ダイオードを使った温度センサー | inajobのいろいろレビュー">
-    <meta property="og:description" content="ダイオードの特性を利用し温度センサーとする方法を紹介します。|">
+    <meta property="og:title" content="MIDI端子に内蔵された超小さいシンセ | inajobのいろいろレビュー">
+    <meta property="og:description" content="MIDI端子に内蔵された超小さな音源の作例を紹介します。|">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@ina_ani">
     <meta name="twitter:creator" content="@ina_ani">
-    <meta name="twitter:title" content="ダイオードを使った温度センサー | inajobのいろいろレビュー">
-    <meta name="twitter:description" content="ダイオードの特性を利用し温度センサーとする方法を紹介します。|">
+    <meta name="twitter:title" content="MIDI端子に内蔵された超小さいシンセ | inajobのいろいろレビュー">
+    <meta name="twitter:description" content="MIDI端子に内蔵された超小さな音源の作例を紹介します。|">
     
-    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/diode-temp-sensor.jpg">
-    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/diode-temp-sensor.jpg">
+    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/flash-synth.jpg">
+    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/flash-synth.jpg">
     
     
     <meta name="google-site-verification" content="Wjrrx4mV4IokyVrRy-5rjpG1sfwkjQ-uVRiXhMMXhW8" />
@@ -90,13 +90,17 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 <div class="Subhead">
   <div class="Subhead-heading">
-    <div class="h1 mt-3 mb-1">ダイオードを使った温度センサー</div>
+    <div class="h1 mt-3 mb-1">MIDI端子に内蔵された超小さいシンセ</div>
   </div>
   <div class="Subhead-description">
     
 
 
 
+
+<a href='/iroiro-review/tags/%E9%9F%B3%E6%A5%BD' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">音楽</span>
+</a>
 
 <a href='/iroiro-review/tags/hack' class="muted-link">
   <span class="Label" style="background-color:#0099dd;">HACK</span>
@@ -106,9 +110,9 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
     
     <div class="float-md-right">
-      <span title="Lastmod: 2020-09-21. Published at: 2020-09-21.">
+      <span title="Lastmod: 2020-09-22. Published at: 2020-09-22.">
         
-          Published: 2020-09-21
+          Published: 2020-09-22
         
       </span>
     </div>
@@ -118,24 +122,29 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <article>
   
   <section class="pb-6 mb-3 border-bottom">
-    <img src="https://inajob.github.io/iroiro-review/img/diode-temp-sensor.jpg" />
-    <p><a href="https://thecavepearlproject.org/2019/11/04/single-diode-temperature-sensor-with-arduino-icu-via-reverse-bias-leakage/">Single Diode Temperature Sensor with Arduino ICU (&amp; reverse-bias leakage)</a>から発見。画像もここから転載。</p>
+    <img src="https://inajob.github.io/iroiro-review/img/flash-synth.jpg" />
+    <p><a href="https://mitxela.com/projects/flash_synth">Flash Synth</a>から発見。画像もここから転載。</p>
 
-<p>温度を測る方法はたくさんありますが、この記事で紹介しているのはダイオードを使う方法です。</p>
+<p>写真で示しているのはMIDI端子です。そしてこの中には小さなシンセが内蔵されています。
+16の音を同時に演奏でき、電源はMIDI端子から取得します。サンプリングレートは44.1kHzと高音質です。</p>
 
-<p>ダイオードにに逆方向に電圧をかけた際の漏れ電流が温度に応じて変化するという性質をつかい、温度を計測します。同じくダイオードを使う方法として順方向の電流が温度に応じて変化する現象を利用するものもありますが、この記事によると、逆方向の漏れ電流を扱うほうがより簡単な回路でかつ高精度な測定ができるとのことです。</p>
+<p>コアとなるCPUは省電力なSTM32L432KCです。省スペースを実現するためにフレキシブル基板を利用しているようです。</p>
 
-<p>ただし、順方向とは異なり逆方向の漏れ電流は温度に対して非線形の特性を持つため、その温度を知るためには少し込み入った計算が必要となります。またダイオードの種類やロットによっても特性が異なるのでキャリブレーションが必要です。</p>
+<p>その他これを作成するにあたって考えられた様々なトピックが記載されている記事です。</p>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/KTvVS8guBsY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   </section>
 
-  <div><a href="/iroiro-review/post/midi%E7%AB%AF%E5%AD%90%E3%81%AB%E5%86%85%E8%94%B5%E3%81%95%E3%82%8C%E3%81%9F%E8%B6%85%E5%B0%8F%E3%81%95%E3%81%84%E3%82%B7%E3%83%B3%E3%82%BB/">&lt;- 前の記事 - MIDI端子に内蔵された超小さいシンセ</a></div>
-  <div style="text-align:right;"><a href="/iroiro-review/post/%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E5%A4%A7%E3%81%8D%E3%81%AAcnc%E3%83%9E%E3%82%B7%E3%83%B3/">次の記事 - テーブルサイズの大きなCNCマシン - &gt;</a></div>
+  <div></div>
+  <div style="text-align:right;"><a href="/iroiro-review/post/%E3%83%80%E3%82%A4%E3%82%AA%E3%83%BC%E3%83%89%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%B8%A9%E5%BA%A6%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/">次の記事 - ダイオードを使った温度センサー - &gt;</a></div>
 
   
 
 <h3>関連記事</h3>
 <ul>
+  
+  <li><a href="/iroiro-review/post/%E3%83%80%E3%82%A4%E3%82%AA%E3%83%BC%E3%83%89%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%B8%A9%E5%BA%A6%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/">ダイオードを使った温度センサー</a></li>
   
   <li><a href="/iroiro-review/post/%E3%82%A2%E3%82%A4%E3%83%AD%E3%83%B3%E3%83%93%E3%83%BC%E3%82%BA%E3%83%89%E3%83%83%E3%83%88%E7%B5%B5%E7%94%9F%E6%88%90%E5%99%A8/">アイロンビーズドット絵生成器</a></li>
   
@@ -143,9 +152,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
   
   <li><a href="/iroiro-review/post/%E5%AE%9F%E3%81%AB%E7%B0%A1%E5%8D%98%E3%81%AB%E4%BD%9C%E3%82%8C%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC/">実に簡単に作れる3Dプリンタフィラメントホルダー</a></li>
   
-  <li><a href="/iroiro-review/post/%E9%80%86ar%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%81%AA%E8%A1%A8%E6%83%85%E3%82%92%E6%BC%94%E5%87%BA%E3%81%99%E3%82%8Bhack/">「逆AR？！」バーチャルな表情を演出するHACK</a></li>
-  
-  <li><a href="/iroiro-review/post/%E7%94%BB%E6%9C%9F%E7%9A%84%E3%81%AA%E6%96%87%E5%AD%97%E5%85%A5%E5%8A%9B%E3%82%92%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%99%E3%82%8B%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%B9/">画期的な文字入力をサポートするスマートフォンケース</a></li>
+  <li><a href="/iroiro-review/post/arduino%E3%82%92%E5%9F%BA%E3%81%AB%E3%81%97%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA%E3%83%A1%E3%83%BC%E3%82%BF%E3%83%BC/">Arduinoを基にしたかっこいいオーディオメーター</a></li>
   
 </ul>
 
@@ -173,7 +180,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           }(document, 'script', 'facebook-jssdk'));</script>
 
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/%E3%83%80%E3%82%A4%E3%82%AA%E3%83%BC%E3%83%89%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%B8%A9%E5%BA%A6%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/" 
+            data-href="/iroiro-review/post/midi%E7%AB%AF%E5%AD%90%E3%81%AB%E5%86%85%E8%94%B5%E3%81%95%E3%82%8C%E3%81%9F%E8%B6%85%E5%B0%8F%E3%81%95%E3%81%84%E3%82%B7%E3%83%B3%E3%82%BB/" 
             data-layout="button_count">
           </div>
         
@@ -206,7 +213,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           
   
     <div id="toc" class="Box Box--blue mb-3">
-      <b>ダイオードを使った温度センサー</b>
+      <b>MIDI端子に内蔵された超小さいシンセ</b>
       
     </div>
   
@@ -222,7 +229,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
         
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/%E3%83%80%E3%82%A4%E3%82%AA%E3%83%BC%E3%83%89%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%B8%A9%E5%BA%A6%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/" 
+            data-href="/iroiro-review/post/midi%E7%AB%AF%E5%AD%90%E3%81%AB%E5%86%85%E8%94%B5%E3%81%95%E3%82%8C%E3%81%9F%E8%B6%85%E5%B0%8F%E3%81%95%E3%81%84%E3%82%B7%E3%83%B3%E3%82%BB/" 
             data-layout="button_count">
           </div>
         
