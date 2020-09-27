@@ -6,10 +6,42 @@
     <description>Recent content in Hack on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 22 Sep 2020 23:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2020 10:30:50 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>積層式3Dプリンタの生成物を「塩」に詰めて再加熱して、すべすべにするHACK</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%A9%8D%E5%B1%A4%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E7%94%9F%E6%88%90%E7%89%A9%E3%82%92%E5%A1%A9%E3%81%AB%E8%A9%B0%E3%82%81%E3%81%A6%E5%86%8D%E5%8A%A0%E7%86%B1%E3%81%97%E3%81%A6%E3%81%99%E3%81%B9%E3%81%99%E3%81%B9%E3%81%AB%E3%81%99%E3%82%8Bhack/</link>
+      <pubDate>Sun, 27 Sep 2020 10:30:50 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%A9%8D%E5%B1%A4%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E7%94%9F%E6%88%90%E7%89%A9%E3%82%92%E5%A1%A9%E3%81%AB%E8%A9%B0%E3%82%81%E3%81%A6%E5%86%8D%E5%8A%A0%E7%86%B1%E3%81%97%E3%81%A6%E3%81%99%E3%81%B9%E3%81%99%E3%81%B9%E3%81%AB%E3%81%99%E3%82%8Bhack/</guid>
+      <description>REFORMING 3D PRINTS WITH SALT AND HEATから発見。画像もここから転載。
+積層式3Dプリンタの生成物は、いわゆる「積層痕」が表面に出てしまうという品質上の問題があります。
+この記事で紹介しているのは、この「積層痕」を解消する方法です。 3Dプリンタの生成物を、細かく砕いた「塩」の中に突っ込んで加熱するという、さながら「塩釜焼き」のような方法をとることで、生成物の形状を壊すことなく表面を滑らかにすることができるようです。
+注意としては生成物はinfillを100%とし、内部に空洞を作らないことと、フィラメントの素材によって加熱の温度が違うという点です。
+このURLと日本語の要約をTwitterに投稿したところ、多くの方に見ていただき、早速実践を試みている方も現れました。
+積層式の3Dプリンタの生成物を「塩」に詰めて再加熱することで表面の積層痕を無くすという話らしい。 まるで光造形式の3Dプリンタで作ったかのように滑らかになるらしい。 / “Reforming 3D Prints With Salt And Heat | Hackaday” (2 users) https://t.co/lSZxyHmEOr
+&amp;mdash; ina_ani@育休中 (@ina_ani) September 26, 2020 
+ただ、ただ塩に詰めて加熱するだけではなく、様々なパラメータをうまく調整しないと、写真のようにきれいにはいかないようで、皆さん苦労しているようです。
+この手法が確立すれば積層式の3Dプリンタの用途がぐっと広がる事でしょう。
+（以下この手法に挑戦されている方のTwitを載せておきます。） 加熱がまずかったのか、変形してしまっているけど、あと一息？
+3Dプリント塩釜焼きテストその二。
+ムクで造形した四角パイプがこうなりました…ました？？？
+オーブン設定は230度の20分
+前回と違い塩の中から浮き上がっては来なくなったのでムク造形でないといけないというのは確か。後は温度と時間か pic.twitter.com/6DzuE34tQJ
+&amp;mdash; 45ACPなる、遥けき便り、うち捨てむ、そは呪われし、回文にして (@Giro_45ACP) September 27, 2020 
+これから挑戦される様子・・どうなるでしょうか？
+とりあえずこいつを塩漬けにしてみますぜ。 pic.twitter.com/Vg1ngnvn6e
+&amp;mdash; NN (@kiiimlo) September 27, 2020 
+積層痕は残っているようですが、表面の性質が変化したようで、やすり掛けするとつるつるになったようです。
+塩による積層痕処理試してみました
+予想はできてたけどもっと細かい塩でやらんとダメですね
+こんがり美味しそうな色になったのは温度か時間か&amp;hellip;
+なんにしても色々検証すればつかえそう https://t.co/riiiUNN7ad pic.twitter.com/gnltv4wjHE
+&amp;mdash; 手のひと ハマー (@hama_lo_0l) September 27, 2020</description>
+    </item>
     
     <item>
       <title>MIDI端子に内蔵された超小さいシンセ</title>
