@@ -6,10 +6,24 @@
     <description>Recent content in 3dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 27 Sep 2020 10:30:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2020 23:00:39 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>オレンジからジュースとカップまでも作る最強の生絞りジュース販売機</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%8B%E3%82%89%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B9%E3%81%A8%E3%82%AB%E3%83%83%E3%83%97%E3%81%BE%E3%81%A7%E3%82%82%E4%BD%9C%E3%82%8B%E6%9C%80%E5%BC%B7%E3%81%AE%E7%94%9F%E7%B5%9E%E3%82%8A%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B9%E8%B2%A9%E5%A3%B2%E6%A9%9F/</link>
+      <pubDate>Mon, 28 Sep 2020 23:00:39 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%8B%E3%82%89%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B9%E3%81%A8%E3%82%AB%E3%83%83%E3%83%97%E3%81%BE%E3%81%A7%E3%82%82%E4%BD%9C%E3%82%8B%E6%9C%80%E5%BC%B7%E3%81%AE%E7%94%9F%E7%B5%9E%E3%82%8A%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B9%E8%B2%A9%E5%A3%B2%E6%A9%9F/</guid>
+      <description>Innovative orange juicer 3D prints bioplastic cups out of leftover orange peelsから発見。画像もここから転載。
+面白いジュースの自動販売機です。上の屋根の部分にオレンジがマウントされており、注文されるとこのオレンジが絞られてジュースが作られます。
+ここまではどこかで見たことがあるかもしれません。
+しかしこの自動販売機は「カップ」もオレンジから生成します。具体的にはオレンジの皮を基としたフィラメントによりジュースのカップを生成しています。
+生絞りに加えてエコなカップでジュースを飲めるというのは啓蒙活動としても、3Dプリンタ愛好者としても面白い試みです。
+ </description>
+    </item>
     
     <item>
       <title>積層式3Dプリンタの生成物を「塩」に詰めて再加熱して、すべすべにするHACK</title>
