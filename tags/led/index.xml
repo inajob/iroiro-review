@@ -6,10 +6,22 @@
     <description>Recent content in Led on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 23 Sep 2020 23:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2020 23:00:04 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/led/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>行燈とドットマトリクスLEDを組み合わせた印象的なガジェット</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%A1%8C%E7%87%88%E3%81%A8%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E5%8D%B0%E8%B1%A1%E7%9A%84%E3%81%AA%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
+      <pubDate>Wed, 30 Sep 2020 23:00:04 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%A1%8C%E7%87%88%E3%81%A8%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E5%8D%B0%E8%B1%A1%E7%9A%84%E3%81%AA%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
+      <description>Sunrise Alarm Clockから発見。画像もここから転載。
+行燈とドットマトリクスLEDを組み合わせた、アジアンSF風の照明器具です。 機能としては指定した時間になると、音楽が鳴り、部屋を明るくするなどの目覚まし時計的なもののようですが、とにかくこの見た目が印象的です。
+コアとなるマイコンはATMega32u4で、時計のためにDS3231というRTCを搭載しています。また音楽再生のためにDFPlayer Mini、FMラジオ受信のためにRDA5807を使用しています。ドットマトリクスLEDの制御はMAX2719です。
+こういう異文化を組み合わせて作られたガジェットというのは見た目に印象的で面白いなと感じました。</description>
+    </item>
     
     <item>
       <title>コンパクトで感じのドットマトリクスLED表示ガジェット</title>
