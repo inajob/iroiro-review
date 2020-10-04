@@ -8,12 +8,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>
       
-  行燈とドットマトリクスLEDを組み合わせた印象的なガジェット &ndash; inajobのいろいろレビュー
+  リアルな目玉の制御装置 &ndash; inajobのいろいろレビュー
 
     </title>
     
     
-    <meta name="description" property="og:description" content="日本風の行燈とドットマトリクスLEDを組み合わせた印象的なガジェットを紹介します。|">
+    <meta name="description" property="og:description" content="サーボモーターを利用したArduinoで制御できる目玉型ガジェットの作例を紹介します。|">
     
 
     <meta name="apple-mobile-web-app-title" content="inajobのいろいろレビュー">
@@ -22,17 +22,17 @@
     
     
 
-    <meta property="og:title" content="行燈とドットマトリクスLEDを組み合わせた印象的なガジェット | inajobのいろいろレビュー">
-    <meta property="og:description" content="日本風の行燈とドットマトリクスLEDを組み合わせた印象的なガジェットを紹介します。|">
+    <meta property="og:title" content="リアルな目玉の制御装置 | inajobのいろいろレビュー">
+    <meta property="og:description" content="サーボモーターを利用したArduinoで制御できる目玉型ガジェットの作例を紹介します。|">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@ina_ani">
     <meta name="twitter:creator" content="@ina_ani">
-    <meta name="twitter:title" content="行燈とドットマトリクスLEDを組み合わせた印象的なガジェット | inajobのいろいろレビュー">
-    <meta name="twitter:description" content="日本風の行燈とドットマトリクスLEDを組み合わせた印象的なガジェットを紹介します。|">
+    <meta name="twitter:title" content="リアルな目玉の制御装置 | inajobのいろいろレビュー">
+    <meta name="twitter:description" content="サーボモーターを利用したArduinoで制御できる目玉型ガジェットの作例を紹介します。|">
     
-    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/sunrise-alarm-clock.jpg">
-    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/sunrise-alarm-clock.jpg">
+    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/moving-eyes.jpg">
+    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/moving-eyes.jpg">
     
     
     <meta name="google-site-verification" content="Wjrrx4mV4IokyVrRy-5rjpG1sfwkjQ-uVRiXhMMXhW8" />
@@ -90,7 +90,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 <div class="Subhead">
   <div class="Subhead-heading">
-    <div class="h1 mt-3 mb-1">行燈とドットマトリクスLEDを組み合わせた印象的なガジェット</div>
+    <div class="h1 mt-3 mb-1">リアルな目玉の制御装置</div>
   </div>
   <div class="Subhead-description">
     
@@ -98,17 +98,17 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 
 
-<a href='/iroiro-review/tags/led' class="muted-link">
-  <span class="Label" style="background-color:#0099dd;">LED</span>
+<a href='/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">3Dプリンタ</span>
 </a>
 
 
 
     
     <div class="float-md-right">
-      <span title="Lastmod: 2020-09-30. Published at: 2020-09-30.">
+      <span title="Lastmod: 2020-10-03. Published at: 2020-10-03.">
         
-          Published: 2020-09-30
+          Published: 2020-10-03
         
       </span>
     </div>
@@ -118,35 +118,37 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <article>
   
   <section class="pb-6 mb-3 border-bottom">
-    <img src="https://inajob.github.io/iroiro-review/img/sunrise-alarm-clock.jpg" />
-    <p><a href="https://hackaday.io/project/168165-sunrise-alarm-clock">Sunrise Alarm Clock</a>から発見。画像もここから転載。</p>
+    <img src="https://inajob.github.io/iroiro-review/img/moving-eyes.jpg" />
+    <p><a href="https://www.instructables.com/id/Simplified-3D-Printed-Animatronic-Dual-Eye-Mechani/">Simplified 3D Printed Animatronic Dual Eye Mechanism</a>から発見。画像もここから転載。(CC BY-NC-SA By Ikkalebob)</p>
 
-<p>行燈とドットマトリクスLEDを組み合わせた、アジアンSF風の照明器具です。
-機能としては指定した時間になると、音楽が鳴り、部屋を明るくするなどの目覚まし時計的なもののようですが、とにかくこの見た目が印象的です。</p>
+<p>リアルな目の模型をサーボモーターで制御している工作です。
+ともかく目の模型がよくできていて、この部分の完成度が高いとこんなにもリアルに見えるのだなと感心しました。</p>
 
-<p>コアとなるマイコンはATMega32u4で、時計のためにDS3231というRTCを搭載しています。また音楽再生のためにDFPlayer Mini、FMラジオ受信のためにRDA5807を使用しています。ドットマトリクスLEDの制御はMAX2719です。</p>
+<p>目玉以外のパーツは3Dプリンタを駆使して6つのサーボモーターをうまく収納したうえでクランク機構を使って目玉を動かしています。</p>
 
-<p>こういう異文化を組み合わせて作られたガジェットというのは見た目に印象的で面白いなと感じました。</p>
+<p>この工作のまさに目玉となっているリアルな目玉のつくり方については<a href="https://www.instructables.com/id/How-to-Make-Ultra-Realistic-Eyes-Using-3D-Printing/">別の記事</a>で紹介されています。</p>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Ftt9e8xnKE4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   </section>
 
-  <div><a href="/iroiro-review/post/%E3%83%AA%E3%82%A2%E3%83%AB%E3%81%AA%E7%9B%AE%E7%8E%89%E3%81%AE%E5%88%B6%E5%BE%A1%E8%A3%85%E7%BD%AE/">&lt;- 前の記事 - リアルな目玉の制御装置</a></div>
-  <div style="text-align:right;"><a href="/iroiro-review/post/%E6%BC%AB%E7%94%BB%E9%A2%A8%E3%81%AB%E3%82%AD%E3%83%A9%E3%83%AA%E3%81%A8%E5%85%89%E3%82%8B%E7%9C%BC%E9%8F%A1/">次の記事 - 漫画風にキラリと光る眼鏡 - &gt;</a></div>
+  <div></div>
+  <div style="text-align:right;"><a href="/iroiro-review/post/%E8%A1%8C%E7%87%88%E3%81%A8%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E5%8D%B0%E8%B1%A1%E7%9A%84%E3%81%AA%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/">次の記事 - 行燈とドットマトリクスLEDを組み合わせた印象的なガジェット - &gt;</a></div>
 
   
 
 <h3>関連記事</h3>
 <ul>
   
-  <li><a href="/iroiro-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%A7%E6%84%9F%E3%81%98%E3%81%AE%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E8%A1%A8%E7%A4%BA%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/">コンパクトで感じのドットマトリクスLED表示ガジェット</a></li>
+  <li><a href="/iroiro-review/post/%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%8B%E3%82%89%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B9%E3%81%A8%E3%82%AB%E3%83%83%E3%83%97%E3%81%BE%E3%81%A7%E3%82%82%E4%BD%9C%E3%82%8B%E6%9C%80%E5%BC%B7%E3%81%AE%E7%94%9F%E7%B5%9E%E3%82%8A%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B9%E8%B2%A9%E5%A3%B2%E6%A9%9F/">オレンジからジュースとカップまでも作る最強の生絞りジュース販売機</a></li>
   
-  <li><a href="/iroiro-review/post/%E7%9C%9F%E9%8D%AE%E7%B7%9A%E3%81%A8led%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fled%E3%82%A2%E3%83%BC%E3%83%88/">真鍮線とLEDを使ったLEDアート</a></li>
+  <li><a href="/iroiro-review/post/%E7%A9%8D%E5%B1%A4%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E7%94%9F%E6%88%90%E7%89%A9%E3%82%92%E5%A1%A9%E3%81%AB%E8%A9%B0%E3%82%81%E3%81%A6%E5%86%8D%E5%8A%A0%E7%86%B1%E3%81%97%E3%81%A6%E3%81%99%E3%81%B9%E3%81%99%E3%81%B9%E3%81%AB%E3%81%99%E3%82%8Bhack/">積層式3Dプリンタの生成物を「塩」に詰めて再加熱して、すべすべにするHACK</a></li>
+  
+  <li><a href="/iroiro-review/post/%E3%81%8A%E6%B0%97%E3%81%AB%E5%85%A5%E3%82%8A%E3%81%AE%E3%83%9D%E3%82%A8%E3%83%A0%E3%81%AA%E3%81%A9%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%A7%E3%81%8D%E3%82%8B%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E5%BC%8F%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/">お気に入りのポエムなどを表示できる電子ペーパー式ガジェット</a></li>
+  
+  <li><a href="/iroiro-review/post/%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85%E9%83%A8%E5%93%81%E3%82%92%E3%81%86%E3%81%BE%E3%81%8F%E6%95%B4%E7%90%86%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9/">表面実装部品をうまく整理するための3Dプリンタ製のケース</a></li>
   
   <li><a href="/iroiro-review/post/%E5%A4%89%E5%BD%A2%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E8%A1%A8%E7%A4%BA%E6%A9%9F/">変形できるドットマトリクス表示機</a></li>
-  
-  <li><a href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%A9%E3%83%BC%E5%BC%8F%E3%83%94%E3%83%B3%E3%83%9D%E3%83%B3%E7%8E%89%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led/">3Dプリンタ製のモジュラー式ピンポン玉ドットマトリクスLED</a></li>
-  
-  <li><a href="/iroiro-review/post/%E6%89%8B%E3%81%A7%E7%B4%A0%E6%97%A9%E3%81%8F%E6%8C%AF%E3%82%8B%E3%81%A8%E6%AE%8B%E5%83%8F%E3%81%A7%E6%83%85%E5%A0%B1%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B%E5%90%8D%E5%88%BA/">手で素早く振ると残像で情報を表示する名刺</a></li>
   
 </ul>
 
@@ -174,7 +176,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           }(document, 'script', 'facebook-jssdk'));</script>
 
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/%E8%A1%8C%E7%87%88%E3%81%A8%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E5%8D%B0%E8%B1%A1%E7%9A%84%E3%81%AA%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/" 
+            data-href="/iroiro-review/post/%E3%83%AA%E3%82%A2%E3%83%AB%E3%81%AA%E7%9B%AE%E7%8E%89%E3%81%AE%E5%88%B6%E5%BE%A1%E8%A3%85%E7%BD%AE/" 
             data-layout="button_count">
           </div>
         
@@ -207,7 +209,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           
   
     <div id="toc" class="Box Box--blue mb-3">
-      <b>行燈とドットマトリクスLEDを組み合わせた印象的なガジェット</b>
+      <b>リアルな目玉の制御装置</b>
       
     </div>
   
@@ -223,7 +225,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
         
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/%E8%A1%8C%E7%87%88%E3%81%A8%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E5%8D%B0%E8%B1%A1%E7%9A%84%E3%81%AA%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/" 
+            data-href="/iroiro-review/post/%E3%83%AA%E3%82%A2%E3%83%AB%E3%81%AA%E7%9B%AE%E7%8E%89%E3%81%AE%E5%88%B6%E5%BE%A1%E8%A3%85%E7%BD%AE/" 
             data-layout="button_count">
           </div>
         
