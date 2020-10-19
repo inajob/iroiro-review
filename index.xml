@@ -6,10 +6,22 @@
     <description>Recent content in inajobがいろいろ紹介するサイトです on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 17 Oct 2020 23:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2020 23:00:08 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>レシートプリンタにキーボードをつけたタイプライター</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%82%B7%E3%83%BC%E3%83%88%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AB%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E3%81%A4%E3%81%91%E3%81%9F%E3%82%BF%E3%82%A4%E3%83%97%E3%83%A9%E3%82%A4%E3%82%BF%E3%83%BC/</link>
+      <pubDate>Sun, 18 Oct 2020 23:00:08 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%82%B7%E3%83%BC%E3%83%88%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AB%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E3%81%A4%E3%81%91%E3%81%9F%E3%82%BF%E3%82%A4%E3%83%97%E3%83%A9%E3%82%A4%E3%82%BF%E3%83%BC/</guid>
+      <description>Thermal Typewriterから発見。画像もここから転載。
+レシートプリンタとキーボードというとてもシンプルなタイプライターです。
+シンプルがゆえに様々な制約があります、例えば5行書くまでは何を書いたか見えないなど・・実用性はかなり怪しいですが、ミニマルな構成で潔さを感じます。
+制御はRaspberry Piで行っているようです。</description>
+    </item>
     
     <item>
       <title>ガラス瓶を使ったオルガン</title>
