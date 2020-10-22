@@ -6,10 +6,22 @@
     <description>Recent content in Hack on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 20 Oct 2020 23:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2020 23:00:46 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>磁性流体によるセグメント表示機</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%A3%81%E6%80%A7%E6%B5%81%E4%BD%93%E3%81%AB%E3%82%88%E3%82%8B%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
+      <pubDate>Wed, 21 Oct 2020 23:00:46 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%A3%81%E6%80%A7%E6%B5%81%E4%BD%93%E3%81%AB%E3%82%88%E3%82%8B%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
+      <description>Fetch: A Ferrofluid Displayから発見。画像もここから転載。
+磁性流体を使ったデジタル時計です。内部的には12x21の解像度ですが、重力や磁力の兼ね合いでアナログな動きをする磁性流体が面白いです。
+大量の電磁石を制御するのは大変そうですが、今までにない新しい見た目のディスプレイです。
+ </description>
+    </item>
     
     <item>
       <title>ESP8266をはんだ付けせずに書き込むHACK</title>
