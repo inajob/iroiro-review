@@ -6,10 +6,21 @@
     <description>Recent content in Hack on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 21 Oct 2020 23:00:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2020 23:00:34 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>レゴで作られたレゴ部品の分類器</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%82%B4%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%83%AC%E3%82%B4%E9%83%A8%E5%93%81%E3%81%AE%E5%88%86%E9%A1%9E%E5%99%A8/</link>
+      <pubDate>Sat, 24 Oct 2020 23:00:34 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%82%B4%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%83%AC%E3%82%B4%E9%83%A8%E5%93%81%E3%81%AE%E5%88%86%E9%A1%9E%E5%99%A8/</guid>
+      <description>A high-speed computer vision pipeline for the universal LEGO sorting machineから発見。画像もここから転載。
+レゴによって作られた、レゴパーツの分類器です。カメラでとらえた画像を解析しどの部品かを判定し、適切な分類を行うマシンです。画像解析にはRaspberryPi上で動作するOpenCVを利用しています。性能の低いRaspberryPiで画像解析を行うためには様々な工夫が必要だったようです。
+ </description>
+    </item>
     
     <item>
       <title>磁性流体によるセグメント表示機</title>
