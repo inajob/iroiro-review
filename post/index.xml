@@ -6,10 +6,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 24 Oct 2020 23:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2020 23:00:38 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ハロゲンランプを使ったリフローオーブン</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%8F%E3%83%AD%E3%82%B2%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%97%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%AA%E3%83%95%E3%83%AD%E3%83%BC%E3%82%AA%E3%83%BC%E3%83%96%E3%83%B3/</link>
+      <pubDate>Sun, 25 Oct 2020 23:00:38 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%8F%E3%83%AD%E3%82%B2%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%97%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%AA%E3%83%95%E3%83%AD%E3%83%BC%E3%82%AA%E3%83%BC%E3%83%96%E3%83%B3/</guid>
+      <description>The FluxLamp Soldering Reflow Ovenから発見。画像もここから転載。
+自作リフロー装置といえば、オーブントースターとホットプレートが有名ですが、新しい種類の自作リフロー装置が現れました。
+このリフローオーブンはハロゲンランプを熱源としています。原理は他のリフローオーブンと同じく、基板を指定した温度で加熱するというものです。
+他の仕組みよりコンパクトなのが良いところだと感じました。
+ </description>
+    </item>
     
     <item>
       <title>レゴで作られたレゴ部品の分類器</title>
