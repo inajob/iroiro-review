@@ -6,10 +6,23 @@
     <description>Recent content in inajobがいろいろ紹介するサイトです on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 28 Oct 2020 23:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2020 23:00:20 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3Dプリンタ製の表面実装基板をデバッグするためのワークステーション</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85%E5%9F%BA%E6%9D%BF%E3%82%92%E3%83%87%E3%83%90%E3%83%83%E3%82%B0%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/</link>
+      <pubDate>Sat, 31 Oct 2020 23:00:20 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85%E5%9F%BA%E6%9D%BF%E3%82%92%E3%83%87%E3%83%90%E3%83%83%E3%82%B0%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/</guid>
+      <description>NEEDLING YOUR PROJECTS: 3D PRINTED PCB PROBING JIG USES ACCUPUNCTURE NEEDLESから発見。画像もここから転載。
+3Dプリンタ製の表面実装部品を搭載した基板をデバッグする際に便利そうな、ワークベンチの作例の紹介です。
+アームの先についたプローブを表面実装基板のパッドに押し付けることで、デバッグ信号を送ったり、電圧、電流の測定を行うことができます。
+基板組み立てをしていると、「手」がたくさん欲しくなりますが、このような器具があると作業がはかどりそうです。
+ </description>
+    </item>
     
     <item>
       <title>インクカートリッジを外付けする改造</title>
