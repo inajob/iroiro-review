@@ -6,10 +6,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 01 Nov 2020 23:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2020 11:00:23 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>テレビとつないでBASICでプログラムの作成・実行ができるマイコンボードCB2 micro</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%86%E3%83%AC%E3%83%93%E3%81%A8%E3%81%A4%E3%81%AA%E3%81%84%E3%81%A7basic%E3%81%A7%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%AE%E4%BD%9C%E6%88%90%E5%AE%9F%E8%A1%8C%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%89cb2-micro/</link>
+      <pubDate>Tue, 03 Nov 2020 11:00:23 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%86%E3%83%AC%E3%83%93%E3%81%A8%E3%81%A4%E3%81%AA%E3%81%84%E3%81%A7basic%E3%81%A7%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%AE%E4%BD%9C%E6%88%90%E5%AE%9F%E8%A1%8C%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%89cb2-micro/</guid>
+      <description>CB2 microから発見。画像もここから転載。
+テレビとつなげてゲームが遊べるゲームコンソールです。
+BASICで作られたプログラムが遊べるようで、日本だとIchigoJamやMachikaniaが近そうです。
+マイコンはAtmega644を利用しています。これ一つでPC/2端子によるキーボード入力、SCART端子による音声・映像出力を実現しています。PCとの接続はRS232端子が利用できます。
+パーツはすべてDIPで構成されているため、簡単に組み立てできそうです。
+ </description>
+    </item>
     
     <item>
       <title>アタッシュケース入りの爆弾解体ゲーム</title>
