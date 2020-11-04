@@ -6,10 +6,22 @@
     <description>Recent content in inajobがいろいろ紹介するサイトです on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 03 Nov 2020 11:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2020 23:00:25 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>手をかざすことで操作できる電子ドラム</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E3%82%92%E3%81%8B%E3%81%96%E3%81%99%E3%81%93%E3%81%A8%E3%81%A7%E6%93%8D%E4%BD%9C%E3%81%A7%E3%81%8D%E3%82%8B%E9%9B%BB%E5%AD%90%E3%83%89%E3%83%A9%E3%83%A0/</link>
+      <pubDate>Tue, 03 Nov 2020 23:00:25 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E3%82%92%E3%81%8B%E3%81%96%E3%81%99%E3%81%93%E3%81%A8%E3%81%A7%E6%93%8D%E4%BD%9C%E3%81%A7%E3%81%8D%E3%82%8B%E9%9B%BB%E5%AD%90%E3%83%89%E3%83%A9%E3%83%A0/</guid>
+      <description>The Airdrum - Make music while movingから発見。画像もここから転載。
+手をかざすことで演奏ができる、楽しそうな電子ドラムです。 PCと接続しMIDI経由で音を鳴らすことができます。仕組みとしては赤外線式距離センサーを用いているようです。
+開発の動機としては、既存の楽器を演奏できないような障害をもつ方のための楽器ということのようですが、どんな人でも楽しめる楽器に仕上がっていると感じました。
+ </description>
+    </item>
     
     <item>
       <title>テレビとつないでBASICでプログラムの作成・実行ができるマイコンボードCB2 micro</title>
