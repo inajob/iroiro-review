@@ -8,12 +8,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>
       
-  からくりで関数をプロットする装置 &ndash; inajobのいろいろレビュー
+  3Dプリンタにおける自己責任改造を許諾するナイスな仕組み &ndash; inajobのいろいろレビュー
 
     </title>
     
     
-    <meta name="description" property="og:description" content="ギアを組み合わせて関数をプロットする装置の作例を紹介します。|">
+    <meta name="description" property="og:description" content="3Dプリンタにおける自己責任改造を許諾するナイスな仕組みを紹介します。|">
     
 
     <meta name="apple-mobile-web-app-title" content="inajobのいろいろレビュー">
@@ -22,16 +22,16 @@
     
     
 
-    <meta property="og:title" content="からくりで関数をプロットする装置 | inajobのいろいろレビュー">
-    <meta property="og:description" content="ギアを組み合わせて関数をプロットする装置の作例を紹介します。|">
+    <meta property="og:title" content="3Dプリンタにおける自己責任改造を許諾するナイスな仕組み | inajobのいろいろレビュー">
+    <meta property="og:description" content="3Dプリンタにおける自己責任改造を許諾するナイスな仕組みを紹介します。|">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@ina_ani">
     <meta name="twitter:creator" content="@ina_ani">
-    <meta name="twitter:title" content="からくりで関数をプロットする装置 | inajobのいろいろレビュー">
-    <meta name="twitter:description" content="ギアを組み合わせて関数をプロットする装置の作例を紹介します。|">
+    <meta name="twitter:title" content="3Dプリンタにおける自己責任改造を許諾するナイスな仕組み | inajobのいろいろレビュー">
+    <meta name="twitter:description" content="3Dプリンタにおける自己責任改造を許諾するナイスな仕組みを紹介します。|">
     
-    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/harmonic-anlyzer.png">
-    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/harmonic-anlyzer.png">
+    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/prusafirmware.jpg">
+    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/prusafirmware.jpg">
     
     
     <meta name="google-site-verification" content="Wjrrx4mV4IokyVrRy-5rjpG1sfwkjQ-uVRiXhMMXhW8" />
@@ -93,7 +93,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 <div class="Subhead">
   <div class="Subhead-heading">
-    <div class="h1 mt-3 mb-1">からくりで関数をプロットする装置</div>
+    <div class="h1 mt-3 mb-1">3Dプリンタにおける自己責任改造を許諾するナイスな仕組み</div>
   </div>
   <div class="Subhead-description">
     
@@ -101,12 +101,12 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 
 
-<a href='/iroiro-review/tags/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC' class="muted-link">
-  <span class="Label" style="background-color:#0099dd;">レーザーカッター</span>
+<a href='/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">3Dプリンタ</span>
 </a>
 
-<a href='/iroiro-review/tags/%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A' class="muted-link">
-  <span class="Label" style="background-color:#0099dd;">からくり</span>
+<a href='/iroiro-review/tags/hack' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">HACK</span>
 </a>
 
 
@@ -125,34 +125,38 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <article>
   
   <section class="pb-6 mb-3 border-bottom">
-    <img src="https://inajob.github.io/iroiro-review/img/harmonic-anlyzer.png" />
-    <p><a href="https://www.instructables.com/id/Harmonic-Analyzer-Mechanical-Lasercut-Signal-Plott/">Harmonic Analyzer : Mechanical Lasercut Signal Plotter</a>から発見。画像もここから転載。</p>
+    <img src="https://inajob.github.io/iroiro-review/img/prusafirmware.jpg" />
+    <p><a href="https://hackaday.com/2019/12/16/prusa-dares-you-to-break-their-latest-printer/">PRUSA DARES YOU TO BREAK THEIR LATEST PRINTER</a>から発見。画像もここから転載。</p>
 
-<p>からくりで計算をするというのは昔からたくさんの試みがなされてきました。ここで紹介するのもそういった装置の一つで、関数のグラフをプロットするものです。</p>
+<p>オープンソースハードウェアを販売するときに気になるのが「保障」です。製品としての故障と、ユーザの改造により発生した故障はを判断し、前者の場合は保証を適用することになります。</p>
 
-<p>仕組みとしては、目的の関数を様々な周期のsin,cos波の合成関数として近似し（フーリエ級数展開）、たくさんのギアの回転をからくりで組み合わせて描画しているようです。</p>
+<p>しかし、部品を触らないファームウェアの書き換えをユーザが意識せずに行った場合は、この「保障」が適用できなくなってしまい、トラブルの原因となります。このような事態を防ぐためにはファームウェアをプロテクトし、だれも書き換えられなくすることが、一般的です。</p>
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/rgSNV5kMBoQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>しかし、ヘビーユーザの中には「保障」が無くて構わないからファームウェアをいじりたいという人もいます。</p>
+
+<p>この記事で紹介している3Dプリンタの制御基板は、この問題に対応するために、基板の一部をへし折ることでファームウェアのプロテクトを外すという仕組みを搭載しています。</p>
+
+<p>この基板の一部をへし折る行為を「保障外となることへの同意」とみなすことで、オープンソースの良さと、メーカーサポートの両立を実現しています。</p>
 
   </section>
 
-  <div><a href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E8%87%AA%E5%B7%B1%E8%B2%AC%E4%BB%BB%E6%94%B9%E9%80%A0%E3%82%92%E8%A8%B1%E8%AB%BE%E3%81%99%E3%82%8B%E3%83%8A%E3%82%A4%E3%82%B9%E3%81%AA%E4%BB%95%E7%B5%84%E3%81%BF/">&lt;- 前の記事 - 3Dプリンタにおける自己責任改造を許諾するナイスな仕組み</a></div>
-  <div style="text-align:right;"><a href="/iroiro-review/post/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E3%81%A8%E3%82%A4%E3%83%AB%E3%83%9F%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E7%9B%AE%E8%A6%9A%E3%81%BE%E3%81%97%E6%99%82%E8%A8%88/">次の記事 - 電子ペーパーとイルミネーションによるかっこいい目覚まし時計 - &gt;</a></div>
+  <div></div>
+  <div style="text-align:right;"><a href="/iroiro-review/post/%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A%E3%81%A7%E9%96%A2%E6%95%B0%E3%82%92%E3%83%97%E3%83%AD%E3%83%83%E3%83%88%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/">次の記事 - からくりで関数をプロットする装置 - &gt;</a></div>
 
   
 
 <h3>関連記事</h3>
 <ul>
   
-  <li><a href="/iroiro-review/post/%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E6%9D%BF%E3%81%AE%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%A7%E4%BD%9C%E3%82%8B%E7%A8%AE%E3%82%84%E3%82%8A%E5%99%A8/">アクリル板の組み合わせで作る種まき器</a></li>
+  <li><a href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E6%88%90%E6%9E%9C%E7%89%A9%E3%82%92%E3%81%82%E3%81%B6%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E5%BC%B7%E5%BA%A6%E3%82%92%E5%A2%97%E3%81%99hack/">3Dプリンタの成果物を「あぶる」ことで強度を増すHACK</a></li>
   
-  <li><a href="/iroiro-review/post/%E5%B0%8F%E3%81%95%E3%81%AA%E8%93%8B%E3%81%A4%E3%81%8D%E3%81%AE%E8%A9%A6%E9%A8%93%E5%AE%98%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85%E9%83%A8%E5%93%81%E3%81%AE%E6%95%B4%E7%90%86%E6%96%B9%E6%B3%95/">小さな蓋つきの試験管を使った表面実装部品の整理方法</a></li>
+  <li><a href="/iroiro-review/post/%E7%A9%8D%E5%B1%A4%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E7%94%9F%E6%88%90%E7%89%A9%E3%82%92%E5%A1%A9%E3%81%AB%E8%A9%B0%E3%82%81%E3%81%A6%E5%86%8D%E5%8A%A0%E7%86%B1%E3%81%97%E3%81%A6%E3%81%99%E3%81%B9%E3%81%99%E3%81%B9%E3%81%AB%E3%81%99%E3%82%8Bhack/">積層式3Dプリンタの生成物を「塩」に詰めて再加熱して、すべすべにするHACK</a></li>
   
-  <li><a href="/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E5%B0%8F%E5%9E%8B%E3%82%A8%E3%82%A2%E3%83%BC%E3%83%9B%E3%83%83%E3%82%B1%E3%83%BC%E5%8F%B0/">自作の小型エアーホッケー台</a></li>
+  <li><a href="/iroiro-review/post/%E5%AE%9F%E3%81%AB%E7%B0%A1%E5%8D%98%E3%81%AB%E4%BD%9C%E3%82%8C%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC/">実に簡単に作れる3Dプリンタフィラメントホルダー</a></li>
   
-  <li><a href="/iroiro-review/post/midi%E3%82%92%E5%87%BA%E5%8A%9B%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%83%8A/">MIDIを出力できるコンサーティーナ</a></li>
+  <li><a href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E6%BB%91%E3%82%89%E3%81%8B%E3%81%AA%E5%B1%A4%E3%82%92%E4%BD%9C%E3%82%8B%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF%E3%81%8C%E9%96%8B%E7%99%BA%E4%B8%AD/">3Dプリンタで滑らかな層を作るテクニックが開発中</a></li>
   
-  <li><a href="/iroiro-review/post/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AE%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%8F%E3%83%BC%E3%83%97/">かっこいい見た目のレーザーハープ</a></li>
+  <li><a href="/iroiro-review/post/%E6%A0%BC%E5%AE%893d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E3%83%9E%E3%82%B7%E3%83%BC%E3%83%B3%E3%81%AB%E6%94%B9%E9%80%A0%E3%81%99%E3%82%8B/">格安3Dプリンタを改造してはんだ付けマシーンに改造する</a></li>
   
 </ul>
 
@@ -180,7 +184,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           }(document, 'script', 'facebook-jssdk'));</script>
 
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A%E3%81%A7%E9%96%A2%E6%95%B0%E3%82%92%E3%83%97%E3%83%AD%E3%83%83%E3%83%88%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/" 
+            data-href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E8%87%AA%E5%B7%B1%E8%B2%AC%E4%BB%BB%E6%94%B9%E9%80%A0%E3%82%92%E8%A8%B1%E8%AB%BE%E3%81%99%E3%82%8B%E3%83%8A%E3%82%A4%E3%82%B9%E3%81%AA%E4%BB%95%E7%B5%84%E3%81%BF/" 
             data-layout="button_count">
           </div>
         
@@ -213,7 +217,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           
   
     <div id="toc" class="Box Box--blue mb-3">
-      <b>からくりで関数をプロットする装置</b>
+      <b>3Dプリンタにおける自己責任改造を許諾するナイスな仕組み</b>
       
     </div>
   
@@ -229,7 +233,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
         
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A%E3%81%A7%E9%96%A2%E6%95%B0%E3%82%92%E3%83%97%E3%83%AD%E3%83%83%E3%83%88%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/" 
+            data-href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E8%87%AA%E5%B7%B1%E8%B2%AC%E4%BB%BB%E6%94%B9%E9%80%A0%E3%82%92%E8%A8%B1%E8%AB%BE%E3%81%99%E3%82%8B%E3%83%8A%E3%82%A4%E3%82%B9%E3%81%AA%E4%BB%95%E7%B5%84%E3%81%BF/" 
             data-layout="button_count">
           </div>
         
