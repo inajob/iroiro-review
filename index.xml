@@ -2100,6 +2100,18 @@ Arduinoだと性能が足りないときに使えそうなマイコンATmega1284
     </item>
     
     <item>
+      <title>ESP32を搭載した小型のPDA</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E5%B0%8F%E5%9E%8B%E3%81%AEpda/</link>
+      <pubDate>Sat, 14 Mar 2020 23:00:05 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E5%B0%8F%E5%9E%8B%E3%81%AEpda/</guid>
+      <description>Low Power ESP32 Handheldから発見。画像もここから転載。
+ESP32がコアのPDA風ガジェットです。シャープのメモリ液晶とESP32のULPを活用することで、低電力での動作を実現しています。
+加速度センサーも内蔵しており、それによるキーボード入力なども紹介されています。
+ </description>
+    </item>
+    
+    <item>
       <title>3Dプリンタで作れるタクトスイッチカバー付きケース</title>
       <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8C%E3%82%8B%E3%82%BF%E3%82%AF%E3%83%88%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%82%AB%E3%83%90%E3%83%BC%E4%BB%98%E3%81%8D%E3%82%B1%E3%83%BC%E3%82%B9/</link>
       <pubDate>Thu, 12 Mar 2020 23:00:41 +0000</pubDate>
