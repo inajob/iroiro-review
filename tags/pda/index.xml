@@ -18,8 +18,8 @@
       
       <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E5%B0%8F%E5%9E%8B%E3%81%AEpda/</guid>
       <description>Low Power ESP32 Handheldから発見。画像もここから転載。
-ESP32がコアのPDA風ガジェットです。シャープのメモリ液晶とESP32のULPを活用することで、低電力での動作を実現しています。
-加速度センサーも内蔵しており、それによるキーボード入力なども紹介されています。
+ESP32がコアのPDA風ガジェットです。シャープのメモリ液晶とESP32に内蔵されている低消費電力プロセッサ ULPを活用することで、低電力での動作を実現しています。
+加速度センサーも内蔵しており、これを利用したキーボード入力なども紹介されています。
  </description>
     </item>
     
