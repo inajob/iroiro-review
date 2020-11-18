@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>深圳 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E6%B7%B1%E5%9C%B3/</link>
+    <description>Recent content in 深圳 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Tue, 17 Nov 2020 23:00:05 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%B7%B1%E5%9C%B3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ハードウェアーハッカー作者による深圳案内ガイド</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%BC%E3%83%8F%E3%83%83%E3%82%AB%E3%83%BC%E4%BD%9C%E8%80%85%E3%81%AB%E3%82%88%E3%82%8B%E6%B7%B1%E5%9C%B3%E6%A1%88%E5%86%85%E3%82%AC%E3%82%A4%E3%83%89/</link>
+      <pubDate>Tue, 17 Nov 2020 23:00:05 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%BC%E3%83%8F%E3%83%83%E3%82%AB%E3%83%BC%E4%BD%9C%E8%80%85%E3%81%AB%E3%82%88%E3%82%8B%E6%B7%B1%E5%9C%B3%E6%A1%88%E5%86%85%E3%82%AC%E3%82%A4%E3%83%89/</guid>
+      <description>The Essential Guide to Electronics in Shenzhen, Web Editionから発見。画像もここから転載 (CC BY-NC-SA by Andrew ‘bunnie’ Huang)
+Maker活動をしていると、切っても切れないのが「中国」です。そこそこの品質のICを安くで手に入れたり、中国国内でのみ流通している安い電子部品などを知ることで、作品の幅を広げることができます。
+さらに個人でもある程度の「量産」を行う際にも中国の工場を相手にコミュニケーションを行うようなこともあるかもしれません。
+その際に必要となるのが「中国語」の知識です。特に電子工作周りの基本的な単語を中国語でどのように表現するか？という知識が重要です。
+この記事で紹介しているのは「ハードウェアハッカー」の作者であるbunnyが作成した、Makerのための中国ガイドブックです。
+英語圏の人向けに作られているようですが、我々日本人にとってもかなり有用な内容となっています。</description>
+    </item>
+    
+  </channel>
+</rss>
