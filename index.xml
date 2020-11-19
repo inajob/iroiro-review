@@ -6,10 +6,22 @@
     <description>Recent content in inajobがいろいろ紹介するサイトです on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 17 Nov 2020 23:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2020 23:00:10 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3Dプリンタを活用した車のシフトレバー型コントローラー</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E8%BB%8A%E3%81%AE%E3%82%B7%E3%83%95%E3%83%88%E3%83%AC%E3%83%90%E3%83%BC%E5%9E%8B%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC/</link>
+      <pubDate>Wed, 18 Nov 2020 23:00:10 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E8%BB%8A%E3%81%AE%E3%82%B7%E3%83%95%E3%83%88%E3%83%AC%E3%83%90%E3%83%BC%E5%9E%8B%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC/</guid>
+      <description>3D PRINTABLE STICK SHIFT FOR YOUR RACING SIMULATORから発見。画像もここから転載。
+3Dプリンタ製の部品とねじ付きロッドをうまく使って、自動車のシフトレバー風のコントローラを自作しています。
+レースゲームなどで遊ぶ際に、このような専用コントローラがあると気分が盛り上がりそうです。
+ </description>
+    </item>
     
     <item>
       <title>ハードウェアーハッカー作者による深圳案内ガイド</title>
