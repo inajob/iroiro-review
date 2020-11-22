@@ -6,10 +6,22 @@
     <description>Recent content in inajobがいろいろ紹介するサイトです on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 18 Nov 2020 23:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2020 22:00:26 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>EFM8UB1を採用した開発ボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/efm8ub1%E3%82%92%E6%8E%A1%E7%94%A8%E3%81%97%E3%81%9F%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Sun, 22 Nov 2020 22:00:26 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/efm8ub1%E3%82%92%E6%8E%A1%E7%94%A8%E3%81%97%E3%81%9F%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&amp;lsquo;EFM8UB1 Breakout&amp;rsquo; - DIP scale USB-MCU boardから発見。画像もここから転載。
+非常に小さなUSBを扱えるマイコンの開発ボードです。USBのType-Cの内側に入り込むような特殊な基板となっており、コネクタを使うことなくUSB接続を実現しています。
+コアとなっているマイコンはEFM8UB10F16G-Cというもので、あまり聞いたことがないですが16KByteのフラッシュと2304ByteのRAMを持ち、USBをサポートしているマイコンのようです。
+性能的にはATmega32u4と近い感じですかね？　USBを使った作品を作っている人には要チェックなICです。</description>
+    </item>
     
     <item>
       <title>3Dプリンタを活用した車のシフトレバー型コントローラー</title>
