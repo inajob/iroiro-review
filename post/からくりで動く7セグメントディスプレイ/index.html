@@ -8,12 +8,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>
       
-  EFM8UB1を採用した開発ボード &ndash; inajobのいろいろレビュー
+  からくりで動く7セグメントディスプレイ &ndash; inajobのいろいろレビュー
 
     </title>
     
     
-    <meta name="description" property="og:description" content="USBをサポートしたマイコンEFM8UB1のコンパクトな開発ボードを紹介します。|">
+    <meta name="description" property="og:description" content="「からくり」で動作する7セグメント表示機の作例を紹介します|">
     
 
     <meta name="apple-mobile-web-app-title" content="inajobのいろいろレビュー">
@@ -22,16 +22,16 @@
     
     
 
-    <meta property="og:title" content="EFM8UB1を採用した開発ボード | inajobのいろいろレビュー">
-    <meta property="og:description" content="USBをサポートしたマイコンEFM8UB1のコンパクトな開発ボードを紹介します。|">
+    <meta property="og:title" content="からくりで動く7セグメントディスプレイ | inajobのいろいろレビュー">
+    <meta property="og:description" content="「からくり」で動作する7セグメント表示機の作例を紹介します|">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@ina_ani">
     <meta name="twitter:creator" content="@ina_ani">
-    <meta name="twitter:title" content="EFM8UB1を採用した開発ボード | inajobのいろいろレビュー">
-    <meta name="twitter:description" content="USBをサポートしたマイコンEFM8UB1のコンパクトな開発ボードを紹介します。|">
+    <meta name="twitter:title" content="からくりで動く7セグメントディスプレイ | inajobのいろいろレビュー">
+    <meta name="twitter:description" content="「からくり」で動作する7セグメント表示機の作例を紹介します|">
     
-    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/efm8ub1_thumb.jpg">
-    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/efm8ub1_thumb.jpg">
+    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/mechanical-7seg.jpg">
+    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/mechanical-7seg.jpg">
     
     
     <meta name="google-site-verification" content="Wjrrx4mV4IokyVrRy-5rjpG1sfwkjQ-uVRiXhMMXhW8" />
@@ -93,7 +93,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 <div class="Subhead">
   <div class="Subhead-heading">
-    <div class="h1 mt-3 mb-1">EFM8UB1を採用した開発ボード</div>
+    <div class="h1 mt-3 mb-1">からくりで動く7セグメントディスプレイ</div>
   </div>
   <div class="Subhead-description">
     
@@ -101,12 +101,8 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 
 
-<a href='/iroiro-review/tags/efm8ub1' class="muted-link">
-  <span class="Label" style="background-color:#0099dd;">efm8ub1</span>
-</a>
-
-<a href='/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89' class="muted-link">
-  <span class="Label" style="background-color:#0099dd;">開発ボード</span>
+<a href='/iroiro-review/tags/7%E3%82%BB%E3%82%B0' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">7セグ</span>
 </a>
 
 
@@ -125,34 +121,37 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <article>
   
   <section class="pb-6 mb-3 border-bottom">
-    <img src="https://inajob.github.io/iroiro-review/img/efm8ub1_thumb.jpg" />
-    <p><a href="http://osafune.github.io/efm8ub1_breakout.html">&lsquo;EFM8UB1 Breakout&rsquo; - DIP scale USB-MCU board</a>から発見。画像もここから転載。</p>
+    <img src="https://inajob.github.io/iroiro-review/img/mechanical-7seg.jpg" />
+    <p><a href="http://fablabsendai-flat.com/2019/11/04/mechanical7seg_en/">Building a mechanical 7-segment display</a>から発見。画像もここから転載。</p>
 
-<p>非常に小さなUSBを扱えるマイコンの開発ボードです。USBのType-Cの内側に入り込むような特殊な基板となっており、コネクタを使うことなくUSB接続を実現しています。</p>
+<p>からくりで動作する7セグメントディスプレイは、いくつか紹介してきましたが、これまたすごいものです。</p>
 
-<p>コアとなっているマイコンはEFM8UB10F16G-Cというもので、あまり聞いたことがないですが16KByteのフラッシュと2304ByteのRAMを持ち、USBをサポートしているマイコンのようです。</p>
+<p>アクリルで作られた回転するカムにより、各セグメントがからくり式にせりあがっては、降りていきます。</p>
 
-<p>性能的にはATmega32u4と近い感じですかね？　USBを使った作品を作っている人には要チェックなICです。</p>
+<p>結果的に機械の上部の7セグメントの数字次々と変化していきます。
+ゆっくりと変化していく様子は見ていて飽きません。</p>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/tSkKMkYYUJM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   </section>
 
-  <div><a href="/iroiro-review/post/%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A%E3%81%A7%E5%8B%95%E3%81%8F7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/">&lt;- 前の記事 - からくりで動く7セグメントディスプレイ</a></div>
-  <div style="text-align:right;"><a href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E8%BB%8A%E3%81%AE%E3%82%B7%E3%83%95%E3%83%88%E3%83%AC%E3%83%90%E3%83%BC%E5%9E%8B%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC/">次の記事 - 3Dプリンタを活用した車のシフトレバー型コントローラー - &gt;</a></div>
+  <div></div>
+  <div style="text-align:right;"><a href="/iroiro-review/post/efm8ub1%E3%82%92%E6%8E%A1%E7%94%A8%E3%81%97%E3%81%9F%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/">次の記事 - EFM8UB1を採用した開発ボード - &gt;</a></div>
 
   
 
 <h3>関連記事</h3>
 <ul>
   
-  <li><a href="/iroiro-review/post/esp32%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E5%B0%8F%E5%9E%8B%E3%81%AEpda/">ESP32を搭載した小型のPDA</a></li>
+  <li><a href="/iroiro-review/post/uvled%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%96%B0%E3%81%97%E3%81%84%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/">UVLEDを使った新しいディスプレイ</a></li>
   
-  <li><a href="/iroiro-review/post/%E3%83%86%E3%83%AC%E3%83%93%E3%81%A8%E3%81%A4%E3%81%AA%E3%81%84%E3%81%A7basic%E3%81%A7%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%AE%E4%BD%9C%E6%88%90%E5%AE%9F%E8%A1%8C%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%89cb2-micro/">テレビとつないでBASICでプログラムの作成・実行ができるマイコンボードCB2 micro</a></li>
+  <li><a href="/iroiro-review/post/%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85led%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88led/">表面実装LEDを使った7セグメントLED</a></li>
   
-  <li><a href="/iroiro-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AAatmega644-1284%E3%83%9C%E3%83%BC%E3%83%89/">コンパクトなAtmega644/1284ボード</a></li>
+  <li><a href="/iroiro-review/post/%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E6%9D%BF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%A4%A7%E3%81%8D%E3%81%AA7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88led/">アクリル板を使った大きな7セグメントLED</a></li>
   
-  <li><a href="/iroiro-review/post/updi%E7%94%A8%E3%81%AE%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF%E3%83%9C%E3%83%BC%E3%83%89/">UPDI用の書き込みボード</a></li>
+  <li><a href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E6%89%8B%E5%9B%9E%E3%81%97%E5%BC%8F%E3%81%AE7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/">3Dプリンタ製の手回し式の7セグメント表示機</a></li>
   
-  <li><a href="/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E9%9B%BB%E5%AD%90%E3%83%96%E3%83%83%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC/">オープンソースの電子ブックリーダー</a></li>
+  <li><a href="/iroiro-review/post/%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E6%9D%BF%E3%81%AE%E7%B8%81%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E8%87%AA%E4%BD%9C7%E3%82%BB%E3%82%B0/">アクリル板の縁を使った自作7セグ</a></li>
   
 </ul>
 
@@ -180,7 +179,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           }(document, 'script', 'facebook-jssdk'));</script>
 
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/efm8ub1%E3%82%92%E6%8E%A1%E7%94%A8%E3%81%97%E3%81%9F%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/" 
+            data-href="/iroiro-review/post/%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A%E3%81%A7%E5%8B%95%E3%81%8F7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/" 
             data-layout="button_count">
           </div>
         
@@ -213,7 +212,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           
   
     <div id="toc" class="Box Box--blue mb-3">
-      <b>EFM8UB1を採用した開発ボード</b>
+      <b>からくりで動く7セグメントディスプレイ</b>
       
     </div>
   
@@ -229,7 +228,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
         
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/efm8ub1%E3%82%92%E6%8E%A1%E7%94%A8%E3%81%97%E3%81%9F%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/" 
+            data-href="/iroiro-review/post/%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A%E3%81%A7%E5%8B%95%E3%81%8F7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/" 
             data-layout="button_count">
           </div>
         
