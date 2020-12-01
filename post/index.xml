@@ -6,10 +6,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 29 Nov 2020 23:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Nov 2020 23:00:45 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>大きなジョグダイアル付きの8x8マトリクスLEDゲーム機</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%A4%A7%E3%81%8D%E3%81%AA%E3%82%B8%E3%83%A7%E3%82%B0%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AB%E4%BB%98%E3%81%8D%E3%81%AE8x8%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Mon, 30 Nov 2020 23:00:45 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%A4%A7%E3%81%8D%E3%81%AA%E3%82%B8%E3%83%A7%E3%82%B0%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AB%E4%BB%98%E3%81%8D%E3%81%AE8x8%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>TeleBall - Retro Handheld Game Console から発見。画像もここから転載。
+上下左右のキーとABボタンという標準的なゲームのコントローラにとらわれないモバイルゲームコンソールです。つまみを回すことでゲーム内のパドルを左右に動かすことができます。
+中身はArduino Nanoと2.4GHz通信モジュールで構成されており、2台あれば通信対戦もできるようです。
+3Dプリンタで作成された筐体はバッテリーケースも兼ねており、DIYでゲーム機を作る際の参考になりそうです。
+ </description>
+    </item>
     
     <item>
       <title>温度センサーを使わずにマイコンで温度を取得する裏技</title>
