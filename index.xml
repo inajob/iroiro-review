@@ -6,10 +6,23 @@
     <description>Recent content in inajobがいろいろ紹介するサイトです on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 30 Nov 2020 23:00:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2020 23:00:32 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>グルースティックを使った大きな7セグメントLED</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%A4%A7%E3%81%8D%E3%81%AA7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88led/</link>
+      <pubDate>Tue, 01 Dec 2020 23:00:32 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%A4%A7%E3%81%8D%E3%81%AA7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88led/</guid>
+      <description>Big 7 segment displayから発見。画像もここから転載。
+ちょっと変わった大きな7セグメント表示機の作例です。 グルーガンで使用するグルースティックをセグメントとして利用し、LEDを用いてこのスティックを光らせます。
+グルースティックの適度な曇り具合が光を拡散して、ネオンサインのような味のある光を演出しているのが素敵です。
+コントローラとしてはESP8266を用い、I/Oエキスパンダとして、MCP23017を使用しているようです。
+ </description>
+    </item>
     
     <item>
       <title>大きなジョグダイアル付きの8x8マトリクスLEDゲーム機</title>
