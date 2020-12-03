@@ -6,10 +6,22 @@
     <description>Recent content in 3dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 23 Nov 2020 23:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 23:00:15 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3Dプリンタを改造した複数ペン対応のプロッタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%9F%E8%A4%87%E6%95%B0%E3%83%9A%E3%83%B3%E5%AF%BE%E5%BF%9C%E3%81%AE%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</link>
+      <pubDate>Wed, 02 Dec 2020 23:00:15 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%9F%E8%A4%87%E6%95%B0%E3%83%9A%E3%83%B3%E5%AF%BE%E5%BF%9C%E3%81%AE%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</guid>
+      <description>Turning a Zonestar 3D printer into a Plotter から発見。画像もここから転載。
+3Dプリンタを改造して作られたペンプロッタです。 複数のペンを持ち替えることができるというユニークな機能が特徴です。
+Z軸をフル活用して、ペンを差し替えています。なんともアナログな方法ですが、一生懸命ペンを持ち替えて図形を描く姿は、見ていて飽きません。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタを使って点描を行う方法を紹介</title>
