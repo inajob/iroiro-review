@@ -6,10 +6,23 @@
     <description>Recent content in inajobがいろいろ紹介するサイトです on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 02 Dec 2020 23:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Dec 2020 23:00:41 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>放電加工で作るプリント基板</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%94%BE%E9%9B%BB%E5%8A%A0%E5%B7%A5%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%9F%BA%E6%9D%BF/</link>
+      <pubDate>Sat, 05 Dec 2020 23:00:41 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%94%BE%E9%9B%BB%E5%8A%A0%E5%B7%A5%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%9F%BA%E6%9D%BF/</guid>
+      <description>PCB Fabrication with EDMから発見。画像もここから転載。
+プリント基板を作る方法としては、古くから使われているのはエッチングですが、危険な化学薬品を使うためDIYで利用するのはためらわれます。
+この記事で紹介しているのは、放電加工を使ってプリント基板を作成する方法です。 まだまだ実験段階のようですが、高電圧で放電することで、生基板上の銅箔を削り取ることとで、基板を切削するという原理で動いているようです。
+この技術が実用化されれば、今までよりはるかに手軽にプリント基板の施策ができるようになりそうです。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタを改造した複数ペン対応のプロッタ</title>
