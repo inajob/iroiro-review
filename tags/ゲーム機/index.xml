@@ -6,10 +6,23 @@
     <description>Recent content in ゲーム機 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 30 Nov 2020 23:00:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Dec 2020 23:00:47 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>高性能なマトリクスLEDゲーム機「PewPew」</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%AB%98%E6%80%A7%E8%83%BD%E3%81%AA%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9Fpewpew/</link>
+      <pubDate>Mon, 07 Dec 2020 23:00:47 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%AB%98%E6%80%A7%E8%83%BD%E3%81%AA%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9Fpewpew/</guid>
+      <description>Small PewPew Standaloneから発見。画像もここから転載。
+8x8のディスプレイと6つのボタンを搭載したゲーム機です。乾電池で動作します。
+Atmel SAMD21がコアでCircuitPythonでプログラミングすることが出来ます。
+8x8のローレゾなディスプレイですが、CPUは結構高性能です。このバランスをうまく生かしたゲームができると面白そうです。
+価格も結構お手軽なので試してみたい人は、買ってみてはいかがでしょうか？ → Small PewPew Standalone</description>
+    </item>
     
     <item>
       <title>大きなジョグダイアル付きの8x8マトリクスLEDゲーム機</title>
