@@ -6,10 +6,22 @@
     <description>Recent content in inajobがいろいろ紹介するサイトです on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 08 Dec 2020 23:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Dec 2020 23:00:42 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ATTiny84で作る温度計</title>
+      <link>https://inajob.github.io/iroiro-review/post/attiny84%E3%81%A7%E4%BD%9C%E3%82%8B%E6%B8%A9%E5%BA%A6%E8%A8%88/</link>
+      <pubDate>Wed, 09 Dec 2020 23:00:42 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/attiny84%E3%81%A7%E4%BD%9C%E3%82%8B%E6%B8%A9%E5%BA%A6%E8%A8%88/</guid>
+      <description>Two-Digit Thermometerから発見。画像もここから転載。
+ATTiny84を使った2桁表示の温度計です。
+Arduinoで使用されているATMega328と比べるとスペックは劣るものの、このくらいの動作であれば問題なく動かせるようです。
+この作者の方は以前からATTiny系の作例を大量に作っており、メモリの少ないマイコン上でのプログラミングという観点で非常に参考になるソースコードとなっています。</description>
+    </item>
     
     <item>
       <title>4ボタンのYMZ294を使ったチップチューンシーケンサ</title>
