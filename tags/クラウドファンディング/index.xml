@@ -6,10 +6,24 @@
     <description>Recent content in クラウドファンディング on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 04 Oct 2020 23:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Dec 2020 23:00:43 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>高機能なオープン携帯ゲーム機</title>
+      <link>https://inajob.github.io/iroiro-review/post/32bit%E3%81%AE%E9%AB%98%E6%A9%9F%E8%83%BD%E3%81%AA%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Wed, 16 Dec 2020 23:00:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/32bit%E3%81%AE%E9%AB%98%E6%A9%9F%E8%83%BD%E3%81%AA%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>32blit: retro-inspired handheld with open-source firmwareから発見。画像もここから転載。
+パワフルな携帯ゲーム機のプロジェクトです。 コアとなるのは STM32H750 Cortex-M7 です。1MBのSRAMを搭載し、さらに32MBのフラッシュメモリを内蔵しています。
+解像度は320x240で、バッテリーも搭載しています。
+ゲームは、LuaやC++で作成できます。ゲームを簡単に作れるように2000以上のスプライトや100以上のサウンドエフェクトと、10以上の音楽も提供されているようです。
+ゲームの開発環境も併せて提供されるなので、比較的簡単にこのゲーム機で動作するゲームを作ることが出来そうです。
+ </description>
+    </item>
     
     <item>
       <title>コンパクトなAtmega644/1284ボード</title>
