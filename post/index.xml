@@ -6,10 +6,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 24 Dec 2020 10:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Dec 2020 10:00:41 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>手回し式のフルメカニカル7セグメント表示機</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E5%9B%9E%E3%81%97%E5%BC%8F%E3%81%AE%E3%83%95%E3%83%AB%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%AB%E3%83%AB7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
+      <pubDate>Sun, 27 Dec 2020 10:00:41 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E5%9B%9E%E3%81%97%E5%BC%8F%E3%81%AE%E3%83%95%E3%83%AB%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%AB%E3%83%AB7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
+      <description>7-SEGMENTSから発見。画像もここから転載。
+電源を用いずに、完全にからくりだけで数字を切り替えながら表示できる装置です。
+3Dプリンタで作られており、有料ですがモデルデータをダウンロードすることが出来ます。
+ギアだらけの内部構造が見えるのもかっこよく、ギーク心をくすぐられます。</description>
+    </item>
     
     <item>
       <title>RaspberryPiと3Dプリンタ製ケースによるNAS</title>
