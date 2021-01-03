@@ -6,10 +6,24 @@
     <description>Recent content in inajobがいろいろ紹介するサイトです on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 30 Dec 2020 10:00:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Jan 2021 23:00:57 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>キャラクタ液晶ディスプレイを縦に使った漢字表示の時計</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E6%B6%B2%E6%99%B6%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%BC%A2%E5%AD%97%E8%A1%A8%E7%A4%BA%E3%81%AE%E6%99%82%E8%A8%88/</link>
+      <pubDate>Sat, 02 Jan 2021 23:00:57 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E6%B6%B2%E6%99%B6%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%BC%A2%E5%AD%97%E8%A1%A8%E7%A4%BA%E3%81%AE%E6%99%82%E8%A8%88/</guid>
+      <description>Kanji Clock on Alphanumeric LCDから発見。画像もここから転載。
+キャラクタ液晶ディスプレイという電子部品がありますが、これはアルファベットと、ぎりぎりカタカナが表示できるようなデバイスです。日本人としては漢字を表示したいものです。
+この記事で紹介されているのは、キャラクタ液晶ディスプレイに「漢字」で時計を表示するという試みです。
+面白いのは液晶を90度回転させて、8x5のセグメントを5x8の横長のセグメントとして利用しているところです。
+よく見かけるキャラクタ液晶ディスプレイですが、90度回転させ、さらに漢字が表示されている、というのは新鮮な見た目です。普段使っている部品でも、このように新しい使い方ができると目を引く作品が作れそうです。
+ </description>
+    </item>
     
     <item>
       <title>2020年アクセスランキング</title>
@@ -3127,20 +3141,6 @@ Raspberry Pi 3を使ったポータブルゲーム機の作例です。 ケー�
       <description>Portable Arduino Labから発見。画像もここから転載。（CC BY-NC-SA By YADUKRISHNAN K M）
 Arduinoはプロトタイプに便利ですがいくつか気になる点があります。 それが バッテリーとエンクロージャです。
 この記事で紹介している。Portable Arduino Labは、バッテリーを搭載したケース付きのArduinoです。バッテリーの充電ボードは自分でエッチングして作っているようです。</description>
-    </item>
-    
-    <item>
-      <title>キャラクタ液晶ディスプレイを縦に使った漢字表示の時計</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E6%B6%B2%E6%99%B6%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%BC%A2%E5%AD%97%E8%A1%A8%E7%A4%BA%E3%81%AE%E6%99%82%E8%A8%88/</link>
-      <pubDate>Fri, 03 Jan 2020 11:00:57 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E6%B6%B2%E6%99%B6%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%BC%A2%E5%AD%97%E8%A1%A8%E7%A4%BA%E3%81%AE%E6%99%82%E8%A8%88/</guid>
-      <description>Kanji Clock on Alphanumeric LCDから発見。画像もここから転載。
-キャラクタ液晶ディスプレイという電子部品がありますが、これはアルファベットと、ぎりぎりカタカナが表示できるようなデバイスです。日本人としては漢字を表示したいものです。
-この記事で紹介されているのは、キャラクタ液晶ディスプレイに「漢字」で時計を表示するという試みです。
-面白いのは液晶を90度回転させて、8x5のセグメントを5x8の横長のセグメントとして利用しているところです。
-よく見かけるキャラクタ液晶ディスプレイですが、90度回転させ、さらに漢字が表示されている、というのは新鮮な見た目です。普段使っている部品でも、このように新しい使い方ができると目を引く作品が作れそうです。
- </description>
     </item>
     
     <item>
