@@ -6,10 +6,22 @@
     <description>Recent content in Hack on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 12 Dec 2020 23:00:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Jan 2021 11:00:21 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>VGA端子をI2Cの入出力として扱う</title>
+      <link>https://inajob.github.io/iroiro-review/post/vga%E7%AB%AF%E5%AD%90%E3%82%92i2c%E3%81%AE%E5%85%A5%E5%87%BA%E5%8A%9B%E3%81%A8%E3%81%97%E3%81%A6%E6%89%B1%E3%81%86/</link>
+      <pubDate>Thu, 07 Jan 2021 11:00:21 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/vga%E7%AB%AF%E5%AD%90%E3%82%92i2c%E3%81%AE%E5%85%A5%E5%87%BA%E5%8A%9B%E3%81%A8%E3%81%97%E3%81%A6%E6%89%B1%E3%81%86/</guid>
+      <description>i2c on your unused/legacy VGA outputから発見。画像もここから転載。
+ディスプレイを接続するためのVGA端子ですが、そのピンの中にI2Cの機能のピンがあることを知っていますか？
+本来はモニタのサポートしている解像度などをPCとやり取りするために使われるもののようですが、この記事ではLinuxで、このI2Cを扱う方法を紹介しています。
+カーネルモジュールをロードするだけで、使えるようになり、記事の中では気温・湿度センサーの値をこのVGA端子から読み取っている様子が紹介されています。</description>
+    </item>
     
     <item>
       <title>チップチューン専用のゲームボーイ</title>
