@@ -6,10 +6,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 07 Jan 2021 11:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Jan 2021 11:00:10 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3Dプリンタのノズルを印刷時に掃除する実験</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%8E%E3%82%BA%E3%83%AB%E3%82%92%E5%8D%B0%E5%88%B7%E6%99%82%E3%81%AB%E6%8E%83%E9%99%A4%E3%81%99%E3%82%8Bhack/</link>
+      <pubDate>Sun, 10 Jan 2021 11:00:10 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%8E%E3%82%BA%E3%83%AB%E3%82%92%E5%8D%B0%E5%88%B7%E6%99%82%E3%81%AB%E6%8E%83%E9%99%A4%E3%81%99%E3%82%8Bhack/</guid>
+      <description>Attempting to Automatically Clean a 3D Printer Nozzle Using a Wire Brushから発見。画像もここから転載。
+3Dプリント時に、うまく積層出来なかったフィラメントが、ノズルに残り続けることがあります。 さらに悪いことに、この残りカスが再び生成物にくっつくことがあるのです。
+こうなると3Dプリンタの生成物に変なたんこぶのようなものが出来たり、ひどいときは、その段差によりベッドから生成物がはがれてしまい、プリントが失敗してしまうようなこともあります。
+この記事では、これを何とか防ごうと、金属製のブラシをヒートベッドの横に設置して、都度都度ノズルを掃除しようというアイデアを試しています。
+この記事のやり方では、結局うまく行かなかったようですが、このアイデアを基に、さらなる実験を行えば、良い方法が見つかるかもしれません。
+ </description>
+    </item>
     
     <item>
       <title>VGA端子をI2Cの入出力として扱う</title>
