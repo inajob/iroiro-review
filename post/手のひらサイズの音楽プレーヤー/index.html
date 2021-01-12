@@ -8,12 +8,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>
       
-  3DプリンタのXY軸移動の最新版Core XYの紹介 &ndash; inajobのいろいろレビュー
+  手のひらサイズの音楽プレーヤー &ndash; inajobのいろいろレビュー
 
     </title>
     
     
-    <meta name="description" property="og:description" content="3DプリンタのXY軸を制御する最近の方法の一つであるCore XYについて紹介します。|">
+    <meta name="description" property="og:description" content="ATtiny85を使った手のひらサイズの音楽プレーヤの作例を紹介します。|">
     
 
     <meta name="apple-mobile-web-app-title" content="inajobのいろいろレビュー">
@@ -22,16 +22,16 @@
     
     
 
-    <meta property="og:title" content="3DプリンタのXY軸移動の最新版Core XYの紹介 | inajobのいろいろレビュー">
-    <meta property="og:description" content="3DプリンタのXY軸を制御する最近の方法の一つであるCore XYについて紹介します。|">
+    <meta property="og:title" content="手のひらサイズの音楽プレーヤー | inajobのいろいろレビュー">
+    <meta property="og:description" content="ATtiny85を使った手のひらサイズの音楽プレーヤの作例を紹介します。|">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@ina_ani">
     <meta name="twitter:creator" content="@ina_ani">
-    <meta name="twitter:title" content="3DプリンタのXY軸移動の最新版Core XYの紹介 | inajobのいろいろレビュー">
-    <meta name="twitter:description" content="3DプリンタのXY軸を制御する最近の方法の一つであるCore XYについて紹介します。|">
+    <meta name="twitter:title" content="手のひらサイズの音楽プレーヤー | inajobのいろいろレビュー">
+    <meta name="twitter:description" content="ATtiny85を使った手のひらサイズの音楽プレーヤの作例を紹介します。|">
     
-    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/corexy.png">
-    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/corexy.png">
+    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/boombox.jpg">
+    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/boombox.jpg">
     
     
     <meta name="google-site-verification" content="Wjrrx4mV4IokyVrRy-5rjpG1sfwkjQ-uVRiXhMMXhW8" />
@@ -100,7 +100,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 <div class="Subhead">
   <div class="Subhead-heading">
-    <div class="h1 mt-3 mb-1">3DプリンタのXY軸移動の最新版Core XYの紹介</div>
+    <div class="h1 mt-3 mb-1">手のひらサイズの音楽プレーヤー</div>
   </div>
   <div class="Subhead-description">
     
@@ -108,17 +108,21 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 
 
-<a href='/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF' class="muted-link">
-  <span class="Label" style="background-color:#0099dd;">3Dプリンタ</span>
+<a href='/iroiro-review/tags/attiny85' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">ATtiny85</span>
+</a>
+
+<a href='/iroiro-review/tags/%E9%9F%B3%E6%A5%BD' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">音楽</span>
 </a>
 
 
 
     
     <div class="float-md-right">
-      <span title="Lastmod: 2021-01-10. Published at: 2021-01-10.">
+      <span title="Lastmod: 2021-01-12. Published at: 2021-01-12.">
         
-          Published: 2021-01-10
+          Published: 2021-01-12
         
       </span>
     </div>
@@ -128,22 +132,19 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <article>
   
   <section class="pb-6 mb-3 border-bottom">
-    <img src="https://inajob.github.io/iroiro-review/img/corexy.png" />
-    <p><a href="https://hackaday.com/2019/11/12/core-xy-explained/">CORE XY EXPLAINED</a>から発見。画像もここから転載。</p>
+    <img src="https://inajob.github.io/iroiro-review/img/boombox.jpg" />
+    <p><a href="https://0creativeengineering0.blogspot.com/2019/06/diy-portable-pocket-music-player-using.html">DIY Portable Pocket Music Player Using ATtiny85 micro-controller(from SD-card)</a>から発見。画像もここから転載。</p>
 
-<p>3DプリンタのX,Y軸の制御の方法の一つであるCore XYについて紹介しています。</p>
+<p>ATTiny85を使って作られた、SDカードに入ったWAVファイルを再生できる音楽プレーヤーです。スピーカーを内蔵しており、必要に応じてイアホンを取り付けることもできます。</p>
 
-<p>最もわかりやすい、X,Y軸をそれぞれのステッピングモータが担当する方式はCartesianと呼ばれており、またもう一つ、よく聞く方式にDeltaがあります。</p>
+<p>リチウムイオンバッテリーを内蔵しており、どこでも音楽を聴くことが出来ます。（ただし充電回路は貧弱なので、あまり真似しないほうがよさそうです。）</p>
 
-<p>CoreXYはこのどちらとも違う方式です。
-ちょっとトリッキーに接続された2本のベルトを2個のステッピングモーターで引っ張ることで、X,Y軸の移動を実現しており、この方式のほうがCartesianよりも正確で、また速い速度で移動できるようです。</p>
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/_ramiM3KHYE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/qDSJK4ajLWY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   </section>
 
-  <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3"><a href="/iroiro-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E9%9F%B3%E6%A5%BD%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC/">&lt;- 前の記事 - 手のひらサイズの音楽プレーヤー<img class="rect" src="https://inajob.github.io/iroiro-review/img/boombox.jpg" /></a></div>
-  <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3"><a href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%8E%E3%82%BA%E3%83%AB%E3%82%92%E5%8D%B0%E5%88%B7%E6%99%82%E3%81%AB%E6%8E%83%E9%99%A4%E3%81%99%E3%82%8Bhack/"><img class="rect" src="https://inajob.github.io/iroiro-review/img/wipe-3d-printer.png" />次の記事 - 3Dプリンタのノズルを印刷時に掃除する実験 - &gt;</a></div>
+  <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3"></div>
+  <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3"><a href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AExy%E8%BB%B8%E7%A7%BB%E5%8B%95%E3%81%AE%E6%9C%80%E6%96%B0%E7%89%88core-xy%E3%81%AE%E7%B4%B9%E4%BB%8B/"><img class="rect" src="https://inajob.github.io/iroiro-review/img/corexy.png" />次の記事 - 3DプリンタのXY軸移動の最新版Core XYの紹介 - &gt;</a></div>
 
   
 
@@ -151,37 +152,37 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <div>
   
   <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3">
-    <a href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%8E%E3%82%BA%E3%83%AB%E3%82%92%E5%8D%B0%E5%88%B7%E6%99%82%E3%81%AB%E6%8E%83%E9%99%A4%E3%81%99%E3%82%8Bhack/">
-      <img class="rect" src="https://inajob.github.io/iroiro-review/img/wipe-3d-printer.png" />
-      3Dプリンタのノズルを印刷時に掃除する実験
+    <a href="/iroiro-review/post/fm%E9%9F%B3%E6%BA%90%E3%83%81%E3%83%83%E3%83%97%E3%82%92%E9%B3%B4%E3%82%89%E3%81%99%E3%81%9F%E3%82%81%E3%81%AE%E7%94%BB%E9%9D%A2%E3%81%8C4%E3%81%A4%E3%82%82%E3%81%82%E3%82%8B%E5%AE%9F%E9%A8%93%E3%83%9C%E3%83%BC%E3%83%89/">
+      <img class="rect" src="https://inajob.github.io/iroiro-review/img/dafm-synth.jpg" />
+      FM音源チップを鳴らすための画面が4つもある実験ボード
     </a>
   </div>
   
   <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3">
-    <a href="/iroiro-review/post/%E7%84%A1%E7%B7%9A%E3%81%A7%E5%88%B6%E5%BE%A1%E3%81%A7%E3%81%8D%E3%82%8B%E7%B5%B5%E6%96%87%E5%AD%97%E8%A1%A8%E7%A4%BA%E5%99%A8/">
-      <img class="rect" src="https://inajob.github.io/iroiro-review/img/emoji-display.jpg" />
-      無線で制御できる「絵文字表示器」
+    <a href="/iroiro-review/post/%E3%83%81%E3%83%83%E3%83%97%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%E5%B0%82%E7%94%A8%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4/">
+      <img class="rect" src="https://inajob.github.io/iroiro-review/img/gameboy-walkman.jpg" />
+      チップチューン専用のゲームボーイ
     </a>
   </div>
   
   <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3">
-    <a href="/iroiro-review/post/%E6%89%8B%E5%9B%9E%E3%81%97%E5%BC%8F%E3%81%AE%E3%83%95%E3%83%AB%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%AB%E3%83%AB7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/">
-      <img class="rect" src="https://inajob.github.io/iroiro-review/img/mechanical-7-seg.jpg" />
-      手回し式のフルメカニカル7セグメント表示機
+    <a href="/iroiro-review/post/4%E3%83%9C%E3%82%BF%E3%83%B3%E3%81%AEymz294%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%81%E3%83%83%E3%83%97%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%B5/">
+      <img class="rect" src="https://inajob.github.io/iroiro-review/img/simple-chiptune-synth.jpg" />
+      4ボタンのYMZ294を使ったチップチューンシーケンサ
     </a>
   </div>
   
   <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3">
-    <a href="/iroiro-review/post/raspberrypi%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%82%B1%E3%83%BC%E3%82%B9%E3%81%AB%E3%82%88%E3%82%8Bnas/">
-      <img class="rect" src="https://inajob.github.io/iroiro-review/img/3dprinted-nas.jpg" />
-      RaspberryPiと3Dプリンタ製ケースによるNAS
+    <a href="/iroiro-review/post/%E6%89%8B%E3%82%92%E3%81%8B%E3%81%96%E3%81%99%E3%81%93%E3%81%A8%E3%81%A7%E6%93%8D%E4%BD%9C%E3%81%A7%E3%81%8D%E3%82%8B%E9%9B%BB%E5%AD%90%E3%83%89%E3%83%A9%E3%83%A0/">
+      <img class="rect" src="https://inajob.github.io/iroiro-review/img/air-drum.jpg" />
+      手をかざすことで操作できる電子ドラム
     </a>
   </div>
   
   <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3">
-    <a href="/iroiro-review/post/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E5%BC%8F%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8D%E3%81%AEraspberry-pi%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/">
-      <img class="rect" src="https://inajob.github.io/iroiro-review/img/mutantc.png" />
-      スライド式キーボード付きのRaspberry Piコンソール
+    <a href="/iroiro-review/post/%E3%83%A6%E3%83%BC%E3%83%AD%E3%83%A9%E3%83%83%E3%82%AF%E5%90%91%E3%81%91%E3%81%AE%E3%83%88%E3%83%A9%E3%83%83%E3%82%AB%E3%83%BC%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%ABnerdseq/">
+      <img class="rect" src="https://inajob.github.io/iroiro-review/img/nerdseq.png" />
+      ユーロラック向けのトラッカーモジュール「NERDSEQ」
     </a>
   </div>
   
@@ -211,7 +212,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           }(document, 'script', 'facebook-jssdk'));</script>
 
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AExy%E8%BB%B8%E7%A7%BB%E5%8B%95%E3%81%AE%E6%9C%80%E6%96%B0%E7%89%88core-xy%E3%81%AE%E7%B4%B9%E4%BB%8B/" 
+            data-href="/iroiro-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E9%9F%B3%E6%A5%BD%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC/" 
             data-layout="button_count">
           </div>
         
@@ -244,7 +245,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           
   
     <div id="toc" class="Box Box--blue mb-3">
-      <b>3DプリンタのXY軸移動の最新版Core XYの紹介</b>
+      <b>手のひらサイズの音楽プレーヤー</b>
       
     </div>
   
@@ -260,7 +261,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
         
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AExy%E8%BB%B8%E7%A7%BB%E5%8B%95%E3%81%AE%E6%9C%80%E6%96%B0%E7%89%88core-xy%E3%81%AE%E7%B4%B9%E4%BB%8B/" 
+            data-href="/iroiro-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E9%9F%B3%E6%A5%BD%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC/" 
             data-layout="button_count">
           </div>
         

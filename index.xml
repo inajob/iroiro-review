@@ -6,10 +6,22 @@
     <description>Recent content in inajobがいろいろ紹介するサイトです on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 10 Jan 2021 23:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Jan 2021 11:00:32 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>手のひらサイズの音楽プレーヤー</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E9%9F%B3%E6%A5%BD%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC/</link>
+      <pubDate>Tue, 12 Jan 2021 11:00:32 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E9%9F%B3%E6%A5%BD%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC/</guid>
+      <description>DIY Portable Pocket Music Player Using ATtiny85 micro-controller(from SD-card)から発見。画像もここから転載。
+ATTiny85を使って作られた、SDカードに入ったWAVファイルを再生できる音楽プレーヤーです。スピーカーを内蔵しており、必要に応じてイアホンを取り付けることもできます。
+リチウムイオンバッテリーを内蔵しており、どこでも音楽を聴くことが出来ます。（ただし充電回路は貧弱なので、あまり真似しないほうがよさそうです。）
+ </description>
+    </item>
     
     <item>
       <title>3DプリンタのXY軸移動の最新版Core XYの紹介</title>
