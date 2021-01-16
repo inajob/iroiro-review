@@ -6,10 +6,31 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 14 Jan 2021 11:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Jan 2021 12:40:52 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>完成度の高い電子ペーパー開発機「M5Paper」（クーポンあり！）</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%AE%8C%E6%88%90%E5%BA%A6%E3%81%AE%E9%AB%98%E3%81%84%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E9%96%8B%E7%99%BA%E6%A9%9Fm5paper%E3%82%AF%E3%83%BC%E3%83%9D%E3%83%B3%E3%81%82%E3%82%8A/</link>
+      <pubDate>Fri, 15 Jan 2021 12:40:52 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%AE%8C%E6%88%90%E5%BA%A6%E3%81%AE%E9%AB%98%E3%81%84%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E9%96%8B%E7%99%BA%E6%A9%9Fm5paper%E3%82%AF%E3%83%BC%E3%83%9D%E3%83%B3%E3%81%82%E3%82%8A/</guid>
+      <description>この記事はBanggoodの提供でお届けします。
+以前紹介したようにこのブログはBanggoodと提携させていただいており、今回紹介するM5PaperはBanggoodからいただいたものとなります。 （M5Paperのレビューがしたい！と言ったのは自分なので、Banggoodが無理やりM5Paperを押しているわけではなく、inajobの一押しアイテム！、という感じです。）
+・・・ といういつもの前置きはそこそこに、M5Paperについて紹介していきます。
+そして、今回もこのブログのために2021/02/28まで利用できるクーポンを頂くことが出来たので、そちらも紹介します。
+M5Paperの特徴・仕様 M5Paperは電子ペーパーを搭載したスマートフォン風ガジェットです。（もうみなさんご存知とは思いますが、AndroidやiOSが動くようなものではありません）
+開発元はこの界隈では有名なM5Stack社です。
+M5Stack社と言えば、代名詞的なプロダクトとしてM5Stack（会社名と同じガジェットです。）がありますが、M5Stackは液晶画面を搭載した開発ボードで、一方このM5Paperは電子ペーパーを搭載したガジェットです。
+様々な点でM5Stackとは仕様が違いますが、そのコンセプトのようなものは共通して、「開発者向けのガジェット」です。
+よく「パソコンはソフトが無ければただの箱」などと言いますが、まさにM5StackやM5Paperはその「箱」だけを売っているような製品です。
+いやいや、じゃあ「箱」だけじゃ使えないじゃん！と思われるでしょう？ だからこれは「開発者向けのガジェット」なのです。ソフトは買ったあなたが作るのです。
+しかし、M5Stack社の偉いところは、簡単に開発できるようなお膳立てを整えておいてくれているところです。電子工作ユーザーが良くなれている「Arduino」を使ってこれらのガジェット向けのプログラムを簡単に作ることが出来ます。
+と、ここまで長々と「特徴」について述べてきましたが、仕様の方も見ていきましょう。
+ ESP32(240MHzデュアルコア, 16MB FLash, 8MB PSRAM)  WiFi, Bluetoothもサポート 技適取得済み M5StackでもおなじみのパワフルなCPUです  4.7インチ16階調液晶 960*540  ちょうど手のひらサイズです  タッチパネル TPS65185  指で操作できます  温度・湿度センサー SHT30 リアルタイムクロック BM8563  電源が切れていても時間を正確に刻めます。  静電容量タッチセンサー GT911  マルチポイントタッチ対応  micro SDカードスロット USB Type-C充電端子 I2Cポート*3 多機能ボタン（上下と中央の3スイッチ）  握った親指で操作しやすいボタンです  リセットボタン EEPROM FM24C02  電源が切れてもデータを記憶できます。  磁石内蔵  金属に貼り付けることが出来ます。  USBシリアル CP2104  パソコンからUSB経由でプログラムを書き換えられます。  リチウムイオンバッテリー 1150mAh  電源をつながなくてもそこそこ稼働します。 電源を切っても画面は残るので、表示し続けるだけなら電気を消費しません。   お腹いっぱいの仕様ですね。</description>
+    </item>
     
     <item>
       <title>3Dプリンタ製のらせん状の面白い時計</title>
