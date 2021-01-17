@@ -6,10 +6,23 @@
     <description>Recent content in Hack on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 07 Jan 2021 11:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Jan 2021 11:00:43 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>安価な自作の水力発電機</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E6%B0%B4%E5%8A%9B%E7%99%BA%E9%9B%BB%E6%A9%9F/</link>
+      <pubDate>Sun, 17 Jan 2021 11:00:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E6%B0%B4%E5%8A%9B%E7%99%BA%E9%9B%BB%E6%A9%9F/</guid>
+      <description>OPEN SOURCE $50 WATER TURBINE FROM REPURPOSED PARTSから発見。画像もここから転載。
+高いところにある水路から、パイプを伝いサイフォンの原理で水路下に水を流し、その流れでタービンを回して電気を発生させるという水力発電機です。
+PVCパイプなど手に入りやすい安価な材料で作成されているのが特徴です。まだプロジェクトは公開されていませんがいずれオープンソースで公開されるとのことです。
+高いところに水路があるという特殊な地形が必要ですが、このような地形にお住まいの方はぜひ試してみて欲しいです。
+ </description>
+    </item>
     
     <item>
       <title>VGA端子をI2Cの入出力として扱う</title>
