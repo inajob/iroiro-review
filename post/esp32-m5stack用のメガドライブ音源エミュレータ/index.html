@@ -8,12 +8,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>
       
-  安価な自作の水力発電機 &ndash; inajobのいろいろレビュー
+  ESP32/M5Stack用のメガドライブ音源エミュレータ &ndash; inajobのいろいろレビュー
 
     </title>
     
     
-    <meta name="description" property="og:description" content="自作の水力発電機の作例を紹介します。|">
+    <meta name="description" property="og:description" content="ESP32/M5Stack用のメガドライブ音源エミュレータの作例を紹介します。|">
     
 
     <meta name="apple-mobile-web-app-title" content="inajobのいろいろレビュー">
@@ -22,16 +22,16 @@
     
     
 
-    <meta property="og:title" content="安価な自作の水力発電機 | inajobのいろいろレビュー">
-    <meta property="og:description" content="自作の水力発電機の作例を紹介します。|">
+    <meta property="og:title" content="ESP32/M5Stack用のメガドライブ音源エミュレータ | inajobのいろいろレビュー">
+    <meta property="og:description" content="ESP32/M5Stack用のメガドライブ音源エミュレータの作例を紹介します。|">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@ina_ani">
     <meta name="twitter:creator" content="@ina_ani">
-    <meta name="twitter:title" content="安価な自作の水力発電機 | inajobのいろいろレビュー">
-    <meta name="twitter:description" content="自作の水力発電機の作例を紹介します。|">
+    <meta name="twitter:title" content="ESP32/M5Stack用のメガドライブ音源エミュレータ | inajobのいろいろレビュー">
+    <meta name="twitter:description" content="ESP32/M5Stack用のメガドライブ音源エミュレータの作例を紹介します。|">
     
-    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/scraphydrogenerator.jpg">
-    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/scraphydrogenerator.jpg">
+    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/m5stack-synth.jpg">
+    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/m5stack-synth.jpg">
     
     
     <meta name="google-site-verification" content="Wjrrx4mV4IokyVrRy-5rjpG1sfwkjQ-uVRiXhMMXhW8" />
@@ -100,7 +100,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 <div class="Subhead">
   <div class="Subhead-heading">
-    <div class="h1 mt-3 mb-1">安価な自作の水力発電機</div>
+    <div class="h1 mt-3 mb-1">ESP32/M5Stack用のメガドライブ音源エミュレータ</div>
   </div>
   <div class="Subhead-description">
     
@@ -108,17 +108,21 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 
 
-<a href='/iroiro-review/tags/hack' class="muted-link">
-  <span class="Label" style="background-color:#0099dd;">HACK</span>
+<a href='/iroiro-review/tags/esp32' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">ESP32</span>
+</a>
+
+<a href='/iroiro-review/tags/%E9%9F%B3%E6%A5%BD' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">音楽</span>
 </a>
 
 
 
     
     <div class="float-md-right">
-      <span title="Lastmod: 2021-01-17. Published at: 2021-01-17.">
+      <span title="Lastmod: 2021-01-18. Published at: 2021-01-18.">
         
-          Published: 2021-01-17
+          Published: 2021-01-18
         
       </span>
     </div>
@@ -128,21 +132,22 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <article>
   
   <section class="pb-6 mb-3 border-bottom">
-    <img src="https://inajob.github.io/iroiro-review/img/scraphydrogenerator.jpg" />
-    <p><a href="https://hackaday.com/2019/12/20/open-source-50-water-turbine-from-repurposed-parts/">OPEN SOURCE $50 WATER TURBINE FROM REPURPOSED PARTS</a>から発見。画像もここから転載。</p>
+    <img src="https://inajob.github.io/iroiro-review/img/m5stack-synth.jpg" />
+    <p><a href="https://github.com/h1romas4/m5stack-synth-emulation">h1romas4
+/m5stack-synth-emulation</a>から発見。画像もここから転載。</p>
 
-<p>高いところにある水路から、パイプを伝いサイフォンの原理で水路下に水を流し、その流れでタービンを回して電気を発生させるという水力発電機です。</p>
+<p>ESP32, M5Stackで動作するメガドライブの音源エミュレータです。</p>
 
-<p>PVCパイプなど手に入りやすい安価な材料で作成されているのが特徴です。まだプロジェクトは公開されていませんがいずれオープンソースで公開されるとのことです。</p>
+<p>メガドライブの音源ICであるYM2612とSN76489をソフトウェアでエミュレーションしているようです。</p>
 
-<p>高いところに水路があるという特殊な地形が必要ですが、このような地形にお住まいの方はぜひ試してみて欲しいです。</p>
+<p>ICが調達できなくなっても、最近のパワフルなプロセッサであればエミュレーションすることが出来るというのは、ほかにも応用がききそうなテクニックです。</p>
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/1KyL1-0A0Gw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/dunNtkFS8gc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   </section>
 
-  <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3"><a href="/iroiro-review/post/esp32-m5stack%E7%94%A8%E3%81%AE%E3%83%A1%E3%82%AC%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E9%9F%B3%E6%BA%90%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF/">&lt;- 前の記事 - ESP32/M5Stack用のメガドライブ音源エミュレータ<img class="rect" src="https://inajob.github.io/iroiro-review/img/m5stack-synth.jpg" /></a></div>
-  <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3"><a href="/iroiro-review/post/%E5%AE%8C%E6%88%90%E5%BA%A6%E3%81%AE%E9%AB%98%E3%81%84%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E9%96%8B%E7%99%BA%E6%A9%9Fm5paper%E3%82%AF%E3%83%BC%E3%83%9D%E3%83%B3%E3%81%82%E3%82%8A/"><img class="rect" src="https://inajob.github.io/iroiro-review/img/m5paper-cover.png" />次の記事 - 完成度の高い電子ペーパー開発機「M5Paper」（クーポンあり！） - &gt;</a></div>
+  <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3"></div>
+  <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3"><a href="/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E6%B0%B4%E5%8A%9B%E7%99%BA%E9%9B%BB%E6%A9%9F/"><img class="rect" src="https://inajob.github.io/iroiro-review/img/scraphydrogenerator.jpg" />次の記事 - 安価な自作の水力発電機 - &gt;</a></div>
 
   
 
@@ -150,37 +155,37 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <div>
   
   <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3">
-    <a href="/iroiro-review/post/vga%E7%AB%AF%E5%AD%90%E3%82%92i2c%E3%81%AE%E5%85%A5%E5%87%BA%E5%8A%9B%E3%81%A8%E3%81%97%E3%81%A6%E6%89%B1%E3%81%86/">
-      <img class="rect" src="https://inajob.github.io/iroiro-review/img/vga-as-i2c.png" />
-      VGA端子をI2Cの入出力として扱う
+    <a href="/iroiro-review/post/ym2612%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%83%81%E3%83%83%E3%83%97%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%E5%B0%82%E7%94%A8%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC/">
+      <img class="rect" src="https://inajob.github.io/iroiro-review/img/megagrrl.jpg" />
+      YM2612を搭載したチップチューン専用プレーヤー
     </a>
   </div>
   
   <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3">
-    <a href="/iroiro-review/post/%E3%83%81%E3%83%83%E3%83%97%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%E5%B0%82%E7%94%A8%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4/">
-      <img class="rect" src="https://inajob.github.io/iroiro-review/img/gameboy-walkman.jpg" />
-      チップチューン専用のゲームボーイ
+    <a href="/iroiro-review/post/esp32%E7%94%A8%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AAdsp%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA/">
+      <img class="rect" src="https://inajob.github.io/iroiro-review/img/yummy-dsp.png" />
+      ESP32用のオーディオDSPライブラリ
     </a>
   </div>
   
   <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3">
-    <a href="/iroiro-review/post/%E6%94%BE%E9%9B%BB%E5%8A%A0%E5%B7%A5%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%9F%BA%E6%9D%BF/">
-      <img class="rect" src="https://inajob.github.io/iroiro-review/img/edm-pcb.jpg" />
-      放電加工で作るプリント基板
+    <a href="/iroiro-review/post/esp32%E3%81%AB%E3%82%88%E3%82%8B%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/">
+      <img class="rect" src="https://inajob.github.io/iroiro-review/img/esp32-synth-module.jpg" />
+      ESP32によるシンセサイザーモジュール
     </a>
   </div>
   
   <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3">
-    <a href="/iroiro-review/post/%E6%B8%A9%E5%BA%A6%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92%E4%BD%BF%E3%82%8F%E3%81%9A%E3%81%AB%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3%E3%81%A7%E6%B8%A9%E5%BA%A6%E3%82%92%E5%8F%96%E5%BE%97%E3%81%99%E3%82%8B%E8%A3%8F%E6%8A%80/">
-      <img class="rect" src="https://inajob.github.io/iroiro-review/img/no-parts-temperature-sensor.png" />
-      温度センサーを使わずにマイコンで温度を取得する裏技
+    <a href="/iroiro-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E9%9F%B3%E6%A5%BD%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC/">
+      <img class="rect" src="https://inajob.github.io/iroiro-review/img/boombox.jpg" />
+      手のひらサイズの音楽プレーヤー
     </a>
   </div>
   
   <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3">
-    <a href="/iroiro-review/post/%E3%82%AC%E3%83%A9%E3%82%B9%E6%9D%BF%E3%81%AB%E9%8A%85%E7%AE%94%E3%83%86%E3%83%BC%E3%83%97%E3%81%A7%E4%BD%9C%E3%82%8B%E9%9B%BB%E5%AD%90%E5%9B%9E%E8%B7%AF/">
-      <img class="rect" src="https://inajob.github.io/iroiro-review/img/glasspcb.jpg" />
-      ガラス板に銅箔テープで作る電子回路
+    <a href="/iroiro-review/post/fm%E9%9F%B3%E6%BA%90%E3%83%81%E3%83%83%E3%83%97%E3%82%92%E9%B3%B4%E3%82%89%E3%81%99%E3%81%9F%E3%82%81%E3%81%AE%E7%94%BB%E9%9D%A2%E3%81%8C4%E3%81%A4%E3%82%82%E3%81%82%E3%82%8B%E5%AE%9F%E9%A8%93%E3%83%9C%E3%83%BC%E3%83%89/">
+      <img class="rect" src="https://inajob.github.io/iroiro-review/img/dafm-synth.jpg" />
+      FM音源チップを鳴らすための画面が4つもある実験ボード
     </a>
   </div>
   
@@ -210,7 +215,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           }(document, 'script', 'facebook-jssdk'));</script>
 
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E6%B0%B4%E5%8A%9B%E7%99%BA%E9%9B%BB%E6%A9%9F/" 
+            data-href="/iroiro-review/post/esp32-m5stack%E7%94%A8%E3%81%AE%E3%83%A1%E3%82%AC%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E9%9F%B3%E6%BA%90%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF/" 
             data-layout="button_count">
           </div>
         
@@ -243,7 +248,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           
   
     <div id="toc" class="Box Box--blue mb-3">
-      <b>安価な自作の水力発電機</b>
+      <b>ESP32/M5Stack用のメガドライブ音源エミュレータ</b>
       
     </div>
   
@@ -259,7 +264,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
         
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E6%B0%B4%E5%8A%9B%E7%99%BA%E9%9B%BB%E6%A9%9F/" 
+            data-href="/iroiro-review/post/esp32-m5stack%E7%94%A8%E3%81%AE%E3%83%A1%E3%82%AC%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E9%9F%B3%E6%BA%90%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF/" 
             data-layout="button_count">
           </div>
         

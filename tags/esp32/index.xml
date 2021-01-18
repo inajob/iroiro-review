@@ -6,10 +6,23 @@
     <description>Recent content in Esp32 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 15 Nov 2020 23:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Jan 2021 11:00:58 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/esp32/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ESP32/M5Stack用のメガドライブ音源エミュレータ</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32-m5stack%E7%94%A8%E3%81%AE%E3%83%A1%E3%82%AC%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E9%9F%B3%E6%BA%90%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF/</link>
+      <pubDate>Mon, 18 Jan 2021 11:00:58 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32-m5stack%E7%94%A8%E3%81%AE%E3%83%A1%E3%82%AC%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E9%9F%B3%E6%BA%90%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF/</guid>
+      <description>h1romas4 /m5stack-synth-emulationから発見。画像もここから転載。
+ESP32, M5Stackで動作するメガドライブの音源エミュレータです。
+メガドライブの音源ICであるYM2612とSN76489をソフトウェアでエミュレーションしているようです。
+ICが調達できなくなっても、最近のパワフルなプロセッサであればエミュレーションすることが出来るというのは、ほかにも応用がききそうなテクニックです。
+ </description>
+    </item>
     
     <item>
       <title>ESP32を搭載した小型のPDA</title>
