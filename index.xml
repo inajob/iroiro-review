@@ -6,10 +6,21 @@
     <description>Recent content in inajobがいろいろ紹介するサイトです on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 18 Jan 2021 11:00:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jan 2021 11:00:07 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CircuitPythonが動く小型の開発ボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/circuitpython%E3%81%8C%E5%8B%95%E3%81%8F%E5%B0%8F%E5%9E%8B%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Tue, 19 Jan 2021 11:00:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/circuitpython%E3%81%8C%E5%8B%95%E3%81%8F%E5%B0%8F%E5%9E%8B%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>CircuitBrains Deluxeから発見。画像もここから転載。
+ATSAMD51を搭載したCircuitPythonが動作するボードです。8MBのSPIFlashや水晶発振器、3.3Vレギュレータも搭載しており、単なるブレイクアウトボードではなく、開発ボードとしてそのまま利用できます。
+ATSAMD51を使いたいけど、退屈な周辺回路の設計はやりたくない・・という方にはぴったりのボードです。</description>
+    </item>
     
     <item>
       <title>ESP32/M5Stack用のメガドライブ音源エミュレータ</title>
