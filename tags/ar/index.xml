@@ -17,10 +17,10 @@
       <pubDate>Sun, 09 Aug 2020 23:00:15 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E9%80%86ar%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%81%AA%E8%A1%A8%E6%83%85%E3%82%92%E6%BC%94%E5%87%BA%E3%81%99%E3%82%8Bhack/</guid>
-      <description>&lt;![CDATA[<img src="/img/invert-ar.jpg">MONSTER M4SK Toon Hatから発見。画像もここから転載。
+      <description>&lt;img src="/img/invert-ar.jpg"&gt;MONSTER M4SK Toon Hatから発見。画像もここから転載。
 写真の通り「目」をコミカルに演出できる「逆AR」なディスプレイです。
 目の前には実際にはハーフミラーが斜め45度に配置されており、帽子のつばの部分にあるディスプレイの映像が反射するようになっているようです。
-シンプルですが応用が利きそうなテクニックです。]]></description>
+シンプルですが応用が利きそうなテクニックです。</description>
     </item>
     
     <item>
@@ -29,11 +29,11 @@
       <pubDate>Mon, 02 Mar 2020 23:00:58 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/ar%E3%81%A7%E5%9F%BA%E6%9D%BF%E3%81%AE%E4%BB%95%E6%A7%98%E3%81%8C%E8%A6%8B%E3%81%88%E3%82%8B%E3%82%A2%E3%83%97%E3%83%AA/</guid>
-      <description>&lt;![CDATA[<img src="/img/board-ar.jpg">Get Detailed Information on PCBs with DebuggAR Augmented Reality Appから発見。画像もここから転載。
+      <description>&lt;img src="/img/board-ar.jpg"&gt;Get Detailed Information on PCBs with DebuggAR Augmented Reality Appから発見。画像もここから転載。
 電子工作をしていると、ついうっかり勘違いして間違ったピン同士を接続してしまったりすることがあります。必要な情報がオーバーレイされるような眼鏡が欲しいな・・　と思ったことはありませんか？
 この記事で紹介されているのはDebuggARというスマートフォン用のアプリです。
 まだベータ版ですが、このアプリを通して開発ボードを見るとそのスペックがオーバーレイで表示されるようです。
-もし、KICADなどのデータをもとに学習してくれるのなら、オリジナルの基板にもAR表示ができるのでは？などと夢が広がります。]]></description>
+もし、KICADなどのデータをもとに学習してくれるのなら、オリジナルの基板にもAR表示ができるのでは？などと夢が広がります。</description>
     </item>
     
     <item>
@@ -42,11 +42,11 @@
       <pubDate>Tue, 15 Oct 2019 23:00:43 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/ar%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</guid>
-      <description>&lt;![CDATA[<img src="/img/ar-board-game.png">Tilt Five: Holographic Tabletop Gamingから発見。画像もここから転載。
+      <description>&lt;img src="/img/ar-board-game.png"&gt;Tilt Five: Holographic Tabletop Gamingから発見。画像もここから転載。
 AR技術を使ったボードゲームデバイスです。
 専用のスマートグラスと、ARマーカー付きのボードを使い、現実の机の上で、バーチャルな演出入りのボードゲームを遊ぶことができるようです。
 ボードゲーム特化というよりは、AR時代の新しい「ディスプレイ」という感じです。こういうものが出てくると、今の「ディスプレイ」と「マウス」を使ったパソコンも近いうちに全く違ったものになるのでは？とワクワクしました。
- ]]></description>
+ </description>
     </item>
     
   </channel>

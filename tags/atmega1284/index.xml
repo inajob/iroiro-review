@@ -17,9 +17,9 @@
       <pubDate>Sun, 04 Oct 2020 23:00:26 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AAatmega644-1284%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;![CDATA[<img src="/img/narrow-board.jpg">644&amp;frasl;1284 Narrowから発見。画像もここから転載。
+      <description>&lt;img src="/img/narrow-board.jpg"&gt;644&amp;frasl;1284 Narrowから発見。画像もここから転載。
 コンパクトなAtmega644/1284のボードです。大きさはArduino Nanoよりも少し大きい感じです。 図の右上部分に4ピン余計に引き出されているところはI2Cとして利用できるようになっており、想定としてはOLEDを搭載することができるようです。
-普通のArduinodではRAM/ROMの容量が足りないようなプロジェクトによさそうな開発ボードです。]]></description>
+普通のArduinodではRAM/ROMの容量が足りないようなプロジェクトによさそうな開発ボードです。</description>
     </item>
     
     <item>
@@ -28,9 +28,9 @@
       <pubDate>Tue, 17 Mar 2020 23:00:55 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/atmega1284p%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E5%B0%8F%E5%9E%8B%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;![CDATA[<img src="/img/atmega1284-board.jpg">Dooba Releases ioNode Dev Board with ATmega1284P Microcontrollerから発見。画像もここから転載
+      <description>&lt;img src="/img/atmega1284-board.jpg"&gt;Dooba Releases ioNode Dev Board with ATmega1284P Microcontrollerから発見。画像もここから転載
 Arduinoだと性能が足りないときに使えそうなマイコンATmega1284Pを搭載した、小型の開発ボードです。スペックはRAMが16Kb、Flashが128Kbです。
-公式サイトではこのモジュールと一緒に使える様々なモジュールも販売されています。]]></description>
+公式サイトではこのモジュールと一緒に使える様々なモジュールも販売されています。</description>
     </item>
     
     <item>
@@ -39,12 +39,12 @@ Arduinoだと性能が足りないときに使えそうなマイコンATmega1284
       <pubDate>Sat, 09 Feb 2019 02:17:04 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%81%A8%E3%81%A6%E3%82%82%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84lisp%E3%83%9D%E3%82%B1%E3%82%B3%E3%83%B3/</guid>
-      <description>&lt;![CDATA[<img src="/img/lisp-badge.jpg">Lisp Badge にて発見。
+      <description>&lt;img src="/img/lisp-badge.jpg"&gt;Lisp Badge にて発見。
 フルキーボード付きのLISP端末。CPUはATMega1284 タイトルにある”Badge”というのは、海外のIT系カンファレンスなどで流行っているらしい、こういう手のひらサイズのガジェットのことらしい。（カンファレンス中首から下げたり、シャツにバッジみたいに取り付けたりして、自己アピールするためのものらしい。）
 日本ではbuildersconの電子名札が記憶に新しい
 ディスプレイは256x64のOLEDを利用している。（一般的に普及している128x64のものより高くなるが、こっちのほうがいい感じだったので使っているとのこと）
 電源は単四電池サイズのLiPoバッテリを使っている。これだと3.7Vで、動作範囲外だが16MHzでCPUを動かしている。
-GPIOを操作する命令も搭載されているので、これを使って電子部品を制御することもできそう。 回路図も余すことなく公開されているので、似たようなものを作りたい人には参考になるだろう。]]></description>
+GPIOを操作する命令も搭載されているので、これを使って電子部品を制御することもできそう。 回路図も余すことなく公開されているので、似たようなものを作りたい人には参考になるだろう。</description>
     </item>
     
   </channel>

@@ -17,7 +17,7 @@
       <pubDate>Sun, 12 Jul 2020 23:00:10 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E5%B7%A5%E4%BD%9C%E3%81%A7%E3%82%82%E5%A5%B4%E9%9A%B7%E5%BB%83%E6%AD%A2%E3%81%AE%E5%8B%95%E3%81%8Dspi%E3%83%90%E3%82%B9%E3%81%AE%E5%90%8D%E7%A7%B0%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</guid>
-      <description>&lt;![CDATA[<img src="/img/sdo-sdi.png">ちょうどこんなニュースが話題になっています。 IT用語も「奴隷」廃止の動き　「slave」は「フォロワー」や「レプリカ」に
+      <description>&lt;img src="/img/sdo-sdi.png"&gt;ちょうどこんなニュースが話題になっています。 IT用語も「奴隷」廃止の動き　「slave」は「フォロワー」や「レプリカ」に
 電子工作の世界もこの問題とは無縁ではありません。
 今回紹介するのはA Resolution to Redefine SPI Signal Namesです。
 これはOpen Source Hardware Associationが発表した、SPI信号線の名称の再定義に関する文書です。
@@ -27,7 +27,7 @@ SPIでは主となる機器とそれにつながる周辺機器があり、そ�
 今回の問題で、これらの名称にもメスが入れられました。 Open Source Hardware Associationはこれらの名称を次のように再定義することを推奨しています。
  COPI: Controller Out Peripheral In CIPO: Controller In Peripheral Out  もしくは
  SDO: Serial Data Out SDI: Serial Data In  (こちらは送りと受けでそれぞれ違う名称となるため注意が必要です)
-従来Masterと呼んでいたものを Controller。Slaveと呼んでいたものを Peripheral に言い換えるという内容です。 3本ある信号線の残りの1本はSCK（Serial Clock）という、特に問題のない名称であるため、これはそのまま使用できます。]]></description>
+従来Masterと呼んでいたものを Controller。Slaveと呼んでいたものを Peripheral に言い換えるという内容です。 3本ある信号線の残りの1本はSCK（Serial Clock）という、特に問題のない名称であるため、これはそのまま使用できます。</description>
     </item>
     
   </channel>

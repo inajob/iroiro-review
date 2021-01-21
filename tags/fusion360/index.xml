@@ -17,12 +17,12 @@
       <pubDate>Wed, 04 Sep 2019 23:00:24 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/fusion360%E3%81%A7%E6%9C%89%E6%A9%9F%E7%9A%84%E3%81%AA%E5%BC%B7%E3%81%84%E5%BD%A2%E7%8A%B6%E3%82%92%E7%94%9F%E6%88%90%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;![CDATA[<img src="/img/topology-optimization.png">COMPUTER OPTIMIZED 3D PRINTED BOOKSHELVES から発見。画像もここから転載。
+      <description>&lt;img src="/img/topology-optimization.png"&gt;COMPUTER OPTIMIZED 3D PRINTED BOOKSHELVES から発見。画像もここから転載。
 この写真の奇妙なデザインのブックシェルフ。これはFusion360の機能であるTopology Optimizationの機能によって作成されたものです。
 この機能は構造にかかる力を分析し、最適に力を分散する形状を計算する機能です。 計算によって求められる形状は従来の角ばった、直線が基本となるものではなく、写真のような有機的な形状になります。
 3Dプリンタを用いるとこういった有機的な形状も簡単に作成できます。
 近いうちにこういう有機的な形状の製品が身近にあふれるようになるかもしれません。
- ]]></description>
+ </description>
     </item>
     
   </channel>

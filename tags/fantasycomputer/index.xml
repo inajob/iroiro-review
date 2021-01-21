@@ -17,10 +17,10 @@
       <pubDate>Mon, 04 Feb 2019 12:08:37 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%82%E3%81%86%E4%B8%80%E3%81%A4%E3%81%AEfantasy-conputer-script-8/</guid>
-      <description>&lt;![CDATA[<img src="/img/script-8.png">これはなに？ SCRIPT-8はFantasyComputerの一種です。
+      <description>&lt;img src="/img/script-8.png"&gt;これはなに？ SCRIPT-8はFantasyComputerの一種です。
 FantasyComputerといえば有償のPICO-8やOSSのTIC-80有名ですが、SCRIPT-8もなかなか面白そうです。
 ぱっと見た特徴としては
- Webブラウザでの実行 淡い色のパレット（変えられない？）、8色 60FPS 128x128の画面 Webブラウザで、JavaScriptでプログラミングできる Webブラウザ上で動く、組み込みのドット絵エディタ、マップエディタ、作曲エディタ 171ものゲーム  実装がReact + Reduxというのも特徴のようで、Web技術でFantasyComputerを作る際の参考になるかもしれません。]]></description>
+ Webブラウザでの実行 淡い色のパレット（変えられない？）、8色 60FPS 128x128の画面 Webブラウザで、JavaScriptでプログラミングできる Webブラウザ上で動く、組み込みのドット絵エディタ、マップエディタ、作曲エディタ 171ものゲーム  実装がReact + Reduxというのも特徴のようで、Web技術でFantasyComputerを作る際の参考になるかもしれません。</description>
     </item>
     
   </channel>

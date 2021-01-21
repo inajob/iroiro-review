@@ -17,9 +17,9 @@
       <pubDate>Mon, 20 Apr 2020 23:00:21 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/attiny84a%E3%81%AE%E5%B0%8F%E5%9E%8B%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;![CDATA[<img src="/img/attiny84a-board.jpg">Tiniest USB development board with Micronucleusから発見。画像もここから転載。
+      <description>&lt;img src="/img/attiny84a-board.jpg"&gt;Tiniest USB development board with Micronucleusから発見。画像もここから転載。
 USB端子がついたとても小さいサイズの開発ボードです。 コアとなっているICはATtiny84aで、Flashは8KB（USBのブートローダのため残りは6658bytes）、RAMは512Bytes 8MHｚで動作します。
-小型のプロジェクトのプロトタイピングに便利そうです。 (日本だと8pinoが非常に近いですね）]]></description>
+小型のプロジェクトのプロトタイピングに便利そうです。 (日本だと8pinoが非常に近いですね）</description>
     </item>
     
   </channel>

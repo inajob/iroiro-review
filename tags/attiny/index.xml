@@ -17,12 +17,12 @@
       <pubDate>Wed, 02 Sep 2020 23:00:57 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/updi%E7%94%A8%E3%81%AE%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;![CDATA[<img src="/img/updiprogrammerstick.jpg">UPDI Programmer Stickから発見。画像もここから転載。
+      <description>&lt;img src="/img/updiprogrammerstick.jpg"&gt;UPDI Programmer Stickから発見。画像もここから転載。
 新しいATtinyシリーズはブートローダーの書き換え方法が今までのICSPとは違いUDPIというプロトコルになっています。
 一度書き込んでArduino化してしまえばそれ以降はシリアルで書き換えられる点は今までと同じですが、初回はこのUDPIを使ってブートローダを書き換える必要があります。
 そこで必要となるのがUDPIライターです。もちろん公式のライターを使うというのが一番良いのでしょうが、この記事ではUDPIライターを自作しています。
 UDPIライターの実体はArduino UNO互換の基板で、ソフトウェアとしては、jtag2udpiを使っています。
-つまり手元にArduino UNOがあればだれでも比較的簡単にUDPIライターが作れるということです。 とはいえ、この記事で紹介されているライターは非常にコンパクトで、新しいATTinyの開発のお供として非常に魅力的です。]]></description>
+つまり手元にArduino UNOがあればだれでも比較的簡単にUDPIライターが作れるということです。 とはいえ、この記事で紹介されているライターは非常にコンパクトで、新しいATTinyの開発のお供として非常に魅力的です。</description>
     </item>
     
     <item>
@@ -31,9 +31,9 @@ UDPIライターの実体はArduino UNO互換の基板で、ソフトウェア�
       <pubDate>Mon, 20 Jul 2020 23:00:17 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E6%96%B0%E3%81%97%E3%81%84attiny%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E3%81%A7lisp%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</guid>
-      <description>&lt;![CDATA[<img src="/img/attinylisp.jpg">ATtiny Running Lispから発見。画像もここから転載。
+      <description>&lt;img src="/img/attinylisp.jpg"&gt;ATtiny Running Lispから発見。画像もここから転載。
 新しいATTinyシリーズはATMega級のパフォーマンスのものもあります。 ということで、この記事ではATTiny3216で動作するLispインタプリタを作成しています。
-といってもuLispという非常に小さな仕様のLispですが、いつもと違う言語でマイコンプログラミングをするのも面白そうです。 またインタプリタ方式であるため、試行錯誤には適しているでしょう。]]></description>
+といってもuLispという非常に小さな仕様のLispですが、いつもと違う言語でマイコンプログラミングをするのも面白そうです。 またインタプリタ方式であるため、試行錯誤には適しているでしょう。</description>
     </item>
     
     <item>
@@ -42,10 +42,10 @@ UDPIライターの実体はArduino UNO互換の基板で、ソフトウェア�
       <pubDate>Wed, 10 Jun 2020 23:00:20 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/arduino-nano%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AEattiny%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;![CDATA[<img src="/img/attiny-nano.png">ATtiny3217/1607 dev board, Arduino compatibleから発見。画像もここから転載。
+      <description>&lt;img src="/img/attiny-nano.png"&gt;ATtiny3217/1607 dev board, Arduino compatibleから発見。画像もここから転載。
 最近発表された新しいATtinyシリーズのマイコンはとてもパワフルで、Arduinoで使われているAtmega328pと同じような性能があるチップもあります。
 そこで、この記事ではArduino Nanoと同じサイズのATtinyが搭載された開発ボードを紹介しています。
-新しいチップを試してみたい方にはお勧めのボードです。]]></description>
+新しいチップを試してみたい方にはお勧めのボードです。</description>
     </item>
     
     <item>
@@ -54,9 +54,9 @@ UDPIライターの実体はArduino UNO互換の基板で、ソフトウェア�
       <pubDate>Wed, 16 Oct 2019 23:00:09 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/attiny%E3%81%A7midi%E3%82%92cv%E3%81%AB%E5%A4%89%E6%8F%9B%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;![CDATA[<img src="/img/gomidi2cv.jpg">DIY GOOD OL’ MIDI TO CVから発見。画像もここから転載。
+      <description>&lt;img src="/img/gomidi2cv.jpg"&gt;DIY GOOD OL’ MIDI TO CVから発見。画像もここから転載。
 MIDIの入力を受け付けて、CV/Gage出力することができるプログラムの紹介です。 この仕組みがあると、MIDIを出力できる高レイヤーのDTM機器と、CV/Gateで動作する低レイヤーのシンセサイザーなどを連携させることができます。
-しかもこれはATTinyを使った簡単な回路で、しかもプログラムを変更することで様々なMIDI信号に対応できます。ハードウェアDTM機器を組み合わせて使っている方には便利なユーティリティとして使うことができるでしょう。]]></description>
+しかもこれはATTinyを使った簡単な回路で、しかもプログラムを変更することで様々なMIDI信号に対応できます。ハードウェアDTM機器を組み合わせて使っている方には便利なユーティリティとして使うことができるでしょう。</description>
     </item>
     
   </channel>

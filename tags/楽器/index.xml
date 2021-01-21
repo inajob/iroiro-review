@@ -17,13 +17,13 @@
       <pubDate>Sat, 11 Jul 2020 23:00:14 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E8%87%AA%E4%BD%9C%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AD%E3%83%95%E3%82%A9%E3%83%B3/</guid>
-      <description>&lt;![CDATA[<img src="/img/diy-stylophone.jpg">Retro Stylophone (NE555 Based)から発見。画像もここから転載（CC BY-NC-SA By Xaver Schrems）
+      <description>&lt;img src="/img/diy-stylophone.jpg"&gt;Retro Stylophone (NE555 Based)から発見。画像もここから転載（CC BY-NC-SA By Xaver Schrems）
 電子楽器のはしりである「スタイロフォン」の自作版です。
 スタイロフォンは、ペンで操作する電子楽器です。鍵盤のようなパターンの端子に金属製のペンを当てると、鍵盤に応じた音が再生されるという単純な仕組みの楽器ですが、ペンを滑らせることで独特のメロディを奏でることができます。
 PCBが簡単に発注できる今、スタイロフォンを作るのは難しくありません。ケースについても3Dプリンタでうまく作っています。
 音はマイコンを使わずシンプルな555タイマーで実現しています。
 ↓動画は音だけですが、いい感じです。
- ]]></description>
+ </description>
     </item>
     
     <item>
@@ -32,10 +32,10 @@ PCBが簡単に発注できる今、スタイロフォンを作るのは難し�
       <pubDate>Sat, 30 May 2020 23:00:24 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/midi%E3%82%92%E5%87%BA%E5%8A%9B%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%83%8A/</guid>
-      <description>&lt;![CDATA[<img src="/img/bandneon-midi.jpg">Concertina MIDI Controllerから発見。画像もここから転載。
+      <description>&lt;img src="/img/bandneon-midi.jpg"&gt;Concertina MIDI Controllerから発見。画像もここから転載。
 コンサーティーナというアコーディオンのような楽器をMIDI化した作例です。 利用しているボードはAdafruitのBluefeather 32u4で、BLE MIDIをつかい無線でMIDI信号を送信しています。
 スイッチはCherry MXスイッチを並べ、筐体はレーザーカッターで作成し、気圧センサーによりボリュームをコントロールしているようです。
- ConcertinaClip from David Ehnebuske on Vimeo.]]></description>
+ ConcertinaClip from David Ehnebuske on Vimeo.</description>
     </item>
     
     <item>
@@ -44,9 +44,9 @@ PCBが簡単に発注できる今、スタイロフォンを作るのは難し�
       <pubDate>Wed, 27 May 2020 23:00:29 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AE%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%8F%E3%83%BC%E3%83%97/</guid>
-      <description>&lt;![CDATA[<img src="/img/laser-harp.jpg">Upright Laser Harpから発見。画像もここから転載。
+      <description>&lt;img src="/img/laser-harp.jpg"&gt;Upright Laser Harpから発見。画像もここから転載。
 レーザーカッターで作られた、非常にかっこいい見た目のレーザーハープです。内部に音源を搭載することで、スタンドアローンでの演奏が可能のようです。鍵盤は全部で12個で様々な曲が演奏できそうです。制御はArduino Megaで行っているようです。
-音源としてはAdafruit Music Maker shieldを使っているようで、そのコアとなるICはVS1053bです。]]></description>
+音源としてはAdafruit Music Maker shieldを使っているようで、そのコアとなるICはVS1053bです。</description>
     </item>
     
   </channel>

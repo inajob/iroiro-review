@@ -17,10 +17,10 @@
       <pubDate>Tue, 05 Jan 2021 11:00:43 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E5%A5%BD%E3%81%8D%E3%81%AA%E6%A8%A1%E6%A7%98%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%A9%E3%83%B3%E3%83%97/</guid>
-      <description>&lt;![CDATA[<img src="/img/elroy-lamp.jpg">The Elroy Lamp: A transparent LCD table lampから発見。画像もここから転載。
+      <description>&lt;img src="/img/elroy-lamp.jpg"&gt;The Elroy Lamp: A transparent LCD table lampから発見。画像もここから転載。
 行燈のようなインテリアですが、この照明、パネルに好きな模様を表示することが出来ます。
 仕組みは簡単で、各面に液晶ディスプレイが搭載されています。 ただし、これらのディスプレイのバックライト部分は外されているため、照明としての白熱灯の明かりがバックライトの代わりとなり、それっぽい良い雰囲気のインテリアを演出しています。
- ]]></description>
+ </description>
     </item>
     
     <item>
@@ -29,10 +29,10 @@
       <pubDate>Mon, 06 Apr 2020 23:00:02 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E5%A4%96%E4%BB%98%E3%81%91%E3%81%AEslack%E9%80%9A%E7%9F%A5led/</guid>
-      <description>&lt;![CDATA[<img src="/img/slack-notification.jeg.jpeg">Build a Slack Status Indicator for Your Desk to Keep Coworkers at Bayから発見。画像もここから転載。
+      <description>&lt;img src="/img/slack-notification.jeg.jpeg"&gt;Build a Slack Status Indicator for Your Desk to Keep Coworkers at Bayから発見。画像もここから転載。
 Adafruit Trinket M0を使ったSlack通知のLEDです。
 GitHubにソースコードも公開されているので、気になる人は見てみてください。
-Adafruit Trinket M0はPythonで開発できるので組み込みといいつつ、気軽に開発できそうです。 PCとはUSBで接続しシリアル経由でやり取りします。PC側のサーバはGo言語で書かれていて今風です。]]></description>
+Adafruit Trinket M0はPythonで開発できるので組み込みといいつつ、気軽に開発できそうです。 PCとはUSBで接続しシリアル経由でやり取りします。PC側のサーバはGo言語で書かれていて今風です。</description>
     </item>
     
     <item>
@@ -41,11 +41,11 @@ Adafruit Trinket M0はPythonで開発できるので組み込みといいつつ�
       <pubDate>Sun, 28 Jul 2019 23:00:19 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E5%B0%8E%E9%80%9A%E3%81%99%E3%82%8B%E3%81%A8%E6%8C%AF%E5%8B%95%E3%81%99%E3%82%8B%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E8%87%AA%E4%BD%9C%E3%83%86%E3%82%B9%E3%82%BF%E3%83%BC/</guid>
-      <description>&lt;![CDATA[<img src="/img/motor-tester.jpg">Continuity tester using mobile motorから発見。画像もここから転載。
+      <description>&lt;img src="/img/motor-tester.jpg"&gt;Continuity tester using mobile motorから発見。画像もここから転載。
 この記事で紹介しているのは、自作のテスター。 2つの接点が導通しているかを調べるための工具です。
 普通のテスターと違うのは、通電しているときに、ブルブルと振動するということ。その秘密は内部に仕込まれたモーターです。
 仕組みは非常に単純でモーターと電池がつながっているだけです。
-振動で導通を確認できるのは非常に直感的で面白いアイデアですが、私は思いついたことがなかったので目からうろこでした。]]></description>
+振動で導通を確認できるのは非常に直感的で面白いアイデアですが、私は思いついたことがなかったので目からうろこでした。</description>
     </item>
     
   </channel>
