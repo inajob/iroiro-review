@@ -17,11 +17,11 @@
       <pubDate>Mon, 30 Nov 2020 23:00:45 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E5%A4%A7%E3%81%8D%E3%81%AA%E3%82%B8%E3%83%A7%E3%82%B0%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AB%E4%BB%98%E3%81%8D%E3%81%AE8x8%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
-      <description>TeleBall - Retro Handheld Game Console から発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/big-dial-game.jpg">TeleBall - Retro Handheld Game Console から発見。画像もここから転載。
 上下左右のキーとABボタンという標準的なゲームのコントローラにとらわれないモバイルゲームコンソールです。つまみを回すことでゲーム内のパドルを左右に動かすことができます。
 中身はArduino Nanoと2.4GHz通信モジュールで構成されており、2台あれば通信対戦もできるようです。
 3Dプリンタで作成された筐体はバッテリーケースも兼ねており、DIYでゲーム機を作る際の参考になりそうです。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -30,10 +30,10 @@
       <pubDate>Wed, 12 Aug 2020 23:00:34 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/arduino%E3%82%92%E5%9F%BA%E3%81%AB%E3%81%97%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA%E3%83%A1%E3%83%BC%E3%82%BF%E3%83%BC/</guid>
-      <description>Arduino Audio Meterから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/audio_meter_axo.jpg">Arduino Audio Meterから発見。画像もここから転載。
 Arduinoを基にしたかっこいいオーディオメーターの作例です。 オーディオ信号を受け取って、それに応じでエフェクトを表示します。8x8のドットマトリクスLEDが4つを使った表示は非常にインパクトがあります。
 プロジェクトはオープンソースになっており、好きな動作に変更できます。動画ではゲームを動かしている例なども紹介されています。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -42,10 +42,10 @@ Arduinoを基にしたかっこいいオーディオメーターの作例です�
       <pubDate>Sat, 04 Jul 2020 23:00:54 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/arduino%E3%81%A7%E4%BD%9C%E3%82%8B%E5%B7%A8%E5%A4%A7%E3%81%AA%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9/</guid>
-      <description>ARDUINO TETRIS LED GAMEから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/big-tetris.jpg">ARDUINO TETRIS LED GAMEから発見。画像もここから転載。
 Arduinoを使って作られた大きなカラーディスプレイでテトリスを動かしている作例を紹介します。 LEDディスプレイはWS2812を並べて作られていて、その仕組みは単純ですが、一般的な携帯ゲーム機よりはるかに大きな筐体が非常に印象的なゲーム機です。
 また、音楽についてはDFPlayerという SDカードから任意のmp3ファイルを再生できる便利なモジュールを使用しています。
-  </description>
+  ]]></description>
     </item>
     
     <item>
@@ -54,10 +54,10 @@ Arduinoを使って作られた大きなカラーディスプレイでテトリ�
       <pubDate>Mon, 29 Jun 2020 23:00:03 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/arduino%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%AB%E9%80%9A%E4%BF%A1%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>ARDUINO KEYBOARD SERIAL OUTPUTから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/arduino-keyboard.jpg">ARDUINO KEYBOARD SERIAL OUTPUTから発見。画像もここから転載。
 Arduinoによって作られた、シリアル通信で入力を受け取ることができるコンパクトなキーボードの作例を紹介します。
 大量のキーの入力を検知するたに4x10のマトリクス配線を利用しています。 Arduinoにキーボードが搭載できると、「ポケコン」のようなガジェットを簡単に作れるようになるため、夢が広がります。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -66,10 +66,10 @@ Arduinoによって作られた、シリアル通信で入力を受け取るこ�
       <pubDate>Sun, 28 Jun 2020 23:00:04 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/usb-c%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%81%AE%E4%BB%98%E3%81%84%E3%81%9Farduino-micro%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>C-Duino: A DIY USB C Pro Microから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/arduino-micro-c.jpg">C-Duino: A DIY USB C Pro Microから発見。画像もここから転載。
 Arduino Pro MicroのUSBコネクタは一般的にはMicroUSB端子ですが、これがもげやすかったりして困ることがあります。また近年USB-Cコネクタの製品が増えてきたことからケーブルの種類を統一できないなどの理由で、自作ガジェットもUSB-Cで接続できるようにしたくなることが増えてきています。
 そんな時に役立ちそうなのがこのUSB－Cコネクタの付いたPro Microのボードです。
-特に通信が早くなる、といった効能はないですが、今後はUSB-Cが一般的になってきそうなので、なかなか良いプロダクトに感じます。</description>
+特に通信が早くなる、といった効能はないですが、今後はUSB-Cが一般的になってきそうなので、なかなか良いプロダクトに感じます。]]></description>
     </item>
     
     <item>
@@ -78,12 +78,12 @@ Arduino Pro MicroのUSBコネクタは一般的にはMicroUSB端子ですが、�
       <pubDate>Wed, 15 Apr 2020 23:00:36 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/arduino%E3%81%8B%E3%82%89hdmi%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>HDMI FROM YOUR ARDUINOから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/arduino-hdmi.jpg">HDMI FROM YOUR ARDUINOから発見。画像もここから転載。
 Arduinoからディスプレイに映像を映すには様々なテクニックが必要です。特に最近のディスプレイはHDMIコネクタが標準となっており、こうなればArduinoからは映像を出すことは難しいです。
 そこで登場するのが、このHDMIを出力するShieldです。
 といってもHDMI出力はやはり大変のようでかなり複雑な構成になっています。 説明を見るとRA8876という液晶コントローラのチップで映像を作り、このチップから出てくるRGB信号をCH7035Bを使ってHDMIに変換しているようです。
 まぁしかし普通にこういうことをするならRaspberry Piを使うのが簡単なんだろうなぁという感想です。ともあれこういう挑戦は非常に興味深いと感じました。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -92,10 +92,10 @@ Arduinoからディスプレイに映像を映すには様々なテクニック�
       <pubDate>Mon, 13 Apr 2020 23:00:53 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/ay-3-8910%E3%81%A8arduino%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E3%83%81%E3%83%83%E3%83%97%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC/</guid>
-      <description>Arduino MIDI Chiptune Synthesizerから発見。画像もここから転載(CC BY-SA By TheSpodShed)
+      <description>&lt;![CDATA[<img src="/img/arduino-chiptune.jpg">Arduino MIDI Chiptune Synthesizerから発見。画像もここから転載(CC BY-SA By TheSpodShed)
 ArduinoとPSG音源ICであるAY-3-8910をくっつけたチップチューン用のボードの作例を紹介します。 Arduino Microのボードを使って、USB MIDIでPCからのデータを受信し、音楽を再生しています。
 思った以上に少ない部品でチップチューンのICを鳴らすことができるのだなと感じました。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -104,9 +104,9 @@ ArduinoとPSG音源ICであるAY-3-8910をくっつけたチップチューン�
       <pubDate>Thu, 09 Apr 2020 23:00:05 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/arduino%E3%81%8B%E3%82%89%E4%BD%BF%E3%81%84%E3%82%84%E3%81%99%E3%81%84eeprom%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>Simple DataFlash Boardから発見。画像もここから転載
+      <description>&lt;![CDATA[<img src="/img/dataflashuno.jpg">Simple DataFlash Boardから発見。画像もここから転載
 Arduinoに簡単に接続できるEEPROMのモジュールです。ArduinoにもEEPROMは搭載されていますが、さらにたくさんの容量が必要な時にはこのようなボードが便利そうです。
-データはOSHParkで公開されているので、簡単にボードを注文することができそうです。</description>
+データはOSHParkで公開されているので、簡単にボードを注文することができそうです。]]></description>
     </item>
     
     <item>
@@ -115,10 +115,10 @@ Arduinoに簡単に接続できるEEPROMのモジュールです。Arduinoにも
       <pubDate>Thu, 16 Jan 2020 23:00:37 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/3%E3%82%AD%E3%83%BC%E3%81%A8%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E4%BB%98%E3%81%8D%E3%81%AE%E5%90%8D%E5%88%BA%E3%82%B5%E3%82%A4%E3%82%BA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>USB Mini Media Keyboardから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/kb_assembled_back.jpg">USB Mini Media Keyboardから発見。画像もここから転載。
 最近日本で流行っている「自作キーボード」ですが、海外でも流行っているようです。特にこの記事で紹介しているような名刺サイズのキーボードはボタンの数が少ないこともあり自作キーボード入門者には最適なプロダクトです。
 この記事ではブレッドボードを使った試作の段階を紹介しており、自分で1からキーボードを設計したい人には参考になる内容です。
-CPUにはArduino Pro Microをつかい3つのキーと1つのロータリーエンコーダを搭載しています。 ショートカットキーなどを割り振ることで実用的に利用することもできます。</description>
+CPUにはArduino Pro Microをつかい3つのキーと1つのロータリーエンコーダを搭載しています。 ショートカットキーなどを割り振ることで実用的に利用することもできます。]]></description>
     </item>
     
     <item>
@@ -127,13 +127,13 @@ CPUにはArduino Pro Microをつかい3つのキーと1つのロータリーエ�
       <pubDate>Tue, 07 Jan 2020 23:00:08 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8Bword-clock/</guid>
-      <description>Animated Word Clock から発見。画像もここから転載（CC BY-NC-SA By TechKiwiGadgets）
+      <description>&lt;![CDATA[<img src="/img/3d-printed-word-clock.jpg">Animated Word Clock から発見。画像もここから転載（CC BY-NC-SA By TechKiwiGadgets）
 またまたWordClockです。
 3Dプリンタで文字をくりぬいて、写真のように文字が浮かび上がるような効果を演出しています。
 LEDの手前に製氷皿のように格子状のマス目のボードを用意し（これがグレーのフィラメントであるのも意味がありそう？）その底面にはアルファベットの形状でくりぬきを開けておきます。
 さらにそれを覆うケースにはアルファベットの形状でエンボスが刻まれています。
 この二重のアルファベット形状のくりぬきとエンボスにより、文字の投影を実現しています。 マイコンはArduino、LEDはよく使われるWS2812Bを使っています。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -142,9 +142,9 @@ LEDの手前に製氷皿のように格子状のマス目のボードを用意�
       <pubDate>Sun, 05 Jan 2020 23:00:20 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Farduino%E3%82%B1%E3%83%BC%E3%82%B9/</guid>
-      <description>Portable Arduino Labから発見。画像もここから転載。（CC BY-NC-SA By YADUKRISHNAN K M）
+      <description>&lt;![CDATA[<img src="/img/portable-arduino-labjpg.jpg">Portable Arduino Labから発見。画像もここから転載。（CC BY-NC-SA By YADUKRISHNAN K M）
 Arduinoはプロトタイプに便利ですがいくつか気になる点があります。 それが バッテリーとエンクロージャです。
-この記事で紹介している。Portable Arduino Labは、バッテリーを搭載したケース付きのArduinoです。バッテリーの充電ボードは自分でエッチングして作っているようです。</description>
+この記事で紹介している。Portable Arduino Labは、バッテリーを搭載したケース付きのArduinoです。バッテリーの充電ボードは自分でエッチングして作っているようです。]]></description>
     </item>
     
     <item>
@@ -153,10 +153,10 @@ Arduinoはプロトタイプに便利ですがいくつか気になる点があ�
       <pubDate>Thu, 12 Dec 2019 23:00:30 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/atmega328pb%E7%94%A8arduino-nano%E3%82%B5%E3%82%A4%E3%82%BA%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>NanoPBから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/nanopb.jpg">NanoPBから発見。画像もここから転載。
 ATmega328にはいくつか種類があります、今回紹介するボードに搭載されているのはATmega328PBです。 またUSB-SerialのチップとしてCP2102を使っているのもこのボードの特徴です。
 ATmega328PBはほかのものと違い2つのGPIOが増えています。（今までのATmega328ではVCCとGNDだったピンがGPIOとなっています。）そのためこのボードではそれを活用できるように工夫が施されています。
-このボードは作者が欲しくて作ったもののようで、こうやって作ったボードを簡単に売れるフットワークが良いですね。</description>
+このボードは作者が欲しくて作ったもののようで、こうやって作ったボードを簡単に売れるフットワークが良いですね。]]></description>
     </item>
     
     <item>
@@ -165,10 +165,10 @@ ATmega328PBはほかのものと違い2つのGPIOが増えています。（今�
       <pubDate>Thu, 24 Oct 2019 23:00:54 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E5%9F%BA%E6%9D%BF%E3%81%8C%E7%9B%B4%E5%88%BA%E3%81%97%E3%81%A7%E3%81%8D%E3%82%8Barduino%E4%BA%92%E6%8F%9B%E6%A9%9F/</guid>
-      <description>miniduino USBから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/miniduino-usb.png">miniduino USBから発見。画像もここから転載。
 基板がUSB端子の形をしていて、直接PCに接続できるという、開発ボードはいくつかありますが、これはArduino Leonardo互換のものです。
 電源回りが少し特徴的で、まずは5Vのレギュレータを積んでいません。これはUSBに接続することが前提なので納得の仕様です。
-代わりにバッテリーをチャージしたり、バッテリーの電圧を5Vに昇圧する仕組みが搭載されています。これらも含めて回路図が公開されているので、似たようなプロダクトを作る際は参考になりそうです。</description>
+代わりにバッテリーをチャージしたり、バッテリーの電圧を5Vに昇圧する仕組みが搭載されています。これらも含めて回路図が公開されているので、似たようなプロダクトを作る際は参考になりそうです。]]></description>
     </item>
     
     <item>
@@ -177,11 +177,11 @@ ATmega328PBはほかのものと違い2つのGPIOが増えています。（今�
       <pubDate>Tue, 01 Oct 2019 23:00:18 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/arduino%E3%82%92%E5%9F%BA%E3%81%AB%E3%81%97%E3%81%9F%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%83%89%E3%83%A9%E3%83%A0%E3%83%9E%E3%82%B7%E3%83%B3/</guid>
-      <description>DrumKid: aleatoric drum machineから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/drumkid.jpg">DrumKid: aleatoric drum machineから発見。画像もここから転載。
 Arduinoを基にしたドラムマシンです。ただのドラムマシンとは違い、ランダム要素を活用し、”偶然の音楽”を生み出すことにフォーカスしています。
 20ものパラメータがあり、ボタンでパラメータ群を選択し、つまみでそのパラメータ群を操作するようです。
 2019年の11月～12月あたりに量産をしようと考えているようで、気になる人は要チェックです。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -190,9 +190,9 @@ Arduinoを基にしたドラムマシンです。ただのドラムマシンと�
       <pubDate>Mon, 26 Aug 2019 23:00:09 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/type-c%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E6%90%AD%E8%BC%89%E3%81%AEarduino-nano/</guid>
-      <description>Seeeduino Nanoから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/seeeduino-nano.png">Seeeduino Nanoから発見。画像もここから転載。
 Seeed作った新しいArduino NanoはUSBコネクタがType-Cなのが特徴です。Grooveの端子も1つ用意されており、プロトタイピングにちょうど良さそうです。
-Arduino Nanoの互換品はUSBコネクタが「もげる」ものが多いため、Type-Cなのはありがたいです。 自作キーボードでよく使われているArduino Microとは違うようなので、キーボード畑の方は良くチェックしてから買ってください。（USB-Serial ICはSeeduinoと同じだとするとATmega16U2かな？）</description>
+Arduino Nanoの互換品はUSBコネクタが「もげる」ものが多いため、Type-Cなのはありがたいです。 自作キーボードでよく使われているArduino Microとは違うようなので、キーボード畑の方は良くチェックしてから買ってください。（USB-Serial ICはSeeduinoと同じだとするとATmega16U2かな？）]]></description>
     </item>
     
     <item>
@@ -201,11 +201,11 @@ Arduino Nanoの互換品はUSBコネクタが「もげる」ものが多いた�
       <pubDate>Mon, 12 Aug 2019 23:00:07 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/arduino%E3%81%A7%E3%82%BF%E3%83%83%E3%83%81%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92%E8%A9%A6%E3%81%9B%E3%82%8B%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89capboard/</guid>
-      <description>CapBoardから発見。画像もここから掲載。
+      <description>&lt;![CDATA[<img src="/img/capboard.jpg">CapBoardから発見。画像もここから掲載。
 CapBoardはArduinoNanoを組み込んで使う、タッチセンサーをプロトタイピングするためのボードです。
 公式ページはこちら
 Arduinoでも静電容量のタッチを検出する方法があることは知られていますが、このボードには静電容量タッチ検出に必要な回路と、LED、そしてスピーカ用の端子が搭載されており、回路を設計することなく静電容量タッチのプロトタイピングを開始することができます。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -214,10 +214,10 @@ Arduinoでも静電容量のタッチを検出する方法があることは知�
       <pubDate>Tue, 09 Jul 2019 23:00:31 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9Cmidi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%E3%81%A8%E6%97%A2%E8%A3%BD%E5%93%81%E3%81%A8%E3%81%AE%E6%AF%94%E8%BC%83/</guid>
-      <description>GreatScott! Asks Should You DIY or Buy a MIDI Launchpad? にて発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/diy-midi-pad.jpg">GreatScott! Asks Should You DIY or Buy a MIDI Launchpad? にて発見。画像もここから転載。
 よくあるグリッド状のMidiコントローラを自作した記事。 ボタンを光らせるためにLEDを斜めに配置しているあたりが非常に参考になります。 3Dプリンタを使った筐体の製作も、似たようなものを作りたい人には有用でしょう。 コントローラはArduino Nano。
 ユニバーサル基板を使ったり、フルカラーLEDを接着剤で3Dプリントした柱に取り付けたりと、手作り感満載だが、完成品はかなりそれっぽく仕上がっています。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -226,10 +226,10 @@ Arduinoでも静電容量のタッチを検出する方法があることは知�
       <pubDate>Tue, 25 Jun 2019 23:00:17 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF/</guid>
-      <description>DIY Cycle Speedometer にて発見。画像もここから転載（By HarshadB9, CC BY-NC-SA）
+      <description>&lt;![CDATA[<img src="/img/cycle-computer.jpg">DIY Cycle Speedometer にて発見。画像もここから転載（By HarshadB9, CC BY-NC-SA）
 サイクルコンピュータを自作している。タイヤの回転の取得にはホールセンサを用い、タイヤには磁石を取り付けているようだ。ディスプレイは良くある小さなOLED。バッテリはモバイルバッテリーを流用している。（スマートフォン用の消費電力が低いと電力供給をやめてしまう賢いものは避けて、dumbなバッテリーを利用せよとのこと。）
 コントローラはArduino Nano。
-意外と自分で作れるものなのだなと思わせてくれるプロダクトです。</description>
+意外と自分で作れるものなのだなと思わせてくれるプロダクトです。]]></description>
     </item>
     
     <item>
@@ -238,13 +238,13 @@ Arduinoでも静電容量のタッチを検出する方法があることは知�
       <pubDate>Wed, 05 Jun 2019 23:00:06 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E6%96%B0%E3%81%97%E3%81%84arduino-nano%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/</guid>
-      <description>Introducing Four New Arduino Nanosから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/new-arduino-nano.jpg">Introducing Four New Arduino Nanosから発見。画像もここから転載。
 Arduino Nanoサイズの新しい開発ボードが発表されたようです。
 Arduino Nano Every ほかのボードは技適が確認できていないので、日本人的に最も興味があるボードはこれです。
  メインチップは ATmega4809 USB Serialは ATSAMD11  Arduino Nano 33 IoT  メインチップはATSAMD21 WiFiとBLEのためのESP32を搭載した NINA W102 9軸加速度センサ 暗号チップ  Arduino Nano 33 BLE  nRF52840を搭載した NINA B306 9軸加速度センサ  Arduino Nano 33 BLE Sence  nRF52840を搭載した NINA B306 9軸加速度センサ 気圧センサ 湿度センサ 温度センサ 光センサ ジェスチャーセンサー マイク  注目点 これは全シリーズに共通の特徴として、ブレッドボードに接続できるスルーホールの穴に加えて、表面実装もできるパッドがついています。
 このパッドを活用すると、小型を保ったままArduinoを組み込んだ製品を作ることができそうです。
 私が作っているRakuChordも内部にAruino Nanoをそのままくっつけていますが、表面実装するパッドがなかったので、組み込んだ高さが気になっていました。
-このような用途に新しいArduino Nanoはぴったりだなと感じました。</description>
+このような用途に新しいArduino Nanoはぴったりだなと感じました。]]></description>
     </item>
     
     <item>
@@ -253,12 +253,12 @@ Arduino Nano Every ほかのボードは技適が確認できていないので�
       <pubDate>Mon, 03 Jun 2019 23:00:43 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9D%E3%83%B3%E3%83%97%E3%82%92%E7%B0%A1%E5%8D%98%E3%81%AB%E5%88%B6%E5%BE%A1%E3%81%99%E3%82%8B%E3%83%9C%E3%83%BC%E3%83%89programmable-air/</guid>
-      <description>Programmable-Airから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/programmable-air.jpg">Programmable-Airから発見。画像もここから転載。
 簡単に空気をコントロールすることができるボードです。
 要は小型のポンプがArduinoで簡単に制御できるボードなのです。 パッと何ができるものなのかは想像しづらいですが、ページにはいくつかのデモが紹介されています。
 ゴム状の素材を使った人工筋肉のようなものや、ポンプのパワーでものを持ち上げたり、さらには風船のようなものをしぼませることで、「つかむ」動きを実現したりと、思った以上に様々な使い方ができることがわかります。
 また逆に空気抵抗を読み取ることもできるようで、この機能を使うことで、空気の注入を入力ととして扱うこともできるようです。
-意外な使い方ができそうな「空気」と「電子工作」の融合。絶賛クラウドファンディング中なのでほしい方はBetしてみてはどうでしょうか？</description>
+意外な使い方ができそうな「空気」と「電子工作」の融合。絶賛クラウドファンディング中なのでほしい方はBetしてみてはどうでしょうか？]]></description>
     </item>
     
     <item>
@@ -267,9 +267,9 @@ Arduino Nano Every ほかのボードは技適が確認できていないので�
       <pubDate>Mon, 27 May 2019 23:00:33 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/m5stack%E3%82%92%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E9%A2%A8%E3%81%AB%E5%A4%89%E8%BA%AB%E3%81%95%E3%81%9B%E3%82%8B%E8%A3%8F%E6%8A%80/</guid>
-      <description>Esplora X M5Stackから発見。画像もここから転載（CC BY-NC-SA By 陳亮）
+      <description>&lt;![CDATA[<img src="/img/esplora-x.jpg">Esplora X M5Stackから発見。画像もここから転載（CC BY-NC-SA By 陳亮）
 M5Stackは良いプラットフォームですが、ボタンが3つしかないのが人によっては不満かもしれません。 そこでこの記事ではArduinoの一種であるEsploraとM5Stackを合体させてゲーム機風に改造しています。
-Esploraはあまり流行っている印象はありませんが、このようにI2Cゲームコントローラとして利用するのは結構よさそうです。</description>
+Esploraはあまり流行っている印象はありませんが、このようにI2Cゲームコントローラとして利用するのは結構よさそうです。]]></description>
     </item>
     
     <item>
@@ -278,10 +278,10 @@ Esploraはあまり流行っている印象はありませんが、このよう�
       <pubDate>Wed, 15 May 2019 23:00:32 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E3%83%9D%E3%82%B1%E3%83%99%E3%83%AB%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%82%82%E3%81%AE/</guid>
-      <description>Ben&amp;rsquo;s Text Radios for Maker Faireにて発見。
+      <description>&lt;![CDATA[<img src="/img/text-radios.jpg">Ben&amp;rsquo;s Text Radios for Maker Faireにて発見。
 Arduinoでシリアルコンソールを作成し、無線の送信には、eRIC-LoRaのモジュールを使用しているようです。 キーボード部分はレーザーカッターを使っているのはわかるが、肝心のボタン部分がどうなっているのかはよくわからない・・
 日本では技適があるのでLoRaモジュールの中でも使えるものは限られているのだろうが、ちょっと試してみたいなと思いました。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -290,12 +290,12 @@ Arduinoでシリアルコンソールを作成し、無線の送信には、eRIC
       <pubDate>Sun, 28 Apr 2019 23:00:54 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%A7%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84arduino%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89nano/</guid>
-      <description>Circuit Learn NANO: One PCB. Easy to Learn. Infinite Posibilities. にて発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/nano.jpg">Circuit Learn NANO: One PCB. Easy to Learn. Infinite Posibilities. にて発見。画像もここから転載。
 Arduino Nanoをマウントした、かわいらしいボード。
 サーボ制御用の端子や、アナログセンサー向けの端子が搭載搭載されている。
 なんでかわいいのかよくわかっていないけど、この大きなボタンや大きなLEDがかわいさの秘訣なのだろう。
 s4aというScratchでArduinoのプログラムを作ることができるフォームとの連携例も紹介されている。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -304,14 +304,14 @@ s4aというScratchでArduinoのプログラムを作ることができるフォ
       <pubDate>Thu, 11 Apr 2019 23:00:41 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%AB%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB%E9%83%A8%E5%93%81%E3%81%AE%E3%81%BF%E3%81%A7%E4%BD%9C%E3%82%8Barduino%E4%BA%92%E6%8F%9B%E3%82%AD%E3%83%83%E3%83%88/</guid>
-      <description>MAKIT-THT Soldering Kitで発見
+      <description>&lt;![CDATA[<img src="/img/makit-tht.png">MAKIT-THT Soldering Kitで発見
 最近の電子回路の多くは表面実装の部品を使っているものが多いです。 そうすることで、大量生産は楽ですし、基板のサイズを小さくすることができます。しかし、表面実装チップの実装は電子工作素人には難しい・・
 ということで作られたのが、このMAKEIT-THTです。これはArduino Unoと同等の機能を持ったボードですが、すべてスルーホール部品で実装されています。
 このキットを作ることで自分の手でArduinoを作ることができます。
 （この手のキットで難しいのがUSBシリアル変換ICだと思っています。スルーホールのUSBシリアル変換ICはあまり種類がないからです。このキットではMCP2221Aを使っているようですが、このICではリセットをうまく扱うことができません。 そこで、このキットでは書き込み時にリセットボタンを手で押す、ということで問題を回避しています。（回避といえるのか・・？））
 そういう意味ではArduinoとよく似ていますが、挙動は少し違うキットといえます。
 Tindieからキットを購入できるので、自分の手でArduinoを作ってみたい人は買ってみてはどうでしょう？
-部品表（BOM）や回路、組み立てガイドなどが充実しているので、Arduinoのようなボードを作ろうとしている人の参考にもなると思います。</description>
+部品表（BOM）や回路、組み立てガイドなどが充実しているので、Arduinoのようなボードを作ろうとしている人の参考にもなると思います。]]></description>
     </item>
     
     <item>
@@ -320,8 +320,9 @@ Tindieからキットを購入できるので、自分の手でArduinoを作っ�
       <pubDate>Sun, 31 Mar 2019 11:43:07 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/dvd%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E5%BD%AB%E5%88%BB%E6%A9%9F/</guid>
-      <description>DIY Mini CNC Laser Engraver.から発見。画像もここから転載（CC BY-NC-SA By Maggie Shah）</description>
+      <description>&lt;![CDATA[<img src="">DIY Mini CNC Laser Engraver.から発見。画像もここから転載（CC BY-NC-SA By Maggie Shah）]]></description>
     </item>
     
   </channel>
 </rss>
+

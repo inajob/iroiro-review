@@ -17,11 +17,12 @@
       <pubDate>Tue, 21 Apr 2020 23:00:14 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/stm32f103c8t6%E4%BA%92%E6%8F%9Bicgd32f103c8t6/</guid>
-      <description>Alternative to STM32F103C8T6 by GigaDeviceから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/gd32f103c8t6.jpg">Alternative to STM32F103C8T6 by GigaDeviceから発見。画像もここから転載。
 激安なボードとして有名なBluePillによく使われているSTM32F103C8T6ですが、今回紹介するのはそれと互換性があるICであるGD32F103C8T6です。
 この記事によるとこのICはSTMに比べるとより速い速度で動かすことができるようです。(72MHz -&amp;gt; 108MHz)
-STM32F103C8T6はかなり安いですが、そのからくりはこういった互換性のあるICの存在だったりするのかもしれません。</description>
+STM32F103C8T6はかなり安いですが、そのからくりはこういった互換性のあるICの存在だったりするのかもしれません。]]></description>
     </item>
     
   </channel>
 </rss>
+

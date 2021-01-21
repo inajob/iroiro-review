@@ -17,11 +17,12 @@
       <pubDate>Sun, 31 May 2020 23:00:44 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%93%E3%83%87%E3%82%AA%E3%81%AB%E6%96%87%E5%AD%97%E3%82%92%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AC%E3%82%A4%E3%81%99%E3%82%8Bosd%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E5%AE%9F%E8%A3%85/</guid>
-      <description>tinyOSD &amp;amp; tinyFINITY – a tiny opensource video tx with full graphic OSDから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/tinyosd.jpg">tinyOSD &amp;amp; tinyFINITY – a tiny opensource video tx with full graphic OSDから発見。画像もここから転載。
 OSDというビデオに文字をオーバーレイをする仕組みの紹介です。一般的にこの手のOSDを実現するためには専用のチップ（MAX7456など）を使うことが多いのですが、この記事ではそれを汎用的なマイコンで実現しています。
 その理由としてMAX7456は古いチップで非常に電気を食いチップが熱くなることを挙げています。
-ここで使っているのはSTM32F3です。オープンソースになっており、フォントも好きに差し替えられるようなので、日本語版なども作ってみると面白いかもしれません。</description>
+ここで使っているのはSTM32F3です。オープンソースになっており、フォントも好きに差し替えられるようなので、日本語版なども作ってみると面白いかもしれません。]]></description>
     </item>
     
   </channel>
 </rss>
+

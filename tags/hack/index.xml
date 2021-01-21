@@ -17,11 +17,11 @@
       <pubDate>Sun, 17 Jan 2021 11:00:43 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E6%B0%B4%E5%8A%9B%E7%99%BA%E9%9B%BB%E6%A9%9F/</guid>
-      <description>OPEN SOURCE $50 WATER TURBINE FROM REPURPOSED PARTSから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/scraphydrogenerator.jpg">OPEN SOURCE $50 WATER TURBINE FROM REPURPOSED PARTSから発見。画像もここから転載。
 高いところにある水路から、パイプを伝いサイフォンの原理で水路下に水を流し、その流れでタービンを回して電気を発生させるという水力発電機です。
 PVCパイプなど手に入りやすい安価な材料で作成されているのが特徴です。まだプロジェクトは公開されていませんがいずれオープンソースで公開されるとのことです。
 高いところに水路があるという特殊な地形が必要ですが、このような地形にお住まいの方はぜひ試してみて欲しいです。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -30,10 +30,10 @@ PVCパイプなど手に入りやすい安価な材料で作成されている�
       <pubDate>Thu, 07 Jan 2021 11:00:21 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/vga%E7%AB%AF%E5%AD%90%E3%82%92i2c%E3%81%AE%E5%85%A5%E5%87%BA%E5%8A%9B%E3%81%A8%E3%81%97%E3%81%A6%E6%89%B1%E3%81%86/</guid>
-      <description>i2c on your unused/legacy VGA outputから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/vga-as-i2c.png">i2c on your unused/legacy VGA outputから発見。画像もここから転載。
 ディスプレイを接続するためのVGA端子ですが、そのピンの中にI2Cの機能のピンがあることを知っていますか？
 本来はモニタのサポートしている解像度などをPCとやり取りするために使われるもののようですが、この記事ではLinuxで、このI2Cを扱う方法を紹介しています。
-カーネルモジュールをロードするだけで、使えるようになり、記事の中では気温・湿度センサーの値をこのVGA端子から読み取っている様子が紹介されています。</description>
+カーネルモジュールをロードするだけで、使えるようになり、記事の中では気温・湿度センサーの値をこのVGA端子から読み取っている様子が紹介されています。]]></description>
     </item>
     
     <item>
@@ -42,10 +42,10 @@ PVCパイプなど手に入りやすい安価な材料で作成されている�
       <pubDate>Sat, 12 Dec 2020 23:00:58 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%81%E3%83%83%E3%83%97%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%E5%B0%82%E7%94%A8%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4/</guid>
-      <description>Game Boy Hardware Turned Into Portable Chiptune Playerから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/gameboy-walkman.jpg">Game Boy Hardware Turned Into Portable Chiptune Playerから発見。画像もここから転載。
 一瞬目を疑うような造形のゲームボーイ風の筐体ですが、これは実際のゲームボーイの基板を流用して作られたチップチューンプレイヤーです。 ゲームボーイの必要な部分を流用しつつ、不要な部品を取り除くという「外科手術」により実現され散ます。
 筐体は3Dプリンタで作成しており、制御はArduino互換基板を使っています。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -54,11 +54,11 @@ PVCパイプなど手に入りやすい安価な材料で作成されている�
       <pubDate>Sat, 05 Dec 2020 23:00:41 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E6%94%BE%E9%9B%BB%E5%8A%A0%E5%B7%A5%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%9F%BA%E6%9D%BF/</guid>
-      <description>PCB Fabrication with EDMから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/edm-pcb.jpg">PCB Fabrication with EDMから発見。画像もここから転載。
 プリント基板を作る方法としては、古くから使われているのはエッチングですが、危険な化学薬品を使うためDIYで利用するのはためらわれます。
 この記事で紹介しているのは、放電加工を使ってプリント基板を作成する方法です。 まだまだ実験段階のようですが、高電圧で放電することで、生基板上の銅箔を削り取ることとで、基板を切削するという原理で動いているようです。
 この技術が実用化されれば、今までよりはるかに手軽にプリント基板の施策ができるようになりそうです。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -67,11 +67,11 @@ PVCパイプなど手に入りやすい安価な材料で作成されている�
       <pubDate>Sun, 29 Nov 2020 23:00:06 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E6%B8%A9%E5%BA%A6%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92%E4%BD%BF%E3%82%8F%E3%81%9A%E3%81%AB%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3%E3%81%A7%E6%B8%A9%E5%BA%A6%E3%82%92%E5%8F%96%E5%BE%97%E3%81%99%E3%82%8B%E8%A3%8F%E6%8A%80/</guid>
-      <description>‘No-Parts’ Temperature Measurement with Arduino Pro Mini から発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/no-parts-temperature-sensor.png">‘No-Parts’ Temperature Measurement with Arduino Pro Mini から発見。画像もここから転載。
 温度センサーを使わずに温度を測定する方法を紹介している記事です。 ここで使用しているのはマイコンに内蔵されているRC発振器を使う方法です。RC発振器の周波数は温度による影響を受けます。
 一方水晶発振子による発振器は温度の影響をほとんど受けません。
 この記事ではこの2つの事実を利用して、それぞれの周波数の「ずれ」を測定し、その「ずれ」から温度を計算しています。
-以前紹介したダイオードを使った温度センサーにも驚かされましたが、こちらも面白いです。</description>
+以前紹介したダイオードを使った温度センサーにも驚かされましたが、こちらも面白いです。]]></description>
     </item>
     
     <item>
@@ -80,10 +80,10 @@ PVCパイプなど手に入りやすい安価な材料で作成されている�
       <pubDate>Wed, 11 Nov 2020 23:00:29 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AC%E3%83%A9%E3%82%B9%E6%9D%BF%E3%81%AB%E9%8A%85%E7%AE%94%E3%83%86%E3%83%BC%E3%83%97%E3%81%A7%E4%BD%9C%E3%82%8B%E9%9B%BB%E5%AD%90%E5%9B%9E%E8%B7%AF/</guid>
-      <description>CREATING EASY GLASS CIRCUIT BOARDS AT HOMEから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/glasspcb.jpg">CREATING EASY GLASS CIRCUIT BOARDS AT HOMEから発見。画像もここから転載。
 ガラス板と銅箔テープを使って基板を作るという新しい手法の紹介です。 カッティングプロッタがあれば回路が作れるため、プロトタイピングにも良さそうに見えます。
 この手法で作った回路は透明で見栄えが良いので、基板自体を見せるデザインにする際も役立ちそうです。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -92,12 +92,12 @@ PVCパイプなど手に入りやすい安価な材料で作成されている�
       <pubDate>Mon, 09 Nov 2020 23:00:21 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E8%87%AA%E5%B7%B1%E8%B2%AC%E4%BB%BB%E6%94%B9%E9%80%A0%E3%82%92%E8%A8%B1%E8%AB%BE%E3%81%99%E3%82%8B%E3%83%8A%E3%82%A4%E3%82%B9%E3%81%AA%E4%BB%95%E7%B5%84%E3%81%BF/</guid>
-      <description>PRUSA DARES YOU TO BREAK THEIR LATEST PRINTERから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/prusafirmware.jpg">PRUSA DARES YOU TO BREAK THEIR LATEST PRINTERから発見。画像もここから転載。
 オープンソースハードウェアを販売するときに気になるのが「保障」です。製品としての故障と、ユーザの改造により発生した故障はを判断し、前者の場合は保証を適用することになります。
 しかし、部品を触らないファームウェアの書き換えをユーザが意識せずに行った場合は、この「保障」が適用できなくなってしまい、トラブルの原因となります。このような事態を防ぐためにはファームウェアをプロテクトし、だれも書き換えられなくすることが、一般的です。
 しかし、ヘビーユーザの中には「保障」が無くて構わないからファームウェアをいじりたいという人もいます。
 この記事で紹介している3Dプリンタの制御基板は、この問題に対応するために、基板の一部をへし折ることでファームウェアのプロテクトを外すという仕組みを搭載しています。
-この基板の一部をへし折る行為を「保障外となることへの同意」とみなすことで、オープンソースの良さと、メーカーサポートの両立を実現しています。</description>
+この基板の一部をへし折る行為を「保障外となることへの同意」とみなすことで、オープンソースの良さと、メーカーサポートの両立を実現しています。]]></description>
     </item>
     
     <item>
@@ -106,10 +106,10 @@ PVCパイプなど手に入りやすい安価な材料で作成されている�
       <pubDate>Wed, 28 Oct 2020 23:00:17 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%A4%E3%83%B3%E3%82%AF%E3%82%AB%E3%83%BC%E3%83%88%E3%83%AA%E3%83%83%E3%82%B8%E3%82%92%E5%A4%96%E4%BB%98%E3%81%91%E3%81%99%E3%82%8B%E6%94%B9%E9%80%A0/</guid>
-      <description>Cheap inkjet printing for hackerspaceから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/external-ink-printer.jpg">Cheap inkjet printing for hackerspaceから発見。画像もここから転載。
 インクジェットプリンタのインクは高いですし、交換には手間がかかります、この記事では、そんなインクをうまく扱うためのHACKを紹介しています。
 外付けの巨大なインクタンクからチューブを通じてプリンタ本体にインクを供給するように改造しています。
-この仕組みはどうやら市販されているもののようで、インクに付いている残量検知チップをうまいことごまかして、無限にインクがあるかのように見せることができるようです。（結構有名な改造のようなので、調べると販売しているページが見つけられるでしょう）</description>
+この仕組みはどうやら市販されているもののようで、インクに付いている残量検知チップをうまいことごまかして、無限にインクがあるかのように見せることができるようです。（結構有名な改造のようなので、調べると販売しているページが見つけられるでしょう）]]></description>
     </item>
     
     <item>
@@ -118,10 +118,10 @@ PVCパイプなど手に入りやすい安価な材料で作成されている�
       <pubDate>Mon, 26 Oct 2020 23:00:15 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E6%88%90%E6%9E%9C%E7%89%A9%E3%82%92%E3%81%82%E3%81%B6%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E5%BC%B7%E5%BA%A6%E3%82%92%E5%A2%97%E3%81%99hack/</guid>
-      <description>ANNEALING 3D PRINTS: A SCIENTIFIC APPROACHから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/annealing-3d-printer.jpg">ANNEALING 3D PRINTS: A SCIENTIFIC APPROACHから発見。画像もここから転載。
 3Dプリンタで作成したパーツは結構もろいです。そのため力が加わるようなパーツを作るのは難し時もあります。
 この記事では、3Dプリンタ製のパーツを「あぶる」ことで強度を高める実験を紹介しています。 あぶることでパーツ自体が縮むため、思った部品を作るのは難しそうですが、テクニックとしては面白そうです。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -130,11 +130,11 @@ PVCパイプなど手に入りやすい安価な材料で作成されている�
       <pubDate>Sun, 25 Oct 2020 23:00:38 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%8F%E3%83%AD%E3%82%B2%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%97%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%AA%E3%83%95%E3%83%AD%E3%83%BC%E3%82%AA%E3%83%BC%E3%83%96%E3%83%B3/</guid>
-      <description>The FluxLamp Soldering Reflow Ovenから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/power-core.jpg">The FluxLamp Soldering Reflow Ovenから発見。画像もここから転載。
 自作リフロー装置といえば、オーブントースターとホットプレートが有名ですが、新しい種類の自作リフロー装置が現れました。
 このリフローオーブンはハロゲンランプを熱源としています。原理は他のリフローオーブンと同じく、基板を指定した温度で加熱するというものです。
 他の仕組みよりコンパクトなのが良いところだと感じました。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -143,9 +143,9 @@ PVCパイプなど手に入りやすい安価な材料で作成されている�
       <pubDate>Sat, 24 Oct 2020 23:00:34 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%82%B4%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%83%AC%E3%82%B4%E9%83%A8%E5%93%81%E3%81%AE%E5%88%86%E9%A1%9E%E5%99%A8/</guid>
-      <description>A high-speed computer vision pipeline for the universal LEGO sorting machineから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/lego-sorter.jpg">A high-speed computer vision pipeline for the universal LEGO sorting machineから発見。画像もここから転載。
 レゴによって作られた、レゴパーツの分類器です。カメラでとらえた画像を解析しどの部品かを判定し、適切な分類を行うマシンです。画像解析にはRaspberryPi上で動作するOpenCVを利用しています。性能の低いRaspberryPiで画像解析を行うためには様々な工夫が必要だったようです。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -154,10 +154,10 @@ PVCパイプなど手に入りやすい安価な材料で作成されている�
       <pubDate>Wed, 21 Oct 2020 23:00:46 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E7%A3%81%E6%80%A7%E6%B5%81%E4%BD%93%E3%81%AB%E3%82%88%E3%82%8B%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
-      <description>Fetch: A Ferrofluid Displayから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/liquid-display.png">Fetch: A Ferrofluid Displayから発見。画像もここから転載。
 磁性流体を使ったデジタル時計です。内部的には12x21の解像度ですが、重力や磁力の兼ね合いでアナログな動きをする磁性流体が面白いです。
 大量の電磁石を制御するのは大変そうですが、今までにない新しい見た目のディスプレイです。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -166,9 +166,9 @@ PVCパイプなど手に入りやすい安価な材料で作成されている�
       <pubDate>Tue, 20 Oct 2020 23:00:15 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/esp8266%E3%82%92%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E3%81%9B%E3%81%9A%E3%81%AB%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%82%80hack/</guid>
-      <description>SIMPLE POGO PROGRAMMER FOR ESP8266 MODULESから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/pogoesp.jpg">SIMPLE POGO PROGRAMMER FOR ESP8266 MODULESから発見。画像もここから転載。
 表面実装部品に実装前にファームウェアを書き込みたいときに便利なテクニックの紹介です。 写真のように、ピンヘッダから横向きにポゴピンを伸ばして、スルーホールエッジに接触させることで、はんだ付けせずに書き込みできるようにしています。
-端面スルーホールになっているあらゆるボードで使えるテクニックなので、覚えておきたいです。</description>
+端面スルーホールになっているあらゆるボードで使えるテクニックなので、覚えておきたいです。]]></description>
     </item>
     
     <item>
@@ -177,10 +177,10 @@ PVCパイプなど手に入りやすい安価な材料で作成されている�
       <pubDate>Sun, 18 Oct 2020 23:00:08 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%82%B7%E3%83%BC%E3%83%88%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AB%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E3%81%A4%E3%81%91%E3%81%9F%E3%82%BF%E3%82%A4%E3%83%97%E3%83%A9%E3%82%A4%E3%82%BF%E3%83%BC/</guid>
-      <description>Thermal Typewriterから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/thermal-typewriter.jpg">Thermal Typewriterから発見。画像もここから転載。
 レシートプリンタとキーボードというとてもシンプルなタイプライターです。
 シンプルがゆえに様々な制約があります、例えば5行書くまでは何を書いたか見えないなど・・実用性はかなり怪しいですが、ミニマルな構成で潔さを感じます。
-制御はRaspberry Piで行っているようです。</description>
+制御はRaspberry Piで行っているようです。]]></description>
     </item>
     
     <item>
@@ -189,12 +189,12 @@ PVCパイプなど手に入りやすい安価な材料で作成されている�
       <pubDate>Tue, 13 Oct 2020 23:00:12 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E6%96%B0%E3%81%97%E3%81%84%E5%8E%9F%E7%90%86%E3%81%AE3d%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</guid>
-      <description>BEHOLD A 3D DISPLAY, THANKS TO A SPEEDING FOAM BALLから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/3d-display.png">BEHOLD A 3D DISPLAY, THANKS TO A SPEEDING FOAM BALLから発見。画像もここから転載。
 3Dディスプレイには様々な原理のものがありますが、ここで紹介するのは、かなり「攻めた」アイデアです。
 数ミリの白い粒を超音波の力で、空中に浮遊させ、超音波の周波数を変化させることで、その粒の位置を高速に移動させます。さらにその粒にフルカラーLEDにより色を投影することで、粒に色を付けます。
 一瞬一瞬では色の粒は1つしか見えませんが、高速に移動させることでその残像を使って画像や、立体物を投影しています。
 上記画像のような「大物」の場合はシャッタースピードを20秒ほどに遅くする必要があり、肉眼では見ることができそうにありませんが、面白そうな要素技術です。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -203,8 +203,8 @@ PVCパイプなど手に入りやすい安価な材料で作成されている�
       <pubDate>Sun, 11 Oct 2020 23:00:46 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%8B%E3%83%B3%E3%83%86%E3%83%B3%E3%83%89%E3%83%BCswitch%E3%82%92%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%81%AB%E3%81%99%E3%82%8B/</guid>
-      <description>The Nintendo Switch Switchから発見。画像もここから転載。
-ニンテンドーSwitchをネットワーク「スイッチ」にするという、どう考えてもこのダジャレが言いたいだけのプロジェクトです。 といいつつ、ちゃんと仕事をするのがハッカーです。ニンテンドーSwitchをハックするswitchrootを利用してLinuxを導入し、ドッキングステーションのUSBポートにイーサーネットアダプタを接続してネットワークスイッチに仕上げています。</description>
+      <description>&lt;![CDATA[<img src="/img/switch-switch.jpg">The Nintendo Switch Switchから発見。画像もここから転載。
+ニンテンドーSwitchをネットワーク「スイッチ」にするという、どう考えてもこのダジャレが言いたいだけのプロジェクトです。 といいつつ、ちゃんと仕事をするのがハッカーです。ニンテンドーSwitchをハックするswitchrootを利用してLinuxを導入し、ドッキングステーションのUSBポートにイーサーネットアダプタを接続してネットワークスイッチに仕上げています。]]></description>
     </item>
     
     <item>
@@ -213,11 +213,11 @@ PVCパイプなど手に入りやすい安価な材料で作成されている�
       <pubDate>Mon, 05 Oct 2020 23:00:19 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/attiny85%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AB%E3%82%88%E3%82%8B%E8%AC%8E%E8%A7%A3%E3%81%8D%E3%82%B2%E3%83%BC%E3%83%A0/</guid>
-      <description>Capture The Flag Shitty Add-Onから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/attiny-ctf.png">Capture The Flag Shitty Add-Onから発見。画像もここから転載。
 コンピュータを使った競技としてCTF（Capture The Flag）というのがあります。これはあるシステムに隠された秘密のメッセージなど（Flag）をハッキングなどを駆使して探し出すというものです。
 今回紹介するボードはそのハードウェア版です。 ボードにはATTiny85が実装されておりI2Cの端子が露出しています。まず最初の挑戦はボードに実装されているLEDを点灯させることです。
 その後はさらに難しい課題が用意されています。
-オープンソースプロジェクトなので、部品をそろえることで自分でも同じものを作ることができます。</description>
+オープンソースプロジェクトなので、部品をそろえることで自分でも同じものを作ることができます。]]></description>
     </item>
     
     <item>
@@ -226,10 +226,10 @@ PVCパイプなど手に入りやすい安価な材料で作成されている�
       <pubDate>Tue, 29 Sep 2020 23:00:14 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E6%BC%AB%E7%94%BB%E9%A2%A8%E3%81%AB%E3%82%AD%E3%83%A9%E3%83%AA%E3%81%A8%E5%85%89%E3%82%8B%E7%9C%BC%E9%8F%A1/</guid>
-      <description>Glowing Comic/Anime Character Glassesから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/anime-glasses.jpg">Glowing Comic/Anime Character Glassesから発見。画像もここから転載。
 アニメなどでよくみられる「眼鏡がきらっと光る」やつをDIYしている記事です。 まぁやってることは単純で、眼鏡のレンズをやすりで傷だらけにして、マスキングテープを貼り、さらにレンズの裏側にボタン電池と白色のLEDを内蔵しています。
 当然このメガネをかけていると前を見ることはできませんがなかなか面白い工作です。
-デイリーポータルZでも同じような工作の例がありましたね。</description>
+デイリーポータルZでも同じような工作の例がありましたね。]]></description>
     </item>
     
     <item>
@@ -238,7 +238,7 @@ PVCパイプなど手に入りやすい安価な材料で作成されている�
       <pubDate>Sun, 27 Sep 2020 10:30:50 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E7%A9%8D%E5%B1%A4%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E7%94%9F%E6%88%90%E7%89%A9%E3%82%92%E5%A1%A9%E3%81%AB%E8%A9%B0%E3%82%81%E3%81%A6%E5%86%8D%E5%8A%A0%E7%86%B1%E3%81%97%E3%81%A6%E3%81%99%E3%81%B9%E3%81%99%E3%81%B9%E3%81%AB%E3%81%99%E3%82%8Bhack/</guid>
-      <description>REFORMING 3D PRINTS WITH SALT AND HEATから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/3d-printer-and-salt.png">REFORMING 3D PRINTS WITH SALT AND HEATから発見。画像もここから転載。
 積層式3Dプリンタの生成物は、いわゆる「積層痕」が表面に出てしまうという品質上の問題があります。
 この記事で紹介しているのは、この「積層痕」を解消する方法です。 3Dプリンタの生成物を、細かく砕いた「塩」の中に突っ込んで加熱するという、さながら「塩釜焼き」のような方法をとることで、生成物の形状を壊すことなく表面を滑らかにすることができるようです。
 注意としては生成物はinfillを100%とし、内部に空洞を作らないことと、フィラメントの素材によって加熱の温度が違うという点です。
@@ -264,7 +264,7 @@ PVCパイプなど手に入りやすい安価な材料で作成されている�
 積層痕は残っているようですが、表面の性質が変化したようで、やすり掛けするとつるつるになったようです。
 塩による積層痕処理試してみました
 予想はできてたけどもっと細かい塩でやらんとダメですね
-こんがり美味しそうな色になったのは温度か時間か&amp;hellip;</description>
+こんがり美味しそうな色になったのは温度か時間か&amp;hellip;]]></description>
     </item>
     
     <item>
@@ -273,11 +273,11 @@ PVCパイプなど手に入りやすい安価な材料で作成されている�
       <pubDate>Tue, 22 Sep 2020 23:00:20 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/midi%E7%AB%AF%E5%AD%90%E3%81%AB%E5%86%85%E8%94%B5%E3%81%95%E3%82%8C%E3%81%9F%E8%B6%85%E5%B0%8F%E3%81%95%E3%81%84%E3%82%B7%E3%83%B3%E3%82%BB/</guid>
-      <description>Flash Synthから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/flash-synth.jpg">Flash Synthから発見。画像もここから転載。
 写真で示しているのはMIDI端子です。そしてこの中には小さなシンセが内蔵されています。 16の音を同時に演奏でき、電源はMIDI端子から取得します。サンプリングレートは44.1kHzと高音質です。
 コアとなるCPUは省電力なSTM32L432KCです。省スペースを実現するためにフレキシブル基板を利用しているようです。
 その他これを作成するにあたって考えられた様々なトピックが記載されている記事です。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -286,10 +286,10 @@ PVCパイプなど手に入りやすい安価な材料で作成されている�
       <pubDate>Mon, 21 Sep 2020 23:00:47 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%80%E3%82%A4%E3%82%AA%E3%83%BC%E3%83%89%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%B8%A9%E5%BA%A6%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/</guid>
-      <description>Single Diode Temperature Sensor with Arduino ICU (&amp;amp; reverse-bias leakage)から発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/diode-temp-sensor.jpg">Single Diode Temperature Sensor with Arduino ICU (&amp;amp; reverse-bias leakage)から発見。画像もここから転載。
 温度を測る方法はたくさんありますが、この記事で紹介しているのはダイオードを使う方法です。
 ダイオードにに逆方向に電圧をかけた際の漏れ電流が温度に応じて変化するという性質をつかい、温度を計測します。同じくダイオードを使う方法として順方向の電流が温度に応じて変化する現象を利用するものもありますが、この記事によると、逆方向の漏れ電流を扱うほうがより簡単な回路でかつ高精度な測定ができるとのことです。
-ただし、順方向とは異なり逆方向の漏れ電流は温度に対して非線形の特性を持つため、その温度を知るためには少し込み入った計算が必要となります。またダイオードの種類やロットによっても特性が異なるのでキャリブレーションが必要です。</description>
+ただし、順方向とは異なり逆方向の漏れ電流は温度に対して非線形の特性を持つため、その温度を知るためには少し込み入った計算が必要となります。またダイオードの種類やロットによっても特性が異なるのでキャリブレーションが必要です。]]></description>
     </item>
     
     <item>
@@ -298,11 +298,11 @@ PVCパイプなど手に入りやすい安価な材料で作成されている�
       <pubDate>Wed, 09 Sep 2020 23:00:09 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%82%A4%E3%83%AD%E3%83%B3%E3%83%93%E3%83%BC%E3%82%BA%E3%83%89%E3%83%83%E3%83%88%E7%B5%B5%E7%94%9F%E6%88%90%E5%99%A8/</guid>
-      <description>PERLER PRINTER PUSHES PIXEL-ART LIKE NO SPRITE ARTIST COULDから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/perler_pick_and_place.png">PERLER PRINTER PUSHES PIXEL-ART LIKE NO SPRITE ARTIST COULDから発見。画像もここから転載。
 アイロンビーズでドット絵を作っている作例を見たことがあるでしょうか？ 大抵それらの作品はビーズを手で配置しているものです。
 しかしこの記事で紹介しているのは、自動でアイロンビーズを配置し、加熱する、全自動アイロンビーズドット生成器です。
 様々な色のアイロンビーズフィードするための数十本もの管が非常に印象的な機械です。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -311,10 +311,10 @@ PVCパイプなど手に入りやすい安価な材料で作成されている�
       <pubDate>Tue, 01 Sep 2020 23:00:41 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/usb-type-c%E5%91%A8%E3%82%8A%E3%81%AE%E5%9B%9E%E8%B7%AF%E5%9B%B3/</guid>
-      <description>BUS PIRATE: Love the USB C connector!から発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/usbccct-600x483.png">BUS PIRATE: Love the USB C connector!から発見。画像もここから転載。
 最近はUSB Type-Cの付いた製品をよく見かけるようになってきました。 一方で以前からよく使われていたマイクロUSBコネクタはもげやすく、できれば使いたくありません。
 ということで特にUSB3.0の特殊な機能を使うことはしないが、今までの信号線としてのUSBをType-Cコネクタで実現したい、という需要が結構あるわけです。
-この記事ではUSBのType-Cコネクタの結線方法について回路図を用いて説明しています。 はんだ付けはちょっとつらそうですが、これを基にあなたの基板のUSB端子もType-Cにしてみませんか？</description>
+この記事ではUSBのType-Cコネクタの結線方法について回路図を用いて説明しています。 はんだ付けはちょっとつらそうですが、これを基にあなたの基板のUSB端子もType-Cにしてみませんか？]]></description>
     </item>
     
     <item>
@@ -323,10 +323,10 @@ PVCパイプなど手に入りやすい安価な材料で作成されている�
       <pubDate>Mon, 24 Aug 2020 23:00:59 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E5%AE%9F%E3%81%AB%E7%B0%A1%E5%8D%98%E3%81%AB%E4%BD%9C%E3%82%8C%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC/</guid>
-      <description>30 Second 3D Printer Filament Spool Holderから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/cheap-filament-holder.jpg">30 Second 3D Printer Filament Spool Holderから発見。画像もここから転載。
 3Dプリンタのフィラメントのスプールをマウントする「フィラメントホルダー」をお手軽に作っている作例です。
 フィラメントホルダーは、意外と3Dプリントするうえで重要で、引っかかることなく安定してフィラメントを送り出すことが求められます。 また、安物の3Dプリンタだと、簡易的なフィラメントホルダーしかついておらず、自分でも作りたくなる人も多いのではないでしょうか？
-この記事ではフィラメントを買ったら必ずと言っていいほど付属している「箱」を使ってフィラメントホルダーを作っています。サイズもぴったりですし、案外良い方法なのでは？と思いました。</description>
+この記事ではフィラメントを買ったら必ずと言っていいほど付属している「箱」を使ってフィラメントホルダーを作っています。サイズもぴったりですし、案外良い方法なのでは？と思いました。]]></description>
     </item>
     
     <item>
@@ -335,10 +335,10 @@ PVCパイプなど手に入りやすい安価な材料で作成されている�
       <pubDate>Sun, 09 Aug 2020 23:00:15 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E9%80%86ar%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%81%AA%E8%A1%A8%E6%83%85%E3%82%92%E6%BC%94%E5%87%BA%E3%81%99%E3%82%8Bhack/</guid>
-      <description>MONSTER M4SK Toon Hatから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/invert-ar.jpg">MONSTER M4SK Toon Hatから発見。画像もここから転載。
 写真の通り「目」をコミカルに演出できる「逆AR」なディスプレイです。
 目の前には実際にはハーフミラーが斜め45度に配置されており、帽子のつばの部分にあるディスプレイの映像が反射するようになっているようです。
-シンプルですが応用が利きそうなテクニックです。</description>
+シンプルですが応用が利きそうなテクニックです。]]></description>
     </item>
     
     <item>
@@ -347,11 +347,11 @@ PVCパイプなど手に入りやすい安価な材料で作成されている�
       <pubDate>Wed, 05 Aug 2020 23:00:16 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E7%94%BB%E6%9C%9F%E7%9A%84%E3%81%AA%E6%96%87%E5%AD%97%E5%85%A5%E5%8A%9B%E3%82%92%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%99%E3%82%8B%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%B9/</guid>
-      <description>TypeCaseから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/type-case.jpg">TypeCaseから発見。画像もここから転載。
 スマートフォンで文字を打とうとすると、どうしても両手を使うことになってしまいます。しかし、このスマートフォンケース TypeCaseを使うと、スマートフォンを保持している手だけを使って文字入力ができます。
 仕組みとしては5つのボタンが付いたスマートフォンケースとなっており、このボタンの同時押しを検出して文字の入力を行います。
 5つのボタンの組み合わせでアルファベットを表現するのですが、この対応を覚えるのが結構大変そうです。そのために図に示したような「早覚え表」のようなものが用意されています。
-慣れれば、快適に操作できるの・・　かな？</description>
+慣れれば、快適に操作できるの・・　かな？]]></description>
     </item>
     
     <item>
@@ -360,13 +360,13 @@ PVCパイプなど手に入りやすい安価な材料で作成されている�
       <pubDate>Mon, 03 Aug 2020 23:00:20 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E6%BB%91%E3%82%89%E3%81%8B%E3%81%AA%E5%B1%A4%E3%82%92%E4%BD%9C%E3%82%8B%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF%E3%81%8C%E9%96%8B%E7%99%BA%E4%B8%AD/</guid>
-      <description>HOW’S THAT 2.5D PRINTER WORKING FOR YOU?から発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/real-3d-printing.png">HOW’S THAT 2.5D PRINTER WORKING FOR YOU?から発見。画像もここから転載。
 積層式の3Dプリンタと、切っても切れないのが、「積層痕」です。 文字通りプラスチックを「層」にして重ねているため、その断面が地層のように積層した凹凸の形状になってしまうというものです。
 しかし、今この「積層痕」をなくし、滑らかに表面を生成する技術が研究されています。しかもこの方法は3Dプリンタはそのままでソフトウェアの機能でそれを実現します。
 コアとなる仕組みは簡単で、レイヤーごとに生成するのをやめて、Z軸についても上下しながら生成するという手法です。
 とはいえ、この方法はいつでも使えるわけではありません。あまりに大きなZ軸の移動は機構上できませんし、Extruder周辺の部品ががすでに生成した形状と衝突してしまう問題もあります。
 この記事で紹介しているのは、上記のような条件を加味した結果うまくZ軸を上下させても大丈夫な範囲を計算し、そこだけをピンポイントにスムーズに出力するという方法のようです。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -375,11 +375,11 @@ PVCパイプなど手に入りやすい安価な材料で作成されている�
       <pubDate>Mon, 13 Jul 2020 23:00:54 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%81%E3%83%BC%E3%82%BA%E5%89%8A%E3%82%8A%E5%99%A8%E3%81%AE%E3%82%88%E3%81%86%E3%81%AAmac-pro%E3%82%92%E3%83%81%E3%83%BC%E3%82%BA%E5%89%8A%E3%82%8A%E5%99%A8%E3%81%AB%E6%94%B9%E9%80%A0/</guid>
-      <description>CHEESE GRATER NOW GRATES CHEESEから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/mac-cheese.jpg">CHEESE GRATER NOW GRATES CHEESEから発見。画像もここから転載。
 チーズ削り器と揶揄されたMac Proですが、この記事ではMac Proのケースの中に本当に「チーズ削り器」を内蔵しています。
 また、ただ単にMac Proの筐体を使うだけでなく、その内部にRaspberry Pi4を仕込み、一応パソコンとしても使える状態を保っています。
 CD-ROMトレイからチーズを入れると、中でチーズが刻まれる様子をデモしています。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -388,10 +388,10 @@ CD-ROMトレイからチーズを入れると、中でチーズが刻まれる�
       <pubDate>Sun, 05 Jul 2020 23:00:51 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/raspberrypi4%E3%81%ABpci-express%E3%83%9D%E3%83%BC%E3%83%88%E3%82%92%E5%A2%97%E3%82%84%E3%81%99%E3%82%88%E3%82%8A%E7%B0%A1%E5%8D%98%E3%81%AA%E6%96%B9%E6%B3%95%E3%81%8C%E7%B7%A8%E3%81%BF%E5%87%BA%E3%81%95%E3%82%8C%E3%82%8B/</guid>
-      <description>Raspberry Pi 4 PCI-Express Bridge “Chip”から発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/rpi4_bridge_chip.jpg">Raspberry Pi 4 PCI-Express Bridge “Chip”から発見。画像もここから転載。
 以前紹介したRaspberry Pi 4にPCI Expressのボードを接続する裏技 を簡単に実施する方法が編み出されました。 PCI Expressバスに直結されているUSBハブのコントローラチップをはがして、PCI Expressの信号をそのままUSBポートに引き出すという改造ですが、以前はこれを細いワイヤーのはんだ付けで実施していましたが、今回紹介するのは、それ専用の「基板」を利用する方法です。
 ICと同じ大きさのこの基板は、前述の信号のバイパスを行う配線となっています。
-これを使うことで、USBハブのICをはがして、この基板を実装しなおすだけで、PCI Expressが利用できるというものです。</description>
+これを使うことで、USBハブのICをはがして、この基板を実装しなおすだけで、PCI Expressが利用できるというものです。]]></description>
     </item>
     
     <item>
@@ -400,12 +400,12 @@ ICと同じ大きさのこの基板は、前述の信号のバイパスを行う
       <pubDate>Mon, 18 May 2020 23:00:18 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E3%82%B9%E3%82%AD%E3%83%9F%E3%83%B3%E3%82%B0%E7%99%BA%E8%A6%8B%E6%A9%9F/</guid>
-      <description>Hunter Cat: Aspects and Characteristicsから転載。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/huntercat.jpg">Hunter Cat: Aspects and Characteristicsから転載。画像もここから転載。
 クレジットカードがスキミングされているかどうかを判定するための、カード型デバイスです。 コアとなるICはSAMD11で、電源はCR2032です。
 カード型の筐体はクレジットカードの代わりにATMなどに突っ込むことができます。
 判定は確実なものではなく、「OK」「WARNING」「DANGEROUS」というレベルで危険度を表示してくれます。仕組みとしては磁気読み取りのヘッドが複数あるかどうかを見ているようです。普通のデバイスではこのヘッドは1つですが、スキミング機器がつけられているとこのヘッドが2つ見える、ということなのだと思います。
 スキミングの被害については日本ではあまりメジャーではないですが、こういうデバイスがあれば被害を抑えることができるかなと思いました。また逆に攻撃者の気持ちになって「いかに判定できないスキミングを行うか？」というのを考えるのも面白そうだと思いました。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -414,10 +414,10 @@ ICと同じ大きさのこの基板は、前述の信号のバイパスを行う
       <pubDate>Wed, 25 Dec 2019 23:00:35 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E7%9C%9F%E9%8D%AE%E7%B7%9A%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E4%BD%9C%E3%82%8B%E5%9F%BA%E6%9D%BF%E3%82%92%E4%BD%BF%E3%82%8F%E3%81%AA%E3%81%84%E9%9B%BB%E5%AD%90%E5%B7%A5%E4%BD%9C/</guid>
-      <description>Freeform ESP8266 OLED MQTT clientから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/esp8266oledmqttclient.jpg">Freeform ESP8266 OLED MQTT clientから発見。画像もここから転載。
 真鍮線を使って、基板を使わずに作られた電子工作作品です。 見た目にも美しく、しかもそれが実際の配線になっているという点で究極の「機能美」を実現しています。
 真鍮線を用いたガジェットの作成は独特のテクニックが必要となりますが、この記事ではそれを丁寧に紹介しています。
-A Skeleton Arduino Unoの記事もよく似た方法でArduino Unoを作っており、こちらも美しい仕上がりとなっています。 (By Jiří Praus CC BY-NC-SA)</description>
+A Skeleton Arduino Unoの記事もよく似た方法でArduino Unoを作っており、こちらも美しい仕上がりとなっています。 (By Jiří Praus CC BY-NC-SA)]]></description>
     </item>
     
     <item>
@@ -426,11 +426,11 @@ A Skeleton Arduino Unoの記事もよく似た方法でArduino Unoを作って�
       <pubDate>Mon, 09 Dec 2019 23:00:02 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/162%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%82%92%E9%9B%BB%E6%BA%90%E3%82%82%E5%90%AB%E3%82%81%E3%81%A62%E7%B7%9A%E3%81%A7%E5%88%B6%E5%BE%A1%E3%81%99%E3%82%8B%E8%A3%8F%E6%8A%80/</guid>
-      <description>16 x 2 LCD controlled via power lineから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/2wire-lcd1602.jpg">16 x 2 LCD controlled via power lineから発見。画像もここから転載。
 電子工作でよく使われる、いわゆる1602キャラクタディスプレイですが、その制御には意外と多くのピンが必要です。そこでI2Cに変換するアダプタボードなどを使ったりするのが定番ですが、この記事では、Arduino Pro Miniを変換アダプタボードとして利用し、電源も合わせて2線で通信する方法を紹介しています。
 2線となると、つまり電源（VCCとGND）しかないということです。これでどうやって通信するかというと、VCCの電圧を変化させることにより通信を行っています。そんなことをすると、キャラクタディスプレイやArduinoの電源が瞬断してしまう、と思ったのですが、電源部分に100uFの電解コンデンサを入れることで、データ通信に伴う電力不足を補うように回路が組まれています。
 工夫次第で何でもできるんだな、と感じる逸品でした。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -439,11 +439,11 @@ A Skeleton Arduino Unoの記事もよく似た方法でArduino Unoを作って�
       <pubDate>Sun, 08 Dec 2019 23:00:49 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E6%A0%BC%E5%AE%893d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E3%83%9E%E3%82%B7%E3%83%BC%E3%83%B3%E3%81%AB%E6%94%B9%E9%80%A0%E3%81%99%E3%82%8B/</guid>
-      <description>This Modified 3D Printer Can Solder Through-Hole Components Quicklyから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/soldering-robot.jpg">This Modified 3D Printer Can Solder Through-Hole Components Quicklyから発見。画像もここから転載。
 3Dプリンタの価格はどんどん安くなってきています。この記事では、3Dプリンタを改造して、自動はんだ付けロボットを作成しています。
 フィラメントの代わりに半田を送り出す仕組みにすることで、3Dプリンタのファームウェアを変更することなく改造しています。
 基板の固定をどうするのか、位置合わせをどうするのか？など課題が多そうなプロダクトですが、これが実現するとおうちで簡単に電子ガジェットが量産できるので夢が広がりますね。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -452,12 +452,12 @@ A Skeleton Arduino Unoの記事もよく似た方法でArduino Unoを作って�
       <pubDate>Thu, 05 Dec 2019 23:00:49 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%A9%E3%83%BC%E6%B6%B2%E6%99%B6%E4%BB%98%E3%81%8D%E3%83%86%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9%E3%82%92%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B/</guid>
-      <description>GM328A reverse engineering, new firmware and Tetris! から発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/capatiny-tetris.jpg">GM328A reverse engineering, new firmware and Tetris! から発見。画像もここから転載。
 中国通販サイトでよく見かける電子部品チェッカーですが、実はいくつか種類があります。よく見かけるのはモノクロ画面のものですが、中にはカラー液晶を備えているものもあります。
 コアとなっているCPUはArduinoと同じATmega328なので、比較的簡単に改造することができるようです。
 この記事では、カラー液晶の電子部品チェッカーのファームウェアを書き換えて、機能を改良したり、挙句の果てに「テトリス」を動かしたりしています。
 ピンの配置を変えずにテトリスを動作させるのには工夫が必要だったようで、そのあたりは記事に詳しく記載されています。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -466,11 +466,11 @@ A Skeleton Arduino Unoの記事もよく似た方法でArduino Unoを作って�
       <pubDate>Wed, 04 Dec 2019 23:00:59 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AE%E3%82%BF%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%97%E5%9E%8B%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%81%AE%E7%B4%B9%E4%BB%8B/</guid>
-      <description>Marshall Computerから発見。画像もここから転載（CC BY-NC-SA by Celian_31）
+      <description>&lt;![CDATA[<img src="/img/marshall-computer.jpg">Marshall Computerから発見。画像もここから転載（CC BY-NC-SA by Celian_31）
 パソコンの形、というのは今や、大体同じになってきています。しかし、もっといろいろな形のパソコンがあってもよいはずです。
 この記事で紹介しているのは「ギターアンプ型」のパソコンです。使い古したギターアンプを分解し、中にパソコンのマザーボードや電源、ディスプレイを詰め込んでちゃんと使えるパソコンに仕上げています。
 デモでは音楽を再生しており、筐体がスピーカーなだけあって、非常に良い雰囲気です。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -479,10 +479,10 @@ A Skeleton Arduino Unoの記事もよく似た方法でArduino Unoを作って�
       <pubDate>Sun, 01 Dec 2019 23:00:53 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/ipad%E3%81%A8%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E9%9B%BB%E5%AD%90%E5%B7%A5%E4%BD%9C%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>Flowboard Provides a Novel, Visual Approach to Arduino Programming から発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/flowboard.jpg">Flowboard Provides a Novel, Visual Approach to Arduino Programming から発見。画像もここから転載。
 電子工作は慣れればそれほど難しくないですが、その導入においてはとっつきにくさを感じる人も多いのではないでしょうか？特に、ハードウェアもプログラミングも未経験な方はこの両方のハードルを越えるのが苦労するポイントとなっています。 この記事で紹介しているのは、電子工作の敷居を下げるためのソリューションです。
 両端にあるのは電子工作ではおなじみの「ブレッドボード」で、その中央に据えてあるのがiPadです。このiPad部分はビジュアルプログラミング環境となっており、視覚的に電子回路の制御ができる。というもののようです。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -491,11 +491,11 @@ A Skeleton Arduino Unoの記事もよく似た方法でArduino Unoを作って�
       <pubDate>Thu, 28 Nov 2019 23:00:03 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E7%99%BD%E7%B7%9A%E3%82%92%E5%BC%95%E3%81%8F%E3%82%88%E3%81%86%E3%81%AB%E5%9C%B0%E9%9D%A2%E3%81%AB%E7%B5%B5%E3%82%92%E6%8F%8F%E3%81%8F%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
-      <description>Sustainabot Can Print Messages and Diagrams with Just About Any Material から発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/sustainabot.jpg">Sustainabot Can Print Messages and Diagrams with Just About Any Material から発見。画像もここから転載。
 このロボットは白線を引くように何らかの「粉末」を使って平面に図を描くことができます。3Dプリンタで作られた筐体に安価な8bitCPUが搭載されたものです。
 スマートフォンからBluetoothで画像を転送することができます。
 この記事によると発展途上国では、パソコンの所有というのはまれなのですが、スマートフォンは入手しやすく、多くの人が持っているとのことです。 しかしそのような国ではインターネット接続がないため、大勢の人に何かを伝えるためには、このようなロボットが必要では？という動機で開発されたもののようです。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -504,11 +504,11 @@ A Skeleton Arduino Unoの記事もよく似た方法でArduino Unoを作って�
       <pubDate>Tue, 26 Nov 2019 23:00:39 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/pcb%E4%B8%8A%E3%81%AE%E7%A3%81%E7%9F%B3%E3%82%92%E5%86%86%E5%91%A8%E7%8A%B6%E3%81%AB%E7%A7%BB%E5%8B%95%E3%81%95%E3%81%9B%E3%82%8B%E6%8A%80/</guid>
-      <description>Ant highway - Precise linear (circular) motorから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/ant-highway.jpg">Ant highway - Precise linear (circular) motorから発見。画像もここから転載。
 ジグザグの回路パターンのPCBにパルスを流して磁石を移動させるという技を使ってレースゲームのようなガジェットを実現しています。
 どのくらいの細かい精度で制御できるのかが気になるところです。
 以前紹介した電磁誘導で物体を移動させる方法と似たような原理のようですが、相変わらず動作している様子は魔法のように見えます。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -517,11 +517,11 @@ A Skeleton Arduino Unoの記事もよく似た方法でArduino Unoを作って�
       <pubDate>Wed, 06 Nov 2019 23:00:24 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%91%E3%83%B3%E3%83%81%E3%83%86%E3%83%BC%E3%83%97%E3%82%92%E8%AA%AD%E3%81%BF%E8%BE%BC%E3%82%81%E3%82%8Bbadge/</guid>
-      <description>CYPHERCON BADGE HAS A PAPER TAPE READER BUILT INから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/cyphercon-badge.jpg">CYPHERCON BADGE HAS A PAPER TAPE READER BUILT INから発見。画像もここから転載。
 海外のカンファレンスでよく見かける”BADGE”ですが、今回紹介するのは、パンチテープを読み込めるBADGEです。
 基板を重ねてうまいことテープを通す空間を作っています。
 電子工作でパンチテープを読み取るもの、というのは今まで見たことがなかったですが、このテクニックは応用ができそうです。
-紹介動画</description>
+紹介動画]]></description>
     </item>
     
     <item>
@@ -530,10 +530,10 @@ A Skeleton Arduino Unoの記事もよく似た方法でArduino Unoを作って�
       <pubDate>Wed, 30 Oct 2019 23:00:27 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/oled%E3%82%92%E9%87%8D%E3%81%AD%E3%81%A6%E4%BD%9C%E3%82%8B%E8%87%AA%E4%BD%9C%E3%81%AE%E7%AB%8B%E4%BD%93%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</guid>
-      <description>Enginursday: 3D Volumetric Display with Transparent OLEDから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/3d-oled-display.jpg">Enginursday: 3D Volumetric Display with Transparent OLEDから発見。画像もここから転載。
 3Dディスプレイというのは色々難しい技術で作るものだ、という先入観がありましたが、この作例を見てその考えが少し変わりました。
 背景が透明なOLEDを何枚も重ねることで3Dディスプレイを実現しています。
-力業感が半端ないですが確かに原理上は3Dが表示できます。 ちょっとサイズが小さいのが気になりますが、3Dディスプレイを簡単に作る方法として参考になりそうです。</description>
+力業感が半端ないですが確かに原理上は3Dが表示できます。 ちょっとサイズが小さいのが気になりますが、3Dディスプレイを簡単に作る方法として参考になりそうです。]]></description>
     </item>
     
     <item>
@@ -542,13 +542,14 @@ A Skeleton Arduino Unoの記事もよく似た方法でArduino Unoを作って�
       <pubDate>Mon, 28 Oct 2019 23:00:48 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E7%A3%81%E8%AA%98%E5%B0%8E%E3%81%A7%E7%89%A9%E4%BD%93%E3%82%92%E7%A7%BB%E5%8B%95%E3%81%95%E3%81%9B%E3%82%8B%E6%96%B9%E6%B3%95/</guid>
-      <description>FLEXIBLE 2D actuator, stepper motor compatibleから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/flexible-actuator.jpg">FLEXIBLE 2D actuator, stepper motor compatibleから発見。画像もここから転載。
 とにかくこの動画を見てください。
  仕組みはわからないですが、今まで見たことのない動きで小さな磁石(?)を動かしています。
 2D Linear Actuator Works Like an Unrolled Stepper Motor 
 この記事にもう少し詳細が書かれていました。 ステッピングモーターの原理と同じように電磁誘導により、磁石を動かしているようです。
-この魔法のような動きは何かに応用できそうに感じました。</description>
+この魔法のような動きは何かに応用できそうに感じました。]]></description>
     </item>
     
   </channel>
 </rss>
+

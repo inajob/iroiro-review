@@ -17,11 +17,12 @@
       <pubDate>Mon, 16 Nov 2020 23:00:02 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%BF%E3%83%83%E3%83%81%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%9C%E3%83%BC%E3%83%AB%E3%81%AE%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E3%82%92%E4%BF%9D%E3%81%A4%E8%A3%85%E7%BD%AE/</guid>
-      <description>A Two-Degree-Of-Freedom Ball Balancing PID Controllerから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/balance-ball.jpeg">A Two-Degree-Of-Freedom Ball Balancing PID Controllerから発見。画像もここから転載。
 PIC32を使ってPID制御を行い、鉄球を落とさないように制御する装置です。 鉄球が載っている場所をセンシングするためにタッチパネルを利用しているというのが面白いです。
 本来は指やペンによるタッチを検出するセンサーですが、このようにある程度重さのあるものがどこに載っているかを検出することもできるというのは、ほかにも応用ができそうです。
- </description>
+ ]]></description>
     </item>
     
   </channel>
 </rss>
+

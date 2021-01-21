@@ -17,11 +17,11 @@
       <pubDate>Mon, 18 Jan 2021 11:00:58 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/esp32-m5stack%E7%94%A8%E3%81%AE%E3%83%A1%E3%82%AC%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E9%9F%B3%E6%BA%90%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF/</guid>
-      <description>h1romas4 /m5stack-synth-emulationから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/m5stack-synth.jpg">h1romas4 /m5stack-synth-emulationから発見。画像もここから転載。
 ESP32, M5Stackで動作するメガドライブの音源エミュレータです。
 メガドライブの音源ICであるYM2612とSN76489をソフトウェアでエミュレーションしているようです。
 ICが調達できなくなっても、最近のパワフルなプロセッサであればエミュレーションすることが出来るというのは、ほかにも応用がききそうなテクニックです。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -30,10 +30,10 @@ ICが調達できなくなっても、最近のパワフルなプロセッサで
       <pubDate>Sun, 15 Nov 2020 23:00:05 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E5%B0%8F%E5%9E%8B%E3%81%AEpda/</guid>
-      <description>Low Power ESP32 Handheldから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/esp32-pda-board.jpg">Low Power ESP32 Handheldから発見。画像もここから転載。
 ESP32がコアのPDA風ガジェットです。シャープのメモリ液晶とESP32に内蔵されている低消費電力プロセッサ ULPを活用することで、低電力での動作を実現しています。
 加速度センサーも内蔵しており、これを利用したキーボード入力なども紹介されています。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -42,9 +42,9 @@ ESP32がコアのPDA風ガジェットです。シャープのメモリ液晶と
       <pubDate>Sat, 12 Sep 2020 23:00:19 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E5%A4%89%E5%BD%A2%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
-      <description>IOT Convertible LED Matrix Clock から発見。画像もここから転載。（CC BY-NC-SA）
+      <description>&lt;![CDATA[<img src="/img/iot-led-clock.jpg">IOT Convertible LED Matrix Clock から発見。画像もここから転載。（CC BY-NC-SA）
 横長と、折りたたんだ形態、２つの形態に変形するドットマトリクス表示機です。コアとなるボードはESP32です。
-折りたためるケースは3Dプリンタで作成されており、折り畳まれたかどうかはリードスイッチにより磁石との接触を検知して実現しています。</description>
+折りたためるケースは3Dプリンタで作成されており、折り畳まれたかどうかはリードスイッチにより磁石との接触を検知して実現しています。]]></description>
     </item>
     
     <item>
@@ -53,11 +53,11 @@ ESP32がコアのPDA風ガジェットです。シャープのメモリ液晶と
       <pubDate>Wed, 29 Jul 2020 23:00:33 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/10%E4%BA%BA%E5%AF%BE%E6%88%A6%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E8%87%AA%E4%BD%9C%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
-      <description>Bitluni Developed a Custom 10-Player Video Game Consoleから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/multi-player-game.png">Bitluni Developed a Custom 10-Player Video Game Consoleから発見。画像もここから転載。
 コントローラが大量に映っていますが、これは10人対戦が可能なゲーム機です。 CPUはESP32を用い、アナログコンポジットの映像もESP32で生成しています。
 映像周りの処理がプロセッサを占有してしまうため、凝ったゲームを作ることは、難しいようですが、それでも10人対戦というだけで単純なゲームでも白熱しそうです。
 動画ではリフローオーブンを使ったり、基板を洗浄したりする様子が紹介されており、DIY電子工作の事例としても非常に興味深いです。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -66,12 +66,12 @@ ESP32がコアのPDA風ガジェットです。シャープのメモリ液晶と
       <pubDate>Mon, 27 Jul 2020 23:00:58 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E3%81%A8oled%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AApda/</guid>
-      <description>Jakiroから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/jakiro.png">Jakiroから発見。画像もここから転載。
 大きめの電子ペーパーと、小さいフルカラーの液晶という、2種類のディスプレイを搭載したPDAデバイスです。
 電子ペーパーは電力を消費せずに画面を保持できるため、ずっと表示しておきたいカレンダーや操作用の文字盤のようなものを出す用途として使い、頻繁な更新が必要なものは、OLEDに表示するというコンセプトのようです。
 CPUはESP32をつかっています。
 あまり見ない組み合わせではあるものの、基本的な用途を情報表示に限定すれば、かなり理にかなったつくりのようにも見えます。
-加えてなぜかガジェットオタクの物欲を刺激するスペックのように思います。ちょっと触ってみたいな、、と思いました。</description>
+加えてなぜかガジェットオタクの物欲を刺激するスペックのように思います。ちょっと触ってみたいな、、と思いました。]]></description>
     </item>
     
     <item>
@@ -80,10 +80,10 @@ CPUはESP32をつかっています。
       <pubDate>Mon, 22 Jun 2020 23:00:36 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%AA%E3%83%A2%E3%82%B3%E3%83%B3%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E4%BB%98%E3%81%8D%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>ESP32 Keyring PCBから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/esp32-keyring.jpg">ESP32 Keyring PCBから発見。画像もここから転載。
 ESP32は非常にパワフルなボードです。この記事ではESP32を使った非常にコンパクトなディスプレイ付きのボードを紹介します。
 ディスプレイは240x240のカラーのもので、5つのボタンが搭載されています。リモコンサイズのコンパクトな筐体が非常に印象的です。
-残念ながら販売は終了しているようです。</description>
+残念ながら販売は終了しているようです。]]></description>
     </item>
     
     <item>
@@ -92,10 +92,10 @@ ESP32は非常にパワフルなボードです。この記事ではESP32を使�
       <pubDate>Tue, 14 Apr 2020 23:00:54 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E8%87%AA%E4%BD%9C%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</guid>
-      <description>Bart Dring Revises His 3D-Printed Pen Plotter Designから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/bart-plotter.jpg">Bart Dring Revises His 3D-Printed Pen Plotter Designから発見。画像もここから転載。
 3Dプリンタで作られた非常にかわいらしいペンプロッタです。 コアとなるボードはESP32のようです。サーボモータでペンを持ち上げる動作が非常にチャーミングです。
 ソースコードや3Dプリンタ用モデルデータはオープンソースで公開されています（ライセンス表記なし）
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -104,10 +104,10 @@ ESP32は非常にパワフルなボードです。この記事ではESP32を使�
       <pubDate>Wed, 11 Mar 2020 23:00:42 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/ym2612%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%83%81%E3%83%83%E3%83%97%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%E5%B0%82%E7%94%A8%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC/</guid>
-      <description>MegaGRRL - Portable YM2612 VGM Playerから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/megagrrl.jpg">MegaGRRL - Portable YM2612 VGM Playerから発見。画像もここから転載。
 MegaGRRLは昔ながらの音源ICを搭載したポータブル音楽プレーヤーです。ポータブルプレーヤとしては大き目な240x320の液晶を搭載し、6つのスイッチと、たくさんのLEDが実装されています。
 コアとなるマイコンボードはESP32です。フロントパネルも基板として設計されており非常に完成度の高い見た目となっています。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -116,10 +116,10 @@ MegaGRRLは昔ながらの音源ICを搭載したポータブル音楽プレー�
       <pubDate>Sun, 08 Mar 2020 23:00:42 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E3%83%8E%E3%82%AE%E3%82%B9%E3%82%92iot%E5%8C%96%E3%81%99%E3%82%8B%E6%94%B9%E9%80%A0/</guid>
-      <description>Hacking Digital Calipersから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/iot-calipers.jpg">Hacking Digital Calipersから発見。画像もここから転載。
 デジタルノギスを改造して、計っている値を簡単にPCに転送できるようにする作例を紹介します。
 写真に写っている通り、デジタルノギスにESP32＋SAMD51を搭載したSAM32というボードをくっつけることで、これを実現しています。 デジタルノギスの種類にもよるのですが、データを取り出す端子がついているものがあるようで、この記事ではその端子を利用しています。
-今のところPCとは有線で接続するようですが、今後の改良として無線式にしたいとのことです。</description>
+今のところPCとは有線で接続するようですが、今後の改良として無線式にしたいとのことです。]]></description>
     </item>
     
     <item>
@@ -128,10 +128,10 @@ MegaGRRLは昔ながらの音源ICを搭載したポータブル音楽プレー�
       <pubDate>Thu, 06 Feb 2020 23:00:41 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E6%99%82%E8%A8%88/</guid>
-      <description>A TETRIS CLOCKから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/tetris-clock.png">A TETRIS CLOCKから発見。画像もここから転載。
 フルカラーマトリクスLEDを使った時計です。ただの時計かと思いきや、時刻を構成するドットがテトリス風に落ちてくるという、楽しいアニメーションが搭載されています。
 メインCPUはESP32を使っているようです。「テトリス時計」というのは電子工作界の新しいHello Worldになるかもと感じました。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -140,9 +140,9 @@ MegaGRRLは昔ながらの音源ICを搭載したポータブル音楽プレー�
       <pubDate>Tue, 28 Jan 2020 23:00:11 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/esp32%E7%94%A8%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AAdsp%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA/</guid>
-      <description>yummyDSPから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/yummy-dsp.png">yummyDSPから発見。画像もここから転載。
 ESP32向けのDSPライブラリです。いい感じにDSPの処理が抽象化されておりNodeを組み合わせるような感じで信号処理を記述することができるようです。
-まだまだ開発段階のようですが、ESP32はパワフルなので、信号処理用のチップとして使うのもよさそうです。</description>
+まだまだ開発段階のようですが、ESP32はパワフルなので、信号処理用のチップとして使うのもよさそうです。]]></description>
     </item>
     
     <item>
@@ -151,11 +151,11 @@ ESP32向けのDSPライブラリです。いい感じにDSPの処理が抽象化
       <pubDate>Wed, 18 Dec 2019 23:00:49 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%81%AB%E3%82%88%E3%82%8B%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</guid>
-      <description>Eurorack audio synthesis platformから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/esp32-synth-module.jpg">Eurorack audio synthesis platformから発見。画像もここから転載。
 ESP32をコアとしたかなり高機能なユーロラックモジュールです。 WiFiを経由してサンプリング音源をダウンロードすることもできるようです。
 ほかにもオーディオコーデックのWM8731、12bitADCのMCP3208などを組み込んでいます。
 完成度が非常に高くESP32の性能の高さを感じさせます。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -164,10 +164,10 @@ ESP32をコアとしたかなり高機能なユーロラックモジュールで
       <pubDate>Sun, 24 Nov 2019 23:00:39 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/esp32-esp8266%E3%82%92%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AB%E4%BD%BF%E3%81%86%E3%81%9F%E3%82%81%E3%81%AE%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AFesphome/</guid>
-      <description>ESPHomeから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/esp-home.png">ESPHomeから発見。画像もここから転載。
 ESPHomeはプログラムを書くことなく、ESP32やESP8266のファームウェアを作ることができる仕組みです。 目的を”家に設置するセンサの制御”に特化することで、これを実現しています。
 使い方はYAMLファイルにどのピンにどのセンサーがついているかを指定し、esphomeコマンドを実行するだけです。
-かなり多くの電子部品に対応しているので、目的と合致すればとても簡単にESP32やESP8266のファームウェアを作ることができそうです。</description>
+かなり多くの電子部品に対応しているので、目的と合致すればとても簡単にESP32やESP8266のファームウェアを作ることができそうです。]]></description>
     </item>
     
     <item>
@@ -176,9 +176,9 @@ ESPHomeはプログラムを書くことなく、ESP32やESP8266のファーム�
       <pubDate>Wed, 02 Oct 2019 23:00:49 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E6%96%B0%E3%83%81%E3%83%83%E3%83%97esp32-s2%E3%81%AE%E7%B4%B9%E4%BB%8B/</guid>
-      <description>NEW PART DAY: ESPRESSIF ANNOUNCES ESP32-S2 WITH USB から発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/esp32-s2.jpg">NEW PART DAY: ESPRESSIF ANNOUNCES ESP32-S2 WITH USB から発見。画像もここから転載。
 まだ市場には出ていませんが、 ESP32の後継チップであるESP32-S2の紹介です。
- 240MHz より高速になった浮動小数点演算 320kBのSRAM、12kBのROM WiFiサポート Bluetooth未サポート （注意！） 42個のGPIO、14個のタッチ三佐 パラレルLCD制御 カメラインターフェース USB OTG（すごい！）  USB機能が付いているというのが大きな変更のようです。一方でBluetoothは未サポートになるようなので、使い方によっては困るかもしれません。</description>
+ 240MHz より高速になった浮動小数点演算 320kBのSRAM、12kBのROM WiFiサポート Bluetooth未サポート （注意！） 42個のGPIO、14個のタッチ三佐 パラレルLCD制御 カメラインターフェース USB OTG（すごい！）  USB機能が付いているというのが大きな変更のようです。一方でBluetoothは未サポートになるようなので、使い方によっては困るかもしれません。]]></description>
     </item>
     
     <item>
@@ -187,10 +187,10 @@ ESPHomeはプログラムを書くことなく、ESP32やESP8266のファーム�
       <pubDate>Thu, 12 Sep 2019 23:00:09 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%94%E3%83%B3%E3%83%9D%E3%83%B3%E7%8E%89%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%B7%A8%E5%A4%A7%E3%81%AAled%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</guid>
-      <description>GIANT LED DISPLAY IS 1200 BALLS TO THE WALLから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/big-ping-pong-display.png">GIANT LED DISPLAY IS 1200 BALLS TO THE WALLから発見。画像もここから転載。
 非常に大きなピンポン玉を使ったLED表示機です。 実に1200個ものフルカラーLEDを搭載しています。また、これを作成するためにアルミニウムのシートに穴をあける装置まで自作しています。制御にはESP32を使っています。
 ここまで大きなディスプレイとなると、仕組みは単純ですが壮観です。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -199,12 +199,12 @@ ESPHomeはプログラムを書くことなく、ESP32やESP8266のファーム�
       <pubDate>Tue, 10 Sep 2019 23:00:57 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/esp8266-esp32%E3%81%AB%E8%84%86%E5%BC%B1%E6%80%A7/</guid>
-      <description>ESP8266 AND ESP32 WIFI HACKED!から発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/esp-attack.png">ESP8266 AND ESP32 WIFI HACKED!から発見。画像もここから転載。
 ESP32やESP8266はWiFiを扱うためには非常に手軽なボードです。しかしこの記事で紹介しているのは、それらのファームウェアに存在している脆弱性についてです。
 すでに脆弱性は修正されているようですが、製品として出荷されてしまったものの中には、この脆弱性を抱えているものが多く存在していそうです。
 記事に紹介されている脆弱性は大きく2つ、1つはESP8266にだけ存在する脆弱性で、細工されたアクセスポイントによりクラッシュさせられてしまうというものです。
 もう一つはESP8266,ESP32両方に存在する脆弱性で、EAP（extensible authentication protocol）環境下で発生するものです。内容としては暗号化されたセッションを乗っ取ることができるというものです。
-おそらく多くのIoTデバイスで使われているこれらのチップに脆弱性があったことは大きな問題です。しかしバグというのはどうしても存在してしまうものなので、こういうことが起きた際にどのように対応することができるか？ということがこれから大事になってくるのだろうと感じています。</description>
+おそらく多くのIoTデバイスで使われているこれらのチップに脆弱性があったことは大きな問題です。しかしバグというのはどうしても存在してしまうものなので、こういうことが起きた際にどのように対応することができるか？ということがこれから大事になってくるのだろうと感じています。]]></description>
     </item>
     
     <item>
@@ -213,13 +213,13 @@ ESP32やESP8266はWiFiを扱うためには非常に手軽なボードです。�
       <pubDate>Thu, 08 Aug 2019 23:00:52 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%83%8D%E3%82%B3%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88smallkat/</guid>
-      <description>SmallKat: An adorable dynamics oriented quadrupedから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/small-katjpg.jpg">SmallKat: An adorable dynamics oriented quadrupedから発見。画像もここから転載。
 SmallKatは3Dプリンタで作られた猫型のロボットです。 動画を見る限り、まだ動きがたどたどしいですが、止まっている写真を見る限りはかなり「猫っぽい」仕上がりとなっています。
 コアとなるモジュールはESP32で、加えて16個のサーボモーター、IMUなどで構成されており、比較的安価なのが特徴のようです。
 制御は遠隔で行いWiFi経由で指示を送るという設計なので、開発は普通にパソコン上のプログラムで行います。もう一つの方法としてはロボットにRaspberryPiを搭載し、そこから制御を行う、というのがあるようですが、開発段階においては前者のほうが便利だし、安い、とのことです。
 確かにロボットを一気に作り上げるより、パソコンから簡単に試行錯誤できるようなプラットフォームを作るというのは良い方法だと感じました。
 オープンソースで公開されており、さらにはキットも販売しているので、気になる方は作ってみてはどうでしょう？
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -228,10 +228,10 @@ SmallKatは3Dプリンタで作られた猫型のロボットです。 動画を
       <pubDate>Mon, 05 Aug 2019 23:00:24 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fgui%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/</guid>
-      <description>ESP32 GETS ADVANCE WINDOWED APPS USING THIS VGA GUI LIBRARYから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/fabgl-gui.png">ESP32 GETS ADVANCE WINDOWED APPS USING THIS VGA GUI LIBRARYから発見。画像もここから転載。
 以前紹介したESP32でVGA出力するライブラリ、FabGLですがGUIのサンプルが追加されています。
 一見するとWindows風の画面ですが、ESP32で生成しVGA出力しているものです。 うまくすればESP32をディスプレイポートに刺すだけで利用できるスティックPCのようなものが作れそうです。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -240,9 +240,9 @@ SmallKatは3Dプリンタで作られた猫型のロボットです。 動画を
       <pubDate>Wed, 31 Jul 2019 23:00:21 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi%E3%81%AE%E3%83%94%E3%83%B3%E3%81%A8%E5%90%8C%E3%81%98%E9%85%8D%E7%BD%AE%E3%82%92%E6%8C%81%E3%81%A4esp32%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>Obsidian ESP32 Bridges Platformsから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/obsidianesp32.jpg">Obsidian ESP32 Bridges Platformsから発見。画像もここから転載。
 ESP32を搭載した開発ボードです。特筆すべきはRaspberryPi互換のピンヘッダです。 これによりRaspberryPi用の様々な拡張ボードを利用することができます。
-プロトタイピングによさそうなボードです。</description>
+プロトタイピングによさそうなボードです。]]></description>
     </item>
     
     <item>
@@ -251,11 +251,11 @@ ESP32を搭載した開発ボードです。特筆すべきはRaspberryPi互換�
       <pubDate>Sun, 30 Jun 2019 23:00:37 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/esp32%E6%90%AD%E8%BC%89tinypico%E7%94%A8%E3%81%AEvga%E5%87%BA%E5%8A%9B%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>Bitluni Has Already Designed a VGA Shield for the TinyPICO ESP32 Boardから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/tinypico-vga.jpg">Bitluni Has Already Designed a VGA Shield for the TinyPICO ESP32 Boardから発見。画像もここから転載。
 以前紹介したTinyPICOというESP32を搭載した小型ボードにくっつけることができる VGA出力のためのボードを紹介します。
 動画ではステンシルを使ってソルダーペーストを載せ、リフロー炉ではんだ付けする流れが紹介されており、表面実装基板を作る流れを知りたい方にも有用なものとなっています。
 TinyPICOが小型であるため、全体としてとてもコンパクトにまとまった構成でVGA出力が実現できています。これで昔ながらのゲームを作るといわゆる「なんとかミニ」的なプロダクトが簡単に作れそうだなと感じました。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -264,11 +264,11 @@ TinyPICOが小型であるため、全体としてとてもコンパクトにま
       <pubDate>Wed, 26 Jun 2019 23:00:23 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E5%B0%8F%E5%9E%8B%E3%81%AEesp32%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%ABtinypico/</guid>
-      <description>TinyPICO A tiny, mighty ESP32 development board から発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/tinypico.jpg">TinyPICO A tiny, mighty ESP32 development board から発見。画像もここから転載。
 ESP32は性能が高く、機能も多く、安い、という良いボードですが、一般に流通しているdevkitCはやや大きいのが玉に瑕です。このクラウドファンディングのキャンペーンは、小型で良いサイズのESP32ボードです。また特徴としてはボード上にフルカラーのLEDやLiPoのバッテリー回路が搭載されています。
 USB端子はあの「もげる」MicroUSBなのがやや不安です。
 日本においては技適が通っていないと電波を発することができないので、そのあたりが気になるところですが、この大きさは魅力的です。
-クラウドファンディングは成功し、無事製品が作られることになったようです。</description>
+クラウドファンディングは成功し、無事製品が作られることになったようです。]]></description>
     </item>
     
     <item>
@@ -277,12 +277,12 @@ USB端子はあの「もげる」MicroUSBなのがやや不安です。
       <pubDate>Sun, 12 May 2019 23:00:40 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%82%A4%E3%83%B3%E5%9E%8B%E5%85%85%E9%9B%BB%E6%B1%A0%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8Besp32%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>A COIN CELL POWERS THIS TINY ESP32 DEV BOARD にて発見。写真もここから転載。
+      <description>&lt;![CDATA[<img src="/img/esp32-pico-d4.png">A COIN CELL POWERS THIS TINY ESP32 DEV BOARD にて発見。写真もここから転載。
 ESP32の開発用モジュールはたくさん存在しますが、この「Pico D4」というボードはコイン型充電池で動作するというのが特徴のボードです。LIR2450というタイプのバッテリのようです。
 元となったボードはこれのようで、これは14550というかなり大きな充電池を必要としていました。
 ESP32を日本で使う場合には技適を取得しているモジュールを使う必要があるので、これをそのまま使うことはできませんが、この小型の充電池は魅力的ですね。
 プロジェクトはオープンソースで公開されているので細かい部分が気になる人は見てみると良いでしょう。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -291,9 +291,9 @@ ESP32を日本で使う場合には技適を取得しているモジュールを
       <pubDate>Thu, 09 May 2019 23:00:59 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E7%B5%84%E3%81%BF%E8%BE%BC%E3%81%BF%E3%81%A7%E5%8B%95%E3%81%8B%E3%81%99node-js%E3%81%A8%E3%81%9D%E3%81%AE%E8%A9%95%E4%BE%A1%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>neonious oneにて発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/neoniousone.jpg">neonious oneにて発見。画像もここから転載。
 neonius oneはESP32-WROVERとLPC822を組み合わせたボードで、JavaScriptでの開発ができる。
-ソフトウェア部分はlow.jsとして公開されている。 ターゲットをESP32-WROVERに絞ることで、かなりパワフルな開発環境を実現している。（ESP-WROOM-32はメモリが少ない、WROVERは4MBのPSRAMが利用できる） Webベースの開発環境も提供しており、かなり本格的にみえる。</description>
+ソフトウェア部分はlow.jsとして公開されている。 ターゲットをESP32-WROVERに絞ることで、かなりパワフルな開発環境を実現している。（ESP-WROOM-32はメモリが少ない、WROVERは4MBのPSRAMが利用できる） Webベースの開発環境も提供しており、かなり本格的にみえる。]]></description>
     </item>
     
     <item>
@@ -302,10 +302,10 @@ neonius oneはESP32-WROVERとLPC822を組み合わせたボードで、JavaScrip
       <pubDate>Wed, 08 May 2019 23:00:00 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%81%A7%E4%BD%9C%E3%82%8B%E3%82%AB%E3%83%A1%E3%83%A9%E4%BB%98%E3%81%8D%E3%81%AE%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
-      <description>ESP32 WiFi Robotで発見。
+      <description>&lt;![CDATA[<img src="/img/esp32-wifi-robot.jpg">ESP32 WiFi Robotで発見。
 非常にシンプルなカメラ付きのロボットです。
  コアとなるCPUはESP32。 2つの大きなタイヤが特徴。 タイヤも含めて3Dプリンタで作成されている。 WebSocketから操作できる 120x160pxの画像を100ms以内に転送できる。 3.7VのLiPoで動く  こういうのはバランスが難しいが、このESP32 WIFI Robotは非常にシンプルにまとまっています。 また、機能を限定しているため、自作するのも非常に簡単そうだと感じました。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -314,11 +314,11 @@ neonius oneはESP32-WROVERとLPC822を組み合わせたボードで、JavaScrip
       <pubDate>Thu, 25 Apr 2019 23:00:11 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%81%A7%E5%8B%95%E3%81%8F%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E3%82%AD%E3%83%83%E3%83%88/</guid>
-      <description>DSTIKE ESP32 Watch DevKitで発見。画像もここからの転載。
+      <description>&lt;![CDATA[<img src="/img/dstike-esp32-watch-devkit.jpg">DSTIKE ESP32 Watch DevKitで発見。画像もここからの転載。
 ESP32をベースとしたスマートウォッチのキット。
 OLEDやSDカードスロット、フルカラーLEDやブザーも搭載されている。
 watchXとよく似た構成だが、プロセッサが違う。 おそらくこのESP32のボードは日本でも使えるものだろう。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -327,11 +327,11 @@ watchXとよく似た構成だが、プロセッサが違う。 おそらくこ�
       <pubDate>Mon, 22 Apr 2019 23:00:46 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%81%A7vga%E8%A1%A8%E7%A4%BA%E3%82%92fabgl/</guid>
-      <description>FabGL Turns Your ESP32 Into a VGA Gaming Platform から発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/fabgl.jpg">FabGL Turns Your ESP32 Into a VGA Gaming Platform から発見。画像もここから転載。
 FabGLはESP32向けのVGAライブラリ。 追加部品もほとんどなくESP32でVGA信号を出力できる。またPS/2のライブラリも同梱されており、簡単にゲーム開発を行うことができる。
 解像度は80x25から640x350まで。
 これはESP32の新しい可能性を切り開くライブラリかもしれない。FabGLを使うとIchigoJamやMachikaniaみたいなものがESP32で簡単に作れるだろう。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -340,14 +340,14 @@ FabGLはESP32向けのVGAライブラリ。 追加部品もほとんどなくESP
       <pubDate>Tue, 16 Apr 2019 23:00:11 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%81%A7%E3%83%A1%E3%82%A4%E3%83%B3cpu%E3%81%AE%E6%99%82%E9%96%93%E3%82%92%E6%B6%88%E8%B2%BB%E3%81%9B%E3%81%9A%E3%81%AB%E9%9F%B3%E3%82%92%E9%B3%B4%E3%82%89%E3%81%99%E6%8A%80/</guid>
-      <description>This Sound Driver Runs on the ESP32’s ULP Coprocessor  から発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/esp32-sound-driver.png">This Sound Driver Runs on the ESP32’s ULP Coprocessor  から発見。画像もここから転載。
 ESP32はパワフルで便利ですが、音を鳴らしながら何かする、ということを実現するためには、貴重なCPUコアの1つを消費してしまうことになります。ESP32はCPUが2コアあるものの、なるべくそれらを音の再生のために使いたくないでしょう。
 そこでこの記事ではESP32についている省電力プロセッサ通称ULPを使って音を鳴らす方法を紹介しています。ULPはEspressif独自の機械語でプログラミングをする必要があるため、活用している事例はとても珍しいです。
 ソースコードは公開されているので、気になる人は手元で実行してみると良いでしょう。
 追記： 少しソースコードを読んでみたところ、メインCPUでオーディオのストリームをバッファに詰め込みULPがそれを読み込んで音を鳴らすようです。タイマ割り込みに比べてメインCPUの処理時間が少なくなる、ということのようです。ソースコードのこのへんを見ると、泥臭くULPの機械語を書いているのがわかります。これはデバッグが大変そう・・
 実際にM5Stackで動作を確認した方もいるようです↓
 おお…メインの処理とは別で音を鳴らすサンプル…参考になる…https://t.co/I9xQCVGCuJ pic.twitter.com/MLNvRwVZ1X
-&amp;mdash; らびやん (@lovyan03) 2019年4月13日</description>
+&amp;mdash; らびやん (@lovyan03) 2019年4月13日]]></description>
     </item>
     
     <item>
@@ -356,11 +356,11 @@ ESP32はパワフルで便利ですが、音を鳴らしながら何かする、
       <pubDate>Sat, 13 Apr 2019 04:00:57 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/voip%E3%81%A7%E9%80%9A%E8%A9%B1%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%E9%9B%BB%E8%A9%B1%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88wiphone/</guid>
-      <description>WiPhone, A Phone for Hackers and Makersから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/wiphone.jpg">WiPhone, A Phone for Hackers and Makersから発見。画像もここから転載。
 携帯電話を作る、というとSIMカードとかどうしよう?と思いますが、このWiPhneはWiFiの接続を使ってVoIPで通話をするものです。
 単なる電話だけではなく開発用のブレークアウトボードを使うことで、様々な電子工作の一部として組み込むことができます。
 中身はESP32のようです。つまりこれは電話型のM5Stackといったスペックのガジェットのようです。 （M5Stackでもソフトウェアを作りこめばVoIPで通話できるのかな？）
-Kickstarterでキャンペーン中なので、気になる人はバックしてみてはどうでしょうか？</description>
+Kickstarterでキャンペーン中なので、気になる人はバックしてみてはどうでしょうか？]]></description>
     </item>
     
     <item>
@@ -369,13 +369,14 @@ Kickstarterでキャンペーン中なので、気になる人はバックして
       <pubDate>Tue, 05 Mar 2019 23:00:51 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%81%ABspiram%E3%82%92%E8%B6%B3%E3%81%99%E6%96%B9%E6%B3%95/</guid>
-      <description>Upgrade ESP32 board without psRAM with 4MB/8MB SPIRAMにて発見。写真もここから転載。
+      <description>&lt;![CDATA[<img src="/img/esp32_feather_psram.jpg">Upgrade ESP32 board without psRAM with 4MB/8MB SPIRAMにて発見。写真もここから転載。
 IPS6404L-SQ-SPNをESP32に外付けする方法について紹介されている。 3.3V駆動なのでそのままつなげることができる。
 この投稿によると、SPIRAMの2,3,4,5,8ピンをそのままESP32の対応するピンに接続する。 1番ピンはESP32の16番ピンに10kのプルアップを付けて接続。 6番ピンはESP３２のGPIO17に接続。
 この投稿の初めの写真は、ESP32のシールドを引っぺがして、中の端子に直接つなげているが、これをすると日本では技適が無効になってしまいます。外付けすることもできると書いてあるので、もし試すなら外付けする方法をお勧めします。
 その場合の配線はこんな感じ
-1 - GPIO16 2 - SD0 3 - SD3 4 - GND 5 - SD1 6 - GPIO17 7 - SD2 8 - 3,3v plus 10k pullup on pin 16 (1 - R10k - 8)  </description>
+1 - GPIO16 2 - SD0 3 - SD3 4 - GND 5 - SD1 6 - GPIO17 7 - SD2 8 - 3,3v plus 10k pullup on pin 16 (1 - R10k - 8)  ]]></description>
     </item>
     
   </channel>
 </rss>
+

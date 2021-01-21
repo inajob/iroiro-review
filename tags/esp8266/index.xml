@@ -17,10 +17,10 @@
       <pubDate>Wed, 06 Jan 2021 11:00:48 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E7%84%A1%E7%B7%9A%E3%81%A7%E5%88%B6%E5%BE%A1%E3%81%A7%E3%81%8D%E3%82%8B%E7%B5%B5%E6%96%87%E5%AD%97%E8%A1%A8%E7%A4%BA%E5%99%A8/</guid>
-      <description>IoT Emoji Signから発見。画像もここから転載。（CC BY-NC-SA By 陳亮）
+      <description>&lt;![CDATA[<img src="/img/emoji-display.jpg">IoT Emoji Signから発見。画像もここから転載。（CC BY-NC-SA By 陳亮）
 ESP8266ボードを使ったフルカラーマトリクスLED表示ガジェットです。 スマートフォンから簡単に表示内容を変更できるようです。
 面白いと思ったのは、フルカラーマトリクスLEDの作り方です。表面実装のアドレッサブルフルカラーLEDを3Dプリンタで作った型の上に並べ、表面実装の部品同士を直接導線でつないで、その状態でグルーガンで固めてしまっています。かなり力技ですが、きれいに仕上がっているので、案外良い方法なのかも・・と感じました。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -29,12 +29,12 @@ ESP8266ボードを使ったフルカラーマトリクスLED表示ガジェッ�
       <pubDate>Wed, 25 Nov 2020 23:00:54 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/esp8266%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%B0%8F%E5%9E%8B%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
-      <description>ESPboy.edu: beyond the games platform with WiFiから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/espboy.jpg">ESPboy.edu: beyond the games platform with WiFiから発見。画像もここから転載。
 ESPBoy.eduはESP8266をコアとしたゲーム機です。 リチウムイオンバッテリーや、OLED、拡張用のピンヘッダをそろえています。
 ゲーム開発だけでなく、様々なIoTプロトタイピングの助けになりそうです。 プロダクトページはESP8266を使った様々なプロダクトのリンク集となっており、そういった観点でも要チェックな記事です。
 回路図や基板の設計図も公開されているので、WiFiを利用するプロダクトを作りたい方の参考になりそうです。
 販売もしているようです。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -43,9 +43,9 @@ ESPBoy.eduはESP8266をコアとしたゲーム機です。 リチウムイオ�
       <pubDate>Tue, 20 Oct 2020 23:00:15 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/esp8266%E3%82%92%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E3%81%9B%E3%81%9A%E3%81%AB%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%82%80hack/</guid>
-      <description>SIMPLE POGO PROGRAMMER FOR ESP8266 MODULESから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/pogoesp.jpg">SIMPLE POGO PROGRAMMER FOR ESP8266 MODULESから発見。画像もここから転載。
 表面実装部品に実装前にファームウェアを書き込みたいときに便利なテクニックの紹介です。 写真のように、ピンヘッダから横向きにポゴピンを伸ばして、スルーホールエッジに接触させることで、はんだ付けせずに書き込みできるようにしています。
-端面スルーホールになっているあらゆるボードで使えるテクニックなので、覚えておきたいです。</description>
+端面スルーホールになっているあらゆるボードで使えるテクニックなので、覚えておきたいです。]]></description>
     </item>
     
     <item>
@@ -54,13 +54,13 @@ ESPBoy.eduはESP8266をコアとしたゲーム機です。 リチウムイオ�
       <pubDate>Mon, 30 Mar 2020 23:00:30 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/esp8266%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fmicropython%E3%81%A7%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%8C%E4%BD%9C%E3%82%8C%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
-      <description>GamerGorlから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/gamer-gorl.jpg">GamerGorlから発見。画像もここから転載。
 ESP8266を使ったゲーム機を学習用に使っているという記事です。
 学習用といいつつ、ゲーム機として十分の機能を搭載しているように見えます。 アナログジョイスティックと2キーのボタン、128x64のOLED、ブザー、フルカラーLEDなどが接続されています。
 プログラムはMicroPythonで記述することができます。
 ページには生徒の皆さんが作った様々なゲームの作例が紹介されています。
 改めてESP8266のすごさを思い知りました。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -69,9 +69,9 @@ ESP8266を使ったゲーム機を学習用に使っているという記事で�
       <pubDate>Mon, 25 Nov 2019 23:00:58 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/esp8266%E3%81%A8oled%E3%81%A7%E4%BD%9C%E3%82%8Btwitter%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/</guid>
-      <description>ESP8266 Twitter Clientから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/esp8266-twitter-client.jpg">ESP8266 Twitter Clientから発見。画像もここから転載。
 ESP8266を使った水色が美しいOLEDを使ったTwitterクライアントです。 水色がTwitterのイメージカラーの水色と相まって非常にかっこいい仕上げとなっています。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -80,10 +80,10 @@ ESP8266を使った水色が美しいOLEDを使ったTwitterクライアント�
       <pubDate>Sun, 24 Nov 2019 23:00:39 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/esp32-esp8266%E3%82%92%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AB%E4%BD%BF%E3%81%86%E3%81%9F%E3%82%81%E3%81%AE%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AFesphome/</guid>
-      <description>ESPHomeから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/esp-home.png">ESPHomeから発見。画像もここから転載。
 ESPHomeはプログラムを書くことなく、ESP32やESP8266のファームウェアを作ることができる仕組みです。 目的を”家に設置するセンサの制御”に特化することで、これを実現しています。
 使い方はYAMLファイルにどのピンにどのセンサーがついているかを指定し、esphomeコマンドを実行するだけです。
-かなり多くの電子部品に対応しているので、目的と合致すればとても簡単にESP32やESP8266のファームウェアを作ることができそうです。</description>
+かなり多くの電子部品に対応しているので、目的と合致すればとても簡単にESP32やESP8266のファームウェアを作ることができそうです。]]></description>
     </item>
     
     <item>
@@ -92,10 +92,10 @@ ESPHomeはプログラムを書くことなく、ESP32やESP8266のファーム�
       <pubDate>Thu, 19 Sep 2019 23:00:28 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E5%BC%8F%E3%81%AE%E6%AC%A1%E3%81%AE%E9%9B%BB%E8%BB%8A%E3%81%AE%E5%87%BA%E7%99%BA%E3%81%BE%E3%81%A7%E3%81%AE%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%83%80%E3%82%A6%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC/</guid>
-      <description>Worried About Missing Your Train? This ESP8266 Project Can Help から発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/analog-transit-mater.jpg">Worried About Missing Your Train? This ESP8266 Project Can Help から発見。画像もここから転載。
 この記事ではアナログパネルメーターによる、電車の乗換案内ガジェットの作例を紹介しています。 よく「電流計」などのインターフェースとして使われるアナログパネルメーターですが、この作例では「乗換までのカウントダウン」を表示するために使われています。
 モジュールとしてはESP8266を利用しています。
-日本でもM5stackを使って似たようなものを作っている方がいました。</description>
+日本でもM5stackを使って似たようなものを作っている方がいました。]]></description>
     </item>
     
     <item>
@@ -104,13 +104,14 @@ ESPHomeはプログラムを書くことなく、ESP32やESP8266のファーム�
       <pubDate>Tue, 10 Sep 2019 23:00:57 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/esp8266-esp32%E3%81%AB%E8%84%86%E5%BC%B1%E6%80%A7/</guid>
-      <description>ESP8266 AND ESP32 WIFI HACKED!から発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/esp-attack.png">ESP8266 AND ESP32 WIFI HACKED!から発見。画像もここから転載。
 ESP32やESP8266はWiFiを扱うためには非常に手軽なボードです。しかしこの記事で紹介しているのは、それらのファームウェアに存在している脆弱性についてです。
 すでに脆弱性は修正されているようですが、製品として出荷されてしまったものの中には、この脆弱性を抱えているものが多く存在していそうです。
 記事に紹介されている脆弱性は大きく2つ、1つはESP8266にだけ存在する脆弱性で、細工されたアクセスポイントによりクラッシュさせられてしまうというものです。
 もう一つはESP8266,ESP32両方に存在する脆弱性で、EAP（extensible authentication protocol）環境下で発生するものです。内容としては暗号化されたセッションを乗っ取ることができるというものです。
-おそらく多くのIoTデバイスで使われているこれらのチップに脆弱性があったことは大きな問題です。しかしバグというのはどうしても存在してしまうものなので、こういうことが起きた際にどのように対応することができるか？ということがこれから大事になってくるのだろうと感じています。</description>
+おそらく多くのIoTデバイスで使われているこれらのチップに脆弱性があったことは大きな問題です。しかしバグというのはどうしても存在してしまうものなので、こういうことが起きた際にどのように対応することができるか？ということがこれから大事になってくるのだろうと感じています。]]></description>
     </item>
     
   </channel>
 </rss>
+

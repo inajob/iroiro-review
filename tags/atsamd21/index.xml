@@ -17,9 +17,9 @@
       <pubDate>Tue, 14 Jul 2020 23:00:09 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E7%B5%90%E6%A7%8B%E5%B0%8F%E5%9E%8B%E3%81%AEcircuitpython%E3%81%8C%E5%8B%95%E3%81%8F%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>Serpente - A Tiny CircuitPython Prototyping Boardから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/serpente.png">Serpente - A Tiny CircuitPython Prototyping Boardから発見。画像もここから転載。
 電子工作界隈でも流行り始めているCircuitPythonが動作するコンパクトな開発ボードです。
-USB端子程度の大きさのモジュールですが、ATSAMD21E18A を搭載しておりCircuitPythonが動きます。さらに4MByteのフラッシュストレージや、フルカラーLEDが搭載されており、ちょっとしたプロトタイピングに便利そうです。</description>
+USB端子程度の大きさのモジュールですが、ATSAMD21E18A を搭載しておりCircuitPythonが動きます。さらに4MByteのフラッシュストレージや、フルカラーLEDが搭載されており、ちょっとしたプロトタイピングに便利そうです。]]></description>
     </item>
     
     <item>
@@ -28,9 +28,9 @@ USB端子程度の大きさのモジュールですが、ATSAMD21E18A を搭載�
       <pubDate>Sun, 12 Apr 2020 23:00:54 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E5%B0%8F%E5%9E%8B%E3%81%AE%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCled%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E6%90%AD%E8%BC%89%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>192:LED redesignから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/192-led.jpg">192:LED redesignから発見。画像もここから転載。
 とてもきれいなフルカラーLEDボードです。単なるディスプレイだけではなく、裏面にはCPU（SAMD21）とUSBコネクタが実装されており、これだけで制御も行うことができます。
-あと欲を言うと小型の電源がつけられると使い勝手がよさそうだなと感じました。</description>
+あと欲を言うと小型の電源がつけられると使い勝手がよさそうだなと感じました。]]></description>
     </item>
     
     <item>
@@ -39,10 +39,10 @@ USB端子程度の大きさのモジュールですが、ATSAMD21E18A を搭載�
       <pubDate>Tue, 10 Mar 2020 23:00:15 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/arduino-zero%E3%81%AE%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89%E3%81%8C%E5%AE%89%E3%81%84/</guid>
-      <description>SAM D21 Mini Development Boards: The Same Hardware, Only Priced Differentlyから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/samd21-board.jpg">SAM D21 Mini Development Boards: The Same Hardware, Only Priced Differentlyから発見。画像もここから転載。
 ATSAMD21を搭載した小型の開発ボードが安く販売されているという話です。 このCPUはArduino Zeroとおなじものなので、おそらく同じ開発環境が使えるはずです。
 性能としてはARM Cortex-M0+, 32KBのRAM,256KBのFlashといった感じです。
-これを製品に組み込む場合は、USBのVID/PIDをどうするか、という問題がやや気になりますが、性能の良いボードが安くで手に入るのはうれしいことです。</description>
+これを製品に組み込む場合は、USBのVID/PIDをどうするか、という問題がやや気になりますが、性能の良いボードが安くで手に入るのはうれしいことです。]]></description>
     </item>
     
     <item>
@@ -51,11 +51,11 @@ ATSAMD21を搭載した小型の開発ボードが安く販売されていると
       <pubDate>Mon, 07 Oct 2019 23:00:47 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/atsamd21%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%9C%80%E5%B0%8F%E6%A7%8B%E6%88%90%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%81%AE%E7%B4%B9%E4%BB%8B/</guid>
-      <description>Minimal ATSAMD21 Computer 2 から発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/atsamd21-minimal.jpg">Minimal ATSAMD21 Computer 2 から発見。画像もここから転載。
 ATSAMD21というのはArduino M0やArduino Zeroなどで使われているAtmelのCortex-M0+のCPUです。 この記事では、ArduinoボードではなくICと周辺部品をブレッドボード上で回路を構成し、最低限の開発環境を作る方法を紹介しています。
 同じIC（ATSAMD21G18A）は秋月電子でも買うことができるため このICを使って何か作ろうと考えている方は要チェックです。
 初回のブートローダーの書き込みにはArduino Zeroなどを使うようです。その後Arduinoとして書き込む際はICに内蔵されているUSBの機能で書き込みができるということのようです。
-プロトタイピングをArduino M0やArduino Zeroで行った後に小さくプリント基板にまとめる際などにもこの記事に記載のノウハウが役に立つでしょう。</description>
+プロトタイピングをArduino M0やArduino Zeroで行った後に小さくプリント基板にまとめる際などにもこの記事に記載のノウハウが役に立つでしょう。]]></description>
     </item>
     
     <item>
@@ -64,11 +64,12 @@ ATSAMD21というのはArduino M0やArduino Zeroなどで使われているAtmel
       <pubDate>Sun, 02 Jun 2019 23:00:10 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E8%B6%85%E5%B0%8F%E3%81%95%E3%81%84%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E4%BB%98%E3%81%8Darduinozero%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89pocketscreen/</guid>
-      <description>PocketScreen - World&amp;rsquo;s smallest Arduino compatible multitoolより発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/pocket-screen.png">PocketScreen - World&amp;rsquo;s smallest Arduino compatible multitoolより発見。画像もここから転載。
 とても小さいディスプレイ付きのCPUボードです。 コアとなるのはATSAMD21G18A。これはArduino Zeroと同じチップです。
 マイクロSDカードスロットも搭載しており、小型のガジェットを作りたい人には良さそうです。 さらに3つのボタンを搭載しており、時計のようなものを作る際に役に立ちそうです。
-クラウドファンディングということで、うまく作れるのか不安なところですが、このチームは以前PocketStarという小型のゲーム機を作成しており、そういう意味では比較的安全なプロダクトだといえます。</description>
+クラウドファンディングということで、うまく作れるのか不安なところですが、このチームは以前PocketStarという小型のゲーム機を作成しており、そういう意味では比較的安全なプロダクトだといえます。]]></description>
     </item>
     
   </channel>
 </rss>
+

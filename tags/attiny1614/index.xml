@@ -17,10 +17,10 @@
       <pubDate>Thu, 23 Apr 2020 23:00:22 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E9%9D%9E%E5%B8%B8%E3%81%AB%E5%B0%8F%E3%81%95%E3%81%AAthinkpad%E9%A2%A8%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
-      <description>ThinkTiny Is a Micro ThinkPad-Inspired Notebookから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/mini-thinkpad.png">ThinkTiny Is a Micro ThinkPad-Inspired Notebookから発見。画像もここから転載。
 非常に小さなThinkpad風のガジェットです。Thinkpad風なのは見た目だけではなく、操作するための「スティック」がThinkpadのトラックポイントとよく似た操作感です。
 ICはATtiny1614を使い、こういった工作ではおなじみの128x64のOLEDを利用しています。 小さいガジェットはいろいろ見てきましたが、このように一つテーマを持って物を作るというのは面白いと感じました。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -29,10 +29,10 @@ ICはATtiny1614を使い、こういった工作ではおなじみの128x64のOL
       <pubDate>Mon, 23 Mar 2020 23:00:34 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%BC%B7%E3%81%84%E3%81%98%E3%82%83%E3%82%93%E3%81%91%E3%82%93ai%E6%90%AD%E8%BC%89%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
-      <description>Neural Network Device ‘Solves’ Rock-Paper-Scissorsから発見。画像もここから転載。
+      <description>&lt;![CDATA[<img src="/img/rnn-rps.png">Neural Network Device ‘Solves’ Rock-Paper-Scissorsから発見。画像もここから転載。
 この小さなガジェットのCPUはATtiny1614（Flash:16KB, SRAM: 2KB）です。この小さなCPUでニューラルネットワーク(RNN)を実装し、ランダムよりも強いじゃんけんAIを実現しているそうです。
 ニューラルネットワークでAIというと、ハイスペックなCPUが必要というイメージですが、場合によっては小さな組み込み用CPUでも実現できるんだなと思いました。
- </description>
+ ]]></description>
     </item>
     
     <item>
@@ -41,12 +41,13 @@ ICはATtiny1614を使い、こういった工作ではおなじみの128x64のOL
       <pubDate>Mon, 06 May 2019 23:00:56 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E5%AE%9F%E9%9A%9B%E3%81%AB%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B%E3%83%9F%E3%83%8B%E3%83%81%E3%83%A5%E3%82%A2pctinypc/</guid>
-      <description>TinyPC Is a Minuscule OLED Gaming Rig で発見（写真もここのものを転載しています。）
+      <description>&lt;![CDATA[<img src="/img/tinypc.png">TinyPC Is a Minuscule OLED Gaming Rig で発見（写真もここのものを転載しています。）
 TinyPCは本当に動作するPCのミニチュアです。 モデルデータやソースコードはオープンソースで公開されているので、どんな仕組みで動いているのかを知ることができます。
 CPUにはATtiny1614を仕様。128x64のOLEDと、5入力のスイッチ、フルカラーLEDモジュールも付いています。
 透明な窓は透明のPLA樹脂で3Dプリントした物を、磨いたそうです。
- </description>
+ ]]></description>
     </item>
     
   </channel>
 </rss>
+
