@@ -17,7 +17,7 @@
       <pubDate>Sun, 03 Mar 2019 01:00:11 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E7%B5%84%E3%81%BF%E8%BE%BC%E3%81%BF%E6%A9%9F%E5%99%A8%E3%81%A7%E3%82%82go%E8%A8%80%E8%AA%9E%E3%82%92%E4%BD%BF%E3%81%86tinygo/</guid>
-      <description>&lt;img src="/img/tinygo.png"&gt;tinygo-org/tinygoから発見
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/tinygo.png"&gt;tinygo-org/tinygoから発見
 Go言語が流行っていますが、組み込みの世界では依然C/C++が主流です。（Arduinoも中身はC/C++です）
 しかし、このプロジェクトでは組み込み環境でもGo言語を使えるようにするものです。
 この手の高級な言語を組み込み環境で使うというのは、そこそこのメモリやCPU性能を要求するというものが多い中で、このtinygoは「Arduino Uno」や「Digispark」までサポートしているというのが驚きです。

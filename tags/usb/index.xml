@@ -17,7 +17,7 @@
       <pubDate>Tue, 01 Sep 2020 23:00:41 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/usb-type-c%E5%91%A8%E3%82%8A%E3%81%AE%E5%9B%9E%E8%B7%AF%E5%9B%B3/</guid>
-      <description>&lt;img src="/img/usbccct-600x483.png"&gt;BUS PIRATE: Love the USB C connector!から発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/usbccct-600x483.png"&gt;BUS PIRATE: Love the USB C connector!から発見。画像もここから転載。
 最近はUSB Type-Cの付いた製品をよく見かけるようになってきました。 一方で以前からよく使われていたマイクロUSBコネクタはもげやすく、できれば使いたくありません。
 ということで特にUSB3.0の特殊な機能を使うことはしないが、今までの信号線としてのUSBをType-Cコネクタで実現したい、という需要が結構あるわけです。
 この記事ではUSBのType-Cコネクタの結線方法について回路図を用いて説明しています。 はんだ付けはちょっとつらそうですが、これを基にあなたの基板のUSB端子もType-Cにしてみませんか？</description>

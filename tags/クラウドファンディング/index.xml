@@ -17,7 +17,7 @@
       <pubDate>Wed, 16 Dec 2020 23:00:43 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/32bit%E3%81%AE%E9%AB%98%E6%A9%9F%E8%83%BD%E3%81%AA%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
-      <description>&lt;img src="/img/32bit-game.jpg"&gt;32blit: retro-inspired handheld with open-source firmwareから発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/32bit-game.jpg"&gt;32blit: retro-inspired handheld with open-source firmwareから発見。画像もここから転載。
 パワフルな携帯ゲーム機のプロジェクトです。 コアとなるのは STM32H750 Cortex-M7 です。1MBのSRAMを搭載し、さらに32MBのフラッシュメモリを内蔵しています。
 解像度は320x240で、バッテリーも搭載しています。
 ゲームは、LuaやC++で作成できます。ゲームを簡単に作れるように2000以上のスプライトや100以上のサウンドエフェクトと、10以上の音楽も提供されているようです。
@@ -31,7 +31,7 @@
       <pubDate>Sun, 04 Oct 2020 23:00:26 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AAatmega644-1284%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="/img/narrow-board.jpg"&gt;644&amp;frasl;1284 Narrowから発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/narrow-board.jpg"&gt;644&amp;frasl;1284 Narrowから発見。画像もここから転載。
 コンパクトなAtmega644/1284のボードです。大きさはArduino Nanoよりも少し大きい感じです。 図の右上部分に4ピン余計に引き出されているところはI2Cとして利用できるようになっており、想定としてはOLEDを搭載することができるようです。
 普通のArduinodではRAM/ROMの容量が足りないようなプロジェクトによさそうな開発ボードです。</description>
     </item>
@@ -42,7 +42,7 @@
       <pubDate>Wed, 08 Jul 2020 23:00:03 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E5%B0%8F%E3%81%95%E3%81%AA%E9%9B%BB%E5%AD%90%E7%A0%82%E6%99%82%E8%A8%88/</guid>
-      <description>&lt;img src="/img/sand-timer.jpg"&gt;Electronic “Sand Timer” Simplifies Board Game Timekeepingから発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/sand-timer.jpg"&gt;Electronic “Sand Timer” Simplifies Board Game Timekeepingから発見。画像もここから転載。
 小さな電子砂時計の作例です。もともとKickstarterのプロジェクトとして成功したもののようです。
 ボタンを押すだけでカウントダウンが始まり、さらに砂時計と違って、途中でリセットしてすぐさまタイマーを再設定することができます。（当たり前ですが・・） 電源ははCR2032、CPUはPIC10LF320を使っています。
 コンパクトでシンプルですが非常によくできたガジェットです。
@@ -55,7 +55,7 @@
       <pubDate>Tue, 24 Dec 2019 23:00:32 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E3%81%A7%E9%80%A0%E5%BD%A2%E3%81%99%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
-      <description>&lt;img src="/img/choco-3d-printer.jpg"&gt;It’s all about Chocoから発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/choco-3d-printer.jpg"&gt;It’s all about Chocoから発見。画像もここから転載。
 チョコレートを材料とした3Dプリンタが登場しました。 確かにチョコレートは比較的簡単に3Dプリンタで扱うことができるように思います。
 いわゆる「フィラメント」のようなものはどのように提供されるのか？簡単に自作できるのか？ 失敗したプリントはまた材料として使うことができるのか？
 など気になることが満載です。
@@ -69,7 +69,7 @@ kickstarterでのキャンペーンは無事終了し、販売を開始してい
       <pubDate>Tue, 15 Oct 2019 23:00:43 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/ar%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</guid>
-      <description>&lt;img src="/img/ar-board-game.png"&gt;Tilt Five: Holographic Tabletop Gamingから発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ar-board-game.png"&gt;Tilt Five: Holographic Tabletop Gamingから発見。画像もここから転載。
 AR技術を使ったボードゲームデバイスです。
 専用のスマートグラスと、ARマーカー付きのボードを使い、現実の机の上で、バーチャルな演出入りのボードゲームを遊ぶことができるようです。
 ボードゲーム特化というよりは、AR時代の新しい「ディスプレイ」という感じです。こういうものが出てくると、今の「ディスプレイ」と「マウス」を使ったパソコンも近いうちに全く違ったものになるのでは？とワクワクしました。
@@ -82,7 +82,7 @@ AR技術を使ったボードゲームデバイスです。
       <pubDate>Sun, 06 Oct 2019 23:00:52 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%82%92%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%81%A8%E3%81%97%E3%81%A6%E4%BD%BF%E3%81%88%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%99%E3%82%8B%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="/img/nexdock2.jpg"&gt;NexDock 2 から発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/nexdock2.jpg"&gt;NexDock 2 から発見。画像もここから転載。
 スマートフォンはどんどん高機能化しています。こうなってくるとすべての作業をスマートフォンで行うことも夢ではありません。
 しかしノートパソコンとは違い、スマートフォンの画面は狭く、またキーボードもありません。
 ここで紹介しているNexDock 2はノートパソコン型の「外付けディスプレイ＋キーボード＋バッテリー」です。 一見ノートパソコンのように見えますが、中にCPUは入っていないというわけです。
@@ -95,7 +95,7 @@ AR技術を使ったボードゲームデバイスです。
       <pubDate>Sun, 29 Sep 2019 23:00:43 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E7%B4%B0%E3%81%8B%E3%81%AA%E3%82%BB%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%BF%E3%83%83%E3%83%81%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/</guid>
-      <description>&lt;img src="/img/trill.jpg"&gt;TRILL: Touch Sensing for Makersから転載。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/trill.jpg"&gt;TRILL: Touch Sensing for Makersから転載。画像もここから転載。
 静電容量タッチをうまい具合に扱うことができるセンサーのプロジェクトです。 様々な形や大きさのセンサーが用意されており、またそれらを組み合わせたり、はさみで切って（！！）形状を変形させることもできるようです。
 それとは別にタッチセンサーのコントロールボードであるTOUCH CRAFTという製品も合わせて用意されており、これを使うと、任意の基板上のパターンや、アルミホイルなどで作ったオリジナルのタッチデバイスを制御することもできるようです。
  </description>
@@ -107,7 +107,7 @@ AR技術を使ったボードゲームデバイスです。
       <pubDate>Mon, 09 Sep 2019 23:00:53 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E6%AE%B5%E3%83%9C%E3%83%BC%E3%83%AB%E7%AD%90%E4%BD%93%E3%81%A8%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%AA%E3%82%BA%E3%83%A0%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/</guid>
-      <description>&lt;img src="/img/cardboard-rythmbox.jpg"&gt;Beatbox by Rhythmo - DIY Cardboard MIDI Controller Kitから発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/cardboard-rythmbox.jpg"&gt;Beatbox by Rhythmo - DIY Cardboard MIDI Controller Kitから発見。画像もここから転載。
 BeatBoxは段ボール筐体のリズムボックスです。ボタンをタップすることで様々なドラムの音を鳴らすことができます。
 技術的にはBeatboxはMIDIコントローラとして実装されています。そのため機能の割り振りを変えることで、様々な操作を行うことができます。</description>
     </item>
@@ -118,7 +118,7 @@ BeatBoxは段ボール筐体のリズムボックスです。ボタンをタッ�
       <pubDate>Sun, 08 Sep 2019 23:00:31 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/linux%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9Fretrostone-2/</guid>
-      <description>&lt;img src="/img/retrostone2.jpg"&gt;RetroStone 2 - Ultimate RetroGaming Consoleから発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/retrostone2.jpg"&gt;RetroStone 2 - Ultimate RetroGaming Consoleから発見。画像もここから転載。
 携帯Linuxゲームエミュレータコンソールのプロジェクトを紹介します。
 RetroStone 2はAllwinnerのプロセッサを使ったLinuxゲームエミュレータコンソールです。有名なエミュレータ用OSであるRetropieのAllwinnerバージョンであるRetrorangepiというOSを動かすことができるようです。
 USBやHDMIもサポートしており、マルチプレイヤーゲームなども遊ぶことができるようです。 また中身はLinuxましんなので、ディスプレイ、マウス、キーボードを接続することで普通のPCとしても利用できるようです。</description>
@@ -130,7 +130,7 @@ USBやHDMIもサポートしており、マルチプレイヤーゲームなど�
       <pubDate>Thu, 01 Aug 2019 23:00:31 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi%E3%82%92%E6%8D%AE%E3%81%88%E7%BD%AE%E3%81%8D%E6%A9%9F%E3%81%AB%E3%81%99%E3%82%8Bpitop4/</guid>
-      <description>&lt;img src="/img/pitop4.jpg"&gt;pi-top [4] the smarter way to design, code &amp;amp; make anything!から発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/pitop4.jpg"&gt;pi-top [4] the smarter way to design, code &amp;amp; make anything!から発見。画像もここから転載。
 pi-topシリーズのRaspberry Pi 4版が出てきました。 今までのノートPC型とは打って変わって、小さな画面の付いた手のひらサイズのケースです。
 GPIOがむき出しになっているので、電子工作でも使いやすそうです。バッテリーも内蔵しているので、モバイル環境での使い勝手もよさそうです。</description>
     </item>
@@ -141,7 +141,7 @@ GPIOがむき出しになっているので、電子工作でも使いやすそ�
       <pubDate>Wed, 31 Jul 2019 23:00:21 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi%E3%81%AE%E3%83%94%E3%83%B3%E3%81%A8%E5%90%8C%E3%81%98%E9%85%8D%E7%BD%AE%E3%82%92%E6%8C%81%E3%81%A4esp32%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="/img/obsidianesp32.jpg"&gt;Obsidian ESP32 Bridges Platformsから発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/obsidianesp32.jpg"&gt;Obsidian ESP32 Bridges Platformsから発見。画像もここから転載。
 ESP32を搭載した開発ボードです。特筆すべきはRaspberryPi互換のピンヘッダです。 これによりRaspberryPi用の様々な拡張ボードを利用することができます。
 プロトタイピングによさそうなボードです。</description>
     </item>
@@ -152,7 +152,7 @@ ESP32を搭載した開発ボードです。特筆すべきはRaspberryPi互換�
       <pubDate>Tue, 16 Jul 2019 23:00:35 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%81%8B%E3%82%89%E5%88%A9%E7%94%A8%E3%81%97%E3%82%84%E3%81%99%E3%81%84fpga%E3%83%9C%E3%83%BC%E3%83%89fireant/</guid>
-      <description>&lt;img src="/img/fireant.jpg"&gt;FireAntから発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/fireant.jpg"&gt;FireAntから発見。画像もここから転載。
 最近は安いFPGAがたくさん出回っていますが、まだまだ開発の敷居は高いです。
 FireAntはブレッドボード上で簡単に利用できるFPGA開発ボードです。 FPGAはあまり詳しくないのですが「Efinix Trion T8」というチップのようです。
 また簡単に動作を試せるように4つのLEDと2つのスイッチが基板上に搭載されています。
@@ -165,7 +165,7 @@ FPGAのチップが小型のためUSB-シリアルICのほうが大きいのが�
       <pubDate>Mon, 15 Jul 2019 23:00:36 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/featherwing%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AElinux%E3%81%8C%E5%8B%95%E3%81%8F%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="/img/giant-board-pin-out.jpg"&gt;Giant Boardから発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/giant-board-pin-out.jpg"&gt;Giant Boardから発見。画像もここから転載。
 AdafruitのFeatherシリーズと同じフットプリントのLinuxが動くボードのクラウドファンディングです。
 プロセッサはARM Cortex A5 500MHz, メモリは128MBと、Linuxボードにしてはかわいらしい性能ですが、携帯ゲーム機などを作るのであればよいバランスかもしれません。 またFeatherシリーズと同じフットプリントなので、それ用の拡張ボードがそのまま利用できる、というのが大きな特徴です。</description>
     </item>
@@ -176,7 +176,7 @@ AdafruitのFeatherシリーズと同じフットプリントのLinuxが動くボ
       <pubDate>Thu, 27 Jun 2019 23:00:48 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6%E3%81%8B%E3%82%89%E9%96%8B%E7%99%BA%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8Bfpga%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="/img/webfpga.jpg"&gt;WebFPGA: Rapid FPGA Development Systemから発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/webfpga.jpg"&gt;WebFPGA: Rapid FPGA Development Systemから発見。画像もここから転載。
 FPGAボードが身近になってきていますが、まだまだ難しそうで敬遠してしまいます。 今回紹介するWebFPGAはブラウザからプログラミングできることが特徴のFPGAボードです。
 すでにWebでできているIDEは動いているようで、ブラウザからWebUSBの仕組みを使って直接FPGAにプログラミングを行うようです。
 ブラウザIDEと聞くとベンダーロックインされると思われるかもしれませんが、このプロジェクトはそのようなことをするものではなくLattice IDEという一般的なIDEを使っても開発ができるとのことです。
@@ -189,7 +189,7 @@ FPGAボードが身近になってきていますが、まだまだ難しそう�
       <pubDate>Wed, 12 Jun 2019 23:00:58 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AE%E5%9B%9E%E8%BB%A2%E9%9F%B3%E3%82%92%E5%9F%BA%E3%81%AB%E3%81%97%E3%81%9F%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</guid>
-      <description>&lt;img src="/img/motor-synth.jpg"&gt;Motor Synthから発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/motor-synth.jpg"&gt;Motor Synthから発見。画像もここから転載。
 Maker Faire Tokyoなどでもモーターを使って音楽をならすという作例は見かけますが、このプロダクトはそれをまじめにシンセサイザーとして実装した例です。
 写真中央上部の8個の銀色の丸いものがモーターです。このシンセサイザーはモータの回転により生じる電磁波を音源として利用しています。
 物理ベースのシンセサイザーとして新時代の始まりを感じさせるプロダクトです。
@@ -202,7 +202,7 @@ Maker Faire Tokyoなどでもモーターを使って音楽をならすという
       <pubDate>Tue, 11 Jun 2019 23:00:00 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%A9%E3%83%BC%E5%BC%8F%E3%81%AE%E5%AD%90%E4%BE%9B%E5%90%91%E3%81%91%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3/</guid>
-      <description>&lt;img src="/img/novus.jpg"&gt;Novus, World&amp;rsquo;s First Modular Smartphone for Kids から発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/novus.jpg"&gt;Novus, World&amp;rsquo;s First Modular Smartphone for Kids から発見。画像もここから転載。
 子供向けのスマートフォンのクラウドファンディングキャンペーンの紹介です。
 特徴的なのはモジュラー式ということです。3in1と紹介されているように、コアとなるモジュールを切り離すことで、電話型、腕時計型、据え置き型の3形態に組み替えることができます。
 子供向け、ということになっていますが、この3変化する仕組みはガジェット好きの心をくすぐるものだと感じました。</description>
@@ -214,7 +214,7 @@ Maker Faire Tokyoなどでもモーターを使って音楽をならすという
       <pubDate>Tue, 04 Jun 2019 23:00:22 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E4%B8%80%E5%AE%B6%E3%81%AB%E4%B8%80%E5%8F%B0%E3%83%AA%E3%83%95%E3%83%AD%E3%83%BC%E6%A9%9Frefro-air/</guid>
-      <description>&lt;img src="/img/reflow-air.jpg"&gt;REFLO Airから発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/reflow-air.jpg"&gt;REFLO Airから発見。画像もここから転載。
 表面実装基板を作り始めると欲しくなるのが、リフロー機です。
 趣味の電子工作では、ホットプレートやオーブントースターを利用する例をよく聞きますが、今回紹介するのはリフロー専用機です。
 リフローオーブンに比べるとポータブルで、ヒートガンに比べると作業しやすいというのがこの”REFRO Air”の特徴のようです。</description>
@@ -226,7 +226,7 @@ Maker Faire Tokyoなどでもモーターを使って音楽をならすという
       <pubDate>Mon, 03 Jun 2019 23:00:43 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9D%E3%83%B3%E3%83%97%E3%82%92%E7%B0%A1%E5%8D%98%E3%81%AB%E5%88%B6%E5%BE%A1%E3%81%99%E3%82%8B%E3%83%9C%E3%83%BC%E3%83%89programmable-air/</guid>
-      <description>&lt;img src="/img/programmable-air.jpg"&gt;Programmable-Airから発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/programmable-air.jpg"&gt;Programmable-Airから発見。画像もここから転載。
 簡単に空気をコントロールすることができるボードです。
 要は小型のポンプがArduinoで簡単に制御できるボードなのです。 パッと何ができるものなのかは想像しづらいですが、ページにはいくつかのデモが紹介されています。
 ゴム状の素材を使った人工筋肉のようなものや、ポンプのパワーでものを持ち上げたり、さらには風船のようなものをしぼませることで、「つかむ」動きを実現したりと、思った以上に様々な使い方ができることがわかります。
@@ -240,7 +240,7 @@ Maker Faire Tokyoなどでもモーターを使って音楽をならすという
       <pubDate>Sun, 02 Jun 2019 23:00:10 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E8%B6%85%E5%B0%8F%E3%81%95%E3%81%84%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E4%BB%98%E3%81%8Darduinozero%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89pocketscreen/</guid>
-      <description>&lt;img src="/img/pocket-screen.png"&gt;PocketScreen - World&amp;rsquo;s smallest Arduino compatible multitoolより発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/pocket-screen.png"&gt;PocketScreen - World&amp;rsquo;s smallest Arduino compatible multitoolより発見。画像もここから転載。
 とても小さいディスプレイ付きのCPUボードです。 コアとなるのはATSAMD21G18A。これはArduino Zeroと同じチップです。
 マイクロSDカードスロットも搭載しており、小型のガジェットを作りたい人には良さそうです。 さらに3つのボタンを搭載しており、時計のようなものを作る際に役に立ちそうです。
 クラウドファンディングということで、うまく作れるのか不安なところですが、このチームは以前PocketStarという小型のゲーム機を作成しており、そういう意味では比較的安全なプロダクトだといえます。</description>
@@ -252,7 +252,7 @@ Maker Faire Tokyoなどでもモーターを使って音楽をならすという
       <pubDate>Mon, 15 Apr 2019 23:00:46 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E5%8A%B9%E7%8E%87%E3%81%AE%E8%89%AF%E3%81%84lipo%E5%85%85%E9%9B%BB%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%ABpgcpsu/</guid>
-      <description>&lt;img src="/img/pgcpsu.jpg"&gt;PGCPSU the tiny, powerful &amp;amp; affordable LiPo PSU module から発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/pgcpsu.jpg"&gt;PGCPSU the tiny, powerful &amp;amp; affordable LiPo PSU module から発見。画像もここから転載。
 PGCPSUはリチウムポリマー二次電池を効率よく充電・放電・昇圧するためのモジュールです。
 Pretty Good Cheap Power Supply Unit の略らしく、その名の通り1500円程度で買うことができそうです。
 よくあるバッテリの充電・昇圧モジュールとの特性の比較もKickstarterのページに記載されています。
@@ -265,7 +265,7 @@ Pretty Good Cheap Power Supply Unit の略らしく、その名の通り1500円�
       <pubDate>Sat, 13 Apr 2019 04:00:57 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/voip%E3%81%A7%E9%80%9A%E8%A9%B1%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%E9%9B%BB%E8%A9%B1%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88wiphone/</guid>
-      <description>&lt;img src="/img/wiphone.jpg"&gt;WiPhone, A Phone for Hackers and Makersから発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/wiphone.jpg"&gt;WiPhone, A Phone for Hackers and Makersから発見。画像もここから転載。
 携帯電話を作る、というとSIMカードとかどうしよう?と思いますが、このWiPhneはWiFiの接続を使ってVoIPで通話をするものです。
 単なる電話だけではなく開発用のブレークアウトボードを使うことで、様々な電子工作の一部として組み込むことができます。
 中身はESP32のようです。つまりこれは電話型のM5Stackといったスペックのガジェットのようです。 （M5Stackでもソフトウェアを作りこめばVoIPで通話できるのかな？）
@@ -278,7 +278,7 @@ Kickstarterでキャンペーン中なので、気になる人はバックして
       <pubDate>Tue, 26 Mar 2019 23:00:38 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E5%86%99%E7%9C%9F%E7%AB%8B%E3%81%A6%E9%A2%A8%E3%81%AE%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</guid>
-      <description>&lt;img src="/img/e-ink-photo-stand.png"&gt;ePaper Picture Frameから発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/e-ink-photo-stand.png"&gt;ePaper Picture Frameから発見。画像もここから転載。
 電子ペーパーが組み込まれた写真立て風のガジェット。 ちょうど今KickStarterでキャンペーン中で、€175（22000円くらい）でDIYキットのプランに投資できます。
 8inchで1024x768のディスプレイで、スマートフォンのアプリで画面を書き換えることができるようです。 電子ペーパーはその見た目もさることながら、書き換え時以外は電気を消費しないので、写真立てのようなプロダクトには非常に向いています。
 見た目がいい感じなので、インテリアにこだわる、ガジェット好きの方にはお勧めのプロジェクトです。</description>
@@ -290,7 +290,7 @@ Kickstarterでキャンペーン中なので、気になる人はバックして
       <pubDate>Sun, 17 Mar 2019 23:00:43 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%8B%E3%82%AD%E3%82%B7%E3%83%BC%E7%AE%A1%E3%82%92%E6%96%B0%E3%81%97%E3%81%8F%E4%BD%9C%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88zin18/</guid>
-      <description>&lt;img src="/img/zin18.jpg"&gt;ZIN18 - the new Nixie Tube &amp;amp; clocksから発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/zin18.jpg"&gt;ZIN18 - the new Nixie Tube &amp;amp; clocksから発見。画像もここから転載。
 「シュタインズ・ゲート」の「ダイバージェンスメーター」といえば、伝わる人には伝わる「ニキシー管」。非常に味のある表示器です。
 しかし、ニキシー管は今や古の技術。今や生産されておらず、入手しようとしても、はるか昔に生産されたニキシー管の在庫を買うことしかできません。
 しかし、そんな中この「ZIN18」というのはニキシー管を新たに作成する。というプロジェクトのようです。
@@ -303,7 +303,7 @@ Kickstarterでキャンペーン中なので、気になる人はバックして
       <pubDate>Sun, 17 Mar 2019 23:00:10 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%81%82%E3%81%AEnanoloop%E3%81%AE%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E7%89%88/</guid>
-      <description>&lt;img src="/img/nanoloop.jpg"&gt;nanoloopから発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/nanoloop.jpg"&gt;nanoloopから発見。画像もここから転載。
 nanoloopというシーケンサを知っていますか？nanoloopはゲームボーイで動作するソフトウェアとしてのシーケンサで、この界隈ではかなり有名なものです。
 今回はそのnanoloopのハードウェア版がKickstarterに登場していたので紹介します。
 音ネタなので、本家サイトに行って動画を見ていただくのが早いのですが、、
@@ -316,7 +316,7 @@ nanoloopというシーケンサを知っていますか？nanoloopはゲーム�
       <pubDate>Sun, 10 Mar 2019 00:00:26 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E7%B0%A1%E5%8D%98%E3%81%AB%E5%88%B6%E5%BE%A1%E3%81%A7%E3%81%8D%E3%82%8B7%E3%82%BB%E3%82%B0led%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</guid>
-      <description>&lt;img src="/img/addressable-7seg.png"&gt;Addressable 7-Segment Display で発見。 残念ながらもうキャンペーン期間は終わってしまっている。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/addressable-7seg.png"&gt;Addressable 7-Segment Display で発見。 残念ながらもうキャンペーン期間は終わってしまっている。
 しかし、プロジェクトはオープンソース化されているので、どんなものかはわかります。
 これはフルカラーLEDの制御でよく使われているWS2811を使って、7セグメントLEDを制御するためのボードです。WS2811はデイジーチェーンによる接続ができるため、写真のように、次々モジュールをつなげることで桁を増やすことができます。
 WS2811をフルカラーLED以外の制御に使うというのはもしかしたらほかにも応用が聞くのでは?と思いました（あと安そう 10PCS WS2811S SOP-8 1つ9円くらい？）</description>
@@ -328,7 +328,7 @@ WS2811をフルカラーLED以外の制御に使うというのはもしかし�
       <pubDate>Thu, 07 Mar 2019 08:00:33 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/1%E5%B9%B4%E3%81%AE%E9%80%B2%E6%8D%97%E3%82%92%E5%8F%AF%E8%A6%96%E5%8C%96%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="/img/every-day-calendar.png"&gt;The Every Day Calendarで発見。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/every-day-calendar.png"&gt;The Every Day Calendarで発見。
 1年を表している表示板で、日付をタッチするとそこにLEDが灯るというもの。 KickStarterのキャンペーンはすでに成功して締め切られており、おそらく今頑張って作っているのだろう。
 EaryBirdで$250、それ以外は$350という価格設定。
 技術的には、これほど多くのタッチを何で検出するか気になるところ。 オープンソース化も予定されているらしいので、楽しみ。</description>
@@ -340,7 +340,7 @@ EaryBirdで$250、それ以外は$350という価格設定。
       <pubDate>Sat, 16 Feb 2019 03:37:13 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%84%E3%81%9F%E3%82%89%E3%81%A8%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84diy%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9Fpixa/</guid>
-      <description>&lt;img src="/img/pyxa.jpg"&gt;PYXA | DIY Game Consoleから発見。写真もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/pyxa.jpg"&gt;PYXA | DIY Game Consoleから発見。写真もここから転載。
 カラー液晶を搭載したゲーム機。 128x160のフルカラー液晶。SDカード、バッテリーなどを搭載している。
 CPUはATmega328Pと書かれているが、経験上CPU性能が心配。画面制御用に何か別のチップが搭載されるのだろうか？
 ともあれ気になるプロダクトである。
@@ -353,7 +353,7 @@ CPUはATmega328Pと書かれているが、経験上CPU性能が心配。画面�
       <pubDate>Mon, 04 Feb 2019 13:54:18 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E4%B8%96%E7%95%8C%E5%88%9D%E5%B7%BB%E5%8F%96%E3%82%8A%E5%BC%8F%E3%81%AE%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</guid>
-      <description>&lt;img src="/img/rollable-digital-diplay.png"&gt;Hackaday.ioで発見したプロダクト。 詳細は書かれていないが、いわゆるアドレス指定可能なフルカラーLEDをグリッド上に配置したうえで、巻物のように収納できるようにしたもののようだ。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/rollable-digital-diplay.png"&gt;Hackaday.ioで発見したプロダクト。 詳細は書かれていないが、いわゆるアドレス指定可能なフルカラーLEDをグリッド上に配置したうえで、巻物のように収納できるようにしたもののようだ。
 IndiGoGoでも出資を募っているようだ しかし、Rewardがシャツ、でOriginal Prototypeが170万円くらいという、基本寄付。みたいなやり方なので、あまり盛り上がっていない様子。
 こちらには動画もあって、コンセントからの電源で動作している様子がわかる
  </description>

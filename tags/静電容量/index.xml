@@ -17,7 +17,7 @@
       <pubDate>Thu, 05 Sep 2019 23:00:30 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E9%9D%A2%E7%99%BD%E3%81%84%E5%BD%A2%E7%8A%B6%E3%81%AE%E9%9D%99%E9%9B%BB%E5%AE%B9%E9%87%8F%E3%82%BF%E3%83%83%E3%83%81midi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9/</guid>
-      <description>&lt;img src="/img/ocarina-midi-controller.jpg"&gt;Oceania Midi Controller (for Make Noise 0-Coast and Other Synths) から発見。画像もここから転載（CC BY-NC-SA By maxhirez）
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ocarina-midi-controller.jpg"&gt;Oceania Midi Controller (for Make Noise 0-Coast and Other Synths) から発見。画像もここから転載（CC BY-NC-SA By maxhirez）
 金属の板を加工して作ったタッチセンサによるMIDI鍵盤の作例です。 CPUはArduino MEGAを使っているようです。詳しい回路図がないのが残念ですが、すべての鍵盤とGPIOをつなぎ、またMIDI出力端子も搭載してるようです。
 動画では、この楽器と合わせて0-CoastというMIDIが入力できるシンセと接続して音を鳴らしています。こちらの0-Coastというシンセも興味深いです。
 楽器というのは出来上がると演奏することができ、作った後でも実用的に使えるため、電子工作の作例として非常に優秀であると感じています。

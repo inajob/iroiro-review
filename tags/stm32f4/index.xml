@@ -17,7 +17,7 @@
       <pubDate>Sun, 26 May 2019 23:00:06 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/stm32f4%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9Fmeowbit/</guid>
-      <description>&lt;img src="/img/meowbit.jpg"&gt;Meowbit -Codable Console for Microsoft Makecode Arcade から発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/meowbit.jpg"&gt;Meowbit -Codable Console for Microsoft Makecode Arcade から発見。画像もここから転載。
 なんともかわいらしいネコミミ付きのゲーム機です。&amp;rdquo;bit&amp;rdquo;という名前から想像できるように、ゲーム機の下側が「micro:bit」のようなカートリッジコネクタになっているのが特徴です。
 しかし、見た目とは異なり、コアとなるCPUはSTM32F401RET6で特にmicro:bitと同じというわけではありません。
 ゲームの開発はMicrosoftの Makecode ArcadeというScratchのようなビジュアル開発環境で行うことができます。また、MicroPythonでもプログラミングできるようです。

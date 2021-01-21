@@ -17,7 +17,7 @@
       <pubDate>Tue, 08 Oct 2019 23:00:41 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/3%E3%83%9D%E3%83%BC%E3%83%88%E3%81%A7led4%E3%81%A4%E3%82%B9%E3%82%A4%E3%83%83%E3%83%814%E3%81%A4%E3%82%92%E6%89%B1%E3%81%86%E5%9B%9E%E8%B7%AF-tucoplexing-%E3%81%AE%E7%B4%B9%E4%BB%8B/</guid>
-      <description>&lt;img src="/img/tucoplexing.png"&gt;TUCOPLEXING: A NEW CHARLIPLEX FOR BUTTONS AND SWITCHES から発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/tucoplexing.png"&gt;TUCOPLEXING: A NEW CHARLIPLEX FOR BUTTONS AND SWITCHES から発見。画像もここから転載。
 少ないGPIOで多くの入出力を扱うというのはMakerの性です。有名なものとしてCharlieplexingがあります。
 この記事で紹介している”Tucoplexing”は3つのGPIOで4つのLEDと4つのスイッチの入力を制御しています。
 LED部分はCharlieplexingで見たことがある構成です。スイッチの入力に関しては、コンデンサを間に入れることで、2つのスイッチによる電圧の立ち上がりの時間差を利用して1ポートで複数のスイッチの入力を実現しています。

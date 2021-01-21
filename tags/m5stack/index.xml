@@ -17,7 +17,7 @@
       <pubDate>Mon, 27 May 2019 23:00:33 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/m5stack%E3%82%92%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E9%A2%A8%E3%81%AB%E5%A4%89%E8%BA%AB%E3%81%95%E3%81%9B%E3%82%8B%E8%A3%8F%E6%8A%80/</guid>
-      <description>&lt;img src="/img/esplora-x.jpg"&gt;Esplora X M5Stackから発見。画像もここから転載（CC BY-NC-SA By 陳亮）
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/esplora-x.jpg"&gt;Esplora X M5Stackから発見。画像もここから転載（CC BY-NC-SA By 陳亮）
 M5Stackは良いプラットフォームですが、ボタンが3つしかないのが人によっては不満かもしれません。 そこでこの記事ではArduinoの一種であるEsploraとM5Stackを合体させてゲーム機風に改造しています。
 Esploraはあまり流行っている印象はありませんが、このようにI2Cゲームコントローラとして利用するのは結構よさそうです。</description>
     </item>

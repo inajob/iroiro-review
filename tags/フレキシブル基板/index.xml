@@ -17,7 +17,7 @@
       <pubDate>Wed, 01 Apr 2020 23:00:21 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E5%BD%A2%E7%8A%B6%E8%A8%98%E6%86%B6%E5%90%88%E9%87%91%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E6%AD%A9%E3%81%8F%E5%9F%BA%E6%9D%BF/</guid>
-      <description>&lt;img src="/img/walking-board.jpg"&gt;Robot-ants that can jump, communicate and work together から発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/walking-board.jpg"&gt;Robot-ants that can jump, communicate and work together から発見。画像もここから転載。
 形状記憶合金を使った歩く基板の作例です。 ぴょんぴょんとジャンプするような動きで昆虫のように動く基板が印象的です。
 ロボットのようなものはどうしてもモーターなどで大きく、重くなりがちですが、フレキシブル基板と形状記憶合金を使うことで非常に軽量に仕上げているのが特徴です。
 さらにこのロボットは「蟻」を参考にしているらしく、複数台が協調して動作するなどの機能もあるようです。
@@ -30,7 +30,7 @@
       <pubDate>Sun, 29 Mar 2020 23:00:28 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%E5%9F%BA%E6%9D%BF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E8%87%AA%E8%BA%AB%E3%81%A7%E6%8C%AF%E5%8B%95%E3%81%99%E3%82%8Bpov%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</guid>
-      <description>&lt;img src="/img/flex-pov.jpg"&gt;FlexLEDから発見。画像もここから転載
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/flex-pov.jpg"&gt;FlexLEDから発見。画像もここから転載
 POVディスプレイは電子工作界隈では有名な作例です。 自転車のスポークなどにフルカラーLEDをつけて、回転させながらLEDを制御すると、残像により少ないLEDで大きなディスプレイのようなものを作ることができます。
 この記事で紹介しているのはフレキシブル基板を使って作成したPOVです。 フレキシブル基板自体にコイル状のパターンを形成し、それにより電磁誘導でフレキシブル基板自体を振動させます。この振動に合わせて先っぽについた2色のLEDを制御してPOVを実現しています。
 フレキシブル基板は基板自体がたわむので、今までの基板ではできなかったこういう技ができるという良い例です。結果として安くでこういう複雑な仕組みを実現できそうです。
@@ -43,7 +43,7 @@ POVディスプレイは電子工作界隈では有名な作例です。 自転�
       <pubDate>Mon, 24 Feb 2020 23:00:18 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%83%AC%E3%82%AD%E3%82%B7%E3%83%96%E3%83%AB%E5%9F%BA%E6%9D%BF%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%83%81%E3%82%A7%E3%83%83%E3%82%AB%E3%83%BC/</guid>
-      <description>&lt;img src="/img/floppy-tester.jpg"&gt;Floppy Testerから発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/floppy-tester.jpg"&gt;Floppy Testerから発見。画像もここから転載。
 フレキシブル基板を使って作ったバッテリーチェッカーです。 フレキシブル基板はまだまだ馴染みがない技術ですが、この作例のように今までは基板とプルーブなど2つの要素が必要だったバッテリーチェッカーを1つの基板で実現するようなこともできることを知りました。（すぐに折れちゃいそうだけどどうなんだろう？）</description>
     </item>
     
@@ -53,7 +53,7 @@ POVディスプレイは電子工作界隈では有名な作例です。 自転�
       <pubDate>Sun, 26 Jan 2020 23:00:44 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%83%AC%E3%82%AD%E3%82%B7%E3%83%96%E3%83%AB%E5%9F%BA%E6%9D%BF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E8%A1%A8%E7%A4%BA%E6%A9%9F%E4%BB%98%E3%81%8D%E3%81%AE%E6%8C%87%E8%BC%AA/</guid>
-      <description>&lt;img src="/img/flex-led-ring.png"&gt;LED Ringから発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/flex-led-ring.png"&gt;LED Ringから発見。画像もここから転載。
 最近はフレキシブル基板も比較的簡単に発注できるようになってきています。 フレキシブル基板ならではの作例にはどんなものがあるのか、今まさに様々なプロダクトが作られようとしています。
 この記事で紹介しているのはドットマトリクス表示機を搭載した指輪です。
 バッテリーも非常に小型のCR311（釣りのウキなどに使われるような電池？）を利用しているようで、指輪サイズで作ることもそれほど非現実的ではないようです。</description>
