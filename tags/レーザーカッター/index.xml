@@ -6,10 +6,23 @@
     <description>Recent content in レーザーカッター on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 09 Nov 2020 11:00:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Jan 2021 10:00:08 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>アクリル板をうまく使ったWordClock</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E6%9D%BF%E3%82%92%E3%81%86%E3%81%BE%E3%81%8F%E4%BD%BF%E3%81%A3%E3%81%9Fwordclock/</link>
+      <pubDate>Tue, 26 Jan 2021 10:00:08 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E6%9D%BF%E3%82%92%E3%81%86%E3%81%BE%E3%81%8F%E4%BD%BF%E3%81%A3%E3%81%9Fwordclock/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/acrylic-wordclock.jpg"&gt;Word Clock base on RGB LED WS2812Bから発見。画像もここから転載。
+マトリクス上にアルファベットがちりばめられた見た目が特徴的なWordClockですが、この記事で紹介しているのは、ちょっと見た目が違うタイプのWordClockです。
+写真を見れば一目瞭然、櫛状のアクリル板の細いスリット部分に時刻を表す英単語がちりばめらえれているという、新しい構造のWord Clockです。
+アクリル板を櫛状に加工することで、部品点数を減らしている点が画期的だと感じました。
+ </description>
+    </item>
     
     <item>
       <title>からくりで関数をプロットする装置</title>
