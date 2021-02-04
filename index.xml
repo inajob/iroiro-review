@@ -6,10 +6,22 @@
     <description>Recent content in inajobがいろいろ紹介するサイトです on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 02 Feb 2021 23:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Feb 2021 23:00:19 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>1画素のセンサーを大量に並べて作ったイメージセンサ</title>
+      <link>https://inajob.github.io/iroiro-review/post/1%E7%94%BB%E7%B4%A0%E3%81%AE%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92%E5%A4%A7%E9%87%8F%E3%81%AB%E4%B8%A6%E3%81%B9%E3%81%A6%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%BB%E3%83%B3%E3%82%B5/</link>
+      <pubDate>Wed, 03 Feb 2021 23:00:19 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/1%E7%94%BB%E7%B4%A0%E3%81%AE%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92%E5%A4%A7%E9%87%8F%E3%81%AB%E4%B8%A6%E3%81%B9%E3%81%A6%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%BB%E3%83%B3%E3%82%B5/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/i-made-my-own-image-sensor.png"&gt;IMAGE SENSOR FROM DISCRETE PARTS DELIVERS GLORIOUS 1-KILOPIXEL IMAGESから発見。画像もここから転載。
+ぎっしりと敷き詰められた1画素のイメージセンサ、これを使ってデジタルカメラを作っているという話です。
+今や高密度なイメージセンサーを搭載したデジタルカメラを安くで手に入れることができますが、その仕組みはブラックボックス的になってしまっています。このように基礎的な部品と原理の組み合わせでそれを再現することで、複雑なイメージセンサの仕組みも少しはわかりやすくなるのでは？と感じました。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタで作った部品を頑丈にするために表面に接着剤を塗るというHACK</title>
