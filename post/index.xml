@@ -6,10 +6,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 06 Feb 2021 23:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Feb 2021 11:00:55 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>USB接続のはんだごてを改造して音楽を再生する</title>
+      <link>https://inajob.github.io/iroiro-review/post/usb%E6%8E%A5%E7%B6%9A%E3%81%AE%E3%81%AF%E3%82%93%E3%81%A0%E3%81%94%E3%81%A6%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E9%9F%B3%E6%A5%BD%E3%82%92%E5%86%8D%E7%94%9F%E3%81%99%E3%82%8B/</link>
+      <pubDate>Mon, 08 Feb 2021 11:00:55 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/usb%E6%8E%A5%E7%B6%9A%E3%81%AE%E3%81%AF%E3%82%93%E3%81%A0%E3%81%94%E3%81%A6%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E9%9F%B3%E6%A5%BD%E3%82%92%E5%86%8D%E7%94%9F%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ts80-music.jpg"&gt;YOUR TS80 – MUSIC PLAYERから発見。画像もここから転載。
+TS80というUSB給電で動作するはんだごてがあるのですが、このはんだごては、コテの部分の接続にオーディオジャックを用いています。
+これ自体はどうかと思うのですが、この記事ではそれを逆手にとって、そこから音楽を流すように改造してしまっています。
+本来のものとは違う用途に改造するというのは、ハッカー心がくすぐられて非常に面白いです。このはんだごてはOLEDも搭載しているため、ほかにも様々な改造ができそうです。
+ </description>
+    </item>
     
     <item>
       <title>豆腐をプレスするIoTガジェット</title>

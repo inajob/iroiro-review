@@ -8,12 +8,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>
       
-  豆腐をプレスするIoTガジェット &ndash; inajobのいろいろレビュー
+  USB接続のはんだごてを改造して音楽を再生する &ndash; inajobのいろいろレビュー
 
     </title>
     
     
-    <meta name="description" property="og:description" content="豆腐をプレスするためのIoTガジェットを紹介します|">
+    <meta name="description" property="og:description" content="USB接続のはんだごてを改造して音楽を再生するというHACKを紹介します。|">
     
 
     <meta name="apple-mobile-web-app-title" content="inajobのいろいろレビュー">
@@ -22,16 +22,16 @@
     
     
 
-    <meta property="og:title" content="豆腐をプレスするIoTガジェット | inajobのいろいろレビュー">
-    <meta property="og:description" content="豆腐をプレスするためのIoTガジェットを紹介します|">
+    <meta property="og:title" content="USB接続のはんだごてを改造して音楽を再生する | inajobのいろいろレビュー">
+    <meta property="og:description" content="USB接続のはんだごてを改造して音楽を再生するというHACKを紹介します。|">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@ina_ani">
     <meta name="twitter:creator" content="@ina_ani">
-    <meta name="twitter:title" content="豆腐をプレスするIoTガジェット | inajobのいろいろレビュー">
-    <meta name="twitter:description" content="豆腐をプレスするためのIoTガジェットを紹介します|">
+    <meta name="twitter:title" content="USB接続のはんだごてを改造して音楽を再生する | inajobのいろいろレビュー">
+    <meta name="twitter:description" content="USB接続のはんだごてを改造して音楽を再生するというHACKを紹介します。|">
     
-    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/tofupresto.jpg">
-    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/tofupresto.jpg">
+    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/ts80-music.jpg">
+    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/ts80-music.jpg">
     
     
     <meta name="google-site-verification" content="Wjrrx4mV4IokyVrRy-5rjpG1sfwkjQ-uVRiXhMMXhW8" />
@@ -100,7 +100,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 <div class="Subhead">
   <div class="Subhead-heading">
-    <div class="h1 mt-3 mb-1">豆腐をプレスするIoTガジェット</div>
+    <div class="h1 mt-3 mb-1">USB接続のはんだごてを改造して音楽を再生する</div>
   </div>
   <div class="Subhead-description">
     
@@ -108,21 +108,17 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 
 
-<a href='/iroiro-review/tags/%E6%96%99%E7%90%86' class="muted-link">
-  <span class="Label" style="background-color:#0099dd;">料理</span>
-</a>
-
-<a href='/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF' class="muted-link">
-  <span class="Label" style="background-color:#0099dd;">3Dプリンタ</span>
+<a href='/iroiro-review/tags/hack' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">HACK</span>
 </a>
 
 
 
     
     <div class="float-md-right">
-      <span title="Lastmod: 2021-02-06. Published at: 2021-02-06.">
+      <span title="Lastmod: 2021-02-08. Published at: 2021-02-08.">
         
-          Published: 2021-02-06
+          Published: 2021-02-08
         
       </span>
     </div>
@@ -132,24 +128,33 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <article>
   
   <section class="pb-6 mb-3 border-bottom">
-    <img src="https://inajob.github.io/iroiro-review/img/tofupresto.jpg" />
-    <p><a href="https://devpost.com/software/tofupresto">TofuPresto</a>から発見。画像もここから転載。</p>
+    <img src="https://inajob.github.io/iroiro-review/img/ts80-music.jpg" />
+    <p><a href="https://hackaday.com/2019/12/31/your-ts80-music-player/">YOUR TS80 – MUSIC PLAYER</a>から発見。画像もここから転載。</p>
 
-<p>あまり一般的ではありませんが、豆腐をプレスして食べるという習慣があるようです(主に海外？）。</p>
+<p>TS80というUSB給電で動作するはんだごてがあるのですが、このはんだごては、コテの部分の接続にオーディオジャックを用いています。</p>
 
-<p>TofuPrestoはこの豆腐をプレスする作業を支援してくれる装置です。タッパーの上に圧をかけるための板が内蔵されており、時間とともに豆腐を押しつぶすというものです。</p>
+<p>これ自体はどうかと思うのですが、この記事ではそれを逆手にとって、そこから音楽を流すように改造してしまっています。</p>
 
-<p>料理の下ごしらえのプロセスでこのようなガジェットを作るのは面白いと感じました。</p>
+<p>本来のものとは違う用途に改造するというのは、ハッカー心がくすぐられて非常に面白いです。このはんだごてはOLEDも搭載しているため、ほかにも様々な改造ができそうです。</p>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/aose7zWV1fM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   </section>
 
-  <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3"><a href="/iroiro-review/post/usb%E6%8E%A5%E7%B6%9A%E3%81%AE%E3%81%AF%E3%82%93%E3%81%A0%E3%81%94%E3%81%A6%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E9%9F%B3%E6%A5%BD%E3%82%92%E5%86%8D%E7%94%9F%E3%81%99%E3%82%8B/">&lt;- 前の記事 - USB接続のはんだごてを改造して音楽を再生する<img class="rect" src="https://inajob.github.io/iroiro-review/img/ts80-music.jpg" /></a></div>
-  <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3"><a href="/iroiro-review/post/1%E7%94%BB%E7%B4%A0%E3%81%AE%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92%E5%A4%A7%E9%87%8F%E3%81%AB%E4%B8%A6%E3%81%B9%E3%81%A6%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%BB%E3%83%B3%E3%82%B5/"><img class="rect" src="https://inajob.github.io/iroiro-review/img/i-made-my-own-image-sensor.png" />次の記事 - 1画素のセンサーを大量に並べて作ったイメージセンサ - &gt;</a></div>
+  <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3"></div>
+  <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3"><a href="/iroiro-review/post/%E8%B1%86%E8%85%90%E3%82%92%E3%83%97%E3%83%AC%E3%82%B9%E3%81%99%E3%82%8Biot%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/"><img class="rect" src="https://inajob.github.io/iroiro-review/img/tofupresto.jpg" />次の記事 - 豆腐をプレスするIoTガジェット - &gt;</a></div>
 
   
 
 <h3>関連記事</h3>
 <div>
+  
+  <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3">
+    <a href="/iroiro-review/post/1%E7%94%BB%E7%B4%A0%E3%81%AE%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92%E5%A4%A7%E9%87%8F%E3%81%AB%E4%B8%A6%E3%81%B9%E3%81%A6%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%BB%E3%83%B3%E3%82%B5/">
+      <img class="rect" src="https://inajob.github.io/iroiro-review/img/i-made-my-own-image-sensor.png" />
+      1画素のセンサーを大量に並べて作ったイメージセンサ
+    </a>
+  </div>
   
   <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3">
     <a href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E9%83%A8%E5%93%81%E3%82%92%E9%A0%91%E4%B8%88%E3%81%AB%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E8%A1%A8%E9%9D%A2%E3%81%AB%E6%8E%A5%E7%9D%80%E5%89%A4%E3%82%92%E5%A1%97%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86hack/">
@@ -159,30 +164,23 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
   </div>
   
   <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3">
-    <a href="/iroiro-review/post/%E6%8A%98%E3%82%8A%E7%95%B3%E3%81%BF%E5%BC%8F%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF-1/">
-      <img class="rect" src="https://inajob.github.io/iroiro-review/img/folding-end3.png" />
-      もう一つの折り畳み式の3Dプリンタ
+    <a href="/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E6%B0%B4%E5%8A%9B%E7%99%BA%E9%9B%BB%E6%A9%9F/">
+      <img class="rect" src="https://inajob.github.io/iroiro-review/img/scraphydrogenerator.jpg" />
+      安価な自作の水力発電機
     </a>
   </div>
   
   <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3">
-    <a href="/iroiro-review/post/%E5%8F%A4%E7%B4%99%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%923d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E5%9E%8B%E3%81%A7%E3%83%97%E3%83%AC%E3%82%B9%E3%81%97%E3%81%A6%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B/">
-      <img class="rect" src="https://inajob.github.io/iroiro-review/img/recycle-paper.jpg" />
-      古紙を使ったオブジェを3Dプリンタ製の型でプレスして作成する
+    <a href="/iroiro-review/post/vga%E7%AB%AF%E5%AD%90%E3%82%92i2c%E3%81%AE%E5%85%A5%E5%87%BA%E5%8A%9B%E3%81%A8%E3%81%97%E3%81%A6%E6%89%B1%E3%81%86/">
+      <img class="rect" src="https://inajob.github.io/iroiro-review/img/vga-as-i2c.png" />
+      VGA端子をI2Cの入出力として扱う
     </a>
   </div>
   
   <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3">
-    <a href="/iroiro-review/post/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84cyberdeck%E3%81%AE%E4%BD%9C%E4%BE%8B/">
-      <img class="rect" src="https://inajob.github.io/iroiro-review/img/cyberdack-mk2.jpg" />
-      かっこいいCyberdeckの作例
-    </a>
-  </div>
-  
-  <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3">
-    <a href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%89%E3%81%9B%E3%82%93%E7%8A%B6%E3%81%AE%E9%9D%A2%E7%99%BD%E3%81%84%E6%99%82%E8%A8%88/">
-      <img class="rect" src="https://inajob.github.io/iroiro-review/img/spiral-clock.jpg" />
-      3Dプリンタ製のらせん状の面白い時計
+    <a href="/iroiro-review/post/%E3%83%81%E3%83%83%E3%83%97%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%E5%B0%82%E7%94%A8%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4/">
+      <img class="rect" src="https://inajob.github.io/iroiro-review/img/gameboy-walkman.jpg" />
+      チップチューン専用のゲームボーイ
     </a>
   </div>
   
@@ -212,7 +210,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           }(document, 'script', 'facebook-jssdk'));</script>
 
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/%E8%B1%86%E8%85%90%E3%82%92%E3%83%97%E3%83%AC%E3%82%B9%E3%81%99%E3%82%8Biot%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/" 
+            data-href="/iroiro-review/post/usb%E6%8E%A5%E7%B6%9A%E3%81%AE%E3%81%AF%E3%82%93%E3%81%A0%E3%81%94%E3%81%A6%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E9%9F%B3%E6%A5%BD%E3%82%92%E5%86%8D%E7%94%9F%E3%81%99%E3%82%8B/" 
             data-layout="button_count">
           </div>
         
@@ -245,7 +243,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           
   
     <div id="toc" class="Box Box--blue mb-3">
-      <b>豆腐をプレスするIoTガジェット</b>
+      <b>USB接続のはんだごてを改造して音楽を再生する</b>
       
     </div>
   
@@ -261,7 +259,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
         
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/%E8%B1%86%E8%85%90%E3%82%92%E3%83%97%E3%83%AC%E3%82%B9%E3%81%99%E3%82%8Biot%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/" 
+            data-href="/iroiro-review/post/usb%E6%8E%A5%E7%B6%9A%E3%81%AE%E3%81%AF%E3%82%93%E3%81%A0%E3%81%94%E3%81%A6%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E9%9F%B3%E6%A5%BD%E3%82%92%E5%86%8D%E7%94%9F%E3%81%99%E3%82%8B/" 
             data-layout="button_count">
           </div>
         
