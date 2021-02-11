@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>プログラミング言語 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E/</link>
+    <description>Recent content in プログラミング言語 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Thu, 11 Feb 2021 10:00:14 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>画像1枚がプログラムとなるプログラミング言語</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%94%BB%E5%83%8F1%E6%9E%9A%E3%81%8C%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%A8%E3%81%AA%E3%82%8B%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E/</link>
+      <pubDate>Thu, 11 Feb 2021 10:00:14 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%94%BB%E5%83%8F1%E6%9E%9A%E3%81%8C%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%A8%E3%81%AA%E3%82%8B%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/piet.png"&gt;Piet Program Galleryから発見。画像もここから転載。
+画像がプログラムのソースとなるという面白いプログラミング言語です。 ただ動作させるだけではなく、見た目の美しさなどもこだわりたくなってきます。
+円周率を求めるために円の画像を基にピクセルを数えて面積を計算するという面白テクニックも披露されています。
+プログラミングをテキストで行うという固定観念に縛られないことで、ある種のプログラムはもしかしたら、より書きやすくなることもあるのかなと感じました。</description>
+    </item>
+    
+  </channel>
+</rss>
+
