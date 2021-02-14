@@ -19,7 +19,8 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/engravinator.jpg"&gt;AN OPEN HARDWARE LASER ENGRAVER FOR EVERYONEから発見。画像もここから転載。
 Engravinatorはオープンソースのレーザー彫刻機です。 よくあるむき出しのレーザー彫刻機とは違い、遮光板で全体が囲われているため、安全性が高そうです。
 残念ながらレーザーカッターとしての用途は想定していないようですが、レーザー彫刻機としてはなかなか良さそうに見えます。
-また、こういうレーザー彫刻機の設計がオープンソースにされていることで、お古の3Dプリンタをばらしてレーザー彫刻機に組み替えるなどができ、エコでリーズナブルなソリューションとしても活用できそうです。</description>
+また、こういうレーザー彫刻機の設計がオープンソースにされていることで、お古の3Dプリンタをばらしてレーザー彫刻機に組み替えるなどができ、エコでリーズナブルなソリューションとしても活用できそうです。
+ </description>
     </item>
     
     <item>
@@ -30,7 +31,8 @@ Engravinatorはオープンソースのレーザー彫刻機です。 よくあ�
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E5%A4%A7%E3%81%8D%E3%81%AAcnc%E3%83%9E%E3%82%B7%E3%83%B3/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/big-cnc.jpg"&gt;Low Cost DIY CNC Routerから発見。画像もここから転載。
 机を改造して大きなCNCマシンを作成しています。 これだけ大きなCNCマシンがあればかなり大掛かりな装置を作ることができそうです。
-この大きさ故、結構パワフルな設計が必要です、動力を伝えるためのチェーン、大容量の電源とそれを制御するリレー、埃を吸い取るための掃除機など、まねして作るのは大変そうです。</description>
+この大きさ故、結構パワフルな設計が必要です、動力を伝えるためのチェーン、大容量の電源とそれを制御するリレー、埃を吸い取るための掃除機など、まねして作るのは大変そうです。
+ </description>
     </item>
     
     <item>
@@ -42,7 +44,8 @@ Engravinatorはオープンソースのレーザー彫刻機です。 よくあ�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/did-plotter.jpg"&gt;d.i.d. - Scalable Pen Plotterから発見。画像もここから転載。
 3Dプリンタを使って作られたオープンソースのプロッタです。 データはすべてオープンソースとなっているため、3Dプリンタと、いくつかのパーツがあれば誰でも簡単に同じものを作ることができます。
 キットとしての販売も考えているようで、そのためのアンケートなども行っているようです。
-非常にシンプルな構造ですが、小さくまとまっており、そこそこ精度もよさそうなので、プロッタを作りたい人にはお勧めのプロジェクトです。</description>
+非常にシンプルな構造ですが、小さくまとまっており、そこそこ精度もよさそうなので、プロッタを作りたい人にはお勧めのプロジェクトです。
+ </description>
     </item>
     
     <item>
@@ -56,7 +59,8 @@ Engravinatorはオープンソースのレーザー彫刻機です。 よくあ�
 その大きさもあって筐体の重さは15Kgとかなり重たいです。ステッピングモーターはギアで減速され1度あたり177.778ステップとかなり高精度となっています。
 制御はRaspberry Piで行っています。
 また描画データを用意する方法としてturtletoyというサイトを紹介しており、こちらはこちらで非常に興味深いです。
-3Dプリンタなどを使ったペンプロッタの作例は数多くありますが、ここまで大きく、かつ精度が良いものは珍しいと感じました。</description>
+3Dプリンタなどを使ったペンプロッタの作例は数多くありますが、ここまで大きく、かつ精度が良いものは珍しいと感じました。
+ </description>
     </item>
     
     <item>
@@ -67,7 +71,8 @@ Engravinatorはオープンソースのレーザー彫刻機です。 よくあ�
       <guid>https://inajob.github.io/iroiro-review/post/pvc%E3%83%91%E3%82%A4%E3%83%97%E3%82%92%E5%A5%BD%E3%81%8D%E3%81%AA%E5%BD%A2%E3%81%AB%E5%8A%A0%E5%B7%A5%E3%81%99%E3%82%8Bcnc/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/pvc-pipe-cnc.jpg"&gt;The Pipeline Projectから転載。画像もここから転載。
 DIYの基本は「安く入手できる汎用品」を加工することです。PVCパイプもそんな素材の一つです。 筒状のパイプは2軸があれば加工できるため、3軸での加工よりはるかに簡単です。
-径の大きなパイプを使うことで、椅子の背もたれやスケートボードなどを作っています。</description>
+径の大きなパイプを使うことで、椅子の背もたれやスケートボードなどを作っています。
+ </description>
     </item>
     
     <item>
@@ -78,7 +83,8 @@ DIYの基本は「安く入手できる汎用品」を加工することです�
       <guid>https://inajob.github.io/iroiro-review/post/%E7%B5%B5%E7%AD%86%E3%81%AB%E3%82%88%E3%82%8B%E8%87%AA%E5%8B%95%E6%8F%8F%E7%94%BB%E8%A3%85%E7%BD%AE/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/cnc-paint-bot.jpg"&gt;COLOR YOUR WORLD WITH THIS CNC PAINTING ROBOTから発見。画像もここから転載。
 絵筆を使った自動描画装置の作例です。 特にこの作例で面白いのは絵筆の掃除部分です。洗濯機のような装置に筆を突っ込んで洗浄したのちに、筆を拭いてから別の色を筆に塗り付けています。
-ペンを使ったCNCの作例は多く見かけるようになりましたが、筆を使ったCNCはまだまだ開発途上のようで、今後の発展が楽しみです。</description>
+ペンを使ったCNCの作例は多く見かけるようになりましたが、筆を使ったCNCはまだまだ開発途上のようで、今後の発展が楽しみです。
+ </description>
     </item>
     
     <item>
@@ -89,7 +95,8 @@ DIYの基本は「安く入手できる汎用品」を加工することです�
       <guid>https://inajob.github.io/iroiro-review/post/%E5%9F%BA%E6%9D%BF%E3%82%92%E5%88%87%E5%89%8A%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AEcnc%E3%83%9E%E3%82%B7%E3%83%B3/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/antcnc.jpg"&gt;Mill Single or Dual-Layer PCBs with Ant’s Desktop CNC Machineから発見。画像もここから転載。
 CNCマシンを使って基板を「掘る」というのは、よく見るテクニックですが、それに特化したCNCを作ろうというのがこのプロジェクトです。
-基板に特化することで、より精度よく、コンパクトに、安く実現することを目指しているようです。 成果はオープンソースで公開されているのでまねして作ってみるのも面白そうです。</description>
+基板に特化することで、より精度よく、コンパクトに、安く実現することを目指しているようです。 成果はオープンソースで公開されているのでまねして作ってみるのも面白そうです。
+ </description>
     </item>
     
     <item>
@@ -100,7 +107,8 @@ CNCマシンを使って基板を「掘る」というのは、よく見るテ�
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E3%82%92%E5%B0%84%E5%87%BA%E3%81%97%E3%81%A6%E6%A8%A1%E6%A7%98%E3%82%92%E6%8F%8F%E3%81%8F%E8%A3%85%E7%BD%AE/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/cnc-choco.png"&gt;SYRINGE PUMP TURNS CNC MACHINE INTO A FROSTING BOT から発見。画像もここから転載。
 3Dプリンタを活用して作成したオリジナルのCNCマシンです。チョコレートを絞り出すシリンダを装着することで、お菓子にお絵かきする装置を作成しています。
-これがあれば、よく誕生日ケーキなどで見かける名前入りのプレートなどをコンピュータ制御で作ることができそうです。</description>
+これがあれば、よく誕生日ケーキなどで見かける名前入りのプレートなどをコンピュータ制御で作ることができそうです。
+ </description>
     </item>
     
     <item>
@@ -111,7 +119,8 @@ CNCマシンを使って基板を「掘る」というのは、よく見るテ�
       <guid>https://inajob.github.io/iroiro-review/post/cnc%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E9%87%91%E5%9E%8B%E3%81%AB%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%AC%E3%83%B3%E3%81%A7%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%92%E6%B3%A8%E5%85%A5%E3%81%97%E3%81%A6%E3%83%91%E3%83%BC%E3%83%84%E3%82%92%E4%BD%9C%E3%82%8B/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/glue-mold.jpg"&gt;INJECTION MOLDING WITH A HOT GLUE GUNから発見。画像もここから転載。
 プラスチック部品を作るのに3Dプリンタは便利ですが、やはり金型を使ったキャスティングのほうが良いことも多いです。 難点として金型を作るのが大変というのがありますが、この動画ではCNCを使って金型を作り、グルーガンのグルーを詰めてプラスチックの部品を作っています。
-この手法を使うと、大きなケースなどを作ることは難しそうですが、小さいサイズのものであれば手軽に量産することができそうです。</description>
+この手法を使うと、大きなケースなどを作ることは難しそうですが、小さいサイズのものであれば手軽に量産することができそうです。
+ </description>
     </item>
     
     <item>

@@ -18,7 +18,8 @@
       <guid>https://inajob.github.io/iroiro-review/post/arduino%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%AB%E9%80%9A%E4%BF%A1%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/arduino-keyboard.jpg"&gt;ARDUINO KEYBOARD SERIAL OUTPUTから発見。画像もここから転載。
 Arduinoによって作られた、シリアル通信で入力を受け取ることができるコンパクトなキーボードの作例を紹介します。
-大量のキーの入力を検知するたに4x10のマトリクス配線を利用しています。 Arduinoにキーボードが搭載できると、「ポケコン」のようなガジェットを簡単に作れるようになるため、夢が広がります。</description>
+大量のキーの入力を検知するたに4x10のマトリクス配線を利用しています。 Arduinoにキーボードが搭載できると、「ポケコン」のようなガジェットを簡単に作れるようになるため、夢が広がります。
+ </description>
     </item>
     
     <item>
@@ -42,7 +43,8 @@ CPUにはArduino Pro Microをつかい3つのキーと1つのロータリーエ�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/knobo.jpg"&gt;Knoboから発見。画像もここから転載。
 knoboは点字形式で入力できる一風変わった入力装置です。右側の6つの黒いスイッチを点字と同じように押すことでアルファベットを入力することができます。
 他のキーはスペースや改行に使います。また左上のダイアルでスクロールなどもできます。
-製作の背景としては、Text-to-Speechなどの発達により「点字」の利用がどんどん減っていることを挙げています。Text-to-speechは便利ですが、それはでは読み書きの能力は養えない　ということを課題に感じ、このデバイスを作成しているそうです。</description>
+製作の背景としては、Text-to-Speechなどの発達により「点字」の利用がどんどん減っていることを挙げています。Text-to-speechは便利ですが、それはでは読み書きの能力は養えない　ということを課題に感じ、このデバイスを作成しているそうです。
+ </description>
     </item>
     
   </channel>

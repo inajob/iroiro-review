@@ -18,7 +18,8 @@
       <guid>https://inajob.github.io/iroiro-review/post/oled%E3%81%AB%E3%82%88%E3%82%8B%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B0%E3%83%A9%E3%82%B9/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/oled-smart-glass.jpg"&gt;A Pair of AI-Powered E.D.I.T.H Smart Glasses You Can Make Yourselfから発見。画像もここから転載。
 眼鏡に透明なOLEDを装着して作られたスマートグラスの作例です。 表示するのはカメラから文字に関する説明です。仕組みとしてはOpenCVでカメラに映った文字を切り出して、WolfromAlphaで検索した結果を表示しているようです。
-動画では実際に使用している様子も表示されており、実は結構実用的なデバイスなのでは？と感じました。</description>
+動画では実際に使用している様子も表示されており、実は結構実用的なデバイスなのでは？と感じました。
+ </description>
     </item>
     
     <item>
@@ -42,7 +43,8 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/oled-remote.jpg"&gt;Two way OLED remoteにて発見。画像もここから掲載。（2019/07/12 ページがなくなってしまっているようです 残念・・）
 よくあるOLED付きの開発ボードかな、と思ったら無線通信機能がオプションとしてあるようです。
 RFM69HW 433Mhz moduleと書かれていて、確かに写真にもそのモジュールをはんだ付けできそうなフットプリントがあります。
-調べると300円程度で入手できる無線モジュールのようです。残念ながら日本では技適がないため利用できませんが・・</description>
+調べると300円程度で入手できる無線モジュールのようです。残念ながら日本では技適がないため利用できませんが・・
+ </description>
     </item>
     
     <item>
@@ -56,7 +58,8 @@ RFM69HW 433Mhz moduleと書かれていて、確かに写真にもそのモジ�
 これを解決する方法はいくつもありますが、この記事では、I2C接続のClockの線だけを共用にしてDataの線を別のGPIOに割り当てることで、ピンを節約する方法を紹介しています。
 通常ArduinoではAVRに内蔵されているハードウェアI2Cの機能を使いますが、この方法を使うためにはソフトウェアでI2Cを扱う必要があるため、そのためのライブラリを作ったようです。 bitbank2/Multi_OLED
 I2C接続のOLEDは非常に安く手に入るので、これらを複数組み合わせて作品を作るのは良いアイデアのように思います。
-ぜひこのライブラリで挑戦してみてください。</description>
+ ぜひこのライブラリで挑戦してみてください。
+ </description>
     </item>
     
   </channel>

@@ -19,7 +19,8 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/acrylic-wordclock.jpg"&gt;Word Clock base on RGB LED WS2812Bから発見。画像もここから転載。
 マトリクス上にアルファベットがちりばめられた見た目が特徴的なWordClockですが、この記事で紹介しているのは、ちょっと見た目が違うタイプのWordClockです。
 写真を見れば一目瞭然、櫛状のアクリル板の細いスリット部分に時刻を表す英単語がちりばめらえれているという、新しい構造のWord Clockです。
-アクリル板を櫛状に加工することで、部品点数を減らしている点が画期的だと感じました。</description>
+アクリル板を櫛状に加工することで、部品点数を減らしている点が画期的だと感じました。
+ </description>
     </item>
     
     <item>
@@ -30,7 +31,8 @@
       <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A%E3%81%A7%E9%96%A2%E6%95%B0%E3%82%92%E3%83%97%E3%83%AD%E3%83%83%E3%83%88%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/harmonic-anlyzer.png"&gt;Harmonic Analyzer : Mechanical Lasercut Signal Plotterから発見。画像もここから転載。
 からくりで計算をするというのは昔からたくさんの試みがなされてきました。ここで紹介するのもそういった装置の一つで、関数のグラフをプロットするものです。
-仕組みとしては、目的の関数を様々な周期のsin,cos波の合成関数として近似し（フーリエ級数展開）、たくさんのギアの回転をからくりで組み合わせて描画しているようです。</description>
+仕組みとしては、目的の関数を様々な周期のsin,cos波の合成関数として近似し（フーリエ級数展開）、たくさんのギアの回転をからくりで組み合わせて描画しているようです。
+ </description>
     </item>
     
     <item>
@@ -41,7 +43,8 @@
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E6%9D%BF%E3%81%AE%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%A7%E4%BD%9C%E3%82%8B%E7%A8%AE%E3%82%84%E3%82%8A%E5%99%A8/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/dropseed.png"&gt;Drop Seeder, Put those seeds in the soil quickから発見。画像もここから転載。
 農業とDIYは相性がよさそうですが、ここで紹介するのは「種まき」を効率よく行うためのソリューションです。
-アクリル板、MDF板をレーザーカットし、それらを組み合わせて、均等なグリッドに種をまくための装置を作成しています。</description>
+アクリル板、MDF板をレーザーカットし、それらを組み合わせて、均等なグリッドに種をまくための装置を作成しています。
+ </description>
     </item>
     
     <item>
@@ -52,7 +55,8 @@
       <guid>https://inajob.github.io/iroiro-review/post/%E5%B0%8F%E3%81%95%E3%81%AA%E8%93%8B%E3%81%A4%E3%81%8D%E3%81%AE%E8%A9%A6%E9%A8%93%E5%AE%98%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85%E9%83%A8%E5%93%81%E3%81%AE%E6%95%B4%E7%90%86%E6%96%B9%E6%B3%95/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/smd-organizer.jpg"&gt;SMD Components Organizerから発見。画像もここから転載（CC BY-NC-SA By Nikus）
 最近私も表面実装の部品を使うようになったのですが、部品が非常に細かく、どのように保存しておくかが悩ましいです。
-この記事で紹介しているのは小さな蓋つきの試験管に部品を入れる方法です。一見薬品のように見えますが、結構よいアイデアのように思います。見た目もかっこいいのも魅力の一つです。</description>
+この記事で紹介しているのは小さな蓋つきの試験管に部品を入れる方法です。一見薬品のように見えますが、結構よいアイデアのように思います。見た目もかっこいいのも魅力の一つです。
+ </description>
     </item>
     
     <item>
@@ -63,7 +67,7 @@
       <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E5%B0%8F%E5%9E%8B%E3%82%A8%E3%82%A2%E3%83%BC%E3%83%9B%E3%83%83%E3%82%B1%E3%83%BC%E5%8F%B0/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/air-hockey.jpg"&gt;DIY Low Cost Air Hockey Tableから発見。画像もここから転載。(CC BY-NC-SA By Technovation)
 木材、3Dプリンタなどを使って作ったエアーホッケー台です。エアーを送り出すのは掃除機の排気を利用しているようです。 イルミネーションやスコア表示など細かいところにこだわりが感じられます。
-以前紹介したフルサイズのエアーホッケー台はハードルが高い という人もこのサイズなら作りやすそうです。</description>
+ 以前紹介したフルサイズのエアーホッケー台はハードルが高い という人もこのサイズなら作りやすそうです。</description>
     </item>
     
     <item>
@@ -74,7 +78,8 @@
       <guid>https://inajob.github.io/iroiro-review/post/midi%E3%82%92%E5%87%BA%E5%8A%9B%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%83%8A/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/bandneon-midi.jpg"&gt;Concertina MIDI Controllerから発見。画像もここから転載。
 コンサーティーナというアコーディオンのような楽器をMIDI化した作例です。 利用しているボードはAdafruitのBluefeather 32u4で、BLE MIDIをつかい無線でMIDI信号を送信しています。
-スイッチはCherry MXスイッチを並べ、筐体はレーザーカッターで作成し、気圧センサーによりボリュームをコントロールしているようです。</description>
+スイッチはCherry MXスイッチを並べ、筐体はレーザーカッターで作成し、気圧センサーによりボリュームをコントロールしているようです。
+ConcertinaClip from David Ehnebuske on Vimeo.</description>
     </item>
     
     <item>
@@ -108,7 +113,8 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/pikachuonloom.jpg"&gt;OPEN SOURCE COMPUTER CONTROLLED LOOM WEAVES PIKACHU FOR YOUから発見。画像もここから転載。
 「機織り機」を3DプリンタやレーザーカッターでDIYした例を紹介します。 昔からある「機織り機」ですが、この作例では、任意の図案を織り込めるようにコンピュータ制御を取り入れているようです。
 機織りの基本となる縦の糸のパターンをコンピュータで制御することで、人間は何も考えず横糸を通せば絵柄の入った織物が作れるよいうようなもののようです。
-完全に自動化しないところが逆に好感が持てます。</description>
+完全に自動化しないところが逆に好感が持てます。
+ </description>
     </item>
     
     <item>
@@ -119,7 +125,8 @@
       <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E3%83%94%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%9E%E3%82%B7%E3%83%B3/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/pinball.jpg"&gt;Tabletop Pinball Machine Using Evive- Arduino Based Embedded Plaformから発見。画像もここから転載（CC BY-NC-SA By theSTEMpedia）
 ピンボールマシンは、とても面白いゲームです。 この記事ではレーザーカッターや3Dプリンタを使ってシンプルですが楽しそうなピンボールを作成しています。
-制御はSTEM用の環境であるeviveを使っているようです。</description>
+制御はSTEM用の環境であるeviveを使っているようです。
+ </description>
     </item>
     
     <item>
@@ -143,7 +150,8 @@
       <guid>https://inajob.github.io/iroiro-review/post/%E3%81%BB%E3%81%BC%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%97%E3%81%9F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/lp3d.jpg"&gt;LP3D: A fully lasercut kit 3D printerから発見。画像もここから転載。
 LP3Dはほぼすべての部品をレーザーカッターで作成した3Dプリンタ。記事に細かいことが書かれていませんが、写真を見る限り、本当にほとんどの部品をレーザーカットで作っているようです。
-直動機構はレーザーカットで作ったラックとピニオンを使っており、ステッピングモーターで動かしている。精度の問題でまだまだ苦労しているようですが、これが実現すれば今よりも低コストの3Dプリンタが実現できそうです。</description>
+直動機構はレーザーカットで作ったラックとピニオンを使っており、ステッピングモーターで動かしている。精度の問題でまだまだ苦労しているようですが、これが実現すれば今よりも低コストの3Dプリンタが実現できそうです。
+ </description>
     </item>
     
     <item>
@@ -155,7 +163,8 @@ LP3Dはほぼすべての部品をレーザーカッターで作成した3Dプ�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/cheese.jpeg"&gt;Retro Gaming… On a Cheeseburger? から発見。画像もここから転載。
 Raspberry Pi Zeroを使ったゲーム機。特筆すべきはこのゲーム機の形状です。
 このチーズバーガーを模した筐体は、レーザーカッターで切断したMDFを積層して作られています。 積層したMDFの側面をやすりがけして丸みのある形に加工しています。
-レーザーカッターを使った作例は、「いかにも」という風貌になりがちですが、このように手をかけることで、ここまでの質感を表現できることに驚きました。</description>
+レーザーカッターを使った作例は、「いかにも」という風貌になりがちですが、このように手をかけることで、ここまでの質感を表現できることに驚きました。
+ </description>
     </item>
     
   </channel>

@@ -18,7 +18,8 @@
       <guid>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E9%9F%B3%E6%A5%BD%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/boombox.jpg"&gt;DIY Portable Pocket Music Player Using ATtiny85 micro-controller(from SD-card)から発見。画像もここから転載。
 ATTiny85を使って作られた、SDカードに入ったWAVファイルを再生できる音楽プレーヤーです。スピーカーを内蔵しており、必要に応じてイアホンを取り付けることもできます。
-リチウムイオンバッテリーを内蔵しており、どこでも音楽を聴くことが出来ます。（ただし充電回路は貧弱なので、あまり真似しないほうがよさそうです。）</description>
+リチウムイオンバッテリーを内蔵しており、どこでも音楽を聴くことが出来ます。（ただし充電回路は貧弱なので、あまり真似しないほうがよさそうです。）
+ </description>
     </item>
     
     <item>
@@ -44,7 +45,8 @@ ATTiny85を使って作られた、SDカードに入ったWAVファイルを再�
 電子工作を組み合わせた「面白名刺」というのは結構目にしますが、この記事で紹介している名刺も非常にユニークです。
 この名刺には1列の5つのLEDが配置されており、これらが点滅します。これだだけでは意味が分かりませんが、名刺を振るとその残像がで文字を表示する！　というものです。
 手で振る動作と同期するために、チルトスイッチを使っています。
-CPUはATTiny85を使っており非常に単純な回路となっています。</description>
+CPUはATTiny85を使っており非常に単純な回路となっています。
+ </description>
     </item>
     
     <item>
@@ -66,7 +68,8 @@ ATTiny85で利用できるTFTライブラリです。 AVRのレジスタを直�
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%82%A4%E3%83%B3%E9%9B%BB%E6%B1%A0%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B45%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%83%9C%E3%83%BC%E3%83%89/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/matrix-led-badgejpg.jpg"&gt;Wearable LED Matrix Display Badgeから発見。画像もここから転載（CC BY-NC-SA By AmalMathew）
 シンプルな4×5のドットマトリクスLEDを搭載した、いわゆる「バッジ」です。 制御はATtiny85。Charliplexingを使って、少ないピンを最大限活用しています。
-構成要素は単純ですが、何とも言えないかわいさが印象的なボードです。</description>
+構成要素は単純ですが、何とも言えないかわいさが印象的なボードです。
+ </description>
     </item>
     
     <item>
