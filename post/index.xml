@@ -5,10 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 11 Feb 2021 10:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Feb 2021 11:00:59 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>お古の3DプリンタをCNCマシンに改造する</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8A%E5%8F%A4%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92cnc%E3%83%9E%E3%82%B7%E3%83%B3%E3%81%AB%E6%94%B9%E9%80%A0%E3%81%99%E3%82%8B/</link>
+      <pubDate>Sun, 14 Feb 2021 11:00:59 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8A%E5%8F%A4%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92cnc%E3%83%9E%E3%82%B7%E3%83%B3%E3%81%AB%E6%94%B9%E9%80%A0%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3d-printer-to-cnc.jpg"&gt;Hacking Old 3D Printer into CNC Machineから発見。画像もここから転載。
+お古の3Dプリンタを改造して、ドリル付きのCNCマシンを作成した例です。
+3Dプリンタは要するに3軸のステッピングモーターをX,Y,Zに動かすための装置です。CNCプロッタ以外にも、様々な装置に改造することができるでしょう。</description>
+    </item>
     
     <item>
       <title>画像1枚がプログラムとなるプログラミング言語</title>
