@@ -8,12 +8,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>
       
-  暗号化チップを搭載したArduino互換ボード &ndash; inajobのいろいろレビュー
+  電圧メーターを活用した新しい見た目の時計 &ndash; inajobのいろいろレビュー
 
     </title>
     
     
-    <meta name="description" property="og:description" content="ATmega4809と暗号化チップであるECC608を搭載した開発ボードを紹介します|">
+    <meta name="description" property="og:description" content="電圧メーターを流用して作られた、ちょっと変わった見た目の時計を紹介します。|">
     
 
     <meta name="apple-mobile-web-app-title" content="inajobのいろいろレビュー">
@@ -22,16 +22,16 @@
     
     
 
-    <meta property="og:title" content="暗号化チップを搭載したArduino互換ボード | inajobのいろいろレビュー">
-    <meta property="og:description" content="ATmega4809と暗号化チップであるECC608を搭載した開発ボードを紹介します|">
+    <meta property="og:title" content="電圧メーターを活用した新しい見た目の時計 | inajobのいろいろレビュー">
+    <meta property="og:description" content="電圧メーターを流用して作られた、ちょっと変わった見た目の時計を紹介します。|">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@ina_ani">
     <meta name="twitter:creator" content="@ina_ani">
-    <meta name="twitter:title" content="暗号化チップを搭載したArduino互換ボード | inajobのいろいろレビュー">
-    <meta name="twitter:description" content="ATmega4809と暗号化チップであるECC608を搭載した開発ボードを紹介します|">
+    <meta name="twitter:title" content="電圧メーターを活用した新しい見た目の時計 | inajobのいろいろレビュー">
+    <meta name="twitter:description" content="電圧メーターを流用して作られた、ちょっと変わった見た目の時計を紹介します。|">
     
-    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/seeed-crypto-atmega4809-ecc608.jpg">
-    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/seeed-crypto-atmega4809-ecc608.jpg">
+    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/voltmeter-clock.jpg">
+    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/voltmeter-clock.jpg">
     
     
     <meta name="google-site-verification" content="Wjrrx4mV4IokyVrRy-5rjpG1sfwkjQ-uVRiXhMMXhW8" />
@@ -100,7 +100,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 <div class="Subhead">
   <div class="Subhead-heading">
-    <div class="h1 mt-3 mb-1">暗号化チップを搭載したArduino互換ボード</div>
+    <div class="h1 mt-3 mb-1">電圧メーターを活用した新しい見た目の時計</div>
   </div>
   <div class="Subhead-description">
     
@@ -108,16 +108,8 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 
 
-<a href='/iroiro-review/tags/arduino' class="muted-link">
-  <span class="Label" style="background-color:#0099dd;">Arduino</span>
-</a>
-
-<a href='/iroiro-review/tags/atmega4809' class="muted-link">
-  <span class="Label" style="background-color:#0099dd;">ATmega4809</span>
-</a>
-
-<a href='/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89' class="muted-link">
-  <span class="Label" style="background-color:#0099dd;">開発ボード</span>
+<a href='/iroiro-review/tags/%E6%99%82%E8%A8%88' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">時計</span>
 </a>
 
 
@@ -136,15 +128,16 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <article>
   
   <section class="pb-6 mb-3 border-bottom">
-    <img src="https://inajob.github.io/iroiro-review/img/seeed-crypto-atmega4809-ecc608.jpg" />
-    <p><a href="https://www.seeedstudio.com/Seeeduino-Crypto-ATmega4809-ECC608-p-4369.html">Seeeduino Crypto (ATmega4809 &amp; ECC608)</a>から発見。画像もここから転載。</p>
-<p>Arduino互換の面白いボードです。新しいArduino Nano Everyなどにも使われているAATめが4809をコアとし、暗号化に特化したECC608というチップも搭載しています。</p>
-<p>この暗号化チップはSHA-256 &amp; HMAC Hash / AES-128を素早く計算することができるもののようで、メインCPUに負荷をかけることなく暗号化を実現することができます。</p>
+    <img src="https://inajob.github.io/iroiro-review/img/voltmeter-clock.jpg" />
+    <p><a href="https://www.instructables.com/id/Voltmeter-Clock/">Voltmeter Clock</a>から発見。画像もここから転載(CC-BY-SA By oliverb)。</p>
+<p>電圧計のパネルを改造して、時・分・秒を表ようにした時計ガジェットです。
+見慣れた時計とは異なりますが、なかなかおしゃれです。</p>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/fD-2ocHt7mk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   </section>
 
-  <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3"><a href="/iroiro-review/post/usb%E6%8E%A5%E7%B6%9A%E3%81%AE%E3%81%AF%E3%82%93%E3%81%A0%E3%81%94%E3%81%A6%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E9%9F%B3%E6%A5%BD%E3%82%92%E5%86%8D%E7%94%9F%E3%81%99%E3%82%8B/">&lt;- 前の記事 - USB接続のはんだごてを改造して音楽を再生する<img class="rect" src="https://inajob.github.io/iroiro-review/img/ts80-music.jpg" /></a></div>
-  <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3"><a href="/iroiro-review/post/%E9%9B%BB%E5%9C%A7%E3%83%A1%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E6%96%B0%E3%81%97%E3%81%84%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AE%E6%99%82%E8%A8%88/"><img class="rect" src="https://inajob.github.io/iroiro-review/img/voltmeter-clock.jpg" />次の記事 - 電圧メーターを活用した新しい見た目の時計 - &gt;</a></div>
+  <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3"><a href="/iroiro-review/post/%E6%9A%97%E5%8F%B7%E5%8C%96%E3%83%81%E3%83%83%E3%83%97%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Farduino%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3/">&lt;- 前の記事 - 暗号化チップを搭載したArduino互換ボード<img class="rect" src="https://inajob.github.io/iroiro-review/img/seeed-crypto-atmega4809-ecc608.jpg" /></a></div>
+  <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3"></div>
 
   
 
@@ -152,37 +145,30 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <div>
   
   <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3">
-    <a href="/iroiro-review/post/usb-c%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%81%AE%E4%BB%98%E3%81%84%E3%81%9Farduino-micro%E3%83%9C%E3%83%BC%E3%83%89/">
-      <img class="rect" src="https://inajob.github.io/iroiro-review/img/arduino-micro-c.jpg" />
-      USB-Cコネクタの付いたArduino Microボード
+    <a href="/iroiro-review/post/%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E6%99%82%E8%A8%88/">
+      <img class="rect" src="https://inajob.github.io/iroiro-review/img/dotmatrix-clock.jpg" />
+      ドットマトリクスLEDを活用した時計
     </a>
   </div>
   
   <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3">
-    <a href="/iroiro-review/post/%E5%9F%BA%E6%9D%BF%E3%81%8C%E7%9B%B4%E5%88%BA%E3%81%97%E3%81%A7%E3%81%8D%E3%82%8Barduino%E4%BA%92%E6%8F%9B%E6%A9%9F/">
-      <img class="rect" src="https://inajob.github.io/iroiro-review/img/miniduino-usb.png" />
-      基板がUSBポートに直刺しできるArduino互換機
+    <a href="/iroiro-review/post/%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E6%9D%BF%E3%82%92%E3%81%86%E3%81%BE%E3%81%8F%E4%BD%BF%E3%81%A3%E3%81%9Fwordclock/">
+      <img class="rect" src="https://inajob.github.io/iroiro-review/img/acrylic-wordclock.jpg" />
+      アクリル板をうまく使ったWordClock
     </a>
   </div>
   
   <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3">
-    <a href="/iroiro-review/post/type-c%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E6%90%AD%E8%BC%89%E3%81%AEarduino-nano/">
-      <img class="rect" src="https://inajob.github.io/iroiro-review/img/seeeduino-nano.png" />
-      Type-Cコネクタ搭載のArduino Nano
+    <a href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%89%E3%81%9B%E3%82%93%E7%8A%B6%E3%81%AE%E9%9D%A2%E7%99%BD%E3%81%84%E6%99%82%E8%A8%88/">
+      <img class="rect" src="https://inajob.github.io/iroiro-review/img/spiral-clock.jpg" />
+      3Dプリンタ製のらせん状の面白い時計
     </a>
   </div>
   
   <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3">
-    <a href="/iroiro-review/post/linux%E3%81%8C%E8%B5%B7%E5%8B%95%E3%81%99%E3%82%8B%E5%90%8D%E5%88%BA/">
-      <img class="rect" src="https://inajob.github.io/iroiro-review/img/businesscard.jpg" />
-      Linuxが起動する名刺
-    </a>
-  </div>
-  
-  <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3">
-    <a href="/iroiro-review/post/circuitpython%E3%81%8C%E5%8B%95%E3%81%8F%E5%B0%8F%E5%9E%8B%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/">
-      <img class="rect" src="https://inajob.github.io/iroiro-review/img/cb-deluxe.png" />
-      CircuitPythonが動く小型の開発ボード
+    <a href="/iroiro-review/post/%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E6%B6%B2%E6%99%B6%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%BC%A2%E5%AD%97%E8%A1%A8%E7%A4%BA%E3%81%AE%E6%99%82%E8%A8%88/">
+      <img class="rect" src="https://inajob.github.io/iroiro-review/img/kanji-clock.jpg" />
+      キャラクタ液晶ディスプレイを縦に使った漢字表示の時計
     </a>
   </div>
   
@@ -212,7 +198,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           }(document, 'script', 'facebook-jssdk'));</script>
 
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/%E6%9A%97%E5%8F%B7%E5%8C%96%E3%83%81%E3%83%83%E3%83%97%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Farduino%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3/" 
+            data-href="/iroiro-review/post/%E9%9B%BB%E5%9C%A7%E3%83%A1%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E6%96%B0%E3%81%97%E3%81%84%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AE%E6%99%82%E8%A8%88/" 
             data-layout="button_count">
           </div>
         
@@ -245,7 +231,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           
   
     <div id="toc" class="Box Box--blue mb-3">
-      <b>暗号化チップを搭載したArduino互換ボード</b>
+      <b>電圧メーターを活用した新しい見た目の時計</b>
       <nav id="TableOfContents"></nav>
     </div>
   
@@ -261,7 +247,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
         
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/%E6%9A%97%E5%8F%B7%E5%8C%96%E3%83%81%E3%83%83%E3%83%97%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Farduino%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3/" 
+            data-href="/iroiro-review/post/%E9%9B%BB%E5%9C%A7%E3%83%A1%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E6%96%B0%E3%81%97%E3%81%84%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AE%E6%99%82%E8%A8%88/" 
             data-layout="button_count">
           </div>
         

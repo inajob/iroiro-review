@@ -5,15 +5,26 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 09 Feb 2021 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Feb 2021 22:00:22 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>電圧メーターを活用した新しい見た目の時計</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%9C%A7%E3%83%A1%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E6%96%B0%E3%81%97%E3%81%84%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AE%E6%99%82%E8%A8%88/</link>
+      <pubDate>Tue, 09 Feb 2021 22:00:22 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%9C%A7%E3%83%A1%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E6%96%B0%E3%81%97%E3%81%84%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AE%E6%99%82%E8%A8%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/voltmeter-clock.jpg"&gt;Voltmeter Clockから発見。画像もここから転載(CC-BY-SA By oliverb)。
+電圧計のパネルを改造して、時・分・秒を表ようにした時計ガジェットです。 見慣れた時計とは異なりますが、なかなかおしゃれです。
+ </description>
+    </item>
+    
+    <item>
       <title>暗号化チップを搭載したArduino互換ボード</title>
       <link>https://inajob.github.io/iroiro-review/post/%E6%9A%97%E5%8F%B7%E5%8C%96%E3%83%81%E3%83%83%E3%83%97%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Farduino%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3/</link>
-      <pubDate>Tue, 09 Feb 2021 11:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Feb 2021 10:00:00 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E6%9A%97%E5%8F%B7%E5%8C%96%E3%83%81%E3%83%83%E3%83%97%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Farduino%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/seeed-crypto-atmega4809-ecc608.jpg"&gt;Seeeduino Crypto (ATmega4809 &amp;amp; ECC608)から発見。画像もここから転載。

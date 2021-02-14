@@ -5,15 +5,24 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 09 Feb 2021 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Feb 2021 22:00:22 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>時計</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E6%99%82%E8%A8%88/</link>
+      <pubDate>Tue, 09 Feb 2021 22:00:22 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E6%99%82%E8%A8%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
       <title>Arduino</title>
       <link>https://inajob.github.io/iroiro-review/tags/arduino/</link>
-      <pubDate>Tue, 09 Feb 2021 11:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Feb 2021 10:00:00 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/arduino/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
@@ -22,7 +31,7 @@
     <item>
       <title>ATmega4809</title>
       <link>https://inajob.github.io/iroiro-review/tags/atmega4809/</link>
-      <pubDate>Tue, 09 Feb 2021 11:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Feb 2021 10:00:00 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/atmega4809/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
@@ -31,7 +40,7 @@
     <item>
       <title>開発ボード</title>
       <link>https://inajob.github.io/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Tue, 09 Feb 2021 11:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Feb 2021 10:00:00 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
@@ -106,15 +115,6 @@
       <pubDate>Thu, 28 Jan 2021 11:00:47 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>時計</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E6%99%82%E8%A8%88/</link>
-      <pubDate>Thu, 28 Jan 2021 11:00:47 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E6%99%82%E8%A8%88/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
