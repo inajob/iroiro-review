@@ -8,8 +8,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>
       
-      inajobのいろいろレビュー
-      
+  ESP32でメインCPUの時間を消費せずに音を鳴らす技 &ndash; inajobのいろいろレビュー
+
     </title>
     
     
@@ -98,16 +98,38 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
       <div role="main" id="main" class="holy-main markdown-body px-4 bg-white">
         
 
-  <div class="mw6 center ph3 pv4">
-    <h1 class="f2 lh-title b mb3">ESP32でメインCPUの時間を消費せずに音を鳴らす技</h1>
-    <div class="flex justify-between grey-3">
-      <p>Tue, Apr 16, 2019</p>
-      <p>Read in 1 minutes</p>
+<div class="Subhead">
+  <div class="Subhead-heading">
+    <div class="h1 mt-3 mb-1">ESP32でメインCPUの時間を消費せずに音を鳴らす技</div>
+  </div>
+  <div class="Subhead-description">
+    
+
+
+
+
+<a href='/iroiro-review/tags/esp32' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">ESP32</span>
+</a>
+
+
+
+    
+    <div class="float-md-right">
+      <span title="Lastmod: 2019-04-16. Published at: 2019-04-16.">
+        
+          Published: 2019-04-16
+        
+      </span>
     </div>
-    <div class="cms mw6">
-      <p>ESP32でメインCPUの時間を消費せずに音を鳴らす技を紹介します。</p>
-      <img src="/img/esp32-sound-driver.png" alt="ESP32でメインCPUの時間を消費せずに音を鳴らす技" />
-      <p><a href="https://blog.hackster.io/this-sound-driver-runs-on-the-esp32s-ulp-coprocessor-df5bd197e0cf">This Sound Driver Runs on the ESP32’s ULP Coprocessor</a> から発見。画像もここから転載。</p>
+    
+  </div>
+</div>
+<article>
+  
+  <section class="pb-6 mb-3 border-bottom">
+    <img src="https://inajob.github.io/iroiro-review/img/esp32-sound-driver.png" />
+    <p><a href="https://blog.hackster.io/this-sound-driver-runs-on-the-esp32s-ulp-coprocessor-df5bd197e0cf">This Sound Driver Runs on the ESP32’s ULP Coprocessor</a> から発見。画像もここから転載。</p>
 <p>ESP32はパワフルで便利ですが、音を鳴らしながら何かする、ということを実現するためには、貴重なCPUコアの1つを消費してしまうことになります。ESP32はCPUが2コアあるものの、なるべくそれらを音の再生のために使いたくないでしょう。</p>
 <p>そこでこの記事ではESP32についている省電力プロセッサ通称ULPを使って音を鳴らす方法を紹介しています。ULPはEspressif独自の機械語でプログラミングをする必要があるため、活用している事例はとても珍しいです。</p>
 <p>ソースコードは<a href="https://github.com/bitluni/ULPSoundESP32">公開されている</a>ので、気になる人は手元で実行してみると良いでしょう。</p>
@@ -116,17 +138,123 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">おお…メインの処理とは別で音を鳴らすサンプル…参考になる…<a href="https://t.co/I9xQCVGCuJ">https://t.co/I9xQCVGCuJ</a> <a href="https://t.co/MLNvRwVZ1X">pic.twitter.com/MLNvRwVZ1X</a></p>&mdash; らびやん (@lovyan03) <a href="https://twitter.com/lovyan03/status/1116916152179888129?ref_src=twsrc%5Etfw">2019年4月13日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-    </div>
+  </section>
+
+  <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3"><a href="/iroiro-review/post/%E5%8A%B9%E7%8E%87%E3%81%AE%E8%89%AF%E3%81%84lipo%E5%85%85%E9%9B%BB%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%ABpgcpsu/">&lt;- 前の記事 - 効率の良いLiPo充電モジュール「PGCPSU」<img class="rect" src="https://inajob.github.io/iroiro-review/img/pgcpsu.jpg" /></a></div>
+  <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3"><a href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E4%BD%9C%E3%82%8B%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC/"><img class="rect" src="https://inajob.github.io/iroiro-review/img/3dprinter-speaker.jpg" />次の記事 - 3Dプリンタでゼロから作る「スピーカー」 - &gt;</a></div>
+
+  
+
+<h3>関連記事</h3>
+<div>
+  
+  <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3">
+    <a href="/iroiro-review/post/voip%E3%81%A7%E9%80%9A%E8%A9%B1%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%E9%9B%BB%E8%A9%B1%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88wiphone/">
+      <img class="rect" src="https://inajob.github.io/iroiro-review/img/wiphone.jpg" />
+      VoIPで通話できるポータブル電話ガジェットWiPhone
+    </a>
   </div>
+  
+  <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3">
+    <a href="/iroiro-review/post/esp32%E3%81%ABspiram%E3%82%92%E8%B6%B3%E3%81%99%E6%96%B9%E6%B3%95/">
+      <img class="rect" src="https://inajob.github.io/iroiro-review/img/esp32_feather_psram.jpg" />
+      ESP32にSPIRAMを足す方法
+    </a>
+  </div>
+  
+</div>
+
+
+
+  <section>
+  
+    
+    
+    
+      <div>
+        
+          <a href="https://twitter.com/intent/tweet?hashtags=inajob" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        
+
+        
+          
+          <div id="fb-root"></div>
+          <script>(function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+            fjs.parentNode.insertBefore(js, fjs);
+          }(document, 'script', 'facebook-jssdk'));</script>
+
+          <div class="fb-share-button" 
+            data-href="/iroiro-review/post/esp32%E3%81%A7%E3%83%A1%E3%82%A4%E3%83%B3cpu%E3%81%AE%E6%99%82%E9%96%93%E3%82%92%E6%B6%88%E8%B2%BB%E3%81%9B%E3%81%9A%E3%81%AB%E9%9F%B3%E3%82%92%E9%B3%B4%E3%82%89%E3%81%99%E6%8A%80/" 
+            data-layout="button_count">
+          </div>
+        
+
+        
+          <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+        
+
+        
+          <a data-pocket-label="pocket" data-pocket-count="none" class="pocket-btn" data-lang="en"></a>
+          <script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+        
+
+      </div>
+    
+  
+  </section>
+  <section>
+    
+      
+    
+  </section>
+</article>
+
 
       </div>
 
       <div id="side" class="pr-1 bg-white">
         <aside class="pr-3">
           
-          <div id="toc" class="mb-3">
+  
+    <div id="toc" class="Box Box--blue mb-3">
+      <b>ESP32でメインCPUの時間を消費せずに音を鳴らす技</b>
+      <nav id="TableOfContents"></nav>
+    </div>
+  
+
+  
+    
+    
+    
+      <div>
+        
+          <a href="https://twitter.com/intent/tweet?hashtags=inajob" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        
+
+        
+          <div class="fb-share-button" 
+            data-href="/iroiro-review/post/esp32%E3%81%A7%E3%83%A1%E3%82%A4%E3%83%B3cpu%E3%81%AE%E6%99%82%E9%96%93%E3%82%92%E6%B6%88%E8%B2%BB%E3%81%9B%E3%81%9A%E3%81%AB%E9%9F%B3%E3%82%92%E9%B3%B4%E3%82%89%E3%81%99%E6%8A%80/" 
+            data-layout="button_count">
           </div>
-          
+        
+
+        
+          <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+        
+
+        
+          <a data-pocket-label="pocket" data-pocket-count="none" class="pocket-btn" data-lang="en"></a>
+          <script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+        
+
+      </div>
+    
+  
+
         </aside>
       </div>
 
