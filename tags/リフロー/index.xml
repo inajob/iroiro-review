@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>リフロー on inajobのいろいろレビュー</title>
@@ -20,8 +19,7 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/power-core.jpg"&gt;The FluxLamp Soldering Reflow Ovenから発見。画像もここから転載。
 自作リフロー装置といえば、オーブントースターとホットプレートが有名ですが、新しい種類の自作リフロー装置が現れました。
 このリフローオーブンはハロゲンランプを熱源としています。原理は他のリフローオーブンと同じく、基板を指定した温度で加熱するというものです。
-他の仕組みよりコンパクトなのが良いところだと感じました。
- </description>
+他の仕組みよりコンパクトなのが良いところだと感じました。</description>
     </item>
     
   </channel>

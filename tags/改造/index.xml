@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>改造 on inajobのいろいろレビュー</title>
@@ -20,8 +19,7 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/mac-cheese.jpg"&gt;CHEESE GRATER NOW GRATES CHEESEから発見。画像もここから転載。
 チーズ削り器と揶揄されたMac Proですが、この記事ではMac Proのケースの中に本当に「チーズ削り器」を内蔵しています。
 また、ただ単にMac Proの筐体を使うだけでなく、その内部にRaspberry Pi4を仕込み、一応パソコンとしても使える状態を保っています。
-CD-ROMトレイからチーズを入れると、中でチーズが刻まれる様子をデモしています。
- </description>
+CD-ROMトレイからチーズを入れると、中でチーズが刻まれる様子をデモしています。</description>
     </item>
     
   </channel>

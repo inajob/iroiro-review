@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ドローン on inajobのいろいろレビュー</title>
@@ -19,8 +18,7 @@
       <guid>https://inajob.github.io/iroiro-review/post/%E7%A9%BA%E9%99%B8%E4%B8%A1%E7%94%A8%E3%81%AE%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/newflyingdri.jpg"&gt;Researchers develop new flying / driving robotから発見。画像もここから転載。
 空・陸両用のドローンです、地上形態の時は、本体が2つに折れ曲がってタイヤで走ることができます。 タイヤを動かしているモーターはプロペラのものを流用しているようで、シンプルさを保ったまま空・陸両用を実現しています。
-変形して地上も走れるというのは、かなり男の子心をそそる仕組みになっています。
- </description>
+変形して地上も走れるというのは、かなり男の子心をそそる仕組みになっています。</description>
     </item>
     
     <item>
@@ -32,8 +30,7 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/hot-swap-drone.jpg"&gt;Berkeley Engineers Design Flying Swappable Batteries for Drones to Maintain Flightから発見。画像もここから転載。
 ドローンは電気で動いているため、給電が必要です。給電のためには地上に降りてくる必要があり、そのために長距離・長時間の飛行には制限があります。
 そんな問題に対応するためのソリューションがこれです。バッテリーを搭載した小型の「ドローン」を使って大型の「ドローン」に給電をするというアイデアです。
-どういう場面で役に立つかは未知数ですが、空中給油する様子はアクロバティックで印象的です。
- </description>
+どういう場面で役に立つかは未知数ですが、空中給油する様子はアクロバティックで印象的です。</description>
     </item>
     
   </channel>

@@ -8,8 +8,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>
       
-  UPDI用の書き込みボード &ndash; inajobのいろいろレビュー
-
+      inajobのいろいろレビュー
+      
     </title>
     
     
@@ -98,192 +98,34 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
       <div role="main" id="main" class="holy-main markdown-body px-4 bg-white">
         
 
-<div class="Subhead">
-  <div class="Subhead-heading">
-    <div class="h1 mt-3 mb-1">UPDI用の書き込みボード</div>
-  </div>
-  <div class="Subhead-description">
-    
-
-
-
-
-<a href='/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89' class="muted-link">
-  <span class="Label" style="background-color:#0099dd;">開発ボード</span>
-</a>
-
-<a href='/iroiro-review/tags/attiny' class="muted-link">
-  <span class="Label" style="background-color:#0099dd;">ATtiny</span>
-</a>
-
-
-
-    
-    <div class="float-md-right">
-      <span title="Lastmod: 2020-09-02. Published at: 2020-09-02.">
-        
-          Published: 2020-09-02
-        
-      </span>
+  <div class="mw6 center ph3 pv4">
+    <h1 class="f2 lh-title b mb3">UPDI用の書き込みボード</h1>
+    <div class="flex justify-between grey-3">
+      <p>Wed, Sep 2, 2020</p>
+      <p>Read in 1 minutes</p>
     </div>
-    
-  </div>
-</div>
-<article>
-  
-  <section class="pb-6 mb-3 border-bottom">
-    <img src="https://inajob.github.io/iroiro-review/img/updiprogrammerstick.jpg" />
-    <p><a href="http://www.technoblogy.com/show?2OJT">UPDI Programmer Stick</a>から発見。画像もここから転載。</p>
-
+    <div class="cms mw6">
+      <p>新しいATtinyに書き込むために使えるUPDI書き込み器の作例を紹介します。</p>
+      <img src="/img/updiprogrammerstick.jpg" alt="UPDI用の書き込みボード" />
+      <p><a href="http://www.technoblogy.com/show?2OJT">UPDI Programmer Stick</a>から発見。画像もここから転載。</p>
 <p>新しいATtinyシリーズはブートローダーの書き換え方法が今までのICSPとは違いUDPIというプロトコルになっています。</p>
-
 <p>一度書き込んでArduino化してしまえばそれ以降はシリアルで書き換えられる点は今までと同じですが、初回はこのUDPIを使ってブートローダを書き換える必要があります。</p>
-
 <p>そこで必要となるのがUDPIライターです。もちろん公式のライターを使うというのが一番良いのでしょうが、この記事ではUDPIライターを自作しています。</p>
-
 <p>UDPIライターの実体はArduino UNO互換の基板で、ソフトウェアとしては、<a href="https://github.com/SpenceKonde/jtag2updi">jtag2udpi</a>を使っています。</p>
-
 <p>つまり手元にArduino UNOがあればだれでも比較的簡単にUDPIライターが作れるということです。
 とはいえ、この記事で紹介されているライターは非常にコンパクトで、新しいATTinyの開発のお供として非常に魅力的です。</p>
 
-  </section>
-
-  <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3"><a href="/iroiro-review/post/%E5%B0%8F%E5%9E%8B%E3%81%AE%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9Fspark/">&lt;- 前の記事 - 小型の携帯ゲーム機Spark<img class="rect" src="https://inajob.github.io/iroiro-review/img/spark-game.png" /></a></div>
-  <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3"><a href="/iroiro-review/post/usb-type-c%E5%91%A8%E3%82%8A%E3%81%AE%E5%9B%9E%E8%B7%AF%E5%9B%B3/"><img class="rect" src="https://inajob.github.io/iroiro-review/img/usbccct-600x483.png" />次の記事 - USB Type-C周りの回路図 - &gt;</a></div>
-
-  
-
-<h3>関連記事</h3>
-<div>
-  
-  <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3">
-    <a href="/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E9%9B%BB%E5%AD%90%E3%83%96%E3%83%83%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC/">
-      <img class="rect" src="https://inajob.github.io/iroiro-review/img/openbook.jpg" />
-      オープンソースの電子ブックリーダー
-    </a>
+    </div>
   </div>
-  
-  <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3">
-    <a href="/iroiro-review/post/%E7%B5%90%E6%A7%8B%E5%B0%8F%E5%9E%8B%E3%81%AEcircuitpython%E3%81%8C%E5%8B%95%E3%81%8F%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/">
-      <img class="rect" src="https://inajob.github.io/iroiro-review/img/serpente.png" />
-      結構小型のCircuitPythonが動く開発ボード
-    </a>
-  </div>
-  
-  <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3">
-    <a href="/iroiro-review/post/usb-c%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%81%AE%E4%BB%98%E3%81%84%E3%81%9Farduino-micro%E3%83%9C%E3%83%BC%E3%83%89/">
-      <img class="rect" src="https://inajob.github.io/iroiro-review/img/arduino-micro-c.jpg" />
-      USB-Cコネクタの付いたArduino Microボード
-    </a>
-  </div>
-  
-  <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3">
-    <a href="/iroiro-review/post/esp32%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%AA%E3%83%A2%E3%82%B3%E3%83%B3%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E4%BB%98%E3%81%8D%E3%83%9C%E3%83%BC%E3%83%89/">
-      <img class="rect" src="https://inajob.github.io/iroiro-review/img/esp32-keyring.jpg" />
-      ESP32を使ったリモコンサイズのディスプレイ付きボード
-    </a>
-  </div>
-  
-  <div class="rounded-2 box-shadow-medium px-3 pb-2 pt-2 mb-3">
-    <a href="/iroiro-review/post/%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85%E3%81%AE%E3%83%91%E3%83%BC%E3%83%84%E3%82%82%E6%90%AD%E8%BC%89%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB%E5%9F%BA%E6%9D%BF/">
-      <img class="rect" src="https://inajob.github.io/iroiro-review/img/smd-parts-universal-board.jpg" />
-      表面実装のパーツも搭載できるユニバーサル基板
-    </a>
-  </div>
-  
-</div>
-
-
-
-  <section>
-  
-    
-    
-    
-      <div>
-        
-          <a href="https://twitter.com/intent/tweet?hashtags=inajob" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-        
-
-        
-          
-          <div id="fb-root"></div>
-          <script>(function(d, s, id) {
-            var js, fjs = d.getElementsByTagName(s)[0];
-            if (d.getElementById(id)) return;
-            js = d.createElement(s); js.id = id;
-            js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
-            fjs.parentNode.insertBefore(js, fjs);
-          }(document, 'script', 'facebook-jssdk'));</script>
-
-          <div class="fb-share-button" 
-            data-href="/iroiro-review/post/updi%E7%94%A8%E3%81%AE%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF%E3%83%9C%E3%83%BC%E3%83%89/" 
-            data-layout="button_count">
-          </div>
-        
-
-        
-          <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
-        
-
-        
-          <a data-pocket-label="pocket" data-pocket-count="none" class="pocket-btn" data-lang="en"></a>
-          <script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
-        
-
-      </div>
-    
-  
-  </section>
-  <section>
-    
-      
-    
-  </section>
-</article>
-
 
       </div>
 
       <div id="side" class="pr-1 bg-white">
         <aside class="pr-3">
           
-  
-    <div id="toc" class="Box Box--blue mb-3">
-      <b>UPDI用の書き込みボード</b>
-      
-    </div>
-  
-
-  
-    
-    
-    
-      <div>
-        
-          <a href="https://twitter.com/intent/tweet?hashtags=inajob" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-        
-
-        
-          <div class="fb-share-button" 
-            data-href="/iroiro-review/post/updi%E7%94%A8%E3%81%AE%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF%E3%83%9C%E3%83%BC%E3%83%89/" 
-            data-layout="button_count">
+          <div id="toc" class="mb-3">
           </div>
-        
-
-        
-          <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
-        
-
-        
-          <a data-pocket-label="pocket" data-pocket-count="none" class="pocket-btn" data-lang="en"></a>
-          <script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
-        
-
-      </div>
-    
-  
-
+          
         </aside>
       </div>
 

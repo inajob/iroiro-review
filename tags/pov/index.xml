@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pov on inajobのいろいろレビュー</title>
+    <title>POV on inajobのいろいろレビュー</title>
     <link>https://inajob.github.io/iroiro-review/tags/pov/</link>
-    <description>Recent content in Pov on inajobのいろいろレビュー</description>
+    <description>Recent content in POV on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Sun, 02 Aug 2020 23:00:47 +0000</lastBuildDate>
@@ -21,8 +20,7 @@
 電子工作を組み合わせた「面白名刺」というのは結構目にしますが、この記事で紹介している名刺も非常にユニークです。
 この名刺には1列の5つのLEDが配置されており、これらが点滅します。これだだけでは意味が分かりませんが、名刺を振るとその残像がで文字を表示する！　というものです。
 手で振る動作と同期するために、チルトスイッチを使っています。
-CPUはATTiny85を使っており非常に単純な回路となっています。
- </description>
+CPUはATTiny85を使っており非常に単純な回路となっています。</description>
     </item>
     
   </channel>

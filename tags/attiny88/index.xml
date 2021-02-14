@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Attiny88 on inajobのいろいろレビュー</title>
+    <title>attiny88 on inajobのいろいろレビュー</title>
     <link>https://inajob.github.io/iroiro-review/tags/attiny88/</link>
-    <description>Recent content in Attiny88 on inajobのいろいろレビュー</description>
+    <description>Recent content in attiny88 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Sat, 28 Nov 2020 23:00:46 +0000</lastBuildDate>
@@ -17,7 +16,7 @@
       <pubDate>Sat, 28 Nov 2020 23:00:46 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/attiny88%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%A0%BC%E5%AE%89%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/mh-tiny-board.png"&gt;An Alternative to the Blue Pill? から発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/mh-tiny-board.png"&gt;An Alternative to the Blue Pill?から発見。画像もここから転載。
 ATtiny88を使った開発ボードを紹介します。 この記事では、BluePillの代替品としてこのATtiny88を使ったMH-Tinyというボードを紹介しています。特筆すべきはBluePillに匹敵する「安さ」です。
 BluePillも同じように「安い」ボードですが、市場には誤った抵抗が実装されている個体なども混ざっており、安心して使うことが出来ません。一方でこのMH-Tinyボードはそのような問題がありません。
 BluePillからするとスペックの低いCPUではありますが、簡単な用途であれば、ATtiny88でも十分かもしれません。</description>

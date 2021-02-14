@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hdmi on inajobのいろいろレビュー</title>
+    <title>HDMI on inajobのいろいろレビュー</title>
     <link>https://inajob.github.io/iroiro-review/tags/hdmi/</link>
-    <description>Recent content in Hdmi on inajobのいろいろレビュー</description>
+    <description>Recent content in HDMI on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Wed, 15 Apr 2020 23:00:36 +0000</lastBuildDate>
@@ -21,8 +20,7 @@
 Arduinoからディスプレイに映像を映すには様々なテクニックが必要です。特に最近のディスプレイはHDMIコネクタが標準となっており、こうなればArduinoからは映像を出すことは難しいです。
 そこで登場するのが、このHDMIを出力するShieldです。
 といってもHDMI出力はやはり大変のようでかなり複雑な構成になっています。 説明を見るとRA8876という液晶コントローラのチップで映像を作り、このチップから出てくるRGB信号をCH7035Bを使ってHDMIに変換しているようです。
-まぁしかし普通にこういうことをするならRaspberry Piを使うのが簡単なんだろうなぁという感想です。ともあれこういう挑戦は非常に興味深いと感じました。
- </description>
+まぁしかし普通にこういうことをするならRaspberry Piを使うのが簡単なんだろうなぁという感想です。ともあれこういう挑戦は非常に興味深いと感じました。</description>
     </item>
     
   </channel>

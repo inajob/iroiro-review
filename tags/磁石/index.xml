@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>磁石 on inajobのいろいろレビュー</title>
@@ -20,8 +19,7 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ant-highway.jpg"&gt;Ant highway - Precise linear (circular) motorから発見。画像もここから転載。
 ジグザグの回路パターンのPCBにパルスを流して磁石を移動させるという技を使ってレースゲームのようなガジェットを実現しています。
 どのくらいの細かい精度で制御できるのかが気になるところです。
-以前紹介した電磁誘導で物体を移動させる方法と似たような原理のようですが、相変わらず動作している様子は魔法のように見えます。
- </description>
+以前紹介した電磁誘導で物体を移動させる方法と似たような原理のようですが、相変わらず動作している様子は魔法のように見えます。</description>
     </item>
     
     <item>
@@ -32,8 +30,8 @@
       <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E7%A3%81%E8%AA%98%E5%B0%8E%E3%81%A7%E7%89%A9%E4%BD%93%E3%82%92%E7%A7%BB%E5%8B%95%E3%81%95%E3%81%9B%E3%82%8B%E6%96%B9%E6%B3%95/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/flexible-actuator.jpg"&gt;FLEXIBLE 2D actuator, stepper motor compatibleから発見。画像もここから転載。
 とにかくこの動画を見てください。
- 仕組みはわからないですが、今まで見たことのない動きで小さな磁石(?)を動かしています。
-2D Linear Actuator Works Like an Unrolled Stepper Motor 
+仕組みはわからないですが、今まで見たことのない動きで小さな磁石(?)を動かしています。
+2D Linear Actuator Works Like an Unrolled Stepper Motor
 この記事にもう少し詳細が書かれていました。 ステッピングモーターの原理と同じように電磁誘導により、磁石を動かしているようです。
 この魔法のような動きは何かに応用できそうに感じました。</description>
     </item>

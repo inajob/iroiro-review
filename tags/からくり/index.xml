@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>からくり on inajobのいろいろレビュー</title>
@@ -31,8 +30,7 @@
       <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A%E3%81%A7%E9%96%A2%E6%95%B0%E3%82%92%E3%83%97%E3%83%AD%E3%83%83%E3%83%88%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/harmonic-anlyzer.png"&gt;Harmonic Analyzer : Mechanical Lasercut Signal Plotterから発見。画像もここから転載。
 からくりで計算をするというのは昔からたくさんの試みがなされてきました。ここで紹介するのもそういった装置の一つで、関数のグラフをプロットするものです。
-仕組みとしては、目的の関数を様々な周期のsin,cos波の合成関数として近似し（フーリエ級数展開）、たくさんのギアの回転をからくりで組み合わせて描画しているようです。
- </description>
+仕組みとしては、目的の関数を様々な周期のsin,cos波の合成関数として近似し（フーリエ級数展開）、たくさんのギアの回転をからくりで組み合わせて描画しているようです。</description>
     </item>
     
   </channel>

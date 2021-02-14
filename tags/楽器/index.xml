@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>楽器 on inajobのいろいろレビュー</title>
@@ -22,8 +21,7 @@
 スタイロフォンは、ペンで操作する電子楽器です。鍵盤のようなパターンの端子に金属製のペンを当てると、鍵盤に応じた音が再生されるという単純な仕組みの楽器ですが、ペンを滑らせることで独特のメロディを奏でることができます。
 PCBが簡単に発注できる今、スタイロフォンを作るのは難しくありません。ケースについても3Dプリンタでうまく作っています。
 音はマイコンを使わずシンプルな555タイマーで実現しています。
-↓動画は音だけですが、いい感じです。
- </description>
+↓動画は音だけですが、いい感じです。</description>
     </item>
     
     <item>
@@ -34,8 +32,7 @@ PCBが簡単に発注できる今、スタイロフォンを作るのは難し�
       <guid>https://inajob.github.io/iroiro-review/post/midi%E3%82%92%E5%87%BA%E5%8A%9B%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%83%8A/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/bandneon-midi.jpg"&gt;Concertina MIDI Controllerから発見。画像もここから転載。
 コンサーティーナというアコーディオンのような楽器をMIDI化した作例です。 利用しているボードはAdafruitのBluefeather 32u4で、BLE MIDIをつかい無線でMIDI信号を送信しています。
-スイッチはCherry MXスイッチを並べ、筐体はレーザーカッターで作成し、気圧センサーによりボリュームをコントロールしているようです。
- ConcertinaClip from David Ehnebuske on Vimeo.</description>
+スイッチはCherry MXスイッチを並べ、筐体はレーザーカッターで作成し、気圧センサーによりボリュームをコントロールしているようです。</description>
     </item>
     
     <item>

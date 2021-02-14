@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Atmega328 on inajobのいろいろレビュー</title>
+    <title>ATmega328 on inajobのいろいろレビュー</title>
     <link>https://inajob.github.io/iroiro-review/tags/atmega328/</link>
-    <description>Recent content in Atmega328 on inajobのいろいろレビュー</description>
+    <description>Recent content in ATmega328 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Sat, 23 Jan 2021 23:00:11 +0000</lastBuildDate>
@@ -20,8 +19,7 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/atmega-sculpture-800.png"&gt;CIRCUIT SCULPTURE TEACHES BINARY, PLAYS PONGから発見。画像もここから転載。
 基板を使わないゲーム機のような作品です。教育用に作られたもののようで、DIPスイッチを使い2進数で数字を入力し、計算機として利用することが出来たり、ASCIIコードを使い文字を入力したりすることが出来るようです。
 また可変抵抗ダイヤルが搭載され、これを使いメニューを操作したり、PONGゲームで遊ぶことが出来るようです。
-基板を使わない電子工作は以前も 真鍮線を使って作る基板を使わない電子工作で紹介しましたが、見栄えがかっこよくて印象的です。
- </description>
+基板を使わない電子工作は以前も 真鍮線を使って作る基板を使わない電子工作で紹介しましたが、見栄えがかっこよくて印象的です。</description>
     </item>
     
     <item>
@@ -30,10 +28,9 @@
       <pubDate>Sun, 15 Dec 2019 23:00:35 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AAatmega328%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF%E5%99%A8/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/tiny-standalone-atmega328-writer.jpg"&gt;Tiny Stand Alone Atmega328 Bootloader Burner から発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/tiny-standalone-atmega328-writer.jpg"&gt;Tiny Stand Alone Atmega328 Bootloader Burnerから発見。画像もここから転載。
 表面実装パッケージのATmega328に書き込む装置の紹介です。 通常この手の書き込み器にはごついSMDパッケージ用のマウンタを使いますが、この記事で紹介しているのは、もっと単純にフットプリントを用意して、単にそこにCPUを載せるだけのものです。
-位置がずれないように基板を複数枚重ねて、凹んだところにCPUを置くようになっています。シンプルだけどそこそこ確実でよい方法だと感じました。
- </description>
+位置がずれないように基板を複数枚重ねて、凹んだところにCPUを置くようになっています。シンプルだけどそこそこ確実でよい方法だと感じました。</description>
     </item>
     
     <item>
@@ -68,8 +65,7 @@ ATmega328PBはほかのものと違い2つのGPIOが増えています。（今�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ledcade.jpg"&gt;LedCade - µ arcade game cabinet - 8x8 LED matrixから発見。画像もここから転載。
 写真を見るだけでついほしくなってしまう、かわいいくかっこいい携帯ゲーム端末です。組み立て式を想定しているらしく、1枚のPCB基板を組み合わせてこの写真のようなアーケード風の筐体を実現しています。 CPUはArduinoと同じATmega328です。
 また、おなじみ「Insert Coin」の表示に合わせて「コイン型電池」を入れる、というのも洒落がきいています。
-デザインデータも公開されているので似たようなものを作りたい方は参考にしてみてください。
- </description>
+デザインデータも公開されているので似たようなものを作りたい方は参考にしてみてください。</description>
     </item>
     
     <item>
@@ -102,10 +98,9 @@ ArduboyやGamebuinoといったゲーム機は本体に搭載されたCPUのFlas
       <pubDate>Sat, 30 Mar 2019 23:00:10 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%81%84%E3%81%84%E6%84%9F%E3%81%98%E3%81%AEled%E7%85%A7%E6%98%8E%E3%82%AD%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/magiccube.jpg"&gt;MagicCube - Tap to Change Color にて発見。画像もこちらから転載（By Rudeldi CC BY-NC-SA）
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/magiccube.jpg"&gt;MagicCube - Tap to Change Colorにて発見。画像もこちらから転載（By Rudeldi CC BY-NC-SA）
 MagicCube - tap to change colorから購入もできる。
-透明フィラメントを使って、いい感じの雰囲気を演出している。 CPUはArduinoとおなじATmega328P、加速度センサー、充電回路などを搭載している。
- </description>
+透明フィラメントを使って、いい感じの雰囲気を演出している。 CPUはArduinoとおなじATmega328P、加速度センサー、充電回路などを搭載している。</description>
     </item>
     
     <item>

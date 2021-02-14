@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Raspberrypi on inajobのいろいろレビュー</title>
+    <title>RaspberryPi on inajobのいろいろレビュー</title>
     <link>https://inajob.github.io/iroiro-review/tags/raspberrypi/</link>
-    <description>Recent content in Raspberrypi on inajobのいろいろレビュー</description>
+    <description>Recent content in RaspberryPi on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Mon, 28 Dec 2020 10:00:22 +0000</lastBuildDate>
@@ -42,9 +41,8 @@ Recalbox Recalboxはゲームエミュレータ専用のLunuxベースのOSで�
 こんな使い方が面白そう このGamePi20ですが、ゲームエミュレータとして遊ぶ以外にも様々な使い方が出来そうです。
  HDMIポートがあるので、持ち運べるプレゼンテーションマシンとして使う 最新のRecalboxでTIC-80というFantasyConsoleを動作させ、遊ぶ（別の記事にまとめました） Webサーバやファイルサーバを実行しモバイルLinuxサーバとして使う  などなど、ゲームエミュレータ機としてより、むしろそれ以外の使い方のほうが面白そうに感じます。
 ゲームエミュレータとしても遊べるし、飽きたら持ち運べる汎用Linuxマシンとしても利用できる、この「GamePi20」。玄人向きだとは思いますが、個人的には「買い」のアイテムだと思いました。
-クーポンコード！ さて、ここまで紹介してきたGamePi20ですが、Banggoodでは$76.44で販売されています。この記事を書くにあたり、私もほかのECサイトなどで値段をざっと見たところ、正直言って少し高い価格設定でした。 まぁ、Banggoodは配送も比較的早いし、Paypalで支払えるなど、良いところもたくさんあるので、多少高いのは仕方がないかな・・？と思いつつ、恐る恐る「ちょっと人に勧めるには高すぎません？・・」と聞いてみたところ、このブログのために$54.99へ値下げできるクーポンコードを頂きました！！！
-コード: BGJPrg281
-GamePi20をカートに入れ、チェックアウト後にこのクーポンコードを入力することで割引を受けることが出来ます。
+クーポンコード！ さて、ここまで紹介してきたGamePi20ですが、Banggoodでは**$76.44**で販売されています。この記事を書くにあたり、私もほかのECサイトなどで値段をざっと見たところ、正直言って少し高い価格設定でした。 まぁ、Banggoodは配送も比較的早いし、Paypalで支払えるなど、良いところもたくさんあるので、多少高いのは仕方がないかな・・？と思いつつ、恐る恐る「ちょっと人に勧めるには高すぎません？・・」と聞いてみたところ、このブログのために**$54.99**へ値下げできるクーポンコードを頂きました！！！
+コード: BGJPrg281GamePi20をカートに入れ、チェックアウト後にこのクーポンコードを入力することで割引を受けることが出来ます。
 有効期限は2021/01/31なので、買いたい方はお早めにどうぞ！（加えて、在庫に限りがあると思うので早めに！）
 GamePi20の購入はこちら
 （ここから買ってもらえると、自分もまたBanggoodの面白い製品をレビューできるので！このブログを応援していただける方もぜひ！買って応援してください！）</description>
@@ -68,8 +66,7 @@ RaspberryPi4とUSBハブ、2.5インチのハードディスクドライブ2つ�
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E3%83%A9%E3%83%83%E3%82%AF%E5%9E%8B%E3%81%AEraspberrypi%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/cyberdeck2.jpg"&gt;Reviiser V.1.3 Cyberdeck Master Postから発見。画像もここから転載。
-3Dプリントによってつくられた、かっこいいラック式のRaspberryPiコンソールです。ギークな見た目が印象的です。
- </description>
+3Dプリントによってつくられた、かっこいいラック式のRaspberryPiコンソールです。ギークな見た目が印象的です。</description>
     </item>
     
     <item>
@@ -78,7 +75,7 @@ RaspberryPi4とUSBハブ、2.5インチのハードディスクドライブ2つ�
       <pubDate>Tue, 22 Dec 2020 10:00:02 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AEraspberrypi-zero%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F-picicle-kit/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/picicle-kit.jpg"&gt;Picicle Kit から発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/picicle-kit.jpg"&gt;Picicle Kitから発見。画像もここから転載。
 RaspberryPi Zeroを使った携帯ゲーム機です。手のひらサイズにゲーム機に必要な要素が詰め込まれています。
 アクリル板をレーザーカットしたものを重ねて作られた薄型の筐体も参考になります。
 Raspberry Pi Zeroとの接続は表面実装のパッドを無理やりスルーホールとはんだ付けするという技を使っています。確かにこれなら薄さを保てますが・・裏技感がすごいです。</description>
@@ -90,10 +87,9 @@ Raspberry Pi Zeroとの接続は表面実装のパッドを無理やりスルー
       <pubDate>Sat, 19 Dec 2020 23:00:01 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AAraspberrypi%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/small-raspi-console.jpg"&gt;hgTerm から発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/small-raspi-console.jpg"&gt;hgTermから発見。画像もここから転載。
 手のひらサイズのかわいらしいRaspberryPiコンソールです。 3Dプリンタで作られた筐体と、Bluetoothキーボードを搭載し、シリアル端子から直接Arduinoにプログラミングができるようです。
-筐体に収めるために、高さのあるコンポーネントはRaspberryPiの基板から取り外して、コンパクトさを実現しています。
- </description>
+筐体に収めるために、高さのあるコンポーネントはRaspberryPiの基板から取り外して、コンパクトさを実現しています。</description>
     </item>
     
     <item>
@@ -102,12 +98,11 @@ Raspberry Pi Zeroとの接続は表面実装のパッドを無理やりスルー
       <pubDate>Tue, 24 Nov 2020 23:00:58 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-zero%E3%82%92%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E3%81%AB%E3%81%99%E3%82%8B%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/raspberry-pi-game-board.jpg"&gt;RETROZERO (RETROPIE HANDHELD) から発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/raspberry-pi-game-board.jpg"&gt;RETROZERO (RETROPIE HANDHELD)から発見。画像もここから転載。
 Raspberry Piでゲームのエミュレータを動かすことができますが、普通のマウスやキーボードで操作するのはちょっと味気ないです。
 この記事で紹介するのは、Raspberry Pi Zeroをモバイルゲーム機にするための基板です。
 シンプルに基板2枚でスペーサをサンドイッチにすることで、直方体のゲームボーイ風の筐体を構成しています。
-基板がむき出しなので、このままカバンに突っ込むのは心配ですが、家でゴロゴロしながら遊ぶには十分なのではないでしょうか？
- </description>
+基板がむき出しなので、このままカバンに突っ込むのは心配ですが、家でゴロゴロしながら遊ぶには十分なのではないでしょうか？</description>
     </item>
     
     <item>
@@ -119,8 +114,7 @@ Raspberry Piでゲームのエミュレータを動かすことができます�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/portablepi.jpg"&gt;BUILDING A FAUX RETRO PORTABLE COMPUTERから発見。画像もここから転載。
 持ち運びできるパソコンといえば「ノートパソコン」が、思いつきますが、別にノート型である必要はありません。歴史を振り返ると、様々な形の「ポータブルコンピュータ」が存在しています。
 この記事ではかつてのSX-64を模したラック風のポータブルコンピュータをRaspberryPiと3Dプリンタ製のパーツ、アルミニウムフレームなどで作成しています。
-ラック風の筐体は容積が大きく、拡張ボードなども内蔵する余地があり、かなりパワフルなコンピュータとなる可能性を秘めており、何より「かっこいい」です。
- </description>
+ラック風の筐体は容積が大きく、拡張ボードなども内蔵する余地があり、かなりパワフルなコンピュータとなる可能性を秘めており、何より「かっこいい」です。</description>
     </item>
     
     <item>
@@ -130,8 +124,7 @@ Raspberry Piでゲームのエミュレータを動かすことができます�
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%82%B4%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%83%AC%E3%82%B4%E9%83%A8%E5%93%81%E3%81%AE%E5%88%86%E9%A1%9E%E5%99%A8/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/lego-sorter.jpg"&gt;A high-speed computer vision pipeline for the universal LEGO sorting machineから発見。画像もここから転載。
-レゴによって作られた、レゴパーツの分類器です。カメラでとらえた画像を解析しどの部品かを判定し、適切な分類を行うマシンです。画像解析にはRaspberryPi上で動作するOpenCVを利用しています。性能の低いRaspberryPiで画像解析を行うためには様々な工夫が必要だったようです。
- </description>
+レゴによって作られた、レゴパーツの分類器です。カメラでとらえた画像を解析しどの部品かを判定し、適切な分類を行うマシンです。画像解析にはRaspberryPi上で動作するOpenCVを利用しています。性能の低いRaspberryPiで画像解析を行うためには様々な工夫が必要だったようです。</description>
     </item>
     
     <item>
@@ -152,7 +145,7 @@ Raspberry Piでゲームのエミュレータを動かすことができます�
       <pubDate>Sun, 30 Aug 2020 23:00:03 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-3%E3%81%AEpoe%E3%82%92%E5%AE%89%E3%81%8F%E3%81%A7%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8Bhack/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/poor-poe.jpg"&gt;Poor man&amp;rsquo;s PoE for Raspberry pi-3&amp;frasl;4 under ~$2から発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/poor-poe.jpg"&gt;Poor man&amp;rsquo;s PoE for Raspberry pi-3/4 under ~$2から発見。画像もここから転載。
 最近のRaspberry piはLANケーブルから電源を供給するPoEをサポートしています。 しかし、通常PoEを利用するためには、専用のボード（PoE Hat）を取り付ける必要があります。
 この記事では、もっと簡単にPoEを実現する方法を紹介しています。
 単純にPoEで供給される電力をDC-DCコンバータで5Vに降圧して、RaspberryPiの電源に接続しています。
@@ -179,8 +172,7 @@ ICと同じ大きさのこの基板は、前述の信号のバイパスを行う
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E5%9F%BA%E3%81%AB%E3%81%97%E3%81%9F%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/lifegame-synth.jpg"&gt;E V O B O X Xから発見。画像もここから転載。
 トランク型のいい雰囲気の、、シンセサイザーです。 全然それっぽくない外観ですがこの見た目でシンセサイザーです。ライフゲームの画面を基に音が鳴る仕組みのようです。トランク型の筐体は、持ち運びに便利そうです。
-中身はRaspberry Pi 3+のようです。（ This Synthesizer Uses Conway’s Game of Life to Generate Tones  ）
- </description>
+中身はRaspberry Pi 3+のようです。（ This Synthesizer Uses Conway’s Game of Life to Generate Tones ）</description>
     </item>
     
     <item>
@@ -189,7 +181,7 @@ ICと同じ大きさのこの基板は、前述の信号のバイパスを行う
       <pubDate>Wed, 09 Oct 2019 23:00:37 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%B8%80%E4%BD%93%E5%9E%8B%E3%81%AEraspberrypi%E7%AB%AF%E6%9C%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/raspi-keyboard.jpg"&gt;Hacking the official Raspberry Pi keyboard: Build a battery-powered all-in-one Pi keyboard! から発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/raspi-keyboard.jpg"&gt;Hacking the official Raspberry Pi keyboard: Build a battery-powered all-in-one Pi keyboard!から発見。画像もここから転載。
 RaspberryPiの公式キーボードが発売されました。といってもこれはRaspberryPiのカラーリングのキーボードというだけで、ただのUSBハブ付きのキーボードです。
 この記事では、このキーボードの中にRaspberryPi Zeroを内蔵し、バッテリー駆動で動作できるようにしています。
 この作例を見ると、この公式キーボードにはちょうどRaspberry Pi Zeroが入るくらいのスペースが余っているのです！ そのおかげもあって、かなり完成度の高いものが出来上がっています。</description>

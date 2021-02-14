@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fusion360 on inajobのいろいろレビュー</title>
@@ -21,8 +20,7 @@
 この写真の奇妙なデザインのブックシェルフ。これはFusion360の機能であるTopology Optimizationの機能によって作成されたものです。
 この機能は構造にかかる力を分析し、最適に力を分散する形状を計算する機能です。 計算によって求められる形状は従来の角ばった、直線が基本となるものではなく、写真のような有機的な形状になります。
 3Dプリンタを用いるとこういった有機的な形状も簡単に作成できます。
-近いうちにこういう有機的な形状の製品が身近にあふれるようになるかもしれません。
- </description>
+近いうちにこういう有機的な形状の製品が身近にあふれるようになるかもしれません。</description>
     </item>
     
   </channel>

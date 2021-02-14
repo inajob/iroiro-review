@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wordclock on inajobのいろいろレビュー</title>
+    <title>WordClock on inajobのいろいろレビュー</title>
     <link>https://inajob.github.io/iroiro-review/tags/wordclock/</link>
-    <description>Recent content in Wordclock on inajobのいろいろレビュー</description>
+    <description>Recent content in WordClock on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Tue, 26 Jan 2021 10:00:08 +0000</lastBuildDate>
@@ -20,8 +19,7 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/acrylic-wordclock.jpg"&gt;Word Clock base on RGB LED WS2812Bから発見。画像もここから転載。
 マトリクス上にアルファベットがちりばめられた見た目が特徴的なWordClockですが、この記事で紹介しているのは、ちょっと見た目が違うタイプのWordClockです。
 写真を見れば一目瞭然、櫛状のアクリル板の細いスリット部分に時刻を表す英単語がちりばめらえれているという、新しい構造のWord Clockです。
-アクリル板を櫛状に加工することで、部品点数を減らしている点が画期的だと感じました。
- </description>
+アクリル板を櫛状に加工することで、部品点数を減らしている点が画期的だと感じました。</description>
     </item>
     
     <item>
@@ -30,13 +28,12 @@
       <pubDate>Tue, 07 Jan 2020 23:00:08 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8Bword-clock/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3d-printed-word-clock.jpg"&gt;Animated Word Clock から発見。画像もここから転載（CC BY-NC-SA By TechKiwiGadgets）
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3d-printed-word-clock.jpg"&gt;Animated Word Clockから発見。画像もここから転載（CC BY-NC-SA By TechKiwiGadgets）
 またまたWordClockです。
 3Dプリンタで文字をくりぬいて、写真のように文字が浮かび上がるような効果を演出しています。
 LEDの手前に製氷皿のように格子状のマス目のボードを用意し（これがグレーのフィラメントであるのも意味がありそう？）その底面にはアルファベットの形状でくりぬきを開けておきます。
 さらにそれを覆うケースにはアルファベットの形状でエンボスが刻まれています。
-この二重のアルファベット形状のくりぬきとエンボスにより、文字の投影を実現しています。 マイコンはArduino、LEDはよく使われるWS2812Bを使っています。
- </description>
+この二重のアルファベット形状のくりぬきとエンボスにより、文字の投影を実現しています。 マイコンはArduino、LEDはよく使われるWS2812Bを使っています。</description>
     </item>
     
     <item>
@@ -45,11 +42,10 @@ LEDの手前に製氷皿のように格子状のマス目のボードを用意�
       <pubDate>Thu, 07 Nov 2019 23:00:35 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E8%AC%8E%E3%81%AE%E3%82%AB%E3%83%83%E3%82%B3%E3%82%88%E3%81%95%E3%81%8C%E3%81%82%E3%82%8B%E5%8A%9B%E4%BD%9Cwordclock/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/servo-word-clock.jpg"&gt;Word Clock Controlled by 114 Servos から発見。画像もここから転載（CC BY-NC-SA By mosivers）
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/servo-word-clock.jpg"&gt;Word Clock Controlled by 114 Servosから発見。画像もここから転載（CC BY-NC-SA By mosivers）
 とにかくかっこいいので、まずは上のリンクから動画を見てほしいです。
 今までにない新しいアプローチのWordClockです。アルファベット1文字1文字に対応するLEDをサーボモーターによって前後させることで、スクリーンに映るアルファベットをのフォーカスを調整しています。
-動画を見れば原理も一目瞭然なのですが、この発想と大量のサーボモーターを制御している努力に脱帽です。
- </description>
+動画を見れば原理も一目瞭然なのですが、この発想と大量のサーボモーターを制御している努力に脱帽です。</description>
     </item>
     
     <item>
@@ -58,11 +54,10 @@ LEDの手前に製氷皿のように格子状のマス目のボードを用意�
       <pubDate>Mon, 04 Nov 2019 23:00:11 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E6%98%A0%E7%94%BB%E3%83%9E%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E9%A2%A8%E3%81%AE%E5%B0%8F%E5%9E%8B%E3%81%A7%E3%81%A8%E3%81%A6%E3%82%82%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84word-clock/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/matrix-wordclock.jpg"&gt;This Word Clock Is as Small as They Get から発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/matrix-wordclock.jpg"&gt;This Word Clock Is as Small as They Getから発見。画像もここから転載。
 電子工作の作例としてWordClockをよく見ますが、これはその中でも群を抜いてかっこいいものです。
 Small Word Clockにより詳しい製作ログが公開されていますが、このアルファベットを表示しているマスク部分も基板として作成しているようです。ソルダーレジストをアルファベット型に抜くことで、この写真のような良い感じの表示を実現しているようです。
-CPUはPIC16F887 を使っているようです。
- </description>
+CPUはPIC16F887 を使っているようです。</description>
     </item>
     
     <item>
@@ -74,8 +69,7 @@ CPUはPIC16F887 を使っているようです。
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/f579e436-f9fa-4afc-823f-f881412ff0eb.jpeg"&gt;Tiny Word Clockから発見。画像もここから転載。
 Espruinoは組み込み環境向けのJavaScript開発環境。
 この記事ではEspruinoを使っていわゆる「WordClock」を作成する方法を紹介している。
-ここで紹介されているマイコンボードは技適取得されていないので、日本で利用する場合には注意が必要です。
- </description>
+ここで紹介されているマイコンボードは技適取得されていないので、日本で利用する場合には注意が必要です。</description>
     </item>
     
     <item>
@@ -86,10 +80,9 @@ Espruinoは組み込み環境向けのJavaScript開発環境。
       <guid>https://inajob.github.io/iroiro-review/post/%E3%81%82%E3%82%8A%E3%81%9D%E3%81%86%E3%81%A7%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E6%97%A5%E6%9C%AC%E8%AA%9Eword-clock/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/0ecb73ee-824c-4c24-8873-1d79fff2ed90.jpeg"&gt;Japanese Word Clockから発見。写真もここから転載。
 英語のWordClockというのはArduinoの作例などでよく見かけます。
- こういうやつ。
+こういうやつ。
 しかし今回紹介するJapanese Word Clockはこれの日本語版です。
-まだ作業途中のようですが、完成すると今までに見たことがないガジェットになるでしょう
- </description>
+まだ作業途中のようですが、完成すると今までに見たことがないガジェットになるでしょう</description>
     </item>
     
   </channel>

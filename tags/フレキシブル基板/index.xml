@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>フレキシブル基板 on inajobのいろいろレビュー</title>
@@ -17,11 +16,10 @@
       <pubDate>Wed, 01 Apr 2020 23:00:21 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E5%BD%A2%E7%8A%B6%E8%A8%98%E6%86%B6%E5%90%88%E9%87%91%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E6%AD%A9%E3%81%8F%E5%9F%BA%E6%9D%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/walking-board.jpg"&gt;Robot-ants that can jump, communicate and work together から発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/walking-board.jpg"&gt;Robot-ants that can jump, communicate and work togetherから発見。画像もここから転載。
 形状記憶合金を使った歩く基板の作例です。 ぴょんぴょんとジャンプするような動きで昆虫のように動く基板が印象的です。
 ロボットのようなものはどうしてもモーターなどで大きく、重くなりがちですが、フレキシブル基板と形状記憶合金を使うことで非常に軽量に仕上げているのが特徴です。
-さらにこのロボットは「蟻」を参考にしているらしく、複数台が協調して動作するなどの機能もあるようです。
- </description>
+さらにこのロボットは「蟻」を参考にしているらしく、複数台が協調して動作するなどの機能もあるようです。</description>
     </item>
     
     <item>
@@ -33,8 +31,7 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/flex-pov.jpg"&gt;FlexLEDから発見。画像もここから転載
 POVディスプレイは電子工作界隈では有名な作例です。 自転車のスポークなどにフルカラーLEDをつけて、回転させながらLEDを制御すると、残像により少ないLEDで大きなディスプレイのようなものを作ることができます。
 この記事で紹介しているのはフレキシブル基板を使って作成したPOVです。 フレキシブル基板自体にコイル状のパターンを形成し、それにより電磁誘導でフレキシブル基板自体を振動させます。この振動に合わせて先っぽについた2色のLEDを制御してPOVを実現しています。
-フレキシブル基板は基板自体がたわむので、今までの基板ではできなかったこういう技ができるという良い例です。結果として安くでこういう複雑な仕組みを実現できそうです。
- </description>
+フレキシブル基板は基板自体がたわむので、今までの基板ではできなかったこういう技ができるという良い例です。結果として安くでこういう複雑な仕組みを実現できそうです。</description>
     </item>
     
     <item>

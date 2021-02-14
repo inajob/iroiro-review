@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Raspberry Pi on inajobのいろいろレビュー</title>
@@ -19,8 +18,7 @@
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E5%BC%8F%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8D%E3%81%AEraspberry-pi%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/mutantc.png"&gt;mutantCから発見。画像もここから転載。
 ガジェット感満載のスライド式キーボードを搭載したRaspberry Piコンソールです。ケースは3Dプリンタで作られており、様々なサイズのディスプレイや、Raspberry PiなどのSBCに対応しています。
-V1,V2,V3と様々なバージョンが公開されており、継続的に開発が進められているようです。
- </description>
+V1,V2,V3と様々なバージョンが公開されており、継続的に開発が進められているようです。</description>
     </item>
     
     <item>
@@ -31,8 +29,7 @@ V1,V2,V3と様々なバージョンが公開されており、継続的に開発
       <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-compute-module%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/cuitepi.png"&gt;CutiePi tabletから発見。画像もここから転載。
 Raspberry Piを使ったタブレット端末のプロジェクトです。
-利用しているのはRaspberry Pi 3 Compute Moduleです。 Compute Moduleを使うことで薄型のデバイスに簡単に内蔵できる非常に良い例です。
- </description>
+利用しているのはRaspberry Pi 3 Compute Moduleです。 Compute Moduleを使うことで薄型のデバイスに簡単に内蔵できる非常に良い例です。</description>
     </item>
     
     <item>
@@ -43,8 +40,7 @@ Raspberry Piを使ったタブレット端末のプロジェクトです。
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%83%88%E3%83%AD%E3%83%A9%E3%82%B8%E3%82%AA%E9%A2%A8%E3%81%AEraspberrypi%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/radio-pi.jpg"&gt;1963 Pi Tourer Game Consoleから発見。画像もここから転載（CC BY-NC-SA By MisterM）
 レトロラジオとアーケードゲームをくっつけたようなユニークな形状のRaspberry Piコンソールの作例です。レトロな外観のラジオ部分は実際に古いラジオを分解して再利用しているようです。
-コントローラの内部にRaspberry Piを内蔵するアイデアは応用が利きそうです。
- </description>
+コントローラの内部にRaspberry Piを内蔵するアイデアは応用が利きそうです。</description>
     </item>
     
     <item>
@@ -67,8 +63,7 @@ Raspberry Piを使ったタブレット端末のプロジェクトです。
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/bigphone.jpg"&gt;This Giant Raspberry Pi Flip Phone Lets You Relive the Good Ol’ Daysから発見。画像もここから転載。
 3Dプリンタで作られた、Raspberry Pi向けのやや大き目の折り畳み型ケータイケースの作例です。
 2Gの通信モジュールも内蔵しており、実際に通信することができるようです。キーパッド部分はメカニカルキーボードのスイッチを使っているようです。
-大き目で作ることですることで様々な難しい障害を取り除くことができるので、まずはすこし「大き目」でものを作ってみるというアプローチも良いなと感じました。
- </description>
+大き目で作ることですることで様々な難しい障害を取り除くことができるので、まずはすこし「大き目」でものを作ってみるというアプローチも良いなと感じました。</description>
     </item>
     
     <item>
@@ -79,8 +74,7 @@ Raspberry Piを使ったタブレット端末のプロジェクトです。
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E9%A2%A8%E3%81%AEraspberry-pi%E3%82%B1%E3%83%BC%E3%82%B9/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/compactpi.jpg"&gt;CompactPi Mini Arcade - CPi01から発見。画像もここから転載。
 見ての通りアーケードゲーム風のRaspberry Piのエンクロージャです。 3Dプリンタを使って作られていますが、完成度は非常に高く、おもちゃっぽい色合いのフィラメントが良い雰囲気を演出しています。
-ディスプレイは800x480、バッテリ、スピーカーも搭載されています。さらに手前に小さなOLEDのディスプレイが搭載してあり、ガジェット感を演出しています。
- </description>
+ディスプレイは800x480、バッテリ、スピーカーも搭載されています。さらに手前に小さなOLEDのディスプレイが搭載してあり、ガジェット感を演出しています。</description>
     </item>
     
     <item>
@@ -126,8 +120,7 @@ Raspberry Piを使ったタブレット端末のプロジェクトです。
       <guid>https://inajob.github.io/iroiro-review/post/%E4%BD%95%E3%81%8B%E3%81%AB%E4%BC%BC%E3%81%9Fraspberry-pi%E3%82%B1%E3%83%BC%E3%82%B9/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ras-pro.jpg"&gt;RasProから発見。画像もここから転載（Public Domain）
 写真を見れば一目瞭然例のアレによく似たRaspberry Piのケースです。 AC電源やファンを内蔵するなど、意外とちゃんと作られています。
-取っ手も付いているし、案外良い製品に見えてきました。
- </description>
+取っ手も付いているし、案外良い製品に見えてきました。</description>
     </item>
     
     <item>
@@ -137,8 +130,7 @@ Raspberry Piを使ったタブレット端末のプロジェクトです。
       
       <guid>https://inajob.github.io/iroiro-review/post/6%E9%9D%A2%E5%85%A8%E9%83%A8%E3%81%8C%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%81%AE%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%96%E5%9E%8B%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/led-cube.jpg"&gt;PiXXL Cube Is a Raspberry Pi-Powered, Six-Sided Displayから発見。画像もここから転載。
-簡単に思いつくけど、作るのが難しそうなガジェットです。 加速度センサーを内蔵しているようで、傾けながら立体的な迷路を攻略する様子の動画も紹介されています。
- </description>
+簡単に思いつくけど、作るのが難しそうなガジェットです。 加速度センサーを内蔵しているようで、傾けながら立体的な迷路を攻略する様子の動画も紹介されています。</description>
     </item>
     
     <item>
@@ -161,8 +153,7 @@ Raspberry Pi 3を使ったキーボード付きの端末です。 PCB基板を�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/wood-raspi-case.jpg"&gt;Tiny Wooden Laptopから発見。画像もここから転載（CC BY-NC-SA By makefailrepeat）
 Raspberry Pi 3を使ったコンソールです。ディプレイ4インチで800x480。キーボードはBluetoothの無線キーボードを使っています。
 ディスプレイの裏側にRaspberry Piをマウントし、キーボードの下には余ったケーブルやバッテリーを入れているようです。
-3Dプリンタだけで作るとどうしても安っぽい感じになりがちですが、この作品のように木工作を組み合わせることで、味のある雰囲気が出せるのだなと感じました。
- </description>
+3Dプリンタだけで作るとどうしても安っぽい感じになりがちですが、この作品のように木工作を組み合わせることで、味のある雰囲気が出せるのだなと感じました。</description>
     </item>
     
     <item>
@@ -173,8 +164,7 @@ Raspberry Pi 3を使ったコンソールです。ディプレイ4インチで80
       <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-3%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/portable-raspi3-game.jpg"&gt;Portable Retro Game Console with 7.9-inch displayから発見。画像もここから転載。
 Raspberry Pi 3を使ったポータブルゲーム機の作例です。 ケースは3Dプリンタで作成しています。
- 7.9インチディスプレイ(iPad mini 3のものと同じ) 2048x1536 USB DAC(16Bit, 48kHz) 3.5mmオーディオジャック 3Wスピーカ 8000mAh バッテリー  筐体の中身の写真がないので、想像するしかないですが、この大きさに収めるにはかなりの工夫が必要そうです。
- </description>
+ 7.9インチディスプレイ(iPad mini 3のものと同じ) 2048x1536 USB DAC(16Bit, 48kHz) 3.5mmオーディオジャック 3Wスピーカ 8000mAh バッテリー  筐体の中身の写真がないので、想像するしかないですが、この大きさに収めるにはかなりの工夫が必要そうです。</description>
     </item>
     
     <item>
@@ -185,8 +175,7 @@ Raspberry Pi 3を使ったポータブルゲーム機の作例です。 ケー�
       <guid>https://inajob.github.io/iroiro-review/post/raspberrypi%E3%81%A8%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E3%81%8F%E3%81%A3%E3%81%A4%E3%81%91%E3%81%9F%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AAlinux%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/pocketpi-mk2.jpg"&gt;POCKETPI MK2から発見。画像もここから転載。
 Raspberry Piコンソールの作例はたくさんありますが、ここで紹介するのはシンプルにアクリル板にキーボードとバッテリー、ディスプレイを固定するというものです。
-凝ったケースもよいですが、まずはこのような簡単な仕組みから作ってみるのもよいと思いました。
- </description>
+凝ったケースもよいですが、まずはこのような簡単な仕組みから作ってみるのもよいと思いました。</description>
     </item>
     
     <item>
@@ -195,10 +184,9 @@ Raspberry Piコンソールの作例はたくさんありますが、ここで�
       <pubDate>Wed, 11 Dec 2019 23:00:02 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%E3%81%AA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8Draspberrypi%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/pocketpi.jpg"&gt;PocketPi! から発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/pocketpi.jpg"&gt;PocketPi!から発見。画像もここから転載。
 Raspberry Piを使ってコンソールを作る試みは数多くありますが、これはポケコン風に組みてた作例です。
-あつらえたようにぴったりなキーボードは実は無線キーボードをバラしたもののようです。 ケースは3Dプリンタで作成されており、様々な試行錯誤を繰り返して、このコンパクトな形状に収めることができたようです。
- </description>
+あつらえたようにぴったりなキーボードは実は無線キーボードをバラしたもののようです。 ケースは3Dプリンタで作成されており、様々な試行錯誤を繰り返して、このコンパクトな形状に収めることができたようです。</description>
     </item>
     
     <item>
@@ -207,13 +195,12 @@ Raspberry Piを使ってコンソールを作る試みは数多くあります�
       <pubDate>Wed, 07 Aug 2019 23:00:17 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AElinux%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/pinkypi.jpg"&gt;The PinkyPi Pushes the Limits of How Small a Raspberry Pi Handheld Can Be から発見
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/pinkypi.jpg"&gt;The PinkyPi Pushes the Limits of How Small a Raspberry Pi Handheld Can Beから発見
 元ネタはPinkyPi - Full build - Updatedのようだ。
 PinkyPiはRaspberry Pi Zero Wを使ったゲーム機。1.33インチの240x240の液晶と500mAのバッテリー、そして充電ICのTP4056、23Wのオーディオアンプが搭載されている。
 3Dプリンタ製のケースにより手のひらサイズを実現している。
 TP4056ボードは充電容量に応じて抵抗を変更する必要があるらしい。
-基本的には既製品のボードを使っているだけなので、比較的簡単に真似ができそうだ。
- </description>
+基本的には既製品のボードを使っているだけなので、比較的簡単に真似ができそうだ。</description>
     </item>
     
     <item>
@@ -224,10 +211,7 @@ TP4056ボードは充電容量に応じて抵抗を変更する必要がある�
       <guid>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AElinux%E3%83%9E%E3%82%B7%E3%83%B3%E7%94%A8%E5%9F%BA%E6%9D%BF/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/snaponair.jpg"&gt;SnapOnAir Raspberry PI ZERO PCBから発見。画像もここから転載。
 RaspberryPi Zero W を使った非常にコンパクトにまとまった基板です。 表面実装が必要な部分が多いので、気軽に作ることは難しそうだが、完成品を見ると非常に欲しくなります。
-作者によると夏より前にクラウドファンディングを計画しているようです。完成品が欲しい方は要チェックです。
-We plan to make a @crowd_supply campain or @Indiegogo or @kickstarter crowdfunding before summer. This to release a fully assembled model pic.twitter.com/53blnTTJe3
-&amp;mdash; pwav robot (@pwavrobot) 2019年3月15日 
- </description>
+作者によると夏より前にクラウドファンディングを計画しているようです。完成品が欲しい方は要チェックです。</description>
     </item>
     
     <item>
@@ -239,8 +223,7 @@ We plan to make a @crowd_supply campain or @Indiegogo or @kickstarter crowdfundi
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/raspberry-pi-4-get-pciexpress.jpg"&gt;Raspberry Pi 4 B+ - PCI Expressから発見。画像もここから転載。
 Raspberry Pi 4は様々な面で性能が向上していますが、この記事で扱っているのはUSB3.0のコントローラ部分です。 Raspberry Pi 4ではUSB3.0はPCI Expressのインターフェースで接続されています。PCI Expressのスロットが出ているわけではありませんが、制御チップはボード上にあります。
 そこで、この記事ではPCI Expressの制御チップから無理やり配線を変更して、PCI Expressのライザーカードに接続し、SASコントローラボードをつなげています。
-このライザーカードはUSB3.0のケーブルを使ってPCI Expressの信号を伝えるもののようで、つまりPCI-ExpressとつながっているUSB3.0のコントローラのICをひっぺがして、PCI-Expressの信号をそのままUSB3.0の端子に出るようにすれば、このライザーカードを経由してPCI Expressボードが使えるようになるという算段です。
- </description>
+このライザーカードはUSB3.0のケーブルを使ってPCI Expressの信号を伝えるもののようで、つまりPCI-ExpressとつながっているUSB3.0のコントローラのICをひっぺがして、PCI-Expressの信号をそのままUSB3.0の端子に出るようにすれば、このライザーカードを経由してPCI Expressボードが使えるようになるという算段です。</description>
     </item>
     
     <item>
@@ -277,8 +260,7 @@ Raspberry Piで簡単に利用できるサーマルカメラの紹介記事で�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/cheese.jpeg"&gt;Retro Gaming… On a Cheeseburger? から発見。画像もここから転載。
 Raspberry Pi Zeroを使ったゲーム機。特筆すべきはこのゲーム機の形状です。
 このチーズバーガーを模した筐体は、レーザーカッターで切断したMDFを積層して作られています。 積層したMDFの側面をやすりがけして丸みのある形に加工しています。
-レーザーカッターを使った作例は、「いかにも」という風貌になりがちですが、このように手をかけることで、ここまでの質感を表現できることに驚きました。
- </description>
+レーザーカッターを使った作例は、「いかにも」という風貌になりがちですが、このように手をかけることで、ここまでの質感を表現できることに驚きました。</description>
     </item>
     
     <item>
@@ -290,8 +272,7 @@ Raspberry Pi Zeroを使ったゲーム機。特筆すべきはこのゲーム機
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/raspi-laptop.jpg"&gt;Spellbookから発見。画像もここから転載。
 SpellbookはRaspberry Pi Zeroを使った自作のハンドヘルドPCです。 製作のほとんどの工程が動画で紹介されています。
 コンポーネントを固定するために3Dプリンタで”お弁当箱の仕切り”のような部品を作っているのがとても参考になりました。
-原理上できるのはわかるのですが、このSpellbookはかなりコンパクトにそれを実現しているのが印象的です。
-   </description>
+原理上できるのはわかるのですが、このSpellbookはかなりコンパクトにそれを実現しているのが印象的です。</description>
     </item>
     
     <item>
@@ -303,8 +284,7 @@ SpellbookはRaspberry Pi Zeroを使った自作のハンドヘルドPCです。 
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/pi-sugar.jpg"&gt;PiSugar Battery for Raspberry Pi zeroから発見。画像もここから転載。
 Raspberry Pi Zeroは小型で組み込みやすいのですが、バッテリーをふくめるとどうでしょう？ 大きなバッテリーのために結局かさばってしまった、というような作例をよく見かけます。
 ここで紹介しているPiSugarはRaspberry Pi Zeroにぴったりのバッテリーボードです。 これを使うことで、簡単にバッテリー入りの小型のガジェットを作ることができそうです。
-基板同士の接続はスプリングピンで実現しているため、はんだ付けをすることなく組み立てられるというのも魅力です。バッテリーと基板の固定には磁石を用いているというのも変わったアイデアだな、と感じました。
- </description>
+基板同士の接続はスプリングピンで実現しているため、はんだ付けをすることなく組み立てられるというのも魅力です。バッテリーと基板の固定には磁石を用いているというのも変わったアイデアだな、と感じました。</description>
     </item>
     
     <item>
@@ -315,9 +295,8 @@ Raspberry Pi Zeroは小型で組み込みやすいのですが、バッテリー
       <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E5%A4%96%E4%BB%98%E3%81%91raspberrypiusberry-pi/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/usberrypi.jpg"&gt;USBerry PI - USB Rasberry Pi Zero(W) にて発見。画像もここから転載（By quintaar CC BY-NC-SA）
 普通のノートパソコンからは気軽にGPIOを操作することはできません。この記事ではRaspberryPi Zero WをPCにつなげ、気軽に電子工作ができるような「外付けRaspberryPi」を作成しています。
- こういうUSBのコネクタを生やすやつを使って、RaspberryPi Zero WをPCに直結できるようにしているようです。
-PCからの接続は、 Raspberry Pi ZeroをUSBケーブル1本で遊ぶ の手法を使っているようです。
- </description>
+こういうUSBのコネクタを生やすやつを使って、RaspberryPi Zero WをPCに直結できるようにしているようです。
+PCからの接続は、 Raspberry Pi ZeroをUSBケーブル1本で遊ぶ の手法を使っているようです。</description>
     </item>
     
     <item>

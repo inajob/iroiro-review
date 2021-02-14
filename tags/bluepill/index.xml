@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bluepill on inajobのいろいろレビュー</title>
+    <title>BluePill on inajobのいろいろレビュー</title>
     <link>https://inajob.github.io/iroiro-review/tags/bluepill/</link>
-    <description>Recent content in Bluepill on inajobのいろいろレビュー</description>
+    <description>Recent content in BluePill on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Mon, 04 Jan 2021 11:00:24 +0000</lastBuildDate>
@@ -21,8 +20,7 @@
 小さなOLEDを4つ搭載した、ユニークなFM音源チップ実験ボードです。
 海外版のメガドライブ（Genesis）の音源に使用されていたYM2612と YM3438を使って音を鳴らすためのボードです。
 MIDI-IN端子や2つのロータリーエンコーダ、オーディオ出力端子、SDカードスロットなど、音源で遊ぶ際に必要そうなインターフェースは十分備えています。
-コントローラとなるICはBluePill(STM32F103)のように見えます。
- </description>
+コントローラとなるICはBluePill(STM32F103)のように見えます。</description>
     </item>
     
   </channel>

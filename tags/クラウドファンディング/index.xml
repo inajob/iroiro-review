@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>クラウドファンディング on inajobのいろいろレビュー</title>
@@ -21,8 +20,7 @@
 パワフルな携帯ゲーム機のプロジェクトです。 コアとなるのは STM32H750 Cortex-M7 です。1MBのSRAMを搭載し、さらに32MBのフラッシュメモリを内蔵しています。
 解像度は320x240で、バッテリーも搭載しています。
 ゲームは、LuaやC++で作成できます。ゲームを簡単に作れるように2000以上のスプライトや100以上のサウンドエフェクトと、10以上の音楽も提供されているようです。
-ゲームの開発環境も併せて提供されるなので、比較的簡単にこのゲーム機で動作するゲームを作ることが出来そうです。
- </description>
+ゲームの開発環境も併せて提供されるなので、比較的簡単にこのゲーム機で動作するゲームを作ることが出来そうです。</description>
     </item>
     
     <item>
@@ -31,7 +29,7 @@
       <pubDate>Sun, 04 Oct 2020 23:00:26 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AAatmega644-1284%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/narrow-board.jpg"&gt;644&amp;frasl;1284 Narrowから発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/narrow-board.jpg"&gt;644/1284 Narrowから発見。画像もここから転載。
 コンパクトなAtmega644/1284のボードです。大きさはArduino Nanoよりも少し大きい感じです。 図の右上部分に4ピン余計に引き出されているところはI2Cとして利用できるようになっており、想定としてはOLEDを搭載することができるようです。
 普通のArduinodではRAM/ROMの容量が足りないようなプロジェクトによさそうな開発ボードです。</description>
     </item>
@@ -45,8 +43,7 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/sand-timer.jpg"&gt;Electronic “Sand Timer” Simplifies Board Game Timekeepingから発見。画像もここから転載。
 小さな電子砂時計の作例です。もともとKickstarterのプロジェクトとして成功したもののようです。
 ボタンを押すだけでカウントダウンが始まり、さらに砂時計と違って、途中でリセットしてすぐさまタイマーを再設定することができます。（当たり前ですが・・） 電源ははCR2032、CPUはPIC10LF320を使っています。
-コンパクトでシンプルですが非常によくできたガジェットです。
- </description>
+コンパクトでシンプルですが非常によくできたガジェットです。</description>
     </item>
     
     <item>
@@ -72,8 +69,7 @@ kickstarterでのキャンペーンは無事終了し、販売を開始してい
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ar-board-game.png"&gt;Tilt Five: Holographic Tabletop Gamingから発見。画像もここから転載。
 AR技術を使ったボードゲームデバイスです。
 専用のスマートグラスと、ARマーカー付きのボードを使い、現実の机の上で、バーチャルな演出入りのボードゲームを遊ぶことができるようです。
-ボードゲーム特化というよりは、AR時代の新しい「ディスプレイ」という感じです。こういうものが出てくると、今の「ディスプレイ」と「マウス」を使ったパソコンも近いうちに全く違ったものになるのでは？とワクワクしました。
- </description>
+ボードゲーム特化というよりは、AR時代の新しい「ディスプレイ」という感じです。こういうものが出てくると、今の「ディスプレイ」と「マウス」を使ったパソコンも近いうちに全く違ったものになるのでは？とワクワクしました。</description>
     </item>
     
     <item>
@@ -82,11 +78,11 @@ AR技術を使ったボードゲームデバイスです。
       <pubDate>Sun, 06 Oct 2019 23:00:52 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%82%92%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%81%A8%E3%81%97%E3%81%A6%E4%BD%BF%E3%81%88%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%99%E3%82%8B%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/nexdock2.jpg"&gt;NexDock 2 から発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/nexdock2.jpg"&gt;NexDock 2から発見。画像もここから転載。
 スマートフォンはどんどん高機能化しています。こうなってくるとすべての作業をスマートフォンで行うことも夢ではありません。
 しかしノートパソコンとは違い、スマートフォンの画面は狭く、またキーボードもありません。
 ここで紹介しているNexDock 2はノートパソコン型の「外付けディスプレイ＋キーボード＋バッテリー」です。 一見ノートパソコンのように見えますが、中にCPUは入っていないというわけです。
-名前に2とついていることからもわかるように、すでに&amp;rdquo;NexDock&amp;rdquo;という製品は2016年に製品化されています。が、今回はさらに性能がアップしているようです。</description>
+名前に2とついていることからもわかるように、すでに&amp;quot;NexDock&amp;quot;という製品は2016年に製品化されています。が、今回はさらに性能がアップしているようです。</description>
     </item>
     
     <item>
@@ -97,8 +93,7 @@ AR技術を使ったボードゲームデバイスです。
       <guid>https://inajob.github.io/iroiro-review/post/%E7%B4%B0%E3%81%8B%E3%81%AA%E3%82%BB%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%BF%E3%83%83%E3%83%81%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/trill.jpg"&gt;TRILL: Touch Sensing for Makersから転載。画像もここから転載。
 静電容量タッチをうまい具合に扱うことができるセンサーのプロジェクトです。 様々な形や大きさのセンサーが用意されており、またそれらを組み合わせたり、はさみで切って（！！）形状を変形させることもできるようです。
-それとは別にタッチセンサーのコントロールボードであるTOUCH CRAFTという製品も合わせて用意されており、これを使うと、任意の基板上のパターンや、アルミホイルなどで作ったオリジナルのタッチデバイスを制御することもできるようです。
- </description>
+それとは別にタッチセンサーのコントロールボードであるTOUCH CRAFTという製品も合わせて用意されており、これを使うと、任意の基板上のパターンや、アルミホイルなどで作ったオリジナルのタッチデバイスを制御することもできるようです。</description>
     </item>
     
     <item>
@@ -192,8 +187,7 @@ FPGAボードが身近になってきていますが、まだまだ難しそう�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/motor-synth.jpg"&gt;Motor Synthから発見。画像もここから転載。
 Maker Faire Tokyoなどでもモーターを使って音楽をならすという作例は見かけますが、このプロダクトはそれをまじめにシンセサイザーとして実装した例です。
 写真中央上部の8個の銀色の丸いものがモーターです。このシンセサイザーはモータの回転により生じる電磁波を音源として利用しています。
-物理ベースのシンセサイザーとして新時代の始まりを感じさせるプロダクトです。
- </description>
+物理ベースのシンセサイザーとして新時代の始まりを感じさせるプロダクトです。</description>
     </item>
     
     <item>
@@ -307,7 +301,7 @@ Kickstarterでキャンペーン中なので、気になる人はバックして
 nanoloopというシーケンサを知っていますか？nanoloopはゲームボーイで動作するソフトウェアとしてのシーケンサで、この界隈ではかなり有名なものです。
 今回はそのnanoloopのハードウェア版がKickstarterに登場していたので紹介します。
 音ネタなので、本家サイトに行って動画を見ていただくのが早いのですが、、
- 4チャンネル  矩形波、4ボイスのFM、モノフォニックのFM、ノイズ  4x4マトリックスのシーケンサ  というのが主なスペックのようです。音源やCPUも気になるのですが、そういったスペックは載っていませんでした。</description>
+ 4チャンネル  矩形波、4ボイスのFM、モノフォニックのFM、ノイズ   4x4マトリックスのシーケンサ  というのが主なスペックのようです。音源やCPUも気になるのですが、そういったスペックは載っていませんでした。</description>
     </item>
     
     <item>
@@ -355,8 +349,7 @@ CPUはATmega328Pと書かれているが、経験上CPU性能が心配。画面�
       <guid>https://inajob.github.io/iroiro-review/post/%E4%B8%96%E7%95%8C%E5%88%9D%E5%B7%BB%E5%8F%96%E3%82%8A%E5%BC%8F%E3%81%AE%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/rollable-digital-diplay.png"&gt;Hackaday.ioで発見したプロダクト。 詳細は書かれていないが、いわゆるアドレス指定可能なフルカラーLEDをグリッド上に配置したうえで、巻物のように収納できるようにしたもののようだ。
 IndiGoGoでも出資を募っているようだ しかし、Rewardがシャツ、でOriginal Prototypeが170万円くらいという、基本寄付。みたいなやり方なので、あまり盛り上がっていない様子。
-こちらには動画もあって、コンセントからの電源で動作している様子がわかる
- </description>
+こちらには動画もあって、コンセントからの電源で動作している様子がわかる</description>
     </item>
     
   </channel>

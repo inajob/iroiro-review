@@ -1,27 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3dプリンタ on inajobのいろいろレビュー</title>
+    <title>3Dプリンタ on inajobのいろいろレビュー</title>
     <link>https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
-    <description>Recent content in 3dプリンタ on inajobのいろいろレビュー</description>
+    <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 06 Feb 2021 23:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Feb 2021 23:00:12 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>豆腐をプレスするIoTガジェット</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E8%B1%86%E8%85%90%E3%82%92%E3%83%97%E3%83%AC%E3%82%B9%E3%81%99%E3%82%8Biot%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
-      <pubDate>Sat, 06 Feb 2021 23:00:23 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E8%B1%86%E8%85%90%E3%82%92%E3%83%97%E3%83%AC%E3%82%B9%E3%81%99%E3%82%8Biot%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/tofupresto.jpg"&gt;TofuPrestoから発見。画像もここから転載。
-あまり一般的ではありませんが、豆腐をプレスして食べるという習慣があるようです(主に海外？）。
-TofuPrestoはこの豆腐をプレスする作業を支援してくれる装置です。タッパーの上に圧をかけるための板が内蔵されており、時間とともに豆腐を押しつぶすというものです。
-料理の下ごしらえのプロセスでこのようなガジェットを作るのは面白いと感じました。</description>
-    </item>
     
     <item>
       <title>3Dプリンタで作った部品を頑丈にするために表面に接着剤を塗るというHACK</title>
@@ -31,8 +18,7 @@ TofuPrestoはこの豆腐をプレスする作業を支援してくれる装置�
       <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E9%83%A8%E5%93%81%E3%82%92%E9%A0%91%E4%B8%88%E3%81%AB%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E8%A1%A8%E9%9D%A2%E3%81%AB%E6%8E%A5%E7%9D%80%E5%89%A4%E3%82%92%E5%A1%97%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86hack/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/fiber.png"&gt;STRONGER 3D PRINTS — GLUE OR CARBON FIBER?から発見。画像もここから転載。
 3Dプリンタで作ったパーツの強度はあまり強くありません。この記事では、フックのような形状の3Dプリントされたパーツをより強くする方法として、接着剤やカーボンファイバーを利用する手法を紹介しています。
-少しでも強度が欲しい造形物を作る際には参考になるかもしれません。
- </description>
+少しでも強度が欲しい造形物を作る際には参考になるかもしれません。</description>
     </item>
     
     <item>
@@ -43,8 +29,7 @@ TofuPrestoはこの豆腐をプレスする作業を支援してくれる装置�
       <guid>https://inajob.github.io/iroiro-review/post/%E6%8A%98%E3%82%8A%E7%95%B3%E3%81%BF%E5%BC%8F%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF-1/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/folding-end3.png"&gt;FOLDING AN OFF-THE-SHELF 3D PRINTERから発見。画像もここから転載。
 既製品の3DプリンタであるEnder 3 Proを改造して折り畳みができるようにしています。 電源やスクリーンなど、折りたたむ際に邪魔になるものを筐体の下に配置しなおすなど、大掛かりな設計変更を行い、折り畳み可能な設計を実現しています。
-以前も折り畳みできる3Dプリンタを紹介しているので、こちらも要チェックです。
- </description>
+以前も折り畳みできる3Dプリンタを紹介しているので、こちらも要チェックです。</description>
     </item>
     
     <item>
@@ -55,8 +40,7 @@ TofuPrestoはこの豆腐をプレスする作業を支援してくれる装置�
       <guid>https://inajob.github.io/iroiro-review/post/%E5%8F%A4%E7%B4%99%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%923d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E5%9E%8B%E3%81%A7%E3%83%97%E3%83%AC%E3%82%B9%E3%81%97%E3%81%A6%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/recycle-paper.jpg"&gt;Recycle Cardboard Into Anything With 3D Printing!から転載。画像もここから転載(CC BY-NC-SA By XYZAidan)
 要らなくなった段ボールなどの古紙を、3Dプリンタの力を使い、別のオブジェとして再生成する手法を紹介しています。
-砕いた段ボール片を洗濯ノリと一緒にミキサーにかけ、どろどろにしたものを3Dプリンタで作ったプレス型で押しつぶして、乾燥させて造形を行っています。
- </description>
+砕いた段ボール片を洗濯ノリと一緒にミキサーにかけ、どろどろにしたものを3Dプリンタで作ったプレス型で押しつぶして、乾燥させて造形を行っています。</description>
     </item>
     
     <item>
@@ -65,7 +49,7 @@ TofuPrestoはこの豆腐をプレスする作業を支援してくれる装置�
       <pubDate>Thu, 21 Jan 2021 11:00:10 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84cyberdeck%E3%81%AE%E4%BD%9C%E4%BE%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/cyberdack-mk2.jpg"&gt;The Cyberdeck Mark 2: the dream of the &amp;lsquo;80s is alive.から発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/cyberdack-mk2.jpg"&gt;The Cyberdeck Mark 2: the dream of the &amp;rsquo;80s is alive.から発見。画像もここから転載。
 一般的なノートパソコンとは違う形の、かっこいいLinuxマシンです。マザーボードはNUCを使い、キーボードはErgodoxを搭載しているようです。
 電源部分を省スペース化するためにスポット溶接を使っているようで、これはちょっと作成の難易度が高そうです・・
 筐体は3Dプリンタで作られており、はめ込み式の筐体によりキーボードを分割して配置することもできるようになっています。
@@ -80,8 +64,7 @@ NUCやRaspberryPiなど小型のLinuxボードが簡単に入手できるよう�
       <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%89%E3%81%9B%E3%82%93%E7%8A%B6%E3%81%AE%E9%9D%A2%E7%99%BD%E3%81%84%E6%99%82%E8%A8%88/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/spiral-clock.jpg"&gt;Spiral Clockから発見。画像もここから転載。
 らせん状の時針が面白いアナログ時計の作例です。普段当たり前に利用している時計ですが、ちょっと発想を変えることで、面白い作品に仕上がっています。
-3Dプリンタを使うことで、思いついた形状のアナログ時計を簡単に作ることが出来るので、アイデアのある人は試してみるのはいかがでしょうか？
- </description>
+3Dプリンタを使うことで、思いついた形状のアナログ時計を簡単に作ることが出来るので、アイデアのある人は試してみるのはいかがでしょうか？</description>
     </item>
     
     <item>
@@ -93,8 +76,7 @@ NUCやRaspberryPiなど小型のLinuxボードが簡単に入手できるよう�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/corexy.png"&gt;CORE XY EXPLAINEDから発見。画像もここから転載。
 3DプリンタのX,Y軸の制御の方法の一つであるCore XYについて紹介しています。
 最もわかりやすい、X,Y軸をそれぞれのステッピングモータが担当する方式はCartesianと呼ばれており、またもう一つ、よく聞く方式にDeltaがあります。
-CoreXYはこのどちらとも違う方式です。 ちょっとトリッキーに接続された2本のベルトを2個のステッピングモーターで引っ張ることで、X,Y軸の移動を実現しており、この方式のほうがCartesianよりも正確で、また速い速度で移動できるようです。
- </description>
+CoreXYはこのどちらとも違う方式です。 ちょっとトリッキーに接続された2本のベルトを2個のステッピングモーターで引っ張ることで、X,Y軸の移動を実現しており、この方式のほうがCartesianよりも正確で、また速い速度で移動できるようです。</description>
     </item>
     
     <item>
@@ -107,8 +89,7 @@ CoreXYはこのどちらとも違う方式です。 ちょっとトリッキー�
 3Dプリント時に、うまく積層出来なかったフィラメントが、ノズルに残り続けることがあります。 さらに悪いことに、この残りカスが再び生成物にくっつくことがあるのです。
 こうなると3Dプリンタの生成物に変なたんこぶのようなものが出来たり、ひどいときは、その段差によりベッドから生成物がはがれてしまい、プリントが失敗してしまうようなこともあります。
 この記事では、これを何とか防ごうと、金属製のブラシをヒートベッドの横に設置して、都度都度ノズルを掃除しようというアイデアを試しています。
-この記事のやり方では、結局うまく行かなかったようですが、このアイデアを基に、さらなる実験を行えば、良い方法が見つかるかもしれません。
- </description>
+この記事のやり方では、結局うまく行かなかったようですが、このアイデアを基に、さらなる実験を行えば、良い方法が見つかるかもしれません。</description>
     </item>
     
     <item>
@@ -119,8 +100,7 @@ CoreXYはこのどちらとも違う方式です。 ちょっとトリッキー�
       <guid>https://inajob.github.io/iroiro-review/post/%E7%84%A1%E7%B7%9A%E3%81%A7%E5%88%B6%E5%BE%A1%E3%81%A7%E3%81%8D%E3%82%8B%E7%B5%B5%E6%96%87%E5%AD%97%E8%A1%A8%E7%A4%BA%E5%99%A8/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/emoji-display.jpg"&gt;IoT Emoji Signから発見。画像もここから転載。（CC BY-NC-SA By 陳亮）
 ESP8266ボードを使ったフルカラーマトリクスLED表示ガジェットです。 スマートフォンから簡単に表示内容を変更できるようです。
-面白いと思ったのは、フルカラーマトリクスLEDの作り方です。表面実装のアドレッサブルフルカラーLEDを3Dプリンタで作った型の上に並べ、表面実装の部品同士を直接導線でつないで、その状態でグルーガンで固めてしまっています。かなり力技ですが、きれいに仕上がっているので、案外良い方法なのかも・・と感じました。
- </description>
+面白いと思ったのは、フルカラーマトリクスLEDの作り方です。表面実装のアドレッサブルフルカラーLEDを3Dプリンタで作った型の上に並べ、表面実装の部品同士を直接導線でつないで、その状態でグルーガンで固めてしまっています。かなり力技ですが、きれいに仕上がっているので、案外良い方法なのかも・・と感じました。</description>
     </item>
     
     <item>
@@ -154,8 +134,7 @@ RaspberryPi4とUSBハブ、2.5インチのハードディスクドライブ2つ�
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E5%BC%8F%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8D%E3%81%AEraspberry-pi%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/mutantc.png"&gt;mutantCから発見。画像もここから転載。
 ガジェット感満載のスライド式キーボードを搭載したRaspberry Piコンソールです。ケースは3Dプリンタで作られており、様々なサイズのディスプレイや、Raspberry PiなどのSBCに対応しています。
-V1,V2,V3と様々なバージョンが公開されており、継続的に開発が進められているようです。
- </description>
+V1,V2,V3と様々なバージョンが公開されており、継続的に開発が進められているようです。</description>
     </item>
     
     <item>
@@ -178,8 +157,7 @@ V1,V2,V3と様々なバージョンが公開されており、継続的に開発
       <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%9F%E8%A4%87%E6%95%B0%E3%83%9A%E3%83%B3%E5%AF%BE%E5%BF%9C%E3%81%AE%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/pen-plotter-made-by-3d-printer.jpg"&gt;Turning a Zonestar 3D printer into a Plotter から発見。画像もここから転載。
 3Dプリンタを改造して作られたペンプロッタです。 複数のペンを持ち替えることができるというユニークな機能が特徴です。
-Z軸をフル活用して、ペンを差し替えています。なんともアナログな方法ですが、一生懸命ペンを持ち替えて図形を描く姿は、見ていて飽きません。
- </description>
+Z軸をフル活用して、ペンを差し替えています。なんともアナログな方法ですが、一生懸命ペンを持ち替えて図形を描く姿は、見ていて飽きません。</description>
     </item>
     
     <item>
@@ -191,8 +169,7 @@ Z軸をフル活用して、ペンを差し替えています。なんともア�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/dot-matrix.jpg"&gt;Dot Matrix Printing with a 3D Printer にて発見。写真もここから転載。
 ドットマトリクス式の印刷を3Dプリンタで実現する方法を紹介。 3Dプリンタを動かすためのGcodeを生成するWebサービスを作ったらしい
 このツールを使ってGcodeを生成したものを3Dプリンタで実行することで、ドットマトリクス式の印刷ができる。
-またAnet A8というプリンタ向けのペン固定用の冶具のデータも配布している。
- </description>
+またAnet A8というプリンタ向けのペン固定用の冶具のデータも配布している。</description>
     </item>
     
     <item>
@@ -203,8 +180,7 @@ Z軸をフル活用して、ペンを差し替えています。なんともア�
       <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E8%BB%8A%E3%81%AE%E3%82%B7%E3%83%95%E3%83%88%E3%83%AC%E3%83%90%E3%83%BC%E5%9E%8B%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/gear-shift.jpg"&gt;3D PRINTABLE STICK SHIFT FOR YOUR RACING SIMULATORから発見。画像もここから転載。
 3Dプリンタ製の部品とねじ付きロッドをうまく使って、自動車のシフトレバー風のコントローラを自作しています。
-レースゲームなどで遊ぶ際に、このような専用コントローラがあると気分が盛り上がりそうです。
- </description>
+レースゲームなどで遊ぶ際に、このような専用コントローラがあると気分が盛り上がりそうです。</description>
     </item>
     
     <item>
@@ -215,8 +191,7 @@ Z軸をフル活用して、ペンを差し替えています。なんともア�
       <guid>https://inajob.github.io/iroiro-review/post/%E5%AE%87%E5%AE%99%E8%88%B9%E3%81%AE%E6%93%8D%E7%B8%A6%E5%B8%AD%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%82%B5%E3%83%BC%E3%83%9C%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AE%E3%83%86%E3%82%B9%E3%83%88%E8%A3%85%E7%BD%AE/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/servo-tester.png"&gt;SPACE-SAVING SERVO TESTER CONSOLE LOOKS SPACE-WORTHYから発見。画像もここから転載。
 3Dプリンタで作られた、かっこいい見た目のサーボモータのテスト装置です。 装置の形がカッコいいというのはテンションが上がってよさそうです。
-3Dプリンタでの造形は、展開図のような部品を出力しそれを折り曲げるようにして、作成されています。オーバーハングの印刷が難しい3Dプリンタにおいて、この「折り曲げる」という手法はかなり応用ができそうです。
- </description>
+3Dプリンタでの造形は、展開図のような部品を出力しそれを折り曲げるようにして、作成されています。オーバーハングの印刷が難しい3Dプリンタにおいて、この「折り曲げる」という手法はかなり応用ができそうです。</description>
     </item>
     
     <item>
@@ -264,8 +239,7 @@ Z軸をフル活用して、ペンを差し替えています。なんともア�
       <guid>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E3%82%92%E3%81%8B%E3%81%96%E3%81%99%E3%81%93%E3%81%A8%E3%81%A7%E6%93%8D%E4%BD%9C%E3%81%A7%E3%81%8D%E3%82%8B%E9%9B%BB%E5%AD%90%E3%83%89%E3%83%A9%E3%83%A0/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/air-drum.jpg"&gt;The Airdrum - Make music while movingから発見。画像もここから転載。
 手をかざすことで演奏ができる、楽しそうな電子ドラムです。 PCと接続しMIDI経由で音を鳴らすことができます。仕組みとしては赤外線式距離センサーを用いているようです。
-開発の動機としては、既存の楽器を演奏できないような障害をもつ方のための楽器ということのようですが、どんな人でも楽しめる楽器に仕上がっていると感じました。
- </description>
+開発の動機としては、既存の楽器を演奏できないような障害をもつ方のための楽器ということのようですが、どんな人でも楽しめる楽器に仕上がっていると感じました。</description>
     </item>
     
     <item>
@@ -277,8 +251,7 @@ Z軸をフル活用して、ペンを差し替えています。なんともア�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/pcb-workstation.jpg"&gt;NEEDLING YOUR PROJECTS: 3D PRINTED PCB PROBING JIG USES ACCUPUNCTURE NEEDLESから発見。画像もここから転載。
 3Dプリンタ製の表面実装部品を搭載した基板をデバッグする際に便利そうな、ワークベンチの作例の紹介です。
 アームの先についたプローブを表面実装基板のパッドに押し付けることで、デバッグ信号を送ったり、電圧、電流の測定を行うことができます。
-基板組み立てをしていると、「手」がたくさん欲しくなりますが、このような器具があると作業がはかどりそうです。
- </description>
+基板組み立てをしていると、「手」がたくさん欲しくなりますが、このような器具があると作業がはかどりそうです。</description>
     </item>
     
     <item>
@@ -289,8 +262,7 @@ Z軸をフル活用して、ペンを差し替えています。なんともア�
       <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E6%88%90%E6%9E%9C%E7%89%A9%E3%82%92%E3%81%82%E3%81%B6%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E5%BC%B7%E5%BA%A6%E3%82%92%E5%A2%97%E3%81%99hack/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/annealing-3d-printer.jpg"&gt;ANNEALING 3D PRINTS: A SCIENTIFIC APPROACHから発見。画像もここから転載。
 3Dプリンタで作成したパーツは結構もろいです。そのため力が加わるようなパーツを作るのは難し時もあります。
-この記事では、3Dプリンタ製のパーツを「あぶる」ことで強度を高める実験を紹介しています。 あぶることでパーツ自体が縮むため、思った部品を作るのは難しそうですが、テクニックとしては面白そうです。
- </description>
+この記事では、3Dプリンタ製のパーツを「あぶる」ことで強度を高める実験を紹介しています。 あぶることでパーツ自体が縮むため、思った部品を作るのは難しそうですが、テクニックとしては面白そうです。</description>
     </item>
     
     <item>
@@ -301,8 +273,7 @@ Z軸をフル活用して、ペンを差し替えています。なんともア�
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B0%E3%83%AD%E3%83%BC%E5%BC%8F%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%84%E3%83%AA%E3%83%BC%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/christmas-tree.jpg"&gt;Embedded LED 3D Printed Christmas Treeから発見。画像もここから転載。
 ”クリスマスツリーを自作する” というのはMakerにとってはよくある話ですが、ここで紹介している3Dプリンタ製のクリスマスツリーはかなり良い雰囲気に仕上がっています。
-プリント基板を用いずに、3Dプリンタで作成したパネルの「溝」に配線を這わすことで回路を構成し、LEDを構造の内側に配置することで、間接照明的な「アンダーグロー」照明を実現しています。
- </description>
+プリント基板を用いずに、3Dプリンタで作成したパネルの「溝」に配線を這わすことで回路を構成し、LEDを構造の内側に配置することで、間接照明的な「アンダーグロー」照明を実現しています。</description>
     </item>
     
     <item>
@@ -314,8 +285,7 @@ Z軸をフル活用して、ペンを差し替えています。なんともア�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/marble-sorter.jpg"&gt;Color sorting machineから発見。画像もここから転載。
 電子工作界隈ではマーブルチョコの分類マシンというのは、ある種の腕試しの題材として有名なものです。
 この記事で紹介するのは、非常にスタイリッシュな分類マシンです。細長い筒状のコンパクトにまとまった筐体が美しく、必要十分な部品で構成されており、完成度も高いです。
-ただひたすらマーブルチョコを分類する様子は見ていて飽きません。
- </description>
+ただひたすらマーブルチョコを分類する様子は見ていて飽きません。</description>
     </item>
     
     <item>
@@ -327,8 +297,7 @@ Z軸をフル活用して、ペンを差し替えています。なんともア�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/moving-eyes.jpg"&gt;Simplified 3D Printed Animatronic Dual Eye Mechanismから発見。画像もここから転載。(CC BY-NC-SA By Ikkalebob)
 リアルな目の模型をサーボモーターで制御している工作です。 ともかく目の模型がよくできていて、この部分の完成度が高いとこんなにもリアルに見えるのだなと感心しました。
 目玉以外のパーツは3Dプリンタを駆使して6つのサーボモーターをうまく収納したうえでクランク機構を使って目玉を動かしています。
-この工作のまさに目玉となっているリアルな目玉のつくり方については別の記事で紹介されています。
- </description>
+この工作のまさに目玉となっているリアルな目玉のつくり方については別の記事で紹介されています。</description>
     </item>
     
     <item>
@@ -341,8 +310,7 @@ Z軸をフル活用して、ペンを差し替えています。なんともア�
 面白いジュースの自動販売機です。上の屋根の部分にオレンジがマウントされており、注文されるとこのオレンジが絞られてジュースが作られます。
 ここまではどこかで見たことがあるかもしれません。
 しかしこの自動販売機は「カップ」もオレンジから生成します。具体的にはオレンジの皮を基としたフィラメントによりジュースのカップを生成しています。
-生絞りに加えてエコなカップでジュースを飲めるというのは啓蒙活動としても、3Dプリンタ愛好者としても面白い試みです。
- </description>
+生絞りに加えてエコなカップでジュースを飲めるというのは啓蒙活動としても、3Dプリンタ愛好者としても面白い試みです。</description>
     </item>
     
     <item>
@@ -355,29 +323,15 @@ Z軸をフル活用して、ペンを差し替えています。なんともア�
 積層式3Dプリンタの生成物は、いわゆる「積層痕」が表面に出てしまうという品質上の問題があります。
 この記事で紹介しているのは、この「積層痕」を解消する方法です。 3Dプリンタの生成物を、細かく砕いた「塩」の中に突っ込んで加熱するという、さながら「塩釜焼き」のような方法をとることで、生成物の形状を壊すことなく表面を滑らかにすることができるようです。
 注意としては生成物はinfillを100%とし、内部に空洞を作らないことと、フィラメントの素材によって加熱の温度が違うという点です。
-このURLと日本語の要約をTwitterに投稿したところ、多くの方に見ていただき、早速実践を試みている方も現れました。
-積層式の3Dプリンタの生成物を「塩」に詰めて再加熱することで表面の積層痕を無くすという話らしい。 まるで光造形式の3Dプリンタで作ったかのように滑らかになるらしい。 / “Reforming 3D Prints With Salt And Heat | Hackaday” (2 users) https://t.co/lSZxyHmEOr
-&amp;mdash; ina_ani@育休中 (@ina_ani) September 26, 2020 
+ このURLと日本語の要約をTwitterに投稿したところ、多くの方に見ていただき、早速実践を試みている方も現れました。
 ただ、ただ塩に詰めて加熱するだけではなく、様々なパラメータをうまく調整しないと、写真のようにきれいにはいかないようで、皆さん苦労しているようです。
 この手法が確立すれば積層式の3Dプリンタの用途がぐっと広がる事でしょう。
-（以下この手法に挑戦されている方のTwitを載せておきます。） 加熱がまずかったのか、変形してしまっているけど、あと一息？
-3Dプリント塩釜焼きテストその二。
-ムクで造形した四角パイプがこうなりました…ました？？？
-オーブン設定は230度の20分
-前回と違い塩の中から浮き上がっては来なくなったのでムク造形でないといけないというのは確か。後は温度と時間か pic.twitter.com/6DzuE34tQJ
-&amp;mdash; 45ACPなる、遥けき便り、うち捨てむ、そは呪われし、回文にして (@Giro_45ACP) September 27, 2020 
+ （以下この手法に挑戦されている方のTwitを載せておきます。）  加熱がまずかったのか、変形してしまっているけど、あと一息？
 表面がざらざらのようですが、なかなか良さそうです。
-完了。
-積層は完全に消えた。
-ただ、塩粒子がまだまだ粗いせいと思われる肌荒れ（マット感。むしろ炭みたい。）ができた。
-あと、上にしていた部分に凹みがあったので、溶けたときに流れ落ちたと思われる。
-インフィル100%だけど印刷自体の調整が必要。
-課題はあるけど、塩処理自体は成功と言える。 pic.twitter.com/1ROPKGINN7
-&amp;mdash; NN (@kiiimlo) September 27, 2020 
 積層痕は残っているようですが、表面の性質が変化したようで、やすり掛けするとつるつるになったようです。
-塩による積層痕処理試してみました
-予想はできてたけどもっと細かい塩でやらんとダメですね
-こんがり美味しそうな色になったのは温度か時間か&amp;hellip;</description>
+かなりうまくいっているのでは・・？
+こちらも、かなりうまくいっている様子。
+皆さん行動が早くてすごいですね・・</description>
     </item>
     
     <item>
@@ -400,8 +354,7 @@ Z軸をフル活用して、ペンを差し替えています。なんともア�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/smd-parts-case.png"&gt;SMD Component Magazinesから発見。画像もここから転載。
 表面実装のパーツの管理はなかなか難しいです。通常これらのパーツはレール状のパッケージに入っていますがこれが結構かさばります。いっそ全部取り出してピルケースなどに入れてしまう方法もありますが、この記事で紹介しているのは、このレール状のパッケージを収納できる巻き尺のようなケースです。
 このケースは別途用意したマウンタに固定することができ、電子工作をする際に、必要なパーツだけを並べて作業することができます。
-ケースは3Dプリンタで作成できるため、試しに作ってみたいです。
- </description>
+ケースは3Dプリンタで作成できるため、試しに作ってみたいです。</description>
     </item>
     
     <item>
@@ -410,7 +363,7 @@ Z軸をフル活用して、ペンを差し替えています。なんともア�
       <pubDate>Sat, 12 Sep 2020 23:00:19 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E5%A4%89%E5%BD%A2%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/iot-led-clock.jpg"&gt;IOT Convertible LED Matrix Clock から発見。画像もここから転載。（CC BY-NC-SA）
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/iot-led-clock.jpg"&gt;IOT Convertible LED Matrix Clockから発見。画像もここから転載。（CC BY-NC-SA）
 横長と、折りたたんだ形態、２つの形態に変形するドットマトリクス表示機です。コアとなるボードはESP32です。
 折りたためるケースは3Dプリンタで作成されており、折り畳まれたかどうかはリードスイッチにより磁石との接触を検知して実現しています。</description>
     </item>
@@ -435,8 +388,7 @@ Z軸をフル活用して、ペンを差し替えています。なんともア�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3d-printed-moduler-led.jpg"&gt;3D Printed Modular LED Wallから発見。画像もここから転載。(CC BY-NC-SA By DrPEX)
 ピンポン玉を反射材として利用するフルカラーのLEDの作例をよく目にするようになってきました。
 この記事で紹介しているのは8x8サイズを基本とした拡張可能なピンポン玉ドットマトリクスLEDボードです。
-3Dプリンタを利用して作成したこのモジュールを使うことで簡単に好きな大きさのディスプレイを作成することができます。 ジョイント部分は2つの円をくっつけたような部品をハンマーでジグソーパズルのようにはめ込むようになっており、こんなものでうまくくっつけられるのか？とちょっと試してみたいなと思いました。
- </description>
+3Dプリンタを利用して作成したこのモジュールを使うことで簡単に好きな大きさのディスプレイを作成することができます。 ジョイント部分は2つの円をくっつけたような部品をハンマーでジグソーパズルのようにはめ込むようになっており、こんなものでうまくくっつけられるのか？とちょっと試してみたいなと思いました。</description>
     </item>
     
     <item>
@@ -447,8 +399,7 @@ Z軸をフル活用して、ペンを差し替えています。なんともア�
       <guid>https://inajob.github.io/iroiro-review/post/%E6%9C%AC%E7%89%A9%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E6%88%A6%E8%BB%8A%E6%A8%A1%E5%9E%8B/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3dprintedtankfeature.jpg"&gt;MASSIVE 3D-PRINTED RIDABLE TANK BOGGLES THE MINDから発見。画像もここから転載。
 巨大な戦車模型を3Dプリンタで作成した例です。 3Dプリンタで作れる造形物は小さめのものが多いですが、この記事で紹介しているのは、非常に大きな戦車模型です。
-この方は大きな造形ができる3Dプリンタを作るところからDIYを貫いてるようでYoutubeのチャンネルでは、様々な巨大な造形物を見ることができます。
- </description>
+この方は大きな造形ができる3Dプリンタを作るところからDIYを貫いてるようでYoutubeのチャンネルでは、様々な巨大な造形物を見ることができます。</description>
     </item>
     
     <item>
@@ -460,8 +411,7 @@ Z軸をフル活用して、ペンを差し替えています。なんともア�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/laptopdoublescreen800.jpg"&gt;DUAL SCREEN LAPTOP IS A SLICK DIY BUILDから発見。画像もここから転載。
 写真の通り、ノートパソコンにくっつけられるデュアルディスプレイの紹介です。
 アルミ板、ディスプレイパネル、ドライバボード、3Dプリンタによるベゼル・ヒンジ、バッテリーなどを綺麗にまとめて、写真のような完成度の高いセカンドディスプレイを作成しています。
-ノートパソコンの上側にディスプレイを増設するというアイデアが非常に面白いです。 また、動画では細かいTipsもたくさん紹介されており、完成度が高い工作をする際の参考になります。
- </description>
+ノートパソコンの上側にディスプレイを増設するというアイデアが非常に面白いです。 また、動画では細かいTipsもたくさん紹介されており、完成度が高い工作をする際の参考になります。</description>
     </item>
     
     <item>
@@ -470,10 +420,9 @@ Z軸をフル活用して、ペンを差し替えています。なんともア�
       <pubDate>Tue, 25 Aug 2020 23:00:46 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/bluetooth%E3%81%A7%E6%93%8D%E4%BD%9C%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%91%E3%83%AA%E3%83%94%E6%84%9F%E6%BA%80%E8%BC%89%E3%81%AE%E3%83%9F%E3%82%B9%E3%83%88%E3%83%9E%E3%82%B7%E3%83%BC%E3%83%B3/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/mist-machinejpg.jpg"&gt;Ultimate Dry Ice Machine - Bluetooth Controlled, Battery Powered and 3D Printed. から発見。画像もここから転載。（CC BY-NC-SA By DIY Machines）
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/mist-machinejpg.jpg"&gt;Ultimate Dry Ice Machine - Bluetooth Controlled, Battery Powered and 3D Printed.から発見。画像もここから転載。（CC BY-NC-SA By DIY Machines）
 ドライアイスによる霧発生装置の作例です。Bluettoothを使い好きなタイミングでミストを発生させることができるようです。さらにフルカラーLEDを搭載しており、発生させた霧を好きな色で光らせることができます。
-こういう特殊な用途の機械は市販されていないので、自作の作例にはもってこいですね。
- </description>
+こういう特殊な用途の機械は市販されていないので、自作の作例にはもってこいですね。</description>
     </item>
     
     <item>
@@ -532,8 +481,7 @@ Z軸をフル活用して、ペンを差し替えています。なんともア�
       <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%95%E3%82%8C%E3%81%9F%E8%BC%AA%E3%82%B4%E3%83%A0%E3%82%92%E5%8B%95%E5%8A%9B%E3%81%A8%E3%81%97%E3%81%9F%E3%83%9F%E3%83%8B%E3%82%AB%E3%83%BC/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/pullback-car.jpg"&gt;Lightweight Rubber Band Powered Carから発見。画像もここから転載。（CC BY-NC-SA By IgorM92）
 3Dプリンタを使って作られた、輪ゴム式のチョロQのようなミニカーです。
-長い輪ゴムを使うことで、思ったよりも長い距離を進むことができます。シンプルですが、輪ゴムを動力にしたおもちゃというのは様々な応用ができそうです。
- </description>
+長い輪ゴムを使うことで、思ったよりも長い距離を進むことができます。シンプルですが、輪ゴムを動力にしたおもちゃというのは様々な応用ができそうです。</description>
     </item>
     
     <item>
@@ -557,8 +505,7 @@ Z軸をフル活用して、ペンを差し替えています。なんともア�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/foils-emboss.jpg"&gt;Embossing Metal Foils With 3D Printed Stencilsから発見。画像もここから転載。（CC BY-NC-SA By andrei.erdei）
 チョコレートの包み紙などで見かける、アルミホイルにエンボス加工したものを作る方法を紹介します。
 この記事では3Dプリンタを使って作ったエンボスの”型”にアルミホイルを押し付けることでエンボス加工をしています。
-押し付ける際には「キネティックサンド」と呼ばれる特殊な粘土のような砂を使っています。
-  </description>
+押し付ける際には「キネティックサンド」と呼ばれる特殊な粘土のような砂を使っています。</description>
     </item>
     
     <item>
@@ -569,8 +516,7 @@ Z軸をフル活用して、ペンを差し替えています。なんともア�
       <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%88%E3%81%A1%E3%82%88%E3%81%A1%E6%AD%A9%E3%81%8D%E3%81%AE%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/pin-walker.jpg"&gt;Ultimaker Robot &amp;ldquo;Pin Walker&amp;rdquo;.から発見。画像もここから転載。（CC BY-NC-SA By gzumwalt）
 3Dプリンタで作成した、よちよちと歩くロボット型の人形です。
-内部にはギア付きのモーターとリチウムイオン電池が入っており、3Dプリンタで作られたからくりによって左右の足を順番に動かすようにして前に進む動作を実現しています。
- </description>
+内部にはギア付きのモーターとリチウムイオン電池が入っており、3Dプリンタで作られたからくりによって左右の足を順番に動かすようにして前に進む動作を実現しています。</description>
     </item>
     
     <item>
@@ -584,8 +530,7 @@ Z軸をフル活用して、ペンを差し替えています。なんともア�
 しかし、今この「積層痕」をなくし、滑らかに表面を生成する技術が研究されています。しかもこの方法は3Dプリンタはそのままでソフトウェアの機能でそれを実現します。
 コアとなる仕組みは簡単で、レイヤーごとに生成するのをやめて、Z軸についても上下しながら生成するという手法です。
 とはいえ、この方法はいつでも使えるわけではありません。あまりに大きなZ軸の移動は機構上できませんし、Extruder周辺の部品ががすでに生成した形状と衝突してしまう問題もあります。
-この記事で紹介しているのは、上記のような条件を加味した結果うまくZ軸を上下させても大丈夫な範囲を計算し、そこだけをピンポイントにスムーズに出力するという方法のようです。
- </description>
+この記事で紹介しているのは、上記のような条件を加味した結果うまくZ軸を上下させても大丈夫な範囲を計算し、そこだけをピンポイントにスムーズに出力するという方法のようです。</description>
     </item>
     
     <item>
@@ -598,11 +543,7 @@ Z軸をフル活用して、ペンを差し替えています。なんともア�
 みたまんま、3Dプリンタで作った、「オレンジ絞り器」です。 確かにこういうプラスチック製品を3Dプリンタで作ることは簡単そうですが、口に入れるものが触れるプラスチック、というところでどうしても心配になってしまいます・・
 この記事にはそういった懸念は書かれていませんが、こういう食べ物に関係する3Dプリンタ製品はどういう要件が必要なのか、問うような話を詳しく知りたいな、と感じました。
 追記(2020/08/08) Twitterでいくつか有益な意見をいただきました。
-食品衛生法について教えてもらいました 食品衛生法第3章に則れば良いはずhttps://t.co/NEmxptvUVmhttps://t.co/GE4FQIdkVL
-国外基準だとFDAとかに準拠したフィラメントがありますが、国内基準だと旭化成製テナックを使ったPOMフィラメントとかですかねhttps://t.co/JwoWOlpu67
-&amp;mdash; カニ戯（ry (@bananawani_mc) August 3, 2020 
-オレンジの皮の「リモネン」が良くない 間違ってもPLAとかABSで出しちゃだめなやつ。（どっちもオレンジの皮に含まれるリモネンで溶出する） https://t.co/QJFW9396kR
-&amp;mdash; まどちん● (@madscient) August 3, 2020</description>
+食品衛生法について教えてもらいました オレンジの皮の「リモネン」が良くない </description>
     </item>
     
     <item>
@@ -613,8 +554,7 @@ Z軸をフル活用して、ペンを差し替えています。なんともア�
       <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E6%92%AE%E5%BD%B1%E7%94%A8%E3%81%AE%E3%82%BF%E3%83%BC%E3%83%B3%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/turn-table.jpg"&gt;Fully 3D-Printable Turntableから発見。画像もここから転載。
 3Dプリンタで作った撮影用のターンテーブルの作例です。 特徴としては3Dプリンタの部品のみで構成されており、ねじやベアリングなどが不要という点です。手回し式で動かすので、本当に3Dプリントするだけで作ることができそうです。
-単純な機構ですが、こういう装置があると、小型のガジェットなどをいい感じに撮影することができます。
- </description>
+単純な機構ですが、こういう装置があると、小型のガジェットなどをいい感じに撮影することができます。</description>
     </item>
     
     <item>
@@ -641,8 +581,7 @@ CPUはESP32をつかっています。
 どこでも3Dプリントしたい！　そんな要望に応えるべく作られたのが、この「折り畳み式の3Dプリンタ」です。
 ただ単にZ軸が折りたためるというわけではなく、Z軸の移動時に3Dプリンタ全体を折りたたまれるように設計されています。
 写真で見るとZ軸の部分が×のような金属で構成されているのが見えますが、この部分がZ軸の上下を実現しています。最もZ軸を低い状態に移動させると、自然と3Dプリンタが折りたたまれた状態になるというわけです。
-この構造は折りたたむうえでは非常にスタイリッシュな方法ですが、このためにZ軸駆動用の強力でかつ、正確なステッピングモーターが必要となったり、モーターの回転と高さの関係が非線形になるため特別な制御が必要だったりと、様々な工夫が必要だったそうです。
- </description>
+この構造は折りたたむうえでは非常にスタイリッシュな方法ですが、このためにZ軸駆動用の強力でかつ、正確なステッピングモーターが必要となったり、モーターの回転と高さの関係が非線形になるため特別な制御が必要だったりと、様々な工夫が必要だったそうです。</description>
     </item>
     
     <item>
@@ -653,8 +592,7 @@ CPUはESP32をつかっています。
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%81%E3%81%A3%E3%81%A1%E3%82%83%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E8%87%AA%E6%92%AE%E3%82%8A%E7%94%A8%E3%81%AE%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%A2%E3%83%BC%E3%83%A0/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/camera-robot.jpg"&gt;This YouTuber Built His Own 8-Axis Camera Crane Robotから発見。画像もここから転載。
 映像を見れば一目瞭然、ぐるぐると周囲を回転しながら人物を撮影するロボットアームの作例です。作者はMaker系のYoutuberで自身のDIY動画を撮影するために、このロボットアームの製作を思いついたようです。
-これほどの機器を作ってしまうほどの作者の動画はDIY動画の中でも群を抜いてカメラワークやBGMに凝っています。
- </description>
+これほどの機器を作ってしまうほどの作者の動画はDIY動画の中でも群を抜いてカメラワークやBGMに凝っています。</description>
     </item>
     
     <item>
@@ -668,8 +606,7 @@ CPUはESP32をつかっています。
 スタイロフォンは、ペンで操作する電子楽器です。鍵盤のようなパターンの端子に金属製のペンを当てると、鍵盤に応じた音が再生されるという単純な仕組みの楽器ですが、ペンを滑らせることで独特のメロディを奏でることができます。
 PCBが簡単に発注できる今、スタイロフォンを作るのは難しくありません。ケースについても3Dプリンタでうまく作っています。
 音はマイコンを使わずシンプルな555タイマーで実現しています。
-↓動画は音だけですが、いい感じです。
- </description>
+↓動画は音だけですが、いい感じです。</description>
     </item>
     
     <item>
@@ -680,8 +617,7 @@ PCBが簡単に発注できる今、スタイロフォンを作るのは難し�
       <guid>https://inajob.github.io/iroiro-review/post/%E5%B0%8F%E3%81%95%E3%81%AA%E8%93%8B%E3%81%A4%E3%81%8D%E3%81%AE%E8%A9%A6%E9%A8%93%E5%AE%98%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85%E9%83%A8%E5%93%81%E3%81%AE%E6%95%B4%E7%90%86%E6%96%B9%E6%B3%95/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/smd-organizer.jpg"&gt;SMD Components Organizerから発見。画像もここから転載（CC BY-NC-SA By Nikus）
 最近私も表面実装の部品を使うようになったのですが、部品が非常に細かく、どのように保存しておくかが悩ましいです。
-この記事で紹介しているのは小さな蓋つきの試験管に部品を入れる方法です。一見薬品のように見えますが、結構よいアイデアのように思います。見た目もかっこいいのも魅力の一つです。
- </description>
+この記事で紹介しているのは小さな蓋つきの試験管に部品を入れる方法です。一見薬品のように見えますが、結構よいアイデアのように思います。見た目もかっこいいのも魅力の一つです。</description>
     </item>
     
     <item>
@@ -715,8 +651,7 @@ PCBが簡単に発注できる今、スタイロフォンを作るのは難し�
       <guid>https://inajob.github.io/iroiro-review/post/%E6%84%9F%E5%9C%A7%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%88%E3%83%AC%E3%83%99%E3%83%AA%E3%83%B3%E3%82%B0/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/pressure-auto-level.jpg"&gt;FS-Touch Bed Levelling Toolから発見。画像もここから転載。（CC BY-NC-SA By Antzy Carmasaic）
 3Dプリンタのセットアップで面倒なのは、Z Levelの調整です。この記事で紹介しているのは、感圧センサーを使ってZ Levelを調整する装置です。
-ふつうこの手のセンシングは近接センサを使うことが多いですが、感圧センサーのほうがより精度よく調整ができそうです。
- </description>
+ふつうこの手のセンシングは近接センサを使うことが多いですが、感圧センサーのほうがより精度よく調整ができそうです。</description>
     </item>
     
     <item>
@@ -740,8 +675,7 @@ PCBが簡単に発注できる今、スタイロフォンを作るのは難し�
 「3Dプリンタ」と聞くと今はやりのプラスチック製品を作るものを思いつきますが、この記事で紹介しているのは「木のブロック」を組み合わせて物を作る3Dプリンタです。
 3DプリンタのようなX-Y軸を動くヘッドが木のブロックを重ねていき、層が変わるとそこに木工ボンドを塗り込みます。
 このプロセスを繰り返すことで、指定した形の物体を生成します。
-実はこのプロジェクトはもっと大きな建造物を作るためのプロトタイプのようですが、このサイズでも非常にインパクトがあります。プラスチック製の3Dプリンタほどは精度がいらないプロトタイピングなどで応用が利きそうです。
- </description>
+実はこのプロジェクトはもっと大きな建造物を作るためのプロトタイプのようですが、このサイズでも非常にインパクトがあります。プラスチック製の3Dプリンタほどは精度がいらないプロトタイピングなどで応用が利きそうです。</description>
     </item>
     
     <item>
@@ -753,8 +687,7 @@ PCBが簡単に発注できる今、スタイロフォンを作るのは難し�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/did-plotter.jpg"&gt;d.i.d. - Scalable Pen Plotterから発見。画像もここから転載。
 3Dプリンタを使って作られたオープンソースのプロッタです。 データはすべてオープンソースとなっているため、3Dプリンタと、いくつかのパーツがあれば誰でも簡単に同じものを作ることができます。
 キットとしての販売も考えているようで、そのためのアンケートなども行っているようです。
-非常にシンプルな構造ですが、小さくまとまっており、そこそこ精度もよさそうなので、プロッタを作りたい人にはお勧めのプロジェクトです。
- </description>
+非常にシンプルな構造ですが、小さくまとまっており、そこそこ精度もよさそうなので、プロッタを作りたい人にはお勧めのプロジェクトです。</description>
     </item>
     
     <item>
@@ -777,10 +710,9 @@ PCBが簡単に発注できる今、スタイロフォンを作るのは難し�
       <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E7%99%BA%E3%81%99%E3%82%8B%E6%9C%89%E5%AE%B3%E3%82%AC%E3%82%B9%E3%82%92%E6%B8%AC%E5%AE%9A%E3%81%99%E3%82%8B%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/emission-monitor.jpg"&gt;Smart 3D Printer Emission Monitorから発見。画像もここから転載。
 この記事で紹介しているのは、3Dプリンタでプリント中に有害ガスがどの程度発生しているかをモニタリングするシステムです。
-センサーとhしてはCCS811というMOXセンサーのようです。 
+センサーとhしてはCCS811というMOXセンサーのようです。
 データはWiFi経由で送信されて、スマートフォンで確認することができます。
-さらに危険なレベルになるとLEDが赤く光りブザーが鳴ります。
- </description>
+さらに危険なレベルになるとLEDが赤く光りブザーが鳴ります。</description>
     </item>
     
     <item>
@@ -791,8 +723,7 @@ PCBが簡単に発注できる今、スタイロフォンを作るのは難し�
       <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%83%89%E3%83%9F%E3%83%8E%E3%82%92%E4%B8%A6%E3%81%B9%E3%82%8B%E8%A3%85%E7%BD%AE/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/domino-machine.jpg"&gt;Pink and Green Domino Machine IIから発見。画像もここから転載。（CC BY-NC-SA By gzumwalt)
 3Dプリンタで作成された、ドミノ倒し生成器です。ギアを駆使して、ドミノを倒れないように次々と送り出す機構を実現しています。
-こういう「からくり」は3Dプリンタで作ると面白いジャンルの一つで、試しに作ってみたいなと思いました。
- </description>
+こういう「からくり」は3Dプリンタで作ると面白いジャンルの一つで、試しに作ってみたいなと思いました。</description>
     </item>
     
     <item>
@@ -803,7 +734,7 @@ PCBが簡単に発注できる今、スタイロフォンを作るのは難し�
       <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E5%B0%8F%E5%9E%8B%E3%82%A8%E3%82%A2%E3%83%BC%E3%83%9B%E3%83%83%E3%82%B1%E3%83%BC%E5%8F%B0/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/air-hockey.jpg"&gt;DIY Low Cost Air Hockey Tableから発見。画像もここから転載。(CC BY-NC-SA By Technovation)
 木材、3Dプリンタなどを使って作ったエアーホッケー台です。エアーを送り出すのは掃除機の排気を利用しているようです。 イルミネーションやスコア表示など細かいところにこだわりが感じられます。
- 以前紹介したフルサイズのエアーホッケー台はハードルが高い という人もこのサイズなら作りやすそうです。</description>
+以前紹介したフルサイズのエアーホッケー台はハードルが高い という人もこのサイズなら作りやすそうです。</description>
     </item>
     
     <item>
@@ -814,8 +745,7 @@ PCBが簡単に発注できる今、スタイロフォンを作るのは難し�
       <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AEel%E3%83%AF%E3%82%A4%E3%83%A4%E5%9B%BA%E5%AE%9A%E5%85%B7/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/elwire-mount.jpg"&gt;DIY EL Wire + 3D Printed &amp;ldquo;Neon&amp;rdquo; Sign!から発見。画像もここから転載。
 ELワイヤは見た目が面白い電子部品ですが、固定する方法には工夫が必要です。 この記事で紹介しているのは、ELワイヤを固定するための「枠」を3Dプリンタで作成する方法です。
-写真を見るとかなりいい感じなので、ELワイヤを使った作品も試してみたいなと思いました。
- </description>
+写真を見るとかなりいい感じなので、ELワイヤを使った作品も試してみたいなと思いました。</description>
     </item>
     
     <item>
@@ -839,8 +769,7 @@ ELワイヤは見た目が面白い電子部品ですが、固定する方法に
 コンピュータミシンの中には好きな模様を刺繍できるものがありますが、この記事で紹介している装置は、その機能を普通のミシンにアドオンするためのものです。
 写真を見れば一目瞭然の構造ですが、生地をX,Y軸にコンピュータ制御で移動させることで刺繍の模様を制御します。
 仕組みは違いますが3DプリンタのExtruderが電動ミシンに置き換わったようなものです。
-制御用のUIはAndroidで動作するように作りこまれており、可なり高い完成度です。
- </description>
+制御用のUIはAndroidで動作するように作りこまれており、可なり高い完成度です。</description>
     </item>
     
     <item>
@@ -875,8 +804,7 @@ ELワイヤは見た目が面白い電子部品ですが、固定する方法に
       <guid>https://inajob.github.io/iroiro-review/post/%E5%9F%BA%E6%9D%BF%E3%82%92%E5%88%87%E5%89%8A%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AEcnc%E3%83%9E%E3%82%B7%E3%83%B3/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/antcnc.jpg"&gt;Mill Single or Dual-Layer PCBs with Ant’s Desktop CNC Machineから発見。画像もここから転載。
 CNCマシンを使って基板を「掘る」というのは、よく見るテクニックですが、それに特化したCNCを作ろうというのがこのプロジェクトです。
-基板に特化することで、より精度よく、コンパクトに、安く実現することを目指しているようです。 成果はオープンソースで公開されているのでまねして作ってみるのも面白そうです。
- </description>
+基板に特化することで、より精度よく、コンパクトに、安く実現することを目指しているようです。 成果はオープンソースで公開されているのでまねして作ってみるのも面白そうです。</description>
     </item>
     
     <item>
@@ -887,8 +815,7 @@ CNCマシンを使って基板を「掘る」というのは、よく見るテ�
       <guid>https://inajob.github.io/iroiro-review/post/%E9%9D%9E%E5%B8%B8%E3%81%AB%E5%B0%8F%E3%81%95%E3%81%AAthinkpad%E9%A2%A8%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/mini-thinkpad.png"&gt;ThinkTiny Is a Micro ThinkPad-Inspired Notebookから発見。画像もここから転載。
 非常に小さなThinkpad風のガジェットです。Thinkpad風なのは見た目だけではなく、操作するための「スティック」がThinkpadのトラックポイントとよく似た操作感です。
-ICはATtiny1614を使い、こういった工作ではおなじみの128x64のOLEDを利用しています。 小さいガジェットはいろいろ見てきましたが、このように一つテーマを持って物を作るというのは面白いと感じました。
- </description>
+ICはATtiny1614を使い、こういった工作ではおなじみの128x64のOLEDを利用しています。 小さいガジェットはいろいろ見てきましたが、このように一つテーマを持って物を作るというのは面白いと感じました。</description>
     </item>
     
     <item>
@@ -900,8 +827,7 @@ ICはATtiny1614を使い、こういった工作ではおなじみの128x64のOL
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/bigphone.jpg"&gt;This Giant Raspberry Pi Flip Phone Lets You Relive the Good Ol’ Daysから発見。画像もここから転載。
 3Dプリンタで作られた、Raspberry Pi向けのやや大き目の折り畳み型ケータイケースの作例です。
 2Gの通信モジュールも内蔵しており、実際に通信することができるようです。キーパッド部分はメカニカルキーボードのスイッチを使っているようです。
-大き目で作ることですることで様々な難しい障害を取り除くことができるので、まずはすこし「大き目」でものを作ってみるというアプローチも良いなと感じました。
- </description>
+大き目で作ることですることで様々な難しい障害を取り除くことができるので、まずはすこし「大き目」でものを作ってみるというアプローチも良いなと感じました。</description>
     </item>
     
     <item>
@@ -912,8 +838,7 @@ ICはATtiny1614を使い、こういった工作ではおなじみの128x64のOL
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E9%A2%A8%E3%81%AEraspberry-pi%E3%82%B1%E3%83%BC%E3%82%B9/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/compactpi.jpg"&gt;CompactPi Mini Arcade - CPi01から発見。画像もここから転載。
 見ての通りアーケードゲーム風のRaspberry Piのエンクロージャです。 3Dプリンタを使って作られていますが、完成度は非常に高く、おもちゃっぽい色合いのフィラメントが良い雰囲気を演出しています。
-ディスプレイは800x480、バッテリ、スピーカーも搭載されています。さらに手前に小さなOLEDのディスプレイが搭載してあり、ガジェット感を演出しています。
- </description>
+ディスプレイは800x480、バッテリ、スピーカーも搭載されています。さらに手前に小さなOLEDのディスプレイが搭載してあり、ガジェット感を演出しています。</description>
     </item>
     
     <item>
@@ -924,8 +849,7 @@ ICはATtiny1614を使い、こういった工作ではおなじみの128x64のOL
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E8%87%AA%E4%BD%9C%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/bart-plotter.jpg"&gt;Bart Dring Revises His 3D-Printed Pen Plotter Designから発見。画像もここから転載。
 3Dプリンタで作られた非常にかわいらしいペンプロッタです。 コアとなるボードはESP32のようです。サーボモータでペンを持ち上げる動作が非常にチャーミングです。
-ソースコードや3Dプリンタ用モデルデータはオープンソースで公開されています（ライセンス表記なし）
- </description>
+ソースコードや3Dプリンタ用モデルデータはオープンソースで公開されています（ライセンス表記なし）</description>
     </item>
     
     <item>
@@ -937,8 +861,7 @@ ICはATtiny1614を使い、こういった工作ではおなじみの128x64のOL
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/tracey.jpg"&gt;Tracey - Drawing Machineから発見。画像もここから転載（CC BY-NC-SA By BitSand）
 アーム的な機構のペンプロッタの作例を紹介します。 3Dプリンタで作られたアームにコントローラはESP8266を使っているようです。
 直動機構を使ったプロッタに比べると安く作れそうに見えます。その分精度の面では劣りそうですが2つのアームでプロットする様子は人間の腕の動きとも似ていて、こちらも味があります。
-またレーザーを使った彫刻やUVLEDと感光版を使ったぼんやり光る演出など、様々な活用例に挑戦しているのも面白いです。
- </description>
+またレーザーを使った彫刻やUVLEDと感光版を使ったぼんやり光る演出など、様々な活用例に挑戦しているのも面白いです。</description>
     </item>
     
     <item>
@@ -949,8 +872,7 @@ ICはATtiny1614を使い、こういった工作ではおなじみの128x64のOL
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E3%83%9C%E3%82%BF%E3%83%B3%E3%82%92%E3%81%B5%E3%82%93%E3%81%A0%E3%82%93%E3%81%AB%E4%BD%BF%E3%81%A3%E3%81%9Fmidi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/jammer.jpg"&gt;This 3D-Printed MIDI “Jammer” Keyboard Was Built with an Arduino Dueから発見。画像もここから転載。
 アーケードゲームのスイッチをふんだんに使ったMIDIコントローラです。ケースは3Dプリンタで作成され、コントローラはArduino DUEです。
-アーケードのボタンは操作していて楽しいので、音楽を奏でるためのボタンとしては結構相性が良いと感じました。
- </description>
+アーケードのボタンは操作していて楽しいので、音楽を奏でるためのボタンとしては結構相性が良いと感じました。</description>
     </item>
     
     <item>
@@ -984,8 +906,7 @@ ICはATtiny1614を使い、こういった工作ではおなじみの128x64のOL
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/magnet-bearing.jpg"&gt;Simple Ball Bearing Carから発見。画像もここから転載(CC BY-NC-SA By gzumwalt)
 3Dプリンタで作った造形物に回転機構を組み込むときは一般的には軸とベアリングを使いますが、この例では磁石を使う方法を紹介しています。
 写真を見れば一目瞭然、磁石と鉄のボールをうまく3Dプリンタの造形物にはめ込むようにすることでミニカーのタイヤを実現しています。
-ベアリングを使うよりもはるかに簡単な仕組みで実現できるので、回転部分を含む3Dプリンタの作品を作る際に活用できそうなテクニックです。
- </description>
+ベアリングを使うよりもはるかに簡単な仕組みで実現できるので、回転部分を含む3Dプリンタの作品を作る際に活用できそうなテクニックです。</description>
     </item>
     
     <item>
@@ -996,8 +917,7 @@ ICはATtiny1614を使い、こういった工作ではおなじみの128x64のOL
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%81%8C%E4%B8%8D%E8%A6%81%E3%81%AE%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E7%B2%89%E3%81%8B%E3%82%89%E9%80%A0%E5%BD%A2%E3%81%A7%E3%81%8D%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/granules-3d-printer.jpg"&gt;Direct granules extruderから発見。画像もここから転載。
 3Dプリンタは通常フィラメントを使います。フィラメントは安い、とは言えそこそこします。 フィラメントより安いペレットや、失敗プリントした造形物を粉砕した粉などから3Dプリントすることができればもっと安くで3Dプリントをすることができます。
-この記事で紹介しているのはプラスチックの粉から3Dプリントをすることができる3Dプリンタです。 この技術が一般的になればもっと安く3Dプリントができそうです。将来が楽しみなプロジェクトです。
- </description>
+この記事で紹介しているのはプラスチックの粉から3Dプリントをすることができる3Dプリンタです。 この技術が一般的になればもっと安く3Dプリントができそうです。将来が楽しみなプロジェクトです。</description>
     </item>
     
     <item>
@@ -1008,8 +928,7 @@ ICはATtiny1614を使い、こういった工作ではおなじみの128x64のOL
       <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%B1%E3%83%BC%E3%82%B9%E3%81%AB3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E6%96%87%E5%AD%97%E3%82%92%E6%9B%B8%E3%81%8F/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/label-by-3d-printer.png"&gt;ENCLOSURE NEEDS LABELS? MAKE THE 3D PRINTER DO ITから発見。画像もここから転載
 立体物に印刷をするためには、ちょっとした工夫が必要です。この記事で紹介しているのは3Dプリンタにペンを持たせて筐体に直接文字を描くという方法です。
-安定して動かすのが大変そうに思いますが、動画では非常にきれいに書き込みをしているように見えます。
- </description>
+安定して動かすのが大変そうに思いますが、動画では非常にきれいに書き込みをしているように見えます。</description>
     </item>
     
     <item>
@@ -1034,8 +953,7 @@ ICはATtiny1614を使い、こういった工作ではおなじみの128x64のOL
 2種類のデモが紹介されています。1つは「UV感光フィラメントで作られた板」これを使うとUV LEDの光が当たったところだけ色が変わります。
 もう一つは「蓄光テープ」。これを使うとUV LEDの光が当たったところだけが暗闇でぼんやり光ります。
 どちらもLEDが消灯してからもしばらくの間色がついたままなので、省電力でのディスプレイを実現する際にも役に立つテクニックかもしれません。
-また、この7セグメントのような表示は3Dプリンタとグルーガンで自作しており、その点でも参考になりそうな作例です。
- </description>
+また、この7セグメントのような表示は3Dプリンタとグルーガンで自作しており、その点でも参考になりそうな作例です。</description>
     </item>
     
     <item>
@@ -1060,8 +978,7 @@ ICはATtiny1614を使い、こういった工作ではおなじみの128x64のOL
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/fm-radio.jpg"&gt;FM Radioから発見。画像もここから転載。（CC BY-NC-SA By indoorgeek）
 今やFMラジオを作るのも簡単になったようで、 RDA5807MなどというIC一つで十分のようです。 あとは周辺にOLEDをつけて、Arduinoで制御して、、という具合に作られたのがこのFMラジオです。
 注目すべきは洗練されたケースです。3Dプリンタの作例としては非常にきれいにまとまっており高い完成度となっています。
-フィラメントの色合いや、基板を表に出さないなど、いくつかの要点を抑えると3Dプリンタでもそこそこの完成度のものが作れるのだなと感じました。
- </description>
+フィラメントの色合いや、基板を表に出さないなど、いくつかの要点を抑えると3Dプリンタでもそこそこの完成度のものが作れるのだなと感じました。</description>
     </item>
     
     <item>
@@ -1084,8 +1001,7 @@ ICはATtiny1614を使い、こういった工作ではおなじみの128x64のOL
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/simon-game.jpg"&gt;Simon Says Game - 3D Printable | Arduino Nano | DIY Projectから発見。画像もここから転載（CC BY-NC-SA By DIY Machines）
 昔からある電子ゲーム「サイモン」専用機を紹介します。 「サイモン」とは、光がついた順番をどんどん覚えていくという暗記ゲームで、4つのLED付きのボタンがあれば簡単に作れるため、よく電子工作の題材として登場します。
 この記事で紹介しているのも、そんな「サイモン」ゲーム機なのですが、非常に完成度が高いです。 ケースはすべて3Dプリンタで作成し、制御はArduino Nano、画面表示には128x32のモノクロOLEDと、ごくごくありふれた部品で作成されています。
-にもかかわらず、非常に高い完成度となっており、3Dプリンタでもここまでのものが作れるのかと、感心しました。
- </description>
+にもかかわらず、非常に高い完成度となっており、3Dプリンタでもここまでのものが作れるのかと、感心しました。</description>
     </item>
     
     <item>
@@ -1096,8 +1012,7 @@ ICはATtiny1614を使い、こういった工作ではおなじみの128x64のOL
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E3%82%92%E5%B0%84%E5%87%BA%E3%81%97%E3%81%A6%E6%A8%A1%E6%A7%98%E3%82%92%E6%8F%8F%E3%81%8F%E8%A3%85%E7%BD%AE/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/cnc-choco.png"&gt;SYRINGE PUMP TURNS CNC MACHINE INTO A FROSTING BOT から発見。画像もここから転載。
 3Dプリンタを活用して作成したオリジナルのCNCマシンです。チョコレートを絞り出すシリンダを装着することで、お菓子にお絵かきする装置を作成しています。
-これがあれば、よく誕生日ケーキなどで見かける名前入りのプレートなどをコンピュータ制御で作ることができそうです。
- </description>
+これがあれば、よく誕生日ケーキなどで見かける名前入りのプレートなどをコンピュータ制御で作ることができそうです。</description>
     </item>
     
     <item>
@@ -1108,8 +1023,7 @@ ICはATtiny1614を使い、こういった工作ではおなじみの128x64のOL
       <guid>https://inajob.github.io/iroiro-review/post/%E4%BD%95%E3%81%8B%E3%81%AB%E4%BC%BC%E3%81%9Fraspberry-pi%E3%82%B1%E3%83%BC%E3%82%B9/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ras-pro.jpg"&gt;RasProから発見。画像もここから転載（Public Domain）
 写真を見れば一目瞭然例のアレによく似たRaspberry Piのケースです。 AC電源やファンを内蔵するなど、意外とちゃんと作られています。
-取っ手も付いているし、案外良い製品に見えてきました。
- </description>
+取っ手も付いているし、案外良い製品に見えてきました。</description>
     </item>
     
     <item>
@@ -1121,8 +1035,7 @@ ICはATtiny1614を使い、こういった工作ではおなじみの128x64のOL
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/pikachuonloom.jpg"&gt;OPEN SOURCE COMPUTER CONTROLLED LOOM WEAVES PIKACHU FOR YOUから発見。画像もここから転載。
 「機織り機」を3DプリンタやレーザーカッターでDIYした例を紹介します。 昔からある「機織り機」ですが、この作例では、任意の図案を織り込めるようにコンピュータ制御を取り入れているようです。
 機織りの基本となる縦の糸のパターンをコンピュータで制御することで、人間は何も考えず横糸を通せば絵柄の入った織物が作れるよいうようなもののようです。
-完全に自動化しないところが逆に好感が持てます。
- </description>
+完全に自動化しないところが逆に好感が持てます。</description>
     </item>
     
     <item>
@@ -1134,8 +1047,7 @@ ICはATtiny1614を使い、こういった工作ではおなじみの128x64のOL
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/smartphone-enchant-switch.jpg"&gt;ADD SCROLL WHEELS AND BUTTONS TO SMARTPHONES WITH 3D-PRINTED WIDGETS READ BY ACCELEROMETERにて発見。画像もここから転載。
 スマートフォンの物理ボタンはどんどん減ってきています。しかし、物理ボタンのほうが操作しやすいと思う人も多いのではないでしょうか？
 この記事で紹介しているのは、スマートフォンに物理的なボタンやダイヤルを追加する方法です。 特徴的なのは、何の配線もいらないということです。
-そのタネはスマートフォンの加速度センサーです。物理ボタンやダイアルを操作した時の特徴的な振動を検知して操作を認識するようです。
- </description>
+そのタネはスマートフォンの加速度センサーです。物理ボタンやダイアルを操作した時の特徴的な振動を検知して操作を認識するようです。</description>
     </item>
     
     <item>
@@ -1160,8 +1072,7 @@ ICはATtiny1614を使い、こういった工作ではおなじみの128x64のOL
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/sudoku-game.jpg"&gt;Portable Electronic Sudoku Gameから発見。画像もここから転載。
 Arduinoと2.8インチのタッチパネル液晶を使った、ポータブル数独ゲーム機を紹介します。
 見ての通り数独ゲームです。3Dプリンタ製のケースをまとい、バッテリーを内蔵しています。 特段変わったことをしているわけではないですが「なんだ、これでいいじゃん」と思わせてくれる「しっくり感」があります。
-ちょっと部品をそろえれば誰でも作れそうなところもポイントが高いです。
- </description>
+ちょっと部品をそろえれば誰でも作れそうなところもポイントが高いです。</description>
     </item>
     
     <item>
@@ -1172,8 +1083,7 @@ Arduinoと2.8インチのタッチパネル液晶を使った、ポータブル�
       <guid>https://inajob.github.io/iroiro-review/post/%E5%A4%9A%E8%85%95%E3%81%AE%E3%83%94%E3%82%A2%E3%83%8E%E8%87%AA%E5%8B%95%E6%BC%94%E5%A5%8F%E8%A3%85%E7%BD%AE/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/multi-arm-pianist.png"&gt;The Pianist Octopusから発見。画像もここから転載。
 3Dプリンタで作られた多腕のキーボード演奏装置です。 多数のサーボモータを使い鍵盤ごとに対応したアームを動かしてピアノを演奏するようです。
-アームの有機的な造形により、まるで生き物のような不思議な雰囲気を醸し出しているのも印象的です。 動画が無いのが残念ですが、ぜひ動いているところを見てみたいと思いました。
- </description>
+アームの有機的な造形により、まるで生き物のような不思議な雰囲気を醸し出しているのも印象的です。 動画が無いのが残念ですが、ぜひ動いているところを見てみたいと思いました。</description>
     </item>
     
     <item>
@@ -1184,8 +1094,7 @@ Arduinoと2.8インチのタッチパネル液晶を使った、ポータブル�
       <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E3%83%94%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%9E%E3%82%B7%E3%83%B3/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/pinball.jpg"&gt;Tabletop Pinball Machine Using Evive- Arduino Based Embedded Plaformから発見。画像もここから転載（CC BY-NC-SA By theSTEMpedia）
 ピンボールマシンは、とても面白いゲームです。 この記事ではレーザーカッターや3Dプリンタを使ってシンプルですが楽しそうなピンボールを作成しています。
-制御はSTEM用の環境であるeviveを使っているようです。
- </description>
+制御はSTEM用の環境であるeviveを使っているようです。</description>
     </item>
     
     <item>
@@ -1197,8 +1106,7 @@ Arduinoと2.8インチのタッチパネル液晶を使った、ポータブル�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/wood-raspi-case.jpg"&gt;Tiny Wooden Laptopから発見。画像もここから転載（CC BY-NC-SA By makefailrepeat）
 Raspberry Pi 3を使ったコンソールです。ディプレイ4インチで800x480。キーボードはBluetoothの無線キーボードを使っています。
 ディスプレイの裏側にRaspberry Piをマウントし、キーボードの下には余ったケーブルやバッテリーを入れているようです。
-3Dプリンタだけで作るとどうしても安っぽい感じになりがちですが、この作品のように木工作を組み合わせることで、味のある雰囲気が出せるのだなと感じました。
- </description>
+3Dプリンタだけで作るとどうしても安っぽい感じになりがちですが、この作品のように木工作を組み合わせることで、味のある雰囲気が出せるのだなと感じました。</description>
     </item>
     
     <item>
@@ -1218,13 +1126,12 @@ Raspberry Pi 3を使ったコンソールです。ディプレイ4インチで80
       <pubDate>Tue, 07 Jan 2020 23:00:08 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8Bword-clock/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3d-printed-word-clock.jpg"&gt;Animated Word Clock から発見。画像もここから転載（CC BY-NC-SA By TechKiwiGadgets）
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3d-printed-word-clock.jpg"&gt;Animated Word Clockから発見。画像もここから転載（CC BY-NC-SA By TechKiwiGadgets）
 またまたWordClockです。
 3Dプリンタで文字をくりぬいて、写真のように文字が浮かび上がるような効果を演出しています。
 LEDの手前に製氷皿のように格子状のマス目のボードを用意し（これがグレーのフィラメントであるのも意味がありそう？）その底面にはアルファベットの形状でくりぬきを開けておきます。
 さらにそれを覆うケースにはアルファベットの形状でエンボスが刻まれています。
-この二重のアルファベット形状のくりぬきとエンボスにより、文字の投影を実現しています。 マイコンはArduino、LEDはよく使われるWS2812Bを使っています。
- </description>
+この二重のアルファベット形状のくりぬきとエンボスにより、文字の投影を実現しています。 マイコンはArduino、LEDはよく使われるWS2812Bを使っています。</description>
     </item>
     
     <item>
@@ -1249,8 +1156,7 @@ kickstarterでのキャンペーンは無事終了し、販売を開始してい
       <guid>https://inajob.github.io/iroiro-review/post/%E7%A9%BA%E9%99%B8%E4%B8%A1%E7%94%A8%E3%81%AE%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/newflyingdri.jpg"&gt;Researchers develop new flying / driving robotから発見。画像もここから転載。
 空・陸両用のドローンです、地上形態の時は、本体が2つに折れ曲がってタイヤで走ることができます。 タイヤを動かしているモーターはプロペラのものを流用しているようで、シンプルさを保ったまま空・陸両用を実現しています。
-変形して地上も走れるというのは、かなり男の子心をそそる仕組みになっています。
- </description>
+変形して地上も走れるというのは、かなり男の子心をそそる仕組みになっています。</description>
     </item>
     
     <item>
@@ -1259,10 +1165,9 @@ kickstarterでのキャンペーンは無事終了し、販売を開始してい
       <pubDate>Wed, 11 Dec 2019 23:00:02 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%E3%81%AA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8Draspberrypi%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/pocketpi.jpg"&gt;PocketPi! から発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/pocketpi.jpg"&gt;PocketPi!から発見。画像もここから転載。
 Raspberry Piを使ってコンソールを作る試みは数多くありますが、これはポケコン風に組みてた作例です。
-あつらえたようにぴったりなキーボードは実は無線キーボードをバラしたもののようです。 ケースは3Dプリンタで作成されており、様々な試行錯誤を繰り返して、このコンパクトな形状に収めることができたようです。
- </description>
+あつらえたようにぴったりなキーボードは実は無線キーボードをバラしたもののようです。 ケースは3Dプリンタで作成されており、様々な試行錯誤を繰り返して、このコンパクトな形状に収めることができたようです。</description>
     </item>
     
     <item>
@@ -1273,8 +1178,7 @@ Raspberry Piを使ってコンソールを作る試みは数多くあります�
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AA%E3%83%9C%E3%83%AB%E3%83%90%E3%83%BC%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E3%82%B0%E3%83%AB%E3%83%B3%E3%81%A8%E5%9B%9E%E8%BB%A2%E3%81%97%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E4%BA%A4%E6%8F%9B%E3%81%99%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/microscope-3d-printer.jpg"&gt;MICROSCOPE-INSPIRED TOOLCHANGER SPINS MULTICOLOR 3D PRINTSから発見。画像もここから転載。
 この記事では複数のExtruderを搭載し多色の印刷ができる3Dプリンタを紹介しています。 特徴的なのは顕微鏡のリボルバーのように回転するExtruderです。
-多色の3Dプリンタとして一般的なものの、Extruderは2個のものがほとんどですが、このように回転される機構を利用することでより多くのExtruderの付いた3Dプリンタが作れそうです。
- </description>
+多色の3Dプリンタとして一般的なものの、Extruderは2個のものがほとんどですが、このように回転される機構を利用することでより多くのExtruderの付いた3Dプリンタが作れそうです。</description>
     </item>
     
     <item>
@@ -1286,8 +1190,7 @@ Raspberry Piを使ってコンソールを作る試みは数多くあります�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/soldering-robot.jpg"&gt;This Modified 3D Printer Can Solder Through-Hole Components Quicklyから発見。画像もここから転載。
 3Dプリンタの価格はどんどん安くなってきています。この記事では、3Dプリンタを改造して、自動はんだ付けロボットを作成しています。
 フィラメントの代わりに半田を送り出す仕組みにすることで、3Dプリンタのファームウェアを変更することなく改造しています。
-基板の固定をどうするのか、位置合わせをどうするのか？など課題が多そうなプロダクトですが、これが実現するとおうちで簡単に電子ガジェットが量産できるので夢が広がりますね。
- </description>
+基板の固定をどうするのか、位置合わせをどうするのか？など課題が多そうなプロダクトですが、これが実現するとおうちで簡単に電子ガジェットが量産できるので夢が広がりますね。</description>
     </item>
     
     <item>
@@ -1298,7 +1201,7 @@ Raspberry Piを使ってコンソールを作る試みは数多くあります�
       <guid>https://inajob.github.io/iroiro-review/post/%E5%85%89%E9%80%A0%E5%BD%A2%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E7%94%A8%E3%81%AE%E3%83%A2%E3%83%BC%E3%83%AB%E3%83%89/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/diy-keyboard-rubber.jpg"&gt;DIY Flexible keyboard without using siliconeから発見。画像もここから紹介。
 LCD 3Dプリンタ（おそらく光学式の3Dプリンタ）を使ってフレキシブルレジンを使った作例です。
-(こういうやつかな？↓) 
+(こういうやつかな？↓)
 この写真のようにキーボードのボタンのシリコンモールドのようなものを高精度で出力できるようです。
 こういう素材が使えると3Dプリンタの活用できる幅が広がりそうだと感じました。</description>
     </item>
@@ -1311,8 +1214,7 @@ LCD 3Dプリンタ（おそらく光学式の3Dプリンタ）を使ってフレ
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4%E3%82%92%E7%B5%84%E3%81%BF%E8%BE%BC%E3%82%93%E3%81%A03d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B7%E3%83%A7%E3%83%AB%E3%82%AD%E3%83%BC/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/gameboy-keyter.jpg"&gt;3D Printed Dual Game Boy Chiptune Keytarから発見。画像もここから転載。
 動画がすべて、というガジェットですが、ゲームボーイの音源を使った「ショルキー」です。
-フレーム部分は3Dプリンタで作られており、鍵盤や、ネック部分は既存の製品の流用のようです。 ともかく演奏動画がかっこいいので、見てみてください。
- </description>
+フレーム部分は3Dプリンタで作られており、鍵盤や、ネック部分は既存の製品の流用のようです。 ともかく演奏動画がかっこいいので、見てみてください。</description>
     </item>
     
     <item>
@@ -1335,14 +1237,13 @@ OctoPrintのプラグインとして提供されているので、簡単に利�
       <pubDate>Sun, 27 Oct 2019 23:00:06 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8Bcnc%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/dremelcnc.jpg"&gt;DIY 3D Printed Dremel CNC から発見。画像もここから転載（CC BY-NC-SA By Nikus）
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/dremelcnc.jpg"&gt;DIY 3D Printed Dremel CNCから発見。画像もここから転載（CC BY-NC-SA By Nikus）
 3Dプリンタは便利ですが、プラスチック製品しか作ることができません。もっと強度の高いものを作る際にはCNCが便利です。
 そこで、この記事では3Dプリンタを使ってCNCを作る方法を丁寧に紹介しています。もちろんシャフトやベアリング、ドリル、CPUなどは既製品を買う必要がありますが、それでもかなりの低コストでCNCを作ることができます（作者曰く$300以下）
 本当に丁寧に説明されており、これなら自分でも作れそう・・？　と思わせてくれる記事です。
 CNCの制御にはCNCjsというWebブラウザベースのソフトウェアを使っていました。CNC制御のツールってなんか怪しいのが多いけど、このツールはよさそうに思いました。
 この自作のCNCはかなり有名なものらしくFacebookグループなどもあるようです。
-3Dプリンタは持っているけど、CNCはまだ・・という方はこの記事を覗いてみてください。
- </description>
+3Dプリンタは持っているけど、CNCはまだ・・という方はこの記事を覗いてみてください。</description>
     </item>
     
     <item>
@@ -1366,8 +1267,7 @@ Micro:bitを使ったコンパスの作例ですが、私が注目したのは�
 ペット型ロボットを作るのはDIY Makerの典型的な夢の一つです。この記事では「犬型ロボット」を作成しています。
 といいつつ、かなり怪しげな外観で、いかにも「ロボット！」という感じです。動作の動画をみてもかなりたどたどしい感じで、「がんばれ！」といいたくなるような動きです。
 しかし逆にこの”足りて無さ”がかわいい気がして、ついつい気になってしまうロボットだと感じました。
-完成度が高い動物型のロボットだとNybbleがお勧めです。（もともとOpenCatと呼ばれていましたが、クラウドファンディング用に愛称を決めたのでしょう）
- </description>
+完成度が高い動物型のロボットだとNybbleがお勧めです。（もともとOpenCatと呼ばれていましたが、クラウドファンディング用に愛称を決めたのでしょう）</description>
     </item>
     
     <item>
@@ -1380,8 +1280,7 @@ Micro:bitを使ったコンパスの作例ですが、私が注目したのは�
 スピーカを設計したことはありますか？ スピーカの設計は鳴らしたい音の特性に応じて様々なパラメータが存在します。なかなか理屈通りの音が鳴るわけでもありません。
 結果試行錯誤を繰り返すことになるわけですが、この記事で紹介しているモジュール式のスピーカーキットは、その試行錯誤を簡単にしてくれるソリューションです。
 3Dプリンタで作ったねじ付きのスピーカーケースによって構成されるこのキットは、組み合わせ次第で様々なスピーカを試作することができます。
-スピーカの自作や音響周りに興味がある方は試しに作ってみてはどうでしょうか？
- </description>
+スピーカの自作や音響周りに興味がある方は試しに作ってみてはどうでしょうか？</description>
     </item>
     
     <item>
@@ -1392,8 +1291,7 @@ Micro:bitを使ったコンパスの作例ですが、私が注目したのは�
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B4%E3%83%9F%E8%A2%8B%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%9B%E3%83%90%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/hovercraft.jpg"&gt;A GARBAGE BAG SKIRT IS FIT FOR A HOVERCRAFTから発見。画像もここから転載。
 3Dプリンタで作成した、ホバークラフトの作例です。ミソとなっているのは、”ごみ袋”です。
-仕上げも丁寧に行われており、3Dプリンタでモノづくりをする際の良い参考となりそうです。
- </description>
+仕上げも丁寧に行われており、3Dプリンタでモノづくりをする際の良い参考となりそうです。</description>
     </item>
     
     <item>
@@ -1402,7 +1300,7 @@ Micro:bitを使ったコンパスの作例ですが、私が注目したのは�
       <pubDate>Mon, 14 Oct 2019 23:00:17 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%82%A1%E3%83%9F%E3%82%B3%E3%83%B3%E4%BA%92%E6%8F%9B%E6%A9%9F%E3%82%92%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%E3%81%AB%E6%94%B9%E9%80%A0/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/portable-nes.jpg"&gt;The Thinnest &amp;amp; Narrowest Portable Nes? から発見。画像もここから転載（CC BY-NCS-SA By M-Parks）
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/portable-nes.jpg"&gt;The Thinnest &amp;amp; Narrowest Portable Nes?から発見。画像もここから転載（CC BY-NCS-SA By M-Parks）
 持ち運べるファミコン互換機の作例です。1から作るのは大変なので、既存の据え置き型のファミコン互換機を改造する形で作成しています。
 といっても、コントローラや液晶、充電機能、オーディオアンプなど、周辺機器は自作しています。
 1から作ることが難しいものでも、このように既存の製品を組み合わせることで実現することができるという良い例だと感じました。</description>
@@ -1416,8 +1314,7 @@ Micro:bitを使ったコンパスの作例ですが、私が注目したのは�
       <guid>https://inajob.github.io/iroiro-review/post/%E8%BB%A2%E3%81%8C%E3%81%97%E3%81%A6%E8%B7%9D%E9%9B%A2%E3%82%92%E6%B8%AC%E3%82%8B%E5%AE%9A%E8%A6%8F%E3%82%923d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E8%87%AA%E4%BD%9C/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/geneva-ruler.jpg"&gt;Geneva Roller Ruler, a Pocket Sized Infinite Rulerから発見。画像もここから転載（CC BY-MC-SA By MechEngineerMike）
 3Dプリンタを使った転がすタイプの定規です。1回転するごとに数字が増加する目盛りを搭載しているので、回転数を数える必要がありません。
-目盛りの更新には「ジェネバ機構」と呼ばれる歯車を利用しているようです。 機構の勉強に一つ作ってみてはどうでしょうか？
- </description>
+目盛りの更新には「ジェネバ機構」と呼ばれる歯車を利用しているようです。 機構の勉強に一つ作ってみてはどうでしょうか？</description>
     </item>
     
     <item>
@@ -1426,7 +1323,7 @@ Micro:bitを使ったコンパスの作例ですが、私が注目したのは�
       <pubDate>Thu, 03 Oct 2019 23:00:27 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/pixelcon.jpg"&gt;PixelCon Frame (mini) から発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/pixelcon.jpg"&gt;PixelCon Frame (mini)から発見。画像もここから転載。
 PixelCon Frameは8x8のフルカラーLEDを搭載した、アイコン表示用のガジェットです。CPUはESP8266を使っており、WiFi経由で表示を書き換えることができるようです。
 ケースは3Dプリンタで作成されているようですが、写真を見る限りとても完成度が高いです。
 ソースコードや回路図はGitHubで公開されており、回路に関しては非常にシンプルです。GitHubにも書かれていますが、バッテリーなどは搭載されていないようです。</description>
@@ -1439,8 +1336,7 @@ PixelCon Frameは8x8のフルカラーLEDを搭載した、アイコン表示用
       
       <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AB%E5%BC%8F%E3%81%AE%E3%83%AD%E3%83%83%E3%82%AF%E3%82%92%E8%87%AA%E4%BD%9C/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/combination-lock.jpg"&gt;3D PRINTING A COMBINATION LOCKから発見。画像もここから転載。
-金庫などで使われるダイアル式の鍵を3Dプリンタで作るという作例です。私は何となくしか仕組みを知りませんでしたが、ここで紹介されている動画と、3Dデータを見ることで理解が深まりました。まだ試していませんが、3Dプリントして自作することで、さらに詳しく理解することができるでしょう。
- </description>
+金庫などで使われるダイアル式の鍵を3Dプリンタで作るという作例です。私は何となくしか仕組みを知りませんでしたが、ここで紹介されている動画と、3Dデータを見ることで理解が深まりました。まだ試していませんが、3Dプリントして自作することで、さらに詳しく理解することができるでしょう。</description>
     </item>
     
     <item>
@@ -1449,7 +1345,7 @@ PixelCon Frameは8x8のフルカラーLEDを搭載した、アイコン表示用
       <pubDate>Mon, 23 Sep 2019 23:00:00 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E6%9C%A8%E5%B7%A5%E4%BD%9C%E3%81%AE%E5%B7%A5%E5%85%B7/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/wood-tools.jpg"&gt;3D Printed Gadgets for Woodworking から発見。画像もここから転載（CC BY-NC-SA By rschoenm）
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/wood-tools.jpg"&gt;3D Printed Gadgets for Woodworkingから発見。画像もここから転載（CC BY-NC-SA By rschoenm）
 3Dプリンタで作れるものはたくさんありますが、「何かをする道具」を作る、というのも面白い使い方です。
 この記事では木工作に便利なツールを3Dプリンタを使って作成しています。私は木工作はあまりやらないのですが、どのツールも木工作の効率や加工精度を上げるために非常に役立ちそうです。
 もちろんこれらのツールは市販されているものがほとんどですが、自分専用に作ることで、より、用途にマッチしたものの作成や、低コストでの調達が可能となります。
@@ -1465,8 +1361,7 @@ PixelCon Frameは8x8のフルカラーLEDを搭載した、アイコン表示用
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/knobo.jpg"&gt;Knoboから発見。画像もここから転載。
 knoboは点字形式で入力できる一風変わった入力装置です。右側の6つの黒いスイッチを点字と同じように押すことでアルファベットを入力することができます。
 他のキーはスペースや改行に使います。また左上のダイアルでスクロールなどもできます。
-製作の背景としては、Text-to-Speechなどの発達により「点字」の利用がどんどん減っていることを挙げています。Text-to-speechは便利ですが、それはでは読み書きの能力は養えない　ということを課題に感じ、このデバイスを作成しているそうです。
- </description>
+製作の背景としては、Text-to-Speechなどの発達により「点字」の利用がどんどん減っていることを挙げています。Text-to-speechは便利ですが、それはでは読み書きの能力は養えない　ということを課題に感じ、このデバイスを作成しているそうです。</description>
     </item>
     
     <item>
@@ -1479,8 +1374,7 @@ knoboは点字形式で入力できる一風変わった入力装置です。右
 この写真の奇妙なデザインのブックシェルフ。これはFusion360の機能であるTopology Optimizationの機能によって作成されたものです。
 この機能は構造にかかる力を分析し、最適に力を分散する形状を計算する機能です。 計算によって求められる形状は従来の角ばった、直線が基本となるものではなく、写真のような有機的な形状になります。
 3Dプリンタを用いるとこういった有機的な形状も簡単に作成できます。
-近いうちにこういう有機的な形状の製品が身近にあふれるようになるかもしれません。
- </description>
+近いうちにこういう有機的な形状の製品が身近にあふれるようになるかもしれません。</description>
     </item>
     
     <item>
@@ -1489,7 +1383,7 @@ knoboは点字形式で入力できる一風変わった入力装置です。右
       <pubDate>Sun, 01 Sep 2019 23:00:04 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%82%AD%E3%83%BC%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%81%AB%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91%E3%82%8B%E3%81%AE%E3%82%92%E8%A3%9C%E5%8A%A9%E3%81%99%E3%82%8B%E5%99%A8%E5%85%B7/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/keychain-tool.jpg"&gt;Simple Keychain Tool から発見。画像もここから転載（CC BY-NC-SA By chienline）
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/keychain-tool.jpg"&gt;Simple Keychain Toolから発見。画像もここから転載（CC BY-NC-SA By chienline）
 キーホルダーなどについているリング。あれに何かを通すとき、爪で無理やりこじ開けていませんか？ この記事では、そのこじ開けを行うための専用の器具を3Dプリンタで生成しています。
 TinkerCADというブラウザで動作する無料のCADを使った造形方法のチュートリアル形式なので、3Dプリンタ用のモデルの作成に挑戦したい方にお勧めの記事です。</description>
     </item>
@@ -1515,12 +1409,11 @@ TinkerCADというブラウザで動作する無料のCADを使った造形方�
       <pubDate>Sun, 25 Aug 2019 23:00:05 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E9%AD%9A%E7%94%A8%E3%81%AE%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E9%A4%8C%E3%82%84%E3%82%8A%E5%99%A8/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/smart-feeder.jpg"&gt;SMART FISH FEEDER “DOMOVOY” から発見。写真もここから掲載。
-金魚や熱帯魚などの魚を飼っていると定期的にえさをやる必要があります。 この記事で紹介しているSMART FISH FEEDER &amp;ldquo;DOMVOY&amp;rdquo;は、決まった時間に決まった量のえさを与えることを実現するものです。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/smart-feeder.jpg"&gt;SMART FISH FEEDER “DOMOVOY”から発見。写真もここから掲載。
+金魚や熱帯魚などの魚を飼っていると定期的にえさをやる必要があります。 この記事で紹介しているSMART FISH FEEDER &amp;ldquo;DOMVOY&amp;quot;は、決まった時間に決まった量のえさを与えることを実現するものです。
 内部に3Dプリンタ製のスクリューのようなものがあり、時間になると餌を削り出す仕組みのようです。
 オープンソースでソースが公開されています。
-こういう実生活で役に立つガジェットは良いですね。
- </description>
+こういう実生活で役に立つガジェットは良いですね。</description>
     </item>
     
     <item>
@@ -1534,8 +1427,7 @@ TinkerCADというブラウザで動作する無料のCADを使った造形方�
 この構造だと安定しないように思いましたが、動画を見る限り結構精度よく動作しているようです。
 X-Y軸式のプロッタよりも少ない部品で作ることができ、かつ省スペースなのがよさそうに見えます。また人が書く動作と似ているからか、どことなくかわいい感じがします。
 制御は3Dプリンタなどでよく使うAduino Mega 2560 と RAMPS1.4 を利用しているようです。
-”プロッタ”といってもいろいろなタイプのものがある、ということを感じさせる作品です。
- </description>
+”プロッタ”といってもいろいろなタイプのものがある、ということを感じさせる作品です。</description>
     </item>
     
     <item>
@@ -1574,8 +1466,7 @@ SmallKatは3Dプリンタで作られた猫型のロボットです。 動画を
 コアとなるモジュールはESP32で、加えて16個のサーボモーター、IMUなどで構成されており、比較的安価なのが特徴のようです。
 制御は遠隔で行いWiFi経由で指示を送るという設計なので、開発は普通にパソコン上のプログラムで行います。もう一つの方法としてはロボットにRaspberryPiを搭載し、そこから制御を行う、というのがあるようですが、開発段階においては前者のほうが便利だし、安い、とのことです。
 確かにロボットを一気に作り上げるより、パソコンから簡単に試行錯誤できるようなプラットフォームを作るというのは良い方法だと感じました。
-オープンソースで公開されており、さらにはキットも販売しているので、気になる方は作ってみてはどうでしょう？
- </description>
+オープンソースで公開されており、さらにはキットも販売しているので、気になる方は作ってみてはどうでしょう？</description>
     </item>
     
     <item>
@@ -1584,13 +1475,12 @@ SmallKatは3Dプリンタで作られた猫型のロボットです。 動画を
       <pubDate>Wed, 07 Aug 2019 23:00:17 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AElinux%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/pinkypi.jpg"&gt;The PinkyPi Pushes the Limits of How Small a Raspberry Pi Handheld Can Be から発見
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/pinkypi.jpg"&gt;The PinkyPi Pushes the Limits of How Small a Raspberry Pi Handheld Can Beから発見
 元ネタはPinkyPi - Full build - Updatedのようだ。
 PinkyPiはRaspberry Pi Zero Wを使ったゲーム機。1.33インチの240x240の液晶と500mAのバッテリー、そして充電ICのTP4056、23Wのオーディオアンプが搭載されている。
 3Dプリンタ製のケースにより手のひらサイズを実現している。
 TP4056ボードは充電容量に応じて抵抗を変更する必要があるらしい。
-基本的には既製品のボードを使っているだけなので、比較的簡単に真似ができそうだ。
- </description>
+基本的には既製品のボードを使っているだけなので、比較的簡単に真似ができそうだ。</description>
     </item>
     
     <item>
@@ -1602,8 +1492,7 @@ TP4056ボードは充電容量に応じて抵抗を変更する必要がある�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/embos-photo.jpg"&gt;3D PRINTING PHOTOS IS SLOW BUT AWESOMEにて発見。画像もここから転載。
 3Dプリンタには様々な応用方法があり、世界中のハッカーが新しい使い方を発見し続けています。この記事で紹介しているのは「写真」を3Dプリントしています。
 写真の濃淡をエンボスで表現し、光を通してみると写真が浮かび上がるような造形物を実現しています。infillを100%に設定するため、作成にはかなりの時間がかかるようですが、動画を見るととても見栄えがするようなので、一度は作ってみたいです。
-画像をこのようにエンボス状の3Dデータにするには　このサイトが使えるようです。
- </description>
+画像をこのようにエンボス状の3Dデータにするには　このサイトが使えるようです。</description>
     </item>
     
     <item>
@@ -1612,11 +1501,10 @@ TP4056ボードは充電容量に応じて抵抗を変更する必要がある�
       <pubDate>Mon, 29 Jul 2019 23:00:52 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E8%87%AA%E4%BD%9C%E9%9B%BB%E5%8B%95%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/e-screwdriver.jpg"&gt;3D PRINT YOUR OWN ELECTRIC SCREWDRIVER から発見。写真もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/e-screwdriver.jpg"&gt;3D PRINT YOUR OWN ELECTRIC SCREWDRIVERから発見。写真もここから転載。
 この記事では電動ドライバーを自作しています。 バッテリ充電式で、マイコンなどは用いずに直接モータードライバに電力を供給し、減速付きのDCモーターを駆動しています。
 こういうギア付きのDCモーターがあるのを初めて知りました。
- より詳しい情報はhttps://www.electronoobs.com/eng_circuitos_tut29.phpこちらに記載されている。
- </description>
+より詳しい情報はhttps://www.electronoobs.com/eng_circuitos_tut29.phpこちらに記載されている。</description>
     </item>
     
     <item>
@@ -1625,7 +1513,7 @@ TP4056ボードは充電容量に応じて抵抗を変更する必要がある�
       <pubDate>Thu, 25 Jul 2019 23:00:38 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%B9%E3%82%A4%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%9F%E3%83%BC%E9%A2%A8sd%E3%82%AB%E3%83%BC%E3%83%89%E5%85%A5%E3%82%8C/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/sd-card-swiss-army.jpg"&gt;PACK YOUR SD CARDS SWISS ARMY STYLE から発見。写真もここから掲載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/sd-card-swiss-army.jpg"&gt;PACK YOUR SD CARDS SWISS ARMY STYLEから発見。写真もここから掲載。
 SIMや、DSのゲームなど、SDカードに代表される、小型のカードを持ち歩くときにぴったりの「スイスアーミー」風のケースを3Dプリンタで作ったという記事です。
 Thingiverseにデータがあるため、3Dプリンタがあればだれでもこれを作ることができます。
 利用するカードに合わせてパーツを組み替えることで、自分専用のカード入れが作れるということが、3Dプリンタで自分で作れることとマッチしていて良いなと感じました。</description>
@@ -1651,8 +1539,7 @@ Thingiverseにデータがあるため、3Dプリンタがあればだれでも�
       <guid>https://inajob.github.io/iroiro-review/post/%E3%81%BB%E3%81%BC%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%97%E3%81%9F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/lp3d.jpg"&gt;LP3D: A fully lasercut kit 3D printerから発見。画像もここから転載。
 LP3Dはほぼすべての部品をレーザーカッターで作成した3Dプリンタ。記事に細かいことが書かれていませんが、写真を見る限り、本当にほとんどの部品をレーザーカットで作っているようです。
-直動機構はレーザーカットで作ったラックとピニオンを使っており、ステッピングモーターで動かしている。精度の問題でまだまだ苦労しているようですが、これが実現すれば今よりも低コストの3Dプリンタが実現できそうです。
- </description>
+直動機構はレーザーカットで作ったラックとピニオンを使っており、ステッピングモーターで動かしている。精度の問題でまだまだ苦労しているようですが、これが実現すれば今よりも低コストの3Dプリンタが実現できそうです。</description>
     </item>
     
     <item>
@@ -1664,8 +1551,7 @@ LP3Dはほぼすべての部品をレーザーカッターで作成した3Dプ�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/cheese.jpeg"&gt;Retro Gaming… On a Cheeseburger? から発見。画像もここから転載。
 Raspberry Pi Zeroを使ったゲーム機。特筆すべきはこのゲーム機の形状です。
 このチーズバーガーを模した筐体は、レーザーカッターで切断したMDFを積層して作られています。 積層したMDFの側面をやすりがけして丸みのある形に加工しています。
-レーザーカッターを使った作例は、「いかにも」という風貌になりがちですが、このように手をかけることで、ここまでの質感を表現できることに驚きました。
- </description>
+レーザーカッターを使った作例は、「いかにも」という風貌になりがちですが、このように手をかけることで、ここまでの質感を表現できることに驚きました。</description>
     </item>
     
     <item>
@@ -1701,8 +1587,7 @@ Raspberry Pi Zeroを使ったゲーム機。特筆すべきはこのゲーム機
       <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E8%BC%AA%E3%82%B4%E3%83%A0%E3%82%AC%E3%83%88%E3%83%AA%E3%83%B3%E3%82%B0%E9%8A%83/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/gatling-gun.jpg"&gt;PALM-SIZED GATLING GUN HAS 32 MINI ELASTICS WITH YOUR NAME ON THEM  から発見
 3Dプリンタで作られた、自動式の輪ゴムガトリング銃。 サーボモーター自動的に輪ゴムを乱射することができる。
-らせん状のフックを回転させつつ、輪ゴムを順番に飛ばしていく機構が、よく考えられている。
- </description>
+らせん状のフックを回転させつつ、輪ゴムを順番に飛ばしていく機構が、よく考えられている。</description>
     </item>
     
     <item>
@@ -1714,8 +1599,7 @@ Raspberry Pi Zeroを使ったゲーム機。特筆すべきはこのゲーム機
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3dprinter-draw.png"&gt;How to Use a 3D Printer as a Pen Plotter にて発見。画像もここから転載。
 LaserWebというレーザーカッター用のデータを作成するツールを使います。このツールはGコードがカスタマイズできるため、3Dプリンタで動作するようにGコードの設定を変更できます。これによりSVGのファイルを3Dプリンタ向けに変換できます。
 3DプリンタのExtruderの横にペンを固定して準備OK。
-Gコードという共通のフォーマットがあるおかげで思ったより素直に実現できるようです。
- </description>
+Gコードという共通のフォーマットがあるおかげで思ったより素直に実現できるようです。</description>
     </item>
     
     <item>
@@ -1724,11 +1608,10 @@ Gコードという共通のフォーマットがあるおかげで思ったよ�
       <pubDate>Thu, 13 Jun 2019 23:00:09 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E9%A7%86%E4%BD%BF%E3%81%97%E3%81%9F%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E3%83%9E%E3%83%8B%E3%83%94%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AE%E4%BD%9C%E4%BE%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/open-manipulator.jpg"&gt;OpenManipulator Link にて発見。画像もここから転載（By STEAM Cup USA, Apache Licence 2.0）
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/open-manipulator.jpg"&gt;OpenManipulator Linkにて発見。画像もここから転載（By STEAM Cup USA, Apache Licence 2.0）
 自作の腕型ロボット。こういうのを「マニピュレーター」というらしい。
 OpenCRというボードがあるらしい。CPUはSTM32F746ZGT6。かなり高性能だ。
-部品のほとんどは3Dプリンタで作成している。
- </description>
+部品のほとんどは3Dプリンタで作成している。</description>
     </item>
     
     <item>
@@ -1752,8 +1635,7 @@ OpenCRというボードがあるらしい。CPUはSTM32F746ZGT6。かなり高�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/reprap-on-wheel.jpg"&gt;INFINITE BUILD VOLUME WITH REPRAP ON WHEELS にて発見。写真もここから転載。
 3Dプリンタにはいくつかの制約がありますが、「造形物の大きさ」というのもその一つです。 これをどうにかするために、様々なアイデアが提案されています。
 この記事で紹介されているのは「自走式の3Dプリンタ」です。 3Dプリンタ自体にタイヤのようなものがついており、自走します。それにより、理論上無限の長さの造形物を作ることが可能になっています。
-ヒートベッドは無限に用意するのか？造形面は平面なのか？固定は十分か？　など気になることはありますが、新しいアイデアとして非常に面白いと感じました。
- </description>
+ヒートベッドは無限に用意するのか？造形面は平面なのか？固定は十分か？　など気になることはありますが、新しいアイデアとして非常に面白いと感じました。</description>
     </item>
     
     <item>
@@ -1768,8 +1650,7 @@ OpenCRというボードがあるらしい。CPUはSTM32F746ZGT6。かなり高�
 この種類のプリンタは、フィラメント切り替え時にグラデーションのように素材の切り替えが行われます。これはこれで良い効果なのですが、場合によっては、スパッと素材の切り替えを行いたい場合もあります。
 実際のところこれを行うためには、切り替え時の素材が混ざってしまったフィラメントをゴミとして捨てることが必要となります。
 extruderを端に追いやって、ただ単にゴミとなるフィラメントを捨てると、3Dプリンタの周りがもじゃもじゃしたゴミだらけになってしまいますが、この記事で紹介している方法は、ごみを捨てるための「ゴミ箱」を3Dプリンタの横に設置する方法です。
-我が家の3Dプリンタは1種類のフィラメントしか、扱えませんが複数のフィラメントを混ぜるタイプの3Dプリンタをお持ちの方は試してみてはどうでしょうか？
- </description>
+我が家の3Dプリンタは1種類のフィラメントしか、扱えませんが複数のフィラメントを混ぜるタイプの3Dプリンタをお持ちの方は試してみてはどうでしょうか？</description>
     </item>
     
     <item>
@@ -1778,7 +1659,7 @@ extruderを端に追いやって、ただ単にゴミとなるフィラメント
       <pubDate>Sun, 19 May 2019 23:00:13 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E8%87%AA%E5%8B%95%E9%80%81%E3%82%8A%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/strain-relief.jpg"&gt;ACTIVE STRAIN RELIEF FOR 3D PRINTER FILAMENT にて発見。写真もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/strain-relief.jpg"&gt;ACTIVE STRAIN RELIEF FOR 3D PRINTER FILAMENTにて発見。写真もここから転載。
 この記事では、積層式の3Dプリンタのフィラメントを物干しざおのようにつるしている状態から、そのまま利用するための方法を紹介している。
 この作者は始めはクリップを使って、フィラメントを引き出しやすくしていたが、よく引っかかるなどといった問題があったらしく、これを作るに至ったようだ。
 この装置はフィラメントが引っ張られるのを検知して、ある程度の長さのフィラメントを自動的に送り出すものだ。ラッパのようになった部分からフィラメントが出ており、3Dプリンタがフィラメントを消費していくと、いずれこのラッパの部分が引っ張られて、周りのリングに接触する。
@@ -1794,8 +1675,7 @@ extruderを端に追いやって、ただ単にゴミとなるフィラメント
       <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A7%E5%8A%B9%E7%8E%87%E7%9A%84%E3%81%AB%E5%BC%B7%E5%BA%A6%E3%82%92%E4%BF%9D%E3%81%A4%E6%96%B9%E6%B3%95/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/smartinfill.png"&gt;FINITE ELEMENT ANALYSIS RESULTS IN SMART INFILLにて発見。画像もここから転載。
 積層式の3Dプリンタで物を作るときは、印刷時間を節約するために、造形物の内側を空洞にするのが一般的です。しかし、そうすると強度がなくなってしまいます。
-この記事では、Fusion360で構造分析を行い、負荷のかかる部分は100%で造形することで、印刷時間を短縮しつつも、丈夫な部品を造形する方法を紹介しています。 Slic3rの編集機能で、部分的にオプションを変更できる機能は知らなかったので、今度試してみたいと思いました。
- </description>
+この記事では、Fusion360で構造分析を行い、負荷のかかる部分は100%で造形することで、印刷時間を短縮しつつも、丈夫な部品を造形する方法を紹介しています。 Slic3rの編集機能で、部分的にオプションを変更できる機能は知らなかったので、今度試してみたいと思いました。</description>
     </item>
     
     <item>
@@ -1809,8 +1689,7 @@ extruderを端に追いやって、ただ単にゴミとなるフィラメント
 3Dプリンタのほかに、磁石と、コイルを作るためのワイヤー、固定用のねじが必要です。
 一般的にスピーカを構成するのは薄い膜と、コイル、永久磁石です、そしてケースです。
 この作例ではこの薄い膜とケースを3Dプリンタで作成しています。確かに原理上はできそうですが、実際に動いているのを見ると不思議な気持ちになります。
-スピーカーというのは部品として広く普及しているものだけに、その仕組みについて考える機会はあまりないですが、このように自分で1から作ることで、その仕組みを深く知る良い機会になるでしょう。
- </description>
+スピーカーというのは部品として広く普及しているものだけに、その仕組みについて考える機会はあまりないですが、このように自分で1から作ることで、その仕組みを深く知る良い機会になるでしょう。</description>
     </item>
     
     <item>
@@ -1828,10 +1707,9 @@ extruderを端に追いやって、ただ単にゴミとなるフィラメント
       <pubDate>Sat, 30 Mar 2019 23:00:10 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%81%84%E3%81%84%E6%84%9F%E3%81%98%E3%81%AEled%E7%85%A7%E6%98%8E%E3%82%AD%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/magiccube.jpg"&gt;MagicCube - Tap to Change Color にて発見。画像もこちらから転載（By Rudeldi CC BY-NC-SA）
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/magiccube.jpg"&gt;MagicCube - Tap to Change Colorにて発見。画像もこちらから転載（By Rudeldi CC BY-NC-SA）
 MagicCube - tap to change colorから購入もできる。
-透明フィラメントを使って、いい感じの雰囲気を演出している。 CPUはArduinoとおなじATmega328P、加速度センサー、充電回路などを搭載している。
- </description>
+透明フィラメントを使って、いい感じの雰囲気を演出している。 CPUはArduinoとおなじATmega328P、加速度センサー、充電回路などを搭載している。</description>
     </item>
     
     <item>
@@ -1859,8 +1737,7 @@ MagicCube - tap to change colorから購入もできる。
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/hand-7seg.jpg"&gt;Peters 7-seg all mechanical display prototype 2 から発見。写真もここから転載。
 普通7セグメント表示機といえばLEDを使ったものを想像しますが、これは手回し式の7セグメント表示機です。
 高速道路の表示などで、この手のLEDを使わない表示機は使われたりしていますが、この記事では、これを3Dプリンタで自作し、さらに手回しで操作できるようにしています。
-動力の肝となるのは輪ゴムで、手回しによりカムを回転させて、数字を切り替えています。
- </description>
+動力の肝となるのは輪ゴムで、手回しによりカムを回転させて、数字を切り替えています。</description>
     </item>
     
     <item>
@@ -1881,7 +1758,7 @@ MagicCube - tap to change colorから購入もできる。
       <pubDate>Tue, 19 Mar 2019 23:00:34 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AB%E3%82%88%E3%82%8B%E9%9B%BB%E7%A3%81%E7%9F%B3%E3%81%AB%E3%82%88%E3%82%8B%E7%89%A9%E7%90%867%E3%82%BB%E3%82%B0/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/electromangnatic-7seg.png"&gt;Electromagnetic display から発見。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/electromangnatic-7seg.png"&gt;Electromagnetic displayから発見。
 物理的なセグメントディスプレイは高速道路などで見かけたりもしますが、その仕組みはよく知りませんでした。
 このプロジェクトでは、これを3Dプリンタで自作してしまおうというものです。 こういう作例を見ると、今まで何気なく見ていた仕組みがどうやって動いているか理解が深まります。
 物理7セグは古典的ですが、表示の維持に電力が不要であったり、周りが明るい環境でも視認性を確保できる、など様々な利点があるため、場合によってはLEDよりも役立つかもしれません。</description>
@@ -1896,8 +1773,7 @@ MagicCube - tap to change colorから購入もできる。
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/wind-up-car.png"&gt;Fully 3D-printable wind-up car gift cardで発見。
 プラモデルみたいな、ランナー付きのパーツキットで、プルバック式のチョロQのようなものが作れるという3Dモデル。
 ばね自体も3Dプリンタで生成している。ばねをうまく動かすためにはinfill100%が推奨とのこと。
-説明書もよくできているし、参考にしたいプロダクト。
- </description>
+説明書もよくできているし、参考にしたいプロダクト。</description>
     </item>
     
     <item>
@@ -1909,8 +1785,7 @@ MagicCube - tap to change colorから購入もできる。
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/air-purifier.png"&gt;3D Printed Air Purifier &amp;ndash; Get Rid of ABS Smell and VOC&amp;rsquo;s 
 で発見。3Dプリンタを立方体のケースに入れて、中にファンとコンパクトな空気清浄機(ガスマスクのフィルタ)を入れるというHack。
 確かに3Dプリンタは特にABSを使うときは、においが気になるし、におわなくてもプラスチック由来の有害物質が出ると聞きます。 ファンを固定するプラスチック部品も3Dプリンタで作っているようです。
-利用しているガスマスクのフィルタは下記のようです（結構高かった！）
-  </description>
+利用しているガスマスクのフィルタは下記のようです（結構高かった！）</description>
     </item>
     
     <item>

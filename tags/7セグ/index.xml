@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>7セグ on inajobのいろいろレビュー</title>
@@ -32,8 +31,7 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/big-led.jpg"&gt;Big 7 segment displayから発見。画像もここから転載。
 ちょっと変わった大きな7セグメント表示機の作例です。 グルーガンで使用するグルースティックをセグメントとして利用し、LEDを用いてこのスティックを光らせます。
 グルースティックの適度な曇り具合が光を拡散して、ネオンサインのような味のある光を演出しているのが素敵です。
-コントローラとしてはESP8266を用い、I/Oエキスパンダとして、MCP23017を使用しているようです。
- </description>
+コントローラとしてはESP8266を用い、I/Oエキスパンダとして、MCP23017を使用しているようです。</description>
     </item>
     
     <item>
@@ -45,8 +43,7 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/mechanical-7seg.jpg"&gt;Building a mechanical 7-segment displayから発見。画像もここから転載。
 からくりで動作する7セグメントディスプレイは、いくつか紹介してきましたが、これまたすごいものです。
 アクリルで作られた回転するカムにより、各セグメントがからくり式にせりあがっては、降りていきます。
-結果的に機械の上部の7セグメントの数字次々と変化していきます。 ゆっくりと変化していく様子は見ていて飽きません。
- </description>
+結果的に機械の上部の7セグメントの数字次々と変化していきます。 ゆっくりと変化していく様子は見ていて飽きません。</description>
     </item>
     
     <item>
@@ -60,8 +57,7 @@
 2種類のデモが紹介されています。1つは「UV感光フィラメントで作られた板」これを使うとUV LEDの光が当たったところだけ色が変わります。
 もう一つは「蓄光テープ」。これを使うとUV LEDの光が当たったところだけが暗闇でぼんやり光ります。
 どちらもLEDが消灯してからもしばらくの間色がついたままなので、省電力でのディスプレイを実現する際にも役に立つテクニックかもしれません。
-また、この7セグメントのような表示は3Dプリンタとグルーガンで自作しており、その点でも参考になりそうな作例です。
- </description>
+また、この7セグメントのような表示は3Dプリンタとグルーガンで自作しており、その点でも参考になりそうな作例です。</description>
     </item>
     
     <item>
@@ -71,8 +67,7 @@
       
       <guid>https://inajob.github.io/iroiro-review/post/%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85led%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88led/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/smd-7seg2.jpg"&gt;TinyLED Displaysから発見。画像もここから転載。
-7セグメントLEDを表面実装LEDで実現しています。見た目も一風変わっていてプロダクトに組み込むといい雰囲気が演出できそうです。
- </description>
+7セグメントLEDを表面実装LEDで実現しています。見た目も一風変わっていてプロダクトに組み込むといい雰囲気が演出できそうです。</description>
     </item>
     
     <item>
@@ -81,11 +76,10 @@
       <pubDate>Thu, 26 Dec 2019 23:00:56 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E6%9D%BF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%A4%A7%E3%81%8D%E3%81%AA7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88led/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/edge-lit-7-seg.jpg"&gt;Edge-Lit Seven Segment Display から発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/edge-lit-7-seg.jpg"&gt;Edge-Lit Seven Segment Displayから発見。画像もここから転載。
 大きな7セグメントLEDを作る試みは数多くありますが、この記事で紹介しているのはアクリル板のエッジを使う方法です。
 セグメント状にカットしたアクリル板のエッジ部分にフルカラーLEDを搭載することで、エッジ全体が光っているような効果を生み出しています。また、セグメント部分から光が漏れないように非導電性のアルミホイルのようなものでセグメントを覆っています。
-さらにフルカラーLEDを使っているため色とりどりの数字を表示することができます。
- </description>
+さらにフルカラーLEDを使っているため色とりどりの数字を表示することができます。</description>
     </item>
     
     <item>
@@ -97,8 +91,7 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/hand-7seg.jpg"&gt;Peters 7-seg all mechanical display prototype 2 から発見。写真もここから転載。
 普通7セグメント表示機といえばLEDを使ったものを想像しますが、これは手回し式の7セグメント表示機です。
 高速道路の表示などで、この手のLEDを使わない表示機は使われたりしていますが、この記事では、これを3Dプリンタで自作し、さらに手回しで操作できるようにしています。
-動力の肝となるのは輪ゴムで、手回しによりカムを回転させて、数字を切り替えています。
- </description>
+動力の肝となるのは輪ゴムで、手回しによりカムを回転させて、数字を切り替えています。</description>
     </item>
     
     <item>
@@ -111,8 +104,7 @@
 アクリル板とLEDを使って表示機を作る作例は何個か知っていますが、これはアクリル板の縁（ふち）をつかって、7セグメントLEDを作っています。
 写真で見る限り、非常にきれいにセグメントが点灯しています。
 アクリル板はレーザーカッターで簡単に加工できる割には、完成度が高く仕上げることができるので、それっぽい製品を作りたい人にはよさそうな手法に見えます。
-ただコントロールに使っているESP8266のパッケージは技適が通っていない版のようで、日本で買う場合には注意が必要そう。
- </description>
+ただコントロールに使っているESP8266のパッケージは技適が通っていない版のようで、日本で買う場合には注意が必要そう。</description>
     </item>
     
     <item>
@@ -133,7 +125,7 @@
       <pubDate>Tue, 19 Mar 2019 23:00:34 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AB%E3%82%88%E3%82%8B%E9%9B%BB%E7%A3%81%E7%9F%B3%E3%81%AB%E3%82%88%E3%82%8B%E7%89%A9%E7%90%867%E3%82%BB%E3%82%B0/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/electromangnatic-7seg.png"&gt;Electromagnetic display から発見。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/electromangnatic-7seg.png"&gt;Electromagnetic displayから発見。
 物理的なセグメントディスプレイは高速道路などで見かけたりもしますが、その仕組みはよく知りませんでした。
 このプロジェクトでは、これを3Dプリンタで自作してしまおうというものです。 こういう作例を見ると、今まで何気なく見ていた仕組みがどうやって動いているか理解が深まります。
 物理7セグは古典的ですが、表示の維持に電力が不要であったり、周りが明るい環境でも視認性を確保できる、など様々な利点があるため、場合によってはLEDよりも役立つかもしれません。</description>

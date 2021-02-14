@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ステッピングモーター on inajobのいろいろレビュー</title>
@@ -20,9 +19,7 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/wire-bender.jpg"&gt;WIRE BENDER AIMS TO TAKE CIRCUIT SCULPTURES TO THE NEXT LEVELから発見。画像もここから転載。
 ”何かを作る機械”というのは見ているだけで飽きないものです。この記事で紹介しているのは「ワイヤーベンダー」と呼ばれる針金を好きな形に曲げることができる装置です。
 2つのステッピングモーターを使い、針金を送り出しては曲げ、を繰り返しています。
-生成される針金細工は丈夫で、大きさの制限も少なそうなので、様々な応用ができそうだなと感じました。
-Wire bending machine update - added straightening wheels. It works so much better now, the wire is not twisting any longer. Now the feeding wheel is a problem, plastic one is quite slippery. I will have to build a metal one. #bendingmachine #cnc pic.twitter.com/GnjpbGnn7R
-&amp;mdash; Jiří Praus (@jipraus) 2019年6月30日</description>
+生成される針金細工は丈夫で、大きさの制限も少なそうなので、様々な応用ができそうだなと感じました。</description>
     </item>
     
   </channel>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>レーザー on inajobのいろいろレビュー</title>
@@ -20,8 +19,7 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/engravinator.jpg"&gt;AN OPEN HARDWARE LASER ENGRAVER FOR EVERYONEから発見。画像もここから転載。
 Engravinatorはオープンソースのレーザー彫刻機です。 よくあるむき出しのレーザー彫刻機とは違い、遮光板で全体が囲われているため、安全性が高そうです。
 残念ながらレーザーカッターとしての用途は想定していないようですが、レーザー彫刻機としてはなかなか良さそうに見えます。
-また、こういうレーザー彫刻機の設計がオープンソースにされていることで、お古の3Dプリンタをばらしてレーザー彫刻機に組み替えるなどができ、エコでリーズナブルなソリューションとしても活用できそうです。
- </description>
+また、こういうレーザー彫刻機の設計がオープンソースにされていることで、お古の3Dプリンタをばらしてレーザー彫刻機に組み替えるなどができ、エコでリーズナブルなソリューションとしても活用できそうです。</description>
     </item>
     
   </channel>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>開発ボード on inajobのいろいろレビュー</title>
@@ -6,21 +5,10 @@
     <description>Recent content in 開発ボード on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 09 Feb 2021 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Jan 2021 11:00:59 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>暗号化チップを搭載したArduino互換ボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%9A%97%E5%8F%B7%E5%8C%96%E3%83%81%E3%83%83%E3%83%97%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Farduino%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3/</link>
-      <pubDate>Tue, 09 Feb 2021 10:00:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%9A%97%E5%8F%B7%E5%8C%96%E3%83%81%E3%83%83%E3%83%97%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Farduino%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/seeed-crypto-atmega4809-ecc608.jpg"&gt;Seeeduino Crypto (ATmega4809 &amp;amp; ECC608)から発見。画像もここから転載。
-Arduino互換の面白いボードです。新しいArduino Nano Everyなどにも使われているAATめが4809をコアとし、暗号化に特化したECC608というチップも搭載しています。
-この暗号化チップはSHA-256 &amp;amp; HMAC Hash / AES-128を素早く計算することができるもののようで、メインCPUに負荷をかけることなく暗号化を実現することができます。</description>
-    </item>
     
     <item>
       <title>Linuxが起動する名刺</title>
@@ -65,7 +53,7 @@ M5Stack社と言えば、代名詞的なプロダクトとしてM5Stack（会社
 いやいや、じゃあ「箱」だけじゃ使えないじゃん！と思われるでしょう？ だからこれは「開発者向けのガジェット」なのです。ソフトは買ったあなたが作るのです。
 しかし、M5Stack社の偉いところは、簡単に開発できるようなお膳立てを整えておいてくれているところです。電子工作ユーザーが良くなれている「Arduino」を使ってこれらのガジェット向けのプログラムを簡単に作ることが出来ます。
 と、ここまで長々と「特徴」について述べてきましたが、仕様の方も見ていきましょう。
- ESP32(240MHzデュアルコア, 16MB FLash, 8MB PSRAM)  WiFi, Bluetoothもサポート 技適取得済み M5StackでもおなじみのパワフルなCPUです  4.7インチ16階調液晶 960*540  ちょうど手のひらサイズです  タッチパネル TPS65185  指で操作できます  温度・湿度センサー SHT30 リアルタイムクロック BM8563  電源が切れていても時間を正確に刻めます。  静電容量タッチセンサー GT911  マルチポイントタッチ対応  micro SDカードスロット USB Type-C充電端子 I2Cポート*3 多機能ボタン（上下と中央の3スイッチ）  握った親指で操作しやすいボタンです  リセットボタン EEPROM FM24C02  電源が切れてもデータを記憶できます。  磁石内蔵  金属に貼り付けることが出来ます。  USBシリアル CP2104  パソコンからUSB経由でプログラムを書き換えられます。  リチウムイオンバッテリー 1150mAh  電源をつながなくてもそこそこ稼働します。 電源を切っても画面は残るので、表示し続けるだけなら電気を消費しません。   お腹いっぱいの仕様ですね。</description>
+ ESP32(240MHzデュアルコア, 16MB FLash, 8MB PSRAM)  WiFi, Bluetoothもサポート 技適取得済み M5StackでもおなじみのパワフルなCPUです   4.7インチ16階調液晶 960*540  ちょうど手のひらサイズです   タッチパネル TPS65185  指で操作できます   温度・湿度センサー SHT30 リアルタイムクロック BM8563  電源が切れていても時間を正確に刻めます。   静電容量タッチセンサー GT911  マルチポイントタッチ対応   micro SDカードスロット USB Type-C充電端子 I2Cポート*3 多機能ボタン（上下と中央の3スイッチ）  握った親指で操作しやすいボタンです   リセットボタン EEPROM FM24C02  電源が切れてもデータを記憶できます。   磁石内蔵  金属に貼り付けることが出来ます。   USBシリアル CP2104  パソコンからUSB経由でプログラムを書き換えられます。   リチウムイオンバッテリー 1150mAh  電源をつながなくてもそこそこ稼働します。 電源を切っても画面は残るので、表示し続けるだけなら電気を消費しません。    お腹いっぱいの仕様ですね。</description>
     </item>
     
     <item>
@@ -77,8 +65,7 @@ M5Stack社と言えば、代名詞的なプロダクトとしてM5Stack（会社
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/heyteddy800.jpg"&gt;PROGRAMMING ARDUINOS WITH VOICE COMMANDSから発見。画像もここから転載。
 ユニバーサル基板とArduino,そしてディスプレイを搭載したプロトタイピング環境です。 注目すべきは、その横に並べられたAmazon Echoです。
 このプロトタイピングボードは音声で制御することができ、例えば「4番ピンをHIGHに」とか「LEDを点けて」などと指示することで、Arduinoのピンを制御することができます。
-配線から目を離すことなく、動作動作が確認ができるため、プロトタイピングがはかどりそうな仕組みだと感じました。
- </description>
+配線から目を離すことなく、動作動作が確認ができるため、プロトタイピングがはかどりそうな仕組みだと感じました。</description>
     </item>
     
     <item>
@@ -87,7 +74,7 @@ M5Stack社と言えば、代名詞的なプロダクトとしてM5Stack（会社
       <pubDate>Sat, 28 Nov 2020 23:00:46 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/attiny88%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%A0%BC%E5%AE%89%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/mh-tiny-board.png"&gt;An Alternative to the Blue Pill? から発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/mh-tiny-board.png"&gt;An Alternative to the Blue Pill?から発見。画像もここから転載。
 ATtiny88を使った開発ボードを紹介します。 この記事では、BluePillの代替品としてこのATtiny88を使ったMH-Tinyというボードを紹介しています。特筆すべきはBluePillに匹敵する「安さ」です。
 BluePillも同じように「安い」ボードですが、市場には誤った抵抗が実装されている個体なども混ざっており、安心して使うことが出来ません。一方でこのMH-Tinyボードはそのような問題がありません。
 BluePillからするとスペックの低いCPUではありますが、簡単な用途であれば、ATtiny88でも十分かもしれません。</description>
@@ -113,8 +100,7 @@ BluePillからするとスペックの低いCPUではありますが、簡単な
       <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E5%B0%8F%E5%9E%8B%E3%81%AEpda/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/esp32-pda-board.jpg"&gt;Low Power ESP32 Handheldから発見。画像もここから転載。
 ESP32がコアのPDA風ガジェットです。シャープのメモリ液晶とESP32に内蔵されている低消費電力プロセッサ ULPを活用することで、低電力での動作を実現しています。
-加速度センサーも内蔵しており、これを利用したキーボード入力なども紹介されています。
- </description>
+加速度センサーも内蔵しており、これを利用したキーボード入力なども紹介されています。</description>
     </item>
     
     <item>
@@ -127,8 +113,7 @@ ESP32がコアのPDA風ガジェットです。シャープのメモリ液晶と
 テレビとつなげてゲームが遊べるゲームコンソールです。
 BASICで作られたプログラムが遊べるようで、日本だとIchigoJamやMachikaniaが近そうです。
 マイコンはAtmega644を利用しています。これ一つでPC/2端子によるキーボード入力、SCART端子による音声・映像出力を実現しています。PCとの接続はRS232端子が利用できます。
-パーツはすべてDIPで構成されているため、簡単に組み立てできそうです。
- </description>
+パーツはすべてDIPで構成されているため、簡単に組み立てできそうです。</description>
     </item>
     
     <item>
@@ -137,7 +122,7 @@ BASICで作られたプログラムが遊べるようで、日本だとIchigoJam
       <pubDate>Sun, 04 Oct 2020 23:00:26 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AAatmega644-1284%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/narrow-board.jpg"&gt;644&amp;frasl;1284 Narrowから発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/narrow-board.jpg"&gt;644/1284 Narrowから発見。画像もここから転載。
 コンパクトなAtmega644/1284のボードです。大きさはArduino Nanoよりも少し大きい感じです。 図の右上部分に4ピン余計に引き出されているところはI2Cとして利用できるようになっており、想定としてはOLEDを搭載することができるようです。
 普通のArduinodではRAM/ROMの容量が足りないようなプロジェクトによさそうな開発ボードです。</description>
     </item>
@@ -344,8 +329,7 @@ SOICbyteでは通常SOIC-8の形のICに書き込むための「クリップ」�
       
       <guid>https://inajob.github.io/iroiro-review/post/risc-v%E3%83%81%E3%83%83%E3%83%97maix%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fraspberrypi%E4%BA%92%E6%8F%9B%E3%83%94%E3%83%B3%E3%82%92%E6%8C%81%E3%81%A4%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/grove-ai-hat.png"&gt;Grove AI HAT for Edge Computingから発見。
-RISC-VチップであるMAixを搭載したRaspberry Piに接続できるAIボードです。 このボードをつけることでRaspberry Piから機械学習処理をオフロードしたり、カメラやディスプレイの制御を任せることができるようです。
- </description>
+RISC-VチップであるMAixを搭載したRaspberry Piに接続できるAIボードです。 このボードをつけることでRaspberry Piから機械学習処理をオフロードしたり、カメラやディスプレイの制御を任せることができるようです。</description>
     </item>
     
     <item>
@@ -354,10 +338,9 @@ RISC-VチップであるMAixを搭載したRaspberry Piに接続できるAIボ�
       <pubDate>Sun, 15 Dec 2019 23:00:35 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AAatmega328%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF%E5%99%A8/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/tiny-standalone-atmega328-writer.jpg"&gt;Tiny Stand Alone Atmega328 Bootloader Burner から発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/tiny-standalone-atmega328-writer.jpg"&gt;Tiny Stand Alone Atmega328 Bootloader Burnerから発見。画像もここから転載。
 表面実装パッケージのATmega328に書き込む装置の紹介です。 通常この手の書き込み器にはごついSMDパッケージ用のマウンタを使いますが、この記事で紹介しているのは、もっと単純にフットプリントを用意して、単にそこにCPUを載せるだけのものです。
-位置がずれないように基板を複数枚重ねて、凹んだところにCPUを置くようになっています。シンプルだけどそこそこ確実でよい方法だと感じました。
- </description>
+位置がずれないように基板を複数枚重ねて、凹んだところにCPUを置くようになっています。シンプルだけどそこそこ確実でよい方法だと感じました。</description>
     </item>
     
     <item>
@@ -378,10 +361,9 @@ ATmega328PBはほかのものと違い2つのGPIOが増えています。（今�
       <pubDate>Sun, 01 Dec 2019 23:00:53 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/ipad%E3%81%A8%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E9%9B%BB%E5%AD%90%E5%B7%A5%E4%BD%9C%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/flowboard.jpg"&gt;Flowboard Provides a Novel, Visual Approach to Arduino Programming から発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/flowboard.jpg"&gt;Flowboard Provides a Novel, Visual Approach to Arduino Programmingから発見。画像もここから転載。
 電子工作は慣れればそれほど難しくないですが、その導入においてはとっつきにくさを感じる人も多いのではないでしょうか？特に、ハードウェアもプログラミングも未経験な方はこの両方のハードルを越えるのが苦労するポイントとなっています。 この記事で紹介しているのは、電子工作の敷居を下げるためのソリューションです。
-両端にあるのは電子工作ではおなじみの「ブレッドボード」で、その中央に据えてあるのがiPadです。このiPad部分はビジュアルプログラミング環境となっており、視覚的に電子回路の制御ができる。というもののようです。
- </description>
+両端にあるのは電子工作ではおなじみの「ブレッドボード」で、その中央に据えてあるのがiPadです。このiPad部分はビジュアルプログラミング環境となっており、視覚的に電子回路の制御ができる。というもののようです。</description>
     </item>
     
     <item>
@@ -390,7 +372,7 @@ ATmega328PBはほかのものと違い2つのGPIOが増えています。（今�
       <pubDate>Tue, 12 Nov 2019 23:00:29 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/i2c%E3%81%A7%E6%8E%A5%E7%B6%9A%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B8%E3%83%A7%E3%82%B0%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AB%E4%BB%98%E3%81%8D%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%91%E3%83%83%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/i2c-jog.jpg"&gt;I2C NavKey から発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/i2c-jog.jpg"&gt;I2C NavKeyから発見。画像もここから転載。
 便利そうなキーバッドです。 I2C接続で簡単に扱うことができ、また、4つのねじで簡単に固定できるところも魅力です。
 Tindieで販売中のようで、日本からも買うことができるようなので、このコントローラにビビッと来た人は売り場を覗いてみてください。</description>
     </item>
@@ -413,7 +395,7 @@ Tindieで販売中のようで、日本からも買うことができるよう�
       <pubDate>Mon, 07 Oct 2019 23:00:47 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/atsamd21%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%9C%80%E5%B0%8F%E6%A7%8B%E6%88%90%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%81%AE%E7%B4%B9%E4%BB%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/atsamd21-minimal.jpg"&gt;Minimal ATSAMD21 Computer 2 から発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/atsamd21-minimal.jpg"&gt;Minimal ATSAMD21 Computer 2から発見。画像もここから転載。
 ATSAMD21というのはArduino M0やArduino Zeroなどで使われているAtmelのCortex-M0+のCPUです。 この記事では、ArduinoボードではなくICと周辺部品をブレッドボード上で回路を構成し、最低限の開発環境を作る方法を紹介しています。
 同じIC（ATSAMD21G18A）は秋月電子でも買うことができるため このICを使って何か作ろうと考えている方は要チェックです。
 初回のブートローダーの書き込みにはArduino Zeroなどを使うようです。その後Arduinoとして書き込む際はICに内蔵されているUSBの機能で書き込みができるということのようです。
@@ -428,8 +410,7 @@ ATSAMD21というのはArduino M0やArduino Zeroなどで使われているAtmel
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E4%BB%98%E3%81%8D%E3%81%AErisc-v%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/risc-v-nano.jpg"&gt;Sipeed Longan Nano - RISC-V GD32VF103CBT6 Development Boardから発見。画像もここから転載。
 RISC-Vのチップが次々と発表されています。その一つであるGD32VF103CBT6を搭載した開発ボードがSeeedから発表されています。
-USB-CとSDカードスロット、小さいですが160x80でフルカラーのLCDが搭載されています。 Flashは128KB、RAMは32KBと非常にパワフルなCPUですが、お値段$4.9ということで、ついつい衝動買いしたくなってしまいます。
- </description>
+USB-CとSDカードスロット、小さいですが160x80でフルカラーのLCDが搭載されています。 Flashは128KB、RAMは32KBと非常にパワフルなCPUですが、お値段$4.9ということで、ついつい衝動買いしたくなってしまいます。</description>
     </item>
     
     <item>
@@ -498,8 +479,7 @@ AdafruitのFeatherシリーズと同じフットプリントのLinuxが動くボ
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/tinypico-vga.jpg"&gt;Bitluni Has Already Designed a VGA Shield for the TinyPICO ESP32 Boardから発見。画像もここから転載。
 以前紹介したTinyPICOというESP32を搭載した小型ボードにくっつけることができる VGA出力のためのボードを紹介します。
 動画ではステンシルを使ってソルダーペーストを載せ、リフロー炉ではんだ付けする流れが紹介されており、表面実装基板を作る流れを知りたい方にも有用なものとなっています。
-TinyPICOが小型であるため、全体としてとてもコンパクトにまとまった構成でVGA出力が実現できています。これで昔ながらのゲームを作るといわゆる「なんとかミニ」的なプロダクトが簡単に作れそうだなと感じました。
- </description>
+TinyPICOが小型であるため、全体としてとてもコンパクトにまとまった構成でVGA出力が実現できています。これで昔ながらのゲームを作るといわゆる「なんとかミニ」的なプロダクトが簡単に作れそうだなと感じました。</description>
     </item>
     
     <item>
@@ -521,7 +501,7 @@ FPGAボードが身近になってきていますが、まだまだ難しそう�
       <pubDate>Wed, 26 Jun 2019 23:00:23 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E5%B0%8F%E5%9E%8B%E3%81%AEesp32%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%ABtinypico/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/tinypico.jpg"&gt;TinyPICO A tiny, mighty ESP32 development board から発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/tinypico.jpg"&gt;TinyPICOA tiny, mighty ESP32 development boardから発見。画像もここから転載。
 ESP32は性能が高く、機能も多く、安い、という良いボードですが、一般に流通しているdevkitCはやや大きいのが玉に瑕です。このクラウドファンディングのキャンペーンは、小型で良いサイズのESP32ボードです。また特徴としてはボード上にフルカラーのLEDやLiPoのバッテリー回路が搭載されています。
 USB端子はあの「もげる」MicroUSBなのがやや不安です。
 日本においては技適が通っていないと電波を発することができないので、そのあたりが気になるところですが、この大きさは魅力的です。

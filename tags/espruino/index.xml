@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Espruino on inajobのいろいろレビュー</title>
@@ -20,8 +19,7 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/f579e436-f9fa-4afc-823f-f881412ff0eb.jpeg"&gt;Tiny Word Clockから発見。画像もここから転載。
 Espruinoは組み込み環境向けのJavaScript開発環境。
 この記事ではEspruinoを使っていわゆる「WordClock」を作成する方法を紹介している。
-ここで紹介されているマイコンボードは技適取得されていないので、日本で利用する場合には注意が必要です。
- </description>
+ここで紹介されているマイコンボードは技適取得されていないので、日本で利用する場合には注意が必要です。</description>
     </item>
     
   </channel>

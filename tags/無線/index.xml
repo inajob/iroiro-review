@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>無線 on inajobのいろいろレビュー</title>
@@ -33,8 +32,7 @@ P2P型の通信モデルを採用することで、携帯電話のような基�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/oled-remote.jpg"&gt;Two way OLED remoteにて発見。画像もここから掲載。（2019/07/12 ページがなくなってしまっているようです 残念・・）
 よくあるOLED付きの開発ボードかな、と思ったら無線通信機能がオプションとしてあるようです。
 RFM69HW 433Mhz moduleと書かれていて、確かに写真にもそのモジュールをはんだ付けできそうなフットプリントがあります。
-調べると300円程度で入手できる無線モジュールのようです。残念ながら日本では技適がないため利用できませんが・・
- </description>
+調べると300円程度で入手できる無線モジュールのようです。残念ながら日本では技適がないため利用できませんが・・</description>
     </item>
     
   </channel>
