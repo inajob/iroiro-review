@@ -5,10 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 18 Feb 2021 00:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Feb 2021 12:00:04 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3Dプリンタで作った金属プレス用の治具</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E9%87%91%E5%B1%9E%E3%83%97%E3%83%AC%E3%82%B9%E7%94%A8%E3%81%AE%E6%B2%BB%E5%85%B7/</link>
+      <pubDate>Sun, 21 Feb 2021 12:00:04 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E9%87%91%E5%B1%9E%E3%83%97%E3%83%AC%E3%82%B9%E7%94%A8%E3%81%AE%E6%B2%BB%E5%85%B7/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/press-3d-print.png"&gt;3D-PRINTED TOOLS TURN BENCH VISE INTO EXPEDIENT PRESS BRAKEから発見。画像もここから転載。
+3Dプリンタを使って金属のプレス加工を支援するツールを作る方法を紹介しています。
+写真のような、簡単なパーツの組み合わせで、好きな形に金属をプレスすることができるようです。3Dプリンタだけでは金属ほどの強度や特性を持ったパーツを作る事ができませんが、このように「金属加工するための治具」を作る事で、3Dプリンタを使って、高度な金属部品を作る事ができるというのは興味深いです。
+ </description>
+    </item>
     
     <item>
       <title>ミニチュアの建物の窓の明かりを使ったバイナリクロック</title>
