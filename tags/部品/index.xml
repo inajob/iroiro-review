@@ -1,0 +1,32 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>部品 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E9%83%A8%E5%93%81/</link>
+    <description>Recent content in 部品 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 24 Feb 2021 23:00:22 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%83%A8%E5%93%81/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>カッコいい透明なOLED</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%83%E3%82%B3%E3%81%84%E3%81%84%E9%80%8F%E6%98%8E%E3%81%AAoled/</link>
+      <pubDate>Wed, 24 Feb 2021 23:00:22 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%83%E3%82%B3%E3%81%84%E3%81%84%E9%80%8F%E6%98%8E%E3%81%AAoled/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/transparent-oled.jpg"&gt;128x56 Transparent OLED Displayから発見。画像もここから転載。
+「透明な部品」というのは何でも魅力的なものですが、それがディスプレイともなると最高です。
+情報元のページでは128x56の背景が透明なOLEDの製品情報が紹介されています。
+Twitterを調べるとこのOLEDを使った魅力的な作品が投稿されています。
+Arduboyの作者であるKevinさんは 自身のゲームをこのOLEDで動かしています。
+Transparent OLED Arduboy success! pic.twitter.com/YiRdXzAJsa
+&amp;mdash; Kevin Bates (@bateskecom) January 27, 2021  このOLEDを大量に重ねて立体ディスプレイを作っている人もいます。
+😳 it works. #teaser pic.twitter.com/GKAzug51em
+&amp;mdash; Sean Hodgins (@idlehandsdev) February 14, 2021  </description>
+    </item>
+    
+  </channel>
+</rss>
+
