@@ -1,0 +1,28 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SAMD21 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/samd21/</link>
+    <description>Recent content in SAMD21 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Mon, 01 Mar 2021 11:00:02 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/samd21/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>小型のパワフルなCortex-M0ボードSeeduino XIAO</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%B0%8F%E5%9E%8B%E3%81%AE%E3%83%91%E3%83%AF%E3%83%95%E3%83%AB%E3%81%AAcortex-m0%E3%83%9C%E3%83%BC%E3%83%89seeduino-xiao/</link>
+      <pubDate>Mon, 01 Mar 2021 11:00:02 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%B0%8F%E5%9E%8B%E3%81%AE%E3%83%91%E3%83%AF%E3%83%95%E3%83%AB%E3%81%AAcortex-m0%E3%83%9C%E3%83%BC%E3%83%89seeduino-xiao/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/seeeduino-xiao.jpg"&gt;Seeeduino XIAO - Arduino Microcontroller - SAMD21 Cortex M0+から発見。画像もここから転載。
+Seeedが作った小型のCortex M0+のボードです。USB Type-CプラグでPCと接続でき、3.3Vで駆動します。256KBのフラッシュに32KBのRAMが搭載されています。 USBホストとしても使えるようで、Arduino Unoなどではちょっとパワー不足の際に利用できそうです。
+開発にはArduino IDEを使うことができ、プログラミングはArduinoを使うことができるようです。値段も手ごろで、Arduino Unoに取って代わるボードになるかもしれません。
+みんな大好き秋月電子でも購入することができます。
+ </description>
+    </item>
+    
+  </channel>
+</rss>
+
