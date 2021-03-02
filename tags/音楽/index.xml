@@ -5,10 +5,23 @@
     <description>Recent content in 音楽 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 18 Jan 2021 11:00:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Mar 2021 11:00:12 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%9F%B3%E6%A5%BD/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>8bit音が楽しいハードウェアシンセサイザー</title>
+      <link>https://inajob.github.io/iroiro-review/post/8bit%E9%9F%B3%E3%81%8C%E6%A5%BD%E3%81%97%E3%81%84%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</link>
+      <pubDate>Tue, 02 Mar 2021 11:00:12 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/8bit%E9%9F%B3%E3%81%8C%E6%A5%BD%E3%81%97%E3%81%84%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/liven-8bit-wraps.jpg"&gt;LIVEN 8bit warps - 8bit wave memory synthesizer/8ビット波形メモリシンセから発見。画像もここから転載。
+見た目からしてかっこいい シンセサイザーです。 ELZ_1というシンセサイザーを作っているチームの新作です。
+ ELZ_1よりは低価格路線での販売を考えているようですが、8bitのかっこいいサウンドを使ってライブ作曲が実用的にできるマシンのように見えます。
+こちらから購入できるようです。
+ </description>
+    </item>
     
     <item>
       <title>ESP32/M5Stack用のメガドライブ音源エミュレータ</title>
