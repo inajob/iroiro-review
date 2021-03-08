@@ -5,10 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 07 Mar 2021 11:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Mar 2021 10:00:02 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>コロナ禍に有用な顔に手で触れないようにするための警告ガジェット</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%83%AD%E3%83%8A%E7%A6%8D%E3%81%AB%E6%9C%89%E7%94%A8%E3%81%AA%E9%A1%94%E3%81%AB%E6%89%8B%E3%81%A7%E8%A7%A6%E3%82%8C%E3%81%AA%E3%81%84%E3%82%88%E3%81%86%E3%81%AB%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E8%AD%A6%E5%91%8A%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
+      <pubDate>Mon, 08 Mar 2021 10:00:02 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%83%AD%E3%83%8A%E7%A6%8D%E3%81%AB%E6%9C%89%E7%94%A8%E3%81%AA%E9%A1%94%E3%81%AB%E6%89%8B%E3%81%A7%E8%A7%A6%E3%82%8C%E3%81%AA%E3%81%84%E3%82%88%E3%81%86%E3%81%AB%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E8%AD%A6%E5%91%8A%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/sentinel.jpg"&gt;A REMINDER NOT TO TOUCH YOUR FACEから発見。画像もここから転載。
+コロナ禍にDIY電子工作でできることは何かあるでしょうか？
+この記事では顔に手が近づくとそれを警告してくれる眼鏡型ガジェットの作例を紹介しています。
+仕組みは簡単で、超音波式の距離センサーを眼鏡の上に取り付け、顔の近くに何かが近づいたらLEDを光らせるというものです。
+ついつい顔を触ってしまう、その行動が感染リスクを高めているとしたら、、単純ですが、有用そうな作品です。
+ </description>
+    </item>
     
     <item>
       <title>手を綺麗に洗えるまでの時間を表すカウントダウンタイマー</title>
