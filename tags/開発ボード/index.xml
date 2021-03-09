@@ -5,10 +5,24 @@
     <description>Recent content in 開発ボード on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 01 Mar 2021 11:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Mar 2021 21:00:18 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arduinoの最高峰ボード「PORTENTA H7」</title>
+      <link>https://inajob.github.io/iroiro-review/post/arduino%E3%81%AE%E6%9C%80%E9%AB%98%E5%B3%B0%E3%83%9C%E3%83%BC%E3%83%89portenta-h7/</link>
+      <pubDate>Tue, 09 Mar 2021 21:00:18 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/arduino%E3%81%AE%E6%9C%80%E9%AB%98%E5%B3%B0%E3%83%9C%E3%83%BC%E3%83%89portenta-h7/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/portenta.jpg"&gt;NEW PART DAY: ARDUINO GOES PRO WITH THE PORTENTA H7から発見。画像もここから転載。
+STM32H747 というチップが搭載され、これは内部にCortexM7(480MHz)とCortexM4(240MHz)を搭載しており、とてもパワフルです。
+Mbedや、MicroPython、JavaScript、TensorFlow Liteなど様々方法で開発できます。
+またこのチップにはGPUが内蔵されており、画面付きのガジェットも簡単に開発できるようです。
+メモリ量や、通信モジュールの有無など、様々なオプションを選択することが出来ます。
+AIカメラのような、パワフルなCPUが必要なものを作りたいときには役立ちそうです。</description>
+    </item>
     
     <item>
       <title>小型のパワフルなCortex-M0ボードSeeduino XIAO</title>

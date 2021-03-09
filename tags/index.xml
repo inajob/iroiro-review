@@ -5,10 +5,19 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 08 Mar 2021 10:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Mar 2021 21:00:18 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>開発ボード</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Tue, 09 Mar 2021 21:00:18 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>HACK</title>
@@ -70,15 +79,6 @@
       <pubDate>Mon, 01 Mar 2021 11:00:02 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/samd21/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>開発ボード</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Mon, 01 Mar 2021 11:00:02 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
