@@ -5,10 +5,23 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 11 Mar 2021 11:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Mar 2021 11:00:29 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>銅箔テープを使った基板のプロトタイピング</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%8A%85%E7%AE%94%E3%83%86%E3%83%BC%E3%83%97%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%9F%BA%E6%9D%BF%E3%81%AE%E3%83%97%E3%83%AD%E3%83%88%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0/</link>
+      <pubDate>Sun, 14 Mar 2021 11:00:29 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%8A%85%E7%AE%94%E3%83%86%E3%83%BC%E3%83%97%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%9F%BA%E6%9D%BF%E3%81%AE%E3%83%97%E3%83%AD%E3%83%88%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/copper-prototyping.png"&gt;Prototyping using copper tape and PCB land padsから発見。画像もここから転載。
+プリント基板を作る前のプロトタイピングとしては、ブレッドボードや、ユニバーサル基板を使うのが一般的ですが、この記事では銅箔テープを使う方法を紹介しています。
+さらにカプトンテープを使うことで、配線の立体交差も実現できます。
+この方法には、リード部品よりも、大き目の表面実装の部品を使うのが適しているようです。
+銅箔テープは安いですし、意外と良いプロトタイピング手法のように思います。</description>
+    </item>
     
     <item>
       <title>3Dプリンタを楽器として扱う</title>
