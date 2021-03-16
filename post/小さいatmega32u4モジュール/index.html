@@ -8,12 +8,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>
       
-  表面実装ICをはんだ付けせずに書き込みする装置 &ndash; inajobのいろいろレビュー
+  小さいATmega32U4モジュール &ndash; inajobのいろいろレビュー
 
     </title>
     
     
-    <meta name="description" property="og:description" content="3Dプリントした治具を使って、表面実装ICをはんだ付けせずに書き込みする装置を紹介します。|">
+    <meta name="description" property="og:description" content="小型で組み込みやすそうなATmega32u4モジュールを紹介します。|">
     
 
     <meta name="apple-mobile-web-app-title" content="inajobのいろいろレビュー">
@@ -22,16 +22,16 @@
     
     
 
-    <meta property="og:title" content="表面実装ICをはんだ付けせずに書き込みする装置 | inajobのいろいろレビュー">
-    <meta property="og:description" content="3Dプリントした治具を使って、表面実装ICをはんだ付けせずに書き込みする装置を紹介します。|">
+    <meta property="og:title" content="小さいATmega32U4モジュール | inajobのいろいろレビュー">
+    <meta property="og:description" content="小型で組み込みやすそうなATmega32u4モジュールを紹介します。|">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@ina_ani">
     <meta name="twitter:creator" content="@ina_ani">
-    <meta name="twitter:title" content="表面実装ICをはんだ付けせずに書き込みする装置 | inajobのいろいろレビュー">
-    <meta name="twitter:description" content="3Dプリントした治具を使って、表面実装ICをはんだ付けせずに書き込みする装置を紹介します。|">
+    <meta name="twitter:title" content="小さいATmega32U4モジュール | inajobのいろいろレビュー">
+    <meta name="twitter:description" content="小型で組み込みやすそうなATmega32u4モジュールを紹介します。|">
     
-    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/samd21-mangler.jpg">
-    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/samd21-mangler.jpg">
+    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/atto-pinout.png">
+    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/atto-pinout.png">
     
     
     <meta name="google-site-verification" content="Wjrrx4mV4IokyVrRy-5rjpG1sfwkjQ-uVRiXhMMXhW8" />
@@ -100,7 +100,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 <div class="Subhead">
   <div class="Subhead-heading">
-    <div class="h1 mt-3 mb-1">表面実装ICをはんだ付けせずに書き込みする装置</div>
+    <div class="h1 mt-3 mb-1">小さいATmega32U4モジュール</div>
   </div>
   <div class="Subhead-description">
     
@@ -108,17 +108,21 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 
 
-<a href='/iroiro-review/tags/%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85' class="muted-link">
-  <span class="Label" style="background-color:#0099dd;">表面実装</span>
+<a href='/iroiro-review/tags/atmega32u4' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">atmega32u4</span>
+</a>
+
+<a href='/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">開発ボード</span>
 </a>
 
 
 
     
     <div class="float-md-right">
-      <span title="Lastmod: 2021-03-15. Published at: 2021-03-15.">
+      <span title="Lastmod: 2021-03-16. Published at: 2021-03-16.">
         
-          Published: 2021-03-15
+          Published: 2021-03-16
         
       </span>
     </div>
@@ -128,43 +132,91 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <article>
   
   <section class="pb-6 mb-3 border-bottom">
-    <img src="https://inajob.github.io/iroiro-review/img/samd21-mangler.jpg" />
-    <p><a href="https://www.tindie.com/products/seonr/samd21g-mangler/">SAMD21G Mangler</a>から発見。画像もここから転載。</p>
-<p>表面実装ICのファームウェアを書き込むためには、書き込み用の器具が必要です。
-この記事で紹介しているのはプリント基板にICを押し付ける形で接触させ、書き込みを行う装置です。</p>
-<p>ICの押し付けをするための部品は3Dプリンタで作られており、基板に開けられた穴にはめ込むことで、作業をしやすくしています。</p>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/iRJbH1w-wUE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <img src="https://inajob.github.io/iroiro-review/img/atto-pinout.png" />
+    <p><a href="https://www.kickstarter.com/projects/bnbe/atto-an-incredibly-tiny-arduino-compatible-board-with-usb">Atto: An incredibly tiny, Arduino compatible board with USB!</a>から発見。画像もここから転載。</p>
+<p>非常に小さなATMega32u4の開発ボードです。小さいボードながらUSBポートも搭載されており、使いやすそうです。</p>
+<p><a href="../../%E9%99%90%E7%95%8C%E3%81%BE%E3%81%A7%E5%B0%8F%E3%81%95%E3%81%84atmega32u4%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/">以前も似たようなボードを紹介しました</a>が、これらは微妙に異なっています。</p>
+<p>こちらのボードのほうが少し大きいですが、ピン間隔がブレッドボードと同じなので、さっと使う分にはこちらの方が便利そうです。</p>
 
   </section>
 
   
-  <a href="/iroiro-review/post/%E9%8A%85%E7%AE%94%E3%83%86%E3%83%BC%E3%83%97%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%9F%BA%E6%9D%BF%E3%81%AE%E3%83%97%E3%83%AD%E3%83%88%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0/">
+  <a href="/iroiro-review/post/%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85ic%E3%82%92%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E3%81%9B%E3%81%9A%E3%81%AB%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/">
     <div class="box-shadow-medium mb-3 bg-blue-light border border-blue" style="height:122px;">
         <div style="float:left;">
-          <img class="rect" src="https://inajob.github.io/iroiro-review/img/copper-prototyping.png" />
+          <img class="rect" src="https://inajob.github.io/iroiro-review/img/samd21-mangler.jpg" />
         </div>
 
         <div class="pb-2 pt-2 px-3" style="margin-left:122px;">
-          ← 前の記事 - 銅箔テープを使った基板のプロトタイピング
+          ← 前の記事 - 表面実装ICをはんだ付けせずに書き込みする装置
         </div>
     </div>
   </a>
   
 
   
-  <a href="/iroiro-review/post/%E5%B0%8F%E3%81%95%E3%81%84atmega32u4%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/">
-    <div class="box-shadow-medium mb-3 bg-blue-light border border-blue" style="height:122px;">
+
+  
+
+<h3>関連記事</h3>
+<div>
+  
+  <a href="/iroiro-review/post/%E9%99%90%E7%95%8C%E3%81%BE%E3%81%A7%E5%B0%8F%E3%81%95%E3%81%84atmega32u4%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
       <div style="float:left;">
-        <img class="rect" src="https://inajob.github.io/iroiro-review/img/atto-pinout.png" />
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/atto.png" />
       </div>
       <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
-        次の記事 - 小さいATmega32U4モジュール →
+        限界まで小さいATmega32U4モジュール
       </div>
     </div>
   </a>
   
-
+  <a href="/iroiro-review/post/arduino%E3%81%AE%E6%9C%80%E9%AB%98%E5%B3%B0%E3%83%9C%E3%83%BC%E3%83%89portenta-h7/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/portenta.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        Arduinoの最高峰ボード「PORTENTA H7」
+      </div>
+    </div>
+  </a>
   
+  <a href="/iroiro-review/post/%E5%B0%8F%E5%9E%8B%E3%81%AE%E3%83%91%E3%83%AF%E3%83%95%E3%83%AB%E3%81%AAcortex-m0%E3%83%9C%E3%83%BC%E3%83%89seeduino-xiao/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/seeeduino-xiao.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        小型のパワフルなCortex-M0ボードSeeduino XIAO
+      </div>
+    </div>
+  </a>
+  
+  <a href="/iroiro-review/post/stm32f030%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%B0%8F%E5%9E%8B%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/pinky32.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        STM32F030を使った小型の開発ボード
+      </div>
+    </div>
+  </a>
+  
+  <a href="/iroiro-review/post/%E6%9A%97%E5%8F%B7%E5%8C%96%E3%83%81%E3%83%83%E3%83%97%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Farduino%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/seeed-crypto-atmega4809-ecc608.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        暗号化チップを搭載したArduino互換ボード
+      </div>
+    </div>
+  </a>
+  
+</div>
 
 
 
@@ -190,7 +242,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           }(document, 'script', 'facebook-jssdk'));</script>
 
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85ic%E3%82%92%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E3%81%9B%E3%81%9A%E3%81%AB%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/" 
+            data-href="/iroiro-review/post/%E5%B0%8F%E3%81%95%E3%81%84atmega32u4%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/" 
             data-layout="button_count">
           </div>
         
@@ -223,7 +275,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           
   
     <div id="toc" class="Box Box--blue mb-3">
-      <b>表面実装ICをはんだ付けせずに書き込みする装置</b>
+      <b>小さいATmega32U4モジュール</b>
       <nav id="TableOfContents"></nav>
     </div>
   
@@ -239,7 +291,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
         
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85ic%E3%82%92%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E3%81%9B%E3%81%9A%E3%81%AB%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/" 
+            data-href="/iroiro-review/post/%E5%B0%8F%E3%81%95%E3%81%84atmega32u4%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/" 
             data-layout="button_count">
           </div>
         
