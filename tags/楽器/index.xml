@@ -5,10 +5,22 @@
     <description>Recent content in 楽器 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 02 Mar 2021 11:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Mar 2021 11:00:53 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%A5%BD%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arduinoを使ったフルートの自動演奏装置</title>
+      <link>https://inajob.github.io/iroiro-review/post/arduino%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%95%E3%83%AB%E3%83%BC%E3%83%88%E3%81%AE%E8%87%AA%E5%8B%95%E6%BC%94%E5%A5%8F%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Wed, 17 Mar 2021 11:00:53 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/arduino%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%95%E3%83%AB%E3%83%BC%E3%83%88%E3%81%AE%E8%87%AA%E5%8B%95%E6%BC%94%E5%A5%8F%E8%A3%85%E7%BD%AE/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/arduino-flute-playing-machine.png"&gt;AN ARDUINO-BASED FLUTE PLAYING MACHINEから発見。画像もここから転載。
+Arduinoでサーボモーターを制御して、PVCパイプで作成したフルート風の楽器を自動演奏しています。
+細いワイヤーでフルートの穴の蓋を引っ張ることで自動演奏を実現しています。昔ながらの楽器をコンピュータ制御で演奏するというのは謎の面白さがあります。
+ </description>
+    </item>
     
     <item>
       <title>8bit音が楽しいハードウェアシンセサイザー</title>
