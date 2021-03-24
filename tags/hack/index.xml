@@ -5,10 +5,22 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 23 Mar 2021 11:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Mar 2021 22:00:28 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>砂と3Dプリント成果物をドラムで回転させ研磨するマシン</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%A0%82%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E6%88%90%E6%9E%9C%E7%89%A9%E3%82%92%E3%83%89%E3%83%A9%E3%83%A0%E3%81%A7%E5%9B%9E%E8%BB%A2%E3%81%95%E3%81%9B%E7%A0%94%E7%A3%A8%E3%81%99%E3%82%8B%E3%83%9E%E3%82%B7%E3%83%B3/</link>
+      <pubDate>Wed, 24 Mar 2021 22:00:28 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%A0%82%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E6%88%90%E6%9E%9C%E7%89%A9%E3%82%92%E3%83%89%E3%83%A9%E3%83%A0%E3%81%A7%E5%9B%9E%E8%BB%A2%E3%81%95%E3%81%9B%E7%A0%94%E7%A3%A8%E3%81%99%E3%82%8B%E3%83%9E%E3%82%B7%E3%83%B3/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/polisher.jpg"&gt;reittec polisherから発見。画像もここから転載。
+3Dプリントした成果物の表面は独特の積層痕が残ってしまいます。これをすべすべにするためには様々な方法があります。
+この記事で紹介するのは「砂」を使って研磨する方法です。 研磨と言えばサンドペーパーなどで表面をこする方法が思い浮かびますが、ここでは回転するドラムの中に砂と3Dプリント成果物を入れることで表面を研磨する、いわゆる「バレル研磨」を行う装置を自作しています。
+パーツの大半は3Dプリンタで作られているので、データをダウンロードすればだれでも作ることが出来そうです。</description>
+    </item>
     
     <item>
       <title>3Dプリントの強度を保ちつつフィラメントを節約する技</title>
