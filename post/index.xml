@@ -5,10 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 25 Mar 2021 11:53:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Mar 2021 22:00:25 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>BLE制御のレシートプリンタを制御するためのArduinoライブラリ</title>
+      <link>https://inajob.github.io/iroiro-review/post/ble%E5%88%B6%E5%BE%A1%E3%81%AE%E3%83%AC%E3%82%B7%E3%83%BC%E3%83%88%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E5%88%B6%E5%BE%A1%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AEarduino%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA/</link>
+      <pubDate>Sun, 28 Mar 2021 22:00:25 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/ble%E5%88%B6%E5%BE%A1%E3%81%AE%E3%83%AC%E3%82%B7%E3%83%BC%E3%83%88%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E5%88%B6%E5%BE%A1%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AEarduino%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/thermal-printer.jpg"&gt;bitbank2/Thermal_Printerから発見。画像もここから転載。
+最近はBLE接続のレシートプリンタが流通するようになりましたが、それらは専用アプリからの印刷を前提としているものが多いです。
+この記事で紹介するのは、BLE接続のレシートプリンタGOOJPRT PT-210をESP32やArduino Nano 33 BLEから制御するためのライブラリです。
+これを使うことで、簡単にレシートプリンタを使った電子工作を実現することが出来ます。
+ </description>
+    </item>
     
     <item>
       <title>仕事する姿勢を改善できるノートパソコンスタンド「BW-ELS4」</title>
