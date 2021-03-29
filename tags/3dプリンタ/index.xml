@@ -5,10 +5,24 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 24 Mar 2021 22:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Mar 2021 11:00:16 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2色フィラメントの3Dプリンタを活用して作られたクランプ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%88%E3%83%AB%E3%83%BC%E3%83%80%E3%83%BC%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%97/</link>
+      <pubDate>Mon, 29 Mar 2021 11:00:16 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%88%E3%83%AB%E3%83%BC%E3%83%80%E3%83%BC%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%97/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/springclamp800.jpg"&gt;SPRING CLAMP IS COMPLETELY 3D PRINTEDから発見。画像もここから転載。
+複数のフィラメントを扱うことが出来る3Dプリンタというものがありますが、その活用事例として面白いのが「特性の違う素材を組み合わせた造形」です。
+この記事で紹介しているのは、いわゆる「洗濯ばさみ」のような形状の「クランプ」の作例です。
+ばねとなる部分には、TPUと呼ばれる柔らかい素材のフィラメントを利用し、グリップやつまみの部分は固いABSやPLAといったフィラメントを利用して造形しています。
+この方法を使うと別途金属のばねなどを用意せずとも3Dプリントするだけですぐに利用できる「クランプ」を作ることが出来ます。
+ </description>
+    </item>
     
     <item>
       <title>砂と3Dプリント成果物をドラムで回転させ研磨するマシン</title>
