@@ -5,10 +5,22 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 30 Mar 2021 11:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Mar 2021 11:00:50 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>壊れた3Dプリンタを改造した走査式顕微鏡</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%A3%8A%E3%82%8C%E3%81%9F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%9F%E8%B5%B0%E6%9F%BB%E5%BC%8F%E9%A1%95%E5%BE%AE%E9%8F%A1/</link>
+      <pubDate>Wed, 31 Mar 2021 11:00:50 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%A3%8A%E3%82%8C%E3%81%9F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%9F%E8%B5%B0%E6%9F%BB%E5%BC%8F%E9%A1%95%E5%BE%AE%E9%8F%A1/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/microscan.jpg"&gt;BROKEN 3D PRINTER TURNED SCANNING MICROSCOPEから発見。画像もここから転載。
+壊れた3Dプリンタを改造し、USB接続の顕微鏡を取り付け、その顕微鏡をX,Y軸に沿って動かすことで高解像度の拡大画像を得ることが出来る「走査式顕微鏡」を作成しています。
+さらにZ軸を少しずつ動かして何枚も撮影することで、フォーカスのあっている部分だけを合成するなどの高度な撮影も可能となっているようです。
+ </description>
+    </item>
     
     <item>
       <title>今日は何のごみの日かを示すゴミ箱型インジケーター</title>
