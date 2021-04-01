@@ -5,10 +5,23 @@
     <description>Recent content in ソフトウェア on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 03 Mar 2019 01:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Apr 2021 21:00:09 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>新しいオープンソースの回路設計ツールLibrePCB</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%96%B0%E3%81%97%E3%81%84%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E5%9B%9E%E8%B7%AF%E8%A8%AD%E8%A8%88%E3%83%84%E3%83%BC%E3%83%ABlibrepcb/</link>
+      <pubDate>Thu, 01 Apr 2021 21:00:09 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%96%B0%E3%81%97%E3%81%84%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E5%9B%9E%E8%B7%AF%E8%A8%AD%E8%A8%88%E3%83%84%E3%83%BC%E3%83%ABlibrepcb/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/librepcb.png"&gt;REVIEW: TESTDRIVING LIBREPCB SHOWS THAT IT’S GROWING UP FASTから発見。画像もここから転載。
+オープンソースの回路設計ツールと言えばKiCADが有名ですが、この記事では新しいオープンソースの回路設計ツールであるLibrePCBを紹介しています。
+ユーザインターフェースはEagleとよく似ているらしく、Eagleユーザにはとっつきやすいかもしれません。
+とはいえ、まだ新しいソフトウェアでバージョンもまだ0.1.5という事でフットプリントのアセットも少なく、バグや未実装な機能もたくさんありそうなので、利用する際は注意が必要です。
+KiCADはちょっとUIが古臭いところがあるので、そういうのが気になる方はLiberPCBを試してみるのはどうでしょうか？</description>
+    </item>
     
     <item>
       <title>組み込み機器でもGo言語を使う「tinygo」</title>
