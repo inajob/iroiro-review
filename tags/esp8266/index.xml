@@ -47,6 +47,17 @@ ESP8266ボードを使ったフルカラーマトリクスLED表示ガジェッ�
     </item>
     
     <item>
+      <title>1日の予定をバーLEDで示すカレンダーガジェット</title>
+      <link>https://inajob.github.io/iroiro-review/post/1%E6%97%A5%E3%81%AE%E4%BA%88%E5%AE%9A%E3%82%92%E3%83%90%E3%83%BCled%E3%81%A7%E7%A4%BA%E3%81%99%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
+      <pubDate>Sat, 26 Dec 2020 10:44:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/1%E6%97%A5%E3%81%AE%E4%BA%88%E5%AE%9A%E3%82%92%E3%83%90%E3%83%BCled%E3%81%A7%E7%A4%BA%E3%81%99%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/linear-calendar.jpg"&gt;Linear Calendar Clockから発見。画像もここから転載。
+1日の予定を直線状に並んだフルカラーLEDで表示してくれるガジェットです。 例えばGoogle Claenderの予定の色と同期させたり、日の出の時刻を表示したり、勤務予定時間を表示したりと、様々な用途で利用できるようです。
+1日の予定を直感的に把握でき、かつとてもおしゃれな「ありそうでなかった」プロダクトだと感じました。</description>
+    </item>
+    
+    <item>
       <title>ESP8266を使った小型のゲーム機”ESPboy.edu”</title>
       <link>https://inajob.github.io/iroiro-review/post/esp8266%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%B0%8F%E5%9E%8B%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
       <pubDate>Wed, 25 Nov 2020 23:00:54 +0000</pubDate>
