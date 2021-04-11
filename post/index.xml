@@ -5,10 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 08 Apr 2021 11:00:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Apr 2021 11:00:53 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>普通のデジタル腕時計の自作例</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%99%AE%E9%80%9A%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E8%85%95%E6%99%82%E8%A8%88%E3%81%AE%E8%87%AA%E4%BD%9C%E4%BE%8B/</link>
+      <pubDate>Sun, 11 Apr 2021 11:00:53 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%99%AE%E9%80%9A%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E8%85%95%E6%99%82%E8%A8%88%E3%81%AE%E8%87%AA%E4%BD%9C%E4%BE%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/lcd-watch.jpg"&gt;Building a watchから発見。画像もここから転載。
+電子工作の事例としての「腕時計」というのは結構見かけますが、LEDを使ったものが多く、よくある液晶表示の腕時計はあまり見かけません。
+この記事で紹介しているのは、そんな「普通」の液晶表示の腕時計を自作している例を紹介しています。
+普通の液晶表示に加え、リューズによる操作もできます。 CPUはPIC16LF1936で、満充電でおよそ半年ほど動作するようです。</description>
+    </item>
     
     <item>
       <title>からくりだけで制御された「落ちない仕組み」</title>
