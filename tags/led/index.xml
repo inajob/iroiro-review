@@ -5,10 +5,21 @@
     <description>Recent content in LED on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 19 Apr 2021 12:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Apr 2021 16:00:39 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/led/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>新しいAVRと大きな7セグメントLEDによる時計ガジェット</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%96%B0%E3%81%97%E3%81%84avr%E3%81%A8%E5%A4%A7%E3%81%8D%E3%81%AA7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88led%E3%81%AB%E3%82%88%E3%82%8B%E6%99%82%E8%A8%88%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
+      <pubDate>Tue, 20 Apr 2021 16:00:39 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%96%B0%E3%81%97%E3%81%84avr%E3%81%A8%E5%A4%A7%E3%81%8D%E3%81%AA7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88led%E3%81%AB%E3%82%88%E3%82%8B%E6%99%82%E8%A8%88%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/bigtimefront.jpg"&gt;Big Timeから発見。画像もここから転載。
+2.3インチの大きな7セグメントLEDを4つと、ATTiny3216を使って作られた時計ガジェットです。
+このATTiny3216は新しめのAVRのICで、リアルタイムクロック機能も内蔵しているため、このような時計の作品にはぴったりです。</description>
+    </item>
     
     <item>
       <title>NeoPixel互換の手はんだしやすいフルカラーLED</title>
@@ -79,17 +90,6 @@ LEDキューブは電子工作の世界ではよく見かける作品ですが�
 ESP8266ボードを使ったフルカラーマトリクスLED表示ガジェットです。 スマートフォンから簡単に表示内容を変更できるようです。
 面白いと思ったのは、フルカラーマトリクスLEDの作り方です。表面実装のアドレッサブルフルカラーLEDを3Dプリンタで作った型の上に並べ、表面実装の部品同士を直接導線でつないで、その状態でグルーガンで固めてしまっています。かなり力技ですが、きれいに仕上がっているので、案外良い方法なのかも・・と感じました。
  </description>
-    </item>
-    
-    <item>
-      <title>新しいAVRと大きな7セグメントLEDによる時計ガジェット</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%96%B0%E3%81%97%E3%81%84avr%E3%81%A8%E5%A4%A7%E3%81%8D%E3%81%AA7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88led%E3%81%AB%E3%82%88%E3%82%8B%E6%99%82%E8%A8%88%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
-      <pubDate>Sun, 03 Jan 2021 05:00:51 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%96%B0%E3%81%97%E3%81%84avr%E3%81%A8%E5%A4%A7%E3%81%8D%E3%81%AA7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88led%E3%81%AB%E3%82%88%E3%82%8B%E6%99%82%E8%A8%88%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/bigtimefront.jpg"&gt;Big Timeから発見。画像もここから転載。
-2.3インチの大きな7セグメントLEDを4つと、ATTiny3216を使って作られた時計ガジェットです。
-このATTiny3216は新しめのAVRのICで、リアルタイムクロック機能も内蔵しているため、このような時計の作品にはぴったりです。</description>
     </item>
     
     <item>

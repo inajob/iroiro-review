@@ -5,15 +5,24 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 19 Apr 2021 12:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Apr 2021 16:00:39 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>attiny3216</title>
+      <link>https://inajob.github.io/iroiro-review/tags/attiny3216/</link>
+      <pubDate>Tue, 20 Apr 2021 16:00:39 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/attiny3216/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
       <title>LED</title>
       <link>https://inajob.github.io/iroiro-review/tags/led/</link>
-      <pubDate>Mon, 19 Apr 2021 12:00:08 +0000</pubDate>
+      <pubDate>Tue, 20 Apr 2021 16:00:39 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/led/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
@@ -448,15 +457,6 @@
       <pubDate>Mon, 04 Jan 2021 11:00:24 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/bluepill/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>attiny3216</title>
-      <link>https://inajob.github.io/iroiro-review/tags/attiny3216/</link>
-      <pubDate>Sun, 03 Jan 2021 05:00:51 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/attiny3216/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
