@@ -5,10 +5,35 @@
     <description>Recent content in ESP32 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 01 Feb 2021 11:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Apr 2021 11:00:37 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/esp32/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>かわいいキーボード付きのESP32開発機 TTGO T-Watch Keyboard</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8D%E3%81%AEesp32%E9%96%8B%E7%99%BA%E6%A9%9F-ttgo-t-watch-keyboard/</link>
+      <pubDate>Sun, 25 Apr 2021 11:00:37 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8D%E3%81%AEesp32%E9%96%8B%E7%99%BA%E6%A9%9F-ttgo-t-watch-keyboard/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/t-watch-keyboard-cover.png"&gt;かわいいキーボード付きのESP32開発機 TTGO T-Watch Keyboard
+この記事はBanggoodの提供でお届けします。
+以前紹介したようにこのブログはBanggoodと提携させていただいており、今回紹介するTTGO T-Watch KeyboardはBanggoodからいただいたものとなります。 TTGO T-Watch Keyboardのレビューがしたい！と言ったのは自分なので、Banggoodが無理やりこの商品を押しているわけではなく、inajobの一押しアイテム！、という感じです。）
+・・・ といういつもの前置きはそこそこに、TTGO T-Watch Keyboardについて紹介していきます。
+そして、今回もこのブログのために2021/05/31まで利用できるクーポンを頂くことが出来たので、そちらも紹介します。
+TTGO T-Watch Keyboard とは TTGO T-Watch Keyboardは TTGO T-Watchという製品にキーボードのオプションが搭載された製品です。
+TTGO T-Watchというのは、いわゆるスマートウォッチの開発キットです。とはいっても、普通のスマートウォッチと違うところは標準的なソフトウェアを持たないという点です。
+普通のスマートウォッチ、例えばFitBitやApple Watchであれば、当然ハードウェアと、ソフトウェアはセットです。しかしこのTTGO T-Watchは開発用途という事で、標準的なソフトウェアを搭載せずに、ハードウェアのみの製品です。
+ここまでのところで、ピンときた方もいるかもしれませんが、これはM5Stackとよく似たコンセプトの製品です。それどころか、メインのCPUがESP32出会ったりと、その構成も非常によく似ています。
+さて、このTTGO T-Watchは、バンドをつけることで、（ちょっと大きな）スマートウォッチとして利用できるのですが、今回紹介する TTGO T-Watch Keyboardは、スマートウォッチのバンドを取り付ける部分に、小さなキーボードを搭載することで、ミニチュアのノートパソコンのように構成されたちょっと変わったガジェットです。
+キーボードはI2CでTTGO T-Watch本体と接続されており、ライブラリを利用することで非常に簡単にキーボードからの入力をハンドリング出来ます。
+といったところで、この製品の詳細なスペックを見てみましょう。
+ メインCPU: ESP32 USBtoシリアル変換: CP2104 MicroSDカードスロット 16MBのQSPI接続のフラッシュメモリ メインCPU内蔵の520KBのSRAMと、外付けのPSRAM 8MB 電源ボタンと、もう一つ好きに使えるボタン 40MHzの水晶発振子 RTC: PCF8563 1.54inchのタッチ機能付き液晶画面 三軸加速度センサー: BMA423 リチウムイオンバッテリ（容量未記載だが200mAh） 技適取得済み  と、まぁもりだくさんです。
+キーボード部分は
+ Blackberryのキーボード ATSAMD20(ここを改造するとキーボードに機能を増やせそうです)  という感じです。 キーボード部分はI2Cのピンが出ているので、このキーボードだけを別のプロダクトに流用することも簡単に出来そうです。
+外観 実用性はおいておいて、とてもチャーミングな筐体です。 キーボード部分は腕時計として利用する際のリストバンドを固定するための軸受けに取り付けられており、好きな角度に曲がります。
+しかし、保持力はあまりないようで、中途半端な角度で固定しようとしてもパタンと重たい方に倒れてしまいます。</description>
+    </item>
     
     <item>
       <title>液晶とキーボード付きのSTM32とESP32を搭載した端末</title>
