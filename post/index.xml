@@ -5,10 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 25 Apr 2021 11:00:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Apr 2021 11:00:31 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>灯篭風のオブジェによる良い感じのプロジェクションランプ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%81%AF%E7%AF%AD%E9%A2%A8%E3%81%AE%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%81%AB%E3%82%88%E3%82%8B%E8%89%AF%E3%81%84%E6%84%9F%E3%81%98%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%97/</link>
+      <pubDate>Mon, 26 Apr 2021 11:00:31 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%81%AF%E7%AF%AD%E9%A2%A8%E3%81%AE%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%81%AB%E3%82%88%E3%82%8B%E8%89%AF%E3%81%84%E6%84%9F%E3%81%98%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%97/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/light-of-city.jpg"&gt;LIGHT OF CITY - Projection Shadow Lampから発見。画像もここから転載。
+CNCでカットされた香港のネオンサイン風のデザインが、影絵として壁に投影されるというおしゃれな照明器具です。
+漢字と電子工作を組み合わせると、アジアンSF風の見た目となっていい雰囲気を醸し出すという良い例です。</description>
+    </item>
     
     <item>
       <title>かわいいキーボード付きのESP32開発機 TTGO T-Watch Keyboard</title>
@@ -1114,17 +1125,6 @@ ESP8266ボードを使ったフルカラーマトリクスLED表示ガジェッ�
 MIDI-IN端子や2つのロータリーエンコーダ、オーディオ出力端子、SDカードスロットなど、音源で遊ぶ際に必要そうなインターフェースは十分備えています。
 コントローラとなるICはBluePill(STM32F103)のように見えます。
  </description>
-    </item>
-    
-    <item>
-      <title>灯篭風のオブジェによる良い感じのプロジェクションランプ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E7%81%AF%E7%AF%AD%E9%A2%A8%E3%81%AE%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%81%AB%E3%82%88%E3%82%8B%E8%89%AF%E3%81%84%E6%84%9F%E3%81%98%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%97/</link>
-      <pubDate>Sun, 03 Jan 2021 05:36:28 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E7%81%AF%E7%AF%AD%E9%A2%A8%E3%81%AE%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%81%AB%E3%82%88%E3%82%8B%E8%89%AF%E3%81%84%E6%84%9F%E3%81%98%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%97/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/light-of-city.jpg"&gt;LIGHT OF CITY - Projection Shadow Lampから発見。画像もここから転載。
-CNCでカットされた香港のネオンサイン風のデザインが、影絵として壁に投影されるというおしゃれな照明器具です。
-漢字と電子工作を組み合わせると、アジアンSF風の見た目となっていい雰囲気を醸し出すという良い例です。</description>
     </item>
     
     <item>
