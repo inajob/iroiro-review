@@ -5,10 +5,22 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 31 Mar 2021 11:00:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Apr 2021 10:00:04 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>水を使った「傾けるとライトが点く」装置</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%B0%B4%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%82%BE%E3%81%91%E3%82%8B%E3%81%A8%E3%83%A9%E3%82%A4%E3%83%88%E3%81%8C%E7%82%B9%E3%81%8F%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Wed, 28 Apr 2021 10:00:04 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%B0%B4%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%82%BE%E3%81%91%E3%82%8B%E3%81%A8%E3%83%A9%E3%82%A4%E3%83%88%E3%81%8C%E7%82%B9%E3%81%8F%E8%A3%85%E7%BD%AE/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/hydro-lamp.jpg"&gt;Hydro-Lampから発見。画像もここから転載(CC BY-NC-SA By Manvith Subraya)
+写真を見れば一目瞭然、横に倒すことで回路がつながりランプが点灯するというわかりやすい自作チルトスイッチの作例です。
+このように見た目で原理がわかるというのは電子工作初心者にとってとっつきやすい作例のように思います。（ただし水を使うのでショートには注意です！）
+ </description>
+    </item>
     
     <item>
       <title>壊れた3Dプリンタを改造した走査式顕微鏡</title>
