@@ -5,10 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 28 Apr 2021 10:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Apr 2021 11:00:08 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>オリジナルデザインのセグメントLEDの作例</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88led%E3%81%AE%E4%BD%9C%E4%BE%8B/</link>
+      <pubDate>Thu, 29 Apr 2021 11:00:08 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88led%E3%81%AE%E4%BD%9C%E4%BE%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/original-segment-led.jpg"&gt;25-Hour Digital Myst Clock/Chronometerから発見。画像もここから転載。
+ゲーム「Myst」の世界の時計表示を実現するためのオリジナルのセグメントLEDの作例です。
+PCB基板にチップLEDを配置し、その上にアクリル板を重ねることでセグメントLEDを構成しています。
+光をいい感じに拡散せるために、石膏の粉をレジンに溶かしたものを利用しているようです。
+ </description>
+    </item>
     
     <item>
       <title>水を使った「傾けるとライトが点く」装置</title>
