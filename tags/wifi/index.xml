@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WiFi on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/wifi/</link>
+    <description>Recent content in WiFi on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Mon, 10 May 2021 18:00:27 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/wifi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2ドルで購入できるWiFiをサポートしたチップW600-PICO</title>
+      <link>https://inajob.github.io/iroiro-review/post/2%E3%83%89%E3%83%AB%E3%81%A7%E8%B3%BC%E5%85%A5%E3%81%A7%E3%81%8D%E3%82%8Bwifi%E3%82%92%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%97%E3%81%9F%E3%83%81%E3%83%83%E3%83%97w600-pico/</link>
+      <pubDate>Mon, 10 May 2021 18:00:27 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/2%E3%83%89%E3%83%AB%E3%81%A7%E8%B3%BC%E5%85%A5%E3%81%A7%E3%81%8D%E3%82%8Bwifi%E3%82%92%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%97%E3%81%9F%E3%83%81%E3%83%83%E3%83%97w600-pico/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/w600-pico.png"&gt;W600-PICO – A NEW $2 WIFI IOT BOARD THAT RUNS MICROPYTHONから発見。画像もここから転載。
+2ドルで購入できるWiFiをサポートしたチップです。これだけ聞くとESP8266かな？と思いますが、この記事で紹介しているW600-PICOは全くそれとは違うものです。
+コアはArm Cortex-M3 で、CH340でUSB接続できるようになっています。
+ぱっと見た感じ技適マークはなさそうなので、日本でそのまま使うことは難しそうなのが残念です。</description>
+    </item>
+    
+  </channel>
+</rss>
+
