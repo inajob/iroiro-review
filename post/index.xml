@@ -5,10 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 11 May 2021 11:00:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 May 2021 11:00:07 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ARで基板を「見て」デバッグできるアプリ</title>
+      <link>https://inajob.github.io/iroiro-review/post/ar%E3%81%A7%E5%9F%BA%E6%9D%BF%E3%82%92%E8%A6%8B%E3%81%A6%E3%83%87%E3%83%90%E3%83%83%E3%82%B0%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%A2%E3%83%97%E3%83%AA/</link>
+      <pubDate>Wed, 12 May 2021 11:00:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/ar%E3%81%A7%E5%9F%BA%E6%9D%BF%E3%82%92%E8%A6%8B%E3%81%A6%E3%83%87%E3%83%90%E3%83%83%E3%82%B0%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%A2%E3%83%97%E3%83%AA/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/inspectar.jpg"&gt;DEBUGGING PCBS WITH AUGMENTED REALITYから発見。画像もここから転載。
+ARを使い電子工作のデバッグを支援するアプリ「inspectAR」というアプリです。
+パッドを指定するとそのパッドと同じ電位の配線を強調表示するなどの機能があるようです。
+（残念ながらアプリのページが無くなってしまっていますね・・）
+以前も似たようなアプリを紹介しました。</description>
+    </item>
     
     <item>
       <title>大量のスマートフォンでGoogleMapに偽の渋滞情報を送り付ける</title>
