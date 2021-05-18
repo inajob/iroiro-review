@@ -5,10 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 17 May 2021 23:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 May 2021 23:00:54 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3Dプリンタ製のグリップ付きの小型ゲーム機</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%E4%BB%98%E3%81%8D%E3%81%AE%E5%B0%8F%E5%9E%8B%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Tue, 18 May 2021 23:00:54 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%E4%BB%98%E3%81%8D%E3%81%AE%E5%B0%8F%E5%9E%8B%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ardugrip.jpg"&gt;ARDUINO HANDHELD GAME SYSTEM GETS A GRIPから発見。画像もここから転載。
+ArduinoとOLEDを組み合わせたゲーム機の作例です。 Adafruit Feather 328PにOLEDとタクトスイッチスイッチ4つ、電源をくっつけただけの非常にシンプルな構成です。
+OLEDとAtmega328を組み合わせたゲーム機は数多く紹介してきましたが、この作例は3Dプリンタによってつくられたグリップにより、絶妙に操作しやすい作りであることが大きな特徴です。</description>
+    </item>
     
     <item>
       <title>FT232Hを使い倒すための開発ボード</title>
