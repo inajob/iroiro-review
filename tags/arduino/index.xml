@@ -5,10 +5,23 @@
     <description>Recent content in Arduino on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 18 May 2021 23:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 May 2021 11:00:34 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ArduinoのPWMを視覚的に設定できるツール</title>
+      <link>https://inajob.github.io/iroiro-review/post/arduino%E3%81%AEpwm%E3%82%92%E8%A6%96%E8%A6%9A%E7%9A%84%E3%81%AB%E8%A8%AD%E5%AE%9A%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%84%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Wed, 19 May 2021 11:00:34 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/arduino%E3%81%AEpwm%E3%82%92%E8%A6%96%E8%A6%9A%E7%9A%84%E3%81%AB%E8%A8%AD%E5%AE%9A%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%84%E3%83%BC%E3%83%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/rtm_timercalc.jpg"&gt;WYSIWYG Arduino PWM Code Generatorから発見。画像もここから転載。
+ArduinoというかATmega328のPWMを細かく制御したことはありますか？
+一度設定した人ならあの細かいレジスタの設定を理解するのに少し時間がかかったことを思い出すでしょう。
+この記事で紹介しているのは、そんなATmega328のPWMの設定をグラフィカルに確認できるツールです。PWMのような複雑な概念は説明を文字で読むよりGUIで設定しその結果の波形を即座にグラフで確認するほうが理解しやすいと感じました。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタ製のグリップ付きの小型ゲーム機</title>
