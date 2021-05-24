@@ -5,10 +5,24 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 18 May 2021 23:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 May 2021 22:00:17 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3Dプリンタで簡単に作れるロボットアーム</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E7%B0%A1%E5%8D%98%E3%81%AB%E4%BD%9C%E3%82%8C%E3%82%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%A2%E3%83%BC%E3%83%A0/</link>
+      <pubDate>Mon, 24 May 2021 22:00:17 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E7%B0%A1%E5%8D%98%E3%81%AB%E4%BD%9C%E3%82%8C%E3%82%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%A2%E3%83%BC%E3%83%A0/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/little-arm-v3.jpg"&gt;LittleArm V3から発見。画像もここから転載。
+3Dプリンタを使って作るロボットとして典型的なものの一つに「ロボットアーム」があります。
+多くの作例がありますが、この記事で紹介しているロボットアームは「簡単に作れる」ことを念頭に置かれています。
+ネジの使用を極力減らし、ばねも3Dプリンタで作成しています。後はArduinoとサーボモーターがあれば作ることが出来そうです。
+キットの販売はまだされておらず公式ページからPreOrderできるようです。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタ製のグリップ付きの小型ゲーム機</title>
