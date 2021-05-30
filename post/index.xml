@@ -5,10 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 27 May 2021 20:00:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 May 2021 10:00:17 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ソートアルゴリズムを可視化する装置</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%BD%E3%83%BC%E3%83%88%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%82%92%E5%8F%AF%E8%A6%96%E5%8C%96%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Sun, 30 May 2021 10:00:17 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%BD%E3%83%BC%E3%83%88%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%82%92%E5%8F%AF%E8%A6%96%E5%8C%96%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/algorithm-machine.jpg"&gt;The Algorithm Machineから発見。画像もここから転載。(CC BY-NC-SA by thatguyer)
+ソートのアルゴリズムは様々あり、これを始めて学ぶ人は面食らってしまう人も多いと思います。
+そこでこの記事では「ソートのアルゴリズム」を可視化する装置を作っています。
+フルカラーLEDを横一列に大量に並べ、それをソート中の配列とみなし、さらにそれと並行して、現在比較している配列の要素を示す▽を示すLEDを配置しています。
+ボタンの操作により様々なソートのアルゴリズムの動作例を目で見て確かめることが出来ます。
+ </description>
+    </item>
     
     <item>
       <title>マクドナルドの廃油を3Dプリンタのレジンとして利用する研究</title>
