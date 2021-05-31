@@ -5,10 +5,24 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 27 May 2021 20:00:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 May 2021 22:00:09 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ハンズフリーで「オレオ」を食べるための装置</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%8F%E3%83%B3%E3%82%BA%E3%83%95%E3%83%AA%E3%83%BC%E3%81%A7%E3%82%AA%E3%83%AC%E3%82%AA%E3%82%92%E9%A3%9F%E3%81%B9%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Mon, 31 May 2021 22:00:09 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%8F%E3%83%B3%E3%82%BA%E3%83%95%E3%83%AA%E3%83%BC%E3%81%A7%E3%82%AA%E3%83%AC%E3%82%AA%E3%82%92%E9%A3%9F%E3%81%B9%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E8%A3%85%E7%BD%AE/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/hands-free-oreo-milk.jpg"&gt;HANDS-FREE OREO DISPENSER, NOW WITH MILKから発見。画像もここから転載。
+「オレオ」というお菓子を「手を使わずに食べる」ための装置です。 実はこの作者、この前にすでに「手を使わずにオレオを食べる装置」を作っているのです。
+しかし、彼は大事なことを忘れていました。「ミルク」です。 オレオばかり食べていると口の中が甘ったるくなりますし、また喉も乾きます。ところが、ここで「手を使ってミルクを飲む」というのは本末転倒では・・ということで、着手したのがこの装置です。
+仕組みは前回のオレオディスペンサーと同じです。 3Dプリンタで筐体を作り、顎でレバーを操作することで、「オレオ」と「ミルク」をハンズフリーで食べるための装置を構成しています。
+まぁ結果は完璧！とは言い難いですが、ユーモラスでとても面白い作例です。
+ </description>
+    </item>
     
     <item>
       <title>マクドナルドの廃油を3Dプリンタのレジンとして利用する研究</title>
