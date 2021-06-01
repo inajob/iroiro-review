@@ -5,10 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 31 May 2021 22:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jun 2021 12:00:19 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3Dプリンタで作ったRaspberryPiを使ったNASのケース</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9Fraspberrypi%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fnas%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9/</link>
+      <pubDate>Tue, 01 Jun 2021 12:00:19 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9Fraspberrypi%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fnas%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/pinas.jpg"&gt;PiNAS - the Raspberry Pi NASから発見。画像もここから転載(CC BY-NC-SA By araymbox)。
+RaspberryPiを使って簡易的なNASを作っている人は結構いるのではないでしょうか？この記事で紹介するのは、そんな人向けのスタイリッシュで安い3Dプリンタ製のケースです。
+ケースの部分の部品はたったの4パーツで、サポートなしで3Dプリントできるように設計されています。
+HDDとRaspberryPiはSATA to USBケーブルを使って接続しています。ケーブルの取り回しの関係上USBケーブルを使わずに、直接基板のUSBのパッドに導線をはんだ付けしています。</description>
+    </item>
     
     <item>
       <title>ハンズフリーで「オレオ」を食べるための装置</title>
