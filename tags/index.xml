@@ -5,10 +5,37 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 03 Jun 2021 12:00:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jun 2021 11:00:11 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ATmega328</title>
+      <link>https://inajob.github.io/iroiro-review/tags/atmega328/</link>
+      <pubDate>Sun, 06 Jun 2021 11:00:11 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/atmega328/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>LoRa</title>
+      <link>https://inajob.github.io/iroiro-review/tags/lora/</link>
+      <pubDate>Sun, 06 Jun 2021 11:00:11 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/lora/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>電子ペーパー</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC/</link>
+      <pubDate>Sun, 06 Jun 2021 11:00:11 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>Banggood</title>
@@ -506,15 +533,6 @@
     </item>
     
     <item>
-      <title>ATmega328</title>
-      <link>https://inajob.github.io/iroiro-review/tags/atmega328/</link>
-      <pubDate>Sat, 23 Jan 2021 23:00:11 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/atmega328/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
       <title>Cyberdeck</title>
       <link>https://inajob.github.io/iroiro-review/tags/cyberdeck/</link>
       <pubDate>Thu, 21 Jan 2021 11:00:10 +0000</pubDate>
@@ -601,15 +619,6 @@
       <pubDate>Mon, 21 Dec 2020 22:00:56 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/raspberry-pi/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>電子ペーパー</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC/</link>
-      <pubDate>Wed, 16 Dec 2020 10:00:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
@@ -817,15 +826,6 @@
       <pubDate>Sun, 26 Jul 2020 23:00:05 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/%E5%B7%A5%E4%BD%9C/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>LoRa</title>
-      <link>https://inajob.github.io/iroiro-review/tags/lora/</link>
-      <pubDate>Wed, 22 Jul 2020 23:00:05 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/lora/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
