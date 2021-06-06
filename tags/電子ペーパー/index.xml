@@ -18,7 +18,7 @@
       <guid>https://inajob.github.io/iroiro-review/post/%E5%A4%AA%E9%99%BD%E5%85%89%E3%81%AE%E3%81%BF%E3%81%A7%E5%8B%95%E3%81%8D%E9%80%9A%E4%BF%A1%E3%81%97%E6%83%85%E5%A0%B1%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/lorapaper.png"&gt;MEET LORAPAPER, A WEATHER STATION THAT RUNS ON NO BATTERIES!から発見。画像もここから転載。
 ガジェットを設計して頭を悩ませるのが「電源」です。モバイル性の高いものや、屋外に設置するものにどうやって電気を供給するかというのは難しい問題です。
-この記事で紹介しているのは太陽光で発電し、LoRaで通信し、通信結果を電子ペーパーに表示するというガジェット「LoRraPaper」です。
+この記事で紹介しているのは太陽光で発電し、LoRaで通信し、通信結果を電子ペーパーに表示するというガジェット「LoRaPaper」です。
 太陽光で発電した電力をスーパーキャパシタに貯めこみ、十分溜まったところで動作を行うようです。
 CPUはArduino UNOなどと同じATmega328のようで、開発はArduinoIDEでできるようです。</description>
     </item>
