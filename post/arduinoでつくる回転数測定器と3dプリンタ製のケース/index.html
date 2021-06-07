@@ -8,12 +8,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>
       
-  太陽光のみで動き、通信し情報を表示する装置 &ndash; inajobのいろいろレビュー
+  Arduinoでつくる回転数測定器と3Dプリンタ製のケース &ndash; inajobのいろいろレビュー
 
     </title>
     
     
-    <meta name="description" property="og:description" content="太陽光のみで動作し、通信して情報を表示する装置の作例を紹介します。|">
+    <meta name="description" property="og:description" content="3Dプリンタで作ったケースに収まったArduinoで作られた回転数測定器の作例を紹介します。|">
     
 
     <meta name="apple-mobile-web-app-title" content="inajobのいろいろレビュー">
@@ -22,16 +22,16 @@
     
     
 
-    <meta property="og:title" content="太陽光のみで動き、通信し情報を表示する装置 | inajobのいろいろレビュー">
-    <meta property="og:description" content="太陽光のみで動作し、通信して情報を表示する装置の作例を紹介します。|">
+    <meta property="og:title" content="Arduinoでつくる回転数測定器と3Dプリンタ製のケース | inajobのいろいろレビュー">
+    <meta property="og:description" content="3Dプリンタで作ったケースに収まったArduinoで作られた回転数測定器の作例を紹介します。|">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@ina_ani">
     <meta name="twitter:creator" content="@ina_ani">
-    <meta name="twitter:title" content="太陽光のみで動き、通信し情報を表示する装置 | inajobのいろいろレビュー">
-    <meta name="twitter:description" content="太陽光のみで動作し、通信して情報を表示する装置の作例を紹介します。|">
+    <meta name="twitter:title" content="Arduinoでつくる回転数測定器と3Dプリンタ製のケース | inajobのいろいろレビュー">
+    <meta name="twitter:description" content="3Dプリンタで作ったケースに収まったArduinoで作られた回転数測定器の作例を紹介します。|">
     
-    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/lorapaper.png">
-    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/lorapaper.png">
+    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/tachometer.jpg">
+    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/tachometer.jpg">
     
     
     <meta name="google-site-verification" content="Wjrrx4mV4IokyVrRy-5rjpG1sfwkjQ-uVRiXhMMXhW8" />
@@ -100,7 +100,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 <div class="Subhead">
   <div class="Subhead-heading">
-    <div class="h1 mt-3 mb-1">太陽光のみで動き、通信し情報を表示する装置</div>
+    <div class="h1 mt-3 mb-1">Arduinoでつくる回転数測定器と3Dプリンタ製のケース</div>
   </div>
   <div class="Subhead-description">
     
@@ -108,25 +108,21 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 
 
-<a href='/iroiro-review/tags/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC' class="muted-link">
-  <span class="Label" style="background-color:#0099dd;">電子ペーパー</span>
+<a href='/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">3Dプリンタ</span>
 </a>
 
-<a href='/iroiro-review/tags/atmega328' class="muted-link">
-  <span class="Label" style="background-color:#0099dd;">atmega328</span>
-</a>
-
-<a href='/iroiro-review/tags/lora' class="muted-link">
-  <span class="Label" style="background-color:#0099dd;">LoRa</span>
+<a href='/iroiro-review/tags/arduino' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">Arduino</span>
 </a>
 
 
 
     
     <div class="float-md-right">
-      <span title="Lastmod: 2021-06-06. Published at: 2021-06-06.">
+      <span title="Lastmod: 2021-06-07. Published at: 2021-06-07.">
         
-          Published: 2021-06-06
+          Published: 2021-06-07
         
       </span>
     </div>
@@ -136,40 +132,29 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <article>
   
   <section class="pb-6 mb-3 border-bottom">
-    <img src="https://inajob.github.io/iroiro-review/img/lorapaper.png" />
-    <p><a href="https://www.electronics-lab.com/meet-lorapaper-weather-station-runs-no-batteries/">MEET LORAPAPER, A WEATHER STATION THAT RUNS ON NO BATTERIES!</a>から発見。画像もここから転載。</p>
-<p>ガジェットを設計して頭を悩ませるのが「電源」です。モバイル性の高いものや、屋外に設置するものにどうやって電気を供給するかというのは難しい問題です。</p>
-<p>この記事で紹介しているのは太陽光で発電し、LoRaで通信し、通信結果を電子ペーパーに表示するというガジェット「LoRaPaper」です。</p>
-<p>太陽光で発電した電力をスーパーキャパシタに貯めこみ、十分溜まったところで動作を行うようです。</p>
-<p>CPUはArduino UNOなどと同じATmega328のようで、開発はArduinoIDEでできるようです。</p>
-
+    <img src="https://inajob.github.io/iroiro-review/img/tachometer.jpg" />
+    <p><a href="https://hackaday.com/2020/02/12/laser-tachometer-knows-how-fast-you-were-spinning-back-there/">LASER TACHOMETER KNOWS HOW FAST YOU WERE SPINNING BACK THERE</a>から発見。画像もここから転載。</p>
+<p>回転数を測定する装置はたくさん市販されていますが、比較的簡単に自作することが出来るようです。材料はArduino、表示用のOLED、レーザーダイオード、受光素子です。</p>
+<p>その仕組みはともかく、この作例の素晴らしいのは3Dプリンタで作られたケースです。
+Arduino NanoやOLEDがきちっとハマる枠を3Dプリンタで作り、その枠をブリッジするような橋状の部品をねじで止めることで、部品をきっちりとケースに固定しています。</p>
+<p>おかげでこの作例ではユニバーサル基板を使うことなく、しかし部品が取っ散らかる事のない、高い完成度となっています。</p>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/0UqHNrqmTRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </section>
 
   
-  <a href="/iroiro-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%AB%E3%83%AB%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89gamakay-k66/">
+  <a href="/iroiro-review/post/%E5%A4%AA%E9%99%BD%E5%85%89%E3%81%AE%E3%81%BF%E3%81%A7%E5%8B%95%E3%81%8D%E9%80%9A%E4%BF%A1%E3%81%97%E6%83%85%E5%A0%B1%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/">
     <div class="box-shadow-medium mb-3 bg-blue-light border border-blue" style="height:122px;">
         <div style="float:left;">
-          <img class="rect" src="https://inajob.github.io/iroiro-review/img/gamakay-cover.png" />
+          <img class="rect" src="https://inajob.github.io/iroiro-review/img/lorapaper.png" />
         </div>
 
         <div class="pb-2 pt-2 px-3" style="margin-left:122px;">
-          ← 前の記事 - コンパクトなメカニカルキーボードGamaKay K66
+          ← 前の記事 - 太陽光のみで動き、通信し情報を表示する装置
         </div>
     </div>
   </a>
   
 
-  
-  <a href="/iroiro-review/post/arduino%E3%81%A7%E3%81%A4%E3%81%8F%E3%82%8B%E5%9B%9E%E8%BB%A2%E6%95%B0%E6%B8%AC%E5%AE%9A%E5%99%A8%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9/">
-    <div class="box-shadow-medium mb-3 bg-blue-light border border-blue" style="height:122px;">
-      <div style="float:left;">
-        <img class="rect" src="https://inajob.github.io/iroiro-review/img/tachometer.jpg" />
-      </div>
-      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
-        次の記事 - Arduinoでつくる回転数測定器と3Dプリンタ製のケース →
-      </div>
-    </div>
-  </a>
   
 
   
@@ -177,57 +162,57 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <h3>関連記事</h3>
 <div>
   
-  <a href="/iroiro-review/post/%E7%9C%9F%E9%8D%AE%E7%B7%9A%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/">
+  <a href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%E4%BB%98%E3%81%8D%E3%81%AE%E5%B0%8F%E5%9E%8B%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/">
     <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
       <div style="float:left;">
-        <img class="rect" src="https://inajob.github.io/iroiro-review/img/atmega-sculpture-800.png" />
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/ardugrip.jpg" />
       </div>
       <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
-        真鍮線を使って作ったゲーム機
+        3Dプリンタ製のグリップ付きの小型ゲーム機
       </div>
     </div>
   </a>
   
-  <a href="/iroiro-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%99%82%E8%A8%88/">
+  <a href="/iroiro-review/post/%E3%82%B2%E3%83%BC%E3%83%A0%E7%94%A8%E3%83%98%E3%83%83%E3%83%89%E3%82%BB%E3%83%83%E3%83%88%E3%81%AB%E3%82%A2%E3%83%89%E3%82%AA%E3%83%B3%E3%81%95%E3%82%8C%E3%81%9F%E8%87%AA%E4%BD%9C%E3%81%AE%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/">
     <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
       <div style="float:left;">
-        <img class="rect" src="https://inajob.github.io/iroiro-review/img/eink-clock.jpg" />
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/headset-motion-sensor.jpg" />
       </div>
       <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
-        コンパクトな電子ペーパーを使った時計
+        ゲーム用ヘッドセットにアドオンされた自作のモーションセンサー
       </div>
     </div>
   </a>
   
-  <a href="/iroiro-review/post/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E3%81%A8%E3%82%A4%E3%83%AB%E3%83%9F%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E7%9B%AE%E8%A6%9A%E3%81%BE%E3%81%97%E6%99%82%E8%A8%88/">
+  <a href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8Bword-clock/">
     <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
       <div style="float:left;">
-        <img class="rect" src="https://inajob.github.io/iroiro-review/img/mountain-clock.jpg" />
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/3d-printed-word-clock.jpg" />
       </div>
       <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
-        電子ペーパーとイルミネーションによるかっこいい目覚まし時計
+        3Dプリンタで作成するWord Clock
       </div>
     </div>
   </a>
   
-  <a href="/iroiro-review/post/%E3%81%8A%E6%B0%97%E3%81%AB%E5%85%A5%E3%82%8A%E3%81%AE%E3%83%9D%E3%82%A8%E3%83%A0%E3%81%AA%E3%81%A9%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%A7%E3%81%8D%E3%82%8B%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E5%BC%8F%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/">
+  <a href="/iroiro-review/post/dvd%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E5%BD%AB%E5%88%BB%E6%A9%9F/">
     <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
       <div style="float:left;">
-        <img class="rect" src="https://inajob.github.io/iroiro-review/img/shihen.jpg" />
+        <img class="rect" src="https://inajob.github.io/iroiro-review" />
       </div>
       <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
-        お気に入りのポエムなどを表示できる電子ペーパー式ガジェット
+        DVDドライブと3Dプリンタで作るレーザー彫刻機
       </div>
     </div>
   </a>
   
-  <a href="/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E9%9B%BB%E5%AD%90%E3%83%96%E3%83%83%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC/">
+  <a href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9Fraspberrypi%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fnas%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9/">
     <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
       <div style="float:left;">
-        <img class="rect" src="https://inajob.github.io/iroiro-review/img/openbook.jpg" />
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/pinas.jpg" />
       </div>
       <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
-        オープンソースの電子ブックリーダー
+        3Dプリンタで作ったRaspberryPiを使ったNASのケース
       </div>
     </div>
   </a>
@@ -258,7 +243,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           }(document, 'script', 'facebook-jssdk'));</script>
 
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/%E5%A4%AA%E9%99%BD%E5%85%89%E3%81%AE%E3%81%BF%E3%81%A7%E5%8B%95%E3%81%8D%E9%80%9A%E4%BF%A1%E3%81%97%E6%83%85%E5%A0%B1%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/" 
+            data-href="/iroiro-review/post/arduino%E3%81%A7%E3%81%A4%E3%81%8F%E3%82%8B%E5%9B%9E%E8%BB%A2%E6%95%B0%E6%B8%AC%E5%AE%9A%E5%99%A8%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9/" 
             data-layout="button_count">
           </div>
         
@@ -291,7 +276,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           
   
     <div id="toc" class="Box Box--blue mb-3">
-      <b>太陽光のみで動き、通信し情報を表示する装置</b>
+      <b>Arduinoでつくる回転数測定器と3Dプリンタ製のケース</b>
       <nav id="TableOfContents"></nav>
     </div>
   
@@ -307,7 +292,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
         
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/%E5%A4%AA%E9%99%BD%E5%85%89%E3%81%AE%E3%81%BF%E3%81%A7%E5%8B%95%E3%81%8D%E9%80%9A%E4%BF%A1%E3%81%97%E6%83%85%E5%A0%B1%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/" 
+            data-href="/iroiro-review/post/arduino%E3%81%A7%E3%81%A4%E3%81%8F%E3%82%8B%E5%9B%9E%E8%BB%A2%E6%95%B0%E6%B8%AC%E5%AE%9A%E5%99%A8%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9/" 
             data-layout="button_count">
           </div>
         

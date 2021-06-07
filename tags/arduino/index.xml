@@ -5,10 +5,22 @@
     <description>Recent content in Arduino on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 19 May 2021 11:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jun 2021 11:00:18 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arduinoでつくる回転数測定器と3Dプリンタ製のケース</title>
+      <link>https://inajob.github.io/iroiro-review/post/arduino%E3%81%A7%E3%81%A4%E3%81%8F%E3%82%8B%E5%9B%9E%E8%BB%A2%E6%95%B0%E6%B8%AC%E5%AE%9A%E5%99%A8%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9/</link>
+      <pubDate>Mon, 07 Jun 2021 11:00:18 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/arduino%E3%81%A7%E3%81%A4%E3%81%8F%E3%82%8B%E5%9B%9E%E8%BB%A2%E6%95%B0%E6%B8%AC%E5%AE%9A%E5%99%A8%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/tachometer.jpg"&gt;LASER TACHOMETER KNOWS HOW FAST YOU WERE SPINNING BACK THEREから発見。画像もここから転載。
+回転数を測定する装置はたくさん市販されていますが、比較的簡単に自作することが出来るようです。材料はArduino、表示用のOLED、レーザーダイオード、受光素子です。
+その仕組みはともかく、この作例の素晴らしいのは3Dプリンタで作られたケースです。 Arduino NanoやOLEDがきちっとハマる枠を3Dプリンタで作り、その枠をブリッジするような橋状の部品をねじで止めることで、部品をきっちりとケースに固定しています。
+おかげでこの作例ではユニバーサル基板を使うことなく、しかし部品が取っ散らかる事のない、高い完成度となっています。</description>
+    </item>
     
     <item>
       <title>ArduinoのPWMを視覚的に設定できるツール</title>
