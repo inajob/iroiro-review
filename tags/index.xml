@@ -5,10 +5,28 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 08 Jun 2021 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jun 2021 12:00:47 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bluetooth</title>
+      <link>https://inajob.github.io/iroiro-review/tags/bluetooth/</link>
+      <pubDate>Wed, 09 Jun 2021 12:00:47 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/bluetooth/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>ESP32</title>
+      <link>https://inajob.github.io/iroiro-review/tags/esp32/</link>
+      <pubDate>Wed, 09 Jun 2021 12:00:47 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/esp32/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>atmega2560</title>
@@ -124,15 +142,6 @@
       <pubDate>Tue, 01 Jun 2021 12:00:19 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/rspberrypi/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>ESP32</title>
-      <link>https://inajob.github.io/iroiro-review/tags/esp32/</link>
-      <pubDate>Sun, 30 May 2021 10:00:17 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/esp32/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
@@ -376,15 +385,6 @@
       <pubDate>Thu, 01 Apr 2021 21:00:09 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>Bluetooth</title>
-      <link>https://inajob.github.io/iroiro-review/tags/bluetooth/</link>
-      <pubDate>Sun, 28 Mar 2021 22:00:25 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/bluetooth/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
