@@ -5,10 +5,22 @@
     <description>Recent content in DIY on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 14 Dec 2020 23:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jun 2021 11:00:04 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/diy/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>発電機能の付いた自作の懐中電灯</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%99%BA%E9%9B%BB%E6%A9%9F%E8%83%BD%E3%81%AE%E4%BB%98%E3%81%84%E3%81%9F%E8%87%AA%E4%BD%9C%E3%81%AE%E6%87%90%E4%B8%AD%E9%9B%BB%E7%81%AF/</link>
+      <pubDate>Thu, 10 Jun 2021 11:00:04 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%99%BA%E9%9B%BB%E6%A9%9F%E8%83%BD%E3%81%AE%E4%BB%98%E3%81%84%E3%81%9F%E8%87%AA%E4%BD%9C%E3%81%AE%E6%87%90%E4%B8%AD%E9%9B%BB%E7%81%AF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/torch-without-battery.jpg"&gt;Emergency LED Torch Without Batteryから発見。画像もここから転載。(CC BY-NC-SA By techrallyofficial)
+コイルと磁石を使った発電装置を備えた懐中電灯の作例です。 PVCパイプを基に作った筐体の中には強力なネオジウム磁石が入っており、振ることでこの磁石が上下に移動するようになっています。
+PVCパイプにはコイルが形成されており、電磁誘導によりスーパーキャパシタに電気が貯められるという仕組みです。
+ </description>
+    </item>
     
     <item>
       <title>自作の小型テーブルソー</title>
