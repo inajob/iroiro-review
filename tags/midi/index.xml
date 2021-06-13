@@ -5,10 +5,22 @@
     <description>Recent content in MIDI on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 16 Oct 2019 23:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jun 2021 11:00:57 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/midi/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>回転ドラムに磁石で鉄球をくっつけるMIDIシーケンサ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%9B%9E%E8%BB%A2%E3%83%89%E3%83%A9%E3%83%A0%E3%81%AB%E7%A3%81%E7%9F%B3%E3%81%A7%E9%89%84%E7%90%83%E3%82%92%E3%81%8F%E3%81%A3%E3%81%A4%E3%81%91%E3%82%8Bmidi%E3%82%B7%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%B5/</link>
+      <pubDate>Sun, 13 Jun 2021 11:00:57 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%9B%9E%E8%BB%A2%E3%83%89%E3%83%A9%E3%83%A0%E3%81%AB%E7%A3%81%E7%9F%B3%E3%81%A7%E9%89%84%E7%90%83%E3%82%92%E3%81%8F%E3%81%A3%E3%81%A4%E3%81%91%E3%82%8Bmidi%E3%82%B7%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%B5/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/mesotune.jpg"&gt;MesoTune - Magnetic MIDI Controllerから発見。画像もここから転載(CC BY-NC-SA By FabroLabs Technologies)。
+3Dプリンタで作られた回転するドラムのくぼみに鉄球を取り付け、ホールセンサーで鉄球を検知してMIDI信号を出力する編集可能なオルゴールのような楽器です。
+目で見た鉄球の並びがそのまま音楽になるというのは非常に直感的で面白い楽器です。
+ </description>
+    </item>
     
     <item>
       <title>ATtinyでMIDIをCVに変換する</title>
