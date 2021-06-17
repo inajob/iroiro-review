@@ -5,10 +5,22 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 08 Jun 2021 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jun 2021 11:00:30 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>普通の液晶を「透明化」するHACK</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%99%AE%E9%80%9A%E3%81%AE%E6%B6%B2%E6%99%B6%E3%82%92%E9%80%8F%E6%98%8E%E5%8C%96%E3%81%99%E3%82%8Bhack/</link>
+      <pubDate>Thu, 17 Jun 2021 11:00:30 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%99%AE%E9%80%9A%E3%81%AE%E6%B6%B2%E6%99%B6%E3%82%92%E9%80%8F%E6%98%8E%E5%8C%96%E3%81%99%E3%82%8Bhack/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/transparent-display.jpg"&gt;Make Your Own (kind Of) Transparent Displayから発見。画像もここから転載（CC BY-NC-SA By Kelsey at Crystalfontz）。
+普通の液晶から背面の偏光板をはがして、そこに別の偏光板を絶妙な角度で 貼り付けることで半透明なディスプレイを作る方法を紹介しています。
+この記事では新しい偏光フィルムを別の大きなディスプレイから剥がすことで入手しています。
+透明なディスプレイはそれだけでかっこいいので、手元にディスプレイが2枚ある人は試してみてはどうでしょうか？</description>
+    </item>
     
     <item>
       <title>懐かしいダイアルで操作する携帯電話</title>

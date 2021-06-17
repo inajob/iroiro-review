@@ -5,10 +5,28 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 16 Jun 2021 10:30:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jun 2021 11:00:30 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HACK</title>
+      <link>https://inajob.github.io/iroiro-review/tags/hack/</link>
+      <pubDate>Thu, 17 Jun 2021 11:00:30 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/hack/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>液晶</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E6%B6%B2%E6%99%B6/</link>
+      <pubDate>Thu, 17 Jun 2021 11:00:30 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E6%B6%B2%E6%99%B6/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>3Dプリンタ</title>
@@ -88,15 +106,6 @@
       <pubDate>Tue, 08 Jun 2021 12:00:00 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/atmega2560/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>HACK</title>
-      <link>https://inajob.github.io/iroiro-review/tags/hack/</link>
-      <pubDate>Tue, 08 Jun 2021 12:00:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/hack/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
