@@ -5,10 +5,25 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 20 Jun 2021 22:30:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jun 2021 11:00:04 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>FDM3Dプリント時に重要となる「サポート材」についての体系的な説明</title>
+      <link>https://inajob.github.io/iroiro-review/post/fdm3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E6%99%82%E3%81%AB%E9%87%8D%E8%A6%81%E3%81%A8%E3%81%AA%E3%82%8B%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E4%BD%93%E7%B3%BB%E7%9A%84%E3%81%AA%E8%AA%AC%E6%98%8E/</link>
+      <pubDate>Mon, 21 Jun 2021 11:00:04 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/fdm3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E6%99%82%E3%81%AB%E9%87%8D%E8%A6%81%E3%81%A8%E3%81%AA%E3%82%8B%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E4%BD%93%E7%B3%BB%E7%9A%84%E3%81%AA%E8%AA%AC%E6%98%8E/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3dprinter-support.jpg"&gt;3D Printing Support Structures – The Ultimate Guideから発見。画像もここから転載。
+積層式の3Dプリンタで造形するときに気を付けないといけないのが「サポート材」です。
+積層式の3Dプリンタは下から溶けたフィラメントを重ねていくという仕組みなのですが、その仕組み故にブリッジ構造や45度を超えるオーバーハングなどはうまく造形できないことがあります。
+そのために利用するのがサポート材です。
+サポート材というのは、造形したい形状とは別に「土台」としての形状のことです。サポート材の造形方法も様々な方法があり、その素材や形状、作りたい部品とのマージンなど、様々なパラメータを設定することが出来ます。
+この記事ではこれらの「サポート材」にまつわるあれこれを体系的に紹介しています。
+トピックごとに画像がついていて英語が苦手でも何となく読むことが出来るので、3Dプリンタ向けの造形をしている方は是非見てみてください。</description>
+    </item>
     
     <item>
       <title>3Dプリンタで作った3Dスキャナ</title>
