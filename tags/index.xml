@@ -5,10 +5,28 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 23 Jun 2021 11:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jun 2021 11:00:33 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OLED</title>
+      <link>https://inajob.github.io/iroiro-review/tags/oled/</link>
+      <pubDate>Thu, 24 Jun 2021 11:00:33 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/oled/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>時計</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E6%99%82%E8%A8%88/</link>
+      <pubDate>Thu, 24 Jun 2021 11:00:33 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E6%99%82%E8%A8%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>atsamd21</title>
@@ -353,15 +371,6 @@
     </item>
     
     <item>
-      <title>時計</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E6%99%82%E8%A8%88/</link>
-      <pubDate>Tue, 27 Apr 2021 22:00:11 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E6%99%82%E8%A8%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
       <title>クラウドファンディング</title>
       <link>https://inajob.github.io/iroiro-review/tags/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0/</link>
       <pubDate>Mon, 26 Apr 2021 11:00:31 +0000</pubDate>
@@ -484,15 +493,6 @@
       <pubDate>Mon, 01 Mar 2021 11:00:02 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/samd21/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>OLED</title>
-      <link>https://inajob.github.io/iroiro-review/tags/oled/</link>
-      <pubDate>Wed, 24 Feb 2021 23:00:22 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/oled/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
