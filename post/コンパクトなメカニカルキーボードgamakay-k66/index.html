@@ -219,11 +219,12 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <h2 id="分解まとめ">分解まとめ</h2>
 <p>マイコンがちょっと聞きなれないものであることを除いては、一般的な「自作キーボード」と同じような構成であることがわかりました。マイコンが特殊であるため、自作キーボードのために作られたキーボードファームウェアを利用するにはかなりハードルが高そうです。</p>
 <h2 id="ファームウェア改造の手がかり">ファームウェア改造の手がかり</h2>
-<p><a href="https://wormier-docs.github.io/">https://wormier-docs.github.io/</a> このページのキーボードがどうやら同じもののようで、この手法応用するとファームウェアを改造できるかもしれません。（私は試していませんが・・）</p>
+<p><a href="https://wormier-docs.github.io/">https://wormier-docs.github.io/</a> このページのキーボードがどうやら同じもののようで、この手法応用するとファームウェアを改造できるようです。</p>
 <p>この記事通りであれば、特別に配線を引き出さずともUSB接続してあれば、ファームウェアを書き換えできるように見えます。</p>
 <p>QMKという自作キーボード向けファームウェアも <a href="https://github.com/smp4488/qmk_firmware/tree/chibios-upgrade/keyboards/womier/k66">https://github.com/smp4488/qmk_firmware/tree/chibios-upgrade/keyboards/womier/k66</a>や <a href="https://github.com/toastdb/qmk_firmware/tree/womier_k66">https://github.com/toastdb/qmk_firmware/tree/womier_k66</a> に移植された実装があるように見えます（絶賛開発中のようですが・・）。</p>
 <p>もう少し見たころ <a href="https://github.com/smp4488/qmk_firmware/tree/chibios-upgrade/keyboards/womier/k66">https://github.com/smp4488/qmk_firmware/tree/chibios-upgrade/keyboards/womier/k66</a> が元祖で、このソースコードだとLEDの点灯が未サポートですが、キーボードとしてはちゃんと使うことが出来るようで、もう一つの <a href="https://github.com/toastdb/qmk_firmware/tree/womier_k66">https://github.com/toastdb/qmk_firmware/tree/womier_k66</a> のほうが、これを基にしてさらなる改良を加えているもののようです。</p>
 <p>ファームウェアを誤って書き込むと、最悪の場合キーボードが機能しなくなって書き換えもできなくなってしまい、いわゆる「文鎮化」してしまう可能性があるので、試す際は自己責任でお願いします。</p>
+<p><a href="https://inajob.hatenablog.jp/entry/qmk-for-k66">K66のファームウェア改造について記事を書きました</a></p>
 <h1 id="まとめ">まとめ</h1>
 <p>メカニカルキーボードは気になるけど、自作するのはちょっと・・という人に向いている製品だと思います。ホットスワップに対応しているため、キーボードスイッチを好きなものに変更したり、キーキャップを取り換えたりというカスタマイズも楽しむことが出来ます。</p>
 <p>キー配列も個人的には好みです。</p>
