@@ -5,10 +5,19 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 24 Jun 2021 11:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jun 2021 11:00:23 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>RaspberryPi</title>
+      <link>https://inajob.github.io/iroiro-review/tags/raspberrypi/</link>
+      <pubDate>Sun, 27 Jun 2021 11:00:23 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/raspberrypi/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>OLED</title>
@@ -34,15 +43,6 @@
       <pubDate>Wed, 23 Jun 2021 11:00:01 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/atsamd21/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>RaspberryPi</title>
-      <link>https://inajob.github.io/iroiro-review/tags/raspberrypi/</link>
-      <pubDate>Tue, 22 Jun 2021 11:00:10 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/raspberrypi/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     

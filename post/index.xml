@@ -5,10 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 24 Jun 2021 11:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jun 2021 11:00:23 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>軍用コンピュータのガワを利用したRaspberryPiコンソール</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%BB%8D%E7%94%A8%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%81%AE%E3%82%AC%E3%83%AF%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9Fraspberrypi%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Sun, 27 Jun 2021 11:00:23 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%BB%8D%E7%94%A8%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%81%AE%E3%82%AC%E3%83%AF%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9Fraspberrypi%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/grid-raspberrypi.png"&gt;RESTORING THE COOLEST LAPTOP EVERから発見画像もここから転載。
+Raspberry Piコンソールの作例はたくさん紹介してきましたが、この記事では軍用ラップトップであるGRiDの外装を流用して作られたものを紹介します。
+LEDの点灯やキーボードの読み取り、備え付けのマウス(IsoPoint)の制御のために2枚のTeensyボードを内蔵しているようです。
+「まさに軍用」という感じのがっしりした筐体は頼もしく、安心して持ち歩けそうなRaspberryPiラップトップに仕上がっています。
+ </description>
+    </item>
     
     <item>
       <title>ブロック崩し風な見た目の時計</title>
