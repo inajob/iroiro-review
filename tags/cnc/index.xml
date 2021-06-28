@@ -5,10 +5,23 @@
     <description>Recent content in CNC on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 06 May 2021 23:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jun 2021 12:00:25 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/cnc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>回転式のペンプロッタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%9B%9E%E8%BB%A2%E5%BC%8F%E3%81%AE%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</link>
+      <pubDate>Mon, 28 Jun 2021 12:00:25 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%9B%9E%E8%BB%A2%E5%BC%8F%E3%81%AE%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/eddywrite.jpg"&gt;Original Plotter &amp;ldquo;eddyWrite&amp;rdquo;から発見。画像もここから転載。
+普通のペンプロッタはX,Y軸とペンの持ち上げで動くものですが、この記事で紹介しているプロッタはペンを左右に動かすX軸はいつも通りですが、円形のステージを回転することでもう1軸を実現しています。
+2軸あるので、任意の図形を描くことが出来ますが、普通のペンプロッタと違い同心円状の軌跡になるのが面白いです。
+   この投稿をInstagramで見る         HomeMadeGarbage(@homemadegarbage)がシェアした投稿
+  </description>
+    </item>
     
     <item>
       <title>発泡スチロールを自動加工するCNCマシン</title>
