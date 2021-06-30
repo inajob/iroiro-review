@@ -5,10 +5,26 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 29 Jun 2021 11:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jun 2021 11:00:22 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3Dプリンタで作られた「ロープ作り器」</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%83%AD%E3%83%BC%E3%83%97%E4%BD%9C%E3%82%8A%E5%99%A8/</link>
+      <pubDate>Wed, 30 Jun 2021 11:00:22 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%83%AD%E3%83%BC%E3%83%97%E4%BD%9C%E3%82%8A%E5%99%A8/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/rope-maker.jpg"&gt;3D Printed Rope Makerから発見。画像もここから転載（CC BY-NC-SA By b33ma247）
+「ロープ」をどのように作るのか知っていますか？ロープはたくさんの細い紐をねじって、そのねじった紐をさらにねじって巻き付けたものです。
+日本人になじみ深いものだと「しめ縄」も同じような仕組みですね。
+それはさておき、この記事では「紐」から簡単に「ロープ」を作るための装置を3Dプリンタで作っています。
+6本の紐を2本ずつ組みにしてそれぞれをひねり、出来上がった3組の紐をさらに巻き付けることでロープを作るという仕組みです。
+簡単に6本の紐を2本ずつ巻き付けるために、電動ドライバーを利用しています。電動ドライバーの回転をそれぞれの紐の組に伝えるために、ギアを使っています。
+こういう「何かを作るための道具」というのは見ているだけで飽きませんね。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタ製のブレッドボード用のジャンパワイヤを作るための治具</title>
