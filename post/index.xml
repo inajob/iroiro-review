@@ -5,10 +5,40 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 01 Jul 2021 09:30:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jul 2021 03:00:41 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>1万円台の「かわいい」3Dプリンタ「Easythreed®K5」の実力は？</title>
+      <link>https://inajob.github.io/iroiro-review/post/1%E4%B8%87%E5%86%86%E5%8F%B0%E3%81%AE%E3%81%8B%E3%82%8F%E3%81%84%E3%81%843d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BFeasythreedk5%E3%81%AE%E5%AE%9F%E5%8A%9B%E3%81%AF/</link>
+      <pubDate>Sun, 04 Jul 2021 03:00:41 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/1%E4%B8%87%E5%86%86%E5%8F%B0%E3%81%AE%E3%81%8B%E3%82%8F%E3%81%84%E3%81%843d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BFeasythreedk5%E3%81%AE%E5%AE%9F%E5%8A%9B%E3%81%AF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-reviewimg/k5-cover.png"&gt;この記事はBanggoodの提供でお届けします。
+以前紹介したようにこのブログはBanggoodと提携させていただいており、今回紹介するEasythreed®K5からいただいたものとなります。Easythreed®K5についてはBanggoodから紹介されましたが、自分も面白い製品であると感じたためこのレビューを引き受けたため、Banggoodが無理やりこの商品を押しているわけではなく、inajobの一押しアイテム！、という感じです。）
+Easythreed®K5 とは いわゆる3Dプリンタです。
+3Dプリンタもずいぶん普及して、かなり低価格のものも出てきました。そんな中でも抜きんでた安さのものを扱っているのがEasythread社の製品です。
+今回紹介する「K5」というのもそんな低価格帯の3Dプリンタです。
+しかし、今回この3Dプリンタを紹介しようと思った一番の理由は「かわいさ」です。
+3Dプリンタが一般的になり、競合製品で市場が飽和してきたときに必要なのは、他社とは違う魅力です。
+その魅力に「かわいさ」というのを選んだのがこの「K5」です。
+なんというか「3Dプリンタもいよいよここまで来たか」と感じるエポックメイキングな製品だと感じています。
+スペックは以下です
+  造形可能サイズ 80mm×80mm×100mm
+ ここが安さの秘訣ですね。小さいものしか作れません。    Extruder温度 180-230℃
+ この温度ゆえ、PLA樹脂,TPU樹脂のみ利用できます。ABS樹脂は造形できません。    ヒートベッド なし
+ PLA樹脂しかサポートしていないので、まぁこれは無くてもそこまで困りません    サポートしているフィラメントの直径: 1.75mm
+ 一般的な3Dプリンタと同様です    プリントヘッドの速度 10mm/s - 40mm/s
+ ここも安さの秘訣ですが、ゆっくりしか移動しないので、比較的静かです。    取り外し可能なマグネット式プレート
+ これはうれしい仕組みです。これが無いと3Dプリンタの生成物をベッドから剥がすのが非常に面倒です。    開封レビュー 届いたのはこのくらいの箱でした。
+開けてみると、じゃーん！ 製品外観が印刷された段ボールが出てきました。
+中身は発泡スチロールで梱包されており、製品も無事でした。
+可動部分は養生テープで固定されていました。
+付属部品はこんな感じ
+ フィラメント固定用のプラスチック部品 説明書 ACアダプタ お試し用フィラメント（※フィラメントというのは3Dプリントの材料となる細長い形状のプラスチックです） USBメモリ ドライバー2種 USBケーブル スクレイパー  説明書は日本語のページもありました。</description>
+    </item>
     
     <item>
       <title>さくっと3Dプリンタ用の表札データを作れるWebサービス</title>
