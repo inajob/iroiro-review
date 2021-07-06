@@ -5,10 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 05 Jul 2021 10:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jul 2021 10:30:08 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ATmega4809をブレッドボードで動かしてみた事例</title>
+      <link>https://inajob.github.io/iroiro-review/post/atmega4809%E3%82%92%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%81%A7%E5%8B%95%E3%81%8B%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/</link>
+      <pubDate>Tue, 06 Jul 2021 10:30:08 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/atmega4809%E3%82%92%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%81%A7%E5%8B%95%E3%81%8B%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/atmega4809mcp2221.jpg"&gt;Minimal ATmega4809 on a Breadboardから発見。画像もここから転載。
+新しいAVRのシリーズである ATmega4809をブレッドボードで試すための回路の紹介をしている記事です。
+実はこのATmega4809はDIP版が存在しており、ブレッドボードで試すにはこれが一番簡単です。
+ATmega4809の書き込みはUPDIというプロトコルで行う必要がありますが、jtag2updiというソフトウェアを使うことで一般的なUSB-Serial変換ICを使うことで書き込みすることが出来ます。</description>
+    </item>
     
     <item>
       <title>FPGAを使って作ったFM音源ボード</title>
