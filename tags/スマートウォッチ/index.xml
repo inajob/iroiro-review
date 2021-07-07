@@ -5,10 +5,24 @@
     <description>Recent content in スマートウォッチ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 12 Aug 2020 11:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jul 2021 11:00:31 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>既製品のハイブリッドスマートウォッチをArduino化するためのボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%97%A2%E8%A3%BD%E5%93%81%E3%81%AE%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%83%89%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E3%82%92arduino%E5%8C%96%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Wed, 07 Jul 2021 11:00:31 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%97%A2%E8%A3%BD%E5%93%81%E3%81%AE%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%83%89%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E3%82%92arduino%E5%8C%96%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/open-chronograph.png"&gt;OPENCHRONOGRAPH LETS YOU ROLL YOUR OWN SMART WATCHから発見。画像もここから転載。
+文字盤はアナログ時計ですが、活動量計や歩数計、通知機能などを搭載した腕時計。いわゆる「ハイブリッドなスマートウォッチ」を改造するためのボードを紹介します。
+この記事で紹介しているのは、ハイブリッドスマートウォッチの内部基板をそっくり入れ替えてArduinoを基にしたHackしやすいものに変更してしまうという手法です。
+ハック用の基板はオープンソースで開発されており、RTC、3軸加速度センサー、気圧・緯度経度・温度センサー、3つのマイクロモーター駆動回路を搭載しており、時計に必要な機能はそろっています。
+スマートウォッチは面白いガジェットですが、各社独自の基板・ファームウェアで、改造するのが難しいところがあるので、このようなオープンソースの試みは面白そうです。
+ </description>
+    </item>
     
     <item>
       <title>LinuxベースのスマートウォッチPineTime</title>
