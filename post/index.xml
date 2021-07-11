@@ -5,10 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 08 Jul 2021 12:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jul 2021 10:00:58 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3Dプリンタ製のカリンバ自動演奏装置</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%AB%E3%83%AA%E3%83%B3%E3%83%90%E8%87%AA%E5%8B%95%E6%BC%94%E5%A5%8F%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Sun, 11 Jul 2021 10:00:58 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%AB%E3%83%AA%E3%83%B3%E3%83%90%E8%87%AA%E5%8B%95%E6%BC%94%E5%A5%8F%E8%A3%85%E7%BD%AE/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/auto-kalimba-v2.png"&gt;SELF-PLAYING KALIMBA V2 THANKS TO READERS LIKE YOUから発見。画像もここから転載。
+カリンバを自動演奏する装置を考えてみてください。真っ先に思いつくのはサーボモーターをカリンバの筐体に取り付け、そのモーターを回転させてカリンバの鍵盤を弾くというものです。
+この作者も初めはこの方法で自動演奏装置を作ったようですが、カリンバ本体にサーボモーターをマウントするとモーターの駆動音までが、カリンバの筐体に響いてしまうという問題と、弾けるピンの数がモーターの置き場所の問題で限られてしまうという2つの問題に遭遇してしまいました。
+そこでこの作者はサーボモーターをカリンバに対して垂直に固定した筐体に取り付け、ラックとピニオンギアを利用して上下するラックを使い鍵盤を弾くようなカリンバの自動演奏装置を作成しました。
+その見た目はまるでパイプオルガンのようで、前述した2つの問題を見事に解決しています。
+ </description>
+    </item>
     
     <item>
       <title>LEDの点滅を利用して水滴を自由に操るガジェット</title>
