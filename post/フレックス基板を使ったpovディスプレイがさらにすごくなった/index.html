@@ -8,12 +8,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>
       
-  良いArduinoライブラリを書くためのTips集 &ndash; inajobのいろいろレビュー
+  フレックス基板を使ったPOVディスプレイがさらにすごくなった &ndash; inajobのいろいろレビュー
 
     </title>
     
     
-    <meta name="description" property="og:description" content="数多くのArduinoライブラリを作っているSparkfunによる良いArduinoライブラリ作成のためのTips集です。|">
+    <meta name="description" property="og:description" content="以前紹介した フレキシブル基板自体が振動するPOVディスプレイがさらにバージョンアップしたようなので紹介します。|">
     
 
     <meta name="apple-mobile-web-app-title" content="inajobのいろいろレビュー">
@@ -22,16 +22,16 @@
     
     
 
-    <meta property="og:title" content="良いArduinoライブラリを書くためのTips集 | inajobのいろいろレビュー">
-    <meta property="og:description" content="数多くのArduinoライブラリを作っているSparkfunによる良いArduinoライブラリ作成のためのTips集です。|">
+    <meta property="og:title" content="フレックス基板を使ったPOVディスプレイがさらにすごくなった | inajobのいろいろレビュー">
+    <meta property="og:description" content="以前紹介した フレキシブル基板自体が振動するPOVディスプレイがさらにバージョンアップしたようなので紹介します。|">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@ina_ani">
     <meta name="twitter:creator" content="@ina_ani">
-    <meta name="twitter:title" content="良いArduinoライブラリを書くためのTips集 | inajobのいろいろレビュー">
-    <meta name="twitter:description" content="数多くのArduinoライブラリを作っているSparkfunによる良いArduinoライブラリ作成のためのTips集です。|">
+    <meta name="twitter:title" content="フレックス基板を使ったPOVディスプレイがさらにすごくなった | inajobのいろいろレビュー">
+    <meta name="twitter:description" content="以前紹介した フレキシブル基板自体が振動するPOVディスプレイがさらにバージョンアップしたようなので紹介します。|">
     
-    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/how-to-write-a-great-arduino-library.png">
-    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/how-to-write-a-great-arduino-library.png">
+    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/flexpov-v2.jpg">
+    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/flexpov-v2.jpg">
     
     
     <meta name="google-site-verification" content="Wjrrx4mV4IokyVrRy-5rjpG1sfwkjQ-uVRiXhMMXhW8" />
@@ -100,7 +100,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 <div class="Subhead">
   <div class="Subhead-heading">
-    <div class="h1 mt-3 mb-1">良いArduinoライブラリを書くためのTips集</div>
+    <div class="h1 mt-3 mb-1">フレックス基板を使ったPOVディスプレイがさらにすごくなった</div>
   </div>
   <div class="Subhead-description">
     
@@ -108,17 +108,17 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 
 
-<a href='/iroiro-review/tags/arduino' class="muted-link">
-  <span class="Label" style="background-color:#0099dd;">Arduino</span>
+<a href='/iroiro-review/tags/%E3%83%95%E3%83%AC%E3%82%AD%E3%82%B7%E3%83%96%E3%83%AB%E5%9F%BA%E6%9D%BF' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">フレキシブル基板</span>
 </a>
 
 
 
     
     <div class="float-md-right">
-      <span title="Lastmod: 2021-07-13. Published at: 2021-07-13.">
+      <span title="Lastmod: 2021-07-14. Published at: 2021-07-14.">
         
-          Published: 2021-07-13
+          Published: 2021-07-14
         
       </span>
     </div>
@@ -128,42 +128,29 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <article>
   
   <section class="pb-6 mb-3 border-bottom">
-    <img src="https://inajob.github.io/iroiro-review/img/how-to-write-a-great-arduino-library.png" />
-    <p><a href="https://www.sparkfun.com/news/3245">How to Write A Great Arduino Library</a>から発見。画像もここから転載。</p>
-<p>Arduinoのプログラムを書いたことはありますか？ ではライブラリはどうでしょう？</p>
-<p>マイナーなセンサーモジュールや、自分独自のモジュールのためにArduino用のライブラリを作るというのは良い試みです。</p>
-<p>しかし、このライブラリ、如何様にでもかけてしまうがために、その設計や細かい使い勝手をどのように作りこむかを悩んでしまいます。</p>
-<p>そんな悩みに答えてくれるのがこの記事です。</p>
-<p>Arduino向けの大量のモジュールとそのライブライを提供しているSpackfunの経験知を凝縮したTips集となっています。</p>
-<p>ボーレートは115200が良い、とかString型をむやみに使わない、ユーザが利用するコードがトリッキーに見えないようにする、などArduinoのライブラリを書く際に気を付ける点が簡潔にまとめられています。</p>
+    <img src="https://inajob.github.io/iroiro-review/img/flexpov-v2.jpg" />
+    <p><a href="https://hackaday.com/2020/02/28/latest-flexled-milestone-refines-the-pov-display/">LATEST FLEXLED MILESTONE REFINES THE POV DISPLAY</a>から発見。画像もここから転載。</p>
+<p><a href="../../post/%E3%83%95%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%E5%9F%BA%E6%9D%BF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E8%87%AA%E8%BA%AB%E3%81%A7%E6%8C%AF%E5%8B%95%E3%81%99%E3%82%8Bpov%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/">以前一度紹介したフレキシブル基板を使った、基板自身が振動するPOVディスプレイの作例</a>ですが、これがバージョンアップしたようなので紹介します。</p>
+<p>以前は1つのフルカラーLEDが上下に振動することで1列のPOVディスプレイを形成していましたが、V2ではこれが8列になり、簡単な文字やアイコンを表示できるようになりました。</p>
+<p>簡単な仕組みを応用してどんどん実用的になっていくところを見ると、この技術は結構今後も進化していくのでは？とワクワクします。</p>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/wM_Byrv9iBI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   </section>
 
   
-  <a href="/iroiro-review/post/%E6%AE%B5%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%92%E6%80%9D%E3%81%84%E3%81%AE%E3%81%BE%E3%81%BE%E3%81%AB%E3%82%AB%E3%83%83%E3%83%88%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E5%87%BA%E6%9D%A5%E3%82%8Bcnc%E3%83%9E%E3%82%B7%E3%83%B3/">
+  <a href="/iroiro-review/post/%E8%89%AF%E3%81%84arduino%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%82%92%E6%9B%B8%E3%81%8F%E3%81%9F%E3%82%81%E3%81%AEtips%E9%9B%86/">
     <div class="box-shadow-medium mb-3 bg-blue-light border border-blue" style="height:122px;">
         <div style="float:left;">
-          <img class="rect" src="https://inajob.github.io/iroiro-review/img/tock_side_by_side.png" />
+          <img class="rect" src="https://inajob.github.io/iroiro-review/img/how-to-write-a-great-arduino-library.png" />
         </div>
 
         <div class="pb-2 pt-2 px-3" style="margin-left:122px;">
-          ← 前の記事 - 段ボールを思いのままにカットすることが出来るCNCマシン
+          ← 前の記事 - 良いArduinoライブラリを書くためのTips集
         </div>
     </div>
   </a>
   
 
-  
-  <a href="/iroiro-review/post/%E3%83%95%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%E5%9F%BA%E6%9D%BF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fpov%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%81%8C%E3%81%95%E3%82%89%E3%81%AB%E3%81%99%E3%81%94%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F/">
-    <div class="box-shadow-medium mb-3 bg-blue-light border border-blue" style="height:122px;">
-      <div style="float:left;">
-        <img class="rect" src="https://inajob.github.io/iroiro-review/img/flexpov-v2.jpg" />
-      </div>
-      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
-        次の記事 - フレックス基板を使ったPOVディスプレイがさらにすごくなった →
-      </div>
-    </div>
-  </a>
   
 
   
@@ -171,57 +158,46 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <h3>関連記事</h3>
 <div>
   
-  <a href="/iroiro-review/post/%E6%97%A2%E8%A3%BD%E5%93%81%E3%81%AE%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%83%89%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E3%82%92arduino%E5%8C%96%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%9C%E3%83%BC%E3%83%89/">
+  <a href="/iroiro-review/post/%E5%BD%A2%E7%8A%B6%E8%A8%98%E6%86%B6%E5%90%88%E9%87%91%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E6%AD%A9%E3%81%8F%E5%9F%BA%E6%9D%BF/">
     <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
       <div style="float:left;">
-        <img class="rect" src="https://inajob.github.io/iroiro-review/img/open-chronograph.png" />
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/walking-board.jpg" />
       </div>
       <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
-        既製品のハイブリッドスマートウォッチをArduino化するためのボード
+        形状記憶合金を利用した「歩く基板」
       </div>
     </div>
   </a>
   
-  <a href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%8A/">
+  <a href="/iroiro-review/post/%E3%83%95%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%E5%9F%BA%E6%9D%BF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E8%87%AA%E8%BA%AB%E3%81%A7%E6%8C%AF%E5%8B%95%E3%81%99%E3%82%8Bpov%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/">
     <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
       <div style="float:left;">
-        <img class="rect" src="https://inajob.github.io/iroiro-review/img/3dprinted-3dscanner.png" />
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/flex-pov.jpg" />
       </div>
       <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
-        3Dプリンタで作った3Dスキャナ
+        フレックス基板を使った自身で振動するPOVディスプレイ
       </div>
     </div>
   </a>
   
-  <a href="/iroiro-review/post/arduino%E3%81%A7%E3%81%A4%E3%81%8F%E3%82%8B%E5%9B%9E%E8%BB%A2%E6%95%B0%E6%B8%AC%E5%AE%9A%E5%99%A8%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9/">
+  <a href="/iroiro-review/post/%E3%83%95%E3%83%AC%E3%82%AD%E3%82%B7%E3%83%96%E3%83%AB%E5%9F%BA%E6%9D%BF%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%83%81%E3%82%A7%E3%83%83%E3%82%AB%E3%83%BC/">
     <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
       <div style="float:left;">
-        <img class="rect" src="https://inajob.github.io/iroiro-review/img/tachometer.jpg" />
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/floppy-tester.jpg" />
       </div>
       <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
-        Arduinoでつくる回転数測定器と3Dプリンタ製のケース
+        フレキシブル基板を活用したバッテリーチェッカー
       </div>
     </div>
   </a>
   
-  <a href="/iroiro-review/post/arduino%E3%81%AEpwm%E3%82%92%E8%A6%96%E8%A6%9A%E7%9A%84%E3%81%AB%E8%A8%AD%E5%AE%9A%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%84%E3%83%BC%E3%83%AB/">
+  <a href="/iroiro-review/post/%E3%83%95%E3%83%AC%E3%82%AD%E3%82%B7%E3%83%96%E3%83%AB%E5%9F%BA%E6%9D%BF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E8%A1%A8%E7%A4%BA%E6%A9%9F%E4%BB%98%E3%81%8D%E3%81%AE%E6%8C%87%E8%BC%AA/">
     <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
       <div style="float:left;">
-        <img class="rect" src="https://inajob.github.io/iroiro-review/img/rtm_timercalc.jpg" />
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/flex-led-ring.png" />
       </div>
       <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
-        ArduinoのPWMを視覚的に設定できるツール
-      </div>
-    </div>
-  </a>
-  
-  <a href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%E4%BB%98%E3%81%8D%E3%81%AE%E5%B0%8F%E5%9E%8B%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/">
-    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
-      <div style="float:left;">
-        <img class="rect" src="https://inajob.github.io/iroiro-review/img/ardugrip.jpg" />
-      </div>
-      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
-        3Dプリンタ製のグリップ付きの小型ゲーム機
+        フレキシブル基板を使ったドットマトリクス表示機付きの指輪
       </div>
     </div>
   </a>
@@ -252,7 +228,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           }(document, 'script', 'facebook-jssdk'));</script>
 
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/%E8%89%AF%E3%81%84arduino%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%82%92%E6%9B%B8%E3%81%8F%E3%81%9F%E3%82%81%E3%81%AEtips%E9%9B%86/" 
+            data-href="/iroiro-review/post/%E3%83%95%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%E5%9F%BA%E6%9D%BF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fpov%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%81%8C%E3%81%95%E3%82%89%E3%81%AB%E3%81%99%E3%81%94%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F/" 
             data-layout="button_count">
           </div>
         
@@ -285,7 +261,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           
   
     <div id="toc" class="Box Box--blue mb-3">
-      <b>良いArduinoライブラリを書くためのTips集</b>
+      <b>フレックス基板を使ったPOVディスプレイがさらにすごくなった</b>
       <nav id="TableOfContents"></nav>
     </div>
   
@@ -301,7 +277,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
         
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/%E8%89%AF%E3%81%84arduino%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%82%92%E6%9B%B8%E3%81%8F%E3%81%9F%E3%82%81%E3%81%AEtips%E9%9B%86/" 
+            data-href="/iroiro-review/post/%E3%83%95%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%E5%9F%BA%E6%9D%BF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fpov%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%81%8C%E3%81%95%E3%82%89%E3%81%AB%E3%81%99%E3%81%94%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F/" 
             data-layout="button_count">
           </div>
         
