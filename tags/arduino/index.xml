@@ -5,10 +5,24 @@
     <description>Recent content in Arduino on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 15 Jul 2021 11:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jul 2021 11:00:10 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ATmega328Pを使ったシリアル接続のキーパッド</title>
+      <link>https://inajob.github.io/iroiro-review/post/atmega328p%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%AB%E6%8E%A5%E7%B6%9A%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%91%E3%83%83%E3%83%89/</link>
+      <pubDate>Sun, 18 Jul 2021 11:00:10 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/atmega328p%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%AB%E6%8E%A5%E7%B6%9A%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%91%E3%83%83%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/macro-keypad.jpg"&gt;Ardu Keyboardから発見。画像もここから転載。
+Arduinoを使ってUSBキーボードを作るという事例は星の数ほどありますが、それらはATmega32u4にUSB HIDのファームウェアを焼きこんで作られているものがほとんどです。 この方法も、今やかなり簡単に実現することが出来ますが、ファームウェアの部分が複雑ですし、安価なマイコンでは利用できません。
+そこでこの記事では、ATmega328Pを利用してシリアル接続のキーパッドを作成しています。 しかし、シリアル接続のキーパッドは、シリアルコンソールで入力を確認できますが、USB HID接続のようにパソコンに接続したキーボードのように利用することはできません。
+Ardu Keyboardが工夫しているのはこれからです。PyAutoGUIというPythonのライブラリを使ったプログラムをPC上で動作させ、シリアル接続で得たキー入力の情報をOSにキーストロークとして送信します。
+この方式を使えば、パソコン側に専用ソフトを入れる必要があるものの、シリアル接続さえできればどんなに低スペックなマイコンでもパソコン用の入力装置を作ることが出来ます。
+ </description>
+    </item>
     
     <item>
       <title>ArduinoNanoと簡単な部品で作ったテトリスの動くテレビゲーム機</title>
