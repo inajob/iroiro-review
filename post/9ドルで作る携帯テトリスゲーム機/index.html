@@ -8,12 +8,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>
       
-  ATmega328Pを使ったシリアル接続のキーパッド &ndash; inajobのいろいろレビュー
+  9ドルで作る携帯テトリスゲーム機 &ndash; inajobのいろいろレビュー
 
     </title>
     
     
-    <meta name="description" property="og:description" content="ATmega328Pをつかったシリアル接続のキーパッドの作例を紹介します。|">
+    <meta name="description" property="og:description" content="9ドルで作ることが出来る携帯テトリスゲーム機の作例を紹介します。|">
     
 
     <meta name="apple-mobile-web-app-title" content="inajobのいろいろレビュー">
@@ -22,16 +22,16 @@
     
     
 
-    <meta property="og:title" content="ATmega328Pを使ったシリアル接続のキーパッド | inajobのいろいろレビュー">
-    <meta property="og:description" content="ATmega328Pをつかったシリアル接続のキーパッドの作例を紹介します。|">
+    <meta property="og:title" content="9ドルで作る携帯テトリスゲーム機 | inajobのいろいろレビュー">
+    <meta property="og:description" content="9ドルで作ることが出来る携帯テトリスゲーム機の作例を紹介します。|">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@ina_ani">
     <meta name="twitter:creator" content="@ina_ani">
-    <meta name="twitter:title" content="ATmega328Pを使ったシリアル接続のキーパッド | inajobのいろいろレビュー">
-    <meta name="twitter:description" content="ATmega328Pをつかったシリアル接続のキーパッドの作例を紹介します。|">
+    <meta name="twitter:title" content="9ドルで作る携帯テトリスゲーム機 | inajobのいろいろレビュー">
+    <meta name="twitter:description" content="9ドルで作ることが出来る携帯テトリスゲーム機の作例を紹介します。|">
     
-    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/macro-keypad.jpg">
-    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/macro-keypad.jpg">
+    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/cheap-tetris.jpg">
+    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/cheap-tetris.jpg">
     
     
     <meta name="google-site-verification" content="Wjrrx4mV4IokyVrRy-5rjpG1sfwkjQ-uVRiXhMMXhW8" />
@@ -100,7 +100,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 <div class="Subhead">
   <div class="Subhead-heading">
-    <div class="h1 mt-3 mb-1">ATmega328Pを使ったシリアル接続のキーパッド</div>
+    <div class="h1 mt-3 mb-1">9ドルで作る携帯テトリスゲーム機</div>
   </div>
   <div class="Subhead-description">
     
@@ -112,13 +112,17 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
   <span class="Label" style="background-color:#0099dd;">Arduino</span>
 </a>
 
+<a href='/iroiro-review/tags/%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">ゲーム機</span>
+</a>
+
 
 
     
     <div class="float-md-right">
-      <span title="Lastmod: 2021-07-18. Published at: 2021-07-18.">
+      <span title="Lastmod: 2021-07-19. Published at: 2021-07-19.">
         
-          Published: 2021-07-18
+          Published: 2021-07-19
         
       </span>
     </div>
@@ -128,43 +132,28 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <article>
   
   <section class="pb-6 mb-3 border-bottom">
-    <img src="https://inajob.github.io/iroiro-review/img/macro-keypad.jpg" />
-    <p><a href="https://hackaday.io/project/170092-ardu-keyboard">Ardu Keyboard</a>から発見。画像もここから転載。</p>
-<p>Arduinoを使ってUSBキーボードを作るという事例は星の数ほどありますが、それらはATmega32u4にUSB HIDのファームウェアを焼きこんで作られているものがほとんどです。
-この方法も、今やかなり簡単に実現することが出来ますが、ファームウェアの部分が複雑ですし、安価なマイコンでは利用できません。</p>
-<p>そこでこの記事では、ATmega328Pを利用してシリアル接続のキーパッドを作成しています。
-しかし、シリアル接続のキーパッドは、シリアルコンソールで入力を確認できますが、USB HID接続のようにパソコンに接続したキーボードのように利用することはできません。</p>
-<p>Ardu Keyboardが工夫しているのはこれからです。<a href="https://pyautogui.readthedocs.io/en/latest/">PyAutoGUI</a>というPythonのライブラリを使ったプログラムをPC上で動作させ、シリアル接続で得たキー入力の情報をOSにキーストロークとして送信します。</p>
-<p>この方式を使えば、パソコン側に専用ソフトを入れる必要があるものの、シリアル接続さえできればどんなに低スペックなマイコンでもパソコン用の入力装置を作ることが出来ます。</p>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/4IlrUkVi8kw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <img src="https://inajob.github.io/iroiro-review/img/cheap-tetris.jpg" />
+    <p><a href="https://hackaday.com/2020/02/28/casual-tetris-comes-in-at-9/">CASUAL TETRIS COMES IN AT $9</a>から発見。画像もここから転載。</p>
+<p>Arduino Pro Miniと 128x64のOLEDを利用して作った、テトリスゲーム機です。</p>
+<p>改めて部品の値段を確認すると$9程度で揃えることが出来そうです。この構成であればテトリスと言わずArduboyとほぼ同等のゲームが動作するはずなので、自分のオリジナルのゲームを作ってみるのも面白いのではないでしょうか？</p>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/M9i8AJsRqG0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   </section>
 
   
-  <a href="/iroiro-review/post/arduinonano%E3%81%A8%E7%B0%A1%E5%8D%98%E3%81%AA%E9%83%A8%E5%93%81%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9%E3%81%AE%E5%8B%95%E3%81%8F%E3%83%86%E3%83%AC%E3%83%93%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/">
+  <a href="/iroiro-review/post/atmega328p%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%AB%E6%8E%A5%E7%B6%9A%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%91%E3%83%83%E3%83%89/">
     <div class="box-shadow-medium mb-3 bg-blue-light border border-blue" style="height:122px;">
         <div style="float:left;">
-          <img class="rect" src="https://inajob.github.io/iroiro-review/img/nano-video-game.jpg" />
+          <img class="rect" src="https://inajob.github.io/iroiro-review/img/macro-keypad.jpg" />
         </div>
 
         <div class="pb-2 pt-2 px-3" style="margin-left:122px;">
-          ← 前の記事 - ArduinoNanoと簡単な部品で作ったテトリスの動くテレビゲーム機
+          ← 前の記事 - ATmega328Pを使ったシリアル接続のキーパッド
         </div>
     </div>
   </a>
   
 
-  
-  <a href="/iroiro-review/post/9%E3%83%89%E3%83%AB%E3%81%A7%E4%BD%9C%E3%82%8B%E6%90%BA%E5%B8%AF%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/">
-    <div class="box-shadow-medium mb-3 bg-blue-light border border-blue" style="height:122px;">
-      <div style="float:left;">
-        <img class="rect" src="https://inajob.github.io/iroiro-review/img/cheap-tetris.jpg" />
-      </div>
-      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
-        次の記事 - 9ドルで作る携帯テトリスゲーム機 →
-      </div>
-    </div>
-  </a>
   
 
   
@@ -183,46 +172,46 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
     </div>
   </a>
   
-  <a href="/iroiro-review/post/%E8%89%AF%E3%81%84arduino%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%82%92%E6%9B%B8%E3%81%8F%E3%81%9F%E3%82%81%E3%81%AEtips%E9%9B%86/">
+  <a href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%E4%BB%98%E3%81%8D%E3%81%AE%E5%B0%8F%E5%9E%8B%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/">
     <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
       <div style="float:left;">
-        <img class="rect" src="https://inajob.github.io/iroiro-review/img/how-to-write-a-great-arduino-library.png" />
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/ardugrip.jpg" />
       </div>
       <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
-        良いArduinoライブラリを書くためのTips集
+        3Dプリンタ製のグリップ付きの小型ゲーム機
       </div>
     </div>
   </a>
   
-  <a href="/iroiro-review/post/%E6%97%A2%E8%A3%BD%E5%93%81%E3%81%AE%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%83%89%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E3%82%92arduino%E5%8C%96%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%9C%E3%83%BC%E3%83%89/">
+  <a href="/iroiro-review/post/%E5%A4%A7%E3%81%8D%E3%81%AA%E3%82%B8%E3%83%A7%E3%82%B0%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AB%E4%BB%98%E3%81%8D%E3%81%AE8x8%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/">
     <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
       <div style="float:left;">
-        <img class="rect" src="https://inajob.github.io/iroiro-review/img/open-chronograph.png" />
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/big-dial-game.jpg" />
       </div>
       <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
-        既製品のハイブリッドスマートウォッチをArduino化するためのボード
+        大きなジョグダイアル付きの8x8マトリクスLEDゲーム機
       </div>
     </div>
   </a>
   
-  <a href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%8A/">
+  <a href="/iroiro-review/post/m5stack%E3%82%92%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E9%A2%A8%E3%81%AB%E5%A4%89%E8%BA%AB%E3%81%95%E3%81%9B%E3%82%8B%E8%A3%8F%E6%8A%80/">
     <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
       <div style="float:left;">
-        <img class="rect" src="https://inajob.github.io/iroiro-review/img/3dprinted-3dscanner.png" />
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/esplora-x.jpg" />
       </div>
       <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
-        3Dプリンタで作った3Dスキャナ
+        M5Stackをゲーム機風に変身させる裏技
       </div>
     </div>
   </a>
   
-  <a href="/iroiro-review/post/arduino%E3%81%A7%E3%81%A4%E3%81%8F%E3%82%8B%E5%9B%9E%E8%BB%A2%E6%95%B0%E6%B8%AC%E5%AE%9A%E5%99%A8%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9/">
+  <a href="/iroiro-review/post/atmega328p%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%AB%E6%8E%A5%E7%B6%9A%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%91%E3%83%83%E3%83%89/">
     <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
       <div style="float:left;">
-        <img class="rect" src="https://inajob.github.io/iroiro-review/img/tachometer.jpg" />
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/macro-keypad.jpg" />
       </div>
       <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
-        Arduinoでつくる回転数測定器と3Dプリンタ製のケース
+        ATmega328Pを使ったシリアル接続のキーパッド
       </div>
     </div>
   </a>
@@ -253,7 +242,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           }(document, 'script', 'facebook-jssdk'));</script>
 
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/atmega328p%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%AB%E6%8E%A5%E7%B6%9A%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%91%E3%83%83%E3%83%89/" 
+            data-href="/iroiro-review/post/9%E3%83%89%E3%83%AB%E3%81%A7%E4%BD%9C%E3%82%8B%E6%90%BA%E5%B8%AF%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/" 
             data-layout="button_count">
           </div>
         
@@ -286,7 +275,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           
   
     <div id="toc" class="Box Box--blue mb-3">
-      <b>ATmega328Pを使ったシリアル接続のキーパッド</b>
+      <b>9ドルで作る携帯テトリスゲーム機</b>
       <nav id="TableOfContents"></nav>
     </div>
   
@@ -302,7 +291,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
         
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/atmega328p%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%AB%E6%8E%A5%E7%B6%9A%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%91%E3%83%83%E3%83%89/" 
+            data-href="/iroiro-review/post/9%E3%83%89%E3%83%AB%E3%81%A7%E4%BD%9C%E3%82%8B%E6%90%BA%E5%B8%AF%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/" 
             data-layout="button_count">
           </div>
         
