@@ -5,10 +5,23 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 07 Jul 2021 11:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jul 2021 11:00:07 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>壊れたラップトップをディスプレイ一体型のデスクトップPCに作り直す</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%A3%8A%E3%82%8C%E3%81%9F%E3%83%A9%E3%83%83%E3%83%97%E3%83%88%E3%83%83%E3%83%97%E3%82%92%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E4%B8%80%E4%BD%93%E5%9E%8B%E3%81%AE%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97pc%E3%81%AB%E4%BD%9C%E3%82%8A%E7%9B%B4%E3%81%99/</link>
+      <pubDate>Thu, 29 Jul 2021 11:00:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%A3%8A%E3%82%8C%E3%81%9F%E3%83%A9%E3%83%83%E3%83%97%E3%83%88%E3%83%83%E3%83%97%E3%82%92%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E4%B8%80%E4%BD%93%E5%9E%8B%E3%81%AE%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97pc%E3%81%AB%E4%BD%9C%E3%82%8A%E7%9B%B4%E3%81%99/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/allinone-recyled-laptop.jpg"&gt;SMASHED LAPTOP BECOMES STYLISH ALL-IN-ONEから発見。画像もここから転載。
+ディスプレイだけが壊れてしまったノートPCを流用してディスプレイ一体型のデスクトップPCを作っている手法を紹介している記事です。
+ここで利用しているAsusのディスプレイはディスプレイの上半分がスリム型になっており、その部分にノートPCのマザーボードを仕込んでいます。
+金属パネルの加工や、MDFの加工など高度なDIY技術が必要ですが、非常に完成度が高く仕上がっています。
+ </description>
+    </item>
     
     <item>
       <title>既製品のハイブリッドスマートウォッチをArduino化するためのボード</title>
