@@ -8,12 +8,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>
       
-  ブレッドボードの電源ラインにかかっている電圧を表示するモジュール &ndash; inajobのいろいろレビュー
+  ESP8266を使ってブレッドボード上に作られたゲーム機 &ndash; inajobのいろいろレビュー
 
     </title>
     
     
-    <meta name="description" property="og:description" content="ブレッドボードの電源ラインにかかっている電圧を表示するモジュールを紹介します。|">
+    <meta name="description" property="og:description" content="ESP8266を使ってブレッドボード上に作られたゲーム機の作例を紹介します。|">
     
 
     <meta name="apple-mobile-web-app-title" content="inajobのいろいろレビュー">
@@ -22,16 +22,16 @@
     
     
 
-    <meta property="og:title" content="ブレッドボードの電源ラインにかかっている電圧を表示するモジュール | inajobのいろいろレビュー">
-    <meta property="og:description" content="ブレッドボードの電源ラインにかかっている電圧を表示するモジュールを紹介します。|">
+    <meta property="og:title" content="ESP8266を使ってブレッドボード上に作られたゲーム機 | inajobのいろいろレビュー">
+    <meta property="og:description" content="ESP8266を使ってブレッドボード上に作られたゲーム機の作例を紹介します。|">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@ina_ani">
     <meta name="twitter:creator" content="@ina_ani">
-    <meta name="twitter:title" content="ブレッドボードの電源ラインにかかっている電圧を表示するモジュール | inajobのいろいろレビュー">
-    <meta name="twitter:description" content="ブレッドボードの電源ラインにかかっている電圧を表示するモジュールを紹介します。|">
+    <meta name="twitter:title" content="ESP8266を使ってブレッドボード上に作られたゲーム機 | inajobのいろいろレビュー">
+    <meta name="twitter:description" content="ESP8266を使ってブレッドボード上に作られたゲーム機の作例を紹介します。|">
     
-    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/bbvolmeter.jpg">
-    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/bbvolmeter.jpg">
+    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/esp-duck-hunt.png">
+    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/esp-duck-hunt.png">
     
     
     <meta name="google-site-verification" content="Wjrrx4mV4IokyVrRy-5rjpG1sfwkjQ-uVRiXhMMXhW8" />
@@ -100,7 +100,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 <div class="Subhead">
   <div class="Subhead-heading">
-    <div class="h1 mt-3 mb-1">ブレッドボードの電源ラインにかかっている電圧を表示するモジュール</div>
+    <div class="h1 mt-3 mb-1">ESP8266を使ってブレッドボード上に作られたゲーム機</div>
   </div>
   <div class="Subhead-description">
     
@@ -108,17 +108,21 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
 
 
-<a href='/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89' class="muted-link">
-  <span class="Label" style="background-color:#0099dd;">開発ボード</span>
+<a href='/iroiro-review/tags/esp8266' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">ESP8266</span>
+</a>
+
+<a href='/iroiro-review/tags/%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">ゲーム機</span>
 </a>
 
 
 
     
     <div class="float-md-right">
-      <span title="Lastmod: 2021-08-02. Published at: 2021-08-02.">
+      <span title="Lastmod: 2021-08-03. Published at: 2021-08-03.">
         
-          Published: 2021-08-02
+          Published: 2021-08-03
         
       </span>
     </div>
@@ -128,39 +132,30 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <article>
   
   <section class="pb-6 mb-3 border-bottom">
-    <img src="https://inajob.github.io/iroiro-review/img/bbvolmeter.jpg" />
-    <p><a href="https://hackaday.io/project/177768-breadboard-voltmeter">Breadboard Voltmeter</a>から発見。画像もここから転載。</p>
-<p>複数の電圧を扱う回路をブレッドボードで扱う際に、電圧を勘違いして部品を壊したことはありませんか？</p>
-<p>この記事で紹介しているのは、ブレッドボードの電源ラインに取り付けるだけで、電圧を示してくれるモジュールです。</p>
-<p>ATtiny85を利用し、レギュレーターで電圧を落としてADCで電圧を読み取って電圧に対応したLEDを光らせるといった実装になっているようです。</p>
+    <img src="https://inajob.github.io/iroiro-review/img/esp-duck-hunt.png" />
+    <p><a href="https://hackaday.com/2020/03/08/tiny-duck-hunt-looks-like-big-fun/">TINY DUCK HUNT LOOKS LIKE BIG FUN</a>から発見。画像もここから転載。</p>
+<p>ESP8266は価格が500円にもかかわらずパワフルなMCUです。WiFiが使えるチップですがそれを使わないとしても十分にコストパフォーマンスが良いです。</p>
+<p>この記事では白黒のディスプレイを搭載したモバイルゲーム機を作っています。ESP8266の性能があれば速度もメモリも十分足りるでしょう。</p>
+<p>日本で利用できるESP8266のボードは技適の関係上ESP-WROOM-02のみであることには注意が必要です。</p>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=inajob-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00ZWS8L3I&linkId=72fada3bf0b5e77b765561a1724489e5"></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/vSvZcdnIoog" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   </section>
 
   
-  <a href="/iroiro-review/post/%E5%A3%8A%E3%82%8C%E3%81%9F%E3%83%A9%E3%83%83%E3%83%97%E3%83%88%E3%83%83%E3%83%97%E3%82%92%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E4%B8%80%E4%BD%93%E5%9E%8B%E3%81%AE%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97pc%E3%81%AB%E4%BD%9C%E3%82%8A%E7%9B%B4%E3%81%99/">
+  <a href="/iroiro-review/post/%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AE%E9%9B%BB%E6%BA%90%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AB%E3%81%8B%E3%81%8B%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E9%9B%BB%E5%9C%A7%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/">
     <div class="box-shadow-medium mb-3 bg-blue-light border border-blue" style="height:122px;">
         <div style="float:left;">
-          <img class="rect" src="https://inajob.github.io/iroiro-review/img/allinone-recyled-laptop.jpg" />
+          <img class="rect" src="https://inajob.github.io/iroiro-review/img/bbvolmeter.jpg" />
         </div>
 
         <div class="pb-2 pt-2 px-3" style="margin-left:122px;">
-          ← 前の記事 - 壊れたラップトップをディスプレイ一体型のデスクトップPCに作り直す
+          ← 前の記事 - ブレッドボードの電源ラインにかかっている電圧を表示するモジュール
         </div>
     </div>
   </a>
   
 
-  
-  <a href="/iroiro-review/post/esp8266%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E4%B8%8A%E3%81%AB%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/">
-    <div class="box-shadow-medium mb-3 bg-blue-light border border-blue" style="height:122px;">
-      <div style="float:left;">
-        <img class="rect" src="https://inajob.github.io/iroiro-review/img/esp-duck-hunt.png" />
-      </div>
-      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
-        次の記事 - ESP8266を使ってブレッドボード上に作られたゲーム機 →
-      </div>
-    </div>
-  </a>
   
 
   
@@ -168,57 +163,57 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <h3>関連記事</h3>
 <div>
   
-  <a href="/iroiro-review/post/ft232h%E3%82%92%E4%BD%BF%E3%81%84%E5%80%92%E3%81%99%E3%81%9F%E3%82%81%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/">
+  <a href="/iroiro-review/post/esp8266%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%B0%8F%E5%9E%8B%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/">
     <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
       <div style="float:left;">
-        <img class="rect" src="https://inajob.github.io/iroiro-review/img/shukran.jpg" />
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/espboy.jpg" />
       </div>
       <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
-        FT232Hを使い倒すための開発ボード
+        ESP8266を使った小型のゲーム機”ESPboy.edu”
       </div>
     </div>
   </a>
   
-  <a href="/iroiro-review/post/%E5%B0%8F%E3%81%95%E3%81%84atmega32u4%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/">
+  <a href="/iroiro-review/post/esp8266%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fmicropython%E3%81%A7%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%8C%E4%BD%9C%E3%82%8C%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/">
     <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
       <div style="float:left;">
-        <img class="rect" src="https://inajob.github.io/iroiro-review/img/atto-pinout.png" />
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/gamer-gorl.jpg" />
       </div>
       <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
-        小さいATmega32U4モジュール
+        ESP8266を使ったMicroPythonでゲームが作れるゲーム機
       </div>
     </div>
   </a>
   
-  <a href="/iroiro-review/post/arduino%E3%81%AE%E6%9C%80%E9%AB%98%E5%B3%B0%E3%83%9C%E3%83%BC%E3%83%89portenta-h7/">
+  <a href="/iroiro-review/post/9%E3%83%89%E3%83%AB%E3%81%A7%E4%BD%9C%E3%82%8B%E6%90%BA%E5%B8%AF%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/">
     <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
       <div style="float:left;">
-        <img class="rect" src="https://inajob.github.io/iroiro-review/img/portenta.jpg" />
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/cheap-tetris.jpg" />
       </div>
       <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
-        Arduinoの最高峰ボード「PORTENTA H7」
+        9ドルで作る携帯テトリスゲーム機
       </div>
     </div>
   </a>
   
-  <a href="/iroiro-review/post/%E5%B0%8F%E5%9E%8B%E3%81%AE%E3%83%91%E3%83%AF%E3%83%95%E3%83%AB%E3%81%AAcortex-m0%E3%83%9C%E3%83%BC%E3%83%89seeduino-xiao/">
+  <a href="/iroiro-review/post/arduinonano%E3%81%A8%E7%B0%A1%E5%8D%98%E3%81%AA%E9%83%A8%E5%93%81%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9%E3%81%AE%E5%8B%95%E3%81%8F%E3%83%86%E3%83%AC%E3%83%93%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/">
     <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
       <div style="float:left;">
-        <img class="rect" src="https://inajob.github.io/iroiro-review/img/seeeduino-xiao.jpg" />
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/nano-video-game.jpg" />
       </div>
       <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
-        小型のパワフルなCortex-M0ボードSeeduino XIAO
+        ArduinoNanoと簡単な部品で作ったテトリスの動くテレビゲーム機
       </div>
     </div>
   </a>
   
-  <a href="/iroiro-review/post/stm32f030%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%B0%8F%E5%9E%8B%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/">
+  <a href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%E4%BB%98%E3%81%8D%E3%81%AE%E5%B0%8F%E5%9E%8B%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/">
     <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
       <div style="float:left;">
-        <img class="rect" src="https://inajob.github.io/iroiro-review/img/pinky32.jpg" />
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/ardugrip.jpg" />
       </div>
       <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
-        STM32F030を使った小型の開発ボード
+        3Dプリンタ製のグリップ付きの小型ゲーム機
       </div>
     </div>
   </a>
@@ -249,7 +244,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           }(document, 'script', 'facebook-jssdk'));</script>
 
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AE%E9%9B%BB%E6%BA%90%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AB%E3%81%8B%E3%81%8B%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E9%9B%BB%E5%9C%A7%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/" 
+            data-href="/iroiro-review/post/esp8266%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E4%B8%8A%E3%81%AB%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/" 
             data-layout="button_count">
           </div>
         
@@ -282,7 +277,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
           
   
     <div id="toc" class="Box Box--blue mb-3">
-      <b>ブレッドボードの電源ラインにかかっている電圧を表示するモジュール</b>
+      <b>ESP8266を使ってブレッドボード上に作られたゲーム機</b>
       <nav id="TableOfContents"></nav>
     </div>
   
@@ -298,7 +293,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 
         
           <div class="fb-share-button" 
-            data-href="/iroiro-review/post/%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AE%E9%9B%BB%E6%BA%90%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AB%E3%81%8B%E3%81%8B%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E9%9B%BB%E5%9C%A7%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/" 
+            data-href="/iroiro-review/post/esp8266%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E4%B8%8A%E3%81%AB%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/" 
             data-layout="button_count">
           </div>
         
