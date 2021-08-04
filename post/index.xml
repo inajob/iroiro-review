@@ -5,10 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 03 Aug 2021 11:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Aug 2021 23:00:45 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>世界崩壊後に役立つRaspberryPiコンソール</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E4%B8%96%E7%95%8C%E5%B4%A9%E5%A3%8A%E5%BE%8C%E3%81%AB%E5%BD%B9%E7%AB%8B%E3%81%A4raspberrypi%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Wed, 04 Aug 2021 23:00:45 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E4%B8%96%E7%95%8C%E5%B4%A9%E5%A3%8A%E5%BE%8C%E3%81%AB%E5%BD%B9%E7%AB%8B%E3%81%A4raspberrypi%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/picrash.jpg"&gt;SURVIVING THE APOCALYPSE WITH A BRIEFCASE FULL OF PIから発見。画像もここから転載。
+この記事で紹介しているのはRaspberryPiコンソールですが、そのコンセプトがユニークです。
+世界崩壊後を意識しているというこのRaspberryPiコンソールは、バッテリー搭載はもちろんのこと、様々な電源ソースから稼働できるようになっており、その中にはサバイバルガイドや農業のためのドキュメント、Wikipediaの全データなどが収められています。
+こういうコンセプトがしっかりとした作例は特徴があって面白いですね。
+ </description>
+    </item>
     
     <item>
       <title>ESP8266を使ってブレッドボード上に作られたゲーム機</title>
