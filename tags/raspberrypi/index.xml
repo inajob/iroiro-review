@@ -5,10 +5,39 @@
     <description>Recent content in RaspberryPi on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 04 Aug 2021 23:00:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Aug 2021 13:00:02 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/raspberrypi/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Raspberry Pi以外でも大活躍の5.5インチ高解像度ディスプレイモジュール</title>
+      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi%E4%BB%A5%E5%A4%96%E3%81%A7%E3%82%82%E5%A4%A7%E6%B4%BB%E8%BA%8D%E3%81%AE5-5%E3%82%A4%E3%83%B3%E3%83%81%E9%AB%98%E8%A7%A3%E5%83%8F%E5%BA%A6%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Thu, 05 Aug 2021 13:00:02 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi%E4%BB%A5%E5%A4%96%E3%81%A7%E3%82%82%E5%A4%A7%E6%B4%BB%E8%BA%8D%E3%81%AE5-5%E3%82%A4%E3%83%B3%E3%83%81%E9%AB%98%E8%A7%A3%E5%83%8F%E5%BA%A6%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/wareshare-5-5-cover.png"&gt;この記事はBanggoodの提供でお届けします。
+以前紹介したようにこのブログはBanggoodと提携させていただいており、今回紹介するWareshare® 5.5 Inch AMOLED HDMI Displayも、Banggoodからいただいたものとなります。（Wareshare® 5.5 Inch AMOLED HDMI Displayのレビューがしたい！と言ったのは自分なので、Banggoodが無理やりこの商品を押しているわけではなく、inajobの一押しアイテム！、という感じです。）
+Wareshare® 5.5 Inch AMOLED HDMI Display とは いわゆるRaspberry Pi用のHDMIディスプレイです。特筆すべきは1080×1920という高解像度です。 加えて静電容量タッチセンサーにより、画面を触ることでPCの操作ができます。
+この高解像度でありながら、ディスプレイのサイズは5.5インチと小型で、まるでスマートフォンのディスプレイのようです。（というかスマートフォンのディスプレイを転用してこの製品を作ったように見えます。)
+付属品 必要なものはだいたい入っています
+ HDMIケーブル USBケーブル コの字型HDMI端子 2種 コの字型USB端子 2種 ディスプレイ固定用スペーサー  Raspberry Piと接続してみる まずは看板通りRaspberry Piにつなげてみます。説明書には「driver free」と書かれていますが、少しだけ設定が必要です。
+手元にはRaspberry Pi3 B+があったのでそれで試しましたが、最新のRaspberry Pi 4Bや 小型のRaspberry Pi Zeroなどとも接続できるようです。
+設定は本家のWikiに書かれていますが、/boot/config.txtに設定を少しだけ書く必要があります。
+付属品のコの字型のHDMIと、USB端子を使うことで、「スマートフォン」とまではいきませんが、非常にコンパクトにRaspberry Piと接続することが出来ます。
+高解像度ディスプレイなので、かなり細かい情報を表示することが出来ます。
+ただしRaspberryPiの標準のデスクトップはマウスで操作するように作られているため、タッチパネルでの操作は非常に困難でした。これ専用のアプリケーションを書く必要があるでしょう。
+WindowsノートPCと接続してみる 次にWindowsノートPCに接続してみました。なんと、何も設定せずとも認識してくれました。
+ちょうどサブディスプレイが欲しかったので、手元の3Dプリンタを使ってノートPCのモニタの上に載せられるようにしてみました。
+(再生している動画はこちら https://www.youtube.com/watch?v=TLkA0RELQ1g )
+Twitterを表示してみた例（ちょっと小さくて読みづらいかな）
+裏面はこんな感じです。
+シンデレラフィット！ と言いたくなるような使い勝手です。
+個人的にはこのディスプレイはRaspberry Piとつなげるよりも、普段使いのノートPCのサブディスプレイにするのにちょうど良さそうです。
+（一方手元のMacBookにHDMIで接続してみましたがうまく認識されませんでした。）
+基板をよく見てみる ディスプレイについては、全くの無知ですが、一応むき出しの基板に乗っているICを見てみました。
+  TOSHIBA 358779XBG</description>
+    </item>
     
     <item>
       <title>世界崩壊後に役立つRaspberryPiコンソール</title>
