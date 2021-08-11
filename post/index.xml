@@ -5,10 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 10 Aug 2021 13:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Aug 2021 11:00:32 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>モバイルゲーム機PewPewの液晶付きバージョン「PewPew M4」</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9Fpewpew%E3%81%AE%E6%B6%B2%E6%99%B6%E4%BB%98%E3%81%8D%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3pewpew-m4/</link>
+      <pubDate>Wed, 11 Aug 2021 11:00:32 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9Fpewpew%E3%81%AE%E6%B6%B2%E6%99%B6%E4%BB%98%E3%81%8D%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3pewpew-m4/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/pewpew-m4.jpg"&gt;PewPew M4から発見。画像もここから転載。
+以前もPewPewシリーズのゲーム機を紹介しましたが、そちらはマトリクスLEDを使ったもので、今回紹介するのは液晶画面を搭載したものです。
+コアとなるCPUはSAMD51で、安心の乾電池駆動となっており、レーザーカッターで作られたフロントパネルがカッコいいです。 タクトスイッチカバーとして、レーザーカットされたキャップを粘着テープで貼るだけというシンプルなキーキャップの実装方法は「それで良いんだ！」という驚きがありました。
+こちらから結構安くで購入もできるようです。
+ </description>
+    </item>
     
     <item>
       <title>使いやすそうな小型のATSAMD21の開発ボード</title>
