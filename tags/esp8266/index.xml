@@ -5,10 +5,24 @@
     <description>Recent content in ESP8266 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 15 Aug 2021 22:00:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Aug 2021 11:00:41 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/esp8266/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>アボカドの食べごろを調べるためのガジェット</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%83%9C%E3%82%AB%E3%83%89%E3%81%AE%E9%A3%9F%E3%81%B9%E3%81%94%E3%82%8D%E3%82%92%E8%AA%BF%E3%81%B9%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
+      <pubDate>Thu, 19 Aug 2021 11:00:41 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%83%9C%E3%82%AB%E3%83%89%E3%81%AE%E9%A3%9F%E3%81%B9%E3%81%94%E3%82%8D%E3%82%92%E8%AA%BF%E3%81%B9%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/avoripe.jpg"&gt;AvoRipe - Checking If Your Avocado Is Ripeから発見。画像もここから転載。
+アボカドはもはやメジャーになった食材ですが、その食べごろが結構難しい食べ物です。
+この記事で紹介しているのは、そんな「アボカドの食べごろ」を計測してくれるガジェットです。
+TCS3200という色センサーと、圧力センサーを組み合わせる事で、 「色」「固さ」の2つの側面から「アボカドの食べごろ」を教えてくれます。
+コアとなっているのはESP8266です。これによりWiFi経由で測定データを転送することもできるようです。
+</description>
+    </item>
     
     <item>
       <title>ESP8266用ゲーム開発環境</title>
