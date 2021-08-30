@@ -5,10 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 29 Aug 2021 11:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Aug 2021 12:00:09 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>USB Type-C端子に直接挿せる開発ボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/usb-type-c%E7%AB%AF%E5%AD%90%E3%81%AB%E7%9B%B4%E6%8E%A5%E6%8C%BF%E3%81%9B%E3%82%8B%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Mon, 30 Aug 2021 12:00:09 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/usb-type-c%E7%AB%AF%E5%AD%90%E3%81%AB%E7%9B%B4%E6%8E%A5%E6%8C%BF%E3%81%9B%E3%82%8B%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/usb-c-dixi.jpg"&gt;USB-C DiXi - arduino ARM SAM D11 USB stickから発見。画像もここから転載。
+ATSAMD11を搭載したシンプルな開発ボードです。基板上にUSB Type-Cのパターンが形成されており、基板をそのままUSB Typc-Cポートに刺すことが出来る設計が面白いです。 プログラムメモリは16KB、SRAMは4KBと性能も十分です。
+端子はI2Cとシリアル、電源とリセットしか出ていないので注意が必要です。</description>
+    </item>
     
     <item>
       <title>シンプルなOLED搭載のESP32開発ボード</title>
