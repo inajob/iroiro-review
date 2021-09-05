@@ -5,10 +5,21 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 24 Aug 2021 11:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Sep 2021 23:33:42 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>光造形式の3Dプリンタでプリント基板のステンシルを作成する</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%85%89%E9%80%A0%E5%BD%A2%E5%BC%8F%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%9F%BA%E6%9D%BF%E3%81%AE%E3%82%B9%E3%83%86%E3%83%B3%E3%82%B7%E3%83%AB%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B/</link>
+      <pubDate>Sun, 05 Sep 2021 23:33:42 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%85%89%E9%80%A0%E5%BD%A2%E5%BC%8F%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%9F%BA%E6%9D%BF%E3%81%AE%E3%82%B9%E3%83%86%E3%83%B3%E3%82%B7%E3%83%AB%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/sla-stencil.jpg"&gt;Printing Solder Paste Stencils on an SLA Printerから発見。画像もここから転載。
+表面実装パーツを搭載するプリント基板にはんだペーストを載せるために便利な「ステンシル」を光造形式の3Dプリンタで自作するという試みです。 光造形式3Dプリンタのディスプレイを保護するためのガラスを外す改造を施すことで、XY面の精度を向上させ、この細かい造形を実現しています。
+市販品のステンシルよりは劣りますが、自宅で簡単にステンシルが作成できるというのは魅力的です。</description>
+    </item>
     
     <item>
       <title>棚にもなる大きな7セグメントLED</title>
