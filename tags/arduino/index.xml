@@ -5,10 +5,24 @@
     <description>Recent content in Arduino on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 02 Sep 2021 10:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Sep 2021 12:00:36 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arduinoで作るボーカルエフェクタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/arduino%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%9C%E3%83%BC%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%82%BF/</link>
+      <pubDate>Tue, 07 Sep 2021 12:00:36 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/arduino%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%9C%E3%83%BC%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/arduino-voice-effector.jpg"&gt;Arduino Vocal Effects Boxから発見。画像もここから転載（CC BY-NC-SA By amandaghassaei）。
+ボーカルエフェクトと聞くとパワフルなCPUがないと実現できないイメージがありますが、8bitの世界でも実装できるようです。
+もちろんそのサウンドは8ビット特有のピコピコ感のあるものですが、逆にそういう味のあるサウンドが欲しいときもあります。
+この記事柄はArduinoを使ったボーカルエフェクタの作例を紹介しています。
+マイクの入力を取得し、Arduinoでエフェクトをかけ、再びオーディオ信号として出力する回路とソースコードを丁寧に紹介しています。 動画のエフェクトのデモが非常に短いので、どのようなエフェクトになるのかは、ちょっとよくわからないですが、きっと8ビット音楽が好きな人が気に入るサウンドとなるでしょう。
+ </description>
+    </item>
     
     <item>
       <title>Arduinoとサーボモーターを使った自動アルコールディスペンサー</title>
