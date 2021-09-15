@@ -5,10 +5,23 @@
     <description>Recent content in STM32 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 01 Feb 2021 11:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Sep 2021 13:00:34 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/stm32/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>バッテリーチャージャーを搭載した18650サイズのマイコンボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F18650%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Wed, 15 Sep 2021 13:00:34 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F18650%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/thunderpack.jpg"&gt;Thunder Packから発見。画像もここから転載。
+プロトタイピングから実際の製品に落とし込んでいく中で「バッテリー」が必要となるフェーズが出てきたときに、いくつかのモジュールを組み合わせてバッテリー駆動の実験を行うことはよくあります。
+しかし、プロトタイピングボードにバッテリーの充電機能が付いていればどうでしょう？
+この記事で紹介しているマイコンボードはSTM32チップを搭載し、充電IC、USB端子、フラッシュメモリ、18650バッテリーをマウントするための金具・・と、ちょっとしたガジェットを作る際に必要な機能がすべて実装済みです。
+携帯型のガジェットを試作する際などに非常に役に立ちそうな開発ボードだと感じました。</description>
+    </item>
     
     <item>
       <title>液晶とキーボード付きのSTM32とESP32を搭載した端末</title>
