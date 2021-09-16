@@ -5,10 +5,28 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 15 Sep 2021 13:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Sep 2021 11:00:29 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DIY</title>
+      <link>https://inajob.github.io/iroiro-review/tags/diy/</link>
+      <pubDate>Thu, 16 Sep 2021 11:00:29 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/diy/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>コロナ対策</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E3%82%B3%E3%83%AD%E3%83%8A%E5%AF%BE%E7%AD%96/</link>
+      <pubDate>Thu, 16 Sep 2021 11:00:29 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E3%82%B3%E3%83%AD%E3%83%8A%E5%AF%BE%E7%AD%96/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>STM32</title>
@@ -421,15 +439,6 @@
       <pubDate>Thu, 17 Jun 2021 11:00:30 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/%E6%B6%B2%E6%99%B6/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>DIY</title>
-      <link>https://inajob.github.io/iroiro-review/tags/diy/</link>
-      <pubDate>Tue, 15 Jun 2021 11:30:19 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/diy/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
