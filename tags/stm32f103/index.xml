@@ -1,0 +1,28 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>STM32F103 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/stm32f103/</link>
+    <description>Recent content in STM32F103 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Tue, 21 Sep 2021 11:30:38 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/stm32f103/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BluePillボードを用いた暗号生成・復号専用ガジェット</title>
+      <link>https://inajob.github.io/iroiro-review/post/bluepill%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E6%9A%97%E5%8F%B7%E7%94%9F%E6%88%90%E5%BE%A9%E5%8F%B7%E5%B0%82%E7%94%A8%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
+      <pubDate>Tue, 21 Sep 2021 11:30:38 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/bluepill%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E6%9A%97%E5%8F%B7%E7%94%9F%E6%88%90%E5%BE%A9%E5%8F%B7%E5%B0%82%E7%94%A8%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/paranoiabox.jpg"&gt;ParanoiaBoxから発見。画像もここから転載。
+いわゆるBluePillボードを使って作られた、暗号生成・復号機です。 コンポジット出力とPS/2入力端子が搭載されており、これだけで英文テキストの入力から暗号化、そして復号化をサポートしています。
+マイクロSDカードスロットが2基搭載されており、片方はプレインテキスト用で、もう片方が暗号化テキスト用のものとなっています。
+暗号化のために必要な疑似乱数の生成のために、トランジスタ2つで構成されたハードウェア乱数生成器を用いているのも特徴です。
+必要最小限の構成にすることで、攻撃の可能性を小さく抑えるというアプローチのようです。</description>
+    </item>
+    
+  </channel>
+</rss>
+
