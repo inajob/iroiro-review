@@ -5,10 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 21 Sep 2021 11:30:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Sep 2021 12:30:14 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3Dプリンタ製のアクションフィギュア</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2/</link>
+      <pubDate>Thu, 23 Sep 2021 12:30:14 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/action-figure.jpg"&gt;Action Figure Projectから発見。画像もここから転載。
+3Dプリンタで作られたアクションフィギュアです。
+関節部分はねじ止めしているようで、あまり長く使うと緩くなってしまいそうですが、3Dプリンタ製なので、壊れたらまた作ればよいのです。
+3Dプリンタがあればこのようなアクションフィギュアは比較的簡単に作れるので、未知の生物の骨格のアクションフィギュアなどをつくると、今までになかった創作の手助けになりそうです。</description>
+    </item>
     
     <item>
       <title>BluePillボードを用いた暗号生成・復号専用ガジェット</title>
