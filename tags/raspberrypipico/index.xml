@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RaspberryPiPico on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/raspberrypipico/</link>
+    <description>Recent content in RaspberryPiPico on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Tue, 28 Sep 2021 13:00:36 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/raspberrypipico/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Raspberry Pi PicoのためのJavaScriptエンジン</title>
+      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AEjavascript%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3/</link>
+      <pubDate>Tue, 28 Sep 2021 13:00:36 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AEjavascript%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/kaluma.png"&gt;Kalumaから発見。画像もここから転載。
+Rasberry Pi Picoは比較的パワフルなマイコンモジュールです。開発には通常C/C++言語を用いますが、このスペックがあればスクリプト言語も動作させることが出来ます。
+KalumaはRaspberryPiPicoの用のJavaScriptランタイムです。ブラウザ上で動作するIDEも提供されており、まるでWebサービスを開発するかのようにマイコンボードのプログラミングができます。
+ランタイムコアにはJerryScriptを用いているようです。</description>
+    </item>
+    
+  </channel>
+</rss>
+
