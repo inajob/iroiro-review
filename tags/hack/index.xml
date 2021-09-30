@@ -5,10 +5,24 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 17 Aug 2021 12:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Sep 2021 11:00:33 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>磁石の力でバッタのようにジャンプする基板</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%A3%81%E7%9F%B3%E3%81%AE%E5%8A%9B%E3%81%A7%E3%83%90%E3%83%83%E3%82%BF%E3%81%AE%E7%94%A8%E3%81%AB%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%81%99%E3%82%8B%E5%9F%BA%E6%9D%BF/</link>
+      <pubDate>Thu, 30 Sep 2021 11:00:33 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%A3%81%E7%9F%B3%E3%81%AE%E5%8A%9B%E3%81%A7%E3%83%90%E3%83%83%E3%82%BF%E3%81%AE%E7%94%A8%E3%81%AB%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%81%99%E3%82%8B%E5%9F%BA%E6%9D%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/jumpcb.jpg"&gt;MAGNETS TURN FLEXIBLE PCB INTO ELECTRIC GRASSHOPPERから発見。画像もここから転載。
+一般的なプリント基板だけでなく、フレキシブル基板も安くで作ることが出来る時代となりましたが、フレキシブル基板ならではの作例というものはどんなものがあるでしょうか？
+もちろんその薄さや柔軟さを生かして、スリムなガジェットに利用するという、王道な使い方もありますが、この記事で紹介している事例はちょっと違います。
+フレキシブル基板上にコイルを作り、電流を流すことで磁力を発生させます。基板を輪っか状にして、コイルの反対側に永久磁石を配置することで、基板のしなりを利用してバッタのように飛び跳ねるという面白い動きを実現しています。
+これ単品ではすぐに役立つことは無いですが、このアイデアを応用した新しい「何か」が発明されるかもしれません。
+</description>
+    </item>
     
     <item>
       <title>気象衛星の通信データをSDRで受信する</title>
