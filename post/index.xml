@@ -5,10 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 05 Oct 2021 22:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Oct 2021 23:00:56 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>カプトンテープを使ってエッチング基板用のソルダーマスクを作る</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%97%E3%83%88%E3%83%B3%E3%83%86%E3%83%BC%E3%83%97%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%82%A8%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E5%9F%BA%E6%9D%BF%E7%94%A8%E3%81%AE%E3%82%BD%E3%83%AB%E3%83%80%E3%83%BC%E3%83%9E%E3%82%B9%E3%82%AF%E3%82%92%E4%BD%9C%E3%82%8B/</link>
+      <pubDate>Thu, 07 Oct 2021 23:00:56 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%97%E3%83%88%E3%83%B3%E3%83%86%E3%83%BC%E3%83%97%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%82%A8%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E5%9F%BA%E6%9D%BF%E7%94%A8%E3%81%AE%E3%82%BD%E3%83%AB%E3%83%80%E3%83%BC%E3%83%9E%E3%82%B9%E3%82%AF%E3%82%92%E4%BD%9C%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/diy-soldermask.jpg"&gt;TinyDice: Professional PCBs at Home With Vinyl Cutterから発見。画像もここから転載（CC BY-NC-SA By Emiliano Valencia）。
+自分でプリント基板を作る方法はいくつかありますが、よく見るのは「エッチング」する方式です。 この方法でそれっぽいプリント基板は作れますが、ソルダーマスクがありません。
+この記事ではカプトンテープを利用してソルダーマスクを自作する方法を紹介しています。
+カプトンテープの加工にはカッティングプロッタを利用しています。はんだペーストをマスクするためのステンシルもカッティングプロッタで作っています。
+この方法を使うとご家庭でもそれっぽいプリント基板っぽいものを作ることが出来そうです。 基板生成のお供にカッティングプロッタ、意外とよさそうです。
+</description>
+    </item>
     
     <item>
       <title>ATTinyを使った暇つぶし電子工作のススメ</title>
