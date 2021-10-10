@@ -5,10 +5,22 @@
     <description>Recent content in 音楽 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 07 Sep 2021 12:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Oct 2021 12:30:17 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%9F%B3%E6%A5%BD/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>興味深い自作の電子楽器</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%88%88%E5%91%B3%E6%B7%B1%E3%81%84%E8%87%AA%E4%BD%9C%E3%81%AE%E9%9B%BB%E5%AD%90%E6%A5%BD%E5%99%A8/</link>
+      <pubDate>Sun, 10 Oct 2021 12:30:17 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%88%88%E5%91%B3%E6%B7%B1%E3%81%84%E8%87%AA%E4%BD%9C%E3%81%AE%E9%9B%BB%E5%AD%90%E6%A5%BD%E5%99%A8/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ondophone.png"&gt;ONDOPHONE ON POINTから発見。画像もここから転載。
+ONDOPHONEと呼ばれる自作の電子楽器の紹介です。
+新しい楽器というだけあって、一言では説明しづらい構造をしていますが、一種の弦楽器です。 弦をばね仕掛けのハンマーで連打したり、電磁石で弦を振動させて音を鳴らし続けたりすることが出来るようです。
+デモ動画の演奏が非常によくできているので必見です。</description>
+    </item>
     
     <item>
       <title>Arduinoで作るボーカルエフェクタ</title>
