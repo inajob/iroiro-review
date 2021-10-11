@@ -5,10 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 10 Oct 2021 12:30:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Oct 2021 12:00:05 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DIPサイズのATTINY3217開発ボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/dip%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AEattiny3217%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Mon, 11 Oct 2021 12:00:05 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/dip%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AEattiny3217%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/dily3217.jpg"&gt;Dily3217 mini ATtiny3217 development breakout board in DIL24から発見。画像もここから転載。
+ATtiny3217というICを使った開発ボードです。聞きなれない型番ですが、Arduino UNOなどに使われているATmega328Pとほぼ同じ性能です。32KのROMに2KのRAM、GPIOが21個、さらにATmega328には無かった8bit DACの機能も搭載されています。
+開発ボードの真ん中に一列にふらふらとピンが並んでいますが、このフラフラした並びがポイントで、これによりピンヘッダをはんだ付けせずに固定することが出来るようです。簡易的に書き込み装置をつなげる場合に便利に利用できます。
+水晶発振子は搭載されていないので、クロックの精度が悪いので注意が必要です。</description>
+    </item>
     
     <item>
       <title>興味深い自作の電子楽器</title>
