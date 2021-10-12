@@ -5,10 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 11 Oct 2021 12:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Oct 2021 12:00:23 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>$1の激安マイコンの詳細な比較</title>
+      <link>https://inajob.github.io/iroiro-review/post/1%E4%BB%A5%E4%B8%8B%E3%81%AE%E6%BF%80%E5%AE%89%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3%E3%81%AE%E8%A9%B3%E7%B4%B0%E3%81%AA%E6%AF%94%E8%BC%83/</link>
+      <pubDate>Tue, 12 Oct 2021 12:00:23 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/1%E4%BB%A5%E4%B8%8B%E3%81%AE%E6%BF%80%E5%AE%89%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3%E3%81%AE%E8%A9%B3%E7%B4%B0%E3%81%AA%E6%AF%94%E8%BC%83/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/one-doller-mcu.png"&gt;THE AMAZING $1 MICROCONTROLLERから発見。画像もここから転載。
+21種類もの$1程度の激安マイコンを紹介した記事です。
+紹介しているマイコンは
+ ATMEL TINYAVR, ATtiny1616 ATMEL MEGAAVR, ATmega168PB ATMEL SAM D10, ATSAMD10D14A CYPRESS PSOC 4000S, CY8C4024LQI FREESCALE KE04, MKE04Z8VTG4 FREESCALE KL03, MKL03Z8VFG4 HOLTEK HT-66, HT66F0185 INFINEON XMC1100, XMC1100T016X0016 MICROCHIP PIC16, PIC16LF18325 MICROCHIP PIC24, PIC24F04KL100 MICROCHIP PIC32MM, PIC32MM0064 NUVOTON N76, N76E003AT20 NUVOTON M051, M052LDN RENESAS RL-78, R5F102A8ASP NXP LPC811, LPC811M001JDH16 SANYO LC87, LC87F1M16 ST STM8, STM8S103F3P6 SILICON LABS EFM8, EFM8LB11 ST STM32F0, STM32F030F4P6 STMICRO STC8, STC8A8K64S4A12 TI MSP430, MSP430FR2111  と様々なメーカーのものです。</description>
+    </item>
     
     <item>
       <title>DIPサイズのATTINY3217開発ボード</title>
