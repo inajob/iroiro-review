@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 27 Oct 2021 10:00:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Oct 2021 11:00:52 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>横にどんどんつなげられる7セグメントLEDモジュール</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%A8%AA%E3%81%AB%E3%81%A9%E3%82%93%E3%81%A9%E3%82%93%E3%81%A4%E3%81%AA%E3%81%92%E3%82%89%E3%82%8C%E3%82%8B7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88led%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Thu, 28 Oct 2021 11:00:52 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%A8%AA%E3%81%AB%E3%81%A9%E3%82%93%E3%81%A9%E3%82%93%E3%81%A4%E3%81%AA%E3%81%92%E3%82%89%E3%82%8C%E3%82%8B7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88led%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/inteligent-7-seg.jpg"&gt;Intelligent 7-Segment Displayから発見。画像もここから転載。
+7セグメントLEDにマイコンをくっつけて簡単に制御できるようにしたモジュールです。これを実現するには様々なコントローラICを使った例がありますが、この記事で紹介しているのは 「PADAUK PFS154-S16」という激安ICを使った作例です。
+このモジュールを横にどんどんつなげることで、簡単に桁を増やすことができるようになっており、モジュール間のプロトコルも自身で設計しているようです。
+（調べると昨今の半導体不足の影響からか「PADAUK PFS154-S16」も入手が難しそうです、、残念）</description>
+    </item>
     
     <item>
       <title>今日の曜日を教えてくれるガジェット</title>
@@ -128,19 +140,6 @@ Electronic Mini LCD Digital Scaleをカートに入れ、チェックアウト�
 パカパカを文字とマッピングするために「モールスコード」を利用しています。
 これを実現するためのシェルスクリプトがGitHubで公開されているため、誰でも試すことが出来ます。
 世の中色々なことを試す人がいますね。</description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタ製の1つの大きな7セグメントLEDによる時計</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE1%E3%81%A4%E3%81%AE%E5%A4%A7%E3%81%8D%E3%81%AA7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88led%E3%81%AB%E3%82%88%E3%82%8B%E6%99%82%E8%A8%88/</link>
-      <pubDate>Thu, 14 Oct 2021 11:00:57 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE1%E3%81%A4%E3%81%AE%E5%A4%A7%E3%81%8D%E3%81%AA7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88led%E3%81%AB%E3%82%88%E3%82%8B%E6%99%82%E8%A8%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/single-7seg-clock.jpg"&gt;DIY 3D Printed Single Digit Arduino Clockから発見。画像もここから転載。
-3Dプリンタで作られた大きな1つの7セグメントLEDを使った時計です。
-時計を表示するには時、分など複数の7セグメントLEDを使いますが、この作品では、数字を順番に表示することで1つの7セグメントLEDだけで時計を実現しています。
-3Dプリンタとシリアル制御のLEDを組み合わせて作られた7セグメントLEDの完成度も高く、インテリアとしても面白い作品となっています。
-</description>
     </item>
     
   </channel>
