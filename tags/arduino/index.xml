@@ -10,15 +10,14 @@
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Arduino互換のMIDIキーボード</title>
+      <title>Arduino互換のキーボード</title>
       <link>https://inajob.github.io/iroiro-review/post/arduino%E4%BA%92%E6%8F%9B%E3%81%AEmidi%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
       <pubDate>Sun, 31 Oct 2021 11:00:12 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/arduino%E4%BA%92%E6%8F%9B%E3%81%AEmidi%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/arduino-midi-keyboard.jpg"&gt;Mini-Tone Keyboard Badgeから発見。画像もここから転載。
-Arduino互換の2.5オクターブ鍵盤を搭載したMIDIキーボードの作例です。 CPUはATMega328PB、USBシリアル変換ICにはCH340Gと、よく見かける格安Arduinoと同じ構成になっています。
-3.5mmオーディオジャックや、スピーカーも搭載され、スタンドアローンでも動作するように工夫されています。
-</description>
+Arduino互換の2.5オクターブ鍵盤を搭載したキーボードの作例です。 CPUはATMega328PB、USBシリアル変換ICにはCH340Gと、よく見かける格安Arduinoと同じ構成になっています。
+3.5mmオーディオジャックや、スピーカーも搭載され、スタンドアローンでも動作するように工夫されています。</description>
     </item>
     
     <item>
