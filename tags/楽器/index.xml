@@ -5,9 +5,21 @@
     <description>Recent content in 楽器 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 20 Oct 2021 11:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Oct 2021 11:00:12 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%A5%BD%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Arduino互換のMIDIキーボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/arduino%E4%BA%92%E6%8F%9B%E3%81%AEmidi%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Sun, 31 Oct 2021 11:00:12 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/arduino%E4%BA%92%E6%8F%9B%E3%81%AEmidi%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/arduino-midi-keyboard.jpg"&gt;Mini-Tone Keyboard Badgeから発見。画像もここから転載。
+Arduino互換の2.5オクターブ鍵盤を搭載したMIDIキーボードの作例です。 CPUはATMega328PB、USBシリアル変換ICにはCH340Gと、よく見かける格安Arduinoと同じ構成になっています。
+3.5mmオーディオジャックや、スピーカーも搭載され、スタンドアローンでも動作するように工夫されています。
+</description>
+    </item>
     
     <item>
       <title>教会のパイプオルガンにMIDI入力がある</title>
@@ -117,21 +129,6 @@ Arduinoでサーボモーターを制御して、PVCパイプで作成したフ�
 見た目からしてかっこいい シンセサイザーです。 ELZ_1というシンセサイザーを作っているチームの新作です。
  ELZ_1よりは低価格路線での販売を考えているようですが、8bitのかっこいいサウンドを使ってライブ作曲が実用的にできるマシンのように見えます。
 こちらから購入できるようです。
- </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタを使った自作スタイロフォン</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E8%87%AA%E4%BD%9C%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AD%E3%83%95%E3%82%A9%E3%83%B3/</link>
-      <pubDate>Sat, 11 Jul 2020 23:00:14 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E8%87%AA%E4%BD%9C%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AD%E3%83%95%E3%82%A9%E3%83%B3/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/diy-stylophone.jpg"&gt;Retro Stylophone (NE555 Based)から発見。画像もここから転載（CC BY-NC-SA By Xaver Schrems）
-電子楽器のはしりである「スタイロフォン」の自作版です。
-スタイロフォンは、ペンで操作する電子楽器です。鍵盤のようなパターンの端子に金属製のペンを当てると、鍵盤に応じた音が再生されるという単純な仕組みの楽器ですが、ペンを滑らせることで独特のメロディを奏でることができます。
-PCBが簡単に発注できる今、スタイロフォンを作るのは難しくありません。ケースについても3Dプリンタでうまく作っています。
-音はマイコンを使わずシンプルな555タイマーで実現しています。
-↓動画は音だけですが、いい感じです。
  </description>
     </item>
     
