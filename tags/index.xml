@@ -5,9 +5,27 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 02 Nov 2021 23:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Nov 2021 22:00:55 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>LoRa</title>
+      <link>https://inajob.github.io/iroiro-review/tags/lora/</link>
+      <pubDate>Wed, 03 Nov 2021 22:00:55 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/lora/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>SAMD21</title>
+      <link>https://inajob.github.io/iroiro-review/tags/samd21/</link>
+      <pubDate>Wed, 03 Nov 2021 22:00:55 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/samd21/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>ESP32</title>
@@ -78,24 +96,6 @@
       <pubDate>Wed, 27 Oct 2021 10:00:56 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/esp8266/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>サーボモーター</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E3%82%B5%E3%83%BC%E3%83%9C%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC/</link>
-      <pubDate>Wed, 27 Oct 2021 10:00:56 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E3%82%B5%E3%83%BC%E3%83%9C%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>HACK</title>
-      <link>https://inajob.github.io/iroiro-review/tags/hack/</link>
-      <pubDate>Mon, 25 Oct 2021 22:00:14 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/hack/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
