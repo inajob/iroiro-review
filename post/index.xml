@@ -5,9 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 04 Nov 2021 11:00:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Nov 2021 23:00:54 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタのスパイラルモードで高速にケースを作る技</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%82%B9%E3%83%91%E3%82%A4%E3%83%A9%E3%83%AB%E3%83%A2%E3%83%BC%E3%83%89%E3%81%A7%E9%AB%98%E9%80%9F%E3%81%AB%E3%82%B1%E3%83%BC%E3%82%B9%E3%82%92%E4%BD%9C%E3%82%8B%E6%8A%80/</link>
+      <pubDate>Sun, 07 Nov 2021 23:00:54 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%82%B9%E3%83%91%E3%82%A4%E3%83%A9%E3%83%AB%E3%83%A2%E3%83%BC%E3%83%89%E3%81%A7%E9%AB%98%E9%80%9F%E3%81%AB%E3%82%B1%E3%83%BC%E3%82%B9%E3%82%92%E4%BD%9C%E3%82%8B%E6%8A%80/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/spiralmode-tips.jpg"&gt;Fast 3D printed boxesから発見。画像もここから転載。
+3Dプリンタで高速に造形するテクニックの一つである「スパイラルモード」を活用する例です。
+この記事では、親指くらいのサイズのケースを「スパイラルモード」を使って造形する際のTipsを紹介しています。
+スパイラルモードでは、一筆書きにフィラメントを出し続けて造形を行うため、様々な制限が発生します。
+その制限の1つは壁の厚さです。この記事ではノズルの径である0.4mmに対して0.8mmの厚さの壁が作れたと記載されています。（プリンタの特性に寄りそうですが・・）
+また、スパイラルモードでは、ケースの側面に穴をあけることもできませんが、この記事では、穴の部分を少し内側に窪ませて造形し、造形後にカッターでその窪みを削る取ることで、側面の穴を実現しています。
+この手法により2時間近くかかっていた造形時間がたったの18分に短縮できたそうです。</description>
+    </item>
     
     <item>
       <title>5つのキーボードスイッチorロータリエンコーダが搭載できるマクロパッド</title>
@@ -117,27 +132,6 @@ Arduinoと加速度センサーを用いてジャンプを検出し、キーボ�
 通常ステッピングモーターは内蔵しているコイルに電流を流すことで、モーターを回転させますが、手で軸を回転させた際にコイルに生じる電力を読み取ることで、回転した角度を読み取ることができるという事のようです。
 まぁ、ロータリーエンコーダを買えば良いのでしょうけど、何かに使えそうなHACKです。
 </description>
-    </item>
-    
-    <item>
-      <title>個数もカウントできるバッテリー内蔵の小型の電子はかり</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%80%8B%E6%95%B0%E3%82%82%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E5%86%85%E8%94%B5%E3%81%AE%E5%B0%8F%E5%9E%8B%E3%81%AE%E9%9B%BB%E5%AD%90%E8%A8%88%E3%82%8A/</link>
-      <pubDate>Sun, 24 Oct 2021 10:00:10 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%80%8B%E6%95%B0%E3%82%82%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E5%86%85%E8%94%B5%E3%81%AE%E5%B0%8F%E5%9E%8B%E3%81%AE%E9%9B%BB%E5%AD%90%E8%A8%88%E3%82%8A/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/electronic-mini-digital-scale-cover.png"&gt;この記事はBanggoodの提供でお届けします。
-以前紹介したようにこのブログはBanggoodと提携させていただいており、今回紹介する500g 0.01 Electronic Mini LCD Digital DIY Jewelry Scale(以下 「Electronic Mini LCD Digital Scale」)も、Banggoodからいただいたものとなります。（Electronic Mini LCD Digital Scaleのレビューがしたい！と言ったのは自分なので、Banggoodが無理やりこの商品を押しているわけではなく、inajobの一押しアイテム！、という感じです。）
-Electronic Mini LCD Digital Scale とは 精密な電子計りです。コンパクトな作りですが意外と多機能です。
- 最大500gまで計ることが出来、有効精度は0.01g 単4電池2本 またはUSBによる充電の2系統の電源をサポート g/oz/tl/gn/ct と様々な単位に対応 1個当たりの重さを登録することで、それが何個乗っているかを計る「カウント機能」（ただし最低でも25個乗せてサンプリングする必要がある点に注意） 容器の重さなどを考慮できる ゼロリセット機能  活用事例 私は電子工作のキットの販売などをしており、細かい電子部品の個数を数える場面が多いのですが、この計りがあれば細かいカウント作業なしに簡単に数えることが出来ます。
-まずは25個乗せてサンプリングをしたのちに、カウント作業が実行できます。このため同じ部品を特定の個数、大量に小分けするような作業に向いています。
-ほら、タクトスイッチ21個。
-単純な計りですが、思った以上に作業がはかどります。
-日常生活においては、台所の計りなどとしても活用できます。
-クーポンコード さて、ここまで紹介してきたElectronic Mini LCD Digital Scaleですが、今回Banggoodの提供という事で、$15.99 → $9.99で購入できるクーポンを頂いています。
-コード： BGJP655 (11/30まで)
-Electronic Mini LCD Digital Scaleをカートに入れ、チェックアウト後にこのクーポンコードを入力することで割引を受けることが出来ます。
-有効期限は2021/11/30なので、買いたい方はお早めにどうぞ！（加えて、在庫に限りがあると思うのでお早目に！）
- Electronic Mini LCD Digital Scale の購入はこちら！  </description>
     </item>
     
   </channel>

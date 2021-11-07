@@ -5,9 +5,24 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 25 Oct 2021 22:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Nov 2021 23:00:54 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタのスパイラルモードで高速にケースを作る技</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%82%B9%E3%83%91%E3%82%A4%E3%83%A9%E3%83%AB%E3%83%A2%E3%83%BC%E3%83%89%E3%81%A7%E9%AB%98%E9%80%9F%E3%81%AB%E3%82%B1%E3%83%BC%E3%82%B9%E3%82%92%E4%BD%9C%E3%82%8B%E6%8A%80/</link>
+      <pubDate>Sun, 07 Nov 2021 23:00:54 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%82%B9%E3%83%91%E3%82%A4%E3%83%A9%E3%83%AB%E3%83%A2%E3%83%BC%E3%83%89%E3%81%A7%E9%AB%98%E9%80%9F%E3%81%AB%E3%82%B1%E3%83%BC%E3%82%B9%E3%82%92%E4%BD%9C%E3%82%8B%E6%8A%80/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/spiralmode-tips.jpg"&gt;Fast 3D printed boxesから発見。画像もここから転載。
+3Dプリンタで高速に造形するテクニックの一つである「スパイラルモード」を活用する例です。
+この記事では、親指くらいのサイズのケースを「スパイラルモード」を使って造形する際のTipsを紹介しています。
+スパイラルモードでは、一筆書きにフィラメントを出し続けて造形を行うため、様々な制限が発生します。
+その制限の1つは壁の厚さです。この記事ではノズルの径である0.4mmに対して0.8mmの厚さの壁が作れたと記載されています。（プリンタの特性に寄りそうですが・・）
+また、スパイラルモードでは、ケースの側面に穴をあけることもできませんが、この記事では、穴の部分を少し内側に窪ませて造形し、造形後にカッターでその窪みを削る取ることで、側面の穴を実現しています。
+この手法により2時間近くかかっていた造形時間がたったの18分に短縮できたそうです。</description>
+    </item>
     
     <item>
       <title>ステッピングモーターをロータリーエンコーダとして利用するHACK</title>
@@ -125,18 +140,6 @@ Glixieと命名されたこの表示器は、ニキシー管表示機を意識�
 ハック用の基板はオープンソースで開発されており、RTC、3軸加速度センサー、気圧・緯度経度・温度センサー、3つのマイクロモーター駆動回路を搭載しており、時計に必要な機能はそろっています。
 スマートウォッチは面白いガジェットですが、各社独自の基板・ファームウェアで、改造するのが難しいところがあるので、このようなオープンソースの試みは面白そうです。
  </description>
-    </item>
-    
-    <item>
-      <title>普通の液晶を「透明化」するHACK</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%99%AE%E9%80%9A%E3%81%AE%E6%B6%B2%E6%99%B6%E3%82%92%E9%80%8F%E6%98%8E%E5%8C%96%E3%81%99%E3%82%8Bhack/</link>
-      <pubDate>Thu, 17 Jun 2021 11:00:30 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%99%AE%E9%80%9A%E3%81%AE%E6%B6%B2%E6%99%B6%E3%82%92%E9%80%8F%E6%98%8E%E5%8C%96%E3%81%99%E3%82%8Bhack/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/transparent-display.jpg"&gt;Make Your Own (kind Of) Transparent Displayから発見。画像もここから転載（CC BY-NC-SA By Kelsey at Crystalfontz）。
-普通の液晶から背面の偏光板をはがして、そこに別の偏光板を絶妙な角度で 貼り付けることで半透明なディスプレイを作る方法を紹介しています。
-この記事では新しい偏光フィルムを別の大きなディスプレイから剥がすことで入手しています。
-透明なディスプレイはそれだけでかっこいいので、手元にディスプレイが2枚ある人は試してみてはどうでしょうか？</description>
     </item>
     
   </channel>
