@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 09 Nov 2021 12:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Nov 2021 11:00:25 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MIDI化したバンドネオン</title>
+      <link>https://inajob.github.io/iroiro-review/post/midi%E5%8C%96%E3%81%97%E3%81%9F%E3%83%90%E3%83%B3%E3%83%89%E3%83%8D%E3%82%AA%E3%83%B3/</link>
+      <pubDate>Wed, 10 Nov 2021 11:00:25 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/midi%E5%8C%96%E3%81%97%E3%81%9F%E3%83%90%E3%83%B3%E3%83%89%E3%83%8D%E3%82%AA%E3%83%B3/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/bandomidi.jpg"&gt;QUIETING DOWN A BANDONEON ACCORDION WITH MIDIから発見。画像もここから転載。
+既存の楽器を改造してMIDIなどのデジタル信号を出力するという試みは多くあります。 この記事で紹介しているのは、バンドネオンをMIDI対応したという作例です。
+バンドネオンの鍵盤の押下は鍵盤と連動して動く内部のアームにネオジウム磁石を貼り付け、ホールセンサーによって検出しています。
+この方法は物理的な接点を持たず、既存の楽器を壊すことなくデジタル化する良い方法で、現にこのバンドネオンもMIDI化した後も普通に演奏できるようです。</description>
+    </item>
     
     <item>
       <title>透明な自作の7セグメント表示機</title>
@@ -119,17 +131,6 @@ Arduino互換の2.5オクターブ鍵盤を搭載したキーボードの作例�
 7セグメントLEDにマイコンをくっつけて簡単に制御できるようにしたモジュールです。これを実現するには様々なコントローラICを使った例がありますが、この記事で紹介しているのは 「PADAUK PFS154-S16」という激安ICを使った作例です。
 このモジュールを横にどんどんつなげることで、簡単に桁を増やすことができるようになっており、モジュール間のプロトコルも自身で設計しているようです。
 （調べると昨今の半導体不足の影響からか「PADAUK PFS154-S16」も入手が難しそうです、、残念）</description>
-    </item>
-    
-    <item>
-      <title>今日の曜日を教えてくれるガジェット</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E4%BB%8A%E6%97%A5%E3%81%AE%E6%9B%9C%E6%97%A5%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
-      <pubDate>Wed, 27 Oct 2021 10:00:56 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E4%BB%8A%E6%97%A5%E3%81%AE%E6%9B%9C%E6%97%A5%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/what-day-is-it.jpg"&gt;WHAT DAY IS IT?から発見。画像もここから転載。
-ステイホームが叫ばれる昨今、ずっと家にいると曜日間隔が狂ってしまいます。 このガジェットは今日の曜日を示してくれるというものです。
-ESP8266をコアとして、NTP経由で時刻を取得して、サーボモーターを動かすという単純な仕組みです。</description>
     </item>
     
   </channel>
