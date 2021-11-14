@@ -5,9 +5,23 @@
     <description>Recent content in Arduino on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 04 Nov 2021 11:00:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Nov 2021 11:00:57 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Linuxのターミナルをテレタイプで出力する実験</title>
+      <link>https://inajob.github.io/iroiro-review/post/linux%E3%81%AE%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%E3%82%92%E3%83%86%E3%83%AC%E3%82%BF%E3%82%A4%E3%83%97%E3%81%A7%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B%E5%AE%9F%E9%A8%93/</link>
+      <pubDate>Sun, 14 Nov 2021 11:00:57 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/linux%E3%81%AE%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%E3%82%92%E3%83%86%E3%83%AC%E3%82%BF%E3%82%A4%E3%83%97%E3%81%A7%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B%E5%AE%9F%E9%A8%93/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/linux-with-real-teletype.jpg"&gt;LOGGING INTO LINUX WITH A 1930S TELETYPEから発見。画像もここから転載。
+エスケープシーケンスというのはさかのぼればタイプライターの時代の産物です。
+ということで、この記事ではLinuxのターミナル出力を本物のタイプライターと接続するという実験を行っています。
+過去の遺物であるこのテレタイプをASCIIコードに対応させたり、Linuxのttyをシリアル接続に流し込んだりする必要があるようです。
+見慣れたログインシェルがじわじわとタイピングされて表示される様子は感慨深いものがあり、ついついじっと見入ってしまいます。
+</description>
+    </item>
     
     <item>
       <title>5つのキーボードスイッチorロータリエンコーダが搭載できるマクロパッド</title>
@@ -123,19 +137,6 @@ Arduinoのプログラムは、ビルドしたアプリケーションを書き�
 しかし、場合によっては対話型のCLIでコマンドを実行するような形で、ArduinoのGPIOを操作できたほうが便利なことがあります。
 この記事で紹介しているPiconomixというファームウェアを使うと、CLIで対話的にGPIOを操作できるようになります。
 I2CやSPIといったよく使うインターフェースも簡単に扱えるようになっているようで、便利そうです。</description>
-    </item>
-    
-    <item>
-      <title>液晶を使わない天気情報表示ガジェット</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%B6%B2%E6%99%B6%E3%82%92%E4%BD%BF%E3%82%8F%E3%81%AA%E3%81%84%E5%A4%A9%E6%B0%97%E6%83%85%E5%A0%B1%E8%A1%A8%E7%A4%BA%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
-      <pubDate>Mon, 16 Aug 2021 11:00:12 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%B6%B2%E6%99%B6%E3%82%92%E4%BD%BF%E3%82%8F%E3%81%AA%E3%81%84%E5%A4%A9%E6%B0%97%E6%83%85%E5%A0%B1%E8%A1%A8%E7%A4%BA%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/tempestas-ii.jpg"&gt;Tempestas II, A Clock style Barometerから発見。画像もここから転載。
-一般的な天気情報表示器は、液晶に情報を表示するものですが、この記事で紹介しているガジェットは一味違います。
-天気を表すマークが物理的に出たり引っ込んだりするという仕組みにより、一瞥するだけで今日の天気の様子がわかるという面白いガジェットです。
-IT機器っぽくない見た目から、インテリアとしても汎用性が高そうです。
-</description>
     </item>
     
   </channel>

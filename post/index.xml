@@ -5,9 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 11 Nov 2021 11:00:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Nov 2021 11:00:57 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Linuxのターミナルをテレタイプで出力する実験</title>
+      <link>https://inajob.github.io/iroiro-review/post/linux%E3%81%AE%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%E3%82%92%E3%83%86%E3%83%AC%E3%82%BF%E3%82%A4%E3%83%97%E3%81%A7%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B%E5%AE%9F%E9%A8%93/</link>
+      <pubDate>Sun, 14 Nov 2021 11:00:57 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/linux%E3%81%AE%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%E3%82%92%E3%83%86%E3%83%AC%E3%82%BF%E3%82%A4%E3%83%97%E3%81%A7%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B%E5%AE%9F%E9%A8%93/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/linux-with-real-teletype.jpg"&gt;LOGGING INTO LINUX WITH A 1930S TELETYPEから発見。画像もここから転載。
+エスケープシーケンスというのはさかのぼればタイプライターの時代の産物です。
+ということで、この記事ではLinuxのターミナル出力を本物のタイプライターと接続するという実験を行っています。
+過去の遺物であるこのテレタイプをASCIIコードに対応させたり、Linuxのttyをシリアル接続に流し込んだりする必要があるようです。
+見慣れたログインシェルがじわじわとタイピングされて表示される様子は感慨深いものがあり、ついついじっと見入ってしまいます。
+</description>
+    </item>
     
     <item>
       <title>磁石を使って作る「ギア」</title>
@@ -123,17 +137,6 @@ ESP32はパワフルなマイコンで、レトロゲームのエミュレータ
 振動センサーが搭載されており、この装置を振動させることでダイスを振ることが出来ます。
 ボードゲームやTRPG好きの方には必携のアイテムです。
 </description>
-    </item>
-    
-    <item>
-      <title>Arduino互換のキーボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/arduino%E4%BA%92%E6%8F%9B%E3%81%AEmidi%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Sun, 31 Oct 2021 11:00:12 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/arduino%E4%BA%92%E6%8F%9B%E3%81%AEmidi%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/arduino-midi-keyboard.jpg"&gt;Mini-Tone Keyboard Badgeから発見。画像もここから転載。
-Arduino互換の2.5オクターブ鍵盤を搭載したキーボードの作例です。 CPUはATMega328PB、USBシリアル変換ICにはCH340Gと、よく見かける格安Arduinoと同じ構成になっています。
-3.5mmオーディオジャックや、スピーカーも搭載され、スタンドアローンでも動作するように工夫されています。</description>
     </item>
     
   </channel>
