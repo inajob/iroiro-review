@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 14 Nov 2021 11:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Nov 2021 11:00:18 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ロータリーエンコーダとキャラクタディスプレイを備えたマクロキーパッド</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E3%81%A8%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%82%92%E5%82%99%E3%81%88%E3%81%9F%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%AD%E3%83%BC%E3%83%91%E3%83%83%E3%83%89/</link>
+      <pubDate>Mon, 15 Nov 2021 11:00:18 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E3%81%A8%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%82%92%E5%82%99%E3%81%88%E3%81%9F%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%AD%E3%83%BC%E3%83%91%E3%83%83%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/macrokeypad-with-rotary-encoder.png"&gt;HotKeys Keyboard With Custom Profilesから発見。画像もここから転載(CC BY-NC-SA By FabroLabs Technologies)。
+ロータリーエンコーダとキャラクタディスプレイ、5*4のキーボードスイッチを備えたマクロキーパッドの作例です。
+汎用的な部品と3Dプリンタ製のケースにより構成されています。
+マイコンボードはArduino Microを使っており、ファームウェアは自作キーボードでは同じものQMKを利用しています。</description>
+    </item>
     
     <item>
       <title>Linuxのターミナルをテレタイプで出力する実験</title>
@@ -124,19 +136,6 @@ CPUにはSAMD21を搭載し、バッテリー、128x160のカラー液晶、ブ�
 ESPlay MicroはESP32を搭載した携帯ゲーム機です。
 十字ボタンとA,B、L,R、Start,Selectなど、ゲームを操作するのに必要なボタンが搭載され、バッテリーチャージ回路、I2Sオーディオ、3.5mmオーディオジャックなど、携帯ゲーム機としては十分な機能を持っています。
 ESP32はパワフルなマイコンで、レトロゲームのエミュレータなども多く移植されています。</description>
-    </item>
-    
-    <item>
-      <title>キーチェーン型の電子さいころ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AD%E3%83%BC%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E5%9E%8B%E3%81%AE%E9%9B%BB%E5%AD%90%E3%81%95%E3%81%84%E3%81%93%E3%82%8D/</link>
-      <pubDate>Mon, 01 Nov 2021 10:00:17 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AD%E3%83%BC%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E5%9E%8B%E3%81%AE%E9%9B%BB%E5%AD%90%E3%81%95%E3%81%84%E3%81%93%E3%82%8D/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/rpg-dice.jpg"&gt;RPG Diceから発見、画像もここから転載。
-キーホルダー型の電子さいころの作例です。4, 6, 8, 12, 20, 100面の好きなダイスを振ることが出来る装置です。
-振動センサーが搭載されており、この装置を振動させることでダイスを振ることが出来ます。
-ボードゲームやTRPG好きの方には必携のアイテムです。
-</description>
     </item>
     
   </channel>

@@ -5,9 +5,21 @@
     <description>Recent content in Arduino on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 14 Nov 2021 11:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Nov 2021 11:00:18 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ロータリーエンコーダとキャラクタディスプレイを備えたマクロキーパッド</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E3%81%A8%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%82%92%E5%82%99%E3%81%88%E3%81%9F%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%AD%E3%83%BC%E3%83%91%E3%83%83%E3%83%89/</link>
+      <pubDate>Mon, 15 Nov 2021 11:00:18 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E3%81%A8%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%82%92%E5%82%99%E3%81%88%E3%81%9F%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%AD%E3%83%BC%E3%83%91%E3%83%83%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/macrokeypad-with-rotary-encoder.png"&gt;HotKeys Keyboard With Custom Profilesから発見。画像もここから転載(CC BY-NC-SA By FabroLabs Technologies)。
+ロータリーエンコーダとキャラクタディスプレイ、5*4のキーボードスイッチを備えたマクロキーパッドの作例です。
+汎用的な部品と3Dプリンタ製のケースにより構成されています。
+マイコンボードはArduino Microを使っており、ファームウェアは自作キーボードでは同じものQMKを利用しています。</description>
+    </item>
     
     <item>
       <title>Linuxのターミナルをテレタイプで出力する実験</title>
@@ -124,19 +136,6 @@ w3mやlynxのようなテキスト表示のブラウザは、意外と味があ�
 この記事ではArduinoとサーボモーター、超音波センサーを使ってこれを自作しています。
 サーボモーターで糸を巻き取り、その力でプッシュ式のアルコールの頭を押すことで1回分のハンドソープを出すというシンプルな仕組みです。
 </description>
-    </item>
-    
-    <item>
-      <title>対話型のシェルでArduinoを操作する</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%AF%BE%E8%A9%B1%E5%9E%8B%E3%81%AE%E3%82%B7%E3%82%A7%E3%83%AB%E3%81%A7arduino%E3%82%92%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8B/</link>
-      <pubDate>Wed, 18 Aug 2021 14:00:59 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%AF%BE%E8%A9%B1%E5%9E%8B%E3%81%AE%E3%82%B7%E3%82%A7%E3%83%AB%E3%81%A7arduino%E3%82%92%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/piconomix.gif"&gt;ARDUINO GETS A COMMAND LINE INTERFACEから発見。画像もここから転載。
-Arduinoのプログラムは、ビルドしたアプリケーションを書き込むのが普通です。 ちょっと動作を変更したくなった場合はプログラムを書き直し、再度ビルドして、書き込みなおす必要があります。
-しかし、場合によっては対話型のCLIでコマンドを実行するような形で、ArduinoのGPIOを操作できたほうが便利なことがあります。
-この記事で紹介しているPiconomixというファームウェアを使うと、CLIで対話的にGPIOを操作できるようになります。
-I2CやSPIといったよく使うインターフェースも簡単に扱えるようになっているようで、便利そうです。</description>
     </item>
     
   </channel>
