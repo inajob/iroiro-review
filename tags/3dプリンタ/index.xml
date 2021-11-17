@@ -5,9 +5,24 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 15 Nov 2021 11:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Nov 2021 10:00:53 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>心拍に合わせて鼓動する心臓型のオブジェ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%BF%83%E6%8B%8D%E3%81%AB%E5%90%88%E3%82%8F%E3%81%9B%E3%81%A6%E9%BC%93%E5%8B%95%E3%81%99%E3%82%8B%E5%BF%83%E8%87%93%E5%9E%8B%E3%81%AE%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7/</link>
+      <pubDate>Wed, 17 Nov 2021 10:00:53 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%BF%83%E6%8B%8D%E3%81%AB%E5%90%88%E3%82%8F%E3%81%9B%E3%81%A6%E9%BC%93%E5%8B%95%E3%81%99%E3%82%8B%E5%BF%83%E8%87%93%E5%9E%8B%E3%81%AE%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/heart-model.jpg"&gt;Heart Visualizer | See Your Heart Beatから発見。画像もここから転載。
+脈拍をセンシングし、それと同じ速度で鼓動する心臓型のオブジェです。
+オブジェの大半は3Dプリンタで作られており、コアとなるマイコンボードはArduino Nanoです。
+サーボ1つの駆動をうまく伝えて心臓型のオブジェを動かしています。
+心拍センサーにはMAX30100というモジュールを使っています。
+リアルではないですが、有機的な造形の心臓のオブジェが良い味を出しています。
+</description>
+    </item>
     
     <item>
       <title>ロータリーエンコーダとキャラクタディスプレイを備えたマクロキーパッド</title>
@@ -123,20 +138,6 @@
 この腕の構造はSCARAと呼ばれ、産業用ロボットなどではよく見かける構造のようです。
 他のタイプの3Dプリンタと比べるとX-Y平面を非常に高速にかつ高精度に移動できるのが特徴のようです。 一方XY平面に対して平面を保つためのキャリブレーションは非常に難しそうです。
 </description>
-    </item>
-    
-    <item>
-      <title>トグルスイッチで操作する携帯ゲーム機</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%88%E3%82%B0%E3%83%AB%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%81%A7%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8B%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
-      <pubDate>Sun, 22 Aug 2021 11:00:49 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%88%E3%82%B0%E3%83%AB%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%81%A7%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8B%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/toggleboss.jpg"&gt;YOU’LL FLIP FOR THIS TOGGLE SWITCH HANDHELD GAME から発見。画像もここから転載。
-ゲーム機と言えば十字キー＋ABだと思っていませんか？
-そんなことはありません。Pongなどはダイヤルで操作しますし、WiiFitなどは「体重計」がコントローラだったりします。
-この記事で紹介しているのは「トグルスイッチ」を搭載したモバイルゲーム機です。
-3つのトグルスイッチとOLEDを備えたミニマルな構成で、3Dプリンタで作られた、片手で握りしめることが出来るスタイリッシュな筐体も魅力です。
-このゲーム機縛りでゲームを考えてみると、今までとはまた違った発想のゲームが思いつくかもしれません。</description>
     </item>
     
   </channel>
