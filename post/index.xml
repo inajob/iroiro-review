@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 17 Nov 2021 10:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Nov 2021 11:00:53 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタにアタッチメントを取り付けてペンプロッタにする</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AB%E3%82%A2%E3%82%BF%E3%83%83%E3%83%81%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91%E3%81%A6%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF%E3%81%AB%E3%81%99%E3%82%8B/</link>
+      <pubDate>Thu, 18 Nov 2021 11:00:53 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AB%E3%82%A2%E3%82%BF%E3%83%83%E3%83%81%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91%E3%81%A6%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF%E3%81%AB%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/penplotter-attachment.jpg"&gt;Original Prusa i3 MK2S でペンプロッタから発見。画像もここから転載。
+珍しく日本語記事からの情報です。
+3Dプリンタというのはペンプロッタの上位互換のようなもので、その部品を流用してペンプロッタを作る事が出来ます。この記事で紹介しているのは3Dプリンタにアタッチメントを取り付けて、元の機能を損なうことなくペンプロッタとしても利用できるようにしている作例です。
+プロットデータをOpenSCADで作成する方法も紹介されているので、家に3Dプリンタがある人は試してみてはどうでしょう？
+</description>
+    </item>
     
     <item>
       <title>心拍に合わせて鼓動する心臓型のオブジェ</title>
@@ -126,18 +139,6 @@
 その制限の1つは壁の厚さです。この記事ではノズルの径である0.4mmに対して0.8mmの厚さの壁が作れたと記載されています。（プリンタの特性に寄りそうですが・・）
 また、スパイラルモードでは、ケースの側面に穴をあけることもできませんが、この記事では、穴の部分を少し内側に窪ませて造形し、造形後にカッターでその窪みを削る取ることで、側面の穴を実現しています。
 この手法により2時間近くかかっていた造形時間がたったの18分に短縮できたそうです。</description>
-    </item>
-    
-    <item>
-      <title>5つのキーボードスイッチorロータリエンコーダが搭載できるマクロパッド</title>
-      <link>https://inajob.github.io/iroiro-review/post/5%E3%81%A4%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81or%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E3%81%8C%E6%90%AD%E8%BC%89%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%91%E3%83%83%E3%83%89/</link>
-      <pubDate>Thu, 04 Nov 2021 11:00:42 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/5%E3%81%A4%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81or%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E3%81%8C%E6%90%AD%E8%BC%89%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%91%E3%83%83%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/minimacro5.jpg"&gt;miniMACRO5 - custom programmable keypadから発見。画像もここから転載。
-5つのキー、またはロータリーエンコーダを搭載できるマクロキーパッドです。
-1種類の基板ですが、キーボードスイッチとロータリーエンコーダのどちらでも搭載できるように作られており、用途に応じて作り分けることが出来るという面白い仕組みになっています。
-一般的な自作キーボード向けのファームウェアであるQMKが動作するようなのでカスタマイズも簡単そうです。</description>
     </item>
     
   </channel>
