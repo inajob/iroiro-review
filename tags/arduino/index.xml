@@ -5,9 +5,23 @@
     <description>Recent content in Arduino on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 17 Nov 2021 10:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Nov 2021 11:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>28個のサーボモーターで駆動する7セグメント表示機</title>
+      <link>https://inajob.github.io/iroiro-review/post/28%E5%80%8B%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%9C%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%A7%E9%A7%86%E5%8B%95%E3%81%99%E3%82%8B7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
+      <pubDate>Sun, 21 Nov 2021 11:00:00 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/28%E5%80%8B%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%9C%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%A7%E9%A7%86%E5%8B%95%E3%81%99%E3%82%8B7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/servo-7seg.jpg"&gt;Mechanical 7 Segment Display Clock Using An Arduino &amp;amp; 28 Servosから発見。画像もここから転載。
+サーボモーターで各セグメントをパタパタさせるという仕組みの7セグメント表示機の作例です。
+Arduinoに16チャンネルのサーボモーターコントローラボードを2枚つなげて28個のセグメントを個別に制御しています。
+セグメントは3Dプリンタで作成しています。
+目的の数字を表示した後は電力を消費しないので、LEDよりもこういった機械式の表示機が便利なこともあるかもしれません。
+</description>
+    </item>
     
     <item>
       <title>心拍に合わせて鼓動する心臓型のオブジェ</title>
@@ -124,20 +138,6 @@ Arduino UNOはプログラムメモリ32K、RAMが2Kと、パソコンに比べ�
 ハードウェアはArduino UNOにイーサネットシールドを搭載し、ディスプレイは320x240です。
 w3mやlynxのようなテキスト表示のブラウザは、意外と味があって良い感じです。
 もう少しハイスペックなESP32などで作っても面白いかもしれません。</description>
-    </item>
-    
-    <item>
-      <title>Arduinoで作るボーカルエフェクタ</title>
-      <link>https://inajob.github.io/iroiro-review/post/arduino%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%9C%E3%83%BC%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%82%BF/</link>
-      <pubDate>Tue, 07 Sep 2021 12:00:36 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/arduino%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%9C%E3%83%BC%E3%82%AB%E3%83%AB%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/arduino-voice-effector.jpg"&gt;Arduino Vocal Effects Boxから発見。画像もここから転載（CC BY-NC-SA By amandaghassaei）。
-ボーカルエフェクトと聞くとパワフルなCPUがないと実現できないイメージがありますが、8bitの世界でも実装できるようです。
-もちろんそのサウンドは8ビット特有のピコピコ感のあるものですが、逆にそういう味のあるサウンドが欲しいときもあります。
-この記事柄はArduinoを使ったボーカルエフェクタの作例を紹介しています。
-マイクの入力を取得し、Arduinoでエフェクトをかけ、再びオーディオ信号として出力する回路とソースコードを丁寧に紹介しています。 動画のエフェクトのデモが非常に短いので、どのようなエフェクトになるのかは、ちょっとよくわからないですが、きっと8ビット音楽が好きな人が気に入るサウンドとなるでしょう。
- </description>
     </item>
     
   </channel>

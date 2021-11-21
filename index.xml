@@ -5,9 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 18 Nov 2021 11:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Nov 2021 11:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>28個のサーボモーターで駆動する7セグメント表示機</title>
+      <link>https://inajob.github.io/iroiro-review/post/28%E5%80%8B%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%9C%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%A7%E9%A7%86%E5%8B%95%E3%81%99%E3%82%8B7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
+      <pubDate>Sun, 21 Nov 2021 11:00:00 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/28%E5%80%8B%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%9C%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%A7%E9%A7%86%E5%8B%95%E3%81%99%E3%82%8B7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/servo-7seg.jpg"&gt;Mechanical 7 Segment Display Clock Using An Arduino &amp;amp; 28 Servosから発見。画像もここから転載。
+サーボモーターで各セグメントをパタパタさせるという仕組みの7セグメント表示機の作例です。
+Arduinoに16チャンネルのサーボモーターコントローラボードを2枚つなげて28個のセグメントを個別に制御しています。
+セグメントは3Dプリンタで作成しています。
+目的の数字を表示した後は電力を消費しないので、LEDよりもこういった機械式の表示機が便利なこともあるかもしれません。
+</description>
+    </item>
     
     <item>
       <title>3Dプリンタにアタッチメントを取り付けてペンプロッタにする</title>
@@ -124,21 +138,6 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/vacuum-arm.jpg"&gt;ROBOT ARM SUCKS IN A GOOD WAYから発見。画像もここから転載。
 ロボットアームの難しいところはどうやって対象物を「掴む」かです。この作例ではアームの先端にバキューム装置を取り付け、空気の力で対象物を「掴む」ことを実現しています。
  </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタのスパイラルモードで高速にケースを作る技</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%82%B9%E3%83%91%E3%82%A4%E3%83%A9%E3%83%AB%E3%83%A2%E3%83%BC%E3%83%89%E3%81%A7%E9%AB%98%E9%80%9F%E3%81%AB%E3%82%B1%E3%83%BC%E3%82%B9%E3%82%92%E4%BD%9C%E3%82%8B%E6%8A%80/</link>
-      <pubDate>Sun, 07 Nov 2021 23:00:54 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%82%B9%E3%83%91%E3%82%A4%E3%83%A9%E3%83%AB%E3%83%A2%E3%83%BC%E3%83%89%E3%81%A7%E9%AB%98%E9%80%9F%E3%81%AB%E3%82%B1%E3%83%BC%E3%82%B9%E3%82%92%E4%BD%9C%E3%82%8B%E6%8A%80/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/spiralmode-tips.jpg"&gt;Fast 3D printed boxesから発見。画像もここから転載。
-3Dプリンタで高速に造形するテクニックの一つである「スパイラルモード」を活用する例です。
-この記事では、親指くらいのサイズのケースを「スパイラルモード」を使って造形する際のTipsを紹介しています。
-スパイラルモードでは、一筆書きにフィラメントを出し続けて造形を行うため、様々な制限が発生します。
-その制限の1つは壁の厚さです。この記事ではノズルの径である0.4mmに対して0.8mmの厚さの壁が作れたと記載されています。（プリンタの特性に寄りそうですが・・）
-また、スパイラルモードでは、ケースの側面に穴をあけることもできませんが、この記事では、穴の部分を少し内側に窪ませて造形し、造形後にカッターでその窪みを削る取ることで、側面の穴を実現しています。
-この手法により2時間近くかかっていた造形時間がたったの18分に短縮できたそうです。</description>
     </item>
     
   </channel>
