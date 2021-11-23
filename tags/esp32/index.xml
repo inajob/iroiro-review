@@ -5,9 +5,21 @@
     <description>Recent content in ESP32 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 02 Nov 2021 23:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Nov 2021 12:00:36 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/esp32/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ゲームボーイアドバンスをESP32の力でBluetoothゲームコントローラにするHACK</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9%E3%82%92esp32%E3%81%AE%E5%8A%9B%E3%81%A7bluetooth%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%81%AB%E3%81%99%E3%82%8Bhack/</link>
+      <pubDate>Tue, 23 Nov 2021 12:00:36 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9%E3%82%92esp32%E3%81%AE%E5%8A%9B%E3%81%A7bluetooth%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%81%AB%E3%81%99%E3%82%8Bhack/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/gba-meets-esp32.jpg"&gt;Game Boy Advance Bluetooth HIDから発見。画像もここから転載。
+ゲームボーイアドバンスには通信ケーブルのポートがあります。このポートは通信対戦などで用いるのですが、その際カセットが刺さっていない端末にもプログラムを転送する機能があります。
+この記事では、この機能を逆手にとって通信ポートから独自のプログラムを流し込んで実行するという手法を使い、ESP32をゲームボーイアドバンスに接続し、Bluetoothゲームコントローラとして利用できるようにするHACKを紹介しています。
+ゲームコントローラにする以外にもこの通信ポートを使ったHACKは利用できそうです。</description>
+    </item>
     
     <item>
       <title>ESP32を搭載した携帯ゲーム機「ESPlay Micro」</title>
@@ -130,19 +142,6 @@ ESP32がコアのPDA風ガジェットです。シャープのメモリ液晶と
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/iot-led-clock.jpg"&gt;IOT Convertible LED Matrix Clockから発見。画像もここから転載。（CC BY-NC-SA）
 横長と、折りたたんだ形態、２つの形態に変形するドットマトリクス表示機です。コアとなるボードはESP32です。
 折りたためるケースは3Dプリンタで作成されており、折り畳まれたかどうかはリードスイッチにより磁石との接触を検知して実現しています。</description>
-    </item>
-    
-    <item>
-      <title>10人対戦ができる自作ゲーム機</title>
-      <link>https://inajob.github.io/iroiro-review/post/10%E4%BA%BA%E5%AF%BE%E6%88%A6%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E8%87%AA%E4%BD%9C%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
-      <pubDate>Wed, 29 Jul 2020 23:00:33 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/10%E4%BA%BA%E5%AF%BE%E6%88%A6%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E8%87%AA%E4%BD%9C%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/multi-player-game.png"&gt;Bitluni Developed a Custom 10-Player Video Game Consoleから発見。画像もここから転載。
-コントローラが大量に映っていますが、これは10人対戦が可能なゲーム機です。 CPUはESP32を用い、アナログコンポジットの映像もESP32で生成しています。
-映像周りの処理がプロセッサを占有してしまうため、凝ったゲームを作ることは、難しいようですが、それでも10人対戦というだけで単純なゲームでも白熱しそうです。
-動画ではリフローオーブンを使ったり、基板を洗浄したりする様子が紹介されており、DIY電子工作の事例としても非常に興味深いです。
- </description>
     </item>
     
   </channel>
