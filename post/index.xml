@@ -5,9 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 23 Nov 2021 12:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Nov 2021 11:00:56 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>誰でも簡単にシュートが決められる夢のゴールポスト</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%AA%B0%E3%81%A7%E3%82%82%E7%B0%A1%E5%8D%98%E3%81%AB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%88%E3%81%8C%E6%B1%BA%E3%82%81%E3%82%89%E3%82%8C%E3%82%8B%E5%A4%A2%E3%81%AE%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%9D%E3%82%B9%E3%83%88/</link>
+      <pubDate>Wed, 24 Nov 2021 11:00:56 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%AA%B0%E3%81%A7%E3%82%82%E7%B0%A1%E5%8D%98%E3%81%AB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%88%E3%81%8C%E6%B1%BA%E3%82%81%E3%82%89%E3%82%8C%E3%82%8B%E5%A4%A2%E3%81%AE%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%9D%E3%82%B9%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/dream-basketball-goal.jpg"&gt;A BASKETBALL HOOP THAT NEVER LETS YOU BRICKから発見。画像もここから転載。
+バスケットボールで、うまくシュートを決めるのは難しいですが、この記事で紹介されているゴールポストであれば簡単です。
+この記事ではゴールポストの板の形を計算し、ボールがゴールにうまく入る角度に跳ね返るように設計しています。
+このゴールポストを使えば、ボールを板にうまく充てると自動的にボールがゴールに入ります。
+衛星からの電波を受信するためのパラボラアンテナなども同じような形状となっています。
+</description>
+    </item>
     
     <item>
       <title>ゲームボーイアドバンスをESP32の力でBluetoothゲームコントローラにするHACK</title>
@@ -126,19 +140,6 @@ Arduinoに16チャンネルのサーボモーターコントローラボード�
 既存の楽器を改造してMIDIなどのデジタル信号を出力するという試みは多くあります。 この記事で紹介しているのは、バンドネオンをMIDI対応したという作例です。
 バンドネオンの鍵盤の押下は鍵盤と連動して動く内部のアームにネオジウム磁石を貼り付け、ホールセンサーによって検出しています。
 この方法は物理的な接点を持たず、既存の楽器を壊すことなくデジタル化する良い方法で、現にこのバンドネオンもMIDI化した後も普通に演奏できるようです。</description>
-    </item>
-    
-    <item>
-      <title>透明な自作の7セグメント表示機</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E9%80%8F%E6%98%8E%E3%81%AA%E8%87%AA%E4%BD%9C%E3%81%AE7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
-      <pubDate>Tue, 09 Nov 2021 12:00:30 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E9%80%8F%E6%98%8E%E3%81%AA%E8%87%AA%E4%BD%9C%E3%81%AE7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/transparlent-7seg.jpg"&gt;Edge-Lit Seven Segment Clock Displayから発見。画像もここから転載（CC BY-NC-SA By GeekMomProjects）。
-透明アクリル板で作られた、7セグメントLED時計の作例です。
-各セグメントが透明アクリル板で作られれていることはもちろん、その外枠も透明アクリルで作られています。 そのためこの表示器自体が全体として透明の板となっています。
-各セグメントから光が漏れないように遮光性のあるフィルムで覆われており、非常に視認性が高くなっています。
- </description>
     </item>
     
   </channel>

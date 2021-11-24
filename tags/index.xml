@@ -5,9 +5,27 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 23 Nov 2021 12:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Nov 2021 11:00:56 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CNC</title>
+      <link>https://inajob.github.io/iroiro-review/tags/cnc/</link>
+      <pubDate>Wed, 24 Nov 2021 11:00:56 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/cnc/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>HACK</title>
+      <link>https://inajob.github.io/iroiro-review/tags/hack/</link>
+      <pubDate>Wed, 24 Nov 2021 11:00:56 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/hack/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>ESP32</title>
@@ -15,15 +33,6 @@
       <pubDate>Tue, 23 Nov 2021 12:00:36 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/esp32/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>HACK</title>
-      <link>https://inajob.github.io/iroiro-review/tags/hack/</link>
-      <pubDate>Tue, 23 Nov 2021 12:00:36 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/hack/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
@@ -87,15 +96,6 @@
       <pubDate>Tue, 16 Nov 2021 11:00:45 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/esp8266/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>時計</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E6%99%82%E8%A8%88/</link>
-      <pubDate>Tue, 16 Nov 2021 11:00:45 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E6%99%82%E8%A8%88/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
