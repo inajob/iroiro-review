@@ -5,9 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 24 Nov 2021 11:00:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Nov 2021 11:00:50 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>人が乗れるサイズのレゴで作ったカート</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E4%BA%BA%E3%81%8C%E4%B9%97%E3%82%8C%E3%82%8B%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%83%AC%E3%82%B4%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%AB%E3%83%BC%E3%83%88/</link>
+      <pubDate>Thu, 25 Nov 2021 11:00:50 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E4%BA%BA%E3%81%8C%E4%B9%97%E3%82%8C%E3%82%8B%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%83%AC%E3%82%B4%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%AB%E3%83%BC%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/huge-3d-printed-lego-go-kart.jpg"&gt;HUGE 3D-PRINTED LEGO GO KART MAKES YOU THE MINIFIGから発見。画像もここから転載。
+レゴは有名なおもちゃです。レゴで車を作ったことがある人も多いと思いますが、人が乗るには小さすぎます。
+この記事では、3Dプリンタを使って8.43倍のレゴパーツを作り、そのパーツでゴーカートを作っています。
+大きなパーツは1度の3Dプリントでは作成できないため、パーツを分割して作っているようです。
+また、軸受けの部品などは金属ベアリングを内蔵するなどして、強化し、重い負荷にも耐えられるように設計しているようです。
+</description>
+    </item>
     
     <item>
       <title>誰でも簡単にシュートが決められる夢のゴールポスト</title>
@@ -128,18 +142,6 @@ Arduinoに16チャンネルのサーボモーターコントローラボード�
 2か所だけ磁石が取り付けられた円盤を1周させると、もう一枚の円盤は同心円状に並んだ磁石1個分だけ角度が変わる、という歯車ギアと同じような動きをします。
 かみ合う箇所が無いので摩耗しにくそうなのと、強い力が加わったときにうまく脱調してくれるという特性が面白いです。
 </description>
-    </item>
-    
-    <item>
-      <title>MIDI化したバンドネオン</title>
-      <link>https://inajob.github.io/iroiro-review/post/midi%E5%8C%96%E3%81%97%E3%81%9F%E3%83%90%E3%83%B3%E3%83%89%E3%83%8D%E3%82%AA%E3%83%B3/</link>
-      <pubDate>Wed, 10 Nov 2021 11:00:25 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/midi%E5%8C%96%E3%81%97%E3%81%9F%E3%83%90%E3%83%B3%E3%83%89%E3%83%8D%E3%82%AA%E3%83%B3/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/bandomidi.jpg"&gt;QUIETING DOWN A BANDONEON ACCORDION WITH MIDIから発見。画像もここから転載。
-既存の楽器を改造してMIDIなどのデジタル信号を出力するという試みは多くあります。 この記事で紹介しているのは、バンドネオンをMIDI対応したという作例です。
-バンドネオンの鍵盤の押下は鍵盤と連動して動く内部のアームにネオジウム磁石を貼り付け、ホールセンサーによって検出しています。
-この方法は物理的な接点を持たず、既存の楽器を壊すことなくデジタル化する良い方法で、現にこのバンドネオンもMIDI化した後も普通に演奏できるようです。</description>
     </item>
     
   </channel>
