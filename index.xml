@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 25 Nov 2021 11:00:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Nov 2021 22:00:11 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>複数のArduinoを使って作るKVMスイッチ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%A4%87%E6%95%B0%E3%81%AEarduino%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E4%BD%9C%E3%82%8Bkvm%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81/</link>
+      <pubDate>Sun, 28 Nov 2021 22:00:11 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%A4%87%E6%95%B0%E3%81%AEarduino%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E4%BD%9C%E3%82%8Bkvm%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/kvm-arduino.png"&gt;KVM USES MANY ARDUINOSから発見。画像もここから転載。
+1つのキーボードを複数のPCに接続するために用いられるKVMスイッチをたくさんのArduinoを使って実装している作例です。
+キーボードを接続するのはメインのArduinoで、そこからソフトウェアシリアルで2つのArduino Pro Microにキーの入力情報を送ります。
+Arduino Pro MicroはそれぞれPCに接続されHIDキーボードとしてふるまいます。
+2つのPCを切り替える際はあまり使わないキーであるScrollLockを用いています。</description>
+    </item>
     
     <item>
       <title>人が乗れるサイズのレゴで作ったカート</title>
@@ -126,21 +139,6 @@ Arduinoに16チャンネルのサーボモーターコントローラボード�
 ということで、この記事ではLinuxのターミナル出力を本物のタイプライターと接続するという実験を行っています。
 過去の遺物であるこのテレタイプをASCIIコードに対応させたり、Linuxのttyをシリアル接続に流し込んだりする必要があるようです。
 見慣れたログインシェルがじわじわとタイピングされて表示される様子は感慨深いものがあり、ついついじっと見入ってしまいます。
-</description>
-    </item>
-    
-    <item>
-      <title>磁石を使って作る「ギア」</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E7%A3%81%E7%9F%B3%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E4%BD%9C%E3%82%8B%E3%82%AE%E3%82%A2/</link>
-      <pubDate>Thu, 11 Nov 2021 11:00:40 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E7%A3%81%E7%9F%B3%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E4%BD%9C%E3%82%8B%E3%82%AE%E3%82%A2/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/magnetic-gears.jpg"&gt;SIMPLE DEMO SHOWS THE POTENTIAL OF MAGNETIC GEARSから発見。画像もここから転載。
-磁石を利用したギアのデモです。
-ギアというと歯がかみ合って回る歯車を想像しますが、この記事で紹介しているのは磁力を使ってかみ合うギアです。
-向かい合わせになった2つの円盤1枚に同心円状に磁石が配置され、もう片方には円周上に2か所だけ磁石が取り付けられています。
-2か所だけ磁石が取り付けられた円盤を1周させると、もう一枚の円盤は同心円状に並んだ磁石1個分だけ角度が変わる、という歯車ギアと同じような動きをします。
-かみ合う箇所が無いので摩耗しにくそうなのと、強い力が加わったときにうまく脱調してくれるという特性が面白いです。
 </description>
     </item>
     
