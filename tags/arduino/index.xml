@@ -5,9 +5,22 @@
     <description>Recent content in Arduino on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 21 Nov 2021 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Nov 2021 22:00:11 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>複数のArduinoを使って作るKVMスイッチ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%A4%87%E6%95%B0%E3%81%AEarduino%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E4%BD%9C%E3%82%8Bkvm%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81/</link>
+      <pubDate>Sun, 28 Nov 2021 22:00:11 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%A4%87%E6%95%B0%E3%81%AEarduino%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E4%BD%9C%E3%82%8Bkvm%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/kvm-arduino.png"&gt;KVM USES MANY ARDUINOSから発見。画像もここから転載。
+1つのキーボードを複数のPCに接続するために用いられるKVMスイッチをたくさんのArduinoを使って実装している作例です。
+キーボードを接続するのはメインのArduinoで、そこからソフトウェアシリアルで2つのArduino Pro Microにキーの入力情報を送ります。
+Arduino Pro MicroはそれぞれPCに接続されHIDキーボードとしてふるまいます。
+2つのPCを切り替える際はあまり使わないキーであるScrollLockを用いています。</description>
+    </item>
     
     <item>
       <title>28個のサーボモーターで駆動する7セグメント表示機</title>
@@ -125,19 +138,6 @@ DFRobot社の作るこの「Beetle」と呼ばれる超小型の開発ボード�
 プロセッサはATMega32u4を利用しており、Arduino Leonardo互換のブートローダを利用することでUSB書き込みにも対応します。
 引き出されているGPIOピンが少ないのがちょっとネックですが、このサイズで書き込み機能まであるというのは魅力です。
 また定番ボードということで似たような小型ボードが出回っています。（互換品の品質はお察し・・の物あるので、まずは本家から買うのが良いと思います）</description>
-    </item>
-    
-    <item>
-      <title>Arduino UNOで作られたWebページが見られる端末</title>
-      <link>https://inajob.github.io/iroiro-review/post/arduino-uno%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9Fweb%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%8C%E8%A6%8B%E3%82%89%E3%82%8C%E3%82%8B%E7%AB%AF%E6%9C%AB/</link>
-      <pubDate>Thu, 09 Sep 2021 12:00:35 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/arduino-uno%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9Fweb%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%8C%E8%A6%8B%E3%82%89%E3%82%8C%E3%82%8B%E7%AB%AF%E6%9C%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/pip-arduino-web-browser.jpg"&gt;PIP Arduino Web Browserから発見。画像もここから転載。
-Arduino UNOはプログラムメモリ32K、RAMが2Kと、パソコンに比べるととても貧弱なスペックです。 しかし、そんな貧弱なスペックでWeb ブラウザを実装しているのがこの作例です。
-ハードウェアはArduino UNOにイーサネットシールドを搭載し、ディスプレイは320x240です。
-w3mやlynxのようなテキスト表示のブラウザは、意外と味があって良い感じです。
-もう少しハイスペックなESP32などで作っても面白いかもしれません。</description>
     </item>
     
   </channel>
