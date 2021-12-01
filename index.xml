@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 30 Nov 2021 11:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Dec 2021 22:00:09 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>オープンソースの3Dスキャナ「OpenSCAN」</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%8Aopenscan/</link>
+      <pubDate>Wed, 01 Dec 2021 22:00:09 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%8Aopenscan/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/openscan.png"&gt;DIY 3D Scanner - OpenSCANから発見。画像もここから転載。
+OpenSCANは オープンソースの3Dスキャナです。 Arduinoでターンテーブルを操作し、それをカメラで撮影することで、3Dスキャン用のデータを作ることが出来ます。
+様々な角度から取得した写真はphotogrammetryという手法で3Dモデルに変換します。 そのためのソフトウェアも無料で利用できるものがあるようでこのページで紹介されています。</description>
+    </item>
     
     <item>
       <title>3Dプリンタのブザーをgcodeで制御してMIDIファイルを演奏するHACK</title>
@@ -125,18 +136,6 @@ Arduinoに16チャンネルのサーボモーターコントローラボード�
 サーボ1つの駆動をうまく伝えて心臓型のオブジェを動かしています。
 心拍センサーにはMAX30100というモジュールを使っています。
 リアルではないですが、有機的な造形の心臓のオブジェが良い味を出しています。
-</description>
-    </item>
-    
-    <item>
-      <title>リング状のアナログ風時計</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AA%E3%83%B3%E3%82%B0%E7%8A%B6%E3%81%AE%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E9%A2%A8%E6%99%82%E8%A8%88/</link>
-      <pubDate>Tue, 16 Nov 2021 11:00:45 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AA%E3%83%B3%E3%82%B0%E7%8A%B6%E3%81%AE%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E9%A2%A8%E6%99%82%E8%A8%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ring-clock.jpg"&gt;Desktop Ring Clockから発見。画像もここから転載(CC BY-NC-SA By andrei.erdei)。
-フルカラーLEDを内蔵したドーナツ型の時計です。リングの内部にフルカラーLEDストリップが内蔵されており、時計の秒針、長針、短針の位置が光るようになっています。
-マイコンモジュールはESP-01（ESP8266）を利用しています。
 </description>
     </item>
     
