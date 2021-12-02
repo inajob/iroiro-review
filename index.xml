@@ -5,9 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 01 Dec 2021 22:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Dec 2021 10:00:39 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>特定の相手にだけ聞こえる音を発射できる銃</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%89%B9%E5%AE%9A%E3%81%AE%E7%9B%B8%E6%89%8B%E3%81%AB%E3%81%A0%E3%81%91%E8%81%9E%E3%81%93%E3%81%88%E3%82%8B%E9%9F%B3%E3%82%92%E7%99%BA%E5%B0%84%E3%81%A7%E3%81%8D%E3%82%8B%E9%8A%83/</link>
+      <pubDate>Thu, 02 Dec 2021 10:00:39 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%89%B9%E5%AE%9A%E3%81%AE%E7%9B%B8%E6%89%8B%E3%81%AB%E3%81%A0%E3%81%91%E8%81%9E%E3%81%93%E3%81%88%E3%82%8B%E9%9F%B3%E3%82%92%E7%99%BA%E5%B0%84%E3%81%A7%E3%81%8D%E3%82%8B%E9%8A%83/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ultrasonic-gun.jpg"&gt;Ultrasonic Sound Gun (Parametric Speaker)から発見。画像もここから転載。
+パラメトリックスピーカーを使った超音波ガンの作例です。
+この銃のような形をしたガジェットはパラメトリックスピーカにより非常に指向性の高いスピーカーを搭載しており、銃を向けた人にだけ聞こえるように音を発射します。
+中身はBluetoothオーディモジュールとアンプ、555タイマーと簡単なものですが、なかなか面白そうです。
+「今、あなたの脳に直接語りかけています・・」みたいな遊び方もできそうです。
+ </description>
+    </item>
     
     <item>
       <title>オープンソースの3Dスキャナ「OpenSCAN」</title>
@@ -121,21 +135,6 @@ Arduinoに16チャンネルのサーボモーターコントローラボード�
 珍しく日本語記事からの情報です。
 3Dプリンタというのはペンプロッタの上位互換のようなもので、その部品を流用してペンプロッタを作る事が出来ます。この記事で紹介しているのは3Dプリンタにアタッチメントを取り付けて、元の機能を損なうことなくペンプロッタとしても利用できるようにしている作例です。
 プロットデータをOpenSCADで作成する方法も紹介されているので、家に3Dプリンタがある人は試してみてはどうでしょう？
-</description>
-    </item>
-    
-    <item>
-      <title>心拍に合わせて鼓動する心臓型のオブジェ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%BF%83%E6%8B%8D%E3%81%AB%E5%90%88%E3%82%8F%E3%81%9B%E3%81%A6%E9%BC%93%E5%8B%95%E3%81%99%E3%82%8B%E5%BF%83%E8%87%93%E5%9E%8B%E3%81%AE%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7/</link>
-      <pubDate>Wed, 17 Nov 2021 10:00:53 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%BF%83%E6%8B%8D%E3%81%AB%E5%90%88%E3%82%8F%E3%81%9B%E3%81%A6%E9%BC%93%E5%8B%95%E3%81%99%E3%82%8B%E5%BF%83%E8%87%93%E5%9E%8B%E3%81%AE%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/heart-model.jpg"&gt;Heart Visualizer | See Your Heart Beatから発見。画像もここから転載。
-脈拍をセンシングし、それと同じ速度で鼓動する心臓型のオブジェです。
-オブジェの大半は3Dプリンタで作られており、コアとなるマイコンボードはArduino Nanoです。
-サーボ1つの駆動をうまく伝えて心臓型のオブジェを動かしています。
-心拍センサーにはMAX30100というモジュールを使っています。
-リアルではないですが、有機的な造形の心臓のオブジェが良い味を出しています。
 </description>
     </item>
     
