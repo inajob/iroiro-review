@@ -1,0 +1,28 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>滑車 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E6%BB%91%E8%BB%8A/</link>
+    <description>Recent content in 滑車 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sun, 05 Dec 2021 22:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%BB%91%E8%BB%8A/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>滑車の仕組みを応用したロボットアームの駆動機構</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%BB%91%E8%BB%8A%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%82%92%E5%BF%9C%E7%94%A8%E3%81%97%E3%81%9F%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%A2%E3%83%BC%E3%83%A0%E3%81%AE%E9%A7%86%E5%8B%95%E6%A9%9F%E6%A7%8B/</link>
+      <pubDate>Sun, 05 Dec 2021 22:00:00 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%BB%91%E8%BB%8A%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%82%92%E5%BF%9C%E7%94%A8%E3%81%97%E3%81%9F%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%A2%E3%83%BC%E3%83%A0%E3%81%AE%E9%A7%86%E5%8B%95%E6%A9%9F%E6%A7%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/cable-joint-robot-arm.jpg"&gt;CABLE DRIVEN ROBOTIC JOINTから発見。画像もここから転載。
+滑車は便利な仕組みで、可動する滑車を利用することで少ないトルクで大きな力を生み出すことが出来ます。 この記事では滑車を利用したロボットアームの関節を紹介しています。
+ロボットの腕のようなパーツに、ワイヤーが貼られており、何度か滑車を介してワイヤーが接続されています。
+ワイヤーを小さな力で巻き取ると、腕を開閉することが出来ます。
+ロボットの腕を動かすモーターのトルクがある程度少なくても、この仕組みを使えば何とかなるかもしれません。
+ </description>
+    </item>
+    
+  </channel>
+</rss>
+

@@ -5,9 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 02 Dec 2021 10:00:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Dec 2021 22:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>滑車の仕組みを応用したロボットアームの駆動機構</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%BB%91%E8%BB%8A%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%82%92%E5%BF%9C%E7%94%A8%E3%81%97%E3%81%9F%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%A2%E3%83%BC%E3%83%A0%E3%81%AE%E9%A7%86%E5%8B%95%E6%A9%9F%E6%A7%8B/</link>
+      <pubDate>Sun, 05 Dec 2021 22:00:00 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%BB%91%E8%BB%8A%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%82%92%E5%BF%9C%E7%94%A8%E3%81%97%E3%81%9F%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%A2%E3%83%BC%E3%83%A0%E3%81%AE%E9%A7%86%E5%8B%95%E6%A9%9F%E6%A7%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/cable-joint-robot-arm.jpg"&gt;CABLE DRIVEN ROBOTIC JOINTから発見。画像もここから転載。
+滑車は便利な仕組みで、可動する滑車を利用することで少ないトルクで大きな力を生み出すことが出来ます。 この記事では滑車を利用したロボットアームの関節を紹介しています。
+ロボットの腕のようなパーツに、ワイヤーが貼られており、何度か滑車を介してワイヤーが接続されています。
+ワイヤーを小さな力で巻き取ると、腕を開閉することが出来ます。
+ロボットの腕を動かすモーターのトルクがある程度少なくても、この仕組みを使えば何とかなるかもしれません。
+ </description>
+    </item>
     
     <item>
       <title>特定の相手にだけ聞こえる音を発射できる銃</title>
@@ -122,19 +136,6 @@ Arduino Pro MicroはそれぞれPCに接続されHIDキーボードとしてふ�
 Arduinoに16チャンネルのサーボモーターコントローラボードを2枚つなげて28個のセグメントを個別に制御しています。
 セグメントは3Dプリンタで作成しています。
 目的の数字を表示した後は電力を消費しないので、LEDよりもこういった機械式の表示機が便利なこともあるかもしれません。
-</description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタにアタッチメントを取り付けてペンプロッタにする</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AB%E3%82%A2%E3%82%BF%E3%83%83%E3%83%81%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91%E3%81%A6%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF%E3%81%AB%E3%81%99%E3%82%8B/</link>
-      <pubDate>Thu, 18 Nov 2021 11:00:53 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AB%E3%82%A2%E3%82%BF%E3%83%83%E3%83%81%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91%E3%81%A6%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF%E3%81%AB%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/penplotter-attachment.jpg"&gt;Original Prusa i3 MK2S でペンプロッタから発見。画像もここから転載。
-珍しく日本語記事からの情報です。
-3Dプリンタというのはペンプロッタの上位互換のようなもので、その部品を流用してペンプロッタを作る事が出来ます。この記事で紹介しているのは3Dプリンタにアタッチメントを取り付けて、元の機能を損なうことなくペンプロッタとしても利用できるようにしている作例です。
-プロットデータをOpenSCADで作成する方法も紹介されているので、家に3Dプリンタがある人は試してみてはどうでしょう？
 </description>
     </item>
     
