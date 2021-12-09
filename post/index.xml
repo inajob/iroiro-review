@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 08 Dec 2021 11:00:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Dec 2021 12:00:52 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>NESコントローラを携帯ゲーム機に改造</title>
+      <link>https://inajob.github.io/iroiro-review/post/nes%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%82%92%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E3%81%AB%E6%94%B9%E9%80%A0/</link>
+      <pubDate>Thu, 09 Dec 2021 12:00:52 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/nes%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%82%92%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E3%81%AB%E6%94%B9%E9%80%A0/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/nes-controller-gameconsole.jpg"&gt;Tiny arcade stuffed in an NES controller.から発見。画像もここから転載。
+使わなくなったNESのコントローラを携帯ゲーム機として改造している作例です。
+元となるゲームの基板は、最近流行りの復刻版ミニチュアゲーム機から取り出したものとなっており、NESコントローラの中央部分をくりぬいて液晶を配置しています。
+</description>
+    </item>
     
     <item>
       <title>お古のノートパソコンの中身をRaspberryPiに入れ替えるHACK</title>
@@ -119,20 +131,6 @@ Flashメモリや、通常のSRAMよりも早い速度でアクセスできる�
 キーボードを接続するのはメインのArduinoで、そこからソフトウェアシリアルで2つのArduino Pro Microにキーの入力情報を送ります。
 Arduino Pro MicroはそれぞれPCに接続されHIDキーボードとしてふるまいます。
 2つのPCを切り替える際はあまり使わないキーであるScrollLockを用いています。</description>
-    </item>
-    
-    <item>
-      <title>人が乗れるサイズのレゴで作ったカート</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E4%BA%BA%E3%81%8C%E4%B9%97%E3%82%8C%E3%82%8B%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%83%AC%E3%82%B4%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%AB%E3%83%BC%E3%83%88/</link>
-      <pubDate>Thu, 25 Nov 2021 11:00:50 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E4%BA%BA%E3%81%8C%E4%B9%97%E3%82%8C%E3%82%8B%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%83%AC%E3%82%B4%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%AB%E3%83%BC%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/huge-3d-printed-lego-go-kart.jpg"&gt;HUGE 3D-PRINTED LEGO GO KART MAKES YOU THE MINIFIGから発見。画像もここから転載。
-レゴは有名なおもちゃです。レゴで車を作ったことがある人も多いと思いますが、人が乗るには小さすぎます。
-この記事では、3Dプリンタを使って8.43倍のレゴパーツを作り、そのパーツでゴーカートを作っています。
-大きなパーツは1度の3Dプリントでは作成できないため、パーツを分割して作っているようです。
-また、軸受けの部品などは金属ベアリングを内蔵するなどして、強化し、重い負荷にも耐えられるように設計しているようです。
-</description>
     </item>
     
   </channel>
