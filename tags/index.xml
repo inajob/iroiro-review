@@ -10,11 +10,20 @@
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>工具、DIY</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E5%B7%A5%E5%85%B7diy/</link>
+      <title>DIY</title>
+      <link>https://inajob.github.io/iroiro-review/tags/diy/</link>
       <pubDate>Sun, 12 Dec 2021 23:00:31 +0000</pubDate>
       
-      <guid>https://inajob.github.io/iroiro-review/tags/%E5%B7%A5%E5%85%B7diy/</guid>
+      <guid>https://inajob.github.io/iroiro-review/tags/diy/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>工具</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Sun, 12 Dec 2021 23:00:31 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E5%B7%A5%E5%85%B7/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
@@ -87,15 +96,6 @@
       <pubDate>Wed, 01 Dec 2021 22:00:09 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/3d%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%8A/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>STM32</title>
-      <link>https://inajob.github.io/iroiro-review/tags/stm32/</link>
-      <pubDate>Mon, 29 Nov 2021 11:00:14 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/stm32/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
