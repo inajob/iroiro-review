@@ -1,0 +1,28 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PIC16F84A on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/pic16f84a/</link>
+    <description>Recent content in PIC16F84A on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Mon, 13 Dec 2021 11:00:19 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/pic16f84a/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>配線アートが美しいLED時計</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%85%8D%E7%B7%9A%E3%82%A2%E3%83%BC%E3%83%88%E3%81%8C%E7%BE%8E%E3%81%97%E3%81%84led%E6%99%82%E8%A8%88/</link>
+      <pubDate>Mon, 13 Dec 2021 11:00:19 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%85%8D%E7%B7%9A%E3%82%A2%E3%83%BC%E3%83%88%E3%81%8C%E7%BE%8E%E3%81%97%E3%81%84led%E6%99%82%E8%A8%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/tedsclock_build.jpg"&gt;#533 Ted’s LED Clockから発見。画像もここから転載。
+基板を使わない電子工作というジャンルがあります。
+この記事では、このジャンルの作品の1つですが、非常に洗練されたLED時計です。
+放射状に配置されたLEDと中央のICとの配線が非常に美しい造形となっています。
+CPUにはPIC16F84Aを用いており、バッテリーはCR2032です。
+</description>
+    </item>
+    
+  </channel>
+</rss>
+
