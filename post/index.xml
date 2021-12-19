@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 16 Dec 2021 11:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Dec 2021 12:00:50 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>スタイリッシュなバイナリ腕時計</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%81%AA%E3%83%90%E3%82%A4%E3%83%8A%E3%83%AA%E8%85%95%E6%99%82%E8%A8%88/</link>
+      <pubDate>Sun, 19 Dec 2021 12:00:50 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%81%AA%E3%83%90%E3%82%A4%E3%83%8A%E3%83%AA%E8%85%95%E6%99%82%E8%A8%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/binary-watch.jpg"&gt;The Ultimate Binary Watchから発見。画像もここから転載。(CC BY-NC-SA by APTechnologies)
+良い感じのバイナリ表示の腕時計です。
+コアとなるCPUはAtmega328PでRTC(M41T62)や、DC-DC変換であるTPS61220、リチウムイオンチャージ用ICのMCP73831T、リチウムイオンバッテリー保護用のBQ29700が搭載されています。LEDはシリアル接続のフルカラーLEDです。
+バッテリーの消費量を抑えるため、スリープモードを駆使して、必要な時だけLEDを点けたり、CPUを動かしたりしているようです。</description>
+    </item>
     
     <item>
       <title>スタイリッシュかつ開発しやすいスマートウォッチ</title>
@@ -121,20 +133,6 @@ RaspberryPiを様々なケースに入れ込んでいる作例がありますが
 ゲームボーイカラーには赤外線ポートが付いています。
 この記事では、ゲームボーイカラー用のオリジナルのソフトを作り、赤外線ポートからエアコンを操作するという方法を紹介しています。
 ゲームボーイカラーのHackについての記事はいくつかありましたが、このような改造は初めて見ました。</description>
-    </item>
-    
-    <item>
-      <title>滑車の仕組みを応用したロボットアームの駆動機構</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%BB%91%E8%BB%8A%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%82%92%E5%BF%9C%E7%94%A8%E3%81%97%E3%81%9F%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%A2%E3%83%BC%E3%83%A0%E3%81%AE%E9%A7%86%E5%8B%95%E6%A9%9F%E6%A7%8B/</link>
-      <pubDate>Sun, 05 Dec 2021 22:00:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%BB%91%E8%BB%8A%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%82%92%E5%BF%9C%E7%94%A8%E3%81%97%E3%81%9F%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%A2%E3%83%BC%E3%83%A0%E3%81%AE%E9%A7%86%E5%8B%95%E6%A9%9F%E6%A7%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/cable-joint-robot-arm.jpg"&gt;CABLE DRIVEN ROBOTIC JOINTから発見。画像もここから転載。
-滑車は便利な仕組みで、可動する滑車を利用することで少ないトルクで大きな力を生み出すことが出来ます。 この記事では滑車を利用したロボットアームの関節を紹介しています。
-ロボットの腕のようなパーツに、ワイヤーが貼られており、何度か滑車を介してワイヤーが接続されています。
-ワイヤーを小さな力で巻き取ると、腕を開閉することが出来ます。
-ロボットの腕を動かすモーターのトルクがある程度少なくても、この仕組みを使えば何とかなるかもしれません。
- </description>
     </item>
     
   </channel>
