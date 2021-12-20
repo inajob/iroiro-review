@@ -5,9 +5,22 @@
     <description>Recent content in センサー on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 29 Nov 2020 23:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Dec 2021 23:00:34 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DIYリボンコントローラ</title>
+      <link>https://inajob.github.io/iroiro-review/post/diy%E3%83%AA%E3%83%9C%E3%83%B3%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9/</link>
+      <pubDate>Mon, 20 Dec 2021 23:00:34 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/diy%E3%83%AA%E3%83%9C%E3%83%B3%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/diy-ribbon-controller.jpg"&gt;Make a Ribbon Controllerから発見。画像もここから転載。(CC BY-NC-SA By lonesoulsurfer)
+テープ状のセンサーの触った場所によって抵抗値が変化するいわゆる「リボンコントローラ」を自作する方法を紹介した記事です。
+仕組みは簡単で銅の板と導電シートを間にプラスチックの細い板2枚を隔てて接着しています。
+工作にはコツが必要そうですが、うまく作れば好きな大きさのリボンコントローラが作れて面白そうです。
+</description>
+    </item>
     
     <item>
       <title>温度センサーを使わずにマイコンで温度を取得する裏技</title>
