@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 20 Dec 2021 23:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Dec 2021 21:00:27 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>オーディオテープを使った面白いスクラッチ演奏</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA%E3%83%86%E3%83%BC%E3%83%97%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E9%9D%A2%E7%99%BD%E3%81%84%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E6%BC%94%E5%A5%8F/</link>
+      <pubDate>Tue, 21 Dec 2021 21:00:27 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA%E3%83%86%E3%83%BC%E3%83%97%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E9%9D%A2%E7%99%BD%E3%81%84%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E6%BC%94%E5%A5%8F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/audio-tape-scratch.jpg"&gt;DJ SCRATCHES OUT CLUB MUSIC WITH TAPE, NOT TURNTABLESから発見。画像もここから転載。
+テープを使った面白いスクラッチ装置です。
+DJが行うスクラッチは、通常ターンテーブルを使用しますが、この記事で紹介しているのは、オーディオテープを使ったスクラッチです。
+卓上に真横にテープを渡して、足のコントローラでテープを操作し、片手に持った磁気ヘッドでテープを読み取って面白い演奏をしています。
+</description>
+    </item>
     
     <item>
       <title>DIYリボンコントローラ</title>
@@ -122,18 +135,6 @@ CPUにはPIC16F84Aを用いており、バッテリーはCR2032です。
 RaspberryPiを様々なケースに入れ込んでいる作例がありますが、この記事で紹介しているのは、古くなったノートパソコンの中身をまるごと入れ替えてRaspberryPiマシンにしてしまうというものです。
 完成品は、一見普通の旧式のノートパソコンにしか見えませんが、その中身は完全に入れ替えられており、RaspberryPiマシンとして動作します。
 キーボードは配線を簡単にするために無線式のものを利用しているようですが、ケースにぴったり入っているので違和感はありません。</description>
-    </item>
-    
-    <item>
-      <title>ベルトを用いない3Dプリンタの作例</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%99%E3%83%AB%E3%83%88%E3%82%92%E7%94%A8%E3%81%84%E3%81%AA%E3%81%843d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E4%BD%9C%E4%BE%8B/</link>
-      <pubDate>Tue, 07 Dec 2021 08:00:37 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%99%E3%83%AB%E3%83%88%E3%82%92%E7%94%A8%E3%81%84%E3%81%AA%E3%81%843d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E4%BD%9C%E4%BE%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/beltfree-3dprinter.jpg"&gt;3DLS The Full Belt Free Printer From Morninglion Industriesから発見。画像もここから転載。
-一般的な3DプリンタはX,Y軸をベルトを使って作成しますが、この記事で紹介している3Dプリンタは、X,Y軸がねじ付きロッドを用いた変わったものです。
-ベルトに比べてたわんだりしないので、精度が出そうですが、駆動時の騒音問題や、モーターの回転速度などの問題がありそうですが、可能性を感じる作例です。
-</description>
     </item>
     
   </channel>
