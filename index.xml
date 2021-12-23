@@ -5,9 +5,28 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 22 Dec 2021 23:00:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Dec 2021 23:00:49 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ニンテンドースイッチをラップトップ型にするためのDock</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%8B%E3%83%B3%E3%83%86%E3%83%B3%E3%83%89%E3%83%BC%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%82%92%E3%83%A9%E3%83%83%E3%83%97%E3%83%88%E3%83%83%E3%83%97%E5%9E%8B%E3%81%AB%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AEdock/</link>
+      <pubDate>Thu, 23 Dec 2021 23:00:49 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%8B%E3%83%B3%E3%83%86%E3%83%B3%E3%83%89%E3%83%BC%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%82%92%E3%83%A9%E3%83%83%E3%83%97%E3%83%88%E3%83%83%E3%83%97%E5%9E%8B%E3%81%AB%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AEdock/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/switchlaptop.jpg"&gt;NINTENDO SWITCH LAPTOP ISN’T AS BASIC AS IT LOOKSから発見。画像もここから転載。
+ニンテンドースイッチはUSB接続のキーボードをサポートしており、SmallBASICのようなソフトを動かす際には重宝するようですが、この記事で紹介しているのは、ニンテンドースイッチとUSBキーボードを一体化するためのドッグです。
+筐体は既存のノートパソコンのものを流用しているようですが、ニンテンドースイッチ本体にぴったりのサイズでそれ専用のドックのような完成度です。
+NintendoSwitchをノートPC化するドックを自作しました！
+ソフトはもちろんプチコン4😄
+・5000mAhモバイルバッテリー内蔵でロングライフを実現
+・TVモード対応
+・USB入力端子x1でマウス接続もOK
+・重さ約920g(ちょっと重め)
+どうでしょうか@notohoho 博士‼️#smilebasic #プチコン4 #NintendoSwitch pic.twitter.com/gRpiPLc1bu
+&amp;mdash; 谷 裕紀彦（Bug太郎） (@Bug_taro) May 2, 2020 </description>
+    </item>
     
     <item>
       <title>3Dプリンタで筒状の部品を接合するためのテクニック</title>
@@ -122,18 +141,6 @@ CPUにはPIC16F84Aを用いており、バッテリーはCR2032です。
 電磁石により、好きな箇所に固定できる万力の作例です。
 金属の台の上の好きな場所に固定できるので、機械で素材に穴をあける際などに重宝します。
 「作るってどのレベルから？」とでも言うかのように、鉄の板を加工してまさに1からDIYしており、なかなか真似できなそうですが、面白い作例です。
-</description>
-    </item>
-    
-    <item>
-      <title>NESコントローラを携帯ゲーム機に改造</title>
-      <link>https://inajob.github.io/iroiro-review/post/nes%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%82%92%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E3%81%AB%E6%94%B9%E9%80%A0/</link>
-      <pubDate>Thu, 09 Dec 2021 12:00:52 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/nes%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%82%92%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E3%81%AB%E6%94%B9%E9%80%A0/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/nes-controller-gameconsole.jpg"&gt;Tiny arcade stuffed in an NES controller.から発見。画像もここから転載。
-使わなくなったNESのコントローラを携帯ゲーム機として改造している作例です。
-元となるゲームの基板は、最近流行りの復刻版ミニチュアゲーム機から取り出したものとなっており、NESコントローラの中央部分をくりぬいて液晶を配置しています。
 </description>
     </item>
     

@@ -5,9 +5,27 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 22 Dec 2021 23:00:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Dec 2021 23:00:49 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>HACK</title>
+      <link>https://inajob.github.io/iroiro-review/tags/hack/</link>
+      <pubDate>Thu, 23 Dec 2021 23:00:49 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/hack/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>ゲーム機</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Thu, 23 Dec 2021 23:00:49 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>3Dプリンタ</title>
@@ -78,24 +96,6 @@
       <pubDate>Wed, 15 Dec 2021 11:00:08 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/esp8266/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>PIC16F84A</title>
-      <link>https://inajob.github.io/iroiro-review/tags/pic16f84a/</link>
-      <pubDate>Mon, 13 Dec 2021 11:00:19 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/pic16f84a/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>時計</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E6%99%82%E8%A8%88/</link>
-      <pubDate>Mon, 13 Dec 2021 11:00:19 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E6%99%82%E8%A8%88/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
