@@ -5,9 +5,20 @@
     <description>Recent content in キーボード on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 04 Nov 2021 11:00:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jan 2022 11:00:31 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>既存のキーボードをQMK対応するために大改造</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%97%A2%E5%AD%98%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92qmk%E5%AF%BE%E5%BF%9C%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E5%A4%A7%E6%94%B9%E9%80%A0/</link>
+      <pubDate>Thu, 06 Jan 2022 11:00:31 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%97%A2%E5%AD%98%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92qmk%E5%AF%BE%E5%BF%9C%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E5%A4%A7%E6%94%B9%E9%80%A0/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/wasdqmk.jpg"&gt;Circuit Bending WASD Keyboardから発見。画像もここから転載。
+自作キーボードの流行により、QMKのようなキーボードをフルカスタマイズできるファームウェアが一般的になりましたが、市販のキーボードでこのような自由なカスタマイズを行うのは難しいことが多いです。
+この記事では、そんな市販のキーボードのマイコンをTeensy 2.0に置き換えてQMKを使えるように改造する手法を紹介しています。</description>
+    </item>
     
     <item>
       <title>5つのキーボードスイッチorロータリエンコーダが搭載できるマクロパッド</title>
