@@ -5,9 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 06 Jan 2022 11:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jan 2022 12:00:19 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>複数機器を一気に充電できるUSBチャージャー</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%A4%87%E6%95%B0%E6%A9%9F%E5%99%A8%E3%82%92%E4%B8%80%E6%B0%97%E3%81%AB%E5%85%85%E9%9B%BB%E3%81%A7%E3%81%8D%E3%82%8Busb%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC/</link>
+      <pubDate>Mon, 10 Jan 2022 12:00:19 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%A4%87%E6%95%B0%E6%A9%9F%E5%99%A8%E3%82%92%E4%B8%80%E6%B0%97%E3%81%AB%E5%85%85%E9%9B%BB%E3%81%A7%E3%81%8D%E3%82%8Busb%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-reviewimg/usb-charger-docking-station-cover.png"&gt;この記事はBanggoodの提供でお届けします。
+以前紹介したようにこのブログはBanggoodと提携させていただいており、今回紹介するUSLION US Plug 8-Port USB Charger Docking Station 18W PD3.0 Power Delivery Type-C Port LED Digital Display Power Supply For Galaxy S20 S20+ Huawei P30 P40 Pro Oneplus 8Pro - US Plug(以下 「USLION US Plug 8-Port USB Charger Docking Station」)も、Banggoodからいただいたものとなります。（USLION US Plug 8-Port USB Charger Docking Stationのレビューがしたい！と言ったのは自分なので、Banggoodが無理やりこの商品を押しているわけではなく、inajobの一押しアイテム！、という感じです。）
+USB機器の充電はタコ足になりがち・・ USB機器にはそれぞれACアダプタがついていることが多いですが、それらを頻繁に充電する場合、タコ足配線にかつACアダプタを名の子もつなげるという、見栄えも悪く、場所も取るような状態になりやすいです。
+そんな時に便利なのがUSB電源ハブです。
+これは要するに電源タップのUSBポート版のようなもので、ACアダプタを本体に内蔵し、比較的コンパクトながら、複数のUSB機器を同時に充電することが可能です。
+USLION US Plug 8-Port USB Charger Docking Station とは 大容量のUSB電源です。
+ 最大8.2A 8ポート（うち1×USB3.0, 1×USB Type-C） リアルタイムに供給電流を表示できるディスプレイ搭載 ※パソコンとつなげるものではありません  Type-C接続のスマートフォン、USB3.</description>
+    </item>
     
     <item>
       <title>既存のキーボードをQMK対応するために大改造</title>
@@ -124,20 +139,6 @@ DJが行うスクラッチは、通常ターンテーブルを使用しますが
 カッコいい腕時計型の基板です。 コアとしてATMega328Pが搭載されており、バッテリーはCR2032、128x32のOLEDを搭載し、開発しやすいようにピンソケットが横向きに配置されています。
 ピンソケットにアドオンで各種センサーや電源用端子を増設することもできるようです。
 小型基板ですが、拡張性が十分確保されており、バランスの良いボードです。</description>
-    </item>
-    
-    <item>
-      <title>YouTube再生を制御するための無線フットスイッチ</title>
-      <link>https://inajob.github.io/iroiro-review/post/youtube%E5%86%8D%E7%94%9F%E3%82%92%E5%88%B6%E5%BE%A1%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E7%84%A1%E7%B7%9A%E3%83%95%E3%83%83%E3%83%88%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81/</link>
-      <pubDate>Wed, 15 Dec 2021 11:00:08 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/youtube%E5%86%8D%E7%94%9F%E3%82%92%E5%88%B6%E5%BE%A1%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E7%84%A1%E7%B7%9A%E3%83%95%E3%83%83%E3%83%88%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/wireless-youtube-footswitch.jpg"&gt;#545 Wireless YouTube Foot Switchから発見。画像もここから転載。
-Youtubeの曲リストの再生を足でできるという、無線のフットスイッチの作例です。
-作者はギターの練習の際に、参考動画を再生・停止、スキップ、ループ制御を行いたいということで、このガジェットを作ったようです。
-コアはESP8266を利用しており、バッテリは18650を搭載しています。
-YouTubeを再生する専用のWebアプリを作りYouTubeの再生をコントロールしているようです。
-</description>
     </item>
     
   </channel>
