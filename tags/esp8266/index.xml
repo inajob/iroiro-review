@@ -5,9 +5,22 @@
     <description>Recent content in ESP8266 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 15 Dec 2021 11:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jan 2022 12:00:46 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/esp8266/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>不安定になるとルーターを自動的に再起動する$3のガジェット</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E4%B8%8D%E5%AE%89%E5%AE%9A%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%A8%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%92%E8%87%AA%E5%8B%95%E7%9A%84%E3%81%AB%E5%86%8D%E8%B5%B7%E5%8B%95%E3%81%99%E3%82%8B-3%E3%81%AE%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
+      <pubDate>Wed, 12 Jan 2022 12:00:46 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E4%B8%8D%E5%AE%89%E5%AE%9A%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%A8%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%92%E8%87%AA%E5%8B%95%E7%9A%84%E3%81%AB%E5%86%8D%E8%B5%B7%E5%8B%95%E3%81%99%E3%82%8B-3%E3%81%AE%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-reviewimg/router-restarter.jpg"&gt;Make an automatic router re-starter for $3 with an ESP8266 01 and single relayから発見。画像もここから転載。
+ネットワークの調子が悪いとき、ルータを再起動したら直る、という話はよくあります。
+根本的な対策はいろいろあるものの、この「ネットワークの調子が悪いときにルータを再起動する」という動作をするガジェットの自作例を紹介します。
+ESP8266を使いWiFiの電波状況を確認し、問題があればリレーをOFF-ONする、という単純な仕組みです。
+アドホックですが、良いルータが届くまでのソリューションとしては、なかなか良いのではないでしょうか？</description>
+    </item>
     
     <item>
       <title>YouTube再生を制御するための無線フットスイッチ</title>
@@ -122,17 +135,6 @@ ESP8266は価格が500円にもかかわらずパワフルなMCUです。WiFiが
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/led-eparts-case.jpg"&gt;Component database with LED indicatorsから発見。画像もここから転載。
 スマートフォンで部品を指定すると該当する引き出しが光るという部品ケースです。 デバイス側はESP8266、サーバ側はBananaPi、LEDはWS2812Bを使って構成されています。
  </description>
-    </item>
-    
-    <item>
-      <title>1日の予定をバーLEDで示すカレンダーガジェット</title>
-      <link>https://inajob.github.io/iroiro-review/post/1%E6%97%A5%E3%81%AE%E4%BA%88%E5%AE%9A%E3%82%92%E3%83%90%E3%83%BCled%E3%81%A7%E7%A4%BA%E3%81%99%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
-      <pubDate>Sun, 04 Apr 2021 12:00:43 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/1%E6%97%A5%E3%81%AE%E4%BA%88%E5%AE%9A%E3%82%92%E3%83%90%E3%83%BCled%E3%81%A7%E7%A4%BA%E3%81%99%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/linear-calendar.jpg"&gt;Linear Calendar Clockから発見。画像もここから転載。
-1日の予定を直線状に並んだフルカラーLEDで表示してくれるガジェットです。 例えばGoogle Claenderの予定の色と同期させたり、日の出の時刻を表示したり、勤務予定時間を表示したりと、様々な用途で利用できるようです。
-1日の予定を直感的に把握でき、かつとてもおしゃれな「ありそうでなかった」プロダクトだと感じました。</description>
     </item>
     
   </channel>

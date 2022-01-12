@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 11 Jan 2022 23:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jan 2022 12:00:46 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>不安定になるとルーターを自動的に再起動する$3のガジェット</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E4%B8%8D%E5%AE%89%E5%AE%9A%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%A8%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%92%E8%87%AA%E5%8B%95%E7%9A%84%E3%81%AB%E5%86%8D%E8%B5%B7%E5%8B%95%E3%81%99%E3%82%8B-3%E3%81%AE%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
+      <pubDate>Wed, 12 Jan 2022 12:00:46 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E4%B8%8D%E5%AE%89%E5%AE%9A%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%A8%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%92%E8%87%AA%E5%8B%95%E7%9A%84%E3%81%AB%E5%86%8D%E8%B5%B7%E5%8B%95%E3%81%99%E3%82%8B-3%E3%81%AE%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-reviewimg/router-restarter.jpg"&gt;Make an automatic router re-starter for $3 with an ESP8266 01 and single relayから発見。画像もここから転載。
+ネットワークの調子が悪いとき、ルータを再起動したら直る、という話はよくあります。
+根本的な対策はいろいろあるものの、この「ネットワークの調子が悪いときにルータを再起動する」という動作をするガジェットの自作例を紹介します。
+ESP8266を使いWiFiの電波状況を確認し、問題があればリレーをOFF-ONする、という単純な仕組みです。
+アドホックですが、良いルータが届くまでのソリューションとしては、なかなか良いのではないでしょうか？</description>
+    </item>
     
     <item>
       <title>安価な自作の振動センサー</title>
@@ -129,18 +142,6 @@ DJが行うスクラッチは、通常ターンテーブルを使用しますが
 仕組みは簡単で銅の板と導電シートを間にプラスチックの細い板2枚を隔てて接着しています。
 工作にはコツが必要そうですが、うまく作れば好きな大きさのリボンコントローラが作れて面白そうです。
 </description>
-    </item>
-    
-    <item>
-      <title>スタイリッシュなバイナリ腕時計</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%81%AA%E3%83%90%E3%82%A4%E3%83%8A%E3%83%AA%E8%85%95%E6%99%82%E8%A8%88/</link>
-      <pubDate>Sun, 19 Dec 2021 12:00:50 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%81%AA%E3%83%90%E3%82%A4%E3%83%8A%E3%83%AA%E8%85%95%E6%99%82%E8%A8%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/binary-watch.jpg"&gt;The Ultimate Binary Watchから発見。画像もここから転載。(CC BY-NC-SA by APTechnologies)
-良い感じのバイナリ表示の腕時計です。
-コアとなるCPUはAtmega328PでRTC(M41T62)や、DC-DC変換であるTPS61220、リチウムイオンチャージ用ICのMCP73831T、リチウムイオンバッテリー保護用のBQ29700が搭載されています。LEDはシリアル接続のフルカラーLEDです。
-バッテリーの消費量を抑えるため、スリープモードを駆使して、必要な時だけLEDを点けたり、CPUを動かしたりしているようです。</description>
     </item>
     
   </channel>

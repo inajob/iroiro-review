@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+    
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>
+      
+  不安定になるとルーターを自動的に再起動する$3のガジェット &ndash; inajobのいろいろレビュー
+
+    </title>
+    
+    
+    <meta name="description" property="og:description" content="ネットワークが不調になるとルータを再起動するというガジェットの作例を紹介します。|">
+    
+
+    <meta name="apple-mobile-web-app-title" content="inajobのいろいろレビュー">
+    
+    
+    
+    
+
+    <meta property="og:title" content="不安定になるとルーターを自動的に再起動する$3のガジェット | inajobのいろいろレビュー">
+    <meta property="og:description" content="ネットワークが不調になるとルータを再起動するというガジェットの作例を紹介します。|">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@ina_ani">
+    <meta name="twitter:creator" content="@ina_ani">
+    <meta name="twitter:title" content="不安定になるとルーターを自動的に再起動する$3のガジェット | inajobのいろいろレビュー">
+    <meta name="twitter:description" content="ネットワークが不調になるとルータを再起動するというガジェットの作例を紹介します。|">
+    
+    <meta property="og:image" content="https://inajob.github.io/iroiro-reviewimg/router-restarter.jpg">
+    <meta name="twitter:image" content="https://inajob.github.io/iroiro-reviewimg/router-restarter.jpg">
+    
+    
+    <meta name="google-site-verification" content="Wjrrx4mV4IokyVrRy-5rjpG1sfwkjQ-uVRiXhMMXhW8" />
+
+    <link rel="stylesheet" href="/iroiro-review/assets/syntax.css">
+    <link rel="stylesheet" href="/iroiro-review/assets/primer-build.css">
+    <link rel="stylesheet" href="/iroiro-review/assets/style.css">
+    <link rel="alternate" type="application/rss+xml" href="https://inajob.github.io/iroiro-review/index.xml" title="RSS2.0" />
+    <style>
+.rect{
+  width:120px;
+  height:120px;
+  object-fit:cover;
+}
+    </style>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+         (adsbygoogle = window.adsbygoogle || []).push({
+              google_ad_client: "ca-pub-4764710583056368",
+              enable_page_level_ads: true
+         });
+    </script>
+  </head>
+
+
+  <body class="bg-gray">
+    <div id="holy" class="container-lg bg-white h-100">
+
+      <div id="header" class="px-1 bg-white">
+        
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-3635234-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-3635234-7');
+</script>
+
+<nav class="UnderlineNav UnderlineNav--right px-2">
+  <a class="UnderlineNav-actions muted-link h2" href="https://inajob.github.io/iroiro-review">
+    inajobのいろいろレビュー
+  </a>
+
+  
+  
+</nav>
+
+<div class="m-3 p-1">
+電子工作・デジタルファブリケーションの海外事例を日本語で紹介するブログです。
+はてブやリツイートしてもらえるととても喜びます。
+Twitter: <a href="http://twitter.com/ina_ani">@ina_ani</a>
+
+<div>
+RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Finajob.github.io%2Firoiro-review%2Findex.xml'  target='blank'><img id='feedlyFollow' src='http://s3.feedly.com/img/follows/feedly-follow-rectangle-volume-medium_2x.png' alt='follow us in feedly' width='71' height='28'></a>
+<a href='https://inajob.github.io/iroiro-review/index.xml'  target='blank'><img src="https://inajob.github.io/iroiro-review/img/rss.png" width="28px" height="28px"></a>
+</div>
+</div>
+
+
+
+      </div>
+
+      <div role="main" id="main" class="holy-main markdown-body px-4 bg-white">
+        
+
+<div class="Subhead">
+  <div class="Subhead-heading">
+    <div class="h1 mt-3 mb-1">不安定になるとルーターを自動的に再起動する$3のガジェット</div>
+  </div>
+  <div class="Subhead-description">
+    
+
+
+
+
+<a href='/iroiro-review/tags/esp8266' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">ESP8266</span>
+</a>
+
+
+
+    
+    <div class="float-md-right">
+      <span title="Lastmod: 2022-01-12. Published at: 2022-01-12.">
+        
+          Published: 2022-01-12
+        
+      </span>
+    </div>
+    
+  </div>
+</div>
+<article>
+  
+  <section class="pb-6 mb-3 border-bottom">
+    <img src="https://inajob.github.io/iroiro-reviewimg/router-restarter.jpg" />
+    <p><a href="http://www.whatimade.today/make-an-automatic-router-re-starter-for-3-with-an-esp8266-01-and-single-relay/">Make an automatic router re-starter for $3 with an ESP8266 01 and single relay</a>から発見。画像もここから転載。</p>
+<p>ネットワークの調子が悪いとき、ルータを再起動したら直る、という話はよくあります。</p>
+<p>根本的な対策はいろいろあるものの、この「ネットワークの調子が悪いときにルータを再起動する」という動作をするガジェットの自作例を紹介します。</p>
+<p>ESP8266を使いWiFiの電波状況を確認し、問題があればリレーをOFF-ONする、という単純な仕組みです。</p>
+<p>アドホックですが、良いルータが届くまでのソリューションとしては、なかなか良いのではないでしょうか？</p>
+
+  </section>
+
+  
+  <a href="/iroiro-review/post/%E5%AE%89%E4%BE%A1%E3%81%AA%E8%87%AA%E4%BD%9C%E3%81%AE%E6%8C%AF%E5%8B%95%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/">
+    <div class="box-shadow-medium mb-3 bg-blue-light border border-blue" style="height:122px;">
+        <div style="float:left;">
+          <img class="rect" src="https://inajob.github.io/iroiro-review/img/cheap-vibration-sensor.png" />
+        </div>
+
+        <div class="pb-2 pt-2 px-3" style="margin-left:122px;">
+          ← 前の記事 - 安価な自作の振動センサー
+        </div>
+    </div>
+  </a>
+  
+
+  
+
+  
+
+<h3>関連記事</h3>
+<div>
+  
+  <a href="/iroiro-review/post/youtube%E5%86%8D%E7%94%9F%E3%82%92%E5%88%B6%E5%BE%A1%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E7%84%A1%E7%B7%9A%E3%83%95%E3%83%83%E3%83%88%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/wireless-youtube-footswitch.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        YouTube再生を制御するための無線フットスイッチ
+      </div>
+    </div>
+  </a>
+  
+  <a href="/iroiro-review/post/%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%83%8F%E3%83%BC%E3%83%88%E5%BD%A2%E3%81%AEiot%E9%80%9A%E7%9F%A5%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/heart-notifier.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        かわいいハート形のIoT通知ガジェット
+      </div>
+    </div>
+  </a>
+  
+  <a href="/iroiro-review/post/%E3%83%AA%E3%83%B3%E3%82%B0%E7%8A%B6%E3%81%AE%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E9%A2%A8%E6%99%82%E8%A8%88/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/ring-clock.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        リング状のアナログ風時計
+      </div>
+    </div>
+  </a>
+  
+  <a href="/iroiro-review/post/%E4%BB%8A%E6%97%A5%E3%81%AE%E6%9B%9C%E6%97%A5%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/what-day-is-it.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        今日の曜日を教えてくれるガジェット
+      </div>
+    </div>
+  </a>
+  
+  <a href="/iroiro-review/post/%E3%82%A2%E3%83%9C%E3%82%AB%E3%83%89%E3%81%AE%E9%A3%9F%E3%81%B9%E3%81%94%E3%82%8D%E3%82%92%E8%AA%BF%E3%81%B9%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/avoripe.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        アボカドの食べごろを調べるためのガジェット
+      </div>
+    </div>
+  </a>
+  
+</div>
+
+
+
+  <section>
+  
+    
+    
+    
+      <div>
+        
+          <a href="https://twitter.com/intent/tweet?hashtags=inajob" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        
+
+        
+          
+          <div id="fb-root"></div>
+          <script>(function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+            fjs.parentNode.insertBefore(js, fjs);
+          }(document, 'script', 'facebook-jssdk'));</script>
+
+          <div class="fb-share-button" 
+            data-href="/iroiro-review/post/%E4%B8%8D%E5%AE%89%E5%AE%9A%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%A8%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%92%E8%87%AA%E5%8B%95%E7%9A%84%E3%81%AB%E5%86%8D%E8%B5%B7%E5%8B%95%E3%81%99%E3%82%8B-3%E3%81%AE%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/" 
+            data-layout="button_count">
+          </div>
+        
+
+        
+          <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+        
+
+        
+          <a data-pocket-label="pocket" data-pocket-count="none" class="pocket-btn" data-lang="en"></a>
+          <script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+        
+
+      </div>
+    
+  
+  </section>
+  <section>
+    
+      
+    
+  </section>
+</article>
+
+
+      </div>
+
+      <div id="side" class="pr-1 bg-white">
+        <aside class="pr-3">
+          
+  
+    <div id="toc" class="Box Box--blue mb-3">
+      <b>不安定になるとルーターを自動的に再起動する$3のガジェット</b>
+      <nav id="TableOfContents"></nav>
+    </div>
+  
+
+  
+    
+    
+    
+      <div>
+        
+          <a href="https://twitter.com/intent/tweet?hashtags=inajob" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        
+
+        
+          <div class="fb-share-button" 
+            data-href="/iroiro-review/post/%E4%B8%8D%E5%AE%89%E5%AE%9A%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%A8%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%92%E8%87%AA%E5%8B%95%E7%9A%84%E3%81%AB%E5%86%8D%E8%B5%B7%E5%8B%95%E3%81%99%E3%82%8B-3%E3%81%AE%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/" 
+            data-layout="button_count">
+          </div>
+        
+
+        
+          <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+        
+
+        
+          <a data-pocket-label="pocket" data-pocket-count="none" class="pocket-btn" data-lang="en"></a>
+          <script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+        
+
+      </div>
+    
+  
+
+        </aside>
+      </div>
+
+      <div id="footer" class="pt-2 pb-3 bg-white text-center">
+        
+          <span class="text-small text-gray">
+            
+Contents: ©inajob 2020 ,Theme: ©Qiushi Pan 2018.
+Generated with
+<a href="https://gohugo.io" class="link-gray-dark">Hugo</a> and
+<a href="https://github.com/qqhann/hugo-primer" class="link-gray-dark">Hugo-Primer</a> theme.
+
+          </span>
+        
+      </div>
+    </div>
+
+
+    
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    
+    <script type="text/x-mathjax-config">MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });</script>
+  </body>
+</html>
