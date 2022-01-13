@@ -5,9 +5,21 @@
     <description>Recent content in 楽器 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 10 Nov 2021 11:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jan 2022 12:00:18 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%A5%BD%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>タイプライターを改造して作られたMIDIコントローラ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%BF%E3%82%A4%E3%83%97%E3%83%A9%E3%82%A4%E3%82%BF%E3%83%BC%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9Fmidi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9/</link>
+      <pubDate>Thu, 13 Jan 2022 12:00:18 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%BF%E3%82%A4%E3%83%97%E3%83%A9%E3%82%A4%E3%82%BF%E3%83%BC%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9Fmidi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/midi-typewriter.png"&gt;DRUMMING A BEAT ON A HUNDRED-YEAR-OLD TYPEWRITERから発見。画像もここから転載。
+タイプライターを改造してMIDIコントローラにしている作例です。
+元々タイプライターの音は軽快ですが、ドラムサウンドを割り当てることで、普通にMIDI楽器として活用できそうな物となっています。
+</description>
+    </item>
     
     <item>
       <title>MIDI化したバンドネオン</title>
@@ -115,18 +127,6 @@ SPIでボタンの入力が取得できるようで、少ないGPIOで接続で�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/analog-synth-one-op-amp.png"&gt;ONE CHIP DOES IT ALL IN THIS MACGUYVER SYNTHから発見。画像もここから転載。
 TL072という2回路入りのオペアンプICと単純な部品だけで構成されたアナログシンセサイザーです。コンデンサを取り換えることでオクターブを変更することもできるようです。
 最小限の部品で作品を作るという挑戦も楽しそうです。
- </description>
-    </item>
-    
-    <item>
-      <title>Arduinoを使ったフルートの自動演奏装置</title>
-      <link>https://inajob.github.io/iroiro-review/post/arduino%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%95%E3%83%AB%E3%83%BC%E3%83%88%E3%81%AE%E8%87%AA%E5%8B%95%E6%BC%94%E5%A5%8F%E8%A3%85%E7%BD%AE/</link>
-      <pubDate>Wed, 17 Mar 2021 11:00:53 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/arduino%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%95%E3%83%AB%E3%83%BC%E3%83%88%E3%81%AE%E8%87%AA%E5%8B%95%E6%BC%94%E5%A5%8F%E8%A3%85%E7%BD%AE/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/arduino-flute-playing-machine.png"&gt;AN ARDUINO-BASED FLUTE PLAYING MACHINEから発見。画像もここから転載。
-Arduinoでサーボモーターを制御して、PVCパイプで作成したフルート風の楽器を自動演奏しています。
-細いワイヤーでフルートの穴の蓋を引っ張ることで自動演奏を実現しています。昔ながらの楽器をコンピュータ制御で演奏するというのは謎の面白さがあります。
  </description>
     </item>
     
