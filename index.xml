@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 13 Jan 2022 12:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jan 2022 23:00:46 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタで作られたピンホールカメラ</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%83%94%E3%83%B3%E3%83%9B%E3%83%BC%E3%83%AB%E3%82%AB%E3%83%A1%E3%83%A9/</link>
+      <pubDate>Sun, 16 Jan 2022 23:00:46 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%83%94%E3%83%B3%E3%83%9B%E3%83%BC%E3%83%AB%E3%82%AB%E3%83%A1%E3%83%A9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-reviewimg/scura-cam.jpg"&gt;NEAT OPEN SOURCE PINHOLE CAMERA DESIGN CAN BE (MOSTLY) 3D PRINTEDから発見。画像もここから転載。
+ピンホール部分は精度が求められるためレーザーカッターで作るようですが、それ以外の大半の部分は3Dプリンタで作られたピンホールカメラの作例です。 部品点数は12点と意外と少ないながらも、なかなか絵が撮れるようです。
+販売もしているようなので、気になる人は見に行ってみてはどうでしょうか？</description>
+    </item>
     
     <item>
       <title>タイプライターを改造して作られたMIDIコントローラ</title>
@@ -127,19 +138,6 @@ NintendoSwitchをノートPC化するドックを自作しました！
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/cylindrical-coupler.jpg"&gt;Parametric 3D Printed Cylindrical Couplingから発見。画像もここから転載。
 3Dプリンタで筒状のオブジェを複数作ってつなげる際の手法として、ひねって固定できるジョイントを作成する例です。
 形状の一部にサポート材が必要ですが、同じような形状の立体物を設計する際には参考になりそうなテクニックです。
-</description>
-    </item>
-    
-    <item>
-      <title>オーディオテープを使った面白いスクラッチ演奏</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA%E3%83%86%E3%83%BC%E3%83%97%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E9%9D%A2%E7%99%BD%E3%81%84%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E6%BC%94%E5%A5%8F/</link>
-      <pubDate>Tue, 21 Dec 2021 21:00:27 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA%E3%83%86%E3%83%BC%E3%83%97%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E9%9D%A2%E7%99%BD%E3%81%84%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E6%BC%94%E5%A5%8F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/audio-tape-scratch.jpg"&gt;DJ SCRATCHES OUT CLUB MUSIC WITH TAPE, NOT TURNTABLESから発見。画像もここから転載。
-テープを使った面白いスクラッチ装置です。
-DJが行うスクラッチは、通常ターンテーブルを使用しますが、この記事で紹介しているのは、オーディオテープを使ったスクラッチです。
-卓上に真横にテープを渡して、足のコントローラでテープを操作し、片手に持った磁気ヘッドでテープを読み取って面白い演奏をしています。
 </description>
     </item>
     
