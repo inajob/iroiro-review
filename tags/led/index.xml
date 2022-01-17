@@ -5,9 +5,20 @@
     <description>Recent content in LED on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 13 Sep 2021 12:00:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jan 2022 19:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/led/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>10x10のフルカラーLEDを搭載したジョグダイアルで操作する携帯ゲーム機</title>
+      <link>https://inajob.github.io/iroiro-review/post/10x10%E3%81%AE%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCled%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%82%B8%E3%83%A7%E3%82%B0%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AB%E3%81%A7%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8B%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Mon, 17 Jan 2022 19:00:00 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/10x10%E3%81%AE%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCled%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%82%B8%E3%83%A7%E3%82%B0%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AB%E3%81%A7%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8B%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;LEDBOY retro inspired LED console stuck in the 70 by LEDBOY on Tindieから発見。画像もここから転載。
+10x10のフルカラーLEDを搭載した、ジョグダイアルで操作する携帯ゲーム機の作例です。 コアとなるCPUはAttiny1614です。 3Dプリンタで作られた筐体がLEDの拡散板としてうまく機能しています。
+ </description>
+    </item>
     
     <item>
       <title>フルカラーマトリクスLEDを各面に搭載した6面体ガジェット</title>
@@ -123,17 +134,6 @@ LEDキューブは電子工作の世界ではよく見かける作品ですが�
 このLEDキューブはガラス板に銅箔テープで回路を構成しています。銅箔テープはカッティングプロッタで切ったものを転写シートでガラス板に張り付けています。
 ガラス板に銅箔テープで回路を構成する手法は、このように回路を”魅せる”作品にうまくマッチしています。
   </description>
-    </item>
-    
-    <item>
-      <title>部品の引き出しを光で教えてくれるケース</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E9%83%A8%E5%93%81%E3%81%AE%E5%BC%95%E3%81%8D%E5%87%BA%E3%81%97%E3%82%92%E5%85%89%E3%81%A7%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E3%82%B1%E3%83%BC%E3%82%B9/</link>
-      <pubDate>Tue, 13 Apr 2021 11:00:11 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E9%83%A8%E5%93%81%E3%81%AE%E5%BC%95%E3%81%8D%E5%87%BA%E3%81%97%E3%82%92%E5%85%89%E3%81%A7%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E3%82%B1%E3%83%BC%E3%82%B9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/led-eparts-case.jpg"&gt;Component database with LED indicatorsから発見。画像もここから転載。
-スマートフォンで部品を指定すると該当する引き出しが光るという部品ケースです。 デバイス側はESP8266、サーバ側はBananaPi、LEDはWS2812Bを使って構成されています。
- </description>
     </item>
     
   </channel>
