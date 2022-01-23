@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 20 Jan 2022 12:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jan 2022 22:00:28 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>指をつまむようにして文字を入力するウェアラブルデバイス</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%8C%87%E3%82%92%E3%81%A4%E3%81%BE%E3%82%80%E3%82%88%E3%81%86%E3%81%AB%E3%81%97%E3%81%A6%E6%96%87%E5%AD%97%E3%82%92%E5%85%A5%E5%8A%9B%E3%81%99%E3%82%8B%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%A9%E3%83%96%E3%83%AB%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</link>
+      <pubDate>Sun, 23 Jan 2022 22:00:28 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%8C%87%E3%82%92%E3%81%A4%E3%81%BE%E3%82%80%E3%82%88%E3%81%86%E3%81%AB%E3%81%97%E3%81%A6%E6%96%87%E5%AD%97%E3%82%92%E5%85%A5%E5%8A%9B%E3%81%99%E3%82%8B%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%A9%E3%83%96%E3%83%AB%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/bitiptext.jpg"&gt;TOUCH-TYPING ON FINGERTIPS? PROTOTYPE SAYS IT COULD WORKから発見。画像もここから転載。
+指をつまむよう操作することで文字を入力できるという技術の紹介です。
+指先にフレキシブル基板で作られたタイル状の静電容量タッチセンサーを取り付けて、指をつまむようにして文字を入力します。
+この技術を使うとポケットに手を入れたまま文字を入力することもできそうです。</description>
+    </item>
     
     <item>
       <title>AndroidスマートフォンをキャラクタディスプレイにするHACK</title>
@@ -121,17 +133,6 @@ USB機器の充電はタコ足になりがち・・ USB機器にはそれぞれA
 これは要するに電源タップのUSBポート版のようなもので、ACアダプタを本体に内蔵し、比較的コンパクトながら、複数のUSB機器を同時に充電することが可能です。
 USLION US Plug 8-Port USB Charger Docking Station とは 大容量のUSB電源です。
  最大8.2A 8ポート（うち1×USB3.0, 1×USB Type-C） リアルタイムに供給電流を表示できるディスプレイ搭載 ※パソコンとつなげるものではありません  Type-C接続のスマートフォン、USB3.</description>
-    </item>
-    
-    <item>
-      <title>既存のキーボードをQMK対応するために大改造</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%97%A2%E5%AD%98%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92qmk%E5%AF%BE%E5%BF%9C%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E5%A4%A7%E6%94%B9%E9%80%A0/</link>
-      <pubDate>Thu, 06 Jan 2022 11:00:31 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%97%A2%E5%AD%98%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92qmk%E5%AF%BE%E5%BF%9C%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E5%A4%A7%E6%94%B9%E9%80%A0/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/wasdqmk.jpg"&gt;Circuit Bending WASD Keyboardから発見。画像もここから転載。
-自作キーボードの流行により、QMKのようなキーボードをフルカスタマイズできるファームウェアが一般的になりましたが、市販のキーボードでこのような自由なカスタマイズを行うのは難しいことが多いです。
-この記事では、そんな市販のキーボードのマイコンをTeensy 2.0に置き換えてQMKを使えるように改造する手法を紹介しています。</description>
     </item>
     
   </channel>
