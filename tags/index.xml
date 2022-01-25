@@ -5,9 +5,27 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 24 Jan 2022 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jan 2022 23:00:06 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cortex-M7</title>
+      <link>https://inajob.github.io/iroiro-review/tags/cortex-m7/</link>
+      <pubDate>Tue, 25 Jan 2022 23:00:06 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/cortex-m7/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teensy</title>
+      <link>https://inajob.github.io/iroiro-review/tags/teensy/</link>
+      <pubDate>Tue, 25 Jan 2022 23:00:06 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/teensy/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>3Dプリンタ</title>
@@ -78,24 +96,6 @@
       <pubDate>Tue, 18 Jan 2022 23:00:04 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/%E3%82%AB%E3%83%A1%E3%83%A9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>attiny1614</title>
-      <link>https://inajob.github.io/iroiro-review/tags/attiny1614/</link>
-      <pubDate>Mon, 17 Jan 2022 19:00:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/attiny1614/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>LED</title>
-      <link>https://inajob.github.io/iroiro-review/tags/led/</link>
-      <pubDate>Mon, 17 Jan 2022 19:00:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/led/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     

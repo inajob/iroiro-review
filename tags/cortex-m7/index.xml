@@ -1,0 +1,28 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cortex-M7 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/cortex-m7/</link>
+    <description>Recent content in Cortex-M7 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Tue, 25 Jan 2022 23:00:06 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/cortex-m7/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Teensyの新しいボードTeensy4.1</title>
+      <link>https://inajob.github.io/iroiro-review/post/teensy%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E3%83%9C%E3%83%BC%E3%83%89teensy4-1/</link>
+      <pubDate>Tue, 25 Jan 2022 23:00:06 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/teensy%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E3%83%9C%E3%83%BC%E3%83%89teensy4-1/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/teensy-4.1.jpg"&gt;NEW TEENSY 4.1 ARRIVES WITH 100 MBPS ETHERNET, HIGH-SPEED USB, 8 MB FLASHから発見。画像もここから転載。
+Teensyといえば有名な開発ボードのブランドですが、最新のTeensy4.1というのが発表されています。
+32bitCPUを搭載点ではTeensy3.6などと同じですが、さらにパワフルになっています。
+Cortex-M7の600MHz、フラッシュメモリは7936K、RAMは1024K。
+10/100Mbitのイーサーネット、USB Host機能、MicroSDソケット、QSPIメモリ用のパッドなど、至れり尽くせりです。
+Arduino UNOで物足りなくなった際にはこのようなボードが選択肢になりそうです。</description>
+    </item>
+    
+  </channel>
+</rss>
+
