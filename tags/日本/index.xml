@@ -5,9 +5,20 @@
     <description>Recent content in 日本 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 19 Jan 2022 12:18:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jan 2022 23:02:07 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%97%A5%E6%9C%AC/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>低解像度のドットマトリクスLEDで複雑な漢字を表示するHACK</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E4%BD%8E%E8%A7%A3%E5%83%8F%E5%BA%A6%E3%81%AE%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%81%A7%E8%A4%87%E9%9B%91%E3%81%AA%E6%BC%A2%E5%AD%97%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8Bhack/</link>
+      <pubDate>Wed, 26 Jan 2022 23:02:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E4%BD%8E%E8%A7%A3%E5%83%8F%E5%BA%A6%E3%81%AE%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%81%A7%E8%A4%87%E9%9B%91%E3%81%AA%E6%BC%A2%E5%AD%97%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8Bhack/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/低解像度のドットマトリクスLEDで複雑な漢字を表示するHACK.jpg"&gt;KenKenMkIISRさんのTweetから発見。画像もここから転載。
+ドットマトリクスLEDといえば8x8が基本単位です。 英字や数字を表示するにはこれで十分なのですが、日本語となるとちょっと物足りないです。 そんな時に役立つのがこのTweetで紹介されている手法です。
+4倍解像度のフォントデータを用意し、1つのドットにつき2x2のドットを時分割で素早く表示を切り替えるだけなのですが、人間の目には高解像度の文字として認識することができます。</description>
+    </item>
     
     <item>
       <title>アイロンビーズで電子工作のエンクロージャを作る試み</title>
