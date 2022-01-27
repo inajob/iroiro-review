@@ -1,0 +1,30 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OpenPNP on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/openpnp/</link>
+    <description>Recent content in OpenPNP on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Thu, 27 Jan 2022 22:00:42 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/openpnp/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>自作のPick And Place マシン</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AEpick-and-place-%E3%83%9E%E3%82%B7%E3%83%B3/</link>
+      <pubDate>Thu, 27 Jan 2022 22:00:42 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AEpick-and-place-%E3%83%9E%E3%82%B7%E3%83%B3/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/open-soure-pick-and-place-machine.jpg"&gt;OPEN SOURCE PICK AND PLACE HAS A $450 BOM COSTから発見。画像もここから転載。
+表面実装基板を作るようになると、様々な機材が欲しくなりますが、 Pick And Placeマシンもその一つです。
+といいつつ、このマシン、非常に高いので、個人で買うのは難しいです。
+しかしオープンソースのOpenPNPを参考にすると自分でもこのマシンを作ることが出来るようです。
+必要なのは部品のフィーダーと、X,Y,Z軸に駆動するヘッド、部品を吸いつけるためのバキューム装置です。
+部品の認識は画像処理により行いますが、この部分は前述のOpenPNPが利用できるようです。
+日本だと最近は @akita11さんが挑戦しており、その記録はnoteにまとめられています。
+</description>
+    </item>
+    
+  </channel>
+</rss>
+
