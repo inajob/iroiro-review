@@ -5,9 +5,22 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 26 Jan 2022 23:02:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jan 2022 22:00:26 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ネットワーク的に隔離されたマシンから情報を盗み出す手口</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E7%9A%84%E3%81%AB%E9%9A%94%E9%9B%A2%E3%81%95%E3%82%8C%E3%81%9F%E3%83%9E%E3%82%B7%E3%83%B3%E3%81%8B%E3%82%89%E6%83%85%E5%A0%B1%E3%82%92%E7%9B%97%E3%81%BF%E5%87%BA%E3%81%99%E6%89%8B%E5%8F%A3/</link>
+      <pubDate>Sun, 30 Jan 2022 22:00:26 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E7%9A%84%E3%81%AB%E9%9A%94%E9%9B%A2%E3%81%95%E3%82%8C%E3%81%9F%E3%83%9E%E3%82%B7%E3%83%B3%E3%81%8B%E3%82%89%E6%83%85%E5%A0%B1%E3%82%92%E7%9B%97%E3%81%BF%E5%87%BA%E3%81%99%E6%89%8B%E5%8F%A3/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/side-attack.jpg"&gt;SIDE-CHANNEL ATTACK TURNS POWER SUPPLY INTO SPEAKERSから発見。画像もここから転載。
+大事なデータが入っているPCをネットワーク的に隔離して安全性を保つのは一般的ですが、攻撃者はそんなPCからも情報を盗み出すべく様々な手法を考案します。
+この記事で紹介されているのは、そういった「攻撃者」目線の研究です。
+PCの負荷を意図的に操作するウイルスのようなプログラムを実行することで、消費電力をコントロールし、それにより生じる一種の超音波を、これまたウイルスのようなプログラムが実行されたスマートフォンのマイクで録音することで情報を盗み出すことができるようです。
+</description>
+    </item>
     
     <item>
       <title>低解像度のドットマトリクスLEDで複雑な漢字を表示するHACK</title>
@@ -131,18 +144,6 @@ Flashメモリや、通常のSRAMよりも早い速度でアクセスできる�
 このゴールポストを使えば、ボールを板にうまく充てると自動的にボールがゴールに入ります。
 衛星からの電波を受信するためのパラボラアンテナなども同じような形状となっています。
 </description>
-    </item>
-    
-    <item>
-      <title>ゲームボーイアドバンスをESP32の力でBluetoothゲームコントローラにするHACK</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9%E3%82%92esp32%E3%81%AE%E5%8A%9B%E3%81%A7bluetooth%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%81%AB%E3%81%99%E3%82%8Bhack/</link>
-      <pubDate>Tue, 23 Nov 2021 12:00:36 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9%E3%82%92esp32%E3%81%AE%E5%8A%9B%E3%81%A7bluetooth%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%81%AB%E3%81%99%E3%82%8Bhack/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/gba-meets-esp32.jpg"&gt;Game Boy Advance Bluetooth HIDから発見。画像もここから転載。
-ゲームボーイアドバンスには通信ケーブルのポートがあります。このポートは通信対戦などで用いるのですが、その際カセットが刺さっていない端末にもプログラムを転送する機能があります。
-この記事では、この機能を逆手にとって通信ポートから独自のプログラムを流し込んで実行するという手法を使い、ESP32をゲームボーイアドバンスに接続し、Bluetoothゲームコントローラとして利用できるようにするHACKを紹介しています。
-ゲームコントローラにする以外にもこの通信ポートを使ったHACKは利用できそうです。</description>
     </item>
     
   </channel>
