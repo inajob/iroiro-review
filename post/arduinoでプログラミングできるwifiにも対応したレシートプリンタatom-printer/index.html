@@ -30,8 +30,8 @@
     <meta name="twitter:title" content="ArduinoでプログラミングできるWiFiにも対応したレシートプリンタ「ATOM Printer」 | inajobのいろいろレビュー">
     <meta name="twitter:description" content="M5Stack社のレシートプリンタとATOM Liteを組み合わせた製品である「ATOM Printer」のレビューです。|">
     
-    <meta property="og:image" content="https://inajob.github.io/iroiro-reviewimg/atom-printer-cover.jpg">
-    <meta name="twitter:image" content="https://inajob.github.io/iroiro-reviewimg/atom-printer-cover.jpg">
+    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/atom-printer-cover.jpg">
+    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/atom-printer-cover.jpg">
     
     
     <meta name="google-site-verification" content="Wjrrx4mV4IokyVrRy-5rjpG1sfwkjQ-uVRiXhMMXhW8" />
@@ -140,7 +140,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <article>
   
   <section class="pb-6 mb-3 border-bottom">
-    <img src="https://inajob.github.io/iroiro-reviewimg/atom-printer-cover.jpg" />
+    <img src="https://inajob.github.io/iroiro-review/img/atom-printer-cover.jpg" />
     <p>この記事はBanggoodの提供でお届けします。</p>
 <p><a href="../../post/%E4%B8%AD%E5%9B%BDec%E3%82%B5%E3%82%A4%E3%83%88banggood/">以前紹介した</a>ようにこのブログは<a href="https://jp.banggood.com/?p=0M092355466124202012">Banggood</a>と提携させていただいており、今回紹介する<a href="https://jp.banggood.com/M5Stack-ATOM-Printer-Thermal-Printer-Kit-IoT-Development-Maker-DIY-p-1925438.html?p=0M092355466124202012">M5Stack ATOM Printer</a>も、<a href="https://jp.banggood.com/?p=0M092355466124202012">Banggood</a>からいただいたものとなります。（<a href="https://jp.banggood.com/M5Stack-ATOM-Printer-Thermal-Printer-Kit-IoT-Development-Maker-DIY-p-1925438.html?p=0M092355466124202012">M5Stack ATOM Printer</a>のレビューがしたい！と言ったのは自分なので、<a href="https://jp.banggood.com/?p=0M092355466124202012">Banggood</a>が無理やりこの商品を押しているわけではなく、inajobの一押しアイテム！、という感じです。）</p>
 <h2 id="atom-thermal-printer-kit-とは">ATOM Thermal Printer Kit とは</h2>
@@ -154,7 +154,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <li>ボール紙による筐体</li>
 <li>UARTによる制御</li>
 </ul>
-<p><img src="img/atom-printer-telec.jpg" alt=""></p>
+<p><img src="../../img/atom-printer-telec.jpg" alt=""></p>
 <h2 id="使用前の準備">使用前の準備</h2>
 <p>この製品を使うためには、12VのACアダプタが必要です、また書き込みのためにはATOM Liteに接続するためのUSB Type-Cケーブルが必要です。</p>
 <p>ACアダプタは12V2.5A以上のものが必要と書いてありましたが、我が家には2Aの物しかなく、<a href="https://akizukidenshi.com/catalog/g/gM-06239/">これ</a>で動かしています。</p>
@@ -163,7 +163,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <h2 id="ファームウェアの不具合による問題からの復旧症状が起きている場合のみ">ファームウェアの不具合による問題からの復旧（症状が起きている場合のみ）</h2>
 <p>症状としては、AC12Vで電源を入れた時にプリンタから「Mode: UIFLOW」「WiFi Password Erro！」という文字が延々と印刷されるというものです。
 期待する挙動としてはATOM Liteのボタンを押すことでModeがAPとなることなのですが、どうもこれがうまく動かないようです。</p>
-<p><img src="img/atom-printer-error.jpg" alt=""></p>
+<p><img src="../../img/atom-printer-error.jpg" alt=""></p>
 <p>ここまでの症状が同じ場合は、以下の手順で復旧が出来ます。</p>
 <p>この初期ファームウェアのソースコードは以下に存在しています。</p>
 <p><a href="https://github.com/m5stack/ATOM-PRINTER/blob/master/examples/FactoryTest/FactoryTest.ino">https://github.com/m5stack/ATOM-PRINTER/blob/master/examples/FactoryTest/FactoryTest.ino</a></p>
@@ -189,7 +189,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <p>この画面からは、任意の文字列、バーコード、QRコードをATOM Printerに送信することが出来ます。</p>
 <p>送信すると、ATOM Printerで印刷が行われます。</p>
 <p>英字はもちろん日本語も問題なく印刷することが確認できました。</p>
-<p><img src="img/atom-printer-first-print.jpg" alt=""></p>
+<p><img src="../../img/atom-printer-first-print.jpg" alt=""></p>
 <h2 id="独自のプログラムを書き込んでみる">独自のプログラムを書き込んでみる</h2>
 <p>元々のプログラムを書き換えて、動作をカスタマイズしてみます。</p>
 <p>ATOM Printerのプリンタ制御の機能は一応ライブラリ化されており、簡単に使うことが出来ます。</p>
@@ -267,7 +267,7 @@ void loop()
   M5.update();
 }
 </code></pre><p>無事画像を印刷することが出来ました</p>
-<p><img src="img/atom-printer-image-print.jpg" alt=""></p>
+<p><img src="../../img/atom-printer-image-print.jpg" alt=""></p>
 <h2 id="思いつく応用例">思いつく応用例</h2>
 <p>ATOM Prnterの機能を一通り試しました。要はWiFi＋レシートプリンタという構成で、BMP印刷機能を使えばどんな物でも印刷可能です。</p>
 <p>思いつく活用例としては・・</p>
@@ -285,7 +285,7 @@ void loop()
 <h3 id="筐体が紙でできており運搬時に破損しやすい">筐体が紙でできており、運搬時に破損しやすい</h3>
 <p>自分が受け取ったATOM Printerは角がぶつけられて、曲がってしまっていました。
 これは運送業者が悪いというよりは、この製品の耐久性や、梱包の問題だと感じました。</p>
-<p><img src="img/atom-printer-package.jpg" alt=""></p>
+<p><img src="../../img/atom-printer-package.jpg" alt=""></p>
 <p>本体が壊れて届くことはないと思いますが、筐体が凹んでいるのはもう仕様かな、、という感じでした</p>
 <h3 id="初期ファームウェアのままでは試すことが出来ない">初期ファームウェアのままでは試すことが出来ない</h3>
 <p>前述のように初期ファームウェアが期待通り動作せず、一度NVSの内容をクリアするか、適切に書き直す必要があります。</p>
