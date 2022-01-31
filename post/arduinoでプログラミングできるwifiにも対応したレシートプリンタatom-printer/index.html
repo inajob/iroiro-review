@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+    
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>
+      
+  ArduinoでプログラミングできるWiFiにも対応したレシートプリンタ「ATOM Printer」 &ndash; inajobのいろいろレビュー
+
+    </title>
+    
+    
+    <meta name="description" property="og:description" content="M5Stack社のレシートプリンタとATOM Liteを組み合わせた製品である「ATOM Printer」のレビューです。|">
+    
+
+    <meta name="apple-mobile-web-app-title" content="inajobのいろいろレビュー">
+    
+    
+    
+    
+
+    <meta property="og:title" content="ArduinoでプログラミングできるWiFiにも対応したレシートプリンタ「ATOM Printer」 | inajobのいろいろレビュー">
+    <meta property="og:description" content="M5Stack社のレシートプリンタとATOM Liteを組み合わせた製品である「ATOM Printer」のレビューです。|">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@ina_ani">
+    <meta name="twitter:creator" content="@ina_ani">
+    <meta name="twitter:title" content="ArduinoでプログラミングできるWiFiにも対応したレシートプリンタ「ATOM Printer」 | inajobのいろいろレビュー">
+    <meta name="twitter:description" content="M5Stack社のレシートプリンタとATOM Liteを組み合わせた製品である「ATOM Printer」のレビューです。|">
+    
+    <meta property="og:image" content="https://inajob.github.io/iroiro-reviewimg/atom-printer-cover.jpg">
+    <meta name="twitter:image" content="https://inajob.github.io/iroiro-reviewimg/atom-printer-cover.jpg">
+    
+    
+    <meta name="google-site-verification" content="Wjrrx4mV4IokyVrRy-5rjpG1sfwkjQ-uVRiXhMMXhW8" />
+
+    <link rel="stylesheet" href="/iroiro-review/assets/syntax.css">
+    <link rel="stylesheet" href="/iroiro-review/assets/primer-build.css">
+    <link rel="stylesheet" href="/iroiro-review/assets/style.css">
+    <link rel="alternate" type="application/rss+xml" href="https://inajob.github.io/iroiro-review/index.xml" title="RSS2.0" />
+    <style>
+.rect{
+  width:120px;
+  height:120px;
+  object-fit:cover;
+}
+    </style>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+         (adsbygoogle = window.adsbygoogle || []).push({
+              google_ad_client: "ca-pub-4764710583056368",
+              enable_page_level_ads: true
+         });
+    </script>
+  </head>
+
+
+  <body class="bg-gray">
+    <div id="holy" class="container-lg bg-white h-100">
+
+      <div id="header" class="px-1 bg-white">
+        
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-3635234-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-3635234-7');
+</script>
+
+<nav class="UnderlineNav UnderlineNav--right px-2">
+  <a class="UnderlineNav-actions muted-link h2" href="https://inajob.github.io/iroiro-review">
+    inajobのいろいろレビュー
+  </a>
+
+  
+  
+</nav>
+
+<div class="m-3 p-1">
+電子工作・デジタルファブリケーションの海外事例を日本語で紹介するブログです。
+はてブやリツイートしてもらえるととても喜びます。
+Twitter: <a href="http://twitter.com/ina_ani">@ina_ani</a>
+
+<div>
+RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Finajob.github.io%2Firoiro-review%2Findex.xml'  target='blank'><img id='feedlyFollow' src='http://s3.feedly.com/img/follows/feedly-follow-rectangle-volume-medium_2x.png' alt='follow us in feedly' width='71' height='28'></a>
+<a href='https://inajob.github.io/iroiro-review/index.xml'  target='blank'><img src="https://inajob.github.io/iroiro-review/img/rss.png" width="28px" height="28px"></a>
+</div>
+</div>
+
+
+
+      </div>
+
+      <div role="main" id="main" class="holy-main markdown-body px-4 bg-white">
+        
+
+<div class="Subhead">
+  <div class="Subhead-heading">
+    <div class="h1 mt-3 mb-1">ArduinoでプログラミングできるWiFiにも対応したレシートプリンタ「ATOM Printer」</div>
+  </div>
+  <div class="Subhead-description">
+    
+
+
+
+
+<a href='/iroiro-review/tags/banggood' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">Banggood</span>
+</a>
+
+<a href='/iroiro-review/tags/m5stack' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">m5stack</span>
+</a>
+
+<a href='/iroiro-review/tags/%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">プリンタ</span>
+</a>
+
+<a href='/iroiro-review/tags/esp32' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">ESP32</span>
+</a>
+
+
+
+    
+    <div class="float-md-right">
+      <span title="Lastmod: 2022-01-31. Published at: 2022-01-31.">
+        
+          Published: 2022-01-31
+        
+      </span>
+    </div>
+    
+  </div>
+</div>
+<article>
+  
+  <section class="pb-6 mb-3 border-bottom">
+    <img src="https://inajob.github.io/iroiro-reviewimg/atom-printer-cover.jpg" />
+    <p>この記事はBanggoodの提供でお届けします。</p>
+<p><a href="../../post/%E4%B8%AD%E5%9B%BDec%E3%82%B5%E3%82%A4%E3%83%88banggood/">以前紹介した</a>ようにこのブログは<a href="https://jp.banggood.com/?p=0M092355466124202012">Banggood</a>と提携させていただいており、今回紹介する<a href="https://jp.banggood.com/M5Stack-ATOM-Printer-Thermal-Printer-Kit-IoT-Development-Maker-DIY-p-1925438.html?p=0M092355466124202012">M5Stack ATOM Printer</a>も、<a href="https://jp.banggood.com/?p=0M092355466124202012">Banggood</a>からいただいたものとなります。（<a href="https://jp.banggood.com/M5Stack-ATOM-Printer-Thermal-Printer-Kit-IoT-Development-Maker-DIY-p-1925438.html?p=0M092355466124202012">M5Stack ATOM Printer</a>のレビューがしたい！と言ったのは自分なので、<a href="https://jp.banggood.com/?p=0M092355466124202012">Banggood</a>が無理やりこの商品を押しているわけではなく、inajobの一押しアイテム！、という感じです。）</p>
+<h2 id="atom-thermal-printer-kit-とは">ATOM Thermal Printer Kit とは</h2>
+<p>この商品はM5Stack社のATOM Liteという小型モジュールに感熱紙プリンタがくっついたものです。</p>
+<p>ATOM LiteのコアはESP32-Pico-D4で、もちろんWiFiをサポートしています。</p>
+<p>WiFiで指示を受け取り、感熱紙に文字や画像を印刷するようなプロトタイピングを迅速に開発できます。</p>
+<h2 id="仕様">仕様</h2>
+<ul>
+<li>ATOM Lite: ESP32-Pico-D4 4MB Flash</li>
+<li>技適付き</li>
+<li>ボール紙による筐体</li>
+<li>UARTによる制御</li>
+</ul>
+<p><img src="img/atom-printer-telec.jpg" alt=""></p>
+<h2 id="使用前の準備">使用前の準備</h2>
+<p>この製品を使うためには、12VのACアダプタが必要です、また書き込みのためにはATOM Liteに接続するためのUSB Type-Cケーブルが必要です。</p>
+<p>ACアダプタは12V2.5A以上のものが必要と書いてありましたが、我が家には2Aの物しかなく、<a href="https://akizukidenshi.com/catalog/g/gM-06239/">これ</a>で動かしています。</p>
+<p>12VのACアダプタをつなげれば・・と思いましたが、どうも初期ファームウェアに不具合があるようで、WiFiに接続できないエラーが延々と出力されてしまいます。</p>
+<p>この問題はM5Stack社に報告したので、近いうちに修正されると思いますが、同様の問題に遭遇した人のために修正方法を記載しておきます。</p>
+<h2 id="ファームウェアの不具合による問題からの復旧症状が起きている場合のみ">ファームウェアの不具合による問題からの復旧（症状が起きている場合のみ）</h2>
+<p>症状としては、AC12Vで電源を入れた時にプリンタから「Mode: UIFLOW」「WiFi Password Erro！」という文字が延々と印刷されるというものです。
+期待する挙動としてはATOM Liteのボタンを押すことでModeがAPとなることなのですが、どうもこれがうまく動かないようです。</p>
+<p><img src="img/atom-printer-error.jpg" alt=""></p>
+<p>ここまでの症状が同じ場合は、以下の手順で復旧が出来ます。</p>
+<p>この初期ファームウェアのソースコードは以下に存在しています。</p>
+<p><a href="https://github.com/m5stack/ATOM-PRINTER/blob/master/examples/FactoryTest/FactoryTest.ino">https://github.com/m5stack/ATOM-PRINTER/blob/master/examples/FactoryTest/FactoryTest.ino</a></p>
+<p>このリポジトリをGitを使い手元にCloneし、Arduino IDEで開きます。</p>
+<p>Arduino IDEでATOM Liteの開発をするためにはUSBシリアルドライバのインストールと、ボードのインストール・ライブラリのインストールが必要です。以下を参考に設定します。</p>
+<p><a href="https://docs.m5stack.com/en/quick_start/atom/arduino">https://docs.m5stack.com/en/quick_start/atom/arduino</a></p>
+<p>FactoryTest.inoがビルドできることを確認出来たら、少し内容を修正します。</p>
+<p>具体的には、この80行目の後に <code>preferences.putBool(&quot;PRINTER_MODE&quot;, APMode);</code>という行を入れます。</p>
+<p><a href="https://github.com/m5stack/ATOM-PRINTER/blob/master/examples/FactoryTest/FactoryTest.ino#L130">https://github.com/m5stack/ATOM-PRINTER/blob/master/examples/FactoryTest/FactoryTest.ino#L130</a></p>
+<p>この修正を行ったFactoryTest.inoを一度書き込んで実行すれば、後は元に戻したFactoryTest.inoでもうまく動作します。</p>
+<p>おそらくこれはATOM Printerの製品の検品時に、テスト用のWiFiのAPに接続するテストを行っていることが原因です。</p>
+<p>現在のファームウェアは一度設定されたWiFiに接続できることを前提に処理が組まれており、つながらない場合は本体をリセットし続けて接続できるのを待ってしまいます。</p>
+<p>しかし当然我が家にはATOM Printerの検品時に接続していたWiFiがあるわけもなく、何度リセットしても接続できません。</p>
+<p>WiFiの設定は不揮発メモリに保持されているため、ファームウェアを書き直してもWiFiの設定が消えません。</p>
+<p>ここに記載した処理は、WiFiの設定が存在していてもそれを無視してAPモードとして振舞うように不揮発メモリに記録するというものです。</p>
+<p>一度モードを不揮発メモリに記録すれば、この問題は解消します。</p>
+<p>おそらくこの問題は近いうちに解消すると思います。手元でこの問題が起こらない場合はこの対応は不要です。</p>
+<h2 id="動作確認">動作確認</h2>
+<p>さてお待ちかねの動作確認です。</p>
+<p>APモードで起動したATOM PrinterはWiFiのAPとして振舞います。
+手元のスマートフォンなどで、WiFiスポットを調べてみると ATOM Printerという文字を含むSSIDが見えると思います。
+そのWiFiにスマートフォンを接続し、ATOM Printerから印字されたIPアドレスにブラウザからアクセスすることで、プリンタを制御するためのWebUIを表示することが出来ます。</p>
+<p>この画面からは、任意の文字列、バーコード、QRコードをATOM Printerに送信することが出来ます。</p>
+<p>送信すると、ATOM Printerで印刷が行われます。</p>
+<p>英字はもちろん日本語も問題なく印刷することが確認できました。</p>
+<p><img src="img/atom-printer-first-print.jpg" alt=""></p>
+<h2 id="独自のプログラムを書き込んでみる">独自のプログラムを書き込んでみる</h2>
+<p>元々のプログラムを書き換えて、動作をカスタマイズしてみます。</p>
+<p>ATOM Printerのプリンタ制御の機能は一応ライブラリ化されており、簡単に使うことが出来ます。</p>
+<p>試しに起動すると &ldquo;Hello inajob&quot;と表示するプログラムを作ってみます。</p>
+<pre><code>#include &lt;M5Atom.h&gt;
+#include &quot;PrinterApi.h&quot;
+
+HardwareSerial AtomSerial(1);
+Printer atomPrinter;
+
+void setup(){
+    M5.begin(true, false, true);
+    atomPrinter.Set_Printer_Uart(AtomSerial, 23, 33, 9600);
+    atomPrinter.Printer_Init();
+    atomPrinter.NewLine_Setting(0x0A);
+
+    atomPrinter.Printer_Init();
+    atomPrinter.Print_ASCII(&quot;Hello inajob&quot;);
+    atomPrinter.Print_NewLine(2);
+}
+
+void loop() 
+{
+  M5.update();
+}
+</code></pre><h2 id="画像を印刷してみる">画像を印刷してみる</h2>
+<p>ATOM Printer公式のライブラリでは文字、バーコード、QRコードしか対応されていませんが、このプリンタはビットマップ画像を印刷する機能もあるようなので、これを試してみます。</p>
+<p>ATOM Printerのライブラリを使わずとも、シリアル通信で制御信号を直接送ることでプリンタを制御することが出来ます。</p>
+<p>この制御信号はATOM Printerの箱の側面にも一覧が載っています。</p>
+<p>その中に「Print BMP」というのがあり、これを使うことで任意の画像を印刷させることが出来ます。</p>
+<p>この機能を使うためには、プリンタ用に画像ファイルを変換する必要がありますが、うれしいことにこの変換ツールを公開してくれている人がいました。</p>
+<p><a href="https://m5stack.lang-ship.com/tools/image2data/?format=1bit_2">https://m5stack.lang-ship.com/tools/image2data/?format=1bit_2</a></p>
+<p>このツールに2値のビットマップ画像をアップロードすることで、Arduinoで利用できる配列のソースコードに変換することが出来ます。</p>
+<p>という事で、このツールで生成したソースコードを利用して以下のようなプログラムを書いてみました。</p>
+<pre><code>#include &lt;M5Atom.h&gt;
+#include &quot;PrinterApi.h&quot;
+
+HardwareSerial AtomSerial(1);
+Printer atomPrinter;
+
+// ここに上記ツールで作ったデータを貼り付ける
+
+void Print_BMP(int width, int height, const unsigned char *data, int mode, int wait) {
+  AtomSerial.write(0x1D);
+  AtomSerial.write(0x76);
+  AtomSerial.write(0x30);                      // 0
+  AtomSerial.write(mode);                      // m
+  AtomSerial.write((width / 8) &amp; 0xff);        // xL
+  AtomSerial.write((width / 256 / 8) &amp; 0xff);  // xH
+  AtomSerial.write((height) &amp; 0xff);           // yL
+  AtomSerial.write((height / 256) &amp; 0xff);     // yH
+  for (int i = 0; i &lt; (width / 8 * height); i++) {
+    AtomSerial.write(data[i]);                 // data
+    delay(wait);
+  }
+}
+
+
+void setup(){
+    M5.begin(true, false, true);
+    atomPrinter.Set_Printer_Uart(AtomSerial, 23, 33, 9600);
+    atomPrinter.Printer_Init();
+    atomPrinter.NewLine_Setting(0x0A);
+
+    atomPrinter.Printer_Init();
+    atomPrinter.Print_ASCII(&quot;Hello M5stack&quot;);
+    atomPrinter.Print_NewLine(2);
+
+    atomPrinter.Printer_Init();
+    Print_BMP(352, 350, img, 0x30, 10);
+}
+
+void loop() 
+{
+  M5.update();
+}
+</code></pre><p>無事画像を印刷することが出来ました</p>
+<p><img src="img/atom-printer-image-print.jpg" alt=""></p>
+<h2 id="思いつく応用例">思いつく応用例</h2>
+<p>ATOM Prnterの機能を一通り試しました。要はWiFi＋レシートプリンタという構成で、BMP印刷機能を使えばどんな物でも印刷可能です。</p>
+<p>思いつく活用例としては・・</p>
+<ul>
+<li>PCやスマートフォンで選択したレシピを印刷する</li>
+<li>Twitterの特定のキーワードのついた発言を印刷し続ける</li>
+<li>朝のニューストピックを印刷し、手帳に挟んで通勤中に読めるようにする</li>
+<li>4コマ漫画を印刷する</li>
+<li>感熱シールを使うことで宛先ラベルなどを作る</li>
+</ul>
+<p>などが思いつきました。</p>
+<h2 id="ちょっと気になったところ">ちょっと気になったところ</h2>
+<p>ATOM Printerは面白い製品ですが、ちょっと訳アリの製品でもあるな、と感じました。
+買ってみて「思ったのと違う！」とならないためにも、自分が気づいた問題点を書いておきます。</p>
+<h3 id="筐体が紙でできており運搬時に破損しやすい">筐体が紙でできており、運搬時に破損しやすい</h3>
+<p>自分が受け取ったATOM Printerは角がぶつけられて、曲がってしまっていました。
+これは運送業者が悪いというよりは、この製品の耐久性や、梱包の問題だと感じました。</p>
+<p><img src="img/atom-printer-package.jpg" alt=""></p>
+<p>本体が壊れて届くことはないと思いますが、筐体が凹んでいるのはもう仕様かな、、という感じでした</p>
+<h3 id="初期ファームウェアのままでは試すことが出来ない">初期ファームウェアのままでは試すことが出来ない</h3>
+<p>前述のように初期ファームウェアが期待通り動作せず、一度NVSの内容をクリアするか、適切に書き直す必要があります。</p>
+<p>ATOM Printerは開発者向け製品で、どうせ使っていく中で初期ファームウェアから書き換えをする前提の製品ではあるものの、出鼻をくじかれた感は否めません。おそらく近いうちに初期ファームウェアが改良され、このような問題は無くなると思っています。</p>
+<h3 id="筐体に書かれている制御コードが間違っている">筐体に書かれている制御コードが間違っている</h3>
+<p>筐体に制御コードが書かれていますが、BMP Printの制御コードの記載がおかしいです。（Modeが無い）
+まぁわかっていれば大丈夫なのですが、少し残念です。</p>
+<h2 id="参考">参考</h2>
+<p>この記事を作るにあたりLang-shipさんの記事に非常に助けられました。合わせて読んでみるとATOM　Printerのことがもっと詳しくわかりますよ！</p>
+<ul>
+<li><a href="https://lang-ship.com/blog/work/atom-printer/">ATOM Printerを買った</a></li>
+<li><a href="http://m5stack.lang-ship.com/catalog/products/base/k118_atom-printer/">(K118)ATOM PRINTER</a></li>
+</ul>
+<p>公式ページもとても参考になりました</p>
+<ul>
+<li><a href="https://docs.m5stack.com/en/atom/atom_printer">ATOM Printer</a></li>
+</ul>
+<h2 id="まとめ">まとめ</h2>
+<p>ATOM Printerがあれば、プリンタを使ったプロトタイピングを、ハードウェアの設計なしに実現することが出来ます。</p>
+<p>WiFi経由で接続できるという事で、スマートフォンアプリや、PC、M5Stackなど、様々な機器と連携したソリューションを作ることが出来ます。</p>
+<p>プリンタを使った面白いアイデアのある人は是非購入してみてください！</p>
+<h2 id="クーポンコード">クーポンコード</h2>
+<p>さて、ここまで紹介してきた<a href="https://jp.banggood.com/M5Stack-ATOM-Printer-Thermal-Printer-Kit-IoT-Development-Maker-DIY-p-1925438.html?p=0M092355466124202012">M5Stack ATOM Printer</a>ですが、今回Banggoodの提供という事で、<span style="color:red">$69.99 → <strong>$62.99</strong></span>で購入できるクーポンを頂いています。</p>
+<p>コード：
+<span style="color:red"><strong>BGJPM5</strong></span> (2/28まで)</p>
+<p><a href="https://jp.banggood.com/M5Stack-ATOM-Printer-Thermal-Printer-Kit-IoT-Development-Maker-DIY-p-1925438.html?p=0M092355466124202012">M5Stack ATOM Printer</a>をカートに入れ、チェックアウト後にこのクーポンコードを入力することで割引を受けることが出来ます。</p>
+<p>有効期限は<strong>2022/02/28</strong>なので、買いたい方はお早めにどうぞ！（加えて、在庫に限りがあると思うのでお早目に！）</p>
+<ul>
+<li><a href="https://jp.banggood.com/M5Stack-ATOM-Printer-Thermal-Printer-Kit-IoT-Development-Maker-DIY-p-1925438.html?p=0M092355466124202012">M5Stack ATOM Printer の購入はこちら</a></li>
+</ul>
+
+  </section>
+
+  
+  <a href="/iroiro-review/post/%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E7%9A%84%E3%81%AB%E9%9A%94%E9%9B%A2%E3%81%95%E3%82%8C%E3%81%9F%E3%83%9E%E3%82%B7%E3%83%B3%E3%81%8B%E3%82%89%E6%83%85%E5%A0%B1%E3%82%92%E7%9B%97%E3%81%BF%E5%87%BA%E3%81%99%E6%89%8B%E5%8F%A3/">
+    <div class="box-shadow-medium mb-3 bg-blue-light border border-blue" style="height:122px;">
+        <div style="float:left;">
+          <img class="rect" src="https://inajob.github.io/iroiro-review/img/side-attack.jpg" />
+        </div>
+
+        <div class="pb-2 pt-2 px-3" style="margin-left:122px;">
+          ← 前の記事 - ネットワーク的に隔離されたマシンから情報を盗み出す手口
+        </div>
+    </div>
+  </a>
+  
+
+  
+
+  
+
+<h3>関連記事</h3>
+<div>
+  
+  <a href="/iroiro-review/post/%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8D%E3%81%AEesp32%E9%96%8B%E7%99%BA%E6%A9%9F-ttgo-t-watch-keyboard/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/t-watch-keyboard-cover.png" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        かわいいキーボード付きのESP32開発機 TTGO T-Watch Keyboard
+      </div>
+    </div>
+  </a>
+  
+  <a href="/iroiro-review/post/%E8%A4%87%E6%95%B0%E6%A9%9F%E5%99%A8%E3%82%92%E4%B8%80%E6%B0%97%E3%81%AB%E5%85%85%E9%9B%BB%E3%81%A7%E3%81%8D%E3%82%8Busb%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/usb-charger-docking-station-cover.png" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        複数機器を一気に充電できるUSBチャージャー
+      </div>
+    </div>
+  </a>
+  
+  <a href="/iroiro-review/post/%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9%E3%82%92esp32%E3%81%AE%E5%8A%9B%E3%81%A7bluetooth%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%81%AB%E3%81%99%E3%82%8Bhack/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/gba-meets-esp32.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        ゲームボーイアドバンスをESP32の力でBluetoothゲームコントローラにするHACK
+      </div>
+    </div>
+  </a>
+  
+  <a href="/iroiro-review/post/esp32%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9Fesplay-micro/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/esplay-micro.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        ESP32を搭載した携帯ゲーム機「ESPlay Micro」
+      </div>
+    </div>
+  </a>
+  
+  <a href="/iroiro-review/post/%E5%80%8B%E6%95%B0%E3%82%82%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E5%86%85%E8%94%B5%E3%81%AE%E5%B0%8F%E5%9E%8B%E3%81%AE%E9%9B%BB%E5%AD%90%E8%A8%88%E3%82%8A/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/electronic-mini-digital-scale-cover.png" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        個数もカウントできるバッテリー内蔵の小型の電子はかり
+      </div>
+    </div>
+  </a>
+  
+</div>
+
+
+
+  <section>
+  
+    
+    
+    
+      <div>
+        
+          <a href="https://twitter.com/intent/tweet?hashtags=inajob" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        
+
+        
+          
+          <div id="fb-root"></div>
+          <script>(function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+            fjs.parentNode.insertBefore(js, fjs);
+          }(document, 'script', 'facebook-jssdk'));</script>
+
+          <div class="fb-share-button" 
+            data-href="/iroiro-review/post/arduino%E3%81%A7%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%A7%E3%81%8D%E3%82%8Bwifi%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C%E3%81%97%E3%81%9F%E3%83%AC%E3%82%B7%E3%83%BC%E3%83%88%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BFatom-printer/" 
+            data-layout="button_count">
+          </div>
+        
+
+        
+          <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+        
+
+        
+          <a data-pocket-label="pocket" data-pocket-count="none" class="pocket-btn" data-lang="en"></a>
+          <script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+        
+
+      </div>
+    
+  
+  </section>
+  <section>
+    
+      
+    
+  </section>
+</article>
+
+
+      </div>
+
+      <div id="side" class="pr-1 bg-white">
+        <aside class="pr-3">
+          
+  
+    <div id="toc" class="Box Box--blue mb-3">
+      <b>ArduinoでプログラミングできるWiFiにも対応したレシートプリンタ「ATOM Printer」</b>
+      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#atom-thermal-printer-kit-とは">ATOM Thermal Printer Kit とは</a></li>
+    <li><a href="#仕様">仕様</a></li>
+    <li><a href="#使用前の準備">使用前の準備</a></li>
+    <li><a href="#ファームウェアの不具合による問題からの復旧症状が起きている場合のみ">ファームウェアの不具合による問題からの復旧（症状が起きている場合のみ）</a></li>
+    <li><a href="#動作確認">動作確認</a></li>
+    <li><a href="#独自のプログラムを書き込んでみる">独自のプログラムを書き込んでみる</a></li>
+    <li><a href="#画像を印刷してみる">画像を印刷してみる</a></li>
+    <li><a href="#思いつく応用例">思いつく応用例</a></li>
+    <li><a href="#ちょっと気になったところ">ちょっと気になったところ</a>
+      <ul>
+        <li><a href="#筐体が紙でできており運搬時に破損しやすい">筐体が紙でできており、運搬時に破損しやすい</a></li>
+        <li><a href="#初期ファームウェアのままでは試すことが出来ない">初期ファームウェアのままでは試すことが出来ない</a></li>
+        <li><a href="#筐体に書かれている制御コードが間違っている">筐体に書かれている制御コードが間違っている</a></li>
+      </ul>
+    </li>
+    <li><a href="#参考">参考</a></li>
+    <li><a href="#まとめ">まとめ</a></li>
+    <li><a href="#クーポンコード">クーポンコード</a></li>
+  </ul>
+</nav>
+    </div>
+  
+
+  
+    
+    
+    
+      <div>
+        
+          <a href="https://twitter.com/intent/tweet?hashtags=inajob" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        
+
+        
+          <div class="fb-share-button" 
+            data-href="/iroiro-review/post/arduino%E3%81%A7%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%A7%E3%81%8D%E3%82%8Bwifi%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C%E3%81%97%E3%81%9F%E3%83%AC%E3%82%B7%E3%83%BC%E3%83%88%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BFatom-printer/" 
+            data-layout="button_count">
+          </div>
+        
+
+        
+          <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+        
+
+        
+          <a data-pocket-label="pocket" data-pocket-count="none" class="pocket-btn" data-lang="en"></a>
+          <script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+        
+
+      </div>
+    
+  
+
+        </aside>
+      </div>
+
+      <div id="footer" class="pt-2 pb-3 bg-white text-center">
+        
+          <span class="text-small text-gray">
+            
+Contents: ©inajob 2020 ,Theme: ©Qiushi Pan 2018.
+Generated with
+<a href="https://gohugo.io" class="link-gray-dark">Hugo</a> and
+<a href="https://github.com/qqhann/hugo-primer" class="link-gray-dark">Hugo-Primer</a> theme.
+
+          </span>
+        
+      </div>
+    </div>
+
+
+    
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    
+    <script type="text/x-mathjax-config">MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });</script>
+  </body>
+</html>

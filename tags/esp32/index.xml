@@ -5,9 +5,46 @@
     <description>Recent content in ESP32 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 23 Nov 2021 12:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Jan 2022 12:30:48 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/esp32/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ArduinoでプログラミングできるWiFiにも対応したレシートプリンタ「ATOM Printer」</title>
+      <link>https://inajob.github.io/iroiro-review/post/arduino%E3%81%A7%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%A7%E3%81%8D%E3%82%8Bwifi%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C%E3%81%97%E3%81%9F%E3%83%AC%E3%82%B7%E3%83%BC%E3%83%88%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BFatom-printer/</link>
+      <pubDate>Mon, 31 Jan 2022 12:30:48 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/arduino%E3%81%A7%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%A7%E3%81%8D%E3%82%8Bwifi%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C%E3%81%97%E3%81%9F%E3%83%AC%E3%82%B7%E3%83%BC%E3%83%88%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BFatom-printer/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-reviewimg/atom-printer-cover.jpg"&gt;この記事はBanggoodの提供でお届けします。
+以前紹介したようにこのブログはBanggoodと提携させていただいており、今回紹介するM5Stack ATOM Printerも、Banggoodからいただいたものとなります。（M5Stack ATOM Printerのレビューがしたい！と言ったのは自分なので、Banggoodが無理やりこの商品を押しているわけではなく、inajobの一押しアイテム！、という感じです。）
+ATOM Thermal Printer Kit とは この商品はM5Stack社のATOM Liteという小型モジュールに感熱紙プリンタがくっついたものです。
+ATOM LiteのコアはESP32-Pico-D4で、もちろんWiFiをサポートしています。
+WiFiで指示を受け取り、感熱紙に文字や画像を印刷するようなプロトタイピングを迅速に開発できます。
+仕様  ATOM Lite: ESP32-Pico-D4 4MB Flash 技適付き ボール紙による筐体 UARTによる制御  使用前の準備 この製品を使うためには、12VのACアダプタが必要です、また書き込みのためにはATOM Liteに接続するためのUSB Type-Cケーブルが必要です。
+ACアダプタは12V2.5A以上のものが必要と書いてありましたが、我が家には2Aの物しかなく、これで動かしています。
+12VのACアダプタをつなげれば・・と思いましたが、どうも初期ファームウェアに不具合があるようで、WiFiに接続できないエラーが延々と出力されてしまいます。
+この問題はM5Stack社に報告したので、近いうちに修正されると思いますが、同様の問題に遭遇した人のために修正方法を記載しておきます。
+ファームウェアの不具合による問題からの復旧（症状が起きている場合のみ） 症状としては、AC12Vで電源を入れた時にプリンタから「Mode: UIFLOW」「WiFi Password Erro！」という文字が延々と印刷されるというものです。 期待する挙動としてはATOM Liteのボタンを押すことでModeがAPとなることなのですが、どうもこれがうまく動かないようです。
+ここまでの症状が同じ場合は、以下の手順で復旧が出来ます。
+この初期ファームウェアのソースコードは以下に存在しています。
+https://github.com/m5stack/ATOM-PRINTER/blob/master/examples/FactoryTest/FactoryTest.ino
+このリポジトリをGitを使い手元にCloneし、Arduino IDEで開きます。
+Arduino IDEでATOM Liteの開発をするためにはUSBシリアルドライバのインストールと、ボードのインストール・ライブラリのインストールが必要です。以下を参考に設定します。
+https://docs.m5stack.com/en/quick_start/atom/arduino
+FactoryTest.inoがビルドできることを確認出来たら、少し内容を修正します。
+具体的には、この80行目の後に preferences.putBool(&amp;quot;PRINTER_MODE&amp;quot;, APMode);という行を入れます。
+https://github.com/m5stack/ATOM-PRINTER/blob/master/examples/FactoryTest/FactoryTest.ino#L130
+この修正を行ったFactoryTest.inoを一度書き込んで実行すれば、後は元に戻したFactoryTest.inoでもうまく動作します。
+おそらくこれはATOM Printerの製品の検品時に、テスト用のWiFiのAPに接続するテストを行っていることが原因です。
+現在のファームウェアは一度設定されたWiFiに接続できることを前提に処理が組まれており、つながらない場合は本体をリセットし続けて接続できるのを待ってしまいます。
+しかし当然我が家にはATOM Printerの検品時に接続していたWiFiがあるわけもなく、何度リセットしても接続できません。
+WiFiの設定は不揮発メモリに保持されているため、ファームウェアを書き直してもWiFiの設定が消えません。
+ここに記載した処理は、WiFiの設定が存在していてもそれを無視してAPモードとして振舞うように不揮発メモリに記録するというものです。
+一度モードを不揮発メモリに記録すれば、この問題は解消します。
+おそらくこの問題は近いうちに解消すると思います。手元でこの問題が起こらない場合はこの対応は不要です。
+動作確認 さてお待ちかねの動作確認です。
+APモードで起動したATOM PrinterはWiFiのAPとして振舞います。 手元のスマートフォンなどで、WiFiスポットを調べてみると ATOM Printerという文字を含むSSIDが見えると思います。 そのWiFiにスマートフォンを接続し、ATOM Printerから印字されたIPアドレスにブラウザからアクセスすることで、プリンタを制御するためのWebUIを表示することが出来ます。</description>
+    </item>
     
     <item>
       <title>ゲームボーイアドバンスをESP32の力でBluetoothゲームコントローラにするHACK</title>
@@ -131,17 +168,6 @@ ICが調達できなくなっても、最近のパワフルなプロセッサで
 ESP32がコアのPDA風ガジェットです。シャープのメモリ液晶とESP32に内蔵されている低消費電力プロセッサ ULPを活用することで、低電力での動作を実現しています。
 加速度センサーも内蔵しており、これを利用したキーボード入力なども紹介されています。
  </description>
-    </item>
-    
-    <item>
-      <title>変形できるドットマトリクス表示機</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%A4%89%E5%BD%A2%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
-      <pubDate>Sat, 12 Sep 2020 23:00:19 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%A4%89%E5%BD%A2%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/iot-led-clock.jpg"&gt;IOT Convertible LED Matrix Clockから発見。画像もここから転載。（CC BY-NC-SA）
-横長と、折りたたんだ形態、２つの形態に変形するドットマトリクス表示機です。コアとなるボードはESP32です。
-折りたためるケースは3Dプリンタで作成されており、折り畳まれたかどうかはリードスイッチにより磁石との接触を検知して実現しています。</description>
     </item>
     
   </channel>
