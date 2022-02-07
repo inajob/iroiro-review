@@ -180,8 +180,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <pre><code>import pew
 
 pew.init()
-screen = pew.Pix()
-background = pew.Pix.from_iter((
+face = pew.Pix.from_iter((
     (0, 0, 3, 3, 3, 3, 0, 0),
     (0, 3, 0, 0, 0, 0, 3, 0),
     (3, 0, 3, 0, 0, 3, 0, 3),
@@ -191,8 +190,15 @@ background = pew.Pix.from_iter((
     (0, 3, 0, 0, 0, 0, 3, 0),
     (0, 0, 3, 3, 3, 3, 0, 0),
 ))
+screen = pew.Pix()
+
+count = 0
 while True:
+    screen.box(0, 0, 0, 8, 8)
+    screen.blit(face, count % 9 - 9, 0)
+    screen.blit(face, count % 9, 0)
     pew.show(screen)
+    count = count + 1
     pew.tick(1/12)
 </code></pre><p><img src="../../img/pewpew-standalone-smile.jpg" alt=""></p>
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="ja" dir="ltr">PewPew Standalone完全に理解した <a href="https://t.co/BPfo8AVq6b">pic.twitter.com/BPfo8AVq6b</a></p>&mdash; ina_ani@1歳9ヶ月児のパパ (@ina_ani) <a href="https://twitter.com/ina_ani/status/1490290369220984832?ref_src=twsrc%5Etfw">February 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
