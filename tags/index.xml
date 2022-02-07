@@ -5,9 +5,18 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 06 Feb 2022 12:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Feb 2022 23:00:51 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>usb</title>
+      <link>https://inajob.github.io/iroiro-review/tags/usb/</link>
+      <pubDate>Mon, 07 Feb 2022 23:00:51 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/usb/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>atsamd21</title>
@@ -87,15 +96,6 @@
       <pubDate>Mon, 31 Jan 2022 12:30:48 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/m5stack/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>プリンタ</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
-      <pubDate>Mon, 31 Jan 2022 12:30:48 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     

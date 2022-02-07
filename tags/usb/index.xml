@@ -5,9 +5,23 @@
     <description>Recent content in usb on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 20 May 2021 11:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Feb 2022 23:00:51 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/usb/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>既存のUSB機器をType-C対応する手法</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%97%A2%E5%AD%98%E3%81%AEusb%E6%A9%9F%E5%99%A8%E3%82%92type-c%E5%AF%BE%E5%BF%9C%E3%81%99%E3%82%8B%E6%89%8B%E6%B3%95/</link>
+      <pubDate>Mon, 07 Feb 2022 23:00:51 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%97%A2%E5%AD%98%E3%81%AEusb%E6%A9%9F%E5%99%A8%E3%82%92type-c%E5%AF%BE%E5%BF%9C%E3%81%99%E3%82%8B%E6%89%8B%E6%B3%95/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/usbcconv.jpg"&gt;NEAT AND TIDY USB-C CONVERSIONS FOR LEGACY DEVICESから発見。画像もここから転載。
+従来のUSB端子を Type-Cに換装する事例の紹介です。
+昨今のノートパソコンや、スマートフォンはUSB Type-C端子しか備えていないものも多く、従来のUSB端子を備えた周辺機器を利用するためには、変換コネクタが必要になります。
+そこでこの記事では、既存の周辺機器のコネクタ部分を分解して、コネクタをType-Cに換装する方法を紹介しています。
+利用しているのはUSB Type-Cのブレイクアウトボードで、はんだ付けも比較的簡単そうです。
+</description>
+    </item>
     
     <item>
       <title>USB機器をUART接続するためのモジュール</title>
