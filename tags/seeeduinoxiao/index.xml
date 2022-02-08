@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SeeeduinoXiao on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/seeeduinoxiao/</link>
+    <description>Recent content in SeeeduinoXiao on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Tue, 08 Feb 2022 23:00:54 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/seeeduinoxiao/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CircuitPytonでプログラムされたマクロキーパッド</title>
+      <link>https://inajob.github.io/iroiro-review/post/circuitpyton%E3%81%A7%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%95%E3%82%8C%E3%81%9F%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%AD%E3%83%BC%E3%83%91%E3%83%83%E3%83%89/</link>
+      <pubDate>Tue, 08 Feb 2022 23:00:54 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/circuitpyton%E3%81%A7%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%95%E3%82%8C%E3%81%9F%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%AD%E3%83%BC%E3%83%91%E3%83%83%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/xiao-macro-keyboard.jpeg"&gt;Build a simple USB HID Macropad using Seeeduino Xiao &amp;amp; CircuitPythonから発見。画像もここから転載。
+Seeeduino Xiaoを使ったマクロキーパッドの作例です。
+Xiaoはパワフルなマイコンなので、CircuitPythonが動作します。
+そのためキーボードのソースコードもPythonで書くことが出来、デバッグにもPythonのREPLを使うことが出来るようです。
+基板を使わない3Dプリンタ製のエンクロージャもよくできています。</description>
+    </item>
+    
+  </channel>
+</rss>
+
