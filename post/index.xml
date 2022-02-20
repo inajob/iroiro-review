@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 17 Feb 2022 12:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Feb 2022 23:00:07 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>STM32をコアとしたArduinoNanoっぽい開発ボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/stm32%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9Farduinonano%E3%81%A3%E3%81%BD%E3%81%84%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Sun, 20 Feb 2022 23:00:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/stm32%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9Farduinonano%E3%81%A3%E3%81%BD%E3%81%84%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/otterpill.jpg"&gt;OtterPillから発見。画像もここから転載。
+OtterPill は STM32F072をコアとしたArduino Nanoっぽい開発ボードです。
+USB Type-C端子を搭載し、USB-PDを扱うこともできるようです。
+設計はオープンソースです。</description>
+    </item>
     
     <item>
       <title>お古のレジの部品を流用して作ったマクロパッド</title>
@@ -141,21 +153,6 @@ PewPew Standaloneとは PewPew Standaloneはオープンソースの携帯ゲー
 保存するたびにゲームが再読み込みされるような動作をするため、スムーズに開発をすることが出来ます。
 例えば以下のような内容のcode.pyを作って保存することで、画面に顔マークを横スクロールで表示できます。
 import pew pew.init() face = pew.Pix.from_iter(( (0, 0, 3, 3, 3, 3, 0, 0), (0, 3, 0, 0, 0, 0, 3, 0), (3, 0, 3, 0, 0, 3, 0, 3), (3, 0, 3, 0, 0, 3, 0, 3), (3, 0, 0, 0, 0, 0, 0, 3), (3, 0, 3, 3, 3, 3, 0, 3), (0, 3, 0, 0, 0, 0, 3, 0), (0, 0, 3, 3, 3, 3, 0, 0), )) screen = pew.</description>
-    </item>
-    
-    <item>
-      <title>小さいソーラパネルで動作する省エネのLチカ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%B0%8F%E3%81%95%E3%81%84%E3%82%BD%E3%83%BC%E3%83%A9%E3%83%91%E3%83%8D%E3%83%AB%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B%E7%9C%81%E3%82%A8%E3%83%8D%E3%81%AEl%E3%83%81%E3%82%AB/</link>
-      <pubDate>Wed, 02 Feb 2022 21:00:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%B0%8F%E3%81%95%E3%81%84%E3%82%BD%E3%83%BC%E3%83%A9%E3%83%91%E3%83%8D%E3%83%AB%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B%E7%9C%81%E3%82%A8%E3%83%8D%E3%81%AEl%E3%83%81%E3%82%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/小さいソーラパネルで動作する省エネのLチカ.jpg"&gt;ゆういちろうさんのTweetから発見。画像もここから転載。
-ソーラーパネルを使った作例は、電池なしでも半永久的に動作するため夢がありますが、大きなパネルを使わないと大した電力が得られず、なかなかハードルが高いです。
-このTweetでは、一円玉大サイズのソーラーパネルを使い、LEDを点滅させることを実現しています。
-M34-2LというLEDフラッシャーICをつかい、また電流量を制限するためにLEDとの間に1MΩの抵抗を挟んでいるようです。 次の点灯のために必要な電力を貯めるために10uFのコンデンサも実装されています。
-この仕組みだと室内の照明の明かりなどでも動作するようです。
-小さいソーラーパネルの電力でLEDがチカチカするやつ好きなので作ってみた。部屋の灯かりでも動く！ pic.twitter.com/2njMTD2miV
-&amp;mdash; ゆういちろう🦐 (@yuuitirou528) January 20, 2022  </description>
     </item>
     
   </channel>
