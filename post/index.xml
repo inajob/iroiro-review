@@ -5,9 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 20 Feb 2022 23:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Feb 2022 23:00:19 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>スマートフォンをそのまま使った2足歩行ロボット</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%82%92%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BE%E4%BD%BF%E3%81%A3%E3%81%9F2%E8%B6%B3%E6%AD%A9%E8%A1%8C%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</link>
+      <pubDate>Mon, 21 Feb 2022 23:00:19 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%82%92%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BE%E4%BD%BF%E3%81%A3%E3%81%9F2%E8%B6%B3%E6%AD%A9%E8%A1%8C%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/smartphone-robot.jpg"&gt;Arduino robot controlled by Android smartphoneから発見。画像もここから転載。
+スマートフォンを頭脳とした2足歩行ロボットです。
+スマートフォンはそのまま置いてあるだけで、Bluetooth経由で2足の脚を制御しています。
+スマートフォン側で動くプログラムが画像認識したり、音声認識をしたりと複雑な制御を実現しています。
+複雑な処理をスマートフォンに丸投げするというのはなかなか良いアプローチのように思いました。
+</description>
+    </item>
     
     <item>
       <title>STM32をコアとしたArduinoNanoっぽい開発ボード</title>
@@ -126,33 +140,6 @@ Xiaoはパワフルなマイコンなので、CircuitPythonが動作します。
 そこでこの記事では、既存の周辺機器のコネクタ部分を分解して、コネクタをType-Cに換装する方法を紹介しています。
 利用しているのはUSB Type-Cのブレイクアウトボードで、はんだ付けも比較的簡単そうです。
 </description>
-    </item>
-    
-    <item>
-      <title>ATSAMD21搭載CircuitPythonでゲームが作れる激安携帯ゲーム端末「PewPew Standalone」</title>
-      <link>https://inajob.github.io/iroiro-review/post/atsamd21%E6%90%AD%E8%BC%89circuitpython%E3%81%A7%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%8C%E4%BD%9C%E3%82%8C%E3%82%8B%E6%BF%80%E5%AE%89%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E7%AB%AF%E6%9C%ABpewpew-standalone/</link>
-      <pubDate>Sun, 06 Feb 2022 12:00:07 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/atsamd21%E6%90%AD%E8%BC%89circuitpython%E3%81%A7%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%8C%E4%BD%9C%E3%82%8C%E3%82%8B%E6%BF%80%E5%AE%89%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E7%AB%AF%E6%9C%ABpewpew-standalone/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/pewpew-standalone-cover.jpg"&gt;この記事はMakerfabsの提供でお届けします。
-今回紹介するPewPew StandaloneはMakerfabsから提供いただいたものです。
-（ですが、PewPew Standaloneをレビューしたい！と言ったのは自分なので、Makerfabsが無理やりこの商品を押しているわけではなく、inajobの一押しアイテム！、という感じです。）
-PewPew Standaloneとは PewPew Standaloneはオープンソースの携帯ゲーム機です。
-ゲーム機と言っていますが、その性質は開発用プロトタイプボード、といった雰囲気のもので、この製品も基板むき出しで、ケースなどは付属していません。
-仕様  ATSAMD21 8x8 ドットマトリクス赤色LED Micro USB接続（データ専用） 単4電池x2 駆動 十字ボタン+2ボタン = 6ボタン 拡張端子 オープンソースハードウェア 電源スイッチ M2と思われる固定用の穴（ケースは付属しません）  さらに細かい仕様は公式サイトを見てみてください。
-遊んでみる 乾電池を入れて電源を入れると、初期ゲームが起動します。 ゲームランチャーが起動し、上下キーでいくつかのゲームを選んで起動することが出来ます。
- frog snake othello  乾電池が手元に無く、USBケーブルをつないで起動するか？と思いましたが、このゲーム機はこれでは起動しません。USBケーブルはデータ転送のみで電源は乾電池から得るという設計のようです。
-もっというと、この基板上にはUSBからの5Vを3.3Vに降圧するためのレギュレータを搭載するためのフットプリントが存在しますが、実装されていません。確かにこれが無くても、乾電池さえ入れていればうまく動くので、「必要な人は取り付けてね」というスタンスなのでしょう。
-ゲームを起動して気づくのは、単色のドットマトリクスLEDですが、階調表示を実現していることです。
-ソースコードを見ると、どうやら4階調までサポートしているようですが、正直なところ消灯、中間、フルパワーの3段階がなんとか視認できるという程度で、あまり見やすいとは言えない表示方法のように見えました。
-キーの入力も取りこぼしが多く、こちらもソースコードを見たところメインループの処理をゲームスピードに合わせて律速していると、キーのスキャンもそれに合わせて律速されてしまうようで、このせいで操作性が悪くなっているようでした。まぁ、この点はプログラムの書き方で改善できそうです。
-パソコンとつないでみる（ゲーム開発編） パソコンとつなげると、マスストレージデバイスとしてふるまい、普通のUSBメモリのように認識されてファイル一覧を見ることが出来ます。
-これはCircuitPythonの仕組みを利用しているようです。
-前項で遊んだゲームはmain.pyに記述されたランチャーから各ゲームのスクリプト呼び出すことで実現しています。
-ゲームを開発するときは、ドライブ直下にcode.pyというファイルを作り、それを編集することで動作を検証することが出来ます。
-保存するたびにゲームが再読み込みされるような動作をするため、スムーズに開発をすることが出来ます。
-例えば以下のような内容のcode.pyを作って保存することで、画面に顔マークを横スクロールで表示できます。
-import pew pew.init() face = pew.Pix.from_iter(( (0, 0, 3, 3, 3, 3, 0, 0), (0, 3, 0, 0, 0, 0, 3, 0), (3, 0, 3, 0, 0, 3, 0, 3), (3, 0, 3, 0, 0, 3, 0, 3), (3, 0, 0, 0, 0, 0, 0, 3), (3, 0, 3, 3, 3, 3, 0, 3), (0, 3, 0, 0, 0, 0, 3, 0), (0, 0, 3, 3, 3, 3, 0, 0), )) screen = pew.</description>
     </item>
     
   </channel>

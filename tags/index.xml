@@ -5,9 +5,27 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 20 Feb 2022 23:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Feb 2022 23:00:19 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Arduino</title>
+      <link>https://inajob.github.io/iroiro-review/tags/arduino/</link>
+      <pubDate>Mon, 21 Feb 2022 23:00:19 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/arduino/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>ロボット</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</link>
+      <pubDate>Mon, 21 Feb 2022 23:00:19 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>STM32F072</title>
@@ -78,24 +96,6 @@
       <pubDate>Mon, 14 Feb 2022 11:30:51 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/esp8266/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>プロッタ</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</link>
-      <pubDate>Mon, 14 Feb 2022 11:30:51 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>STC</title>
-      <link>https://inajob.github.io/iroiro-review/tags/stc/</link>
-      <pubDate>Sun, 13 Feb 2022 23:00:43 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/stc/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     

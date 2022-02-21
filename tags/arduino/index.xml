@@ -5,9 +5,23 @@
     <description>Recent content in Arduino on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 04 Jan 2022 23:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Feb 2022 23:00:19 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>スマートフォンをそのまま使った2足歩行ロボット</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%82%92%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BE%E4%BD%BF%E3%81%A3%E3%81%9F2%E8%B6%B3%E6%AD%A9%E8%A1%8C%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</link>
+      <pubDate>Mon, 21 Feb 2022 23:00:19 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%82%92%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BE%E4%BD%BF%E3%81%A3%E3%81%9F2%E8%B6%B3%E6%AD%A9%E8%A1%8C%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/smartphone-robot.jpg"&gt;Arduino robot controlled by Android smartphoneから発見。画像もここから転載。
+スマートフォンを頭脳とした2足歩行ロボットです。
+スマートフォンはそのまま置いてあるだけで、Bluetooth経由で2足の脚を制御しています。
+スマートフォン側で動くプログラムが画像認識したり、音声認識をしたりと複雑な制御を実現しています。
+複雑な処理をスマートフォンに丸投げするというのはなかなか良いアプローチのように思いました。
+</description>
+    </item>
     
     <item>
       <title>パソコンでタイプライターを打っている気分になれるガジェット</title>
@@ -124,19 +138,6 @@ Arduinoに16チャンネルのサーボモーターコントローラボード�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/arduino-midi-keyboard.jpg"&gt;Mini-Tone Keyboard Badgeから発見。画像もここから転載。
 Arduino互換の2.5オクターブ鍵盤を搭載したキーボードの作例です。 CPUはATMega328PB、USBシリアル変換ICにはCH340Gと、よく見かける格安Arduinoと同じ構成になっています。
 3.5mmオーディオジャックや、スピーカーも搭載され、スタンドアローンでも動作するように工夫されています。</description>
-    </item>
-    
-    <item>
-      <title>実際に恐竜ゲームを「ジャンプ」して遊ぶ装置</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%AE%9F%E9%9A%9B%E3%81%AB%E6%81%90%E7%AB%9C%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%81%97%E3%81%A6%E9%81%8A%E3%81%B6%E8%A3%85%E7%BD%AE/</link>
-      <pubDate>Tue, 26 Oct 2021 10:00:04 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%AE%9F%E9%9A%9B%E3%81%AB%E6%81%90%E7%AB%9C%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%81%97%E3%81%A6%E9%81%8A%E3%81%B6%E8%A3%85%E7%BD%AE/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/offline-dino-jumper.png"&gt;OFFLINE DINOSAUR-JUMPING BECOMES A REAL WORKOUTから発見。画像もここから転載。
-インターネットにつながらないときにChromeで遊べる「恐竜ゲーム」を使って運動をしようという試みです。
-Arduinoと加速度センサーを用いてジャンプを検出し、キーボードのスペースキーを押下するという単純な仕組みで実現されているようです。
-単純な仕組みですが意外と面白そうです。
-</description>
     </item>
     
   </channel>
