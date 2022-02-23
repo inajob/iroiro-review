@@ -5,9 +5,36 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 21 Feb 2022 23:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Feb 2022 13:59:36 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>カリンバ</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E3%82%AB%E3%83%AA%E3%83%B3%E3%83%90/</link>
+      <pubDate>Wed, 23 Feb 2022 13:59:36 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E3%82%AB%E3%83%AA%E3%83%B3%E3%83%90/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>日本</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E6%97%A5%E6%9C%AC/</link>
+      <pubDate>Wed, 23 Feb 2022 13:59:36 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E6%97%A5%E6%9C%AC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>楽器</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E6%A5%BD%E5%99%A8/</link>
+      <pubDate>Wed, 23 Feb 2022 13:59:36 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E6%A5%BD%E5%99%A8/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>Arduino</title>
@@ -69,33 +96,6 @@
       <pubDate>Wed, 16 Feb 2022 20:00:00 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/%E6%89%8B%E8%8A%B8/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>日本</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E6%97%A5%E6%9C%AC/</link>
-      <pubDate>Wed, 16 Feb 2022 20:00:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E6%97%A5%E6%9C%AC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>CircuitPython</title>
-      <link>https://inajob.github.io/iroiro-review/tags/circuitpython/</link>
-      <pubDate>Tue, 15 Feb 2022 11:00:29 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/circuitpython/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>ESP8266</title>
-      <link>https://inajob.github.io/iroiro-review/tags/esp8266/</link>
-      <pubDate>Mon, 14 Feb 2022 11:30:51 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/esp8266/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
