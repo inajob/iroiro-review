@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 23 Feb 2022 13:59:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Feb 2022 23:00:32 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ソーラーパワーで動作する電子さいころ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%BD%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%91%E3%83%AF%E3%83%BC%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B%E9%9B%BB%E5%AD%90%E3%81%95%E3%81%84%E3%81%93%E3%82%8D/</link>
+      <pubDate>Thu, 24 Feb 2022 23:00:32 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%BD%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%91%E3%83%AF%E3%83%BC%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B%E9%9B%BB%E5%AD%90%E3%81%95%E3%81%84%E3%81%93%E3%82%8D/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/soler-dice.jpg"&gt;Solar Dice Kitから発見。画像もここから転載。
+ソーラーパワーで動作する電子ガジェットは、バッテリーを交換する必要が無く、魅力的なものです。
+この記事で紹介しているのはソーラーパワーで駆動する電子さいころです。
+CPUはATTiny85で、スーパーキャパシタに電力をためることで、10-20回のダイスロールができるようです。
+</description>
+    </item>
     
     <item>
       <title>かっこいいエレキカリンバ</title>
@@ -126,19 +139,6 @@ Arduboyはコンパクトでよくできた携帯ゲーム機ですが、USBキ�
 全自動たまご割り機。
 その場でグルグルできるようにしてみた。キモい。#ダイパリメイク https://t.co/KFp79njd5N pic.twitter.com/MkBJnINaft
 &amp;mdash; 荒miu (三浦 琢) (@miu_robo) January 10, 2022  </description>
-    </item>
-    
-    <item>
-      <title>CircuitPytonでプログラムされたマクロキーパッド</title>
-      <link>https://inajob.github.io/iroiro-review/post/circuitpyton%E3%81%A7%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%95%E3%82%8C%E3%81%9F%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%AD%E3%83%BC%E3%83%91%E3%83%83%E3%83%89/</link>
-      <pubDate>Tue, 08 Feb 2022 23:00:54 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/circuitpyton%E3%81%A7%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%95%E3%82%8C%E3%81%9F%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%AD%E3%83%BC%E3%83%91%E3%83%83%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/xiao-macro-keyboard.jpeg"&gt;Build a simple USB HID Macropad using Seeeduino Xiao &amp;amp; CircuitPythonから発見。画像もここから転載。
-Seeeduino Xiaoを使ったマクロキーパッドの作例です。
-Xiaoはパワフルなマイコンなので、CircuitPythonが動作します。
-そのためキーボードのソースコードもPythonで書くことが出来、デバッグにもPythonのREPLを使うことが出来るようです。
-基板を使わない3Dプリンタ製のエンクロージャもよくできています。</description>
     </item>
     
   </channel>
