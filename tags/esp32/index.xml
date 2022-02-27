@@ -20,6 +20,7 @@
 （ですが、ESPlay Micro V2をレビューしたい！と言ったのは自分なので、Makerfabsが無理やりこの商品を押しているわけではなく、inajobの一押しアイテム！、という感じです。）
 ESPlay Micro V2とは ESPlay Micro V2はオープンソースの携帯ゲーム機です。
 コアとなるマイコンはESP32で、様々なレトロゲームのエミュレータが動作する、本格的なゲーム機です。
+また、このゲーム機は以前紹介したESP32を搭載した携帯ゲーム機「ESPlay Micro」 の後継機種です。
 仕様   ESP32-WROOBER
  という事で技適もあります。日本で使っても安心。    十字キー+ A,B, L,R, Start, Selectボタン
   I2C接続IOエキスパンダIC PCF8574
@@ -31,8 +32,7 @@ ESPlay Micro V2とは ESPlay Micro V2はオープンソースの携帯ゲーム�
   MicroSDカードスロット搭載（MicroSDカードも8GBのものが同梱されていました）
   拡張用I2C端子
   800mAh LiPo電池
-  充電IC TP4054
-  電源スイッチ</description>
+  充電IC TP4054</description>
     </item>
     
     <item>
