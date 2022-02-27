@@ -30,8 +30,9 @@ ESPlay Micro V2とは ESPlay Micro V2はオープンソースの携帯ゲーム�
   アクリル板による筐体
   MicroSDカードスロット搭載（MicroSDカードも8GBのものが同梱されていました）
   拡張用I2C端子
-  800mAh LiPo電池 （TODO 容量を書く）
-  充電IC TP4054</description>
+  800mAh LiPo電池
+  充電IC TP4054
+  電源スイッチ</description>
     </item>
     
     <item>
