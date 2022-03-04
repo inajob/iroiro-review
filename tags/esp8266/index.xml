@@ -5,9 +5,25 @@
     <description>Recent content in ESP8266 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 14 Feb 2022 11:30:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Mar 2022 00:00:18 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/esp8266/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>今日の分の薬を用意してくれる装置</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E4%BB%8A%E6%97%A5%E3%81%AE%E5%88%86%E3%81%AE%E8%96%AC%E3%82%92%E7%94%A8%E6%84%8F%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Fri, 04 Mar 2022 00:00:18 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E4%BB%8A%E6%97%A5%E3%81%AE%E5%88%86%E3%81%AE%E8%96%AC%E3%82%92%E7%94%A8%E6%84%8F%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E8%A3%85%E7%BD%AE/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/pill-dispenser.jpg"&gt;Smart Pill Dispenserから発見。画像もここから転載(CC BY-NC-SA by danielleguli)。
+薬を服用していると、「あれ？今日のんだっけ？」となる事がよくあります。
+高齢者となるとそれも顕著なようで、今日必要な薬を正しく提示するための様々な製品があります。
+この記事で紹介しているのは、ハイテクだけど素朴な、薬供給機です。
+引き出しの上にある管に薬を入れて置き、定時になったらサーボモータが回転し、薬を1つずつ落とします。
+これにより、引き出しを開けると中には必要な分の薬が入っています。
+工作は雑ですが、仕組みが非常にわかりやすく、面白い作例です。
+</description>
+    </item>
     
     <item>
       <title>ショーウィンドウに飾られたプロッタに通行人がテキストを投稿できる仕組み</title>
@@ -33,22 +49,6 @@ QRコードにアクセスすると、テキストを投稿できるWebUIが表�
 根本的な対策はいろいろあるものの、この「ネットワークの調子が悪いときにルータを再起動する」という動作をするガジェットの自作例を紹介します。
 ESP8266を使いWiFiの電波状況を確認し、問題があればリレーをOFF-ONする、という単純な仕組みです。
 アドホックですが、良いルータが届くまでのソリューションとしては、なかなか良いのではないでしょうか？</description>
-    </item>
-    
-    <item>
-      <title>今日の分の薬を用意してくれる装置</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E4%BB%8A%E6%97%A5%E3%81%AE%E5%88%86%E3%81%AE%E8%96%AC%E3%82%92%E7%94%A8%E6%84%8F%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E8%A3%85%E7%BD%AE/</link>
-      <pubDate>Wed, 12 Jan 2022 11:30:34 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E4%BB%8A%E6%97%A5%E3%81%AE%E5%88%86%E3%81%AE%E8%96%AC%E3%82%92%E7%94%A8%E6%84%8F%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E8%A3%85%E7%BD%AE/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/pill-dispenser.jpg"&gt;Smart Pill Dispenserから発見。画像もここから転載(CC BY-NC-SA by danielleguli)。
-薬を服用していると、「あれ？今日のんだっけ？」となる事がよくあります。
-高齢者となるとそれも顕著なようで、今日必要な薬を正しく提示するための様々な製品があります。
-この記事で紹介しているのは、ハイテクだけど素朴な、薬供給機です。
-引き出しの上にある管に薬を入れて置き、定時になったらサーボモータが回転し、薬を1つずつ落とします。
-これにより、引き出しを開けると中には必要な分の薬が入っています。
-工作は雑ですが、仕組みが非常にわかりやすく、面白い作例です。
-</description>
     </item>
     
     <item>
