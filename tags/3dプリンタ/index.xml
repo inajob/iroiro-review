@@ -5,9 +5,26 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 02 Mar 2022 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Mar 2022 21:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタのフィラメントが送れない状態を検知するデバイス</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%81%8C%E9%80%81%E3%82%8C%E3%81%AA%E3%81%84%E7%8A%B6%E6%85%8B%E3%82%92%E6%A4%9C%E7%9F%A5%E3%81%99%E3%82%8B%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</link>
+      <pubDate>Sun, 06 Mar 2022 21:00:00 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%81%8C%E9%80%81%E3%82%8C%E3%81%AA%E3%81%84%E7%8A%B6%E6%85%8B%E3%82%92%E6%A4%9C%E7%9F%A5%E3%81%99%E3%82%8B%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/clogg-detector.jpg"&gt;3D Printer Clog Detectorから発見。画像もここから転載。
+3Dプリンタを使っていると様々なトラブルが起きます。
+そのうちの1つに「フィラメントが送れない」という問題があります。
+ノズルが詰まったり、フィラメントが途中で折れたり、フィラメントが無くなったりと、原因は様々ですが、安い3Dプリンタではこれを検知せずに印刷を続けてしまうため、意図した造形物が作られなくなってしまいます。
+フィラメントが送れなくなったら、とにかく早めにそれに気づき3Dプリンタを止めて、問題を解消したいものです。
+このページで紹介しているのはフィラメントが送れない問題を検知するための小さなガジェットです。
+このガジェット自体も3Dプリンタで作られており、仕組みは単純です。
+フィラメントをギアではさみ送られると回転する機構を用意し、この回転をマイコンで取得し、意図しないタイミングで回転が止まった場合にブザーがなるようになっています。
+</description>
+    </item>
     
     <item>
       <title>FDM式3Dプリンタでリフロー用ステンシルを作る</title>
@@ -123,20 +140,6 @@ CPUはESP12Eが使われており、IFTTTと連携して様々なイベントを
 一般的な3DプリンタはX,Y軸をベルトを使って作成しますが、この記事で紹介している3Dプリンタは、X,Y軸がねじ付きロッドを用いた変わったものです。
 ベルトに比べてたわんだりしないので、精度が出そうですが、駆動時の騒音問題や、モーターの回転速度などの問題がありそうですが、可能性を感じる作例です。
 </description>
-    </item>
-    
-    <item>
-      <title>滑車の仕組みを応用したロボットアームの駆動機構</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%BB%91%E8%BB%8A%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%82%92%E5%BF%9C%E7%94%A8%E3%81%97%E3%81%9F%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%A2%E3%83%BC%E3%83%A0%E3%81%AE%E9%A7%86%E5%8B%95%E6%A9%9F%E6%A7%8B/</link>
-      <pubDate>Sun, 05 Dec 2021 22:00:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%BB%91%E8%BB%8A%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%82%92%E5%BF%9C%E7%94%A8%E3%81%97%E3%81%9F%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%A2%E3%83%BC%E3%83%A0%E3%81%AE%E9%A7%86%E5%8B%95%E6%A9%9F%E6%A7%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/cable-joint-robot-arm.jpg"&gt;CABLE DRIVEN ROBOTIC JOINTから発見。画像もここから転載。
-滑車は便利な仕組みで、可動する滑車を利用することで少ないトルクで大きな力を生み出すことが出来ます。 この記事では滑車を利用したロボットアームの関節を紹介しています。
-ロボットの腕のようなパーツに、ワイヤーが貼られており、何度か滑車を介してワイヤーが接続されています。
-ワイヤーを小さな力で巻き取ると、腕を開閉することが出来ます。
-ロボットの腕を動かすモーターのトルクがある程度少なくても、この仕組みを使えば何とかなるかもしれません。
- </description>
     </item>
     
   </channel>

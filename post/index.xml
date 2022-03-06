@@ -5,9 +5,26 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 04 Mar 2022 00:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Mar 2022 21:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタのフィラメントが送れない状態を検知するデバイス</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%81%8C%E9%80%81%E3%82%8C%E3%81%AA%E3%81%84%E7%8A%B6%E6%85%8B%E3%82%92%E6%A4%9C%E7%9F%A5%E3%81%99%E3%82%8B%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</link>
+      <pubDate>Sun, 06 Mar 2022 21:00:00 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%81%8C%E9%80%81%E3%82%8C%E3%81%AA%E3%81%84%E7%8A%B6%E6%85%8B%E3%82%92%E6%A4%9C%E7%9F%A5%E3%81%99%E3%82%8B%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/clogg-detector.jpg"&gt;3D Printer Clog Detectorから発見。画像もここから転載。
+3Dプリンタを使っていると様々なトラブルが起きます。
+そのうちの1つに「フィラメントが送れない」という問題があります。
+ノズルが詰まったり、フィラメントが途中で折れたり、フィラメントが無くなったりと、原因は様々ですが、安い3Dプリンタではこれを検知せずに印刷を続けてしまうため、意図した造形物が作られなくなってしまいます。
+フィラメントが送れなくなったら、とにかく早めにそれに気づき3Dプリンタを止めて、問題を解消したいものです。
+このページで紹介しているのはフィラメントが送れない問題を検知するための小さなガジェットです。
+このガジェット自体も3Dプリンタで作られており、仕組みは単純です。
+フィラメントをギアではさみ送られると回転する機構を用意し、この回転をマイコンで取得し、意図しないタイミングで回転が止まった場合にブザーがなるようになっています。
+</description>
+    </item>
     
     <item>
       <title>今日の分の薬を用意してくれる装置</title>
@@ -146,17 +163,6 @@ I played my kalimba. https://t.co/0eyTbSlrst pic.twitter.com/UzAO0DazUo
 OtterPill は STM32F072をコアとしたArduino Nanoっぽい開発ボードです。
 USB Type-C端子を搭載し、USB-PDを扱うこともできるようです。
 設計はオープンソースです。</description>
-    </item>
-    
-    <item>
-      <title>お古のレジの部品を流用して作ったマクロパッド</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8A%E5%8F%A4%E3%81%AE%E3%83%AC%E3%82%B8%E3%81%AE%E9%83%A8%E5%93%81%E3%82%92%E6%B5%81%E7%94%A8%E3%81%97%E3%81%A6%E4%BD%9C%E3%81%A3%E3%81%9F%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%91%E3%83%83%E3%83%89/</link>
-      <pubDate>Thu, 17 Feb 2022 12:00:20 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8A%E5%8F%A4%E3%81%AE%E3%83%AC%E3%82%B8%E3%81%AE%E9%83%A8%E5%93%81%E3%82%92%E6%B5%81%E7%94%A8%E3%81%97%E3%81%A6%E4%BD%9C%E3%81%A3%E3%81%9F%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%91%E3%83%83%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/register-macro-pad.jpg"&gt;Hotkey Keypad From Cash Registerから発見。画像もここから転載。
-お古のレジの部品を流用して作ったマクロキーパッドです。
-仕組み自体は単純ですが、年季の入ったレジのキーボードスイッチは味があり、かつ打鍵しやすそうです。</description>
     </item>
     
   </channel>
