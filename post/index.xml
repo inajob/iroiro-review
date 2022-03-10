@@ -5,9 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 09 Mar 2022 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Mar 2022 23:30:16 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>周りに人がいる時だけ閉じるマスク</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%91%A8%E3%82%8A%E3%81%AB%E4%BA%BA%E3%81%8C%E3%81%84%E3%82%8B%E6%99%82%E3%81%A0%E3%81%91%E9%96%89%E3%81%98%E3%82%8B%E3%83%9E%E3%82%B9%E3%82%AF/</link>
+      <pubDate>Thu, 10 Mar 2022 23:30:16 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%91%A8%E3%82%8A%E3%81%AB%E4%BA%BA%E3%81%8C%E3%81%84%E3%82%8B%E6%99%82%E3%81%A0%E3%81%91%E9%96%89%E3%81%98%E3%82%8B%E3%83%9E%E3%82%B9%E3%82%AF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/auto-shy-mask.jpg"&gt;Shy Mask That Shuts Up When It Sees Peopleから発見。画像もここから転載（CC BY-NC-SA bý Friedlc）。
+コロナの影響で外出時はマスクをつけるというのが常識になりつつありますが、よく考えてみると、周りに人がいない状態の時はマスクをつける必要な無いように思います。
+この記事ではそんなアイデアを基に、人が周りにいる時だけマスクをかけるというガジェットを自作しています。
+人のセンシングには焦電センサーを用い、Arduinoでセンサーの値を読み取り、サーボモーターを動かして、マスクの開閉を行っています。
+焦電センサーは自身が止まっているときはうまく動くようですが、歩いていたりすると誤検知が多いようです。 しかし、このアイデア自体は非常に面白いです。
+ </description>
+    </item>
     
     <item>
       <title>ESP32で電波時計を合わせるテクニック</title>
@@ -173,19 +187,6 @@ ESPlay Micro V2とは ESPlay Micro V2はオープンソースの携帯ゲーム�
 この記事で紹介しているのはソーラーパワーで駆動する電子さいころです。
 CPUはATTiny85で、スーパーキャパシタに電力をためることで、10-20回のダイスロールができるようです。
 </description>
-    </item>
-    
-    <item>
-      <title>かっこいいエレキカリンバ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E3%82%A8%E3%83%AC%E3%82%AD%E3%82%AB%E3%83%AA%E3%83%B3%E3%83%90/</link>
-      <pubDate>Wed, 23 Feb 2022 13:59:36 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E3%82%A8%E3%83%AC%E3%82%AD%E3%82%AB%E3%83%AA%E3%83%B3%E3%83%90/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/かっこいいエレキカリンバ.jpg"&gt;木佐貫洋平 プロカリンバ奏者さんのTweetから発見。画像もここから転載。
-カリンバといえば素朴な楽器ですが、このTweetで紹介しているのは、エレキ化したカリンバです。 カリンバの出力を取り込んでエフェクタに繋げ、またTeenage EngineeringのPOシリーズを取り付けることで、リズムマシンとしての機能も備えています。
- Good sound.
-I played my kalimba. https://t.co/0eyTbSlrst pic.twitter.com/UzAO0DazUo
-&amp;mdash; 木佐貫洋平 プロカリンバ奏者 (@LimbaTrip) February 9, 2022  </description>
     </item>
     
   </channel>
