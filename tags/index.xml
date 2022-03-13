@@ -5,9 +5,18 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 10 Mar 2022 23:30:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Mar 2022 23:35:11 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OpenSCAD</title>
+      <link>https://inajob.github.io/iroiro-review/tags/openscad/</link>
+      <pubDate>Sun, 13 Mar 2022 23:35:11 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/openscad/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>3Dプリンタ</title>
@@ -87,15 +96,6 @@
       <pubDate>Fri, 04 Mar 2022 00:00:18 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/esp8266/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>ステンシル</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E3%82%B9%E3%83%86%E3%83%B3%E3%82%B7%E3%83%AB/</link>
-      <pubDate>Wed, 02 Mar 2022 13:00:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E3%82%B9%E3%83%86%E3%83%B3%E3%82%B7%E3%83%AB/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
