@@ -5,9 +5,20 @@
     <description>Recent content in ゲーム機 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 27 Feb 2022 23:30:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Mar 2022 22:33:30 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>よく網羅された携帯インディーズゲーム機の一覧</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%88%E3%81%8F%E7%B6%B2%E7%BE%85%E3%81%95%E3%82%8C%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%BA%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E3%81%AE%E4%B8%80%E8%A6%A7/</link>
+      <pubDate>Mon, 14 Mar 2022 22:33:30 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%88%E3%81%8F%E7%B6%B2%E7%BE%85%E3%81%95%E3%82%8C%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%BA%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E3%81%AE%E4%B8%80%E8%A6%A7/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/よく網羅された携帯インディーズゲーム機の一覧.jpg"&gt;oshaboy/awesome-indie-handheldsから発見。画像もここから転載。
+ここ数年インディーズ携帯ゲーム機が盛り上がっています。 よく似たスペックのものが多いのですが、それぞれ個性があって面白いです。
+この記事ではインディーズ携帯ゲーム機の一覧をスペックを含めて一覧しています。 オリジナル携帯ゲーム機を作る際の参考にもなりそうです。</description>
+    </item>
     
     <item>
       <title>ESP32を搭載した携帯ゲームエミュレータ「ESPlay Micro V2」</title>
@@ -144,20 +155,6 @@ ESP8266は価格が500円にもかかわらずパワフルなMCUです。WiFiが
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/cheap-tetris.jpg"&gt;CASUAL TETRIS COMES IN AT $9から発見。画像もここから転載。
 Arduino Pro Miniと 128x64のOLEDを利用して作った、テトリスゲーム機です。
 改めて部品の値段を確認すると$9程度で揃えることが出来そうです。この構成であればテトリスと言わずArduboyとほぼ同等のゲームが動作するはずなので、自分のオリジナルのゲームを作ってみるのも面白いのではないでしょうか？
- </description>
-    </item>
-    
-    <item>
-      <title>ArduinoNanoと簡単な部品で作ったテトリスの動くテレビゲーム機</title>
-      <link>https://inajob.github.io/iroiro-review/post/arduinonano%E3%81%A8%E7%B0%A1%E5%8D%98%E3%81%AA%E9%83%A8%E5%93%81%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9%E3%81%AE%E5%8B%95%E3%81%8F%E3%83%86%E3%83%AC%E3%83%93%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
-      <pubDate>Thu, 15 Jul 2021 11:00:19 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/arduinonano%E3%81%A8%E7%B0%A1%E5%8D%98%E3%81%AA%E9%83%A8%E5%93%81%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9%E3%81%AE%E5%8B%95%E3%81%8F%E3%83%86%E3%83%AC%E3%83%93%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/nano-video-game.jpg"&gt;A TETRIS TO BE PROUD OF, WITH ONLY A NANOから発見。画像もここから転載。
-Arduino Nanoと抵抗、コンデンサを組み合わせて作ったテレビゲーム機の作例です。
-NESのゲームパッド風のUSBゲームコントローラの筐体を流用し、その内部にArduino Nanoなどを実装した回路を内蔵しています。
-ゲームパッドには電源用のUSBコネクタと、ビデオとオーディオ出力用の4極の3.5mmオーディオジャックが実装されています。
-Arduinoだけでもここまでちゃんとしたテレビゲームが作れるのは驚きです。
  </description>
     </item>
     
