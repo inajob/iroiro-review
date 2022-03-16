@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 16 Mar 2022 00:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Mar 2022 13:06:29 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>意外な素材！石焼きリフロー</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%84%8F%E5%A4%96%E3%81%AA%E7%B4%A0%E6%9D%90%E7%9F%B3%E7%84%BC%E3%81%8D%E3%83%AA%E3%83%95%E3%83%AD%E3%83%BC/</link>
+      <pubDate>Wed, 16 Mar 2022 13:06:29 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%84%8F%E5%A4%96%E3%81%AA%E7%B4%A0%E6%9D%90%E7%9F%B3%E7%84%BC%E3%81%8D%E3%83%AA%E3%83%95%E3%83%AD%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/意外な素材！石焼きリフロー.jpg"&gt;おぷら技研さんのTweetから発見。画像もここから転載。
+真鍮を熱して、その上にPCBを置くことでリフローを行っています。 熱容量が大きいので、多少リフローしたくらいでは温度は低下せず、次々とリフローできそうです。
+放熱は自然現象に任せるしかないので温度管理が難しいかもしれませんが、なかなか面白い手法です。
+石 焼 き リ フ ロ ー#リフロー pic.twitter.com/Y9C3VjZFBK
+&amp;mdash; おぷら技研 (@OPLA_TECH) February 25, 2022  </description>
+    </item>
     
     <item>
       <title>3色ペンを出しわけできる吊り下げ式のホワイトボード用ペンプロッタ</title>
@@ -155,20 +168,6 @@ SOT-23-5 0.95mm ピッチは0.2mmノズルで。
 ESP32 くらいの1.27mmピッチなら、通常の0.4mmノズルでいけました。
 Flashforge Finder、PLA+ 使用) pic.twitter.com/sAAWqBYF9L
 &amp;mdash; でべ (@devemin) January 27, 2022  </description>
-    </item>
-    
-    <item>
-      <title>ESP32を使った省エネの動体検知カメラ</title>
-      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E7%9C%81%E3%82%A8%E3%83%8D%E3%81%AE%E5%8B%95%E4%BD%93%E6%A4%9C%E7%9F%A5%E3%82%AB%E3%83%A1%E3%83%A9/</link>
-      <pubDate>Tue, 01 Mar 2022 13:00:53 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E7%9C%81%E3%82%A8%E3%83%8D%E3%81%AE%E5%8B%95%E4%BD%93%E6%A4%9C%E7%9F%A5%E3%82%AB%E3%83%A1%E3%83%A9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/power-save-esp32cam.jpg"&gt;ESP32-CAM Low Power Trail Cameraから発見。画像もここから転載。 ESP32はパワフルなマイコンですが、その分消費電力も大きいです。
-ディープスリープモードなどもありますが、制御がややこしかったり、それでもある程度は電力を消費してしまいます。 また、当たり前ですがスリープモード中は大した処理が実行できません。
-この記事で紹介しているのは、動物が近づいたときに自動的にカメラで撮影するガジェットを省電力で実現する手法です。
-具体的には人感センサーを用いて、ESP32の電源を外から制御しています。
-一度電源がONになったらESP32が既定の処理が終わるまでは電源がOFFにならないように工夫して設計されています。
-この方式は他のマイコンでも有効なので、いろいろと応用がききそうです。</description>
     </item>
     
   </channel>
