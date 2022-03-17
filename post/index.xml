@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 16 Mar 2022 13:06:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Mar 2022 22:57:54 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>レンチとして利用できる基板</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%83%B3%E3%83%81%E3%81%A8%E3%81%97%E3%81%A6%E5%88%A9%E7%94%A8%E3%81%A7%E3%81%8D%E3%82%8B%E5%9F%BA%E6%9D%BF/</link>
+      <pubDate>Thu, 17 Mar 2022 22:57:54 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%83%B3%E3%83%81%E3%81%A8%E3%81%97%E3%81%A6%E5%88%A9%E7%94%A8%E3%81%A7%E3%81%8D%E3%82%8B%E5%9F%BA%E6%9D%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/レンチとして利用できる基板.jpg"&gt;Ultra Cheap PCB Wrenches Make Perfect Kit Accessoryから発見。画像もここから転載。
+基板として作られたレンチの作例です。 意外とちゃんと使えるるようです。
+基板発注時、面積が余ったら縁にレンチを作ってみるのも面白いかも。
+ </description>
+    </item>
     
     <item>
       <title>意外な素材！石焼きリフロー</title>
@@ -150,24 +162,6 @@ Vape民には本体がどう見ても入門用の某テクニカルMODにしか�
 これにより、引き出しを開けると中には必要な分の薬が入っています。
 工作は雑ですが、仕組みが非常にわかりやすく、面白い作例です。
 </description>
-    </item>
-    
-    <item>
-      <title>FDM式3Dプリンタでリフロー用ステンシルを作る</title>
-      <link>https://inajob.github.io/iroiro-review/post/fdm%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%AA%E3%83%95%E3%83%AD%E3%83%BC%E7%94%A8%E3%82%B9%E3%83%86%E3%83%B3%E3%82%B7%E3%83%AB%E3%82%92%E4%BD%9C%E3%82%8B/</link>
-      <pubDate>Wed, 02 Mar 2022 13:00:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/fdm%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%AA%E3%83%95%E3%83%AD%E3%83%BC%E7%94%A8%E3%82%B9%E3%83%86%E3%83%B3%E3%82%B7%E3%83%AB%E3%82%92%E4%BD%9C%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/FDM式3Dプリンタでリフロー用ステンシルを作る.jpg"&gt;でべさんのTweetから発見。画像もここから転載。
-以前光造形式3Dプリンタでリフロー用のステンシルを作る話を紹介しましたが、このTweetは、FDM式3Dプリンタでリフロー用ステンシルを作った事例を紹介しています。
-写真を見る限りそれっぽいものが作れており、意外と実用的かもしれません。
-とりあえずこんなところでw
-結論: 「FDM 式 3Dプリンタで、リフロー用ステンシルぽいのは作れる」
-(補足:
-SOT-23-5 0.95mm ピッチは0.2mmノズルで。
-ESP32 くらいの1.27mmピッチなら、通常の0.4mmノズルでいけました。
-Flashforge Finder、PLA+ 使用) pic.twitter.com/sAAWqBYF9L
-&amp;mdash; でべ (@devemin) January 27, 2022  </description>
     </item>
     
   </channel>

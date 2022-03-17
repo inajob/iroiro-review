@@ -5,9 +5,21 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 16 Mar 2022 13:06:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Mar 2022 22:57:54 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>レンチとして利用できる基板</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%83%B3%E3%83%81%E3%81%A8%E3%81%97%E3%81%A6%E5%88%A9%E7%94%A8%E3%81%A7%E3%81%8D%E3%82%8B%E5%9F%BA%E6%9D%BF/</link>
+      <pubDate>Thu, 17 Mar 2022 22:57:54 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%83%B3%E3%83%81%E3%81%A8%E3%81%97%E3%81%A6%E5%88%A9%E7%94%A8%E3%81%A7%E3%81%8D%E3%82%8B%E5%9F%BA%E6%9D%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/レンチとして利用できる基板.jpg"&gt;Ultra Cheap PCB Wrenches Make Perfect Kit Accessoryから発見。画像もここから転載。
+基板として作られたレンチの作例です。 意外とちゃんと使えるるようです。
+基板発注時、面積が余ったら縁にレンチを作ってみるのも面白いかも。
+ </description>
+    </item>
     
     <item>
       <title>意外な素材！石焼きリフロー</title>
@@ -131,18 +143,6 @@ NintendoSwitchをノートPC化するドックを自作しました！
 3Dプリンタのコントローラボードにはブザーがついている機種が多く、これはgcodeで鳴らすことが出来ます。
 このページで紹介しているのは、MIDIファイルからそのgcodeを生成するWebサービスです。
 このツールで生成したgcodeを3Dプリントデータの最後に付け加えておけば、印刷が完了したときにファンファーレを鳴らすようなことが実現できます。</description>
-    </item>
-    
-    <item>
-      <title>CCMという高速なメモリを搭載したSTM32マイコン</title>
-      <link>https://inajob.github.io/iroiro-review/post/ccm%E3%81%A8%E3%81%84%E3%81%86%E9%AB%98%E9%80%9F%E3%81%AA%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fstm32%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3/</link>
-      <pubDate>Mon, 29 Nov 2021 11:00:14 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/ccm%E3%81%A8%E3%81%84%E3%81%86%E9%AB%98%E9%80%9F%E3%81%AA%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fstm32%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/stm32-ccm.jpg"&gt;BOOST THE SPEED OF YOUR STM32 MICROCONTROLLERS BY 31% USING CORE-COUPLED MEMORYから発見。画像もここから転載。
-STM32のチップの中にはCore Coupled Memory (CCM)という種類のメモリを搭載しているものがあるそうです。
-Flashメモリや、通常のSRAMよりも早い速度でアクセスできるメモリのようで、ここに命令セットを書き込んで実行することで、通常のメモリに配置したプログラムよりも早く処理を実行できるようです。
-リアルタイム処理にこだわりたいときにはこういったプロセッサの利用を検討してみるのもよさそうです。</description>
     </item>
     
   </channel>
