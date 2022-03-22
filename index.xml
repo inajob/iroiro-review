@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 21 Mar 2022 22:52:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Mar 2022 23:20:23 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>水槽に入れた魚にローバーを操作させる実験</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%B0%B4%E6%A7%BD%E3%81%AB%E5%85%A5%E3%82%8C%E3%81%9F%E9%AD%9A%E3%81%AB%E3%83%AD%E3%83%BC%E3%83%90%E3%83%BC%E3%82%92%E6%93%8D%E4%BD%9C%E3%81%95%E3%81%9B%E3%82%8B%E5%AE%9F%E9%A8%93/</link>
+      <pubDate>Tue, 22 Mar 2022 23:20:23 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%B0%B4%E6%A7%BD%E3%81%AB%E5%85%A5%E3%82%8C%E3%81%9F%E9%AD%9A%E3%81%AB%E3%83%AD%E3%83%BC%E3%83%90%E3%83%BC%E3%82%92%E6%93%8D%E4%BD%9C%E3%81%95%E3%81%9B%E3%82%8B%E5%AE%9F%E9%A8%93/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/水槽に入れた魚にローバーを操作させる実験.jpg"&gt;“So Long,” Said All The Tank-Driving Fishから発見。画像もここから転載。
+水槽に入れた魚を訓練して、ローバーを目的地に移動させるようにしつけするという実験です。 動物の種類によって探索能力に違いがあるのか、といったことを調べる研究の一環のようです。
+結果として、水中でしか暮らせない魚が陸上を歩く体験が出来ていて面白いです。</description>
+    </item>
     
     <item>
       <title>金属を加工して作ったモーターとチューブを使って自作したポンプ</title>
@@ -141,23 +152,6 @@ Vape民には本体がどう見ても入門用の某テクニカルMODにしか�
 &amp;mdash; シメイ (@chimay_rovering) March 8, 2022  例えばこれ
  そしてついに、Banggoodで小手先だけ販売しているのを発見しました。
 このネジの部分は 510と呼ばれる規格のようで、これに準拠している電子タバコであれば、この小手先をつけることではんだごてとして利用できるかもしれません。</description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタのフィラメントが送れない状態を検知するデバイス</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%81%8C%E9%80%81%E3%82%8C%E3%81%AA%E3%81%84%E7%8A%B6%E6%85%8B%E3%82%92%E6%A4%9C%E7%9F%A5%E3%81%99%E3%82%8B%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</link>
-      <pubDate>Sun, 06 Mar 2022 21:00:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%81%8C%E9%80%81%E3%82%8C%E3%81%AA%E3%81%84%E7%8A%B6%E6%85%8B%E3%82%92%E6%A4%9C%E7%9F%A5%E3%81%99%E3%82%8B%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/clogg-detector.jpg"&gt;3D Printer Clog Detectorから発見。画像もここから転載。
-3Dプリンタを使っていると様々なトラブルが起きます。
-そのうちの1つに「フィラメントが送れない」という問題があります。
-ノズルが詰まったり、フィラメントが途中で折れたり、フィラメントが無くなったりと、原因は様々ですが、安い3Dプリンタではこれを検知せずに印刷を続けてしまうため、意図した造形物が作られなくなってしまいます。
-フィラメントが送れなくなったら、とにかく早めにそれに気づき3Dプリンタを止めて、問題を解消したいものです。
-このページで紹介しているのはフィラメントが送れない問題を検知するための小さなガジェットです。
-このガジェット自体も3Dプリンタで作られており、仕組みは単純です。
-フィラメントをギアではさみ送られると回転する機構を用意し、この回転をマイコンで取得し、意図しないタイミングで回転が止まった場合にブザーがなるようになっています。
-</description>
     </item>
     
   </channel>
