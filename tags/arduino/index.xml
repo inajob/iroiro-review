@@ -5,9 +5,21 @@
     <description>Recent content in Arduino on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 10 Mar 2022 23:30:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Mar 2022 23:14:33 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>I2CでMIDI出力をする実験</title>
+      <link>https://inajob.github.io/iroiro-review/post/i2c%E3%81%A7midi%E5%87%BA%E5%8A%9B%E3%82%92%E3%81%99%E3%82%8B%E5%AE%9F%E9%A8%93/</link>
+      <pubDate>Thu, 24 Mar 2022 23:14:33 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/i2c%E3%81%A7midi%E5%87%BA%E5%8A%9B%E3%82%92%E3%81%99%E3%82%8B%E5%AE%9F%E9%A8%93/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/I2CでMIDI出力をする実験.jpg"&gt;You Can Send MIDI Over I2C If You Really Need Toから発見。画像もここから転載。
+I2CでMIDI信号を伝えるというテクニックをまとめたブログ記事の紹介です。
+始めの記事では、DFRobot社のI2C to dual UARTモジュールを使いArduino UNOからI2C経由でMIDI信号を2つ分出力しています。 その後、複数のArduinoをI2Cでつなげる方法や、RaspberryPiPicoを司令塔とするデモなど、様々な実験が紹介されています。
+ </description>
+    </item>
     
     <item>
       <title>周りに人がいる時だけ閉じるマスク</title>
@@ -129,18 +141,6 @@ Arduinoに16チャンネルのサーボモーターコントローラボード�
 過去の遺物であるこのテレタイプをASCIIコードに対応させたり、Linuxのttyをシリアル接続に流し込んだりする必要があるようです。
 見慣れたログインシェルがじわじわとタイピングされて表示される様子は感慨深いものがあり、ついついじっと見入ってしまいます。
 </description>
-    </item>
-    
-    <item>
-      <title>5つのキーボードスイッチorロータリエンコーダが搭載できるマクロパッド</title>
-      <link>https://inajob.github.io/iroiro-review/post/5%E3%81%A4%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81or%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E3%81%8C%E6%90%AD%E8%BC%89%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%91%E3%83%83%E3%83%89/</link>
-      <pubDate>Thu, 04 Nov 2021 11:00:42 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/5%E3%81%A4%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81or%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E3%81%8C%E6%90%AD%E8%BC%89%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%91%E3%83%83%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/minimacro5.jpg"&gt;miniMACRO5 - custom programmable keypadから発見。画像もここから転載。
-5つのキー、またはロータリーエンコーダを搭載できるマクロキーパッドです。
-1種類の基板ですが、キーボードスイッチとロータリーエンコーダのどちらでも搭載できるように作られており、用途に応じて作り分けることが出来るという面白い仕組みになっています。
-一般的な自作キーボード向けのファームウェアであるQMKが動作するようなのでカスタマイズも簡単そうです。</description>
     </item>
     
   </channel>
