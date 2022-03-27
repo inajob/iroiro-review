@@ -5,9 +5,34 @@
     <description>Recent content in ESP32 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 09 Mar 2022 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Mar 2022 13:00:18 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/esp32/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>カメラ、液晶、タッチ、全部入りのESP32開発ボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%A1%E3%83%A9%E6%B6%B2%E6%99%B6%E3%82%BF%E3%83%83%E3%83%81%E5%85%A8%E9%83%A8%E5%85%A5%E3%82%8A%E3%81%AEesp32%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Sun, 27 Mar 2022 13:00:18 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%A1%E3%83%A9%E6%B6%B2%E6%99%B6%E3%82%BF%E3%83%83%E3%83%81%E5%85%A8%E9%83%A8%E5%85%A5%E3%82%8A%E3%81%AEesp32%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/esp32-tft-board-with-camera-cover.jpg"&gt;この記事はMakerfabsの提供でお届けします。
+今回紹介するESP32 3.5&amp;quot; TFT Touch(Capacitive) with CameraはMakerfabsから提供いただいたものです。
+（ですが、ESP32 3.5&amp;quot; TFT Touch(Capacitive) with Cameraをレビューしたい！と言ったのは自分なので、Makerfabsが無理やりこの商品を押しているわけではなく、inajobの一押しアイテム！、という感じです。）
+ESP32 3.5&amp;quot; TFT Touch(Capacitive) with Cameraとは ESP32 3.5&amp;quot; TFT Touch(Capacitive) with CameraはMakerfabsはオープンソースのESP32を搭載した開発ボードです。
+コアとなるマイコンはESP32で以下の機能があります
+ ESP32-WROVER-B (技適あり) 3.5インチ 320*480 TFT 静電容量式タッチパネル 2Mピクセルのカメラモジュール USB書き込み(USB Type-C) MicroSDカードスロット（with 16GB MicroSDカード) 15ピンの拡張端子  デフォルトのファームウェアを試してみる USBケーブルをつなげるとデフォルトのファームウェアが起動します。
+これはここにあるデジカメのような動作をするファームウェアのようです。
+カメラの内容をリアルタイムにディスプレイに表示し、ボタンをタッチすることで写真をSDカードに保存することが出来ます。
+カメラについては最近のスマートフォン比べると明らかに劣りますが、一応写真が取れる、という感じです。 （このファームウェアでは320 * 240の写真しか撮れないようでした。カメラの性能を考えるともっと高解像度の画像も撮影できるはずです。）
+自分オリジナルの低画質なデジカメは、このファームウェアをちょっと改造するだけで作れそうです。
+見どころ この商品は、ESP32と320*480のディスプレイ、カメラが搭載された、リーズナブルな開発ボードです。 IoTでこれらの部品を組み合わせたプロトタイピングを行う際に利用できそうです。
+WiFiやBluetoothも使うことが出来、今流行りのIoT的なガジェットを作る際も役立ちそうです。ESP32-WROVER-Bは技適も取得しているので、日本でも安心して利用できる点もポイントです。
+注意点としては、この製品には充電池は搭載されていないためスタンドアローンのガジェットを作りたいときは電源については別に考える必要があるという点と、カメラの画質はそこまで良くないという点です。
+アクリル板を重ねて作ったケースもアドオンで販売されているので、裸で運用するのが怖い人は合わせて購入するのがよさそうです。
+アイデア 自分が考えるこのボードで作れそうなアイデアを挙げてみると・・
+ 自分オリジナルのデジカメ（キャラクタが映りこむとか、撮影するとWiFiで即座にアップロードされるとか） 高解像度を生かしたゲーム（フレームレートを高めるのはコツが必要そう） デジタルフォトフレーム 電子情報端末（小型パソコンのようなもの） スマートセンサーの頭脳と表示装置  という感じです。
+自分でボードから設計するとなると相当大変ですが、ESP32 3.5&amp;quot; TFT Touch(Capacitive) with CameraはMakerfabsのような開発ボードを利用することで、ソフトウェア開発だけで実現できます。</description>
+    </item>
     
     <item>
       <title>ESP32で電波時計を合わせるテクニック</title>
@@ -159,31 +184,6 @@ ESP32は非常に強力なマイコンで、しかもかなり安く手に入り
 フルカラーLEDを横一列に大量に並べ、それをソート中の配列とみなし、さらにそれと並行して、現在比較している配列の要素を示す▽を示すLEDを配置しています。
 ボタンの操作により様々なソートのアルゴリズムの動作例を目で見て確かめることが出来ます。
  </description>
-    </item>
-    
-    <item>
-      <title>かわいいキーボード付きのESP32開発機 TTGO T-Watch Keyboard</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8D%E3%81%AEesp32%E9%96%8B%E7%99%BA%E6%A9%9F-ttgo-t-watch-keyboard/</link>
-      <pubDate>Sun, 25 Apr 2021 11:00:37 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8D%E3%81%AEesp32%E9%96%8B%E7%99%BA%E6%A9%9F-ttgo-t-watch-keyboard/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/t-watch-keyboard-cover.png"&gt;かわいいキーボード付きのESP32開発機 TTGO T-Watch Keyboard
-この記事はBanggoodの提供でお届けします。
-以前紹介したようにこのブログはBanggoodと提携させていただいており、今回紹介するTTGO T-Watch KeyboardはBanggoodからいただいたものとなります。 TTGO T-Watch Keyboardのレビューがしたい！と言ったのは自分なので、Banggoodが無理やりこの商品を押しているわけではなく、inajobの一押しアイテム！、という感じです。）
-・・・ といういつもの前置きはそこそこに、TTGO T-Watch Keyboardについて紹介していきます。
-そして、今回もこのブログのために2021/05/31まで利用できるクーポンを頂くことが出来たので、そちらも紹介します。
-TTGO T-Watch Keyboard とは TTGO T-Watch Keyboardは TTGO T-Watchという製品にキーボードのオプションが搭載された製品です。
-TTGO T-Watchというのは、いわゆるスマートウォッチの開発キットです。とはいっても、普通のスマートウォッチと違うところは標準的なソフトウェアを持たないという点です。
-普通のスマートウォッチ、例えばFitBitやApple Watchであれば、当然ハードウェアと、ソフトウェアはセットです。しかしこのTTGO T-Watchは開発用途という事で、標準的なソフトウェアを搭載せずに、ハードウェアのみの製品です。
-ここまでのところで、ピンときた方もいるかもしれませんが、これはM5Stackとよく似たコンセプトの製品です。それどころか、メインのCPUがESP32であったりと、その構成も非常によく似ています。
-さて、このTTGO T-Watchは、バンドをつけることで、（ちょっと大きな）スマートウォッチとして利用できるのですが、今回紹介する TTGO T-Watch Keyboardは、スマートウォッチのバンドを取り付ける部分に、小さなキーボードを搭載することで、ミニチュアのノートパソコンのように構成されたちょっと変わったガジェットです。
-キーボードはI2CでTTGO T-Watch本体と接続されており、ライブラリを利用することで非常に簡単にキーボードからの入力をハンドリング出来ます。
-といったところで、この製品の詳細なスペックを見てみましょう。
- メインCPU: ESP32 USBtoシリアル変換: CP2104 MicroSDカードスロット 16MBのQSPI接続のフラッシュメモリ メインCPU内蔵の520KBのSRAMと、外付けのPSRAM 8MB 電源ボタンと、もう一つ好きに使えるボタン 40MHzの水晶発振子 RTC: PCF8563 1.54inchのタッチ機能付き液晶画面 三軸加速度センサー: BMA423 リチウムイオンバッテリ（容量未記載だが200mAh） 技適取得済み  と、まぁもりだくさんです。
-キーボード部分は
- Blackberryのキーボード ATSAMD20(ここを改造するとキーボードに機能を増やせそうです)  という感じです。 キーボード部分はI2Cのピンが出ているので、このキーボードだけを別のプロダクトに流用することも簡単に出来そうです。
-外観 実用性はおいておいて、とてもチャーミングな筐体です。 キーボード部分は腕時計として利用する際のリストバンドを固定するための軸受けに取り付けられており、好きな角度に曲がります。
-しかし、保持力はあまりないようで、中途半端な角度で固定しようとしてもパタンと重たい方に倒れてしまいます。</description>
     </item>
     
   </channel>

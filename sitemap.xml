@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://inajob.github.io/iroiro-review/tags/esp32/</loc>
+    <lastmod>2022-03-27T13:00:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/</loc>
+    <lastmod>2022-03-27T13:00:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/tags/makerfabs/</loc>
+    <lastmod>2022-03-27T13:00:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/post/</loc>
+    <lastmod>2022-03-27T13:00:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/tags/</loc>
+    <lastmod>2022-03-27T13:00:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%A1%E3%83%A9%E6%B6%B2%E6%99%B6%E3%82%BF%E3%83%83%E3%83%81%E5%85%A8%E9%83%A8%E5%85%A5%E3%82%8A%E3%81%AEesp32%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</loc>
+    <lastmod>2022-03-27T13:00:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</loc>
+    <lastmod>2022-03-27T13:00:18+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://inajob.github.io/iroiro-review/tags/arduino/</loc>
     <lastmod>2022-03-24T23:14:33+00:00</lastmod>
   </url>
@@ -18,22 +53,7 @@
   </url>
   
   <url>
-    <loc>https://inajob.github.io/iroiro-review/</loc>
-    <lastmod>2022-03-24T23:14:33+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://inajob.github.io/iroiro-review/tags/midi/</loc>
-    <lastmod>2022-03-24T23:14:33+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://inajob.github.io/iroiro-review/post/</loc>
-    <lastmod>2022-03-24T23:14:33+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://inajob.github.io/iroiro-review/tags/</loc>
     <lastmod>2022-03-24T23:14:33+00:00</lastmod>
   </url>
   
@@ -128,11 +148,6 @@
   </url>
   
   <url>
-    <loc>https://inajob.github.io/iroiro-review/tags/esp32/</loc>
-    <lastmod>2022-03-09T23:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://inajob.github.io/iroiro-review/post/esp32%E3%81%A7%E9%9B%BB%E6%B3%A2%E6%99%82%E8%A8%88%E3%82%92%E5%90%88%E3%82%8F%E3%81%9B%E3%82%8B%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</loc>
     <lastmod>2022-03-09T23:00:00+00:00</lastmod>
   </url>
@@ -208,11 +223,6 @@
   </url>
   
   <url>
-    <loc>https://inajob.github.io/iroiro-review/tags/makerfabs/</loc>
-    <lastmod>2022-02-27T23:30:43+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://inajob.github.io/iroiro-review/tags/attiny85/</loc>
     <lastmod>2022-02-24T23:00:32+00:00</lastmod>
   </url>
@@ -254,11 +264,6 @@
   
   <url>
     <loc>https://inajob.github.io/iroiro-review/post/stm32%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9Farduinonano%E3%81%A3%E3%81%BD%E3%81%84%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</loc>
-    <lastmod>2022-02-20T23:00:07+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://inajob.github.io/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</loc>
     <lastmod>2022-02-20T23:00:07+00:00</lastmod>
   </url>
   
