@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 27 Mar 2022 13:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Mar 2022 12:27:55 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>15ドル程度で作れるという安価な携帯Linux端末</title>
+      <link>https://inajob.github.io/iroiro-review/post/15%E3%83%89%E3%83%AB%E7%A8%8B%E5%BA%A6%E3%81%A7%E4%BD%9C%E3%82%8C%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E5%AE%89%E4%BE%A1%E3%81%AA%E6%90%BA%E5%B8%AFlinux%E7%AB%AF%E6%9C%AB/</link>
+      <pubDate>Mon, 28 Mar 2022 12:27:55 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/15%E3%83%89%E3%83%AB%E7%A8%8B%E5%BA%A6%E3%81%A7%E4%BD%9C%E3%82%8C%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E5%AE%89%E4%BE%A1%E3%81%AA%E6%90%BA%E5%B8%AFlinux%E7%AB%AF%E6%9C%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/15ドル程度で作れるという安価な携帯Linux端末.jpg"&gt;The Fifteen Dollar Linux Computerから発見。画像もここから転載。
+$15程度で作れるという、安価な携帯Linux端末です。 CPUはこういう作例ではおなじみF1C100sです。
+キーボード部分はメンブレンキーボードをカスタム発注している ようです（1000個作って1個当たり$1らしいです）</description>
+    </item>
     
     <item>
       <title>カメラ、液晶、タッチ、全部入りのESP32開発ボード</title>
@@ -129,16 +140,6 @@ I2CでMIDI信号を伝えるというテクニックをまとめたブログ記�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/よく網羅された携帯インディーズゲーム機の一覧.jpg"&gt;oshaboy/awesome-indie-handheldsから発見。画像もここから転載。
 ここ数年インディーズ携帯ゲーム機が盛り上がっています。 よく似たスペックのものが多いのですが、それぞれ個性があって面白いです。
 この記事ではインディーズ携帯ゲーム機の一覧をスペックを含めて一覧しています。 オリジナル携帯ゲーム機を作る際の参考にもなりそうです。</description>
-    </item>
-    
-    <item>
-      <title>電子工作のエンクロージャを作る事に特化したOpenSCADのプロジェクト</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E5%B7%A5%E4%BD%9C%E3%81%AE%E3%82%A8%E3%83%B3%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%A3%E3%82%92%E4%BD%9C%E3%82%8B%E4%BA%8B%E3%81%AB%E7%89%B9%E5%8C%96%E3%81%97%E3%81%9Fopenscad%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88/</link>
-      <pubDate>Sun, 13 Mar 2022 23:35:11 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E5%B7%A5%E4%BD%9C%E3%81%AE%E3%82%A8%E3%83%B3%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%A3%E3%82%92%E4%BD%9C%E3%82%8B%E4%BA%8B%E3%81%AB%E7%89%B9%E5%8C%96%E3%81%97%E3%81%9Fopenscad%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/電子工作のエンクロージャを作る事に特化したOpenSCADのプロジェクト.jpg"&gt;This Parametric Project Box Generator Is Super Easyから発見。画像もここから転載。
-電子工作のエンクロージャを作る事に特化したOpenSCADのプロジェクト。 基板取り付け穴や端子を露出するための窓、インサートナット用の穴など、よくある構造がライブラリ化されており便利そうです。</description>
     </item>
     
   </channel>
