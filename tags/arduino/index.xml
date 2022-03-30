@@ -5,9 +5,20 @@
     <description>Recent content in Arduino on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 24 Mar 2022 23:14:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Mar 2022 23:18:20 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>小さいが使いやすそうなArduino互換ボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%B0%8F%E3%81%95%E3%81%84%E3%81%8C%E4%BD%BF%E3%81%84%E3%82%84%E3%81%99%E3%81%9D%E3%81%86%E3%81%AAarduino%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Wed, 30 Mar 2022 23:18:20 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%B0%8F%E3%81%95%E3%81%84%E3%81%8C%E4%BD%BF%E3%81%84%E3%82%84%E3%81%99%E3%81%9D%E3%81%86%E3%81%AAarduino%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/小さいが使いやすそうなArduino互換ボード.jpg"&gt;極小Arduino互換Tiny Board（OLED付き）から発見。画像もここから転載。
+必要最小限の面積のArduino互換ボードです。 コアとなるマイコンはATmega328Pで、USB書き込み機能は搭載されていませんが、その分省コスト・省スペースとなっています。
+OLEDをそのまま取り付けられるピンヘッダが用意されており、小型のOLED付きのガジェットの試作によさそうです。</description>
+    </item>
     
     <item>
       <title>I2CでMIDI出力をする実験</title>
@@ -127,20 +138,6 @@ Arduinoに16チャンネルのサーボモーターコントローラボード�
 ロータリーエンコーダとキャラクタディスプレイ、5*4のキーボードスイッチを備えたマクロキーパッドの作例です。
 汎用的な部品と3Dプリンタ製のケースにより構成されています。
 マイコンボードはArduino Microを使っており、ファームウェアは自作キーボードでは同じものQMKを利用しています。</description>
-    </item>
-    
-    <item>
-      <title>Linuxのターミナルをテレタイプで出力する実験</title>
-      <link>https://inajob.github.io/iroiro-review/post/linux%E3%81%AE%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%E3%82%92%E3%83%86%E3%83%AC%E3%82%BF%E3%82%A4%E3%83%97%E3%81%A7%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B%E5%AE%9F%E9%A8%93/</link>
-      <pubDate>Sun, 14 Nov 2021 11:00:57 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/linux%E3%81%AE%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%E3%82%92%E3%83%86%E3%83%AC%E3%82%BF%E3%82%A4%E3%83%97%E3%81%A7%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B%E5%AE%9F%E9%A8%93/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/linux-with-real-teletype.jpg"&gt;LOGGING INTO LINUX WITH A 1930S TELETYPEから発見。画像もここから転載。
-エスケープシーケンスというのはさかのぼればタイプライターの時代の産物です。
-ということで、この記事ではLinuxのターミナル出力を本物のタイプライターと接続するという実験を行っています。
-過去の遺物であるこのテレタイプをASCIIコードに対応させたり、Linuxのttyをシリアル接続に流し込んだりする必要があるようです。
-見慣れたログインシェルがじわじわとタイピングされて表示される様子は感慨深いものがあり、ついついじっと見入ってしまいます。
-</description>
     </item>
     
   </channel>
