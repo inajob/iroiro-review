@@ -5,9 +5,21 @@
     <description>Recent content in LED on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 17 Jan 2022 19:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Apr 2022 23:22:03 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/led/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>飛び出す絵本に電子回路を実装した「イルミネーティング折り紙」</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%A3%9B%E3%81%B3%E5%87%BA%E3%81%99%E7%B5%B5%E6%9C%AC%E3%81%AB%E9%9B%BB%E5%AD%90%E5%9B%9E%E8%B7%AF%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%97%E3%81%9F%E3%82%A4%E3%83%AB%E3%83%9F%E3%83%8D%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%8A%98%E3%82%8A%E7%B4%99/</link>
+      <pubDate>Mon, 04 Apr 2022 23:22:03 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%A3%9B%E3%81%B3%E5%87%BA%E3%81%99%E7%B5%B5%E6%9C%AC%E3%81%AB%E9%9B%BB%E5%AD%90%E5%9B%9E%E8%B7%AF%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%97%E3%81%9F%E3%82%A4%E3%83%AB%E3%83%9F%E3%83%8D%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%8A%98%E3%82%8A%E7%B4%99/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/飛び出す絵本に電子回路を実装した「イルミネーティング折り紙」.jpg"&gt;Illuminating Origami Is Just Around The Cornerから発見。画像もここから転載。
+飛び出す絵本に電子回路を実装する 「イルミネーティング折り紙」 の実験です。
+キモとなるのは薄いシート状のQuantum Dot LEDです。 フレキシブルな基板というのはよく見かけますが、この技術を利用すると点灯するLEDシートそのものを折りたたむことが出来るようです。
+ </description>
+    </item>
     
     <item>
       <title>10x10のフルカラーLEDを搭載したジョグダイアルで操作する携帯ゲーム機</title>
@@ -121,19 +133,6 @@ PCB基板にチップLEDを配置し、その上にアクリル板を重ねる�
 この記事では、NeoPixel互換のフルカラーLEDについて紹介しています。 特筆すべきはその小ささと、手ではんだ付けができるパッドです。
 なんと秋月電子でも販売しています。
  </description>
-    </item>
-    
-    <item>
-      <title>ガラス板に銅箔テープで回路を作ったフルカラーLEDキューブ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AC%E3%83%A9%E3%82%B9%E6%9D%BF%E3%81%AB%E9%8A%85%E7%AE%94%E3%83%86%E3%83%BC%E3%83%97%E3%81%A7%E5%9B%9E%E8%B7%AF%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCled%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%96/</link>
-      <pubDate>Sun, 18 Apr 2021 12:00:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AC%E3%83%A9%E3%82%B9%E6%9D%BF%E3%81%AB%E9%8A%85%E7%AE%94%E3%83%86%E3%83%BC%E3%83%97%E3%81%A7%E5%9B%9E%E8%B7%AF%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCled%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%96/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/glass-led-cube.jpg"&gt;GlassCubeから発見。画像もここから転載。
-LEDキューブは電子工作の世界ではよく見かける作品ですが、この記事で紹介しているLEDキューブは一味違います。
-このLEDキューブはガラス板に銅箔テープで回路を構成しています。銅箔テープはカッティングプロッタで切ったものを転写シートでガラス板に張り付けています。
-ガラス板に銅箔テープで回路を構成する手法は、このように回路を”魅せる”作品にうまくマッチしています。
-  </description>
     </item>
     
   </channel>
