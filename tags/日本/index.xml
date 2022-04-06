@@ -5,9 +5,22 @@
     <description>Recent content in 日本 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 30 Mar 2022 23:18:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Apr 2022 23:01:37 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%97%A5%E6%9C%AC/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>円形ディスプレイとロータリーエンコーダの組み合わせ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%86%86%E5%BD%A2%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%81%A8%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E3%81%AE%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B/</link>
+      <pubDate>Wed, 06 Apr 2022 23:01:37 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%86%86%E5%BD%A2%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%81%A8%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E3%81%AE%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/円形ディスプレイとロータリーエンコーダの組み合わせ.jpg"&gt;イナバさんのTweetから発見。画像もここから転載。
+円形ディスプレイとロータリーエンコーダを組み合わせて、直感的に回転を操作できる実験を行っています。
+ロータリーエンコーダの回転と綺麗に連動した円形ディスプレイの映像は、まるでアナログな装置のようです。
+みんなに見てもらえて満足しましたが、ロータリーエンコーダが見つかったのでやってみた。ノブを回すとレコードも回る！たーのしー！無心で回し続けるとカレンダーガールが聴こえて‥来ない‥‥（修行不足） #m5stack #m5atom #aikatsu pic.twitter.com/DHb0tV3K9p
+&amp;mdash; イナバ (@hollyhockberry) January 26, 2022  </description>
+    </item>
     
     <item>
       <title>小さいが使いやすそうなArduino互換ボード</title>
@@ -131,20 +144,6 @@ M34-2LというLEDフラッシャーICをつかい、また電流量を制限す
 この仕組みだと室内の照明の明かりなどでも動作するようです。
 小さいソーラーパネルの電力でLEDがチカチカするやつ好きなので作ってみた。部屋の灯かりでも動く！ pic.twitter.com/2njMTD2miV
 &amp;mdash; ゆういちろう🦐 (@yuuitirou528) January 20, 2022  </description>
-    </item>
-    
-    <item>
-      <title>低解像度のドットマトリクスLEDで複雑な漢字を表示するHACK</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E4%BD%8E%E8%A7%A3%E5%83%8F%E5%BA%A6%E3%81%AE%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%81%A7%E8%A4%87%E9%9B%91%E3%81%AA%E6%BC%A2%E5%AD%97%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8Bhack/</link>
-      <pubDate>Wed, 26 Jan 2022 23:02:07 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E4%BD%8E%E8%A7%A3%E5%83%8F%E5%BA%A6%E3%81%AE%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%81%A7%E8%A4%87%E9%9B%91%E3%81%AA%E6%BC%A2%E5%AD%97%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8Bhack/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/低解像度のドットマトリクスLEDで複雑な漢字を表示するHACK.jpg"&gt;KenKenMkIISRさんのTweetから発見。画像もここから転載。
-ドットマトリクスLEDといえば8x8が基本単位です。 英字や数字を表示するにはこれで十分なのですが、日本語となるとちょっと物足りないです。 そんな時に役立つのがこのTweetで紹介されている手法です。
-4倍解像度のフォントデータを用意し、1つのドットにつき2x2のドットを時分割で素早く表示を切り替えるだけなのですが、人間の目には高解像度の文字として認識することができます。
-新年おめでとうございます。今年もよろしくお願いします。
-信じられないかもしれませんが、横8ドットの低解像度デバイスで明朝体を表示しています。 pic.twitter.com/hInCF1SXJq
-&amp;mdash; KenKenMkIISR (@KenKenMkIISR) December 31, 2021  </description>
     </item>
     
   </channel>
