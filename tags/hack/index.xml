@@ -5,9 +5,21 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 04 Apr 2022 23:22:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Apr 2022 23:10:40 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ゲームボーイの画面をVGA出力する仕組み</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4%E3%81%AE%E7%94%BB%E9%9D%A2%E3%82%92vga%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B%E4%BB%95%E7%B5%84%E3%81%BF/</link>
+      <pubDate>Thu, 07 Apr 2022 23:10:40 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4%E3%81%AE%E7%94%BB%E9%9D%A2%E3%82%92vga%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B%E4%BB%95%E7%B5%84%E3%81%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ゲームボーイの画面をVGA出力する仕組み.jpg"&gt;Game Boy Becomes Super Game Boy With A Pair Of Pisから発見。画像もここから転載。
+Raspberry Pi Picoを使ってゲームボーイの画面をVGA出力している作例です。 ゲームボーイ基板の液晶との接続の端子を横取りしてRaspberry Pi Picoに接続し、VGA信号に変換しています。
+いうなればDIYスーパーゲームボーイです。
+ </description>
+    </item>
     
     <item>
       <title>飛び出す絵本に電子回路を実装した「イルミネーティング折り紙」</title>
@@ -118,20 +130,6 @@ PCの負荷を意図的に操作するウイルスのようなプログラムを
 Androidのスマートフォンをキャラクタディスプレイのように利用するためのアプリです。
 マイコンからのデータの転送はUARTを利用しているようで、よくあるキャラクタディスプレイとそのまま交換可能というわけには行きませんが、それっぽい表示はなかなか良いです。
 給電もスマートフォンからできるので、不思議な見た目ですが、この写真の状態で本当に動作するようです。
-</description>
-    </item>
-    
-    <item>
-      <title>安価な自作の振動センサー</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E4%BE%A1%E3%81%AA%E8%87%AA%E4%BD%9C%E3%81%AE%E6%8C%AF%E5%8B%95%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/</link>
-      <pubDate>Tue, 11 Jan 2022 23:00:15 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E4%BE%A1%E3%81%AA%E8%87%AA%E4%BD%9C%E3%81%AE%E6%8C%AF%E5%8B%95%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/cheap-vibration-sensor.png"&gt;How to Make Spring Vibration Sensor at Home!から発見。画像もここから転載。(CC BY-NC-SA By Nematic!)
-この記事では、非常に安価に「振動センサー」を自作する方法を紹介しています。
-ばねの中にワイヤーを通し、振動によってばねが振れ、ワイヤーと接触することを検知して、振動センサーを構成しています。
-プログラムとしては、ArduinoのINPUTモードで簡単に振動を検知することが出来ます。
-振動センサーと言うと、3軸加速度センサーが一般的ですが、このばねを使ったセンサーであれば、非常に安くで実現することが出来ます。
 </description>
     </item>
     
