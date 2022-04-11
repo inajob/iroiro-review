@@ -5,9 +5,21 @@
     <description>Recent content in キーボード on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 05 Apr 2022 23:35:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Apr 2022 22:55:29 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタで作られた磁気キーボードスイッチ</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E7%A3%81%E6%B0%97%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81/</link>
+      <pubDate>Sun, 10 Apr 2022 22:55:29 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E7%A3%81%E6%B0%97%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作られた磁気キーボードスイッチ.jpg"&gt;3D Printed Maglev Switches Are So Hot Right Nowから発見。画像もここから転載。
+磁気キーボードスイッチの作例の紹介です。 このような取り組みは同時多発的に行われているようで、別の自作磁気キーボードスイッチと比較するような内容になっています。
+この記事で紹介している磁気キーボードスイッチは、通常のCherry MXキーボードスイッチとそのまま交換できるもので、光造形式の3Dプリンタで作られています。
+自作キーボードというのが人気ですが、キーボードスイッチから自作する人は、そうそう居ないでしょう。</description>
+    </item>
     
     <item>
       <title>高速に入力できる面白い形状の文字入力デバイス</title>
@@ -158,18 +170,6 @@ GamaKay K66 とは ここ最近「自作キーボード」が流行っていま�
 分解してみる ここまでで、一般的なレビューは終わりです。
 ここからは私の知的好奇心でこのキーボードを分解してみた結果を紹介します。
 たくさんのネジ このキーボードは金属製のパネルを使わず、アクリル樹脂をサンドイッチして筐体が構成されています。個人的には、特に金属ではないからと言って強度に問題があるようには思いませんでした。</description>
-    </item>
-    
-    <item>
-      <title>Arduinoで作ったシリアル通信できるキーボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/arduino%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%AB%E9%80%9A%E4%BF%A1%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Mon, 29 Jun 2020 23:00:03 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/arduino%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%AB%E9%80%9A%E4%BF%A1%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/arduino-keyboard.jpg"&gt;ARDUINO KEYBOARD SERIAL OUTPUTから発見。画像もここから転載。
-Arduinoによって作られた、シリアル通信で入力を受け取ることができるコンパクトなキーボードの作例を紹介します。
-大量のキーの入力を検知するたに4x10のマトリクス配線を利用しています。 Arduinoにキーボードが搭載できると、「ポケコン」のようなガジェットを簡単に作れるようになるため、夢が広がります。
- </description>
     </item>
     
   </channel>
