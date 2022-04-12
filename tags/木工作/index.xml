@@ -5,9 +5,22 @@
     <description>Recent content in 木工作 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 09 Jan 2020 23:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Apr 2022 23:12:37 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%9C%A8%E5%B7%A5%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>自作の回転ずし的装置</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E5%9B%9E%E8%BB%A2%E3%81%9A%E3%81%97%E7%9A%84%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Tue, 12 Apr 2022 23:12:37 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E5%9B%9E%E8%BB%A2%E3%81%9A%E3%81%97%E7%9A%84%E8%A3%85%E7%BD%AE/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/自作の回転ずし的装置.jpg"&gt;You Can Build Your Own Sushi Trainから発見。画像もここから転載。
+自作の回転ずしを回すレーンのような装置の作例です。
+木材をうまく加工して、日本の回転寿司屋でよく見かけるような、ベルトコンベヤ風の寿司レーンを自作しています。
+大家族やパーティーのでの食事の時に、人の前を手を横切らせてお皿を取るなどがマナーとして良くない、という事で作り始めたもののようです。
+ https://hackaday.com/2022/03/11/you-can-build-your-own-sushi-train/ </description>
+    </item>
     
     <item>
       <title>木工作と3Dプリンタで作成する雰囲気のあるRaspberryPiコンソール</title>
