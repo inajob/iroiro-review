@@ -5,9 +5,35 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 12 Apr 2022 23:12:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Apr 2022 22:46:31 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>レシート印刷ができるAndroid端末</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%82%B7%E3%83%BC%E3%83%88%E5%8D%B0%E5%88%B7%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8Bandroid%E7%AB%AF%E6%9C%AB/</link>
+      <pubDate>Wed, 13 Apr 2022 22:46:31 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%82%B7%E3%83%BC%E3%83%88%E5%8D%B0%E5%88%B7%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8Bandroid%E7%AB%AF%E6%9C%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/レシート印刷ができるAndroid端末.jpg"&gt;だれかさんねっとさんのTweetから発見。画像もここから転載。
+非常に局所的ですが「祭り」が発生していたようです。 何かというと、レシート印刷機能の付いた業務用のAndroid端末が安くで販売されているようで、ガジェット好きの皆さんが次々と購入する事態となっているようです。
+発信元か？ 自分がはじめに見つけたのはこのTweetです。
+気に入ったツイートを即座に印刷できる端末 pic.twitter.com/OQlPxQ8Ahj
+&amp;mdash; だれかさんねっと (@darekasan_net) April 3, 2022  ブログ印刷 Webページを印刷する機能があるようで、ブログを印刷しているようですが、、すごく長いですねｗ
+ブログ印刷したら大変なことになった pic.twitter.com/QQrUg8Q1MY
+&amp;mdash; だれかさんねっと (@darekasan_net) April 3, 2022  公式が積極的 こういうのは、目的外使用というか、想定外の使い方だと思うのですが、公式Twitterの方もノリノリで返信しているのが印象的です。
+弊社製品をご利用頂きありがとうございます♪
+(まさかこのようなご利用方法とはw)
+&amp;mdash; SUNMI //業務向けデバイスメーカー// 【公式】 (@sunmijapannews) April 3, 2022  ほかに買った人 この後続々と購入した方が現れました。
+でっかいスマホも到着したけど、こっちは仕事が一段落してからやる事にしよう。 pic.twitter.com/3n27q33KXH
+&amp;mdash; DEKO (@ht_deko) April 5, 2022  わたしも届いたわ(^_^;)。
+すごいでかい箱だった(^_^;)。
+まだ未開封。
+プリンタ用紙ついてないのか(^_^;)。
+おおむかしポケコンプリンタ用に買ったやつがどこかにあるとは思うが。
+&amp;mdash; chamekan (@chame) April 5, 2022  my new gear...🖨📱 pic.twitter.com/fwuREZ2bu4
+&amp;mdash; ふるおらいと (@36kyo) April 2, 2022  印刷ソフトが優秀で白黒印刷に耐えるように、印刷データのエッジ検出を自動で行う機能があるようです。</description>
+    </item>
     
     <item>
       <title>自作の回転ずし的装置</title>
@@ -120,17 +146,6 @@ SDカードの書き込みロックコマンドを発行しSDカードをロッ�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/フルカラーストリップLEDをいい感じに表示するワンライナー的な関数集.jpg"&gt;Technoblogy - Controlling RGB LED Strips with a Single Functionから発見。画像もここから転載。
 フルカラーストリップLEDをいい感じに表示するワンライナー的な関数集の紹介記事です。 ソースコードに加えて、グラフやアニメーションgifを用いて、わかりやすく紹介されています。
 コントローラは比較的パワフルなATSAMD21を用いています。</description>
-    </item>
-    
-    <item>
-      <title>小さいが使いやすそうなArduino互換ボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%B0%8F%E3%81%95%E3%81%84%E3%81%8C%E4%BD%BF%E3%81%84%E3%82%84%E3%81%99%E3%81%9D%E3%81%86%E3%81%AAarduino%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Wed, 30 Mar 2022 23:18:20 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%B0%8F%E3%81%95%E3%81%84%E3%81%8C%E4%BD%BF%E3%81%84%E3%82%84%E3%81%99%E3%81%9D%E3%81%86%E3%81%AAarduino%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/小さいが使いやすそうなArduino互換ボード.jpg"&gt;極小Arduino互換Tiny Board（OLED付き）から発見。画像もここから転載。
-必要最小限の面積のArduino互換ボードです。 コアとなるマイコンはATmega328Pで、USB書き込み機能は搭載されていませんが、その分省コスト・省スペースとなっています。
-OLEDをそのまま取り付けられるピンヘッダが用意されており、小型のOLED付きのガジェットの試作によさそうです。</description>
     </item>
     
   </channel>
