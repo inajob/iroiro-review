@@ -15,7 +15,7 @@
       <pubDate>Thu, 14 Apr 2022 23:00:35 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/dip%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%A0%E3%81%8C%E5%85%A8%E9%83%A8%E5%85%A5%E3%82%8A%E3%81%AEarduino%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-reviewimg/dipduino.jpg"&gt;dipDuino 1.2から発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/dipduino.jpg"&gt;dipDuino 1.2から発見。画像もここから転載。
 DipDuinoはDIPのフットプリントと同じですが、USBポートが付いており、これだけでPCから書き込みができるArdunio互換ボードです。
 コアとなるマイコンはATMega328PでUSBシリアル変換ICとしてCP2104を用い、フルカラーLEDも搭載しています。</description>
     </item>
