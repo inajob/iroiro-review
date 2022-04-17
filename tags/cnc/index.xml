@@ -5,9 +5,21 @@
     <description>Recent content in CNC on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 03 Jan 2022 23:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Apr 2022 23:36:17 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/cnc/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>手書きの線をカメラで認識してカットしてくれるCNCマシン</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E6%9B%B8%E3%81%8D%E3%81%AE%E7%B7%9A%E3%82%92%E3%82%AB%E3%83%A1%E3%83%A9%E3%81%A7%E8%AA%8D%E8%AD%98%E3%81%97%E3%81%A6%E3%82%AB%E3%83%83%E3%83%88%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8Bcnc%E3%83%9E%E3%82%B7%E3%83%B3/</link>
+      <pubDate>Sun, 17 Apr 2022 23:36:17 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E6%9B%B8%E3%81%8D%E3%81%AE%E7%B7%9A%E3%82%92%E3%82%AB%E3%83%A1%E3%83%A9%E3%81%A7%E8%AA%8D%E8%AD%98%E3%81%97%E3%81%A6%E3%82%AB%E3%83%83%E3%83%88%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8Bcnc%E3%83%9E%E3%82%B7%E3%83%B3/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/手書きの線をカメラで認識してカットしてくれるCNCマシン.jpg"&gt;You Draw It, CNC Cuts Itから発見。画像もここから転載。
+手書きの線をカメラで認識しそれをカットしてくれるCNCマシンの作例です。
+OpenCVにより画像認識を行い、手書きの線を検出しています。 設計をデジタルで行うのが一般的ですが、意外とこういうアナログとデジタルの掛け渡し的な技術は活躍の機会がありそうです。
+ </description>
+    </item>
     
     <item>
       <title>CNCで作成されたプランターハンガー</title>
@@ -122,21 +134,6 @@ Engravinatorはオープンソースのレーザー彫刻機です。 よくあ�
 3Dプリンタを使って作られたオープンソースのプロッタです。 データはすべてオープンソースとなっているため、3Dプリンタと、いくつかのパーツがあれば誰でも簡単に同じものを作ることができます。
 キットとしての販売も考えているようで、そのためのアンケートなども行っているようです。
 非常にシンプルな構造ですが、小さくまとまっており、そこそこ精度もよさそうなので、プロッタを作りたい人にはお勧めのプロジェクトです。
- </description>
-    </item>
-    
-    <item>
-      <title>精度が高そうな2腕式のプロッタ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E7%B2%BE%E5%BA%A6%E3%81%8C%E9%AB%98%E3%81%9D%E3%81%86%E3%81%AA2%E8%85%95%E5%BC%8F%E3%81%AE%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</link>
-      <pubDate>Mon, 15 Jun 2020 23:00:28 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E7%B2%BE%E5%BA%A6%E3%81%8C%E9%AB%98%E3%81%9D%E3%81%86%E3%81%AA2%E8%85%95%E5%BC%8F%E3%81%AE%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/machpen.jpg"&gt;Mechpenから発見。画像もここから転載。
-金属の筐体の2腕式のプロッタです。140cmまで腕が届くためA0までの絵を描くことができます。
-その大きさもあって筐体の重さは15Kgとかなり重たいです。ステッピングモーターはギアで減速され1度あたり177.778ステップとかなり高精度となっています。
-制御はRaspberry Piで行っています。
-また描画データを用意する方法としてturtletoyというサイトを紹介しており、こちらはこちらで非常に興味深いです。
-3Dプリンタなどを使ったペンプロッタの作例は数多くありますが、ここまで大きく、かつ精度が良いものは珍しいと感じました。
  </description>
     </item>
     

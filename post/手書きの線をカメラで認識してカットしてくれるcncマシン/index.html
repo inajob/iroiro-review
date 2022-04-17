@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+    
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>
+      
+  手書きの線をカメラで認識してカットしてくれるCNCマシン &ndash; inajobのいろいろレビュー
+
+    </title>
+    
+    
+    <meta name="description" property="og:description" content="手書きの線をカメラで認識しそれをカットしてくれるCNCマシンの作例を紹介します|">
+    
+
+    <meta name="apple-mobile-web-app-title" content="inajobのいろいろレビュー">
+    
+    
+    
+    
+
+    <meta property="og:title" content="手書きの線をカメラで認識してカットしてくれるCNCマシン | inajobのいろいろレビュー">
+    <meta property="og:description" content="手書きの線をカメラで認識しそれをカットしてくれるCNCマシンの作例を紹介します|">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@ina_ani">
+    <meta name="twitter:creator" content="@ina_ani">
+    <meta name="twitter:title" content="手書きの線をカメラで認識してカットしてくれるCNCマシン | inajobのいろいろレビュー">
+    <meta name="twitter:description" content="手書きの線をカメラで認識しそれをカットしてくれるCNCマシンの作例を紹介します|">
+    
+    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/手書きの線をカメラで認識してカットしてくれるCNCマシン.jpg">
+    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/手書きの線をカメラで認識してカットしてくれるCNCマシン.jpg">
+    
+    
+    <meta name="google-site-verification" content="Wjrrx4mV4IokyVrRy-5rjpG1sfwkjQ-uVRiXhMMXhW8" />
+
+    <link rel="stylesheet" href="/iroiro-review/assets/syntax.css">
+    <link rel="stylesheet" href="/iroiro-review/assets/primer-build.css">
+    <link rel="stylesheet" href="/iroiro-review/assets/style.css">
+    <link rel="alternate" type="application/rss+xml" href="https://inajob.github.io/iroiro-review/index.xml" title="RSS2.0" />
+    <style>
+.rect{
+  width:120px;
+  height:120px;
+  object-fit:cover;
+}
+    </style>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+         (adsbygoogle = window.adsbygoogle || []).push({
+              google_ad_client: "ca-pub-4764710583056368",
+              enable_page_level_ads: true
+         });
+    </script>
+  </head>
+
+
+  <body class="bg-gray">
+    <div id="holy" class="container-lg bg-white h-100">
+
+      <div id="header" class="px-1 bg-white">
+        
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-3635234-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-3635234-7');
+</script>
+
+<nav class="UnderlineNav UnderlineNav--right px-2">
+  <a class="UnderlineNav-actions muted-link h2" href="https://inajob.github.io/iroiro-review">
+    inajobのいろいろレビュー
+  </a>
+
+  
+  
+</nav>
+
+<div class="m-3 p-1">
+電子工作・デジタルファブリケーションの海外事例を日本語で紹介するブログです。
+はてブやリツイートしてもらえるととても喜びます。
+Twitter: <a href="http://twitter.com/ina_ani">@ina_ani</a>
+
+<div>
+RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Finajob.github.io%2Firoiro-review%2Findex.xml'  target='blank'><img id='feedlyFollow' src='http://s3.feedly.com/img/follows/feedly-follow-rectangle-volume-medium_2x.png' alt='follow us in feedly' width='71' height='28'></a>
+<a href='https://inajob.github.io/iroiro-review/index.xml'  target='blank'><img src="https://inajob.github.io/iroiro-review/img/rss.png" width="28px" height="28px"></a>
+</div>
+</div>
+
+
+
+      </div>
+
+      <div role="main" id="main" class="holy-main markdown-body px-4 bg-white">
+        
+
+<div class="Subhead">
+  <div class="Subhead-heading">
+    <div class="h1 mt-3 mb-1">手書きの線をカメラで認識してカットしてくれるCNCマシン</div>
+  </div>
+  <div class="Subhead-description">
+    
+
+
+
+
+<a href='/iroiro-review/tags/cnc' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">CNC</span>
+</a>
+
+<a href='/iroiro-review/tags/opencv' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">OpenCV</span>
+</a>
+
+
+
+    
+    <div class="float-md-right">
+      <span title="Lastmod: 2022-04-17. Published at: 2022-04-17.">
+        
+          Published: 2022-04-17
+        
+      </span>
+    </div>
+    
+  </div>
+</div>
+<article>
+  
+  <section class="pb-6 mb-3 border-bottom">
+    <img src="https://inajob.github.io/iroiro-review/img/%e6%89%8b%e6%9b%b8%e3%81%8d%e3%81%ae%e7%b7%9a%e3%82%92%e3%82%ab%e3%83%a1%e3%83%a9%e3%81%a7%e8%aa%8d%e8%ad%98%e3%81%97%e3%81%a6%e3%82%ab%e3%83%83%e3%83%88%e3%81%97%e3%81%a6%e3%81%8f%e3%82%8c%e3%82%8bCNC%e3%83%9e%e3%82%b7%e3%83%b3.jpg" />
+    <p><a href="https://hackaday.com/2022/03/24/you-draw-it-cnc-cuts-it/">You Draw It, CNC Cuts It</a>から発見。画像もここから転載。</p>
+<p>手書きの線をカメラで認識しそれをカットしてくれるCNCマシンの作例です。</p>
+<p>OpenCVにより画像認識を行い、手書きの線を検出しています。
+設計をデジタルで行うのが一般的ですが、意外とこういうアナログとデジタルの掛け渡し的な技術は活躍の機会がありそうです。</p>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/80e94eu4s0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+  </section>
+
+  
+  <a href="/iroiro-review/post/dip%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%A0%E3%81%8C%E5%85%A8%E9%83%A8%E5%85%A5%E3%82%8A%E3%81%AEarduino%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/">
+    <div class="box-shadow-medium mb-3 bg-blue-light border border-blue" style="height:122px;">
+        <div style="float:left;">
+          <img class="rect" src="https://inajob.github.io/iroiro-review/img/dipduino.jpg" />
+        </div>
+
+        <div class="pb-2 pt-2 px-3" style="margin-left:122px;">
+          ← 前の記事 - DIPサイズだが全部入りのArduino互換ボード
+        </div>
+    </div>
+  </a>
+  
+
+  
+
+  
+
+<h3>関連記事</h3>
+<div>
+  
+  <a href="/iroiro-review/post/cnc%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%95%E3%82%8C%E3%81%9F%E3%83%97%E3%83%A9%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%BC/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/planthanger.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        CNCで作成されたプランターハンガー
+      </div>
+    </div>
+  </a>
+  
+  <a href="/iroiro-review/post/%E8%AA%B0%E3%81%A7%E3%82%82%E7%B0%A1%E5%8D%98%E3%81%AB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%88%E3%81%8C%E6%B1%BA%E3%82%81%E3%82%89%E3%82%8C%E3%82%8B%E5%A4%A2%E3%81%AE%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%9D%E3%82%B9%E3%83%88/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/dream-basketball-goal.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        誰でも簡単にシュートが決められる夢のゴールポスト
+      </div>
+    </div>
+  </a>
+  
+  <a href="/iroiro-review/post/%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E3%81%AB%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF%E3%81%AE%E6%A9%9F%E8%83%BD%E3%82%92%E8%BF%BD%E5%8A%A0%E3%81%99%E3%82%8B/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/plasma-plotter.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        プラズマカッターにペンプロッタの機能を追加する
+      </div>
+    </div>
+  </a>
+  
+  <a href="/iroiro-review/post/%E6%AE%B5%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%92%E6%80%9D%E3%81%84%E3%81%AE%E3%81%BE%E3%81%BE%E3%81%AB%E3%82%AB%E3%83%83%E3%83%88%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E5%87%BA%E6%9D%A5%E3%82%8Bcnc%E3%83%9E%E3%82%B7%E3%83%B3/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/tock_side_by_side.png" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        段ボールを思いのままにカットすることが出来るCNCマシン
+      </div>
+    </div>
+  </a>
+  
+  <a href="/iroiro-review/post/%E5%9B%9E%E8%BB%A2%E5%BC%8F%E3%81%AE%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/eddywrite.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        回転式のペンプロッタ
+      </div>
+    </div>
+  </a>
+  
+</div>
+
+
+
+  <section>
+  
+    
+    
+    
+      <div>
+        
+          <a href="https://twitter.com/intent/tweet?hashtags=inajob" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        
+
+        
+          
+          <div id="fb-root"></div>
+          <script>(function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+            fjs.parentNode.insertBefore(js, fjs);
+          }(document, 'script', 'facebook-jssdk'));</script>
+
+          <div class="fb-share-button" 
+            data-href="/iroiro-review/post/%E6%89%8B%E6%9B%B8%E3%81%8D%E3%81%AE%E7%B7%9A%E3%82%92%E3%82%AB%E3%83%A1%E3%83%A9%E3%81%A7%E8%AA%8D%E8%AD%98%E3%81%97%E3%81%A6%E3%82%AB%E3%83%83%E3%83%88%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8Bcnc%E3%83%9E%E3%82%B7%E3%83%B3/" 
+            data-layout="button_count">
+          </div>
+        
+
+        
+          <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+        
+
+        
+          <a data-pocket-label="pocket" data-pocket-count="none" class="pocket-btn" data-lang="en"></a>
+          <script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+        
+
+      </div>
+    
+  
+  </section>
+  <section>
+    
+      
+    
+  </section>
+</article>
+
+
+      </div>
+
+      <div id="side" class="pr-1 bg-white">
+        <aside class="pr-3">
+          
+  
+    <div id="toc" class="Box Box--blue mb-3">
+      <b>手書きの線をカメラで認識してカットしてくれるCNCマシン</b>
+      <nav id="TableOfContents"></nav>
+    </div>
+  
+
+  
+    
+    
+    
+      <div>
+        
+          <a href="https://twitter.com/intent/tweet?hashtags=inajob" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        
+
+        
+          <div class="fb-share-button" 
+            data-href="/iroiro-review/post/%E6%89%8B%E6%9B%B8%E3%81%8D%E3%81%AE%E7%B7%9A%E3%82%92%E3%82%AB%E3%83%A1%E3%83%A9%E3%81%A7%E8%AA%8D%E8%AD%98%E3%81%97%E3%81%A6%E3%82%AB%E3%83%83%E3%83%88%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8Bcnc%E3%83%9E%E3%82%B7%E3%83%B3/" 
+            data-layout="button_count">
+          </div>
+        
+
+        
+          <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+        
+
+        
+          <a data-pocket-label="pocket" data-pocket-count="none" class="pocket-btn" data-lang="en"></a>
+          <script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+        
+
+      </div>
+    
+  
+
+        </aside>
+      </div>
+
+      <div id="footer" class="pt-2 pb-3 bg-white text-center">
+        
+          <span class="text-small text-gray">
+            
+Contents: ©inajob 2020 ,Theme: ©Qiushi Pan 2018.
+Generated with
+<a href="https://gohugo.io" class="link-gray-dark">Hugo</a> and
+<a href="https://github.com/qqhann/hugo-primer" class="link-gray-dark">Hugo-Primer</a> theme.
+
+          </span>
+        
+      </div>
+    </div>
+
+
+    
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    
+    <script type="text/x-mathjax-config">MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });</script>
+  </body>
+</html>
