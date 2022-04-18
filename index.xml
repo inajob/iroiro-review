@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 17 Apr 2022 23:36:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Apr 2022 23:12:14 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>組子細工を取り入れたエレキギター筐体</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%B5%84%E5%AD%90%E7%B4%B0%E5%B7%A5%E3%82%92%E5%8F%96%E3%82%8A%E5%85%A5%E3%82%8C%E3%81%9F%E3%82%A8%E3%83%AC%E3%82%AD%E3%82%AE%E3%82%BF%E3%83%BC%E7%AD%90%E4%BD%93/</link>
+      <pubDate>Mon, 18 Apr 2022 23:12:14 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%B5%84%E5%AD%90%E7%B4%B0%E5%B7%A5%E3%82%92%E5%8F%96%E3%82%8A%E5%85%A5%E3%82%8C%E3%81%9F%E3%82%A8%E3%83%AC%E3%82%AD%E3%82%AE%E3%82%BF%E3%83%BC%E7%AD%90%E4%BD%93/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/組子細工を取り入れたエレキギター筐体.jpg"&gt;Young Maker Mixes Traditional Japanese Construction With Modern Artから発見。画像もここから転載。
+日本の伝統工芸である組子細工を取り入れたギター筐体。 組子とエキポシで筐体を作っています。 エレキと日本の伝統工芸の組み合わせがカッコいいです。
+ </description>
+    </item>
     
     <item>
       <title>手書きの線をカメラで認識してカットしてくれるCNCマシン</title>
@@ -135,18 +146,6 @@ Raspberry Pi Picoを使ってゲームボーイの画面をVGA出力している
 面白い形状の文字入力デバイスです。 各キーは3Dスティックのような形状をしており、4方向の入力を認識できるようです。
 予測入力を駆使してとても早く文字が打てるというもののようですが、予測入力系は、言語に依存するしあまり良い印象は無いです・・
 しかしこのような形状の入力装置は見たことがないので一度触ってみたいものです。</description>
-    </item>
-    
-    <item>
-      <title>飛び出す絵本に電子回路を実装した「イルミネーティング折り紙」</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E9%A3%9B%E3%81%B3%E5%87%BA%E3%81%99%E7%B5%B5%E6%9C%AC%E3%81%AB%E9%9B%BB%E5%AD%90%E5%9B%9E%E8%B7%AF%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%97%E3%81%9F%E3%82%A4%E3%83%AB%E3%83%9F%E3%83%8D%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%8A%98%E3%82%8A%E7%B4%99/</link>
-      <pubDate>Mon, 04 Apr 2022 23:22:03 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E9%A3%9B%E3%81%B3%E5%87%BA%E3%81%99%E7%B5%B5%E6%9C%AC%E3%81%AB%E9%9B%BB%E5%AD%90%E5%9B%9E%E8%B7%AF%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%97%E3%81%9F%E3%82%A4%E3%83%AB%E3%83%9F%E3%83%8D%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%8A%98%E3%82%8A%E7%B4%99/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/飛び出す絵本に電子回路を実装した「イルミネーティング折り紙」.jpg"&gt;Illuminating Origami Is Just Around The Cornerから発見。画像もここから転載。
-飛び出す絵本に電子回路を実装する 「イルミネーティング折り紙」 の実験です。
-キモとなるのは薄いシート状のQuantum Dot LEDです。 フレキシブルな基板というのはよく見かけますが、この技術を利用すると点灯するLEDシートそのものを折りたたむことが出来るようです。
- </description>
     </item>
     
   </channel>

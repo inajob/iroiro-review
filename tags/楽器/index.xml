@@ -5,9 +5,20 @@
     <description>Recent content in 楽器 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 23 Feb 2022 13:59:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Apr 2022 23:12:14 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%A5%BD%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>組子細工を取り入れたエレキギター筐体</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%B5%84%E5%AD%90%E7%B4%B0%E5%B7%A5%E3%82%92%E5%8F%96%E3%82%8A%E5%85%A5%E3%82%8C%E3%81%9F%E3%82%A8%E3%83%AC%E3%82%AD%E3%82%AE%E3%82%BF%E3%83%BC%E7%AD%90%E4%BD%93/</link>
+      <pubDate>Mon, 18 Apr 2022 23:12:14 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%B5%84%E5%AD%90%E7%B4%B0%E5%B7%A5%E3%82%92%E5%8F%96%E3%82%8A%E5%85%A5%E3%82%8C%E3%81%9F%E3%82%A8%E3%83%AC%E3%82%AD%E3%82%AE%E3%82%BF%E3%83%BC%E7%AD%90%E4%BD%93/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/組子細工を取り入れたエレキギター筐体.jpg"&gt;Young Maker Mixes Traditional Japanese Construction With Modern Artから発見。画像もここから転載。
+日本の伝統工芸である組子細工を取り入れたギター筐体。 組子とエキポシで筐体を作っています。 エレキと日本の伝統工芸の組み合わせがカッコいいです。
+ </description>
+    </item>
     
     <item>
       <title>かっこいいエレキカリンバ</title>
@@ -115,19 +126,6 @@ SPIでボタンの入力が取得できるようで、少ないGPIOで接続で�
 一見ギター風ですが、この楽器はギターよりも演奏が簡単そうです。 ネックの部分でスケールを指定し、反対の手にある円筒状のスイッチを使って音階を演奏します。
 主となるボードはArduino MKR WIFI1010で、オーディオシンセ用にATMega328を搭載しています。
 ギターは「弦を押さえる」操作が難しいので、ワンタッチで操作できるこのような楽器は楽器が苦手な人でも比較的簡単に演奏できそうです。
- </description>
-    </item>
-    
-    <item>
-      <title>アーケードゲームのボタンをふんだんに使ったMIDIコントローラ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E3%83%9C%E3%82%BF%E3%83%B3%E3%82%92%E3%81%B5%E3%82%93%E3%81%A0%E3%82%93%E3%81%AB%E4%BD%BF%E3%81%A3%E3%81%9Fmidi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9/</link>
-      <pubDate>Thu, 22 Apr 2021 11:00:47 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E3%83%9C%E3%82%BF%E3%83%B3%E3%82%92%E3%81%B5%E3%82%93%E3%81%A0%E3%82%93%E3%81%AB%E4%BD%BF%E3%81%A3%E3%81%9Fmidi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/harmonicade.png"&gt;HARMONICADEPROJECT CODE, CAD FILES, AND BUILD GUIDEから発見。画像もここから転載。
-たくさんのアーケードゲームのボタンが並んだMIDIコントローラです。ボタンの配置はWicki-Haydenレイアウトになっており、慣れれば演奏しやすそうです。 制御にはTeensy 3.6を利用しています。
-アーケードゲームのボタンは軽いタッチで押し込みやすく、耐久性も高そうなので、このようにゲーム以外の用途でも活用できそうです。
-過去にも同じようなアーケードゲームのボタンを使った楽器を紹介しました。（さらにもう一つ）
  </description>
     </item>
     
