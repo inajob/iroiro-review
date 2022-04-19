@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 18 Apr 2022 23:12:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Apr 2022 23:13:30 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32のULPのプログラムを簡単に作るためのライブラリ</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%81%AEulp%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%82%92%E7%B0%A1%E5%8D%98%E3%81%AB%E4%BD%9C%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA/</link>
+      <pubDate>Tue, 19 Apr 2022 23:13:30 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%81%AEulp%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%82%92%E7%B0%A1%E5%8D%98%E3%81%AB%E4%BD%9C%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32のULPのプログラムを簡単に作るためのライブラリ.jpg"&gt;boarchuz/HULPから発見。画像もここから転載。
+ESP32にはデュアルコアのCPUとして知られていますが、実はもう一つUltra Low Power Co-Processor (ULP)という、低消費電力のCPUが搭載されています。 ULPは独自の機械語となっており、高級言語からのコンパイラは存在しません。
+ということで、基本的には仕様書を見つつアセンブラをせこせこ打ち込む必要があるのですが、このHULPを使うと、簡単なマクロを組み合わせる事でULPのプログラミングが出来ます。</description>
+    </item>
     
     <item>
       <title>組子細工を取り入れたエレキギター筐体</title>
@@ -134,18 +145,6 @@ Raspberry Pi Picoを使ってゲームボーイの画面をVGA出力している
 ロータリーエンコーダの回転と綺麗に連動した円形ディスプレイの映像は、まるでアナログな装置のようです。
 みんなに見てもらえて満足しましたが、ロータリーエンコーダが見つかったのでやってみた。ノブを回すとレコードも回る！たーのしー！無心で回し続けるとカレンダーガールが聴こえて‥来ない‥‥（修行不足） #m5stack #m5atom #aikatsu pic.twitter.com/DHb0tV3K9p
 &amp;mdash; イナバ (@hollyhockberry) January 26, 2022  </description>
-    </item>
-    
-    <item>
-      <title>高速に入力できる面白い形状の文字入力デバイス</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E9%AB%98%E9%80%9F%E3%81%AB%E5%85%A5%E5%8A%9B%E3%81%A7%E3%81%8D%E3%82%8B%E9%9D%A2%E7%99%BD%E3%81%84%E5%BD%A2%E7%8A%B6%E3%81%AE%E6%96%87%E5%AD%97%E5%85%A5%E5%8A%9B%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</link>
-      <pubDate>Tue, 05 Apr 2022 23:35:27 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E9%AB%98%E9%80%9F%E3%81%AB%E5%85%A5%E5%8A%9B%E3%81%A7%E3%81%8D%E3%82%8B%E9%9D%A2%E7%99%BD%E3%81%84%E5%BD%A2%E7%8A%B6%E3%81%AE%E6%96%87%E5%AD%97%E5%85%A5%E5%8A%9B%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/高速に入力できる面白い形状の文字入力デバイス.jpg"&gt;The Charachorder Keyboard Is Too Fast For Competitionから発見。画像もここから転載。
-面白い形状の文字入力デバイスです。 各キーは3Dスティックのような形状をしており、4方向の入力を認識できるようです。
-予測入力を駆使してとても早く文字が打てるというもののようですが、予測入力系は、言語に依存するしあまり良い印象は無いです・・
-しかしこのような形状の入力装置は見たことがないので一度触ってみたいものです。</description>
     </item>
     
   </channel>
