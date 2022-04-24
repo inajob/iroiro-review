@@ -5,9 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 21 Apr 2022 22:10:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Apr 2022 23:11:05 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raspberry Pi Zero 2W用のキーボードとメモリ液晶搭載のハンドヘルド端末</title>
+      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-zero-2w%E7%94%A8%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%81%A8%E3%83%A1%E3%83%A2%E3%83%AA%E6%B6%B2%E6%99%B6%E6%90%AD%E8%BC%89%E3%81%AE%E3%83%8F%E3%83%B3%E3%83%89%E3%83%98%E3%83%AB%E3%83%89%E7%AB%AF%E6%9C%AB/</link>
+      <pubDate>Sun, 24 Apr 2022 23:11:05 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-zero-2w%E7%94%A8%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%81%A8%E3%83%A1%E3%83%A2%E3%83%AA%E6%B6%B2%E6%99%B6%E6%90%AD%E8%BC%89%E3%81%AE%E3%83%8F%E3%83%B3%E3%83%89%E3%83%98%E3%83%AB%E3%83%89%E7%AB%AF%E6%9C%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi Zero 2W用のキーボードとメモリ液晶搭載のハンドヘルド端末.jpg"&gt;ShaRPIKeebo PC board by ElectronicTricks on Tindieから発見。画像もここから転載。
+Raspberry Pi Zero 2W用のキーボードとメモリ液晶搭載のハンドヘルド端末です。 基板単品での販売は行われていますが、キットや完成品の販売はまだのようです。
+CrowdSupply でクラウドファンディングが予定されているようです。 気になる人はメールアドレスを登録してみてください。
+この端末の日本語対応などはhara1129 さんが精力的に活動されています。
+https://github.com/hra1129/ShaRPIKeebo-customize-for-japanese
+ Coming soon: ShaRPIKeebo from @morpheans, a tiny Linux computer with a QWERTY keyboard, a daylight-readable screen, and a long-range transceiver. More details and sign up for updates ⬇️https://t.co/zQ3SqCL465 pic.twitter.com/qG6UfCzGqA
+&amp;mdash; Crowd Supply (@crowd_supply) April 5, 2022  </description>
+    </item>
     
     <item>
       <title>HDMIのI2C端子をOLEDにつなげてディスプレイにするHACK</title>
@@ -134,18 +149,6 @@ DipDuinoはDIPのフットプリントと同じですが、USBポートが付い
 動くぞ！！！ pic.twitter.com/ZijGeemqew
 &amp;mdash; ina_ani@1歳11ヶ月児のパパ (@ina_ani) April 9, 2021  自作キーボードの新しい「沼」に足を踏み込んだ気分になりました。
  </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタで作られた磁気キーボードスイッチ</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E7%A3%81%E6%B0%97%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81/</link>
-      <pubDate>Sun, 10 Apr 2022 22:55:29 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E7%A3%81%E6%B0%97%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作られた磁気キーボードスイッチ.jpg"&gt;3D Printed Maglev Switches Are So Hot Right Nowから発見。画像もここから転載。
-磁気キーボードスイッチの作例の紹介です。 このような取り組みは同時多発的に行われているようで、別の自作磁気キーボードスイッチと比較するような内容になっています。
-この記事で紹介している磁気キーボードスイッチは、通常のCherry MXキーボードスイッチとそのまま交換できるもので、光造形式の3Dプリンタで作られています。
-自作キーボードというのが人気ですが、キーボードスイッチから自作する人は、そうそう居ないでしょう。</description>
     </item>
     
   </channel>

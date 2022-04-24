@@ -1,0 +1,29 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ShaRPIKeebo on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/sharpikeebo/</link>
+    <description>Recent content in ShaRPIKeebo on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sun, 24 Apr 2022 23:11:05 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/sharpikeebo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raspberry Pi Zero 2W用のキーボードとメモリ液晶搭載のハンドヘルド端末</title>
+      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-zero-2w%E7%94%A8%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%81%A8%E3%83%A1%E3%83%A2%E3%83%AA%E6%B6%B2%E6%99%B6%E6%90%AD%E8%BC%89%E3%81%AE%E3%83%8F%E3%83%B3%E3%83%89%E3%83%98%E3%83%AB%E3%83%89%E7%AB%AF%E6%9C%AB/</link>
+      <pubDate>Sun, 24 Apr 2022 23:11:05 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-zero-2w%E7%94%A8%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%81%A8%E3%83%A1%E3%83%A2%E3%83%AA%E6%B6%B2%E6%99%B6%E6%90%AD%E8%BC%89%E3%81%AE%E3%83%8F%E3%83%B3%E3%83%89%E3%83%98%E3%83%AB%E3%83%89%E7%AB%AF%E6%9C%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi Zero 2W用のキーボードとメモリ液晶搭載のハンドヘルド端末.jpg"&gt;ShaRPIKeebo PC board by ElectronicTricks on Tindieから発見。画像もここから転載。
+Raspberry Pi Zero 2W用のキーボードとメモリ液晶搭載のハンドヘルド端末です。 基板単品での販売は行われていますが、キットや完成品の販売はまだのようです。
+CrowdSupply でクラウドファンディングが予定されているようです。 気になる人はメールアドレスを登録してみてください。
+この端末の日本語対応などはhara1129 さんが精力的に活動されています。
+https://github.com/hra1129/ShaRPIKeebo-customize-for-japanese
+ Coming soon: ShaRPIKeebo from @morpheans, a tiny Linux computer with a QWERTY keyboard, a daylight-readable screen, and a long-range transceiver. More details and sign up for updates ⬇️https://t.co/zQ3SqCL465 pic.twitter.com/qG6UfCzGqA
+&amp;mdash; Crowd Supply (@crowd_supply) April 5, 2022  </description>
+    </item>
+    
+  </channel>
+</rss>
+
