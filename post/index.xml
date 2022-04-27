@@ -5,9 +5,44 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 26 Apr 2022 22:48:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Apr 2022 22:51:01 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32搭載のタッチ対応液晶付きのスタイリッシュな開発ボード「WT32-SC01」</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32%E6%90%AD%E8%BC%89%E3%81%AE%E3%82%BF%E3%83%83%E3%83%81%E5%AF%BE%E5%BF%9C%E6%B6%B2%E6%99%B6%E4%BB%98%E3%81%8D%E3%81%AE%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%81%AA%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89wt320sc01/</link>
+      <pubDate>Wed, 27 Apr 2022 22:51:01 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32%E6%90%AD%E8%BC%89%E3%81%AE%E3%82%BF%E3%83%83%E3%83%81%E5%AF%BE%E5%BF%9C%E6%B6%B2%E6%99%B6%E4%BB%98%E3%81%8D%E3%81%AE%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%81%AA%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89wt320sc01/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/wt32-sc01-cover.jpg"&gt;この記事はBanggoodの提供でお届けします。
+以前紹介したようにこのブログはBanggoodと提携させていただいており、今回紹介するWT32-SC01からいただいたものとなります。（WT32-SC01のレビューがしたい！と言ったのは自分なので、Banggoodが無理やりこの商品を押しているわけではなく、inajobの一押しアイテム！、という感じです。）
+WT32-SC01とは 最近ESP32が搭載されたボードを良く紹介しますが、WT32-SC01もその1つです。
+ざっと仕様を紹介します
+ 320x480 3.5inchディスプレイ 静電容量式タッチ FT6446U 8MBのPSRAM搭載 拡張端子搭載 3.3VのLDOが2つ搭載 USB Type-C  要はタッチディスプレイ搭載のESP32の開発ボードです。
+ディスプレイの解像度も比較的大きく、たくさんの情報が表示できます。 （参考: M5Stackの解像度が320*240なのでその倍の解像度です）
+注意点としては・・
+ SDカードスロットが無い 拡張用ピンヘッダが2mmピッチなのが惜しい  と言ったところでしょうか？
+初回起動してみる 購入した状態で電源を入れると8msと呼ばれる開発環境のデモプログラムが動作しました。
+8msというのは中国で作られているブラウザで動作する開発環境のようです。
+ちょっと気になりますが、ここでは普通のESP32の開発ボードとしてPlatformioを使ってプログラムを開発する方法を見ていくことにします。
+LVGL8-WT32-SC01-Arduino を動かしてみる 少し調べると このWT32-SC01で動作するプログラムがGitHub上にいくつか存在しているのに気づきました。 ここでは以下のリポジトリをビルドして書き込みしてみます。
+https://github.com/sukesh-ak/LVGL8-WT32-SC01-Arduino
+platformioがインストールしてあれば、リポジトリルートでplatformio run -t uploadを実行するだけで、ビルドとファームウェアの更新ができます。
+LVGLと呼ばれる組み込み向けのGUI環境が動作しており、タッチパネルも問題なく動作することが確認できました。 またこのリポジトリでは描画用にLovyanGFXを使っており、M5Stackなどと同様に開発が出来そうなことも伺えます。
+ここでは試していないですが、Arduino IDEでも同じように開発ができると思います。
+WT32-SC01-Exp を動かしてみる 以下のリポジトリもPlatformioで簡単に動かすことが出来ました。
+https://github.com/seaniefs/WT32-SC01-Exp
+こちらは描画用にTFT_eSPIを使っているようです。
+3Dキューブがスムーズにアニメーションしている様子が確認できました。 （ソースコードを見るとディスプレイを全消去しているわけでなく、前フレームで書いた線を打ち消しているだけのようなので、まぁ早く動くのも納得です）
+アイデア この開発ボードはESP32と解像度の大きなディスプレイ、タッチパネルというシンプルな構成が特徴です。
+ IoT家電の制御ボード デジタルフォトフレーム 高解像度を生かしたゲーム(フレームレートを高めるのはコツが必要そう) 電子情報端末（小型のパソコンのようなもの）  という感じです。
+センサーなどを追加するための拡張端子も数多く引き出されているので、カスタマイズが簡単そうです。
+まとめ WT32-SC01は、ESP32-WROVER-Bの大容量メモリを活用できる、高解像度のディスプレイを備えた開発ボードです。
+Raspberry Piを使うほどでもない画面付きのガジェットを作る際のパーツして役立ちそうです。
+クーポンコード さて、ここまで紹介してきたWT32-SC01ですが、今回Banggoodの提供という事で、$38.99 → $34.99で購入できるクーポンを頂いています。
+コード： BG324264 (5/16まで)</description>
+    </item>
     
     <item>
       <title>USB接続のRaspberryPi用のRTCモジュール</title>
@@ -115,32 +150,6 @@ OpenCVにより画像認識を行い、手書きの線を検出しています�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/dipduino.jpg"&gt;dipDuino 1.2から発見。画像もここから転載。
 DipDuinoはDIPのフットプリントと同じですが、USBポートが付いており、これだけでPCから書き込みができるArdunio互換ボードです。
 コアとなるマイコンはATMega328PでUSBシリアル変換ICとしてCP2104を用い、フルカラーLEDも搭載しています。</description>
-    </item>
-    
-    <item>
-      <title>レシート印刷ができるAndroid端末</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%82%B7%E3%83%BC%E3%83%88%E5%8D%B0%E5%88%B7%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8Bandroid%E7%AB%AF%E6%9C%AB/</link>
-      <pubDate>Wed, 13 Apr 2022 22:46:31 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%82%B7%E3%83%BC%E3%83%88%E5%8D%B0%E5%88%B7%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8Bandroid%E7%AB%AF%E6%9C%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/レシート印刷ができるAndroid端末.jpg"&gt;だれかさんねっとさんのTweetから発見。画像もここから転載。
-非常に局所的ですが「祭り」が発生していたようです。 何かというと、レシート印刷機能の付いた業務用のAndroid端末が安くで販売されているようで、ガジェット好きの皆さんが次々と購入する事態となっているようです。
-発信元か？ 自分がはじめに見つけたのはこのTweetです。
-気に入ったツイートを即座に印刷できる端末 pic.twitter.com/OQlPxQ8Ahj
-&amp;mdash; だれかさんねっと (@darekasan_net) April 3, 2022  ブログ印刷 Webページを印刷する機能があるようで、ブログを印刷しているようですが、、すごく長いですねｗ
-ブログ印刷したら大変なことになった pic.twitter.com/QQrUg8Q1MY
-&amp;mdash; だれかさんねっと (@darekasan_net) April 3, 2022  公式が積極的 こういうのは、目的外使用というか、想定外の使い方だと思うのですが、公式Twitterの方もノリノリで返信しているのが印象的です。
-弊社製品をご利用頂きありがとうございます♪
-(まさかこのようなご利用方法とはw)
-&amp;mdash; SUNMI //業務向けデバイスメーカー// 【公式】 (@sunmijapannews) April 3, 2022  ほかに買った人 この後続々と購入した方が現れました。
-でっかいスマホも到着したけど、こっちは仕事が一段落してからやる事にしよう。 pic.twitter.com/3n27q33KXH
-&amp;mdash; DEKO (@ht_deko) April 5, 2022  わたしも届いたわ(^_^;)。
-すごいでかい箱だった(^_^;)。
-まだ未開封。
-プリンタ用紙ついてないのか(^_^;)。
-おおむかしポケコンプリンタ用に買ったやつがどこかにあるとは思うが。
-&amp;mdash; chamekan (@chame) April 5, 2022  my new gear...🖨📱 pic.twitter.com/fwuREZ2bu4
-&amp;mdash; ふるおらいと (@36kyo) April 2, 2022  印刷ソフトが優秀で白黒印刷に耐えるように、印刷データのエッジ検出を自動で行う機能があるようです。</description>
     </item>
     
   </channel>

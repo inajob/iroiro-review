@@ -5,9 +5,44 @@
     <description>Recent content in Banggood on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 07 Mar 2022 12:40:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Apr 2022 22:51:01 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/banggood/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32搭載のタッチ対応液晶付きのスタイリッシュな開発ボード「WT32-SC01」</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32%E6%90%AD%E8%BC%89%E3%81%AE%E3%82%BF%E3%83%83%E3%83%81%E5%AF%BE%E5%BF%9C%E6%B6%B2%E6%99%B6%E4%BB%98%E3%81%8D%E3%81%AE%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%81%AA%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89wt320sc01/</link>
+      <pubDate>Wed, 27 Apr 2022 22:51:01 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32%E6%90%AD%E8%BC%89%E3%81%AE%E3%82%BF%E3%83%83%E3%83%81%E5%AF%BE%E5%BF%9C%E6%B6%B2%E6%99%B6%E4%BB%98%E3%81%8D%E3%81%AE%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%81%AA%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89wt320sc01/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/wt32-sc01-cover.jpg"&gt;この記事はBanggoodの提供でお届けします。
+以前紹介したようにこのブログはBanggoodと提携させていただいており、今回紹介するWT32-SC01からいただいたものとなります。（WT32-SC01のレビューがしたい！と言ったのは自分なので、Banggoodが無理やりこの商品を押しているわけではなく、inajobの一押しアイテム！、という感じです。）
+WT32-SC01とは 最近ESP32が搭載されたボードを良く紹介しますが、WT32-SC01もその1つです。
+ざっと仕様を紹介します
+ 320x480 3.5inchディスプレイ 静電容量式タッチ FT6446U 8MBのPSRAM搭載 拡張端子搭載 3.3VのLDOが2つ搭載 USB Type-C  要はタッチディスプレイ搭載のESP32の開発ボードです。
+ディスプレイの解像度も比較的大きく、たくさんの情報が表示できます。 （参考: M5Stackの解像度が320*240なのでその倍の解像度です）
+注意点としては・・
+ SDカードスロットが無い 拡張用ピンヘッダが2mmピッチなのが惜しい  と言ったところでしょうか？
+初回起動してみる 購入した状態で電源を入れると8msと呼ばれる開発環境のデモプログラムが動作しました。
+8msというのは中国で作られているブラウザで動作する開発環境のようです。
+ちょっと気になりますが、ここでは普通のESP32の開発ボードとしてPlatformioを使ってプログラムを開発する方法を見ていくことにします。
+LVGL8-WT32-SC01-Arduino を動かしてみる 少し調べると このWT32-SC01で動作するプログラムがGitHub上にいくつか存在しているのに気づきました。 ここでは以下のリポジトリをビルドして書き込みしてみます。
+https://github.com/sukesh-ak/LVGL8-WT32-SC01-Arduino
+platformioがインストールしてあれば、リポジトリルートでplatformio run -t uploadを実行するだけで、ビルドとファームウェアの更新ができます。
+LVGLと呼ばれる組み込み向けのGUI環境が動作しており、タッチパネルも問題なく動作することが確認できました。 またこのリポジトリでは描画用にLovyanGFXを使っており、M5Stackなどと同様に開発が出来そうなことも伺えます。
+ここでは試していないですが、Arduino IDEでも同じように開発ができると思います。
+WT32-SC01-Exp を動かしてみる 以下のリポジトリもPlatformioで簡単に動かすことが出来ました。
+https://github.com/seaniefs/WT32-SC01-Exp
+こちらは描画用にTFT_eSPIを使っているようです。
+3Dキューブがスムーズにアニメーションしている様子が確認できました。 （ソースコードを見るとディスプレイを全消去しているわけでなく、前フレームで書いた線を打ち消しているだけのようなので、まぁ早く動くのも納得です）
+アイデア この開発ボードはESP32と解像度の大きなディスプレイ、タッチパネルというシンプルな構成が特徴です。
+ IoT家電の制御ボード デジタルフォトフレーム 高解像度を生かしたゲーム(フレームレートを高めるのはコツが必要そう) 電子情報端末（小型のパソコンのようなもの）  という感じです。
+センサーなどを追加するための拡張端子も数多く引き出されているので、カスタマイズが簡単そうです。
+まとめ WT32-SC01は、ESP32-WROVER-Bの大容量メモリを活用できる、高解像度のディスプレイを備えた開発ボードです。
+Raspberry Piを使うほどでもない画面付きのガジェットを作る際のパーツして役立ちそうです。
+クーポンコード さて、ここまで紹介してきたWT32-SC01ですが、今回Banggoodの提供という事で、$38.99 → $34.99で購入できるクーポンを頂いています。
+コード： BG324264 (5/16まで)</description>
+    </item>
     
     <item>
       <title>2本目にいかが？ワイヤレスバッテリーはんだごて</title>
@@ -258,31 +293,6 @@ GamaKay K66 とは ここ最近「自作キーボード」が流行っていま�
 分解してみる ここまでで、一般的なレビューは終わりです。
 ここからは私の知的好奇心でこのキーボードを分解してみた結果を紹介します。
 たくさんのネジ このキーボードは金属製のパネルを使わず、アクリル樹脂をサンドイッチして筐体が構成されています。個人的には、特に金属ではないからと言って強度に問題があるようには思いませんでした。</description>
-    </item>
-    
-    <item>
-      <title>かわいいキーボード付きのESP32開発機 TTGO T-Watch Keyboard</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8D%E3%81%AEesp32%E9%96%8B%E7%99%BA%E6%A9%9F-ttgo-t-watch-keyboard/</link>
-      <pubDate>Sun, 25 Apr 2021 11:00:37 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8D%E3%81%AEesp32%E9%96%8B%E7%99%BA%E6%A9%9F-ttgo-t-watch-keyboard/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/t-watch-keyboard-cover.png"&gt;かわいいキーボード付きのESP32開発機 TTGO T-Watch Keyboard
-この記事はBanggoodの提供でお届けします。
-以前紹介したようにこのブログはBanggoodと提携させていただいており、今回紹介するTTGO T-Watch KeyboardはBanggoodからいただいたものとなります。 TTGO T-Watch Keyboardのレビューがしたい！と言ったのは自分なので、Banggoodが無理やりこの商品を押しているわけではなく、inajobの一押しアイテム！、という感じです。）
-・・・ といういつもの前置きはそこそこに、TTGO T-Watch Keyboardについて紹介していきます。
-そして、今回もこのブログのために2021/05/31まで利用できるクーポンを頂くことが出来たので、そちらも紹介します。
-TTGO T-Watch Keyboard とは TTGO T-Watch Keyboardは TTGO T-Watchという製品にキーボードのオプションが搭載された製品です。
-TTGO T-Watchというのは、いわゆるスマートウォッチの開発キットです。とはいっても、普通のスマートウォッチと違うところは標準的なソフトウェアを持たないという点です。
-普通のスマートウォッチ、例えばFitBitやApple Watchであれば、当然ハードウェアと、ソフトウェアはセットです。しかしこのTTGO T-Watchは開発用途という事で、標準的なソフトウェアを搭載せずに、ハードウェアのみの製品です。
-ここまでのところで、ピンときた方もいるかもしれませんが、これはM5Stackとよく似たコンセプトの製品です。それどころか、メインのCPUがESP32であったりと、その構成も非常によく似ています。
-さて、このTTGO T-Watchは、バンドをつけることで、（ちょっと大きな）スマートウォッチとして利用できるのですが、今回紹介する TTGO T-Watch Keyboardは、スマートウォッチのバンドを取り付ける部分に、小さなキーボードを搭載することで、ミニチュアのノートパソコンのように構成されたちょっと変わったガジェットです。
-キーボードはI2CでTTGO T-Watch本体と接続されており、ライブラリを利用することで非常に簡単にキーボードからの入力をハンドリング出来ます。
-といったところで、この製品の詳細なスペックを見てみましょう。
- メインCPU: ESP32 USBtoシリアル変換: CP2104 MicroSDカードスロット 16MBのQSPI接続のフラッシュメモリ メインCPU内蔵の520KBのSRAMと、外付けのPSRAM 8MB 電源ボタンと、もう一つ好きに使えるボタン 40MHzの水晶発振子 RTC: PCF8563 1.54inchのタッチ機能付き液晶画面 三軸加速度センサー: BMA423 リチウムイオンバッテリ（容量未記載だが200mAh） 技適取得済み  と、まぁもりだくさんです。
-キーボード部分は
- Blackberryのキーボード ATSAMD20(ここを改造するとキーボードに機能を増やせそうです)  という感じです。 キーボード部分はI2Cのピンが出ているので、このキーボードだけを別のプロダクトに流用することも簡単に出来そうです。
-外観 実用性はおいておいて、とてもチャーミングな筐体です。 キーボード部分は腕時計として利用する際のリストバンドを固定するための軸受けに取り付けられており、好きな角度に曲がります。
-しかし、保持力はあまりないようで、中途半端な角度で固定しようとしてもパタンと重たい方に倒れてしまいます。</description>
     </item>
     
   </channel>
