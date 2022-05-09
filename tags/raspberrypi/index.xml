@@ -5,9 +5,22 @@
     <description>Recent content in RaspberryPi on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 26 Apr 2022 22:48:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 May 2022 23:19:03 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/raspberrypi/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raspberry Piのベアメタルプログラミングにより作られたFMシンセ音源</title>
+      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi%E3%81%AE%E3%83%99%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%AB%E3%82%88%E3%82%8A%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9Ffm%E3%82%B7%E3%83%B3%E3%82%BB%E9%9F%B3%E6%BA%90/</link>
+      <pubDate>Mon, 09 May 2022 23:19:03 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi%E3%81%AE%E3%83%99%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%AB%E3%82%88%E3%82%8A%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9Ffm%E3%82%B7%E3%83%B3%E3%82%BB%E9%9F%B3%E6%BA%90/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Piのベアメタルプログラミングにより作られたFMシンセ音源.jpg"&gt;Bare Metal Gives This Pi Some Classic Synthsから発見。画像もここから転載。
+RaspberryPiはLinuxをインストールして利用するのが一般的ですが、OSなしで、Raspberry Piの上で直接動作するプログラムを作ることもできます。 この手法をベアメタルプログラミングなどと呼びますが、この記事で紹介しているのは、ベアメタルプログラミングで作成された、FMシンセ音源です。
+有名なYAMAHAのDX7を模した音源のようでｓ、Raspberry Pi 2以上で動作するようです。
+お古になってしまったRaspberry Piの使い道としても面白そうです。
+ </description>
+    </item>
     
     <item>
       <title>USB接続のRaspberryPi用のRTCモジュール</title>
@@ -140,19 +153,6 @@ Raspberry Pi ZeroのUSB Deviceとしての機能を使うことで様々な周�
 Raspberry Piコンソールの作例はたくさん紹介してきましたが、この記事では軍用ラップトップであるGRiDの外装を流用して作られたものを紹介します。
 LEDの点灯やキーボードの読み取り、備え付けのマウス(IsoPoint)の制御のために2枚のTeensyボードを内蔵しているようです。
 「まさに軍用」という感じのがっしりした筐体は頼もしく、安心して持ち歩けそうなRaspberryPiラップトップに仕上がっています。
- </description>
-    </item>
-    
-    <item>
-      <title>世界中の監視カメラの映像を盗み見るための穴</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E4%B8%96%E7%95%8C%E4%B8%AD%E3%81%AE%E7%9B%A3%E8%A6%96%E3%82%AB%E3%83%A1%E3%83%A9%E3%81%AE%E6%98%A0%E5%83%8F%E3%82%92%E7%9B%97%E3%81%BF%E8%A6%8B%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E7%A9%B4/</link>
-      <pubDate>Tue, 22 Jun 2021 11:00:10 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E4%B8%96%E7%95%8C%E4%B8%AD%E3%81%AE%E7%9B%A3%E8%A6%96%E3%82%AB%E3%83%A1%E3%83%A9%E3%81%AE%E6%98%A0%E5%83%8F%E3%82%92%E7%9B%97%E3%81%BF%E8%A6%8B%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E7%A9%B4/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/virtual-peephole.png"&gt;INSECURE SURVEILLANCE CAMERAS PROVIDE DYSTOPIAN PEEP SHOWから発見。画像もここから転載。
-世界にはたくさんの監視カメラが設置されていますが、その中にはセキュリティ設定が甘く、デフォルトパスワードでつながってしまうようなカメラもあるようです。
-このガジェットはそんなセキュリティのゆるい監視カメラを「覗き見る」ことが出来るというものです。
-のぞき穴のフタを開けるたびに違う監視カメラの映像を見ることが出来ます。
  </description>
     </item>
     
