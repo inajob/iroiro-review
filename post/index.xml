@@ -5,9 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 10 May 2022 23:10:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 May 2022 22:04:36 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>6軸の3Dプリンタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/6%E8%BB%B8%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
+      <pubDate>Wed, 11 May 2022 22:04:36 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/6%E8%BB%B8%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/6軸の3Dプリンタ.jpg"&gt;gearさんのTweetから発見。画像もここから転載。
+よく見かける3Dプリンタは3軸です。
+一応3軸あればあらゆる形状を作ることが出来ますが、さらに軸が増えると、造形の精度を高めたり、表現力を高めることが出来ます。
+ここで紹介しているのは自作の6軸の3Dプリンタです。
+製作の過程をNoteに紹介されており、今後の展開が楽しみです。 https://note.com/_gear_geek_/n/n0bb2916ab99b
+DELTAプリンタみたいな6軸のHEXAプリンタ作りました！見てくださいー。　#HEXA #nonplanar pic.twitter.com/4eypii3yGG
+&amp;mdash; gear (@_gear_geek_) April 14, 2022   </description>
+    </item>
     
     <item>
       <title>アクリル板に傷をつけて下からLEDで光を当てて看板を作る手法</title>
@@ -141,17 +156,6 @@ PCの画面を出すためにxrandrを使って仮想ディスプレイの設定
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32のULPのプログラムを簡単に作るためのライブラリ.jpg"&gt;boarchuz/HULPから発見。画像もここから転載。
 ESP32にはデュアルコアのCPUとして知られていますが、実はもう一つUltra Low Power Co-Processor (ULP)という、低消費電力のCPUが搭載されています。 ULPは独自の機械語となっており、高級言語からのコンパイラは存在しません。
 ということで、基本的には仕様書を見つつアセンブラをせこせこ打ち込む必要があるのですが、このHULPを使うと、簡単なマクロを組み合わせる事でULPのプログラミングが出来ます。</description>
-    </item>
-    
-    <item>
-      <title>組子細工を取り入れたエレキギター筐体</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E7%B5%84%E5%AD%90%E7%B4%B0%E5%B7%A5%E3%82%92%E5%8F%96%E3%82%8A%E5%85%A5%E3%82%8C%E3%81%9F%E3%82%A8%E3%83%AC%E3%82%AD%E3%82%AE%E3%82%BF%E3%83%BC%E7%AD%90%E4%BD%93/</link>
-      <pubDate>Mon, 18 Apr 2022 23:12:14 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E7%B5%84%E5%AD%90%E7%B4%B0%E5%B7%A5%E3%82%92%E5%8F%96%E3%82%8A%E5%85%A5%E3%82%8C%E3%81%9F%E3%82%A8%E3%83%AC%E3%82%AD%E3%82%AE%E3%82%BF%E3%83%BC%E7%AD%90%E4%BD%93/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/組子細工を取り入れたエレキギター筐体.jpg"&gt;Young Maker Mixes Traditional Japanese Construction With Modern Artから発見。画像もここから転載。
-日本の伝統工芸である組子細工を取り入れたギター筐体。 組子とエキポシで筐体を作っています。 エレキと日本の伝統工芸の組み合わせがカッコいいです。
- </description>
     </item>
     
   </channel>
