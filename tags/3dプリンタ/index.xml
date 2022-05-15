@@ -5,9 +5,23 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 11 May 2022 22:04:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 May 2022 23:13:49 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PalmのキーボードをBluetooth化するためのアダプタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/palm%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92bluetooth%E5%8C%96%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF/</link>
+      <pubDate>Sun, 15 May 2022 23:13:49 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/palm%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92bluetooth%E5%8C%96%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/PalmのキーボードをBluetooth化するためのアダプタ.jpg"&gt;Bluetooth adapter version 2 for Palm Portable by Xinming&amp;rsquo;s store on Tindieから発見。画像もここから転載。
+Palmと言えば懐かしのハンドヘルド端末ですが、もうその姿を見ることはほとんどなくなってしまいました。 Palmには様々な周辺機器があり、キーボードもその一つです。
+この記事で紹介しているのはPalm用のキーボードをBluetoothキーボードに変換するためのアダプタです。
+コアにはESP32-C3を用いています。 筐体は3Dプリンタで作られており様々な機種のPalmのコネクタに対応しているようです。
+コネクタ部分は3Dプリンタと導線で作られており、Palmのような端子の幅が大きなコネクタであればこのような単純な造形でコネクタが作れるという事例としても参考になります。
+ </description>
+    </item>
     
     <item>
       <title>6軸の3Dプリンタ</title>
@@ -139,19 +153,6 @@ SOT-23-5 0.95mm ピッチは0.2mmノズルで。
 ESP32 くらいの1.27mmピッチなら、通常の0.4mmノズルでいけました。
 Flashforge Finder、PLA+ 使用) pic.twitter.com/sAAWqBYF9L
 &amp;mdash; でべ (@devemin) January 27, 2022  </description>
-    </item>
-    
-    <item>
-      <title>1輪車のような外観のロボット</title>
-      <link>https://inajob.github.io/iroiro-review/post/1%E8%BC%AA%E8%BB%8A%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E5%A4%96%E8%A6%B3%E3%81%AE%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</link>
-      <pubDate>Tue, 01 Mar 2022 00:00:33 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/1%E8%BC%AA%E8%BB%8A%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E5%A4%96%E8%A6%B3%E3%81%AE%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/d-o-droid-like.jpg"&gt;BUILDING D-O, THE CONE FACE DROIDから発見。画像もここから転載。
-1輪車のような外観の面白いロボットです。
-タイヤの部分は2つの駆動輪が並んでおり、自由自在に進むことが出来ます。 首の部分も自在に動き、ロボットでありながら、感情を感じさせるような表現が出来ています。
-筐体の大半は3Dプリンタで作られていますが、かなり高い完成度です。
-</description>
     </item>
     
   </channel>
