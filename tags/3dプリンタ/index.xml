@@ -5,9 +5,22 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 15 May 2022 23:13:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 May 2022 23:09:52 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタで作られた折りたたみ式のケース</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E6%8A%98%E3%82%8A%E3%81%9F%E3%81%9F%E3%81%BF%E5%BC%8F%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9/</link>
+      <pubDate>Tue, 17 May 2022 23:09:52 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E6%8A%98%E3%82%8A%E3%81%9F%E3%81%9F%E3%81%BF%E5%BC%8F%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作られた折りたたみ式のケース.jpg"&gt;Bend Your Prints To Eliminate Supportsから発見。画像もここから転載。
+3Dプリンタでの造形では、オーバーハングできないという制約があります。 サポート材などを使うと、ある程度はその制限も緩和されますが、サポート材にも様々なデメリットがあるので（材料がもったいないとか、剥がすのが面倒、とか）できれば付けたくありません。
+また高さのある造形物を作ると、印刷時間が長くなってしまうという問題もあります。
+この記事ではこれらの問題を一気に片付ける方法として、展開図のような立体物を作り、これを折り曲げるという手法を紹介しています。
+ちょっとひと手間かかりますが、通常3Dプリンタでは作れない造形を実現できるのは良いと思いました。</description>
+    </item>
     
     <item>
       <title>PalmのキーボードをBluetooth化するためのアダプタ</title>
@@ -135,24 +148,6 @@ DELTAプリンタみたいな6軸のHEXAプリンタ作りました！見てく�
 このガジェット自体も3Dプリンタで作られており、仕組みは単純です。
 フィラメントをギアではさみ送られると回転する機構を用意し、この回転をマイコンで取得し、意図しないタイミングで回転が止まった場合にブザーがなるようになっています。
 </description>
-    </item>
-    
-    <item>
-      <title>FDM式3Dプリンタでリフロー用ステンシルを作る</title>
-      <link>https://inajob.github.io/iroiro-review/post/fdm%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%AA%E3%83%95%E3%83%AD%E3%83%BC%E7%94%A8%E3%82%B9%E3%83%86%E3%83%B3%E3%82%B7%E3%83%AB%E3%82%92%E4%BD%9C%E3%82%8B/</link>
-      <pubDate>Wed, 02 Mar 2022 13:00:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/fdm%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%AA%E3%83%95%E3%83%AD%E3%83%BC%E7%94%A8%E3%82%B9%E3%83%86%E3%83%B3%E3%82%B7%E3%83%AB%E3%82%92%E4%BD%9C%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/FDM式3Dプリンタでリフロー用ステンシルを作る.jpg"&gt;でべさんのTweetから発見。画像もここから転載。
-以前光造形式3Dプリンタでリフロー用のステンシルを作る話を紹介しましたが、このTweetは、FDM式3Dプリンタでリフロー用ステンシルを作った事例を紹介しています。
-写真を見る限りそれっぽいものが作れており、意外と実用的かもしれません。
-とりあえずこんなところでw
-結論: 「FDM 式 3Dプリンタで、リフロー用ステンシルぽいのは作れる」
-(補足:
-SOT-23-5 0.95mm ピッチは0.2mmノズルで。
-ESP32 くらいの1.27mmピッチなら、通常の0.4mmノズルでいけました。
-Flashforge Finder、PLA+ 使用) pic.twitter.com/sAAWqBYF9L
-&amp;mdash; でべ (@devemin) January 27, 2022  </description>
     </item>
     
   </channel>
