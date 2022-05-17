@@ -5,9 +5,24 @@
     <description>Recent content in ソーラー on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 24 Feb 2022 23:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 May 2022 23:58:14 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%82%BD%E3%83%BC%E3%83%A9%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>太陽光をレンズで収束させてレーザー彫刻のようなことを行うCNCマシン</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%A4%AA%E9%99%BD%E5%85%89%E3%82%92%E3%83%AC%E3%83%B3%E3%82%BA%E3%81%A7%E5%8F%8E%E6%9D%9F%E3%81%95%E3%81%9B%E3%81%A6%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E5%BD%AB%E5%88%BB%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%81%93%E3%81%A8%E3%82%92%E8%A1%8C%E3%81%86cnc%E3%83%9E%E3%82%B7%E3%83%B3/</link>
+      <pubDate>Mon, 16 May 2022 23:58:14 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%A4%AA%E9%99%BD%E5%85%89%E3%82%92%E3%83%AC%E3%83%B3%E3%82%BA%E3%81%A7%E5%8F%8E%E6%9D%9F%E3%81%95%E3%81%9B%E3%81%A6%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E5%BD%AB%E5%88%BB%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%81%93%E3%81%A8%E3%82%92%E8%A1%8C%E3%81%86cnc%E3%83%9E%E3%82%B7%E3%83%B3/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/太陽光をレンズで収束させてレーザー彫刻のようなことを行うCNCマシン.jpg"&gt;No-Laser CNC Engraver Is Something New Under The Sunから発見。画像もここから転載。
+レーザーカッターは、通常半導体レーザーや、CO2レーザーなどを用いて対象物をカットします。
+しかし、この記事で紹介しているのは、レーザーカッターとよく似ていますが、太陽光をレンズで収束させた光を使った彫刻マシンです。
+小学生のころ虫眼鏡の焦点を合わせて紙を焦がしたりする実験をしたことがありますが、まさにその現象を使って対象物に刻印しています。
+単純にX,Y軸に動くだけでなく、太陽の向きに合わせて筐体全体の向きを調節し、太陽の向きに対して補正をかけているようです。
+アイデアも面白いし、それを実現するための工夫も素晴らしい作例です。
+ </description>
+    </item>
     
     <item>
       <title>ソーラーパワーで動作する電子さいころ</title>
