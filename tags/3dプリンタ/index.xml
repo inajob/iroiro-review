@@ -5,9 +5,23 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 22 May 2022 22:39:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 May 2022 23:11:27 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタ用の造形物の断面をパラパラアニメのようにするHACK</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E7%94%A8%E3%81%AE%E9%80%A0%E5%BD%A2%E7%89%A9%E3%81%AE%E6%96%AD%E9%9D%A2%E3%82%92%E3%83%91%E3%83%A9%E3%83%91%E3%83%A9%E3%82%A2%E3%83%8B%E3%83%A1%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E3%81%99%E3%82%8Bhack/</link>
+      <pubDate>Tue, 24 May 2022 23:11:27 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E7%94%A8%E3%81%AE%E9%80%A0%E5%BD%A2%E7%89%A9%E3%81%AE%E6%96%AD%E9%9D%A2%E3%82%92%E3%83%91%E3%83%A9%E3%83%91%E3%83%A9%E3%82%A2%E3%83%8B%E3%83%A1%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E3%81%99%E3%82%8Bhack/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ用の造形物の断面をパラパラアニメのようにするHACK.jpg"&gt;Flip Book Animations On The Inside Of 3D Printsから発見。画像もここから転載。
+3Dプリンタが動いている様子を見るのはとても楽しいです。
+その様子をビデオに撮りタイムラプスで再生することも良く行われますが、それをさらに発展させて、成果物の内面にパラパラアニメーションを仕込むというのが、この記事で紹介しているHACKです。
+3Dプリンタの造形物の内部は、印刷時間と材料であるフィラメントの消費を削減するために、スカスカになっています。 スカスカの部分は格子のようなパターンで埋めるのが一般的ですが、それ以外の形や模様にすることも理論上は可能です。
+これが実用面で何かの役に立つかはともかく、とても面白い試みです。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリントの失敗を監視するAIカメラ</title>
@@ -133,19 +147,6 @@ DELTAプリンタみたいな6軸のHEXAプリンタ作りました！見てく�
 ハードウェアはそのままでこのような実験ができるというのは興味深いです。
 非平面での印刷試験中#3Dプリンター pic.twitter.com/MQaHsBS0zr
 &amp;mdash; みるぼ👀 (@milbo07) February 25, 2022  </description>
-    </item>
-    
-    <item>
-      <title>3色ペンを出しわけできる吊り下げ式のホワイトボード用ペンプロッタ</title>
-      <link>https://inajob.github.io/iroiro-review/post/3%E8%89%B2%E3%83%9A%E3%83%B3%E3%82%92%E5%87%BA%E3%81%97%E3%82%8F%E3%81%91%E3%81%A7%E3%81%8D%E3%82%8B%E5%90%8A%E3%82%8A%E4%B8%8B%E3%81%92%E5%BC%8F%E3%81%AE%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%9C%E3%83%BC%E3%83%89%E7%94%A8%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</link>
-      <pubDate>Wed, 16 Mar 2022 00:00:07 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3%E8%89%B2%E3%83%9A%E3%83%B3%E3%82%92%E5%87%BA%E3%81%97%E3%82%8F%E3%81%91%E3%81%A7%E3%81%8D%E3%82%8B%E5%90%8A%E3%82%8A%E4%B8%8B%E3%81%92%E5%BC%8F%E3%81%AE%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%9C%E3%83%BC%E3%83%89%E7%94%A8%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/autowhiteboardbot.png"&gt;WHITEBOARD PLOTTER ROCKS THREE COLORS AND AN ERASERから発見。画像もここから転載。
-吊り下げ式のペンプロッタの作例は多くありますが、この記事で紹介しているのは3色のペンと白板消しを搭載したホワイトボード用のペンプロッタです。
-本体部分に3本のノック式のペンと白板消しが取り付けられており、これらがぐるぐると回転するようになっています。ペンのノックを操作するためのアームにより、ペンを出し入れすることで色の入れ替えを実現しているようです。
-パーツのほとんどは3Dプリンタで作られておりThingiverseで公開されています。
-</description>
     </item>
     
   </channel>
