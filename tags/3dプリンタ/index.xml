@@ -5,9 +5,22 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 25 May 2022 23:12:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 May 2022 23:18:33 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>腕時計型3Dプリンタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%85%95%E6%99%82%E8%A8%88%E5%9E%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
+      <pubDate>Sun, 29 May 2022 23:18:33 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%85%95%E6%99%82%E8%A8%88%E5%9E%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/腕時計型3Dプリンタ.jpg"&gt;Wearable Electronics Takes The 3D Printing Routeから発見。画像もここから転載。
+ウェアラブル端末が流行りですが、この記事で紹介しているのは、腕に装着できる3Dプリンタです。
+装着しているのは$100くらいで購入できる小型で安価な3Dプリンタで、やる気さえあれば比較的簡単に作れそうに見えます。
+似たような3Dプリンターを以前紹介したことがあるので参考にしてみてください。
+これがあればどこでも3Dプリントが出来るので、安心して外出できますね！</description>
+    </item>
     
     <item>
       <title>M5Stackとコンパクトなキーボードを組み合わせたハンドヘルド端末</title>
@@ -136,18 +149,6 @@ DELTAプリンタみたいな6軸のHEXAプリンタ作りました！見てく�
 動くぞ！！！ pic.twitter.com/ZijGeemqew
 &amp;mdash; ina_ani@1歳11ヶ月児のパパ (@ina_ani) April 9, 2021  自作キーボードの新しい「沼」に足を踏み込んだ気分になりました。
  </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタで作られた磁気キーボードスイッチ</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E7%A3%81%E6%B0%97%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81/</link>
-      <pubDate>Sun, 10 Apr 2022 22:55:29 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E7%A3%81%E6%B0%97%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作られた磁気キーボードスイッチ.jpg"&gt;3D Printed Maglev Switches Are So Hot Right Nowから発見。画像もここから転載。
-磁気キーボードスイッチの作例の紹介です。 このような取り組みは同時多発的に行われているようで、別の自作磁気キーボードスイッチと比較するような内容になっています。
-この記事で紹介している磁気キーボードスイッチは、通常のCherry MXキーボードスイッチとそのまま交換できるもので、光造形式の3Dプリンタで作られています。
-自作キーボードというのが人気ですが、キーボードスイッチから自作する人は、そうそう居ないでしょう。</description>
     </item>
     
   </channel>
