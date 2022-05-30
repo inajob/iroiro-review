@@ -5,9 +5,23 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 29 May 2022 23:18:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 May 2022 22:13:43 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>128x32サイズの液晶を搭載した非常にコンパクトなゲーム機</title>
+      <link>https://inajob.github.io/iroiro-review/post/128x32%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E6%B6%B2%E6%99%B6%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E9%9D%9E%E5%B8%B8%E3%81%AB%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Mon, 30 May 2022 22:13:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/128x32%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E6%B6%B2%E6%99%B6%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E9%9D%9E%E5%B8%B8%E3%81%AB%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/128x32サイズの液晶を搭載した非常にコンパクトなゲーム機.jpg"&gt;Game &amp;amp; Light Brings Video Games To Your Keychainから発見。画像もここから転載。
+128x32サイズの液晶を搭載した非常にコンパクトなゲーム機です。 コアとなるマイコンはATtiny402 で、OLEDとはI2Cで接続されています。
+電源はスーパーキャパシタを用いており、5分程度で満充電し、40分ほど遊べるようです。
+筐体は3Dプリンタで作られておりクリップ式で服のポケットに付けられるような造形が良いです。
+Tindieで販売されているようです。
+ </description>
+    </item>
     
     <item>
       <title>腕時計型3Dプリンタ</title>
@@ -132,23 +146,6 @@ DELTAプリンタみたいな6軸のHEXAプリンタ作りました！見てく�
 3Dプリンタを使うと好きな形のパズルが作れて楽しそうです。
 ツイッターアイコンの型はめパズルを作ってみました😄 pic.twitter.com/U7AaLaJScl
 &amp;mdash; tasi (@tasi67574689) March 27, 2022  </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタ製のキーボードスイッチ</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81/</link>
-      <pubDate>Mon, 11 Apr 2022 23:25:45 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ製のキーボードスイッチ.jpg"&gt;I made a macro keypad with 3d-printed switchesから発見。画像もここから転載。
-昨日に続き、キーボードスイッチを3Dプリンタで自作した作例を紹介します。
-今回紹介するのはFDM式の3Dプリンタで作られたキーボードスイッチです。
-キーボードスイッチを押し戻すばねの機構まで3Dプリンタで作るという徹底ぶりで、この作者はこのキーボードスイッチを使って自作のキーボードも作っています。 耐久性や、打ち心地には難があるようですが、このレベルで自作するというのは「すごい」の一言です。
-自分もこの作者のデータを使って、家にある3Dプリンタでキーボードスイッチを作ってみましたが、普通に使えるものが作れました。
-電極をセットして通電させてみた。
-動くぞ！！！ pic.twitter.com/ZijGeemqew
-&amp;mdash; ina_ani@1歳11ヶ月児のパパ (@ina_ani) April 9, 2021  自作キーボードの新しい「沼」に足を踏み込んだ気分になりました。
- </description>
     </item>
     
   </channel>
