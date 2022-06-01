@@ -5,9 +5,25 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 30 May 2022 22:13:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jun 2022 23:43:06 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PICで作ったたまごっち</title>
+      <link>https://inajob.github.io/iroiro-review/post/pic%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%81%9F%E3%81%BE%E3%81%94%E3%81%A3%E3%81%A1/</link>
+      <pubDate>Wed, 01 Jun 2022 23:43:06 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/pic%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%81%9F%E3%81%BE%E3%81%94%E3%81%A3%E3%81%A1/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/PICで作ったたまごっち.jpg"&gt;DEN@電子工作さんのTweetから発見。画像もここから転載。
+一世を風靡した、バーチャルペットガジェットである「たまごっち」の復刻版を自作している人を発見しました。
+明るくみやすいOLEDを使用し、プロセッサとしてはPICを使っているようです。 新しい技術で再構築されるたまごっち、どのようなものになるのか楽しみです。
+PICたまごっち、ごきげんアップゲームまで実装したぞ。 pic.twitter.com/yPabJdhHvO
+&amp;mdash; DEN@電子工作 (@DEN31482122) March 26, 2022  自作PICたまごっち
+ずっとブレッドボードでデバッグするのもいい加減不恰好なので基板に実装した
+今までの作品の中で回路は最小規模だけど、プログラムは最大規模だ。 pic.twitter.com/6iLqQVwRtf
+&amp;mdash; DEN@電子工作 (@DEN31482122) April 16, 2022  </description>
+    </item>
     
     <item>
       <title>128x32サイズの液晶を搭載した非常にコンパクトなゲーム機</title>
@@ -133,19 +149,6 @@ Palmと言えば懐かしのハンドヘルド端末ですが、もうその姿�
 製作の過程をNoteに紹介されており、今後の展開が楽しみです。 https://note.com/_gear_geek_/n/n0bb2916ab99b
 DELTAプリンタみたいな6軸のHEXAプリンタ作りました！見てくださいー。　#HEXA #nonplanar pic.twitter.com/4eypii3yGG
 &amp;mdash; gear (@_gear_geek_) April 14, 2022   </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタで作った型はめパズル</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E5%9E%8B%E3%81%AF%E3%82%81%E3%83%91%E3%82%BA%E3%83%AB/</link>
-      <pubDate>Wed, 20 Apr 2022 22:53:55 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E5%9E%8B%E3%81%AF%E3%82%81%E3%83%91%E3%82%BA%E3%83%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作った型はめパズル.jpg"&gt;tasiさんのTweetから発見。画像もここから転載。
-3Dプリンタで作られた子供のための型はめパズルの作例です。
-3Dプリンタを使うと好きな形のパズルが作れて楽しそうです。
-ツイッターアイコンの型はめパズルを作ってみました😄 pic.twitter.com/U7AaLaJScl
-&amp;mdash; tasi (@tasi67574689) March 27, 2022  </description>
     </item>
     
   </channel>
