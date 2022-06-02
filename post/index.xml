@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 01 Jun 2022 23:43:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jun 2022 22:30:59 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Frameworkの旧式マザーボードの設計がオープンになった</title>
+      <link>https://inajob.github.io/iroiro-review/post/framework%E3%81%AE%E6%97%A7%E5%BC%8F%E3%83%9E%E3%82%B6%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%8C%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F/</link>
+      <pubDate>Thu, 02 Jun 2022 22:30:59 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/framework%E3%81%AE%E6%97%A7%E5%BC%8F%E3%83%9E%E3%82%B6%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%8C%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-reviewimg/framework-3d-printer-case-featured.webp"&gt;Frameworkの旧式マザーボードの設計がオープンになったようです。 ボード単体での販売もしています。
+Raspberry Piと比べてはるかに高性能なインテルCPU搭載のボードで、オリジナルの持ち運びできるPC的ガジェットを作る際の素材として活用できそうです。
+以下のようなユニークなPCを作るための材料として活躍しているようです。
+FRAMEWORK BOARD GETS THIS ROUND DISPLAY PC ROLLING
+framedeck</description>
+    </item>
     
     <item>
       <title>PICで作ったたまごっち</title>
@@ -137,23 +150,6 @@ Blenderは後者の3Dモデリングソフトの一種で、オープンソー�
 HuskyLens AI cameraというAIカメラをつかって、3Dプリンタの各所に貼り付けたARマーカーを認識し、Raspberry Pi PicoとイーサーネットHATを使ってそのデータをインターネットに送信しているようです。
 失敗検知と聞くと複雑な仕組みが必要そうだと感じますが、ARマーカーで各軸の動きを検知するという割と素朴な方法で実現できるんですね。
  </description>
-    </item>
-    
-    <item>
-      <title>サポート無しで3Dプリントする技</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E7%84%A1%E3%81%97%E3%81%A73d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%99%E3%82%8B%E6%8A%80/</link>
-      <pubDate>Wed, 18 May 2022 23:10:58 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E7%84%A1%E3%81%97%E3%81%A73d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%99%E3%82%8B%E6%8A%80/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/サポート無しで3Dプリントする技.jpg"&gt;タムさんのTweetから発見。画像もここから転載。
-FDM式の3Dプリンタでは作れない形状があります。
-積層式という特徴上、下に造形物が無い状態で上に物を作ることが出来ません。 45度までの緩いオーバーハングであれば何とか作ることが出来ますが、それを超えるものを作る際はサポートと呼ばれる構造が必要です。
-サポートは作るのに時間がかかるし、フィラメントも余計に消費します。また、サポートを外すという作業も必要となるので、利用を避けることもあります。
-このTweetでは、謎の仕組みにより90度のオーバーハングをサポートなしで造形をしています。 おそらく、横のフィラメントとの吸着力により下に構造が無くとも90度のオーバーハングが実現できているのだと思いますが、フィラメントの温度制御などがシビアそうです。
-……そうです。サポートが…無いんです！！
-FDMで、サポート材をつけないで、この形状が、そのまま印刷されてるんですよ！！！
-これは造形の幅が広がる！！#3Dプリンター pic.twitter.com/LsZMc6btEb
-&amp;mdash; タム (@tamutamu3D) April 15, 2022  </description>
     </item>
     
   </channel>
