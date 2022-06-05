@@ -1,0 +1,29 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Klipper on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/klipper/</link>
+    <description>Recent content in Klipper on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sun, 05 Jun 2022 22:26:50 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/klipper/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>コンパクトで上下反転した構造が特徴的な3DプリンターPositron</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%A7%E4%B8%8A%E4%B8%8B%E5%8F%8D%E8%BB%A2%E3%81%97%E3%81%9F%E6%A7%8B%E9%80%A0%E3%81%8C%E7%89%B9%E5%BE%B4%E7%9A%84%E3%81%AA3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BCpositron/</link>
+      <pubDate>Sun, 05 Jun 2022 22:26:50 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%A7%E4%B8%8A%E4%B8%8B%E5%8F%8D%E8%BB%A2%E3%81%97%E3%81%9F%E6%A7%8B%E9%80%A0%E3%81%8C%E7%89%B9%E5%BE%B4%E7%9A%84%E3%81%AA3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BCpositron/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/コンパクトで上下反転した構造が特徴的な3DプリンターPositron.jpg"&gt;Portable 3D Printer Gets Even Smaller, Faster, Betterから発見。画像もここから転載。
+この記事で紹介しているのは、フィラメントを梱包している箱のサイズに収納できる、非常にコンパクトな3DプリンタPositronです。
+他の3Dプリンタと違うのはExtruderが下に付き、ヒートベッドが上に付いているという、一般的な3Dプリンタとは上下逆の設計です。
+このように上下逆にすることで、複雑で剛性が必要な部分が3Dプリンタの下部分に集約され、収納するのが簡単になるようです。
+ヒートベッドを透明にすることで、裏面からでも1層目の定着を簡単に確認できるようにしているのも面白いです。
+データはGitHubで公開 されています
+ </description>
+    </item>
+    
+  </channel>
+</rss>
+

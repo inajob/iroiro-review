@@ -5,9 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 02 Jun 2022 22:30:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jun 2022 22:26:50 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>コンパクトで上下反転した構造が特徴的な3DプリンターPositron</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%A7%E4%B8%8A%E4%B8%8B%E5%8F%8D%E8%BB%A2%E3%81%97%E3%81%9F%E6%A7%8B%E9%80%A0%E3%81%8C%E7%89%B9%E5%BE%B4%E7%9A%84%E3%81%AA3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BCpositron/</link>
+      <pubDate>Sun, 05 Jun 2022 22:26:50 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%A7%E4%B8%8A%E4%B8%8B%E5%8F%8D%E8%BB%A2%E3%81%97%E3%81%9F%E6%A7%8B%E9%80%A0%E3%81%8C%E7%89%B9%E5%BE%B4%E7%9A%84%E3%81%AA3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BCpositron/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/コンパクトで上下反転した構造が特徴的な3DプリンターPositron.jpg"&gt;Portable 3D Printer Gets Even Smaller, Faster, Betterから発見。画像もここから転載。
+この記事で紹介しているのは、フィラメントを梱包している箱のサイズに収納できる、非常にコンパクトな3DプリンタPositronです。
+他の3Dプリンタと違うのはExtruderが下に付き、ヒートベッドが上に付いているという、一般的な3Dプリンタとは上下逆の設計です。
+このように上下逆にすることで、複雑で剛性が必要な部分が3Dプリンタの下部分に集約され、収納するのが簡単になるようです。
+ヒートベッドを透明にすることで、裏面からでも1層目の定着を簡単に確認できるようにしているのも面白いです。
+データはGitHubで公開 されています
+ </description>
+    </item>
     
     <item>
       <title>Frameworkの旧式マザーボードの設計がオープンになった</title>
@@ -137,18 +152,6 @@ Blenderは後者の3Dモデリングソフトの一種で、オープンソー�
 そんな中で登場したのがこのCAD Sketcherというプラグインです。
 このプラグインを使うことでBlenderでも3DCADのような拘束ベースのモデリングが実現できるようです。
 3D造形を行うソフトの勢力図が大きく変わる可能性を秘めたプラグインです。
- </description>
-    </item>
-    
-    <item>
-      <title>3Dプリントの失敗を監視するAIカメラ</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E5%A4%B1%E6%95%97%E3%82%92%E7%9B%A3%E8%A6%96%E3%81%99%E3%82%8Bai%E3%82%AB%E3%83%A1%E3%83%A9/</link>
-      <pubDate>Sun, 22 May 2022 22:39:13 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E5%A4%B1%E6%95%97%E3%82%92%E7%9B%A3%E8%A6%96%E3%81%99%E3%82%8Bai%E3%82%AB%E3%83%A1%E3%83%A9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリントの失敗を監視するAIカメラ.jpg"&gt;Machine Vision Helps You Terminate Failing 3D Print Jobsから発見。画像もここから転載。
-HuskyLens AI cameraというAIカメラをつかって、3Dプリンタの各所に貼り付けたARマーカーを認識し、Raspberry Pi PicoとイーサーネットHATを使ってそのデータをインターネットに送信しているようです。
-失敗検知と聞くと複雑な仕組みが必要そうだと感じますが、ARマーカーで各軸の動きを検知するという割と素朴な方法で実現できるんですね。
  </description>
     </item>
     
