@@ -5,9 +5,21 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 29 May 2022 23:18:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jun 2022 22:25:28 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>静電気の力でフィルムを浮き上がらせる表示機</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%9D%99%E9%9B%BB%E6%B0%97%E3%81%AE%E5%8A%9B%E3%81%A7%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0%E3%82%92%E6%B5%AE%E3%81%8D%E4%B8%8A%E3%81%8C%E3%82%89%E3%81%9B%E3%82%8B%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
+      <pubDate>Tue, 07 Jun 2022 22:25:28 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%9D%99%E9%9B%BB%E6%B0%97%E3%81%AE%E5%8A%9B%E3%81%A7%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0%E3%82%92%E6%B5%AE%E3%81%8D%E4%B8%8A%E3%81%8C%E3%82%89%E3%81%9B%E3%82%8B%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/静電気の力でフィルムを浮き上がらせる表示機.jpg"&gt;ElectriPop Turns Cut Mylar Into Custom 3D Structuresから発見。画像もここから転載。
+静電気の力でふわりとフィルムが浮き上がる現象を利用して作られた表示機です。
+出来ることはこのフィルムが浮いているか、沈んでいるかという2値の情報提示ですが、飾り切りの要領で様々な形を作ることで、ユニークな情報提示が出来ます。
+ </description>
+    </item>
     
     <item>
       <title>腕時計型3Dプリンタ</title>
@@ -123,19 +135,6 @@ Raspberry Pi Picoを使ってゲームボーイの画面をVGA出力している
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/SDカードを論理的に読み取り専用にする装置.jpg"&gt;uSDlocker (make true read-only MicroSD) by CRImier on Tindieから発見。画像もここから転載。
 SDカードの書き込みロックコマンドを発行しSDカードをロックできるデバイスです。 皆さんご存知の、ツメによるプロテクトは実装依存で書き込めてしまうこともあるようで、こちらのやり方の方が有用とのことです。
 ロックの方法としては一時的なものと、二度と書き換えできなくするものがあるようで、後者は間違って使うと危険そうですが、有用な場合もありそうです。</description>
-    </item>
-    
-    <item>
-      <title>Z軸を活用した面白い3Dプリントの実験</title>
-      <link>https://inajob.github.io/iroiro-review/post/z%E8%BB%B8%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E9%9D%A2%E7%99%BD%E3%81%843d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E5%AE%9F%E9%A8%93/</link>
-      <pubDate>Wed, 23 Mar 2022 22:34:50 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/z%E8%BB%B8%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E9%9D%A2%E7%99%BD%E3%81%843d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E5%AE%9F%E9%A8%93/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Z軸を活用した面白い3Dプリントの実験.jpg"&gt;みるぼ👀さんのTweetから発見。画像もここから転載。
-3DプリンタのZ軸は通常1層ごとに上昇していきますが、g-codeを編集すれば、好きなタイミングで上下させることが出来ます。 このTweetでは、Z軸を上下に動かしながら造形することで、ユニークな形状を3Dプリントする実験を紹介しています。
-ハードウェアはそのままでこのような実験ができるというのは興味深いです。
-非平面での印刷試験中#3Dプリンター pic.twitter.com/MQaHsBS0zr
-&amp;mdash; みるぼ👀 (@milbo07) February 25, 2022  </description>
     </item>
     
   </channel>
