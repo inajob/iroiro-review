@@ -5,9 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 07 Jun 2022 22:25:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jun 2022 22:08:41 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>gcodeを駆使し3Dプリンタで積層以外の構造を生成する</title>
+      <link>https://inajob.github.io/iroiro-review/post/gcode%E3%82%92%E9%A7%86%E4%BD%BF%E3%81%973d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E7%A9%8D%E5%B1%A4%E4%BB%A5%E5%A4%96%E3%81%AE%E6%A7%8B%E9%80%A0%E3%82%92%E7%94%9F%E6%88%90%E3%81%99%E3%82%8B/</link>
+      <pubDate>Wed, 08 Jun 2022 22:08:41 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/gcode%E3%82%92%E9%A7%86%E4%BD%BF%E3%81%973d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E7%A9%8D%E5%B1%A4%E4%BB%A5%E5%A4%96%E3%81%AE%E6%A7%8B%E9%80%A0%E3%82%92%E7%94%9F%E6%88%90%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/gcodeを駆使し3Dプリンタで積層以外の構造を生成する.jpg"&gt;Hiroshi SugiharaさんのTweetから発見。画像もここから転載。
+3Dプリンタは通常1層ずつ下から積み上げて物体を生成しますが、命令さえ出せば好きな位置にフィラメントを吐出することができます。
+このTweetでは3Dプリンタの動作を制御するgcodeを直接生成し、積層式ではない新しい造形に挑戦しています。 垂れさがるフィラメントの扱いが難しそうですが、うまく制御できると3Dプリンタの新しい使い方が生まれそうです。
+gcodeをいじって3Dプリンタを動かすことを覚えたので、習作として作ってみてる何か
+ものを入れると方向によって見え方が違ってなんかいい感じ pic.twitter.com/fbZHesmzcf
+&amp;mdash; Hiroshi Sugihara (@nodosakana) April 5, 2022  </description>
+    </item>
     
     <item>
       <title>静電気の力でフィルムを浮き上がらせる表示機</title>
@@ -131,20 +145,6 @@ Tindieで販売されているようです。
 このガジェットは食品と一緒に冷蔵庫に入れておくと1週間以上過ぎた時に点滅することで賞味期限が近いことを知らせるというものです。
 CPUとしてはHoltek社の安価なマイコンであるHT68F001を使っているのも注目のポイントです。
 メモリが限られた環境という事もありソースコードはアセンブラです。</description>
-    </item>
-    
-    <item>
-      <title>M5Stackとコンパクトなキーボードを組み合わせたハンドヘルド端末</title>
-      <link>https://inajob.github.io/iroiro-review/post/m5stack%E3%81%A8%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E3%83%8F%E3%83%B3%E3%83%89%E3%83%98%E3%83%AB%E3%83%89%E7%AB%AF%E6%9C%AB/</link>
-      <pubDate>Wed, 25 May 2022 23:12:18 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/m5stack%E3%81%A8%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E3%83%8F%E3%83%B3%E3%83%89%E3%83%98%E3%83%AB%E3%83%89%E7%AB%AF%E6%9C%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/M5Stackとコンパクトなキーボードを組み合わせたハンドヘルド端末.jpg"&gt;n602さんのTweetから発見。画像もここから転載。
-Orange-Rogue-KB とM5Stackを組み合わせたコンパクトなハンドヘルド端末の作例です。
-Orange-Rogue-KBはI2Cで接続できる汎用的な小型キーボードで、M5StackのGrove端子に接続して利用しています。 これらを3Dプリンタで作られたぴったりのケースで結合することで、素敵な端末に仕上げています。
-しかし CP/M版Rogueばっかりやってる
-M5だと画面がちょっと小さく感じる pic.twitter.com/lIO1xUtZcD
-&amp;mdash; n602💉💉💉 (@n602_NA) April 9, 2022  </description>
     </item>
     
   </channel>
