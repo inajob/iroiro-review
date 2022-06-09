@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 08 Jun 2022 22:08:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jun 2022 23:35:18 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>8x5の文字盤のシンプルなワードクロック</title>
+      <link>https://inajob.github.io/iroiro-review/post/8x5%E3%81%AE%E6%96%87%E5%AD%97%E7%9B%A4%E3%81%AE%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E3%83%AF%E3%83%BC%E3%83%89%E3%82%AF%E3%83%AD%E3%83%83%E3%82%AF/</link>
+      <pubDate>Thu, 09 Jun 2022 23:35:18 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/8x5%E3%81%AE%E6%96%87%E5%AD%97%E7%9B%A4%E3%81%AE%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E3%83%AF%E3%83%BC%E3%83%89%E3%82%AF%E3%83%AD%E3%83%83%E3%82%AF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/8x5の文字盤のシンプルなワードクロック.jpg"&gt;WordClock8x5から発見。画像もここから転載。
+8x5という限られた文字盤を使って実現されたWordClockです。
+文字色をつけたり、右下に「5」という最終手段を用意することなど、様々な工夫により8x5でWordClockを実現しています。
+基板はArduino UNOのシールドとして作られているので、簡単に組み立て出来そうです。</description>
+    </item>
     
     <item>
       <title>gcodeを駆使し3Dプリンタで積層以外の構造を生成する</title>
@@ -132,19 +144,6 @@ Tindieで販売されているようです。
 装着しているのは$100くらいで購入できる小型で安価な3Dプリンタで、やる気さえあれば比較的簡単に作れそうに見えます。
 似たような3Dプリンターを以前紹介したことがあるので参考にしてみてください。
 これがあればどこでも3Dプリントが出来るので、安心して外出できますね！</description>
-    </item>
-    
-    <item>
-      <title>冷蔵庫に食品と一緒に入れることで1週間後にリマインドしてくれるガジェット</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%86%B7%E8%94%B5%E5%BA%AB%E3%81%AB%E9%A3%9F%E5%93%81%E3%81%A8%E4%B8%80%E7%B7%92%E3%81%AB%E5%85%A5%E3%82%8C%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A71%E9%80%B1%E9%96%93%E5%BE%8C%E3%81%AB%E3%83%AA%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
-      <pubDate>Thu, 26 May 2022 23:21:17 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%86%B7%E8%94%B5%E5%BA%AB%E3%81%AB%E9%A3%9F%E5%93%81%E3%81%A8%E4%B8%80%E7%B7%92%E3%81%AB%E5%85%A5%E3%82%8C%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A71%E9%80%B1%E9%96%93%E5%BE%8C%E3%81%AB%E3%83%AA%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/冷蔵庫に食品と一緒に入れることで1週間後にリマインドしてくれるガジェット.jpg"&gt;Track Those Leftovers With This Little Timerから発見。画像もここから転載。
-冷蔵庫に入れたものが、いつの間にか古くなってしまうことはよくあります。
-このガジェットは食品と一緒に冷蔵庫に入れておくと1週間以上過ぎた時に点滅することで賞味期限が近いことを知らせるというものです。
-CPUとしてはHoltek社の安価なマイコンであるHT68F001を使っているのも注目のポイントです。
-メモリが限られた環境という事もありソースコードはアセンブラです。</description>
     </item>
     
   </channel>
