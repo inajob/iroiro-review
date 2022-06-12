@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 09 Jun 2022 23:35:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jun 2022 23:16:51 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>高速に3Dプリントできる花瓶モードでも強度を保つテクニック</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%AB%98%E9%80%9F%E3%81%AB3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A7%E3%81%8D%E3%82%8B%E8%8A%B1%E7%93%B6%E3%83%A2%E3%83%BC%E3%83%89%E3%81%A7%E3%82%82%E5%BC%B7%E5%BA%A6%E3%82%92%E4%BF%9D%E3%81%A4%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</link>
+      <pubDate>Sun, 12 Jun 2022 23:16:51 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%AB%98%E9%80%9F%E3%81%AB3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A7%E3%81%8D%E3%82%8B%E8%8A%B1%E7%93%B6%E3%83%A2%E3%83%BC%E3%83%89%E3%81%A7%E3%82%82%E5%BC%B7%E5%BA%A6%E3%82%92%E4%BF%9D%E3%81%A4%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/高速に3Dプリントできる花瓶モードでも強度を保つテクニック.jpg"&gt;3D Printing Hack Leverages Vase Mode Structurallyから発見。画像もここから転載。
+積層式3Dプリンターでは「花瓶モード」を使うことで、高速に印刷することができます。 しかし、花瓶モードでは外壁がフィラメント1本分の幅の物しか作ることが出来ず、強度に問題がありました。
+しかしこの記事で紹介している手法では、一筆書きで生成できる条件を満たすような切れ込みを外壁に生成し、花瓶モードの高速さと、比較的強い強度を両立することが出来ています。</description>
+    </item>
     
     <item>
       <title>8x5の文字盤のシンプルなワードクロック</title>
@@ -131,19 +142,6 @@ RP2040ボード自体が起動ディスクとして振舞い、スイッチの�
 筐体は3Dプリンタで作られておりクリップ式で服のポケットに付けられるような造形が良いです。
 Tindieで販売されているようです。
  </description>
-    </item>
-    
-    <item>
-      <title>腕時計型3Dプリンタ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E8%85%95%E6%99%82%E8%A8%88%E5%9E%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
-      <pubDate>Sun, 29 May 2022 23:18:33 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E8%85%95%E6%99%82%E8%A8%88%E5%9E%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/腕時計型3Dプリンタ.jpg"&gt;Wearable Electronics Takes The 3D Printing Routeから発見。画像もここから転載。
-ウェアラブル端末が流行りですが、この記事で紹介しているのは、腕に装着できる3Dプリンタです。
-装着しているのは$100くらいで購入できる小型で安価な3Dプリンタで、やる気さえあれば比較的簡単に作れそうに見えます。
-似たような3Dプリンターを以前紹介したことがあるので参考にしてみてください。
-これがあればどこでも3Dプリントが出来るので、安心して外出できますね！</description>
     </item>
     
   </channel>

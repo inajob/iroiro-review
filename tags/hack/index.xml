@@ -5,9 +5,20 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 08 Jun 2022 22:08:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jun 2022 23:16:51 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>高速に3Dプリントできる花瓶モードでも強度を保つテクニック</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%AB%98%E9%80%9F%E3%81%AB3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A7%E3%81%8D%E3%82%8B%E8%8A%B1%E7%93%B6%E3%83%A2%E3%83%BC%E3%83%89%E3%81%A7%E3%82%82%E5%BC%B7%E5%BA%A6%E3%82%92%E4%BF%9D%E3%81%A4%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</link>
+      <pubDate>Sun, 12 Jun 2022 23:16:51 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%AB%98%E9%80%9F%E3%81%AB3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A7%E3%81%8D%E3%82%8B%E8%8A%B1%E7%93%B6%E3%83%A2%E3%83%BC%E3%83%89%E3%81%A7%E3%82%82%E5%BC%B7%E5%BA%A6%E3%82%92%E4%BF%9D%E3%81%A4%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/高速に3Dプリントできる花瓶モードでも強度を保つテクニック.jpg"&gt;3D Printing Hack Leverages Vase Mode Structurallyから発見。画像もここから転載。
+積層式3Dプリンターでは「花瓶モード」を使うことで、高速に印刷することができます。 しかし、花瓶モードでは外壁がフィラメント1本分の幅の物しか作ることが出来ず、強度に問題がありました。
+しかしこの記事で紹介している手法では、一筆書きで生成できる条件を満たすような切れ込みを外壁に生成し、花瓶モードの高速さと、比較的強い強度を両立することが出来ています。</description>
+    </item>
     
     <item>
       <title>gcodeを駆使し3Dプリンタで積層以外の構造を生成する</title>
@@ -125,18 +136,6 @@ FDMで、サポート材をつけないで、この形状が、そのまま印�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ゲームボーイの画面をVGA出力する仕組み.jpg"&gt;Game Boy Becomes Super Game Boy With A Pair Of Pisから発見。画像もここから転載。
 Raspberry Pi Picoを使ってゲームボーイの画面をVGA出力している作例です。 ゲームボーイ基板の液晶との接続の端子を横取りしてRaspberry Pi Picoに接続し、VGA信号に変換しています。
 いうなればDIYスーパーゲームボーイです。
- </description>
-    </item>
-    
-    <item>
-      <title>飛び出す絵本に電子回路を実装した「イルミネーティング折り紙」</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E9%A3%9B%E3%81%B3%E5%87%BA%E3%81%99%E7%B5%B5%E6%9C%AC%E3%81%AB%E9%9B%BB%E5%AD%90%E5%9B%9E%E8%B7%AF%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%97%E3%81%9F%E3%82%A4%E3%83%AB%E3%83%9F%E3%83%8D%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%8A%98%E3%82%8A%E7%B4%99/</link>
-      <pubDate>Mon, 04 Apr 2022 23:22:03 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E9%A3%9B%E3%81%B3%E5%87%BA%E3%81%99%E7%B5%B5%E6%9C%AC%E3%81%AB%E9%9B%BB%E5%AD%90%E5%9B%9E%E8%B7%AF%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%97%E3%81%9F%E3%82%A4%E3%83%AB%E3%83%9F%E3%83%8D%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%8A%98%E3%82%8A%E7%B4%99/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/飛び出す絵本に電子回路を実装した「イルミネーティング折り紙」.jpg"&gt;Illuminating Origami Is Just Around The Cornerから発見。画像もここから転載。
-飛び出す絵本に電子回路を実装する 「イルミネーティング折り紙」 の実験です。
-キモとなるのは薄いシート状のQuantum Dot LEDです。 フレキシブルな基板というのはよく見かけますが、この技術を利用すると点灯するLEDシートそのものを折りたたむことが出来るようです。
  </description>
     </item>
     

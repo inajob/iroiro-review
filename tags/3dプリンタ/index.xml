@@ -5,9 +5,20 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 08 Jun 2022 22:08:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jun 2022 23:16:51 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>高速に3Dプリントできる花瓶モードでも強度を保つテクニック</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%AB%98%E9%80%9F%E3%81%AB3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A7%E3%81%8D%E3%82%8B%E8%8A%B1%E7%93%B6%E3%83%A2%E3%83%BC%E3%83%89%E3%81%A7%E3%82%82%E5%BC%B7%E5%BA%A6%E3%82%92%E4%BF%9D%E3%81%A4%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</link>
+      <pubDate>Sun, 12 Jun 2022 23:16:51 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%AB%98%E9%80%9F%E3%81%AB3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A7%E3%81%8D%E3%82%8B%E8%8A%B1%E7%93%B6%E3%83%A2%E3%83%BC%E3%83%89%E3%81%A7%E3%82%82%E5%BC%B7%E5%BA%A6%E3%82%92%E4%BF%9D%E3%81%A4%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/高速に3Dプリントできる花瓶モードでも強度を保つテクニック.jpg"&gt;3D Printing Hack Leverages Vase Mode Structurallyから発見。画像もここから転載。
+積層式3Dプリンターでは「花瓶モード」を使うことで、高速に印刷することができます。 しかし、花瓶モードでは外壁がフィラメント1本分の幅の物しか作ることが出来ず、強度に問題がありました。
+しかしこの記事で紹介している手法では、一筆書きで生成できる条件を満たすような切れ込みを外壁に生成し、花瓶モードの高速さと、比較的強い強度を両立することが出来ています。</description>
+    </item>
     
     <item>
       <title>gcodeを駆使し3Dプリンタで積層以外の構造を生成する</title>
@@ -135,23 +146,6 @@ M5だと画面がちょっと小さく感じる pic.twitter.com/lIO1xUtZcD
 HuskyLens AI cameraというAIカメラをつかって、3Dプリンタの各所に貼り付けたARマーカーを認識し、Raspberry Pi PicoとイーサーネットHATを使ってそのデータをインターネットに送信しているようです。
 失敗検知と聞くと複雑な仕組みが必要そうだと感じますが、ARマーカーで各軸の動きを検知するという割と素朴な方法で実現できるんですね。
  </description>
-    </item>
-    
-    <item>
-      <title>サポート無しで3Dプリントする技</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E7%84%A1%E3%81%97%E3%81%A73d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%99%E3%82%8B%E6%8A%80/</link>
-      <pubDate>Wed, 18 May 2022 23:10:58 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E7%84%A1%E3%81%97%E3%81%A73d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%99%E3%82%8B%E6%8A%80/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/サポート無しで3Dプリントする技.jpg"&gt;タムさんのTweetから発見。画像もここから転載。
-FDM式の3Dプリンタでは作れない形状があります。
-積層式という特徴上、下に造形物が無い状態で上に物を作ることが出来ません。 45度までの緩いオーバーハングであれば何とか作ることが出来ますが、それを超えるものを作る際はサポートと呼ばれる構造が必要です。
-サポートは作るのに時間がかかるし、フィラメントも余計に消費します。また、サポートを外すという作業も必要となるので、利用を避けることもあります。
-このTweetでは、謎の仕組みにより90度のオーバーハングをサポートなしで造形をしています。 おそらく、横のフィラメントとの吸着力により下に構造が無くとも90度のオーバーハングが実現できているのだと思いますが、フィラメントの温度制御などがシビアそうです。
-……そうです。サポートが…無いんです！！
-FDMで、サポート材をつけないで、この形状が、そのまま印刷されてるんですよ！！！
-これは造形の幅が広がる！！#3Dプリンター pic.twitter.com/LsZMc6btEb
-&amp;mdash; タム (@tamutamu3D) April 15, 2022  </description>
     </item>
     
   </channel>
