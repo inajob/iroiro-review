@@ -5,9 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 14 Jun 2022 22:30:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jun 2022 23:44:45 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>FDM式3Dプリンタで作ったばね的な構造</title>
+      <link>https://inajob.github.io/iroiro-review/post/fdm%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%81%B0%E3%81%AD%E7%9A%84%E3%81%AA%E6%A7%8B%E9%80%A0/</link>
+      <pubDate>Wed, 15 Jun 2022 23:44:45 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/fdm%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%81%B0%E3%81%AD%E7%9A%84%E3%81%AA%E6%A7%8B%E9%80%A0/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/FDM式3Dプリンタで作ったばね的な構造.jpg"&gt;西村健志（Fusion360講師）さんのTweetからから発見。画像もここから転載。
+FDM式3Dプリンターで作られたばねを的なものの作例です。
+3Dプリンターの成果物は、向きによっては力を加えると簡単に割れてしまったりするので「ばね」を作るためには形に工夫が必要です。
+この作例では2つの左右対称なばね構造を並べることで、ばねが安定して伸び縮みできるように工夫されています。 3Dプリンターならではの複雑な構造を活用した作例です。
+3Dプリンターでバネを製作しました。
+（8mmを6mmまで縮めることができます。）#Fusion360　#Adventurer3 pic.twitter.com/mZD6DFvhgP
+&amp;mdash; 西村健志（Fusion360講師） (@nishimu_F360) April 14, 2022  </description>
+    </item>
     
     <item>
       <title>ESP32で動くよう改造されたOpenCV</title>
@@ -125,26 +140,6 @@ Raspberry Piと比べてはるかに高性能なインテルCPU搭載のボー�
 以下のようなユニークなPCを作るための材料として活躍しているようです。
 FRAMEWORK BOARD GETS THIS ROUND DISPLAY PC ROLLING
 framedeck</description>
-    </item>
-    
-    <item>
-      <title>PICで作ったたまごっち</title>
-      <link>https://inajob.github.io/iroiro-review/post/pic%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%81%9F%E3%81%BE%E3%81%94%E3%81%A3%E3%81%A1/</link>
-      <pubDate>Wed, 01 Jun 2022 23:43:06 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/pic%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%81%9F%E3%81%BE%E3%81%94%E3%81%A3%E3%81%A1/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/PICで作ったたまごっち.jpg"&gt;DEN@電子工作さんのTweetから発見。画像もここから転載。
-一世を風靡した、バーチャルペットガジェットである「たまごっち」の復刻版を自作している人を発見しました。
-明るくみやすいOLEDを使用し、プロセッサとしてはPIC16F1705を使っているようです。
-一通り実装が完了し、その軌跡がブログ記事として公開されています。
- 【たまごっち自作】PICで発見！たまごっち（ハードウェア編） 【たまごっち自作】PICで発見！たまごっち（ソフトウェア編）  製作していたPICたまごっちですが、一応の完成をみました。
-餌をあげたりゲームしたり、一通りのことができます。
-空腹で放置すると寿命が縮むなど、それっぽい要素もできるだけ実装しました。 pic.twitter.com/tO6BHdoxqg
-&amp;mdash; DEN@電子工作 (@DEN31482122) May 3, 2022  PICたまごっち、ごきげんアップゲームまで実装したぞ。 pic.twitter.com/yPabJdhHvO
-&amp;mdash; DEN@電子工作 (@DEN31482122) March 26, 2022  自作PICたまごっち
-ずっとブレッドボードでデバッグするのもいい加減不恰好なので基板に実装した
-今までの作品の中で回路は最小規模だけど、プログラムは最大規模だ。 pic.twitter.com/6iLqQVwRtf
-&amp;mdash; DEN@電子工作 (@DEN31482122) April 16, 2022  </description>
     </item>
     
   </channel>
