@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 15 Jun 2022 23:44:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jun 2022 23:51:43 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP8266で作られた電光掲示板</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp8266%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E9%9B%BB%E5%85%89%E6%8E%B2%E7%A4%BA%E6%9D%BF/</link>
+      <pubDate>Thu, 16 Jun 2022 23:51:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp8266%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E9%9B%BB%E5%85%89%E6%8E%B2%E7%A4%BA%E6%9D%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP8266で作られた電光掲示板.jpg"&gt;ESP8266 Led Matrix Clock, Weather, News, Bitcionから発見。画像もここから転載。
+ESP8266で作られた電光掲示板の作例です。
+3Dプリンタで作られたドット状の仕切りのおかげでスタイリッシュな見た目となっています。
+ドットマトリクスLEDはMAX7219で制御できるモジュールを4個並べています。 もともと4個並んだ製品がありますが、それらは8x8のドットマトリクスLEDの間に少し隙間があるので、一度切断して、再度隙間なく並べ直すというこだわりっぷりです。
+ </description>
+    </item>
     
     <item>
       <title>FDM式3Dプリンタで作ったばね的な構造</title>
@@ -127,19 +140,6 @@ FDM式3Dプリンターのベッドをベルトコンベヤにすることで、
 ヒートベッドを透明にすることで、裏面からでも1層目の定着を簡単に確認できるようにしているのも面白いです。
 データはGitHubで公開 されています
  </description>
-    </item>
-    
-    <item>
-      <title>Frameworkの旧式マザーボードの設計がオープンになった</title>
-      <link>https://inajob.github.io/iroiro-review/post/framework%E3%81%AE%E6%97%A7%E5%BC%8F%E3%83%9E%E3%82%B6%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%8C%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F/</link>
-      <pubDate>Thu, 02 Jun 2022 22:30:59 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/framework%E3%81%AE%E6%97%A7%E5%BC%8F%E3%83%9E%E3%82%B6%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%8C%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/framework-3d-printer-case-featured.webp"&gt;Frameworkの旧式マザーボードの設計がオープンになったようです。 ボード単体での販売もしています。
-Raspberry Piと比べてはるかに高性能なインテルCPU搭載のボードで、オリジナルの持ち運びできるPC的ガジェットを作る際の素材として活用できそうです。
-以下のようなユニークなPCを作るための材料として活躍しているようです。
-FRAMEWORK BOARD GETS THIS ROUND DISPLAY PC ROLLING
-framedeck</description>
     </item>
     
   </channel>
