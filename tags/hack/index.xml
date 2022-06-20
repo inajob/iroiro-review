@@ -5,9 +5,24 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 12 Jun 2022 23:16:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jun 2022 23:52:25 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>バナナに含まれる微量の放射性カリウムを乱数の種にするという装置</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%90%E3%83%8A%E3%83%8A%E3%81%AB%E5%90%AB%E3%81%BE%E3%82%8C%E3%82%8B%E5%BE%AE%E9%87%8F%E3%81%AE%E6%94%BE%E5%B0%84%E6%80%A7%E3%82%AB%E3%83%AA%E3%82%A6%E3%83%A0%E3%82%92%E4%B9%B1%E6%95%B0%E3%81%AE%E7%A8%AE%E3%81%AB%E3%81%99%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Mon, 20 Jun 2022 23:52:25 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%90%E3%83%8A%E3%83%8A%E3%81%AB%E5%90%AB%E3%81%BE%E3%82%8C%E3%82%8B%E5%BE%AE%E9%87%8F%E3%81%AE%E6%94%BE%E5%B0%84%E6%80%A7%E3%82%AB%E3%83%AA%E3%82%A6%E3%83%A0%E3%82%92%E4%B9%B1%E6%95%B0%E3%81%AE%E7%A8%AE%E3%81%AB%E3%81%99%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E8%A3%85%E7%BD%AE/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/バナナに含まれる微量の放射性カリウムを乱数の種にするという装置.jpg"&gt;Yes We Have Random Bananasから発見。画像もここから転載。
+先週発見した記事でダントツに面白かったのがこれ。
+天然カリウムには一定量の放射性同位体であるカリウム40が含まれているようです。 一方バナナはカリウムを多く含む果物です。
+この2つの事実を利用して作られたのがこの、「バナナを使って真の乱数を生成する装置」です。
+プログラミングなどで乱数を扱っている人なら誰しも乱数の種（シード）の設定をどうするか悩んだことがあると思いますが、この装置があれば簡単にこの乱数の種を得ることができるというわけです。
+まぁ簡易的には、起動してからのハードウェアタイマーや、マウスの動き、ユーザがEnterを押すまでの時間など、乱数の種となる情報はたくさんありますが、これらはどれも、その仕組みがわかれば乱数列を特定されてしまう可能性があるのです。
+この装置の中に放射線を測定するガイガー管が含まれており、ATMega328Pで放射線の数を測定しているようです。</description>
+    </item>
     
     <item>
       <title>高速に3Dプリントできる花瓶モードでも強度を保つテクニック</title>
@@ -126,18 +141,6 @@ FDMで、サポート材をつけないで、この形状が、そのまま印�
       <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E6%A5%B5%E3%81%AE%E4%BB%98%E3%81%84%E3%81%9F%E5%A1%A9%E5%91%B3%E3%82%92%E6%84%9F%E3%81%98%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E5%87%BA%E6%9D%A5%E3%82%8B%E7%89%B9%E6%AE%8A%E3%81%AA%E7%AE%B8/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/電極の付いた塩味を感じることが出来る特殊な箸.jpg"&gt;Electric Chopsticks Bring The Salt, Not The Painから発見。画像もここから転載。
 電極の付いた特殊な箸により、塩分控えめでも塩味を感じることが出来るという作例です。 日本人は潜在的に塩分過多なのでこういうものがあると良いかもと思いました。</description>
-    </item>
-    
-    <item>
-      <title>ゲームボーイの画面をVGA出力する仕組み</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4%E3%81%AE%E7%94%BB%E9%9D%A2%E3%82%92vga%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B%E4%BB%95%E7%B5%84%E3%81%BF/</link>
-      <pubDate>Thu, 07 Apr 2022 23:10:40 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4%E3%81%AE%E7%94%BB%E9%9D%A2%E3%82%92vga%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B%E4%BB%95%E7%B5%84%E3%81%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ゲームボーイの画面をVGA出力する仕組み.jpg"&gt;Game Boy Becomes Super Game Boy With A Pair Of Pisから発見。画像もここから転載。
-Raspberry Pi Picoを使ってゲームボーイの画面をVGA出力している作例です。 ゲームボーイ基板の液晶との接続の端子を横取りしてRaspberry Pi Picoに接続し、VGA信号に変換しています。
-いうなればDIYスーパーゲームボーイです。
- </description>
     </item>
     
   </channel>
