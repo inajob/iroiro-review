@@ -1,0 +1,28 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AVR64DB32 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/avr64db32/</link>
+    <description>Recent content in AVR64DB32 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 22 Jun 2022 23:19:18 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/avr64db32/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AVR64DB32を搭載した開発ボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/avr64db32%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Wed, 22 Jun 2022 23:19:18 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/avr64db32%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/AVR64DB32を搭載した開発ボード.jpg"&gt;AVR64DB32マイコン基板 - スイッチサイエンスから発見。画像もここから転載。
+Arduinoと言えばATmega328を使ったものが一般的ですが、AVRには新シリーズのラインナップが存在します。
+この記事で紹介している開発ボードはAVR64DB32という新シリーズのAVRマイコンを使ったものです。
+ROM 64KB, RAM 8KBとArduino UNOよりも多くの容量をもち、 クロックも24MHzと少し高速です。
+この半導体不足の折ですが、比較的良心的な価格で販売されているように見えます。
+ </description>
+    </item>
+    
+  </channel>
+</rss>
+

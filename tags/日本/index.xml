@@ -5,9 +5,23 @@
     <description>Recent content in 日本 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 13 Apr 2022 22:46:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jun 2022 23:19:18 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%97%A5%E6%9C%AC/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AVR64DB32を搭載した開発ボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/avr64db32%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Wed, 22 Jun 2022 23:19:18 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/avr64db32%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/AVR64DB32を搭載した開発ボード.jpg"&gt;AVR64DB32マイコン基板 - スイッチサイエンスから発見。画像もここから転載。
+Arduinoと言えばATmega328を使ったものが一般的ですが、AVRには新シリーズのラインナップが存在します。
+この記事で紹介している開発ボードはAVR64DB32という新シリーズのAVRマイコンを使ったものです。
+ROM 64KB, RAM 8KBとArduino UNOよりも多くの容量をもち、 クロックも24MHzと少し高速です。
+この半導体不足の折ですが、比較的良心的な価格で販売されているように見えます。
+ </description>
+    </item>
     
     <item>
       <title>レシート印刷ができるAndroid端末</title>
@@ -141,20 +155,6 @@ https://factorysanta.thebase.in/items/57006415 販売もしているようです
 #きくよせくん
 ダイジェスト版動画。 pic.twitter.com/FMublLAp3p
 &amp;mdash; さんた屋 (@FactorySanta) December 24, 2021   </description>
-    </item>
-    
-    <item>
-      <title>Arduboyを使ったキーボードマクロ再生装置</title>
-      <link>https://inajob.github.io/iroiro-review/post/arduboy%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%83%9E%E3%82%AF%E3%83%AD%E5%86%8D%E7%94%9F%E8%A3%85%E7%BD%AE/</link>
-      <pubDate>Wed, 09 Feb 2022 22:00:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/arduboy%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%83%9E%E3%82%AF%E3%83%AD%E5%86%8D%E7%94%9F%E8%A3%85%E7%BD%AE/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Arduboyを使ったキーボードマクロ再生装置.jpg"&gt;荒miu (三浦 琢) さんのTweetから発見。画像もここから転載。
-Arduboyはコンパクトでよくできた携帯ゲーム機ですが、USBキーボードとしても振る舞うことができます。 この作例では、Arduboyの画面に表示されたメニューから項目を選ぶことで、あらかじめ登録しておいたキーストロークを送信しています。
-このTweetではゲームのレベル上げなどの単純作業を自動化する例が紹介されています。
-全自動たまご割り機。
-その場でグルグルできるようにしてみた。キモい。#ダイパリメイク https://t.co/KFp79njd5N pic.twitter.com/MkBJnINaft
-&amp;mdash; 荒miu (三浦 琢) (@miu_robo) January 10, 2022  </description>
     </item>
     
   </channel>
