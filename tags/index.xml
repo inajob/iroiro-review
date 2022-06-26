@@ -5,9 +5,18 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 23 Jun 2022 23:14:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jun 2022 22:09:35 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>工作</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E5%B7%A5%E4%BD%9C/</link>
+      <pubDate>Sun, 26 Jun 2022 22:09:35 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E5%B7%A5%E4%BD%9C/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>RaspberryPi</title>
@@ -87,15 +96,6 @@
       <pubDate>Thu, 16 Jun 2022 23:51:43 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/esp8266/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>マトリクスLED</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led/</link>
-      <pubDate>Thu, 16 Jun 2022 23:51:43 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
