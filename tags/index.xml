@@ -5,9 +5,18 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 26 Jun 2022 22:09:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jun 2022 23:13:41 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>HACK</title>
+      <link>https://inajob.github.io/iroiro-review/tags/hack/</link>
+      <pubDate>Mon, 27 Jun 2022 23:13:41 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/hack/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>工作</title>
@@ -69,15 +78,6 @@
       <pubDate>Wed, 22 Jun 2022 00:22:13 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>HACK</title>
-      <link>https://inajob.github.io/iroiro-review/tags/hack/</link>
-      <pubDate>Mon, 20 Jun 2022 23:52:25 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/hack/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
