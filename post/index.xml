@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 29 Jun 2022 00:03:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jun 2022 23:17:07 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>M5Stackを使ったインターネットラジオ</title>
+      <link>https://inajob.github.io/iroiro-review/post/m5stack%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%83%A9%E3%82%B8%E3%82%AA/</link>
+      <pubDate>Wed, 29 Jun 2022 23:17:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/m5stack%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%83%A9%E3%82%B8%E3%82%AA/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/M5Stackを使ったインターネットラジオ.jpg"&gt;GitHub - wakwak-koba/WebRadio_Jcbasimul: M5Stack 等で JCBA インターネットサイマルラジオ 全132局 が聴けますから発見。画像もここから転載。
+M5Stackを使ったインターネットラジオ端末の作例です。
+WiFi経由でインターネットにつながる環境があれば、132局のラジオを選んで聞くことができるようです。
+画面に表示されるスペクトラムアナライザーもかっこいいです。</description>
+    </item>
     
     <item>
       <title>物理法則を使ってモジュレーションをかけることができるシンセサイザー</title>
@@ -126,21 +138,6 @@ ESP8266で作られた電光掲示板の作例です。
 3Dプリンタで作られたドット状の仕切りのおかげでスタイリッシュな見た目となっています。
 ドットマトリクスLEDはMAX7219で制御できるモジュールを4個並べています。 もともと4個並んだ製品がありますが、それらは8x8のドットマトリクスLEDの間に少し隙間があるので、一度切断して、再度隙間なく並べ直すというこだわりっぷりです。
  </description>
-    </item>
-    
-    <item>
-      <title>FDM式3Dプリンタで作ったばね的な構造</title>
-      <link>https://inajob.github.io/iroiro-review/post/fdm%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%81%B0%E3%81%AD%E7%9A%84%E3%81%AA%E6%A7%8B%E9%80%A0/</link>
-      <pubDate>Wed, 15 Jun 2022 23:44:45 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/fdm%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%81%B0%E3%81%AD%E7%9A%84%E3%81%AA%E6%A7%8B%E9%80%A0/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/FDM式3Dプリンタで作ったばね的な構造.jpg"&gt;西村健志（Fusion360講師）さんのTweetからから発見。画像もここから転載。
-FDM式3Dプリンターで作られたばねを的なものの作例です。
-3Dプリンターの成果物は、向きによっては力を加えると簡単に割れてしまったりするので「ばね」を作るためには形に工夫が必要です。
-この作例では2つの左右対称なばね構造を並べることで、ばねが安定して伸び縮みできるように工夫されています。 3Dプリンターならではの複雑な構造を活用した作例です。
-3Dプリンターでバネを製作しました。
-（8mmを6mmまで縮めることができます。）#Fusion360　#Adventurer3 pic.twitter.com/mZD6DFvhgP
-&amp;mdash; 西村健志（Fusion360講師） (@nishimu_F360) April 14, 2022  </description>
     </item>
     
   </channel>
