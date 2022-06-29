@@ -5,9 +5,21 @@
     <description>Recent content in 楽器 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 18 Apr 2022 23:12:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jun 2022 00:03:24 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%A5%BD%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>物理法則を使ってモジュレーションをかけることができるシンセサイザー</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%89%A9%E7%90%86%E6%B3%95%E5%89%87%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E3%81%8B%E3%81%91%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</link>
+      <pubDate>Wed, 29 Jun 2022 00:03:24 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%89%A9%E7%90%86%E6%B3%95%E5%89%87%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E3%81%8B%E3%81%91%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/物理法則を使ってモジュレーションをかけることができるシンセサイザー.jpg"&gt;Abacus Synthesizer Really Adds Upから発見。画像もここから転載。
+4つのコマが並ぶ物理UIで、このコマを左右に動かしたり、回転させたりすることで音色を変化させることができるシンセサイザーです。
+特徴的なのが、このコマを回転させるという操作です。 この回転を読み取って、音色にいい感じのモジュレーションをかけることができます。
+ </description>
+    </item>
     
     <item>
       <title>組子細工を取り入れたエレキギター筐体</title>
@@ -113,19 +125,6 @@ SPIでボタンの入力が取得できるようで、少ないGPIOで接続で�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/mesotune.jpg"&gt;MesoTune - Magnetic MIDI Controllerから発見。画像もここから転載(CC BY-NC-SA By FabroLabs Technologies)。
 3Dプリンタで作られた回転するドラムのくぼみに鉄球を取り付け、ホールセンサーで鉄球を検知してMIDI信号を出力する編集可能なオルゴールのような楽器です。
 目で見た鉄球の並びがそのまま音楽になるというのは非常に直感的で面白い楽器です。
- </description>
-    </item>
-    
-    <item>
-      <title>ギター風の簡単MIDI楽器</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AE%E3%82%BF%E3%83%BC%E9%A2%A8%E3%81%AE%E7%B0%A1%E5%8D%98midi%E6%A5%BD%E5%99%A8/</link>
-      <pubDate>Wed, 05 May 2021 22:00:12 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AE%E3%82%BF%E3%83%BC%E9%A2%A8%E3%81%AE%E7%B0%A1%E5%8D%98midi%E6%A5%BD%E5%99%A8/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/synthfonio.png"&gt;The Synthfonio - a Musical Instrument for Everyoneから発見。画像もここから転載。(CC BY-NC-SA By FrancoMolina)
-一見ギター風ですが、この楽器はギターよりも演奏が簡単そうです。 ネックの部分でスケールを指定し、反対の手にある円筒状のスイッチを使って音階を演奏します。
-主となるボードはArduino MKR WIFI1010で、オーディオシンセ用にATMega328を搭載しています。
-ギターは「弦を押さえる」操作が難しいので、ワンタッチで操作できるこのような楽器は楽器が苦手な人でも比較的簡単に演奏できそうです。
  </description>
     </item>
     

@@ -5,9 +5,21 @@
     <description>Recent content in 音楽 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 09 May 2022 23:19:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jun 2022 00:03:24 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%9F%B3%E6%A5%BD/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>物理法則を使ってモジュレーションをかけることができるシンセサイザー</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%89%A9%E7%90%86%E6%B3%95%E5%89%87%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E3%81%8B%E3%81%91%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</link>
+      <pubDate>Wed, 29 Jun 2022 00:03:24 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%89%A9%E7%90%86%E6%B3%95%E5%89%87%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E3%81%8B%E3%81%91%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/物理法則を使ってモジュレーションをかけることができるシンセサイザー.jpg"&gt;Abacus Synthesizer Really Adds Upから発見。画像もここから転載。
+4つのコマが並ぶ物理UIで、このコマを左右に動かしたり、回転させたりすることで音色を変化させることができるシンセサイザーです。
+特徴的なのが、このコマを回転させるという操作です。 この回転を読み取って、音色にいい感じのモジュレーションをかけることができます。
+ </description>
+    </item>
     
     <item>
       <title>Raspberry Piのベアメタルプログラミングにより作られたFMシンセ音源</title>
@@ -119,20 +131,6 @@ Xilinx Artix-7 35TにMIDI-IN端子と、Adafruit のUDA1334Aボードを取り�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/mesotune.jpg"&gt;MesoTune - Magnetic MIDI Controllerから発見。画像もここから転載(CC BY-NC-SA By FabroLabs Technologies)。
 3Dプリンタで作られた回転するドラムのくぼみに鉄球を取り付け、ホールセンサーで鉄球を検知してMIDI信号を出力する編集可能なオルゴールのような楽器です。
 目で見た鉄球の並びがそのまま音楽になるというのは非常に直感的で面白い楽器です。
- </description>
-    </item>
-    
-    <item>
-      <title>フロッピーディスクで選曲する音楽プレイヤー</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%83%AD%E3%83%83%E3%83%94%E3%83%BC%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%81%A7%E9%81%B8%E6%9B%B2%E3%81%99%E3%82%8B%E9%9F%B3%E6%A5%BD%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC/</link>
-      <pubDate>Sun, 23 May 2021 23:00:13 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%83%AD%E3%83%83%E3%83%94%E3%83%BC%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%81%A7%E9%81%B8%E6%9B%B2%E3%81%99%E3%82%8B%E9%9F%B3%E6%A5%BD%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/diskplayer.jpg"&gt;Diskplayer: Using 3.5&amp;quot; floppy disks to play albums on Spotifyから発見。画像もここから転載。
-​フロッピーディスクと聞くと懐かしいですが、まだまだ入手するのは簡単ですし、場合によっては非常に安価にドライブを手に入れられます。
-この記事で紹介しているのは、そんなフロッピーディスクを使って曲を選択できるというおしゃれな音楽プレイヤーです。
-材料はRaspberry PiとDACボード、フロッピーディスクドライブです。フロッピーディスクの中にはSpotifyのURLが書き込まれており、ディスクの挿入を検知してアルバムが再生されるという仕組みのようです。
-ディスクの挿入を検知するためのudevルールの書き方なども紹介されているので、似たようなものを作るときの参考になりそうです。
  </description>
     </item>
     
