@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 30 Jun 2022 23:12:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Jul 2022 23:22:50 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Arduinoで作られた古き良きPDAのようなデバイス</title>
+      <link>https://inajob.github.io/iroiro-review/post/arduino%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E5%8F%A4%E3%81%8D%E8%89%AF%E3%81%8Dpda%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</link>
+      <pubDate>Sun, 03 Jul 2022 23:22:50 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/arduino%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E5%8F%A4%E3%81%8D%E8%89%AF%E3%81%8Dpda%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Arduinoで作られた古き良きPDAのようなデバイス.jpg"&gt;Pocket Computer Reminds Us Of PDAsから発見。画像もここから転載。
+iPhoneやAndroid以前にも、手のひらサイズのコンピュータが存在していました。 それらはPDAなどと呼ばれていましたが、もちろん性能は今のスマートフォンには及ばないものの、意外と便利な機能が沢山搭載されていました。
+この記事で紹介しているのは、そんなPDAを彷彿とさせる携帯コンピュータをArduinoとOLEDを使って実現している作例です。
+素朴な実装ですが、それゆえにカスタマイズも簡単そうで、オリジナルのPDAのアプリを作るのも簡単そうです。
+ </description>
+    </item>
     
     <item>
       <title>オープンソースのスタンドアローンハードウェアシンセサイザー</title>
@@ -127,19 +140,6 @@ ROM 64KB, RAM 8KBとArduino UNOよりも多くの容量をもち、 クロック
 プログラミングなどで乱数を扱っている人なら誰しも乱数の種（シード）の設定をどうするか悩んだことがあると思いますが、この装置があれば簡単にこの乱数の種を得ることができるというわけです。
 まぁ簡易的には、起動してからのハードウェアタイマーや、マウスの動き、ユーザがEnterを押すまでの時間など、乱数の種となる情報はたくさんありますが、これらはどれも、その仕組みがわかれば乱数列を特定されてしまう可能性があるのです。
 この装置の中に放射線を測定するガイガー管が含まれており、ATMega328Pで放射線の数を測定しているようです。</description>
-    </item>
-    
-    <item>
-      <title>ぐるぐる回るものをプロトタイピングするのに便利そうな3Dプリンタ製のケース</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%81%90%E3%82%8B%E3%81%90%E3%82%8B%E5%9B%9E%E3%82%8B%E3%82%82%E3%81%AE%E3%82%92%E3%83%97%E3%83%AD%E3%83%88%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0%E3%81%99%E3%82%8B%E3%81%AE%E3%81%AB%E4%BE%BF%E5%88%A9%E3%81%9D%E3%81%86%E3%81%AA3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9/</link>
-      <pubDate>Sun, 19 Jun 2022 23:38:32 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%90%E3%82%8B%E3%81%90%E3%82%8B%E5%9B%9E%E3%82%8B%E3%82%82%E3%81%AE%E3%82%92%E3%83%97%E3%83%AD%E3%83%88%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0%E3%81%99%E3%82%8B%E3%81%AE%E3%81%AB%E4%BE%BF%E5%88%A9%E3%81%9D%E3%81%86%E3%81%AA3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ぐるぐる回るものをプロトタイピングするのに便利そうな3Dプリンタ製のケース.jpg"&gt;Put A New Spin On Your 3D Printed Partsから発見。画像もここから転載。
-プロとタイピングするときには完成度の高さよりも、迅速に試行錯誤できることの方が求められます。
-この記事で紹介しているのが「ぐるぐる回る何か」をプロトタイピングするのに便利そうな3Dプリンター製のケースです。
-ギア付きのDCモーターとボリューム付きのモーター制御基板をを取り付けることができ、「ぐるぐる回る何か」を作る際の便利なパーツとなりそうです。
- </description>
     </item>
     
   </channel>
