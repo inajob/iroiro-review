@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 03 Jul 2022 23:22:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Jul 2022 23:18:43 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raspberry Pi Picoとほぼ同じ大きさのとても小さなキーボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%81%A8%E3%81%BB%E3%81%BC%E5%90%8C%E3%81%98%E5%A4%A7%E3%81%8D%E3%81%95%E3%81%AE%E3%81%A8%E3%81%A6%E3%82%82%E5%B0%8F%E3%81%95%E3%81%AA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Mon, 04 Jul 2022 23:18:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%81%A8%E3%81%BB%E3%81%BC%E5%90%8C%E3%81%98%E5%A4%A7%E3%81%8D%E3%81%95%E3%81%AE%E3%81%A8%E3%81%A6%E3%82%82%E5%B0%8F%E3%81%95%E3%81%AA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi Picoとほぼ同じ大きさのとても小さなキーボード.jpg"&gt;DIY Keyboard Can’t Get Much Smallerから発見。画像もここから転載。
+Raspberry Pi Picoとほぼ同じ大きさのとても小さなキーボードの作例です。 Raspberry Pi Picoの裏面にペタッと貼り付ける形の基板で、小さいですがキーボードとして正しく動作します。
+Raspberry Pi Pico用の自作キーボードのファームウェアとしてはPRK firmware というのがあるようです。
+よく似たプロダクトとしてtact31_keyboard を思い出します。</description>
+    </item>
     
     <item>
       <title>Arduinoで作られた古き良きPDAのようなデバイス</title>
@@ -125,21 +137,6 @@ ROM 64KB, RAM 8KBとArduino UNOよりも多くの容量をもち、 クロック
 簡単に作るにはブレッドボード上で回路を構成するのが良いですが、ゲーム操作のためのボタン類の配置が少し難しいです。 ブレッドボード上にスイッチを並べてもゲーム機のような十字キーのような配列にすることは難しく、また強く押すと取れてしまったりします。
 この記事で紹介するのはそんなブレッドボード上での携帯ゲーム機づくりを助けてくれるモジュールです。
 このボードを使うと簡単に携帯ゲーム機のプロトタイピングを実現できそうです。</description>
-    </item>
-    
-    <item>
-      <title>バナナに含まれる微量の放射性カリウムを乱数の種にするという装置</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%90%E3%83%8A%E3%83%8A%E3%81%AB%E5%90%AB%E3%81%BE%E3%82%8C%E3%82%8B%E5%BE%AE%E9%87%8F%E3%81%AE%E6%94%BE%E5%B0%84%E6%80%A7%E3%82%AB%E3%83%AA%E3%82%A6%E3%83%A0%E3%82%92%E4%B9%B1%E6%95%B0%E3%81%AE%E7%A8%AE%E3%81%AB%E3%81%99%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E8%A3%85%E7%BD%AE/</link>
-      <pubDate>Mon, 20 Jun 2022 23:52:25 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%90%E3%83%8A%E3%83%8A%E3%81%AB%E5%90%AB%E3%81%BE%E3%82%8C%E3%82%8B%E5%BE%AE%E9%87%8F%E3%81%AE%E6%94%BE%E5%B0%84%E6%80%A7%E3%82%AB%E3%83%AA%E3%82%A6%E3%83%A0%E3%82%92%E4%B9%B1%E6%95%B0%E3%81%AE%E7%A8%AE%E3%81%AB%E3%81%99%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E8%A3%85%E7%BD%AE/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/バナナに含まれる微量の放射性カリウムを乱数の種にするという装置.jpg"&gt;Yes We Have Random Bananasから発見。画像もここから転載。
-先週発見した記事でダントツに面白かったのがこれ。
-天然カリウムには一定量の放射性同位体であるカリウム40が含まれているようです。 一方バナナはカリウムを多く含む果物です。
-この2つの事実を利用して作られたのがこの、「バナナを使って真の乱数を生成する装置」です。
-プログラミングなどで乱数を扱っている人なら誰しも乱数の種（シード）の設定をどうするか悩んだことがあると思いますが、この装置があれば簡単にこの乱数の種を得ることができるというわけです。
-まぁ簡易的には、起動してからのハードウェアタイマーや、マウスの動き、ユーザがEnterを押すまでの時間など、乱数の種となる情報はたくさんありますが、これらはどれも、その仕組みがわかれば乱数列を特定されてしまう可能性があるのです。
-この装置の中に放射線を測定するガイガー管が含まれており、ATMega328Pで放射線の数を測定しているようです。</description>
     </item>
     
   </channel>
