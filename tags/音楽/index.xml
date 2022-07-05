@@ -5,9 +5,22 @@
     <description>Recent content in 音楽 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 30 Jun 2022 23:12:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Jul 2022 23:19:49 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%9F%B3%E6%A5%BD/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32で作られた完成度の高い音楽再生装置</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E5%AE%8C%E6%88%90%E5%BA%A6%E3%81%AE%E9%AB%98%E3%81%84%E9%9F%B3%E6%A5%BD%E5%86%8D%E7%94%9F%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Tue, 05 Jul 2022 23:19:49 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E5%AE%8C%E6%88%90%E5%BA%A6%E3%81%AE%E9%AB%98%E3%81%84%E9%9F%B3%E6%A5%BD%E5%86%8D%E7%94%9F%E8%A3%85%E7%BD%AE/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32で作られた完成度の高い音楽再生装置.jpg"&gt;Faux-Retro “Tape” Player Runs On ESP32 And 80s Vibesから発見。画像もここから転載。
+3Dプリンタで作られた筐体が美しいMP3再生装置です。
+中身はESP32とI2Sオーディオアンプというごくごく普通の構成ですが、このレトロなカセットデッキのような見た目が非常に印象的です。
+UIもカセットを意識しており、巻き戻しなどを直感的に行うことができるようです。
+ </description>
+    </item>
     
     <item>
       <title>オープンソースのスタンドアローンハードウェアシンセサイザー</title>
@@ -122,18 +135,6 @@ ONDOPHONEと呼ばれる自作の電子楽器の紹介です。
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/fpga-fm-board.jpg"&gt;The XFM2 Synthesizer Moduleから発見。画像もここから転載。
 Xilinx Artix-7 35TにMIDI-IN端子と、Adafruit のUDA1334Aボードを取り付けられるFM音源実験用のボードを紹介している記事です。
 非常にシンプルな構成で、FPGAでの音作りに専念できそうです。
- </description>
-    </item>
-    
-    <item>
-      <title>ゼロから作るヘッドホン</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E4%BD%9C%E3%82%8B%E3%83%98%E3%83%83%E3%83%89%E3%83%9B%E3%83%B3/</link>
-      <pubDate>Tue, 15 Jun 2021 11:30:19 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E4%BD%9C%E3%82%8B%E3%83%98%E3%83%83%E3%83%89%E3%83%9B%E3%83%B3/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/diy-headphone.jpg"&gt;Create Your Own Headphones From Raw Materialsから発見。画像もここから転載（CC BY-NC-SA By madaeon）。
-メンブレン膜をビニールテープのリングの片方に貼り付け、そのメンブレン膜の内側にコイルを接着し、ビニールテープのリングのもう片方に強力な磁石を接着した段ボールを接着することで、ヘッドホンを自作しています。
-さらに3Dプリンタを使ってかっこいいカバーを自作して、それっぽいヘッドホンに仕上げています。
  </description>
     </item>
     

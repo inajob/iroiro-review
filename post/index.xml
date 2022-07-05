@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 04 Jul 2022 23:18:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Jul 2022 23:19:49 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32で作られた完成度の高い音楽再生装置</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E5%AE%8C%E6%88%90%E5%BA%A6%E3%81%AE%E9%AB%98%E3%81%84%E9%9F%B3%E6%A5%BD%E5%86%8D%E7%94%9F%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Tue, 05 Jul 2022 23:19:49 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E5%AE%8C%E6%88%90%E5%BA%A6%E3%81%AE%E9%AB%98%E3%81%84%E9%9F%B3%E6%A5%BD%E5%86%8D%E7%94%9F%E8%A3%85%E7%BD%AE/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32で作られた完成度の高い音楽再生装置.jpg"&gt;Faux-Retro “Tape” Player Runs On ESP32 And 80s Vibesから発見。画像もここから転載。
+3Dプリンタで作られた筐体が美しいMP3再生装置です。
+中身はESP32とI2Sオーディオアンプというごくごく普通の構成ですが、このレトロなカセットデッキのような見た目が非常に印象的です。
+UIもカセットを意識しており、巻き戻しなどを直感的に行うことができるようです。
+ </description>
+    </item>
     
     <item>
       <title>Raspberry Pi Picoとほぼ同じ大きさのとても小さなキーボード</title>
@@ -124,19 +137,6 @@ Arduinoと言えばATmega328を使ったものが一般的ですが、AVRには�
 ROM 64KB, RAM 8KBとArduino UNOよりも多くの容量をもち、 クロックも24MHzと少し高速です。
 この半導体不足の折ですが、比較的良心的な価格で販売されているように見えます。
  </description>
-    </item>
-    
-    <item>
-      <title>ブレッドボードをゲーム機化できる面白いモジュール</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E5%8C%96%E3%81%A7%E3%81%8D%E3%82%8B%E9%9D%A2%E7%99%BD%E3%81%84%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</link>
-      <pubDate>Wed, 22 Jun 2022 00:22:13 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E5%8C%96%E3%81%A7%E3%81%8D%E3%82%8B%E9%9D%A2%E7%99%BD%E3%81%84%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ブレッドボードをゲーム機化できる面白いモジュール.jpg"&gt;Odd Inputs And Peculiar Peripherals: The GameBug Turns Your Breadboard Into A Game Consoleから発見。画像もここから転載。
-電子工作で自分独自の携帯ゲーム機のようなものを作るのは意外と簡単です。
-簡単に作るにはブレッドボード上で回路を構成するのが良いですが、ゲーム操作のためのボタン類の配置が少し難しいです。 ブレッドボード上にスイッチを並べてもゲーム機のような十字キーのような配列にすることは難しく、また強く押すと取れてしまったりします。
-この記事で紹介するのはそんなブレッドボード上での携帯ゲーム機づくりを助けてくれるモジュールです。
-このボードを使うと簡単に携帯ゲーム機のプロトタイピングを実現できそうです。</description>
     </item>
     
   </channel>
