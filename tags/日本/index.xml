@@ -5,9 +5,29 @@
     <description>Recent content in 日本 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 29 Jun 2022 23:17:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jul 2022 22:45:47 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%97%A5%E6%9C%AC/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SolveSpaceの日本語UI</title>
+      <link>https://inajob.github.io/iroiro-review/post/solvespace%E3%81%AE%E6%97%A5%E6%9C%AC%E8%AA%9Eui/</link>
+      <pubDate>Wed, 06 Jul 2022 22:45:47 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/solvespace%E3%81%AE%E6%97%A5%E6%9C%AC%E8%AA%9Eui/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/SolveSpaceの日本語UI.jpg"&gt;verylowfreqさんのTweetから発見。画像もここから転載。
+SolveSpace というオープンソースの3DCADのUIを日本語にするための変更が本家に取り込まれたようです。
+この翻訳を行ってくださったのはverylowfreqさんです。
+まずは独自のビルドで公開されていましたが、その後本家に無事マージされた ようです。
+SolveSpaceはちょっと操作性が独特ですが、他の3DCADと比べて軽快に動作するので、この機会に試してみようと思いました。
+OSSな3D CADのSolveSpaceを個人的に日本語訳したので、コードとWindowsバイナリを置いておきます。
+SolveSpaceは先週触ったばかりでまだ使い込んではないんだけどなんだか気に入ってしまったので、勢いで翻訳した次第。無理のある訳語が若干あるので、改善案あればぜひ。https://t.co/gvH9gyQRVz pic.twitter.com/6qr76lXvu2
+&amp;mdash; verylowfreq (@verylowfreq) June 13, 2022  数週間前から書いていたSolveSpaceの日本語訳ですが、手元でしばらく使ってみたのち本家にプルリクを投げ、マージされました。
+&amp;mdash; verylowfreq (@verylowfreq) June 23, 2022  なんかすごそうです。（inajobもSolveSpaceはほとんど使ったことがないので、月並みな感想ですが・・）
+SolveSpaceには3次元空間内にスケッチする(Sketch-&amp;gt;Anywhere in 3d)という機能があるのだが、単一のグループ内で同一平面にないスケッチがかける。視点をこまめに調整しながらのスケッチになるけど、拘束もできる。なんかよくわからんがすごい。
+（直線が四角形の中央を奥から手前に貫通している。） pic.twitter.com/R3LCbOD1Ud
+&amp;mdash; verylowfreq (@verylowfreq) June 11, 2022  </description>
+    </item>
     
     <item>
       <title>M5Stackを使ったインターネットラジオ</title>
@@ -138,18 +158,6 @@ OLEDをそのまま取り付けられるピンヘッダが用意されており�
 放熱は自然現象に任せるしかないので温度管理が難しいかもしれませんが、なかなか面白い手法です。
 石 焼 き リ フ ロ ー#リフロー pic.twitter.com/Y9C3VjZFBK
 &amp;mdash; おぷら技研 (@OPLA_TECH) February 25, 2022  </description>
-    </item>
-    
-    <item>
-      <title>ESP32で電波時計を合わせるテクニック</title>
-      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%81%A7%E9%9B%BB%E6%B3%A2%E6%99%82%E8%A8%88%E3%82%92%E5%90%88%E3%82%8F%E3%81%9B%E3%82%8B%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</link>
-      <pubDate>Wed, 09 Mar 2022 23:00:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%81%A7%E9%9B%BB%E6%B3%A2%E6%99%82%E8%A8%88%E3%82%92%E5%90%88%E3%82%8F%E3%81%9B%E3%82%8B%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32で電波時計を合わせるテクニック.jpg"&gt;ESP32 (M5Stick-C) で電波時計を合わせようから発見。画像もここから転載。
-電波時計は時刻を勝手に合わせてくれて便利ですが、電波をうまく拾えない環境や、天災やメンテナンスによる標準電波の停波などにより、うまく時刻が合わせられないことがあります。
-この記事では、M5Stick-Cをつかって簡単に標準電波を発生させる手法が紹介されています。 アンテナが必要か、、と思いきや、電波時計にかなり近づけることでアンテナすら不要で電波時計の時計を合わせることができるようです。
-このテクニックを使えば、電波時計を改造することなく好きな時刻に設定できる時計ガジェットも作ることができそうです。</description>
     </item>
     
   </channel>

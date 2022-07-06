@@ -1,0 +1,34 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SolveSpace on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/solvespace/</link>
+    <description>Recent content in SolveSpace on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 06 Jul 2022 22:45:47 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/solvespace/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SolveSpaceの日本語UI</title>
+      <link>https://inajob.github.io/iroiro-review/post/solvespace%E3%81%AE%E6%97%A5%E6%9C%AC%E8%AA%9Eui/</link>
+      <pubDate>Wed, 06 Jul 2022 22:45:47 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/solvespace%E3%81%AE%E6%97%A5%E6%9C%AC%E8%AA%9Eui/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/SolveSpaceの日本語UI.jpg"&gt;verylowfreqさんのTweetから発見。画像もここから転載。
+SolveSpace というオープンソースの3DCADのUIを日本語にするための変更が本家に取り込まれたようです。
+この翻訳を行ってくださったのはverylowfreqさんです。
+まずは独自のビルドで公開されていましたが、その後本家に無事マージされた ようです。
+SolveSpaceはちょっと操作性が独特ですが、他の3DCADと比べて軽快に動作するので、この機会に試してみようと思いました。
+OSSな3D CADのSolveSpaceを個人的に日本語訳したので、コードとWindowsバイナリを置いておきます。
+SolveSpaceは先週触ったばかりでまだ使い込んではないんだけどなんだか気に入ってしまったので、勢いで翻訳した次第。無理のある訳語が若干あるので、改善案あればぜひ。https://t.co/gvH9gyQRVz pic.twitter.com/6qr76lXvu2
+&amp;mdash; verylowfreq (@verylowfreq) June 13, 2022  数週間前から書いていたSolveSpaceの日本語訳ですが、手元でしばらく使ってみたのち本家にプルリクを投げ、マージされました。
+&amp;mdash; verylowfreq (@verylowfreq) June 23, 2022  なんかすごそうです。（inajobもSolveSpaceはほとんど使ったことがないので、月並みな感想ですが・・）
+SolveSpaceには3次元空間内にスケッチする(Sketch-&amp;gt;Anywhere in 3d)という機能があるのだが、単一のグループ内で同一平面にないスケッチがかける。視点をこまめに調整しながらのスケッチになるけど、拘束もできる。なんかよくわからんがすごい。
+（直線が四角形の中央を奥から手前に貫通している。） pic.twitter.com/R3LCbOD1Ud
+&amp;mdash; verylowfreq (@verylowfreq) June 11, 2022  </description>
+    </item>
+    
+  </channel>
+</rss>
+
