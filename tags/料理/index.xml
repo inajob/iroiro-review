@@ -5,9 +5,22 @@
     <description>Recent content in 料理 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 06 Feb 2021 23:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Jul 2022 23:14:23 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%96%99%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>タコスを自動的に用意してくれるロボット</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%BF%E3%82%B3%E3%82%B9%E3%82%92%E8%87%AA%E5%8B%95%E7%9A%84%E3%81%AB%E7%94%A8%E6%84%8F%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</link>
+      <pubDate>Thu, 07 Jul 2022 23:14:23 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%BF%E3%82%B3%E3%82%B9%E3%82%92%E8%87%AA%E5%8B%95%E7%9A%84%E3%81%AB%E7%94%A8%E6%84%8F%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/タコスを自動的に用意してくれるロボット.jpg"&gt;An Impressively Functional Tacobotから発見。画像もここから転載。
+昨今レストランにロボットが導入されている話をちらほら耳にします。
+配膳ロボットはもちろん、調理を行うロボットなども現れ始めているようです。
+この記事で紹介しているのは自作のタコス調理ロボットです。 いかにもDIYといった感じの作りですが、ちゃんと作ればそれなりに実用的なタコス調理ロボットになりそうです。
+ </description>
+    </item>
     
     <item>
       <title>豆腐をプレスするIoTガジェット</title>
