@@ -5,9 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 11 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Jul 2022 23:32:44 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>車の窓に貼る遮光フィルムを7セグLEDに貼ると視認性が良くなる</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%BB%8A%E3%81%AE%E7%AA%93%E3%81%AB%E8%B2%BC%E3%82%8B%E9%81%AE%E5%85%89%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0%E3%82%927%E3%82%BB%E3%82%B0led%E3%81%AB%E8%B2%BC%E3%82%8B%E3%81%A8%E8%A6%96%E8%AA%8D%E6%80%A7%E3%81%8C%E8%89%AF%E3%81%8F%E3%81%AA%E3%82%8B/</link>
+      <pubDate>Mon, 11 Jul 2022 23:32:44 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%BB%8A%E3%81%AE%E7%AA%93%E3%81%AB%E8%B2%BC%E3%82%8B%E9%81%AE%E5%85%89%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0%E3%82%927%E3%82%BB%E3%82%B0led%E3%81%AB%E8%B2%BC%E3%82%8B%E3%81%A8%E8%A6%96%E8%AA%8D%E6%80%A7%E3%81%8C%E8%89%AF%E3%81%8F%E3%81%AA%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/車の窓に貼る遮光フィルムを7セグLEDに貼ると視認性が良くなる.jpg"&gt;Quick Tip Improves Seven-Segment LED Visibilityから発見。画像もここから転載。
+7セグメントLEDやドットマトリクスLEDは、部品そのままだと明るい環境での視認性が悪いです。 そのために、スモークアクリル板を張り付けるなどの事例をよく見かけます。
+この記事で紹介するのはもっと手軽に車の窓に貼る遮光フィルムを7セグメント表示機の大きさに切り取って貼り付けるという方法です。
+アクリル板よりも断然加工がしやすく、有用そうなテクニックです。
+ダイソーのPPシートでも似たような効果が得られるという情報も教えてもらいました。
+ダイソーで売ってたＰＰシートも効果ありましたよ。何よりクッッソ安いし pic.twitter.com/aBJTh5Lxqn
+&amp;mdash; あにじゃ (@SuperANIJA) June 4, 2022   </description>
+    </item>
     
     <item>
       <title>電子工作でよく使うコネクタの紹介</title>
@@ -130,19 +145,6 @@ WiFi経由でインターネットにつながる環境があれば、132局の�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/物理法則を使ってモジュレーションをかけることができるシンセサイザー.jpg"&gt;Abacus Synthesizer Really Adds Upから発見。画像もここから転載。
 4つのコマが並ぶ物理UIで、このコマを左右に動かしたり、回転させたりすることで音色を変化させることができるシンセサイザーです。
 特徴的なのが、このコマを回転させるという操作です。 この回転を読み取って、音色にいい感じのモジュレーションをかけることができます。
- </description>
-    </item>
-    
-    <item>
-      <title>金属製の工具箱を改造して作られたバーベキューセット</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E9%87%91%E5%B1%9E%E8%A3%BD%E3%81%AE%E5%B7%A5%E5%85%B7%E7%AE%B1%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%83%90%E3%83%BC%E3%83%99%E3%82%AD%E3%83%A5%E3%83%BC%E3%82%BB%E3%83%83%E3%83%88/</link>
-      <pubDate>Mon, 27 Jun 2022 23:13:41 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E9%87%91%E5%B1%9E%E8%A3%BD%E3%81%AE%E5%B7%A5%E5%85%B7%E7%AE%B1%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%83%90%E3%83%BC%E3%83%99%E3%82%AD%E3%83%A5%E3%83%BC%E3%82%BB%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/金属製の工具箱を改造して作られたバーベキューセット.jpg"&gt;Unorthodox Toolbox Switcheroo: Barbecue!から発見。画像もここから転載。
-金属製の工具箱を改造して、なんとバーベキューグリルを作っています。
-一番下の段に炭を入れ、階段状に展開する上の段に食材をいれて、工具箱を閉めることで、おいしいバーベキューを作ることができるようです。
-蓋を閉めて加熱することができるので、カラカラにならずにおいしいバーベキューが出来そうです。
  </description>
     </item>
     
