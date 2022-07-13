@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 11 Jul 2022 23:32:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Jul 2022 00:51:03 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>エンボスラベルを自動生成する装置</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%A8%E3%83%B3%E3%83%9C%E3%82%B9%E3%83%A9%E3%83%99%E3%83%AB%E3%82%92%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Wed, 13 Jul 2022 00:51:03 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%A8%E3%83%B3%E3%83%9C%E3%82%B9%E3%83%A9%E3%83%99%E3%83%AB%E3%82%92%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/エンボスラベルを自動生成する装置.jpg"&gt;DIY Automated Printer Kerchunks Out Classic Embossed Labelsから発見。画像もここから転載。
+昔懐かしのエンボスラベルを自動的に作るガジェットの作例です。 手動のエンボスラベル生成器から部品を取り出して自動化しています。
+レトロな技術で作られたテプラという感じで面白いです。
+紹介動画も非常にスタイリッシュで無駄に欲しくなります。
+ </description>
+    </item>
     
     <item>
       <title>車の窓に貼る遮光フィルムを7セグLEDに貼ると視認性が良くなる</title>
@@ -134,18 +147,6 @@ iPhoneやAndroid以前にも、手のひらサイズのコンピュータが存�
 M5Stackを使ったインターネットラジオ端末の作例です。
 WiFi経由でインターネットにつながる環境があれば、132局のラジオを選んで聞くことができるようです。
 画面に表示されるスペクトラムアナライザーもかっこいいです。</description>
-    </item>
-    
-    <item>
-      <title>物理法則を使ってモジュレーションをかけることができるシンセサイザー</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E7%89%A9%E7%90%86%E6%B3%95%E5%89%87%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E3%81%8B%E3%81%91%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</link>
-      <pubDate>Wed, 29 Jun 2022 00:03:24 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E7%89%A9%E7%90%86%E6%B3%95%E5%89%87%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E3%81%8B%E3%81%91%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/物理法則を使ってモジュレーションをかけることができるシンセサイザー.jpg"&gt;Abacus Synthesizer Really Adds Upから発見。画像もここから転載。
-4つのコマが並ぶ物理UIで、このコマを左右に動かしたり、回転させたりすることで音色を変化させることができるシンセサイザーです。
-特徴的なのが、このコマを回転させるという操作です。 この回転を読み取って、音色にいい感じのモジュレーションをかけることができます。
- </description>
     </item>
     
   </channel>
