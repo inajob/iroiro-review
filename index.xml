@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 13 Jul 2022 13:03:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Jul 2022 22:00:32 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RaspberryPiを内蔵して高機能化したスピーカー</title>
+      <link>https://inajob.github.io/iroiro-review/post/raspberrypi%E3%82%92%E5%86%85%E8%94%B5%E3%81%97%E3%81%A6%E9%AB%98%E6%A9%9F%E8%83%BD%E3%81%95%E3%81%9B%E3%81%9F%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC/</link>
+      <pubDate>Mon, 18 Jul 2022 22:00:32 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/raspberrypi%E3%82%92%E5%86%85%E8%94%B5%E3%81%97%E3%81%A6%E9%AB%98%E6%A9%9F%E8%83%BD%E3%81%95%E3%81%9B%E3%81%9F%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/RaspberryPiを内蔵して高機能させたスピーカー.jpg"&gt;Classic Amp Revived With A Piから発見。画像もここから転載。
+お古のスピーカーを改造して、Raspberry Piを内蔵し様々なエフェクトをかけたりできるエフェクタ付きのアンプに改造しています。
+スピーカーというのは電源もあり、内部にスペースもあり、操作パネルも付いているので、このような改造をするのにうってつけだと感じました。
+ </description>
+    </item>
     
     <item>
       <title>既存の3Dプリンタを基に製作できるCoreXY構造の3Dプリンタ「Fraxinus」</title>
@@ -132,21 +144,6 @@ Raspberry Pi Pico用の自作キーボードのファームウェアとしては
 iPhoneやAndroid以前にも、手のひらサイズのコンピュータが存在していました。 それらはPDAなどと呼ばれていましたが、もちろん性能は今のスマートフォンには及ばないものの、意外と便利な機能が沢山搭載されていました。
 この記事で紹介しているのは、そんなPDAを彷彿とさせる携帯コンピュータをArduinoとOLEDを使って実現している作例です。
 素朴な実装ですが、それゆえにカスタマイズも簡単そうで、オリジナルのPDAのアプリを作るのも簡単そうです。
- </description>
-    </item>
-    
-    <item>
-      <title>オープンソースのスタンドアローンハードウェアシンセサイザー</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E3%82%A2%E3%83%AD%E3%83%BC%E3%83%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</link>
-      <pubDate>Thu, 30 Jun 2022 23:12:46 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E3%82%A2%E3%83%AD%E3%83%BC%E3%83%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/オープンソースのスタンドアローンハードウェアシンセサイザー.jpg"&gt;LMN-3: Putting The ‘OP’ In Open Source Synthesizersから発見。画像もここから転載。
-シンセ・サンプラー・シーケンサー・DAWを搭載した音楽制作用のガジェットです。
-中身はRaspberry Pi 4となっており、これ一つで様々な音楽制作を行うことができます。
-作りとしては自作キーボードと似たような感じですが、ソフトウェアの作り込みがしっかりしており、非常に完成度が高い作例となっています。
-スタンドアローンで動作する音楽制作専用機というのは、物欲を掻き立てられます。
-この成果はオープンソースで公開されているので、その気があればだれでも真似して作ることができます。
  </description>
     </item>
     

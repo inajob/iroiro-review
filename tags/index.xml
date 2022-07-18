@@ -5,9 +5,27 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 13 Jul 2022 13:03:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Jul 2022 22:00:32 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raspberry Pi</title>
+      <link>https://inajob.github.io/iroiro-review/tags/raspberry-pi/</link>
+      <pubDate>Mon, 18 Jul 2022 22:00:32 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/raspberry-pi/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>音楽</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E9%9F%B3%E6%A5%BD/</link>
+      <pubDate>Mon, 18 Jul 2022 22:00:32 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E9%9F%B3%E6%A5%BD/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>3Dプリンタ</title>
@@ -78,24 +96,6 @@
       <pubDate>Thu, 07 Jul 2022 23:14:23 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/arduino/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>ロボット</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</link>
-      <pubDate>Thu, 07 Jul 2022 23:14:23 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>料理</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E6%96%99%E7%90%86/</link>
-      <pubDate>Thu, 07 Jul 2022 23:14:23 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E6%96%99%E7%90%86/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     

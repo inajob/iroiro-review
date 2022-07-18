@@ -3,27 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://inajob.github.io/iroiro-review/</loc>
+    <lastmod>2022-07-18T22:00:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/post/</loc>
+    <lastmod>2022-07-18T22:00:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/tags/raspberry-pi/</loc>
+    <lastmod>2022-07-18T22:00:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/post/raspberrypi%E3%82%92%E5%86%85%E8%94%B5%E3%81%97%E3%81%A6%E9%AB%98%E6%A9%9F%E8%83%BD%E3%81%95%E3%81%9B%E3%81%9F%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC/</loc>
+    <lastmod>2022-07-18T22:00:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/tags/</loc>
+    <lastmod>2022-07-18T22:00:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/tags/%E9%9F%B3%E6%A5%BD/</loc>
+    <lastmod>2022-07-18T22:00:32+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</loc>
     <lastmod>2022-07-13T13:03:23+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://inajob.github.io/iroiro-review/tags/corexy/</loc>
-    <lastmod>2022-07-13T13:03:23+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://inajob.github.io/iroiro-review/</loc>
-    <lastmod>2022-07-13T13:03:23+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://inajob.github.io/iroiro-review/post/</loc>
-    <lastmod>2022-07-13T13:03:23+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://inajob.github.io/iroiro-review/tags/</loc>
     <lastmod>2022-07-13T13:03:23+00:00</lastmod>
   </url>
   
@@ -118,11 +133,6 @@
   </url>
   
   <url>
-    <loc>https://inajob.github.io/iroiro-review/tags/%E9%9F%B3%E6%A5%BD/</loc>
-    <lastmod>2022-07-05T23:19:49+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico/</loc>
     <lastmod>2022-07-04T23:18:43+00:00</lastmod>
   </url>
@@ -145,11 +155,6 @@
   <url>
     <loc>https://inajob.github.io/iroiro-review/tags/pda/</loc>
     <lastmod>2022-07-03T23:22:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://inajob.github.io/iroiro-review/tags/raspberry-pi/</loc>
-    <lastmod>2022-06-30T23:12:46+00:00</lastmod>
   </url>
   
   <url>
