@@ -5,9 +5,22 @@
     <description>Recent content in Raspberry Pi Pico on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 04 Jul 2022 23:18:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jul 2022 22:32:48 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raspberry Pi Picoをコアとした鍵盤付きのMIDIシンセサイザー</title>
+      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E9%8D%B5%E7%9B%A4%E4%BB%98%E3%81%8D%E3%81%AEmidi%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</link>
+      <pubDate>Thu, 21 Jul 2022 22:32:48 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E9%8D%B5%E7%9B%A4%E4%BB%98%E3%81%8D%E3%81%AEmidi%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi Picoをコアとした鍵盤付きのMIDIシンセサイザー.jpg"&gt;Pico Keys by Fabien Chouteau on Tindieから発見。画像もここから転載。
+Raspberry Pi Picoはパワフルな開発ボードで、シンセサイザーなども作れるようです。
+この記事で紹介しているのはRaspberry Pi Picoをコアとした鍵盤型のMIDIシンセサイザーです。 スイッチにはメカニカルキーボードで利用されるKailh Chocを採用し非常に押し心地がよさそうです。
+ソースコードをちらっと見ましたが、Adaのソースコードもあったりと、ちょっと謎の作りになっているように見えました。 （個人的にはもっとシンプルなポリフォニックな音源のソースが見たいのですが・・誰か知りません？）
+ </description>
+    </item>
     
     <item>
       <title>Raspberry Pi Picoとほぼ同じ大きさのとても小さなキーボード</title>

@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 20 Jul 2022 23:48:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jul 2022 22:32:48 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raspberry Pi Picoをコアとした鍵盤付きのMIDIシンセサイザー</title>
+      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E9%8D%B5%E7%9B%A4%E4%BB%98%E3%81%8D%E3%81%AEmidi%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</link>
+      <pubDate>Thu, 21 Jul 2022 22:32:48 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E9%8D%B5%E7%9B%A4%E4%BB%98%E3%81%8D%E3%81%AEmidi%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi Picoをコアとした鍵盤付きのMIDIシンセサイザー.jpg"&gt;Pico Keys by Fabien Chouteau on Tindieから発見。画像もここから転載。
+Raspberry Pi Picoはパワフルな開発ボードで、シンセサイザーなども作れるようです。
+この記事で紹介しているのはRaspberry Pi Picoをコアとした鍵盤型のMIDIシンセサイザーです。 スイッチにはメカニカルキーボードで利用されるKailh Chocを採用し非常に押し心地がよさそうです。
+ソースコードをちらっと見ましたが、Adaのソースコードもあったりと、ちょっと謎の作りになっているように見えました。 （個人的にはもっとシンプルなポリフォニックな音源のソースが見たいのですが・・誰か知りません？）
+ </description>
+    </item>
     
     <item>
       <title>8ビット入力キーボード</title>
@@ -133,19 +146,6 @@ SolveSpaceは先週触ったばかりでまだ使い込んではないんだけ�
 SolveSpaceには3次元空間内にスケッチする(Sketch-&amp;gt;Anywhere in 3d)という機能があるのだが、単一のグループ内で同一平面にないスケッチがかける。視点をこまめに調整しながらのスケッチになるけど、拘束もできる。なんかよくわからんがすごい。
 （直線が四角形の中央を奥から手前に貫通している。） pic.twitter.com/R3LCbOD1Ud
 &amp;mdash; verylowfreq (@verylowfreq) June 11, 2022  </description>
-    </item>
-    
-    <item>
-      <title>ESP32で作られた完成度の高い音楽再生装置</title>
-      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E5%AE%8C%E6%88%90%E5%BA%A6%E3%81%AE%E9%AB%98%E3%81%84%E9%9F%B3%E6%A5%BD%E5%86%8D%E7%94%9F%E8%A3%85%E7%BD%AE/</link>
-      <pubDate>Tue, 05 Jul 2022 23:19:49 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E5%AE%8C%E6%88%90%E5%BA%A6%E3%81%AE%E9%AB%98%E3%81%84%E9%9F%B3%E6%A5%BD%E5%86%8D%E7%94%9F%E8%A3%85%E7%BD%AE/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32で作られた完成度の高い音楽再生装置.jpg"&gt;Faux-Retro “Tape” Player Runs On ESP32 And 80s Vibesから発見。画像もここから転載。
-3Dプリンタで作られた筐体が美しいMP3再生装置です。
-中身はESP32とI2Sオーディオアンプというごくごく普通の構成ですが、このレトロなカセットデッキのような見た目が非常に印象的です。
-UIもカセットを意識しており、巻き戻しなどを直感的に行うことができるようです。
- </description>
     </item>
     
   </channel>

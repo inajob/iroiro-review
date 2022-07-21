@@ -5,9 +5,22 @@
     <description>Recent content in 楽器 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 29 Jun 2022 00:03:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jul 2022 22:32:48 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%A5%BD%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raspberry Pi Picoをコアとした鍵盤付きのMIDIシンセサイザー</title>
+      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E9%8D%B5%E7%9B%A4%E4%BB%98%E3%81%8D%E3%81%AEmidi%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</link>
+      <pubDate>Thu, 21 Jul 2022 22:32:48 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E9%8D%B5%E7%9B%A4%E4%BB%98%E3%81%8D%E3%81%AEmidi%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi Picoをコアとした鍵盤付きのMIDIシンセサイザー.jpg"&gt;Pico Keys by Fabien Chouteau on Tindieから発見。画像もここから転載。
+Raspberry Pi Picoはパワフルな開発ボードで、シンセサイザーなども作れるようです。
+この記事で紹介しているのはRaspberry Pi Picoをコアとした鍵盤型のMIDIシンセサイザーです。 スイッチにはメカニカルキーボードで利用されるKailh Chocを採用し非常に押し心地がよさそうです。
+ソースコードをちらっと見ましたが、Adaのソースコードもあったりと、ちょっと謎の作りになっているように見えました。 （個人的にはもっとシンプルなポリフォニックな音源のソースが見たいのですが・・誰か知りません？）
+ </description>
+    </item>
     
     <item>
       <title>物理法則を使ってモジュレーションをかけることができるシンセサイザー</title>
@@ -114,18 +127,6 @@ ONDOPHONEと呼ばれる自作の電子楽器の紹介です。
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/piano-board.jpg"&gt;Arduino Piano Boardから発見。画像もここから転載。
 Arduinoを使って電子楽器の試作をする際に便利そうな、鍵盤状のキーパッドです。
 SPIでボタンの入力が取得できるようで、少ないGPIOで接続できるのが便利そうです。</description>
-    </item>
-    
-    <item>
-      <title>回転ドラムに磁石で鉄球をくっつけるMIDIシーケンサ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%9B%9E%E8%BB%A2%E3%83%89%E3%83%A9%E3%83%A0%E3%81%AB%E7%A3%81%E7%9F%B3%E3%81%A7%E9%89%84%E7%90%83%E3%82%92%E3%81%8F%E3%81%A3%E3%81%A4%E3%81%91%E3%82%8Bmidi%E3%82%B7%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%B5/</link>
-      <pubDate>Sun, 13 Jun 2021 11:00:57 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%9B%9E%E8%BB%A2%E3%83%89%E3%83%A9%E3%83%A0%E3%81%AB%E7%A3%81%E7%9F%B3%E3%81%A7%E9%89%84%E7%90%83%E3%82%92%E3%81%8F%E3%81%A3%E3%81%A4%E3%81%91%E3%82%8Bmidi%E3%82%B7%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%B5/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/mesotune.jpg"&gt;MesoTune - Magnetic MIDI Controllerから発見。画像もここから転載(CC BY-NC-SA By FabroLabs Technologies)。
-3Dプリンタで作られた回転するドラムのくぼみに鉄球を取り付け、ホールセンサーで鉄球を検知してMIDI信号を出力する編集可能なオルゴールのような楽器です。
-目で見た鉄球の並びがそのまま音楽になるというのは非常に直感的で面白い楽器です。
- </description>
     </item>
     
   </channel>
