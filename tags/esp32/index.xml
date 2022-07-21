@@ -5,9 +5,22 @@
     <description>Recent content in ESP32 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 13 Jul 2022 00:51:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Jul 2022 23:48:08 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/esp32/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>8ビット入力キーボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/8%E3%83%93%E3%83%83%E3%83%88%E5%85%A5%E5%8A%9B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Wed, 20 Jul 2022 23:48:08 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/8%E3%83%93%E3%83%83%E3%83%88%E5%85%A5%E5%8A%9B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/8ビット入力キーボード.jpg"&gt;THE 8BIT KEYBOARD | ProtoPediaから発見。画像もここから転載。
+トグルスイッチによる8ビット入力キーボードの作例です。
+キーのストック機能も実装されており、特定文字の連続入力や、同時押しなどもサポートしており実用的（？）となっています。 コアはESP32となっており、Bluetoothで接続するようです。
+木目調の筐体も良い味を出しています。
+ </description>
+    </item>
     
     <item>
       <title>エンボスラベルを自動生成する装置</title>
@@ -156,20 +169,6 @@ WiFiやBluetoothも使うことが出来、今流行りのIoT的なガジェッ�
 電波時計は時刻を勝手に合わせてくれて便利ですが、電波をうまく拾えない環境や、天災やメンテナンスによる標準電波の停波などにより、うまく時刻が合わせられないことがあります。
 この記事では、M5Stick-Cをつかって簡単に標準電波を発生させる手法が紹介されています。 アンテナが必要か、、と思いきや、電波時計にかなり近づけることでアンテナすら不要で電波時計の時計を合わせることができるようです。
 このテクニックを使えば、電波時計を改造することなく好きな時刻に設定できる時計ガジェットも作ることができそうです。</description>
-    </item>
-    
-    <item>
-      <title>ESP32を使った省エネの動体検知カメラ</title>
-      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E7%9C%81%E3%82%A8%E3%83%8D%E3%81%AE%E5%8B%95%E4%BD%93%E6%A4%9C%E7%9F%A5%E3%82%AB%E3%83%A1%E3%83%A9/</link>
-      <pubDate>Tue, 01 Mar 2022 13:00:53 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E7%9C%81%E3%82%A8%E3%83%8D%E3%81%AE%E5%8B%95%E4%BD%93%E6%A4%9C%E7%9F%A5%E3%82%AB%E3%83%A1%E3%83%A9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/power-save-esp32cam.jpg"&gt;ESP32-CAM Low Power Trail Cameraから発見。画像もここから転載。 ESP32はパワフルなマイコンですが、その分消費電力も大きいです。
-ディープスリープモードなどもありますが、制御がややこしかったり、それでもある程度は電力を消費してしまいます。 また、当たり前ですがスリープモード中は大した処理が実行できません。
-この記事で紹介しているのは、動物が近づいたときに自動的にカメラで撮影するガジェットを省電力で実現する手法です。
-具体的には人感センサーを用いて、ESP32の電源を外から制御しています。
-一度電源がONになったらESP32が既定の処理が終わるまでは電源がOFFにならないように工夫して設計されています。
-この方式は他のマイコンでも有効なので、いろいろと応用がききそうです。</description>
     </item>
     
   </channel>

@@ -5,9 +5,22 @@
     <description>Recent content in 自作キーボード on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 04 Jul 2022 23:18:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Jul 2022 23:48:08 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>8ビット入力キーボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/8%E3%83%93%E3%83%83%E3%83%88%E5%85%A5%E5%8A%9B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Wed, 20 Jul 2022 23:48:08 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/8%E3%83%93%E3%83%83%E3%83%88%E5%85%A5%E5%8A%9B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/8ビット入力キーボード.jpg"&gt;THE 8BIT KEYBOARD | ProtoPediaから発見。画像もここから転載。
+トグルスイッチによる8ビット入力キーボードの作例です。
+キーのストック機能も実装されており、特定文字の連続入力や、同時押しなどもサポートしており実用的（？）となっています。 コアはESP32となっており、Bluetoothで接続するようです。
+木目調の筐体も良い味を出しています。
+ </description>
+    </item>
     
     <item>
       <title>Raspberry Pi Picoとほぼ同じ大きさのとても小さなキーボード</title>
