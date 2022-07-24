@@ -5,9 +5,27 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 21 Jul 2022 22:32:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Jul 2022 23:23:42 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタ</title>
+      <link>https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
+      <pubDate>Sun, 24 Jul 2022 23:23:42 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>HACK</title>
+      <link>https://inajob.github.io/iroiro-review/tags/hack/</link>
+      <pubDate>Sun, 24 Jul 2022 23:23:42 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/hack/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>Raspberry Pi Pico</title>
@@ -55,15 +73,6 @@
     </item>
     
     <item>
-      <title>HACK</title>
-      <link>https://inajob.github.io/iroiro-review/tags/hack/</link>
-      <pubDate>Tue, 19 Jul 2022 23:34:36 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/hack/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
       <title>Raspberry Pi</title>
       <link>https://inajob.github.io/iroiro-review/tags/raspberry-pi/</link>
       <pubDate>Mon, 18 Jul 2022 22:00:32 +0000</pubDate>
@@ -78,15 +87,6 @@
       <pubDate>Mon, 18 Jul 2022 22:00:32 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/%E9%9F%B3%E6%A5%BD/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタ</title>
-      <link>https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
-      <pubDate>Wed, 13 Jul 2022 13:03:23 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
