@@ -5,9 +5,23 @@
     <description>Recent content in RISC-V on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 16 Sep 2019 23:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Jul 2022 22:20:01 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/risc-v/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32でRISC-Vのエミュレータを動かしLinuxを動かす</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%81%A7risc-v%E3%81%AE%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%82%92%E5%8B%95%E3%81%8B%E3%81%97linux%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</link>
+      <pubDate>Thu, 28 Jul 2022 22:20:01 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%81%A7risc-v%E3%81%AE%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%82%92%E5%8B%95%E3%81%8B%E3%81%97linux%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32でRISC-Vのエミュレータを動かしLinuxを動かす.jpg"&gt;It’s Linux. On An ESP32から発見。画像もここから転載。
+ESP32はパワフルなCPUですが、独自のインストラクションセットなので、既存の資源の活用が難しいなど問題もあります。
+この記事で紹介しているのはESP32の上でRISC-Vのエミュレータを動作させLinuxを動かす手法です。 エミュレータとしてはTinyEMUを利用しています。
+カーネルが起動するには1分35秒ほどかかるようです。
+先日は安価なATSAMD21の上でMIPSエミュレータを動かしLinuxがブートできる名刺型基板を紹介しましたが、Linuxをブートする方法はいろいろあって面白いですね。
+ </description>
+    </item>
     
     <item>
       <title>カラーディスプレイ付きのRISC-V開発ボード</title>
