@@ -5,9 +5,22 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 01 Aug 2022 00:16:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Aug 2022 23:40:07 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>大半の部品を3Dプリントで作成した自作ミシン</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%A4%A7%E5%8D%8A%E3%81%AE%E9%83%A8%E5%93%81%E3%82%923d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%97%E3%81%9F%E8%87%AA%E4%BD%9C%E3%83%9F%E3%82%B7%E3%83%B3/</link>
+      <pubDate>Mon, 01 Aug 2022 23:40:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%A4%A7%E5%8D%8A%E3%81%AE%E9%83%A8%E5%93%81%E3%82%923d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%97%E3%81%9F%E8%87%AA%E4%BD%9C%E3%83%9F%E3%82%B7%E3%83%B3/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/大半の部品を3Dプリントで作成した自作ミシン.jpg"&gt;A Home Made Sewing Machine May Be The Only Oneから発見。画像もここから転載。
+この記事ではミシンを3Dプリンタで作成しています。
+確かにミシンは結構昔からある機械で、仕組みはそこまで難しくなさそうですが、コアの部分は精密な造形が必要そうです。
+身近な機械の再発明は新しい気づきがありそうで楽しそうです。
+ </description>
+    </item>
     
     <item>
       <title>RaspberryPiを使ったラップトップを作るためのデータ</title>
@@ -127,20 +140,6 @@ FDM式3Dプリンターで作られたばねを的なものの作例です。
 積層式3Dプリンターでは「花瓶モード」を使うことで、高速に印刷することができます。 しかし、花瓶モードでは外壁がフィラメント1本分の幅の物しか作ることが出来ず、強度に問題がありました。
 しかしこの記事で紹介している手法では、一筆書きで生成できる条件を満たすような切れ込みを外壁に生成し、花瓶モードの高速さと、比較的強い強度を両立することが出来ています。
  </description>
-    </item>
-    
-    <item>
-      <title>gcodeを駆使し3Dプリンタで積層以外の構造を生成する</title>
-      <link>https://inajob.github.io/iroiro-review/post/gcode%E3%82%92%E9%A7%86%E4%BD%BF%E3%81%973d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E7%A9%8D%E5%B1%A4%E4%BB%A5%E5%A4%96%E3%81%AE%E6%A7%8B%E9%80%A0%E3%82%92%E7%94%9F%E6%88%90%E3%81%99%E3%82%8B/</link>
-      <pubDate>Wed, 08 Jun 2022 22:08:41 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/gcode%E3%82%92%E9%A7%86%E4%BD%BF%E3%81%973d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E7%A9%8D%E5%B1%A4%E4%BB%A5%E5%A4%96%E3%81%AE%E6%A7%8B%E9%80%A0%E3%82%92%E7%94%9F%E6%88%90%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/gcodeを駆使し3Dプリンタで積層以外の構造を生成する.jpg"&gt;Hiroshi SugiharaさんのTweetから発見。画像もここから転載。
-3Dプリンタは通常1層ずつ下から積み上げて物体を生成しますが、命令さえ出せば好きな位置にフィラメントを吐出することができます。
-このTweetでは3Dプリンタの動作を制御するgcodeを直接生成し、積層式ではない新しい造形に挑戦しています。 垂れさがるフィラメントの扱いが難しそうですが、うまく制御できると3Dプリンタの新しい使い方が生まれそうです。
-gcodeをいじって3Dプリンタを動かすことを覚えたので、習作として作ってみてる何か
-ものを入れると方向によって見え方が違ってなんかいい感じ pic.twitter.com/fbZHesmzcf
-&amp;mdash; Hiroshi Sugihara (@nodosakana) April 5, 2022  </description>
     </item>
     
   </channel>
