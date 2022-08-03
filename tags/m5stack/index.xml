@@ -5,9 +5,24 @@
     <description>Recent content in m5stack on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 29 Jun 2022 23:17:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Aug 2022 23:26:22 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/m5stack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ｽﾀｯｸﾁｬﾝ製品化</title>
+      <link>https://inajob.github.io/iroiro-review/post/%EF%BD%BD%EF%BE%80%EF%BD%AF%EF%BD%B8%EF%BE%81%EF%BD%AC%EF%BE%9D%E8%A3%BD%E5%93%81%E5%8C%96/</link>
+      <pubDate>Wed, 03 Aug 2022 23:26:22 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%EF%BD%BD%EF%BE%80%EF%BD%AF%EF%BD%B8%EF%BE%81%EF%BD%AC%EF%BE%9D%E8%A3%BD%E5%93%81%E5%8C%96/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ｽﾀｯｸﾁｬﾝ製品化.jpg"&gt;ｽﾀｯｸﾁｬﾝ製品化研修を始めますから発見。画像もここから転載。
+M5Stackを使って作られた卓上ロボット「ｽﾀｯｸﾁｬﾝ」は、界隈では有名な手乗りサイズのロボットです。
+オープンソースで開発がすすめられ、多くの人が自分のオリジナルの「ｽﾀｯｸﾁｬﾝ」を作っています。
+そんな「ｽﾀｯｸﾁｬﾝ」ですが、作者のししかわさんが、勤務されている株式会社アールティと連携して、製品化する動きが進んでいるようです。
+「オープンソースプロジェクトが製品化する」と聞くと、嫌な予感もしますが、ブログ記事を読む限り、うまくオープンソースの良さは残しつつ、すそ野を広げるために製品化するというようなモチベーションのようです。
+また、この製品化の進捗についてもブログで随時公開してくださるようで、同人ハードウェア発祥のプロダクトの製品化事例としても要注目なプロジェクトです。
+ </description>
+    </item>
     
     <item>
       <title>M5Stackを使ったインターネットラジオ</title>
