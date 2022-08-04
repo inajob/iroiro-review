@@ -5,9 +5,22 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 01 Aug 2022 23:40:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Aug 2022 23:18:45 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32によるミニチュアピンボールマシン</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%81%AB%E3%82%88%E3%82%8B%E3%83%9F%E3%83%8B%E3%83%81%E3%83%A5%E3%82%A2%E3%83%94%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%9E%E3%82%B7%E3%83%B3/</link>
+      <pubDate>Thu, 04 Aug 2022 23:18:45 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%81%AB%E3%82%88%E3%82%8B%E3%83%9F%E3%83%8B%E3%83%81%E3%83%A5%E3%82%A2%E3%83%94%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%9E%E3%82%B7%E3%83%B3/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32によるミニチュアピンボールマシン.jpg"&gt;Tiny Pinball Machine Also Runs X86 Codeから発見。画像もここから転載。
+ESP32によるミニチュアピンボールマシンの作例です。 よくできたミニチュア筐体で液晶に表示されたピンボールゲームが遊べます。
+このゲーム自体はDOS時代の古いゲームのようですが、これはx86の機械語で書かれていたようです。 そこでESP32上でx86エミュレータを動すことで、このゲームを動かしているようです。
+さらに、触覚フィードバックや、筐体を傾けることによる操作などもサポートするようにアップグレードしています。
+ </description>
+    </item>
     
     <item>
       <title>大半の部品を3Dプリントで作成した自作ミシン</title>
@@ -127,18 +140,6 @@ FDM式3Dプリンターで作られたばねを的なものの作例です。
 ということでこの記事で紹介しているのは3Dプリンタ製のマスクです。 まぁ、ウイルス防止のマスクというよりは、ゴーグル的なものですが、目の部分に透明OLEDが埋め込まれているのが特徴です。
 これによりSFのキャラクターのようなユニークな見た目を演出しています。
 コアとなるボードはESP32で、スマートフォンのアプリを使って目のアニメーションを切り替えることができます。
- </description>
-    </item>
-    
-    <item>
-      <title>高速に3Dプリントできる花瓶モードでも強度を保つテクニック</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E9%AB%98%E9%80%9F%E3%81%AB3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A7%E3%81%8D%E3%82%8B%E8%8A%B1%E7%93%B6%E3%83%A2%E3%83%BC%E3%83%89%E3%81%A7%E3%82%82%E5%BC%B7%E5%BA%A6%E3%82%92%E4%BF%9D%E3%81%A4%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</link>
-      <pubDate>Sun, 12 Jun 2022 23:16:51 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E9%AB%98%E9%80%9F%E3%81%AB3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A7%E3%81%8D%E3%82%8B%E8%8A%B1%E7%93%B6%E3%83%A2%E3%83%BC%E3%83%89%E3%81%A7%E3%82%82%E5%BC%B7%E5%BA%A6%E3%82%92%E4%BF%9D%E3%81%A4%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/高速に3Dプリントできる花瓶モードでも強度を保つテクニック.jpg"&gt;3D Printing Hack Leverages Vase Mode Structurallyから発見。画像もここから転載。
-積層式3Dプリンターでは「花瓶モード」を使うことで、高速に印刷することができます。 しかし、花瓶モードでは外壁がフィラメント1本分の幅の物しか作ることが出来ず、強度に問題がありました。
-しかしこの記事で紹介している手法では、一筆書きで生成できる条件を満たすような切れ込みを外壁に生成し、花瓶モードの高速さと、比較的強い強度を両立することが出来ています。
  </description>
     </item>
     
