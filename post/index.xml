@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 07 Aug 2022 23:25:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Aug 2022 23:14:51 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ATTiny84で作られた7セグ2つを搭載したシンプルな携帯ゲーム機</title>
+      <link>https://inajob.github.io/iroiro-review/post/attiny84%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F7%E3%82%BB%E3%82%B02%E3%81%A4%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Mon, 08 Aug 2022 23:14:51 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/attiny84%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F7%E3%82%BB%E3%82%B02%E3%81%A4%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ATTiny84で作られた7セグ2つを搭載したシンプルな携帯ゲーム機.jpg"&gt;Hunt The Lunpus Is An ATtiny-Based Minimalist Game Consoleから発見。画像もここから転載。
+7セグ2つを搭載したシンプルな携帯ゲーム機です。 マイコンはATTiny85を使っています。
+本来は数字を表示するための7セグですが、2つ並べることで迷路のゲームを実現しています。 動画を見ると、確かになんとか迷路を認識することができます。
+若干強引ですが、このシンプルな部品で迷路のゲームをつくるという発想が面白いです。
+ </description>
+    </item>
     
     <item>
       <title>どんどん後ろにつなげることができるUSBメモリ</title>
@@ -125,18 +138,6 @@ ESP32はパワフルなCPUですが、独自のインストラクションセッ
 安価なATSAMD21の上でMIPSエミュレータを動かしLinuxをブートさせています。
 2分程度で起動しgccでのHello Worldのビルドに2分かかる程度の性能で、ある程度ちゃんと使える（？）性能です。
 これだけの構成でLinuxが動作するのは面白いです。</description>
-    </item>
-    
-    <item>
-      <title>穴の開いた2枚の板を重ねると秘密の文字が浮かび上がる視覚的暗号化のデモ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E7%A9%B4%E3%81%AE%E9%96%8B%E3%81%84%E3%81%9F2%E6%9E%9A%E3%81%AE%E6%9D%BF%E3%82%92%E9%87%8D%E3%81%AD%E3%82%8B%E3%81%A8%E7%A7%98%E5%AF%86%E3%81%AE%E6%96%87%E5%AD%97%E3%81%8C%E6%B5%AE%E3%81%8B%E3%81%B3%E4%B8%8A%E3%81%8C%E3%82%8B%E8%A6%96%E8%A6%9A%E7%9A%84%E6%9A%97%E5%8F%B7%E5%8C%96%E3%81%AE%E3%83%87%E3%83%A2/</link>
-      <pubDate>Tue, 26 Jul 2022 01:02:05 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E7%A9%B4%E3%81%AE%E9%96%8B%E3%81%84%E3%81%9F2%E6%9E%9A%E3%81%AE%E6%9D%BF%E3%82%92%E9%87%8D%E3%81%AD%E3%82%8B%E3%81%A8%E7%A7%98%E5%AF%86%E3%81%AE%E6%96%87%E5%AD%97%E3%81%8C%E6%B5%AE%E3%81%8B%E3%81%B3%E4%B8%8A%E3%81%8C%E3%82%8B%E8%A6%96%E8%A6%9A%E7%9A%84%E6%9A%97%E5%8F%B7%E5%8C%96%E3%81%AE%E3%83%87%E3%83%A2/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/穴の開いた2枚の板を重ねると秘密の文字が浮かび上がる視覚的暗号化のデモ.jpg"&gt;Visual Cryptography For Physical Keyringsから発見。画像もここから転載。
-一見ランダムに穴が開いたような板を2枚重ねることで、秘密の文字が浮かび上がってくるという、物理的な視覚的暗号です。
-原理が分かっても、片方の板だけで暗号を解くことは難しそうです。 これだけでは改ざん検知などはできないので、本当の機密データをこれでやり取りするにはさらなる工夫が必要そうですが、ちょっとしたネタとしてこういう仕掛けを仕込むのは面白そうです。
- </description>
     </item>
     
   </channel>

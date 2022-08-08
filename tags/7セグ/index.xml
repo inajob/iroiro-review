@@ -5,9 +5,22 @@
     <description>Recent content in 7セグ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 11 Jul 2022 23:32:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Aug 2022 23:14:51 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/7%E3%82%BB%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ATTiny84で作られた7セグ2つを搭載したシンプルな携帯ゲーム機</title>
+      <link>https://inajob.github.io/iroiro-review/post/attiny84%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F7%E3%82%BB%E3%82%B02%E3%81%A4%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Mon, 08 Aug 2022 23:14:51 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/attiny84%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F7%E3%82%BB%E3%82%B02%E3%81%A4%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ATTiny84で作られた7セグ2つを搭載したシンプルな携帯ゲーム機.jpg"&gt;Hunt The Lunpus Is An ATtiny-Based Minimalist Game Consoleから発見。画像もここから転載。
+7セグ2つを搭載したシンプルな携帯ゲーム機です。 マイコンはATTiny85を使っています。
+本来は数字を表示するための7セグですが、2つ並べることで迷路のゲームを実現しています。 動画を見ると、確かになんとか迷路を認識することができます。
+若干強引ですが、このシンプルな部品で迷路のゲームをつくるという発想が面白いです。
+ </description>
+    </item>
     
     <item>
       <title>車の窓に貼る遮光フィルムを7セグLEDに貼ると視認性が良くなる</title>
@@ -125,19 +138,6 @@ Arduinoに16チャンネルのサーボモーターコントローラボード�
 電源を用いずに、完全にからくりだけで数字を切り替えながら表示できる装置です。
 3Dプリンタで作られており、有料ですがモデルデータをダウンロードすることが出来ます。
 ギアだらけの内部構造が見えるのもかっこよく、ギーク心をくすぐられます。</description>
-    </item>
-    
-    <item>
-      <title>グルースティックを使った大きな7セグメントLED</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%A4%A7%E3%81%8D%E3%81%AA7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88led/</link>
-      <pubDate>Tue, 01 Dec 2020 23:00:32 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%A4%A7%E3%81%8D%E3%81%AA7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88led/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/big-led.jpg"&gt;Big 7 segment displayから発見。画像もここから転載。
-ちょっと変わった大きな7セグメント表示機の作例です。 グルーガンで使用するグルースティックをセグメントとして利用し、LEDを用いてこのスティックを光らせます。
-グルースティックの適度な曇り具合が光を拡散して、ネオンサインのような味のある光を演出しているのが素敵です。
-コントローラとしてはESP8266を用い、I/Oエキスパンダとして、MCP23017を使用しているようです。
- </description>
     </item>
     
   </channel>
