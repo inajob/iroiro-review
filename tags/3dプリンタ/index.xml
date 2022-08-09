@@ -5,9 +5,24 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 04 Aug 2022 23:18:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Aug 2022 22:49:45 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリントの成果物を結束バンドで結合するというテクニック</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E6%88%90%E6%9E%9C%E7%89%A9%E3%82%92%E7%B5%90%E6%9D%9F%E3%83%90%E3%83%B3%E3%83%89%E3%81%A7%E7%B5%90%E5%90%88%E3%81%99%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</link>
+      <pubDate>Tue, 09 Aug 2022 22:49:45 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E6%88%90%E6%9E%9C%E7%89%A9%E3%82%92%E7%B5%90%E6%9D%9F%E3%83%90%E3%83%B3%E3%83%89%E3%81%A7%E7%B5%90%E5%90%88%E3%81%99%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリントの成果物を結束バンドで結合するというテクニック.jpg"&gt;Welcome To Ziptie Cityから発見。画像もここから転載。
+3Dプリントでつくる造形物は、様々な制約があり、好きな形が何でも作れるというものではありません。 中空に物体を作れないという制約や、そもそも造形エリアの制約などもあります。
+そのため1つの造形物を分割して、それらを貼り合わせるというテクニックを使うことがあります。
+こういうことをする際は、ねじで締め付けたり、ボンドでくっつけたりと、様々な手法がありますが、この記事で紹介しているのは「結束バンド」で結合するという手法です。
+3Dプリント造形物同士の結合だけではなく、バッテリーボックスや出来合いの基板など、既存の部品をケースに結合する際にもこのテクニックは利用できます。
+この手法を実際に試すことができる3Dモデルも公開されている ので、気になる人は印刷してみてはどうでしょうか？
+ </description>
+    </item>
     
     <item>
       <title>ESP32によるミニチュアピンボールマシン</title>
@@ -127,20 +142,6 @@ FDM式3Dプリンターで作られたばねを的なものの作例です。
 3Dプリンターでバネを製作しました。
 （8mmを6mmまで縮めることができます。）#Fusion360　#Adventurer3 pic.twitter.com/mZD6DFvhgP
 &amp;mdash; 西村健志（Fusion360講師） (@nishimu_F360) April 14, 2022  </description>
-    </item>
-    
-    <item>
-      <title>透過OLEDを使ったかっこいいマスク</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E9%80%8F%E9%81%8Eoled%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E3%83%9E%E3%82%B9%E3%82%AF/</link>
-      <pubDate>Mon, 13 Jun 2022 23:16:58 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E9%80%8F%E9%81%8Eoled%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E3%83%9E%E3%82%B9%E3%82%AF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/透過OLEDを使ったかっこいいマスク.jpg"&gt;Sci-Fi 3D Printed Mask With Transparent Displayから発見。画像もここから転載。
-コロナ禍で、みんなマスクをしていますが、そろそろ普通のマスクにも飽きてきますね。
-ということでこの記事で紹介しているのは3Dプリンタ製のマスクです。 まぁ、ウイルス防止のマスクというよりは、ゴーグル的なものですが、目の部分に透明OLEDが埋め込まれているのが特徴です。
-これによりSFのキャラクターのようなユニークな見た目を演出しています。
-コアとなるボードはESP32で、スマートフォンのアプリを使って目のアニメーションを切り替えることができます。
- </description>
     </item>
     
   </channel>

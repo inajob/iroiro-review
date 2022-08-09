@@ -1,0 +1,29 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>結束バンド on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E7%B5%90%E6%9D%9F%E3%83%90%E3%83%B3%E3%83%89/</link>
+    <description>Recent content in 結束バンド on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Tue, 09 Aug 2022 22:49:45 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E7%B5%90%E6%9D%9F%E3%83%90%E3%83%B3%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリントの成果物を結束バンドで結合するというテクニック</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E6%88%90%E6%9E%9C%E7%89%A9%E3%82%92%E7%B5%90%E6%9D%9F%E3%83%90%E3%83%B3%E3%83%89%E3%81%A7%E7%B5%90%E5%90%88%E3%81%99%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</link>
+      <pubDate>Tue, 09 Aug 2022 22:49:45 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E6%88%90%E6%9E%9C%E7%89%A9%E3%82%92%E7%B5%90%E6%9D%9F%E3%83%90%E3%83%B3%E3%83%89%E3%81%A7%E7%B5%90%E5%90%88%E3%81%99%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリントの成果物を結束バンドで結合するというテクニック.jpg"&gt;Welcome To Ziptie Cityから発見。画像もここから転載。
+3Dプリントでつくる造形物は、様々な制約があり、好きな形が何でも作れるというものではありません。 中空に物体を作れないという制約や、そもそも造形エリアの制約などもあります。
+そのため1つの造形物を分割して、それらを貼り合わせるというテクニックを使うことがあります。
+こういうことをする際は、ねじで締め付けたり、ボンドでくっつけたりと、様々な手法がありますが、この記事で紹介しているのは「結束バンド」で結合するという手法です。
+3Dプリント造形物同士の結合だけではなく、バッテリーボックスや出来合いの基板など、既存の部品をケースに結合する際にもこのテクニックは利用できます。
+この手法を実際に試すことができる3Dモデルも公開されている ので、気になる人は印刷してみてはどうでしょうか？
+ </description>
+    </item>
+    
+  </channel>
+</rss>
+
