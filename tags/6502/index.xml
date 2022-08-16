@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6502 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/6502/</link>
+    <description>Recent content in 6502 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Tue, 16 Aug 2022 23:20:07 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/6502/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>良い雰囲気の6502を搭載したモバイルコンピュータ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%89%AF%E3%81%84%E9%9B%B0%E5%9B%B2%E6%B0%97%E3%81%AE6502%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF/</link>
+      <pubDate>Tue, 16 Aug 2022 23:20:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%89%AF%E3%81%84%E9%9B%B0%E5%9B%B2%E6%B0%97%E3%81%AE6502%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/良い雰囲気の6502を搭載したモバイルコンピュータ.jpg"&gt;PERSEUS-9 homemade mobile 6502 computerから発見。画像もここから転載。
+レトロコンピュータの復刻版のプロジェクトは数多くありますが、この記事で紹介する6502搭載のモバイルコンピュータは外観に非常にこだわりを感じるものです。
+金属製の筐体はタカチのアルミダイキャストケースHQ-26-18-6Nという既製品です。 コンソール表示には1文字ずつHCMS-2912というドットマトリクスLEDを利用しています。
+6502を搭載したモバイルコンピュータ。キースイッチ、表示用のドットマトリクスLED、金属筐体、どれをとっても素晴らしい。
+ </description>
+    </item>
+    
+  </channel>
+</rss>
+

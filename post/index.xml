@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 15 Aug 2022 23:13:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Aug 2022 23:20:07 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>良い雰囲気の6502を搭載したモバイルコンピュータ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%89%AF%E3%81%84%E9%9B%B0%E5%9B%B2%E6%B0%97%E3%81%AE6502%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF/</link>
+      <pubDate>Tue, 16 Aug 2022 23:20:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%89%AF%E3%81%84%E9%9B%B0%E5%9B%B2%E6%B0%97%E3%81%AE6502%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/良い雰囲気の6502を搭載したモバイルコンピュータ.jpg"&gt;PERSEUS-9 homemade mobile 6502 computerから発見。画像もここから転載。
+レトロコンピュータの復刻版のプロジェクトは数多くありますが、この記事で紹介する6502搭載のモバイルコンピュータは外観に非常にこだわりを感じるものです。
+金属製の筐体はタカチのアルミダイキャストケースHQ-26-18-6Nという既製品です。 コンソール表示には1文字ずつHCMS-2912というドットマトリクスLEDを利用しています。
+6502を搭載したモバイルコンピュータ。キースイッチ、表示用のドットマトリクスLED、金属筐体、どれをとっても素晴らしい。
+ </description>
+    </item>
     
     <item>
       <title>Raspberry Pi Pico上で動くvi風エディタとCコンパイラ</title>
@@ -148,19 +161,6 @@ M5Stackを使って作られた卓上ロボット「ｽﾀｯｸﾁｬﾝ」は�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/チープカシオのガワを再利用したOLED搭載のスマートウォッチ.jpg"&gt;The Casio Smartwatch You Never Hadから発見。画像もここから転載。
 いわゆる「チープカシオ」の名で知られるCASIOの腕時計F-91の筐体を流用して作られたスマートウォッチの作例です。
 OLEDを搭載し見た目が非常にかっこいいです。 コアとなるマイコンはCC2640で、電池は15日程度持つようです。（普段はOLEDは消えていて、ボタンを押したときに表示される仕様のようです）
- </description>
-    </item>
-    
-    <item>
-      <title>大半の部品を3Dプリントで作成した自作ミシン</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%A4%A7%E5%8D%8A%E3%81%AE%E9%83%A8%E5%93%81%E3%82%923d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%97%E3%81%9F%E8%87%AA%E4%BD%9C%E3%83%9F%E3%82%B7%E3%83%B3/</link>
-      <pubDate>Mon, 01 Aug 2022 23:40:07 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%A4%A7%E5%8D%8A%E3%81%AE%E9%83%A8%E5%93%81%E3%82%923d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%97%E3%81%9F%E8%87%AA%E4%BD%9C%E3%83%9F%E3%82%B7%E3%83%B3/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/大半の部品を3Dプリントで作成した自作ミシン.jpg"&gt;A Home Made Sewing Machine May Be The Only Oneから発見。画像もここから転載。
-この記事ではミシンを3Dプリンタで作成しています。
-確かにミシンは結構昔からある機械で、仕組みはそこまで難しくなさそうですが、コアの部分は精密な造形が必要そうです。
-身近な機械の再発明は新しい気づきがありそうで楽しそうです。
  </description>
     </item>
     

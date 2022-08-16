@@ -5,9 +5,27 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 15 Aug 2022 23:13:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Aug 2022 23:20:07 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>6502</title>
+      <link>https://inajob.github.io/iroiro-review/tags/6502/</link>
+      <pubDate>Tue, 16 Aug 2022 23:20:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/6502/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cyberdeck</title>
+      <link>https://inajob.github.io/iroiro-review/tags/cyberdeck/</link>
+      <pubDate>Tue, 16 Aug 2022 23:20:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/cyberdeck/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>Raspberry Pi Pico</title>
@@ -78,24 +96,6 @@
       <pubDate>Tue, 09 Aug 2022 22:49:45 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/%E7%B5%90%E6%9D%9F%E3%83%90%E3%83%B3%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>7セグ</title>
-      <link>https://inajob.github.io/iroiro-review/tags/7%E3%82%BB%E3%82%B0/</link>
-      <pubDate>Mon, 08 Aug 2022 23:14:51 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/7%E3%82%BB%E3%82%B0/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>Attiny84</title>
-      <link>https://inajob.github.io/iroiro-review/tags/attiny84/</link>
-      <pubDate>Mon, 08 Aug 2022 23:14:51 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/attiny84/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
