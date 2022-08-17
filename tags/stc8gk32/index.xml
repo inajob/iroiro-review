@@ -1,0 +1,31 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>STC8GK32 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/stc8gk32/</link>
+    <description>Recent content in STC8GK32 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 17 Aug 2022 23:29:32 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/stc8gk32/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>半導体不足ということで注目したいSTC8Gマイコン</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%8D%8A%E5%B0%8E%E4%BD%93%E4%B8%8D%E8%B6%B3%E3%81%A8%E3%81%84%E3%81%86%E3%81%93%E3%81%A8%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%81%97%E3%81%9F%E3%81%84stc8g%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3/</link>
+      <pubDate>Wed, 17 Aug 2022 23:29:32 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%8D%8A%E5%B0%8E%E4%BD%93%E4%B8%8D%E8%B6%B3%E3%81%A8%E3%81%84%E3%81%86%E3%81%93%E3%81%A8%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%81%97%E3%81%9F%E3%81%84stc8g%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/半導体不足ということで注目したいSTC8Gマイコン.jpg"&gt;STCmicroのマイコンSTC8Gを使ってみた｜akita11｜noteから発見。画像もここから転載。
+半導体不足ということでここしばらくは、STM32やAVRといった電子工作でおなじみのマイコンの入手が難しい状況が続いています。
+そんな中でも勢いが衰えないのが「中国産のマイコン」です。 有名なものだとESP32や、ESP8266です。
+それに比べるとマイナーですが、WCH社のCH559やCH552、そして今回取り上げるSTC社のマイコンがあります。
+これらのマイコンは昔懐かしい8051アーキテクチャとなっており、フリーのコンパイラであるSDCCなどでバイナリを生成できます。
+紹介している記事では、このSTC社のSTC8Gというマイコンの簡単な使い方が紹介されています。
+また、この記事の作者であるakita11さんは、スイッチサイエンスでSTC8Gを搭載したマイコンボードを販売されています 。 STC8Gに興味がある方は、購入してみてはいかがでしょう？
+この製品はRAM2KB、ROM32KBと、ArduinoでおなじみのAtmega328とよく似たスペックのSTC8G2K32が搭載されています。
+一方STC8G系列のICを単品で日本で購入するためには、AliExpressやLCSCなど中国のサイトを使う必要があるので、その点は注意が必要です。</description>
+    </item>
+    
+  </channel>
+</rss>
+
