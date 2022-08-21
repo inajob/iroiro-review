@@ -5,9 +5,21 @@
     <description>Recent content in 楽器 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 21 Jul 2022 22:32:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Aug 2022 23:29:32 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%A5%BD%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32をコアとした学習用シンセ</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E5%AD%A6%E7%BF%92%E7%94%A8%E3%82%B7%E3%83%B3%E3%82%BB/</link>
+      <pubDate>Sun, 21 Aug 2022 23:29:32 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E5%AD%A6%E7%BF%92%E7%94%A8%E3%82%B7%E3%83%B3%E3%82%BB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32をコアとした学習用シンセ.jpg"&gt;CircuitMess Synthia - DIY Synth kit by CircuitMess on Tindieから発見。画像もここから転載。
+ESP32をコアとしたシンセの学習用ボードです。
+シンセをテーマにはしているものの、たくさんのボタンやつまみ、表示機が搭載され、様々なプロトタイピングで活躍しそうです。
+ </description>
+    </item>
     
     <item>
       <title>Raspberry Pi Picoをコアとした鍵盤付きのMIDIシンセサイザー</title>
@@ -116,17 +128,6 @@ Arduino互換の2.5オクターブ鍵盤を搭載したキーボードの作例�
 ONDOPHONEと呼ばれる自作の電子楽器の紹介です。
 新しい楽器というだけあって、一言では説明しづらい構造をしていますが、一種の弦楽器です。 弦をばね仕掛けのハンマーで連打したり、電磁石で弦を振動させて音を鳴らし続けたりすることが出来るようです。
 デモ動画の演奏が非常によくできているので必見です。</description>
-    </item>
-    
-    <item>
-      <title>SPIで接続できるピアノ型入力ボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/spi%E3%81%A7%E6%8E%A5%E7%B6%9A%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%94%E3%82%A2%E3%83%8E%E5%9E%8B%E5%85%A5%E5%8A%9B%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Mon, 06 Sep 2021 11:00:07 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/spi%E3%81%A7%E6%8E%A5%E7%B6%9A%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%94%E3%82%A2%E3%83%8E%E5%9E%8B%E5%85%A5%E5%8A%9B%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/piano-board.jpg"&gt;Arduino Piano Boardから発見。画像もここから転載。
-Arduinoを使って電子楽器の試作をする際に便利そうな、鍵盤状のキーパッドです。
-SPIでボタンの入力が取得できるようで、少ないGPIOで接続できるのが便利そうです。</description>
     </item>
     
   </channel>
