@@ -5,9 +5,20 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 18 Aug 2022 21:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Aug 2022 22:59:41 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>湿った指で触っていないと正しいデータが読み取れないUSBメモリ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%B9%BF%E3%81%A3%E3%81%9F%E6%8C%87%E3%81%A7%E8%A7%A6%E3%81%A3%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E3%81%A8%E6%AD%A3%E3%81%97%E3%81%84%E3%83%87%E3%83%BC%E3%82%BF%E3%81%8C%E8%AA%AD%E3%81%BF%E5%8F%96%E3%82%8C%E3%81%AA%E3%81%84usb%E3%83%A1%E3%83%A2%E3%83%AA/</link>
+      <pubDate>Mon, 22 Aug 2022 22:59:41 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%B9%BF%E3%81%A3%E3%81%9F%E6%8C%87%E3%81%A7%E8%A7%A6%E3%81%A3%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E3%81%A8%E6%AD%A3%E3%81%97%E3%81%84%E3%83%87%E3%83%BC%E3%82%BF%E3%81%8C%E8%AA%AD%E3%81%BF%E5%8F%96%E3%82%8C%E3%81%AA%E3%81%84usb%E3%83%A1%E3%83%A2%E3%83%AA/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/湿った指で触っていないと正しいデータが読み取れないUSBメモリ.jpg"&gt;USB Drive Keeps Your Secrets… As Long As Your Fingers Are Wet?から発見。画像もここから転載。
+大切なデータをUSBメモリに入れる場合、何らかのセキュリティ対策があると安心です。
+この記事で紹介しているのは「濡れた手で触っているとき」のみアクセスができるUSBメモリの作例です。 FlashメモリのICのChip Enableのピンを浮かせておき、濡れた手で触ることでアクセスできるようにしています。</description>
+    </item>
     
     <item>
       <title>TFT液晶コントローラの余ったメモリをRAMとして利用するテクニック</title>
@@ -126,21 +137,6 @@ CD-Rは書き込みを行うとCDの書き込み面の色が変化するとい�
 一番下の段に炭を入れ、階段状に展開する上の段に食材をいれて、工具箱を閉めることで、おいしいバーベキューを作ることができるようです。
 蓋を閉めて加熱することができるので、カラカラにならずにおいしいバーベキューが出来そうです。
  </description>
-    </item>
-    
-    <item>
-      <title>バナナに含まれる微量の放射性カリウムを乱数の種にするという装置</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%90%E3%83%8A%E3%83%8A%E3%81%AB%E5%90%AB%E3%81%BE%E3%82%8C%E3%82%8B%E5%BE%AE%E9%87%8F%E3%81%AE%E6%94%BE%E5%B0%84%E6%80%A7%E3%82%AB%E3%83%AA%E3%82%A6%E3%83%A0%E3%82%92%E4%B9%B1%E6%95%B0%E3%81%AE%E7%A8%AE%E3%81%AB%E3%81%99%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E8%A3%85%E7%BD%AE/</link>
-      <pubDate>Mon, 20 Jun 2022 23:52:25 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%90%E3%83%8A%E3%83%8A%E3%81%AB%E5%90%AB%E3%81%BE%E3%82%8C%E3%82%8B%E5%BE%AE%E9%87%8F%E3%81%AE%E6%94%BE%E5%B0%84%E6%80%A7%E3%82%AB%E3%83%AA%E3%82%A6%E3%83%A0%E3%82%92%E4%B9%B1%E6%95%B0%E3%81%AE%E7%A8%AE%E3%81%AB%E3%81%99%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E8%A3%85%E7%BD%AE/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/バナナに含まれる微量の放射性カリウムを乱数の種にするという装置.jpg"&gt;Yes We Have Random Bananasから発見。画像もここから転載。
-先週発見した記事でダントツに面白かったのがこれ。
-天然カリウムには一定量の放射性同位体であるカリウム40が含まれているようです。 一方バナナはカリウムを多く含む果物です。
-この2つの事実を利用して作られたのがこの、「バナナを使って真の乱数を生成する装置」です。
-プログラミングなどで乱数を扱っている人なら誰しも乱数の種（シード）の設定をどうするか悩んだことがあると思いますが、この装置があれば簡単にこの乱数の種を得ることができるというわけです。
-まぁ簡易的には、起動してからのハードウェアタイマーや、マウスの動き、ユーザがEnterを押すまでの時間など、乱数の種となる情報はたくさんありますが、これらはどれも、その仕組みがわかれば乱数列を特定されてしまう可能性があるのです。
-この装置の中に放射線を測定するガイガー管が含まれており、ATMega328Pで放射線の数を測定しているようです。</description>
     </item>
     
   </channel>
