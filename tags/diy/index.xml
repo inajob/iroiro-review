@@ -5,9 +5,24 @@
     <description>Recent content in DIY on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 10 May 2022 23:10:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Aug 2022 23:42:52 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/diy/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ラミネーターで電卓風キートップを作る技</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%A9%E3%83%9F%E3%83%8D%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%A7%E9%9B%BB%E5%8D%93%E9%A2%A8%E3%82%AD%E3%83%BC%E3%83%88%E3%83%83%E3%83%97%E3%82%92%E4%BD%9C%E3%82%8B%E6%8A%80/</link>
+      <pubDate>Wed, 24 Aug 2022 23:42:52 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%A9%E3%83%9F%E3%83%8D%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%A7%E9%9B%BB%E5%8D%93%E9%A2%A8%E3%82%AD%E3%83%BC%E3%83%88%E3%83%83%E3%83%97%E3%82%92%E4%BD%9C%E3%82%8B%E6%8A%80/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ラミネーターで電卓風キートップを作る技.jpg"&gt;verylowfreqさんのTweetから発見。画像もここから転載。
+ケースはアクリル板や3Dプリンタである程度作ることができますが、表示器やキーボード周りは既存のパーツの種類もあまりないため、市販品ほど洗練されたものは難しいです。
+そんな中で、このTweetで紹介されている手法は電卓風のキートップを作成する方法として面白いです。
+ラミネータがなくても100均などで売っている「ラミネーター風シール」を使っても同じことができるようで、この方法だと機材不要で始めることができるので、おすすめです。
+ ポケコン風基板でとりあえずBASICが動くようにした（NT-Basicを改造して使用）。RPi Picoの3V3へCR2032を接続、駆動時間は未計測。まだ記号入力がほとんど未実装なので実用ではないけど、可能性は感じる。
+キーボードはタクトスイッチの上にラミネートした紙を貼り付けてる。 pic.twitter.com/tTLiElF3eJ
+&amp;mdash; verylowfreq (@verylowfreq) June 22, 2022  </description>
+    </item>
     
     <item>
       <title>アクリル板に傷をつけて下からLEDで光を当てて看板を作る手法</title>
@@ -121,19 +136,6 @@ PVCパイプにはコイルが形成されており、電磁誘導によりス�
 アニメなどでよくみられる「眼鏡がきらっと光る」やつをDIYしている記事です。 まぁやってることは単純で、眼鏡のレンズをやすりで傷だらけにして、マスキングテープを貼り、さらにレンズの裏側にボタン電池と白色のLEDを内蔵しています。
 当然このメガネをかけていると前を見ることはできませんがなかなか面白い工作です。
 デイリーポータルZでも同じような工作の例がありましたね。</description>
-    </item>
-    
-    <item>
-      <title>ノートパソコン用の自作デュアルディスプレイ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E7%94%A8%E3%81%AE%E8%87%AA%E4%BD%9C%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</link>
-      <pubDate>Sat, 29 Aug 2020 23:00:14 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E7%94%A8%E3%81%AE%E8%87%AA%E4%BD%9C%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/laptopdoublescreen800.jpg"&gt;DUAL SCREEN LAPTOP IS A SLICK DIY BUILDから発見。画像もここから転載。
-写真の通り、ノートパソコンにくっつけられるデュアルディスプレイの紹介です。
-アルミ板、ディスプレイパネル、ドライバボード、3Dプリンタによるベゼル・ヒンジ、バッテリーなどを綺麗にまとめて、写真のような完成度の高いセカンドディスプレイを作成しています。
-ノートパソコンの上側にディスプレイを増設するというアイデアが非常に面白いです。 また、動画では細かいTipsもたくさん紹介されており、完成度が高い工作をする際の参考になります。
- </description>
     </item>
     
   </channel>

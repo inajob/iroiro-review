@@ -1,0 +1,29 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ラミネーター on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E3%83%A9%E3%83%9F%E3%83%8D%E3%83%BC%E3%82%BF%E3%83%BC/</link>
+    <description>Recent content in ラミネーター on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 24 Aug 2022 23:42:52 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%83%A9%E3%83%9F%E3%83%8D%E3%83%BC%E3%82%BF%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ラミネーターで電卓風キートップを作る技</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%A9%E3%83%9F%E3%83%8D%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%A7%E9%9B%BB%E5%8D%93%E9%A2%A8%E3%82%AD%E3%83%BC%E3%83%88%E3%83%83%E3%83%97%E3%82%92%E4%BD%9C%E3%82%8B%E6%8A%80/</link>
+      <pubDate>Wed, 24 Aug 2022 23:42:52 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%A9%E3%83%9F%E3%83%8D%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%A7%E9%9B%BB%E5%8D%93%E9%A2%A8%E3%82%AD%E3%83%BC%E3%83%88%E3%83%83%E3%83%97%E3%82%92%E4%BD%9C%E3%82%8B%E6%8A%80/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ラミネーターで電卓風キートップを作る技.jpg"&gt;verylowfreqさんのTweetから発見。画像もここから転載。
+ケースはアクリル板や3Dプリンタである程度作ることができますが、表示器やキーボード周りは既存のパーツの種類もあまりないため、市販品ほど洗練されたものは難しいです。
+そんな中で、このTweetで紹介されている手法は電卓風のキートップを作成する方法として面白いです。
+ラミネータがなくても100均などで売っている「ラミネーター風シール」を使っても同じことができるようで、この方法だと機材不要で始めることができるので、おすすめです。
+ ポケコン風基板でとりあえずBASICが動くようにした（NT-Basicを改造して使用）。RPi Picoの3V3へCR2032を接続、駆動時間は未計測。まだ記号入力がほとんど未実装なので実用ではないけど、可能性は感じる。
+キーボードはタクトスイッチの上にラミネートした紙を貼り付けてる。 pic.twitter.com/tTLiElF3eJ
+&amp;mdash; verylowfreq (@verylowfreq) June 22, 2022  </description>
+    </item>
+    
+  </channel>
+</rss>
+
