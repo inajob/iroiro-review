@@ -5,9 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 25 Aug 2022 23:17:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Aug 2022 22:49:28 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raspberry Pi Pico Wで作られたVNCクライアント</title>
+      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico-w%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9Fvnc%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/</link>
+      <pubDate>Sun, 28 Aug 2022 22:49:28 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico-w%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9Fvnc%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi Pico Wで作られたVNCクライアント.jpg"&gt;Playing Pico W With Arduino IDEから発見。画像もここから転載。
+Raspberry Pi PicoにWiFi機能が付いたバージョンである Raspberry Pi Wが発表されました。 まだ日本で利用できる、技適付きのものは販売されていないですが、徐々に利用例が出てきました。
+この記事では様々な作例を紹介していますが、印象的なのがVNCクライアントです。
+Raspberry Pi Pico Wと液晶画面をつないでいるだけの構成ですが、これでPCの画面をVNC経由で表示することが出来ています。
+パワフルなRaspberry Pi Picoに無線機能が付くことで、このようにパワフルな作例が作れるようになりました。日本でも利用できるようになる日が楽しみです。
+ </description>
+    </item>
     
     <item>
       <title>奇妙なタイヤを持つ自転車</title>
@@ -130,19 +144,6 @@ Raspberry Pi Picoはパワフルなマイコンボードで、これだけで何
 C言語のコンパイラについて、もう少し見てみると、amaccと呼ばれるコンパイラのパーサージェネレータを流用しc4と呼ばれる仮想言語機械上で動作する機械語を出力しているようです。
 viについてはBusyBoxに内蔵されているものを移植しています。
 これを使うためには何らかのシリアルコンソールにアクセスできる端末が必要ですが、その部分もRaspberry Pi Picoで実現することもそこまで難しくなさそうです。</description>
-    </item>
-    
-    <item>
-      <title>パソコンに差し込むと自己紹介が始まる名刺基板</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%81%AB%E5%B7%AE%E3%81%97%E8%BE%BC%E3%82%80%E3%81%A8%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B%E3%81%8C%E5%A7%8B%E3%81%BE%E3%82%8B%E5%90%8D%E5%88%BA%E5%9F%BA%E6%9D%BF/</link>
-      <pubDate>Sun, 14 Aug 2022 23:29:54 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%81%AB%E5%B7%AE%E3%81%97%E8%BE%BC%E3%82%80%E3%81%A8%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B%E3%81%8C%E5%A7%8B%E3%81%BE%E3%82%8B%E5%90%8D%E5%88%BA%E5%9F%BA%E6%9D%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/パソコンに差し込むと自己紹介が始まる名刺基板.jpg"&gt;Hack DigiSpark For Digital Business Cardから発見。画像もここから転載。
-USB端子を備えた名刺サイズの基板です。パソコンに差し込むことで、キーボードとして振る舞い勝手にブラウザを開いて自己紹介ページを表示します。 中身はATTiny85で作られており、おそらくV-USBの仕組みでUSB HIDとして振る舞っているようです。
-電源はUSB経由で取得するので、基板側に電源は不要です。
-面白そう、と思う反面、知らないUSB機器はパソコンに繋がない方が良いな・・と感じるガジェットです。
- </description>
     </item>
     
   </channel>
