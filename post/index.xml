@@ -5,9 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 29 Aug 2022 23:31:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Aug 2022 00:07:12 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ゆっくりと画面が切り替わる壁掛け電子ペーパー動画サイネージ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8A%E3%81%A8%E7%94%BB%E9%9D%A2%E3%81%8C%E5%88%87%E3%82%8A%E6%9B%BF%E3%82%8F%E3%82%8B%E5%A3%81%E6%8E%9B%E3%81%91%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E5%8B%95%E7%94%BB%E3%82%B5%E3%82%A4%E3%83%8D%E3%83%BC%E3%82%B8/</link>
+      <pubDate>Wed, 31 Aug 2022 00:07:12 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8A%E3%81%A8%E7%94%BB%E9%9D%A2%E3%81%8C%E5%88%87%E3%82%8A%E6%9B%BF%E3%82%8F%E3%82%8B%E5%A3%81%E6%8E%9B%E3%81%91%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E5%8B%95%E7%94%BB%E3%82%B5%E3%82%A4%E3%83%8D%E3%83%BC%E3%82%B8/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ゆっくりと画面が切り替わる壁掛け電子ペーパー動画サイネージ.jpg"&gt;Every Frame A Work Of Art With This Color Ultra-Slow Movie Playerから発見。画像もここから転載。
+ゆっくりと画面が切り替わる壁掛け電子ペーパー動画サイネージの作例です
+ディスプレイは7色のカラー電子ペーパーで、プロセッサはESP32を使っています。
+ESP32のULPを使うことで低消費電力の動作を実現しています。
+電子ペーパーは書き換えの速度が遅いことが問題になることが多いです。特にこの作例で使うようなカラーの電子ペーパーは全色書き換えるのに30sほどかかるようです。 この作例では、あえてこのゆっくりでしか書き換えられない特性を利用して、のんびりと動画を表示するというサイネージを作っています。
+インテリアとして、ふと見たときに毎回違う場面が描かれているフォトフレームというのは なかなか面白そうです。</description>
+    </item>
     
     <item>
       <title>ブートディスクであるSDカードの内容を別のPCからも読み書きできるようにするアダプタ</title>
@@ -130,19 +144,6 @@ ESP32をコアとしたシンセの学習用ボードです。
 また、この記事の作者であるakita11さんは、スイッチサイエンスでSTC8Gを搭載したマイコンボードを販売されています 。 STC8Gに興味がある方は、購入してみてはいかがでしょう？
 この製品はRAM2KB、ROM32KBと、ArduinoでおなじみのAtmega328とよく似たスペックのSTC8G2K32が搭載されています。
 一方STC8G系列のICを単品で日本で購入するためには、AliExpressやLCSCなど中国のサイトを使う必要があるので、その点は注意が必要です。</description>
-    </item>
-    
-    <item>
-      <title>良い雰囲気の6502を搭載したモバイルコンピュータ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E8%89%AF%E3%81%84%E9%9B%B0%E5%9B%B2%E6%B0%97%E3%81%AE6502%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF/</link>
-      <pubDate>Tue, 16 Aug 2022 23:20:07 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E8%89%AF%E3%81%84%E9%9B%B0%E5%9B%B2%E6%B0%97%E3%81%AE6502%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/良い雰囲気の6502を搭載したモバイルコンピュータ.jpg"&gt;PERSEUS-9 homemade mobile 6502 computerから発見。画像もここから転載。
-レトロコンピュータの復刻版のプロジェクトは数多くありますが、この記事で紹介する6502搭載のモバイルコンピュータは外観に非常にこだわりを感じるものです。
-金属製の筐体はタカチのアルミダイキャストケースHQ-26-18-6Nという既製品です。 コンソール表示には1文字ずつHCMS-2912というドットマトリクスLEDを利用しています。
-6502を搭載したモバイルコンピュータ。キースイッチ、表示用のドットマトリクスLED、金属筐体、どれをとっても素晴らしい。
- </description>
     </item>
     
   </channel>
