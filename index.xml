@@ -5,9 +5,25 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 31 Aug 2022 00:07:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Aug 2022 22:23:22 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ノートブックにブレッドボードをマウントできるホルダー</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%96%E3%83%83%E3%82%AF%E3%81%AB%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC/</link>
+      <pubDate>Wed, 31 Aug 2022 22:23:22 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%96%E3%83%83%E3%82%AF%E3%81%AB%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ノートブックにブレッドボードをマウントできるホルダー.jpg"&gt;【3Dプリント作品】ノートブックにブレッドボードをマウントできるホルダーつくってみたから発見。画像もここから転載。
+Arduinoなどを用いた電子工作の際、パソコンと開発ボードを接続して開発するわけですが、その取り回しが面倒になることが良くあります。
+そんな時にノートパソコンにブレッドボードがついていればよいのに・・と思うこともあります。
+(以下のような製品もあります)
+ この記事で紹介しているのでノートパソコンのディスプレイの縁にブレッドボードを固定する治具です。 これならスタバでも組み込み開発できますね！
+そういえば自分も、似たようなものを作ったことがありました
+とても便利なものを作ってしまった。#3Dプリンター pic.twitter.com/2FyVfKvWXt
+&amp;mdash; ina_ani@2歳児のパパ (@ina_ani) August 4, 2021  </description>
+    </item>
     
     <item>
       <title>ゆっくりと画面が切り替わる壁掛け電子ペーパー動画サイネージ</title>
@@ -127,23 +143,6 @@ ESP32をコアとしたシンセの学習用ボードです。
 マイコンのRAMは限られているため、場合によっては外付けのRAMを取り付けることも珍しくありません。
 この記事で紹介しているのは、TFT液晶のコントローラのメモリの利用していない領域を汎用メモリとして利用するというテクニックです。 特に8色モードとしている場合は、各ピクセルごとに15ビットメモリが余るので、かなりの容量が確保できるようです。
 </description>
-    </item>
-    
-    <item>
-      <title>半導体不足ということで注目したいSTC8Gマイコン</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%8D%8A%E5%B0%8E%E4%BD%93%E4%B8%8D%E8%B6%B3%E3%81%A8%E3%81%84%E3%81%86%E3%81%93%E3%81%A8%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%81%97%E3%81%9F%E3%81%84stc8g%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3/</link>
-      <pubDate>Wed, 17 Aug 2022 23:29:32 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%8D%8A%E5%B0%8E%E4%BD%93%E4%B8%8D%E8%B6%B3%E3%81%A8%E3%81%84%E3%81%86%E3%81%93%E3%81%A8%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%81%97%E3%81%9F%E3%81%84stc8g%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/半導体不足ということで注目したいSTC8Gマイコン.jpg"&gt;STCmicroのマイコンSTC8Gを使ってみた｜akita11｜noteから発見。画像もここから転載。
-半導体不足ということでここしばらくは、STM32やAVRといった電子工作でおなじみのマイコンの入手が難しい状況が続いています。
-そんな中でも勢いが衰えないのが「中国産のマイコン」です。 有名なものだとESP32や、ESP8266です。
-それに比べるとマイナーですが、WCH社のCH559やCH552、そして今回取り上げるSTC社のマイコンがあります。
-これらのマイコンは昔懐かしい8051アーキテクチャとなっており、フリーのコンパイラであるSDCCなどでバイナリを生成できます。
-紹介している記事では、このSTC社のSTC8Gというマイコンの簡単な使い方が紹介されています。
-また、この記事の作者であるakita11さんは、スイッチサイエンスでSTC8Gを搭載したマイコンボードを販売されています 。 STC8Gに興味がある方は、購入してみてはいかがでしょう？
-この製品はRAM2KB、ROM32KBと、ArduinoでおなじみのAtmega328とよく似たスペックのSTC8G2K32が搭載されています。
-一方STC8G系列のICを単品で日本で購入するためには、AliExpressやLCSCなど中国のサイトを使う必要があるので、その点は注意が必要です。</description>
     </item>
     
   </channel>
