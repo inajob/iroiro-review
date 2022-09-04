@@ -5,9 +5,36 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 01 Sep 2022 22:45:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Sep 2022 23:03:13 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>LED</title>
+      <link>https://inajob.github.io/iroiro-review/tags/led/</link>
+      <pubDate>Sun, 04 Sep 2022 23:03:13 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/led/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>QRコード</title>
+      <link>https://inajob.github.io/iroiro-review/tags/qr%E3%82%B3%E3%83%BC%E3%83%89/</link>
+      <pubDate>Sun, 04 Sep 2022 23:03:13 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/qr%E3%82%B3%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>時計</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E6%99%82%E8%A8%88/</link>
+      <pubDate>Sun, 04 Sep 2022 23:03:13 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E6%99%82%E8%A8%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>HACK</title>
@@ -69,33 +96,6 @@
       <pubDate>Sun, 28 Aug 2022 22:49:28 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>Raspberry Pi Pico W</title>
-      <link>https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico-w/</link>
-      <pubDate>Sun, 28 Aug 2022 22:49:28 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico-w/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>VNC</title>
-      <link>https://inajob.github.io/iroiro-review/tags/vnc/</link>
-      <pubDate>Sun, 28 Aug 2022 22:49:28 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/vnc/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>自転車</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E8%87%AA%E8%BB%A2%E8%BB%8A/</link>
-      <pubDate>Thu, 25 Aug 2022 23:17:33 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E8%87%AA%E8%BB%A2%E8%BB%8A/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     

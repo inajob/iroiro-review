@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 01 Sep 2022 22:45:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Sep 2022 23:03:13 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>LEDでQRコードを表示する時計</title>
+      <link>https://inajob.github.io/iroiro-review/post/led%E3%81%A7qr%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B%E6%99%82%E8%A8%88/</link>
+      <pubDate>Sun, 04 Sep 2022 23:03:13 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/led%E3%81%A7qr%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B%E6%99%82%E8%A8%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/LEDでQRコードを表示する時計.jpg"&gt;LED Clock Uses Micro QR Codes To Show The Timeから発見。画像もここから転載。
+ユニークな表示の時計は数多くありますが、この記事で紹介しているのはQRコードで時間を表示する時計です。 アイデアはまぁよくあるものですが、ドットマトリクスのLEDを使ってQRコードを表現しているのが面白いです。
+周辺の固定の模様はマジックで記載し、可変部分だけを90個の白色LEDのマトリクスで表現しています。
+このQRコードの形式で10桁を表現することが出来ます。</description>
+    </item>
     
     <item>
       <title>蜘蛛の死骸をロボットアームとして流用するHACK</title>
@@ -132,18 +144,6 @@ Very happy about this. pic.twitter.com/1FofmKbqJP
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/湿った指で触っていないと正しいデータが読み取れないUSBメモリ.jpg"&gt;USB Drive Keeps Your Secrets… As Long As Your Fingers Are Wet?から発見。画像もここから転載。
 大切なデータをUSBメモリに入れる場合、何らかのセキュリティ対策があると安心です。
 この記事で紹介しているのは「濡れた手で触っているとき」のみアクセスができるUSBメモリの作例です。 FlashメモリのICのChip Enableのピンを浮かせておき、濡れた手で触ることでアクセスできるようにしています。</description>
-    </item>
-    
-    <item>
-      <title>ESP32をコアとした学習用シンセ</title>
-      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E5%AD%A6%E7%BF%92%E7%94%A8%E3%82%B7%E3%83%B3%E3%82%BB/</link>
-      <pubDate>Sun, 21 Aug 2022 23:29:32 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E5%AD%A6%E7%BF%92%E7%94%A8%E3%82%B7%E3%83%B3%E3%82%BB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32をコアとした学習用シンセ.jpg"&gt;CircuitMess Synthia - DIY Synth kit by CircuitMess on Tindieから発見。画像もここから転載。
-ESP32をコアとしたシンセの学習用ボードです。
-シンセをテーマにはしているものの、たくさんのボタンやつまみ、表示機が搭載され、様々なプロトタイピングで活躍しそうです。
- </description>
     </item>
     
   </channel>
