@@ -5,9 +5,27 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 04 Sep 2022 23:03:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Sep 2022 23:25:36 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Arduino</title>
+      <link>https://inajob.github.io/iroiro-review/tags/arduino/</link>
+      <pubDate>Mon, 05 Sep 2022 23:25:36 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/arduino/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>開発ボード</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Mon, 05 Sep 2022 23:25:36 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>LED</title>
@@ -78,24 +96,6 @@
       <pubDate>Mon, 29 Aug 2022 23:31:15 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/sbc/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>SDカード</title>
-      <link>https://inajob.github.io/iroiro-review/tags/sd%E3%82%AB%E3%83%BC%E3%83%89/</link>
-      <pubDate>Mon, 29 Aug 2022 23:31:15 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/sd%E3%82%AB%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>Raspberry Pi Pico</title>
-      <link>https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico/</link>
-      <pubDate>Sun, 28 Aug 2022 22:49:28 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     

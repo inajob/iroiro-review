@@ -5,9 +5,22 @@
     <description>Recent content in 開発ボード on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 22 Jun 2022 23:19:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Sep 2022 23:25:36 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>現代的な設計で作り直したArduino互換ボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%8F%BE%E4%BB%A3%E7%9A%84%E3%81%AA%E8%A8%AD%E8%A8%88%E3%81%A7%E4%BD%9C%E3%82%8A%E7%9B%B4%E3%81%97%E3%81%9Farduino%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Mon, 05 Sep 2022 23:25:36 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%8F%BE%E4%BB%A3%E7%9A%84%E3%81%AA%E8%A8%AD%E8%A8%88%E3%81%A7%E4%BD%9C%E3%82%8A%E7%9B%B4%E3%81%97%E3%81%9Farduino%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/現代的な設計で作り直したArduino互換ボード.jpg"&gt;DIY Arduino UNO PRO Versionから発見。画像もここから転載。
+Arduino、特にArduino UNOは、かなり完成された製品で、今もなお多く利用されていますが、利用しているとたくさんの改良案が浮かんできます。
+この記事で紹介しているのは、そんなArduino UNOの改善案をふんだんに盛り込んだPRO版のArduino UNO互換機です。
+ざっと見たところ以下のような特徴があります
+ コネクタがUSB Type-C ピンソケットの内側にピンヘッダが配置されている シリアル接続用のソケットが用意されている DCジャック用のソケットがない 良く使うOLEDや無線モジュール用のソケットが用意されている  こういうのを見ると自分も、自部の考えた「最強のArduino UNO」を設計してみたくなりますね。</description>
+    </item>
     
     <item>
       <title>AVR64DB32を搭載した開発ボード</title>
@@ -154,20 +167,6 @@ ATtiny3217というICを使った開発ボードです。聞きなれない型�
 しかし、プロトタイピングボードにバッテリーの充電機能が付いていればどうでしょう？
 この記事で紹介しているマイコンボードはSTM32チップを搭載し、充電IC、USB端子、フラッシュメモリ、18650バッテリーをマウントするための金具・・と、ちょっとしたガジェットを作る際に必要な機能がすべて実装済みです。
 携帯型のガジェットを試作する際などに非常に役に立ちそうな開発ボードだと感じました。</description>
-    </item>
-    
-    <item>
-      <title>定番の小型ATMega32u4ボード「Beetle」</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%AE%9A%E7%95%AA%E3%81%AE%E5%B0%8F%E5%9E%8Batmega32u4%E3%83%9C%E3%83%BC%E3%83%89beetle/</link>
-      <pubDate>Sun, 12 Sep 2021 12:00:37 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%AE%9A%E7%95%AA%E3%81%AE%E5%B0%8F%E5%9E%8Batmega32u4%E3%83%9C%E3%83%BC%E3%83%89beetle/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/beetle.jpg"&gt;BEETLE – THE SMALLEST ARDUINO FOR $7.9から発見。画像もここから転載。
-中国市場にはある程度「定番」のマイコンボードというものがあります。
-DFRobot社の作るこの「Beetle」と呼ばれる超小型の開発ボードもその一つです。
-プロセッサはATMega32u4を利用しており、Arduino Leonardo互換のブートローダを利用することでUSB書き込みにも対応します。
-引き出されているGPIOピンが少ないのがちょっとネックですが、このサイズで書き込み機能まであるというのは魅力です。
-また定番ボードということで似たような小型ボードが出回っています。（互換品の品質はお察し・・の物あるので、まずは本家から買うのが良いと思います）</description>
     </item>
     
   </channel>
