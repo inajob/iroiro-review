@@ -5,9 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 08 Sep 2022 22:45:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Sep 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>携帯できるアーケードゲームコントローラ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%90%BA%E5%B8%AF%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9/</link>
+      <pubDate>Sun, 11 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%90%BA%E5%B8%AF%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-reviewimg/mobile-gamepad.jpg"&gt;3D PRINTED PORTABLE ARCADE CONTROLLERから発見。画像もここから転載。
+蓋つきのケースの中に収納されたアーケードゲームゲームコントローラの作例です。
+蓋つきのケースは市販のものを利用し、コントローラは、その中に内蓋のような構造で収納されています。
+内蓋とそれを支える柱は3Dプリントされており、ここにスイッチやジョイスティック、マイコンを固定しています。そのため、PCBは不要です。
+マイコンボードとしてはArduino Pro Microを使っています。
+気軽にアーケード気分が味わいたいときにさっと持っていくことが出来る素敵なコントローラーに仕上がっています。
+</description>
+    </item>
     
     <item>
       <title>Raspberry Pi Pico Wを使ったWebAPIを持つ小型ディスプレイ</title>
@@ -128,20 +143,6 @@ Raspberry Piなどのシングルボードコンピュータ(SBC)の多くはSD�
 これらのボード向けのOSをカスタマイズするなどの試行錯誤の際は、SDカードへの書き込みを何度も実施することになりますが、そのためにSDカードを抜き差しする作業が意外と面倒です。
 この記事で紹介しているのは、横からUSBでアクセスする機能を持ったmicroSDカード型のアダプタです。
 こういうツールがあるとSBC開発がかなりはかどりそうです。</description>
-    </item>
-    
-    <item>
-      <title>Raspberry Pi Pico Wで作られたVNCクライアント</title>
-      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico-w%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9Fvnc%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/</link>
-      <pubDate>Sun, 28 Aug 2022 22:49:28 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico-w%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9Fvnc%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi Pico Wで作られたVNCクライアント.jpg"&gt;Playing Pico W With Arduino IDEから発見。画像もここから転載。
-Raspberry Pi PicoにWiFi機能が付いたバージョンである Raspberry Pi Wが発表されました。 まだ日本で利用できる、技適付きのものは販売されていないですが、徐々に利用例が出てきました。
-この記事では様々な作例を紹介していますが、印象的なのがVNCクライアントです。
-Raspberry Pi Pico Wと液晶画面をつないでいるだけの構成ですが、これでPCの画面をVNC経由で表示することが出来ています。
-パワフルなRaspberry Pi Picoに無線機能が付くことで、このようにパワフルな作例が作れるようになりました。日本でも利用できるようになる日が楽しみです。
- </description>
     </item>
     
   </channel>
