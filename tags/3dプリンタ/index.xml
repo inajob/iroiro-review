@@ -5,9 +5,24 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 11 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Sep 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタ台としてコンクリートブロックを用いるHACK</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E5%8F%B0%E3%81%A8%E3%81%97%E3%81%A6%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%82%92%E7%94%A8%E3%81%84%E3%82%8Bhack/</link>
+      <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E5%8F%B0%E3%81%A8%E3%81%97%E3%81%A6%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%82%92%E7%94%A8%E3%81%84%E3%82%8Bhack/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3dprint-concrete-base.png"&gt;BRICKING YOUR 3D PRINTER, IN A GOOD WAYから発見。画像もここから転載。
+3Dプリンターを置く場所というのは、印刷精度や、騒音にかかわってきます。
+ぐらぐら揺れるような台では、本体が振動してしまい、印刷精度も悪くなります。また台と3Dプリンタが振動することにより騒音も大きくなります。
+この記事では、3Dプリンタを置く台として、重量のあるコンクリートブロックを提案しています。
+コンクリートブロックと、その下にショック吸収用のスポンジのような物を挟むことで、印刷精度の向上と、騒音の低下ができる、という事のようです。
+少しでも良い性能で印刷したい人は、ホームセンターでコンクリートブロックを買ってきましょう！
+</description>
+    </item>
     
     <item>
       <title>携帯できるアーケードゲームコントローラ</title>
@@ -128,19 +143,6 @@ UIもカセットを意識しており、巻き戻しなどを直感的に行う
 プロとタイピングするときには完成度の高さよりも、迅速に試行錯誤できることの方が求められます。
 この記事で紹介しているのが「ぐるぐる回る何か」をプロトタイピングするのに便利そうな3Dプリンター製のケースです。
 ギア付きのDCモーターとボリューム付きのモーター制御基板をを取り付けることができ、「ぐるぐる回る何か」を作る際の便利なパーツとなりそうです。
- </description>
-    </item>
-    
-    <item>
-      <title>ESP8266で作られた電光掲示板</title>
-      <link>https://inajob.github.io/iroiro-review/post/esp8266%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E9%9B%BB%E5%85%89%E6%8E%B2%E7%A4%BA%E6%9D%BF/</link>
-      <pubDate>Thu, 16 Jun 2022 23:51:43 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/esp8266%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E9%9B%BB%E5%85%89%E6%8E%B2%E7%A4%BA%E6%9D%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP8266で作られた電光掲示板.jpg"&gt;ESP8266 Led Matrix Clock, Weather, News, Bitcionから発見。画像もここから転載。
-ESP8266で作られた電光掲示板の作例です。
-3Dプリンタで作られたドット状の仕切りのおかげでスタイリッシュな見た目となっています。
-ドットマトリクスLEDはMAX7219で制御できるモジュールを4個並べています。 もともと4個並んだ製品がありますが、それらは8x8のドットマトリクスLEDの間に少し隙間があるので、一度切断して、再度隙間なく並べ直すというこだわりっぷりです。
  </description>
     </item>
     
