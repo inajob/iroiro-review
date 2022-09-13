@@ -5,9 +5,22 @@
     <description>Recent content in Arduino on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 11 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Sep 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>見た目はRaspberry Pi ZeroなArduino互換ボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AFraspberry-pi-zero%E3%81%AAarduino%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AFraspberry-pi-zero%E3%81%AAarduino%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/cricket-one.jpg"&gt;Cricket ONE (beta)から発見。画像もここから転載。
+Raspberry Pi Zeroと同じサイズ、同じピンヘッダを備えた、Arduinoです。
+コアとなるICはATmega328PBで、普通のArduino UNOなどと同じように利用できそうです。
+ATmega328PBはATmega328Pよりも4つ多くのGPIOを持っていますが、それらも利用できるようです。
+Rarspberry Pi Zeroのケースや、HATなどの周辺機器を利用できるので、なかなか使い勝手がよさそうです。</description>
+    </item>
     
     <item>
       <title>携帯できるアーケードゲームコントローラ</title>
@@ -121,20 +134,6 @@ I2CでMIDI信号を伝えるというテクニックをまとめたブログ記�
 人のセンシングには焦電センサーを用い、Arduinoでセンサーの値を読み取り、サーボモーターを動かして、マスクの開閉を行っています。
 焦電センサーは自身が止まっているときはうまく動くようですが、歩いていたりすると誤検知が多いようです。 しかし、このアイデア自体は非常に面白いです。
  </description>
-    </item>
-    
-    <item>
-      <title>スマートフォンをそのまま使った2足歩行ロボット</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%82%92%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BE%E4%BD%BF%E3%81%A3%E3%81%9F2%E8%B6%B3%E6%AD%A9%E8%A1%8C%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</link>
-      <pubDate>Mon, 21 Feb 2022 23:00:19 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%82%92%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BE%E4%BD%BF%E3%81%A3%E3%81%9F2%E8%B6%B3%E6%AD%A9%E8%A1%8C%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/smartphone-robot.jpg"&gt;Arduino robot controlled by Android smartphoneから発見。画像もここから転載。
-スマートフォンを頭脳とした2足歩行ロボットです。
-スマートフォンはそのまま置いてあるだけで、Bluetooth経由で2足の脚を制御しています。
-スマートフォン側で動くプログラムが画像認識したり、音声認識をしたりと複雑な制御を実現しています。
-複雑な処理をスマートフォンに丸投げするというのはなかなか良いアプローチのように思いました。
-</description>
     </item>
     
   </channel>

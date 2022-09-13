@@ -5,9 +5,22 @@
     <description>Recent content in RaspberryPi on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 23 Jun 2022 23:14:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Sep 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/raspberrypi/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>見た目はRaspberry Pi ZeroなArduino互換ボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AFraspberry-pi-zero%E3%81%AAarduino%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AFraspberry-pi-zero%E3%81%AAarduino%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/cricket-one.jpg"&gt;Cricket ONE (beta)から発見。画像もここから転載。
+Raspberry Pi Zeroと同じサイズ、同じピンヘッダを備えた、Arduinoです。
+コアとなるICはATmega328PBで、普通のArduino UNOなどと同じように利用できそうです。
+ATmega328PBはATmega328Pよりも4つ多くのGPIOを持っていますが、それらも利用できるようです。
+Rarspberry Pi Zeroのケースや、HATなどの周辺機器を利用できるので、なかなか使い勝手がよさそうです。</description>
+    </item>
     
     <item>
       <title>Raspberry Pi 400にディスプレイとスピーカーを搭載するための拡張ボード</title>
@@ -142,19 +155,6 @@ Twitterを表示してみた例（ちょっと小さくて読みづらいかな�
 世界崩壊後を意識しているというこのRaspberryPiコンソールは、バッテリー搭載はもちろんのこと、様々な電源ソースから稼働できるようになっており、その中にはサバイバルガイドや農業のためのドキュメント、Wikipediaの全データなどが収められています。
 こういうコンセプトがしっかりとした作例は特徴があって面白いですね。
  </description>
-    </item>
-    
-    <item>
-      <title>Raspberry Pi Zeroをコントローラとした自作キーボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-zero%E3%82%92%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%81%A8%E3%81%97%E3%81%9F%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Tue, 20 Jul 2021 13:00:53 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-zero%E3%82%92%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%81%A8%E3%81%97%E3%81%9F%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/pi-keyboardjpg.jpg"&gt;Cherry Pi Split Mechanical Keyboardから発見。画像もここから転載（CC BY-NC-SA By Gosse Adema）。
-自作キーボードの作例は数多くありますが、この記事で紹介しているのは、Raspberry Pi Zeroをコントローラにしているという点でちょっと変わっています。
-Raspberry Pi ZeroのUSB Deviceとしての機能を使うことで様々な周辺機器を自作することが出来るようです。
-この記事のキーボードはマウスとしての機能も持っているようで、複合デバイスとして動作するように設定しています。
-まずCNCでテスト基板を作り、その後PCBを発注し、3Dプリンタでケースを作り、レーザーカッターでショック吸収用のスポンジを切り、、と様々なデジタルファブリケーションのテクニックを駆使してキーボードを作る様子が紹介されているので、自作キーボードづくりを始めたい人には非常に参考になりそうな記事です。</description>
     </item>
     
   </channel>

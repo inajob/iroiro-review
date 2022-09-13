@@ -5,9 +5,22 @@
     <description>Recent content in 開発ボード on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 05 Sep 2022 23:25:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Sep 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>見た目はRaspberry Pi ZeroなArduino互換ボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AFraspberry-pi-zero%E3%81%AAarduino%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AFraspberry-pi-zero%E3%81%AAarduino%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/cricket-one.jpg"&gt;Cricket ONE (beta)から発見。画像もここから転載。
+Raspberry Pi Zeroと同じサイズ、同じピンヘッダを備えた、Arduinoです。
+コアとなるICはATmega328PBで、普通のArduino UNOなどと同じように利用できそうです。
+ATmega328PBはATmega328Pよりも4つ多くのGPIOを持っていますが、それらも利用できるようです。
+Rarspberry Pi Zeroのケースや、HATなどの周辺機器を利用できるので、なかなか使い勝手がよさそうです。</description>
+    </item>
     
     <item>
       <title>現代的な設計で作り直したArduino互換ボード</title>
@@ -154,19 +167,6 @@ AliExpressなどで、このSTCマイコンを学習できるボードが販売�
 ATtiny3217というICを使った開発ボードです。聞きなれない型番ですが、Arduino UNOなどに使われているATmega328Pとほぼ同じ性能です。32KのROMに2KのRAM、GPIOが21個、さらにATmega328には無かった8bit DACの機能も搭載されています。
 開発ボードの真ん中に一列にふらふらとピンが並んでいますが、このフラフラした並びがポイントで、これによりピンヘッダをはんだ付けせずに固定することが出来るようです。簡易的に書き込み装置をつなげる場合に便利に利用できます。
 水晶発振子は搭載されていないので、クロックの精度が悪いので注意が必要です。</description>
-    </item>
-    
-    <item>
-      <title>バッテリーチャージャーを搭載した18650サイズのマイコンボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F18650%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Wed, 15 Sep 2021 13:00:34 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F18650%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/thunderpack.jpg"&gt;Thunder Packから発見。画像もここから転載。
-プロトタイピングから実際の製品に落とし込んでいく中で「バッテリー」が必要となるフェーズが出てきたときに、いくつかのモジュールを組み合わせてバッテリー駆動の実験を行うことはよくあります。
-しかし、プロトタイピングボードにバッテリーの充電機能が付いていればどうでしょう？
-この記事で紹介しているマイコンボードはSTM32チップを搭載し、充電IC、USB端子、フラッシュメモリ、18650バッテリーをマウントするための金具・・と、ちょっとしたガジェットを作る際に必要な機能がすべて実装済みです。
-携帯型のガジェットを試作する際などに非常に役に立ちそうな開発ボードだと感じました。</description>
     </item>
     
   </channel>
