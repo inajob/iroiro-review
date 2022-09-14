@@ -5,9 +5,20 @@
     <description>Recent content in Arduino on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 13 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Sep 2022 23:23:46 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AVR128DB28のArduino Nanoサイズの開発ボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/avr128db28%E3%81%AEarduino-nano%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Wed, 14 Sep 2022 23:23:46 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/avr128db28%E3%81%AEarduino-nano%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/AVR128DB28のArduino Nanoサイズの開発ボード.jpg"&gt;AVR128DB development board - &amp;lsquo;nano&amp;rsquo; style by ArduinoShop on Tindieから発見。画像もここから転載。
+AVR128DB28のArduino Nanoサイズの開発ボードです。
+AVR128DB28は、Flashは128KByte, RAMは16KBとリッチなメモリを搭載しています。 DIPパッケージもあるようで、趣味の電子工作で活用できそうなマイコンです。</description>
+    </item>
     
     <item>
       <title>見た目はRaspberry Pi ZeroなArduino互換ボード</title>
@@ -119,20 +130,6 @@ OLEDをそのまま取り付けられるピンヘッダが用意されており�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/I2CでMIDI出力をする実験.jpg"&gt;You Can Send MIDI Over I2C If You Really Need Toから発見。画像もここから転載。
 I2CでMIDI信号を伝えるというテクニックをまとめたブログ記事の紹介です。
 始めの記事では、DFRobot社のI2C to dual UARTモジュールを使いArduino UNOからI2C経由でMIDI信号を2つ分出力しています。 その後、複数のArduinoをI2Cでつなげる方法や、RaspberryPiPicoを司令塔とするデモなど、様々な実験が紹介されています。
- </description>
-    </item>
-    
-    <item>
-      <title>周りに人がいる時だけ閉じるマスク</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%91%A8%E3%82%8A%E3%81%AB%E4%BA%BA%E3%81%8C%E3%81%84%E3%82%8B%E6%99%82%E3%81%A0%E3%81%91%E9%96%89%E3%81%98%E3%82%8B%E3%83%9E%E3%82%B9%E3%82%AF/</link>
-      <pubDate>Thu, 10 Mar 2022 23:30:16 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%91%A8%E3%82%8A%E3%81%AB%E4%BA%BA%E3%81%8C%E3%81%84%E3%82%8B%E6%99%82%E3%81%A0%E3%81%91%E9%96%89%E3%81%98%E3%82%8B%E3%83%9E%E3%82%B9%E3%82%AF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/auto-shy-mask.jpg"&gt;Shy Mask That Shuts Up When It Sees Peopleから発見。画像もここから転載（CC BY-NC-SA bý Friedlc）。
-コロナの影響で外出時はマスクをつけるというのが常識になりつつありますが、よく考えてみると、周りに人がいない状態の時はマスクをつける必要な無いように思います。
-この記事ではそんなアイデアを基に、人が周りにいる時だけマスクをかけるというガジェットを自作しています。
-人のセンシングには焦電センサーを用い、Arduinoでセンサーの値を読み取り、サーボモーターを動かして、マスクの開閉を行っています。
-焦電センサーは自身が止まっているときはうまく動くようですが、歩いていたりすると誤検知が多いようです。 しかし、このアイデア自体は非常に面白いです。
  </description>
     </item>
     
