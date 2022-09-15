@@ -5,9 +5,21 @@
     <description>Recent content in ESP32 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 31 Aug 2022 00:07:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Sep 2022 15:09:55 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/esp32/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32性の小型のビデオプレイヤー</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32%E6%80%A7%E3%81%AE%E5%B0%8F%E5%9E%8B%E3%81%AE%E3%83%93%E3%83%87%E3%82%AA%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC/</link>
+      <pubDate>Thu, 15 Sep 2022 15:09:55 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32%E6%80%A7%E3%81%AE%E5%B0%8F%E5%9E%8B%E3%81%AE%E3%83%93%E3%83%87%E3%82%AA%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32性の小型のビデオプレイヤー.jpg"&gt;This Simple Media Player Will Inspire Beginners And Invite Experimentationから発見。画像もここから転載。
+ESP32性の小型のビデオプレイヤーの作例です。
+映像の処理速度の関係からMotionJPEG形式を利用しているようです。 ESP32の開発ボードを表面実装風に取り付ける手法も特徴的です。 基板むき出しのデザインが無骨ですがかっこいいです。
+ </description>
+    </item>
     
     <item>
       <title>ゆっくりと画面が切り替わる壁掛け電子ペーパー動画サイネージ</title>
@@ -126,20 +138,6 @@ UIもカセットを意識しており、巻き戻しなどを直感的に行う
 M5Stackを使ったインターネットラジオ端末の作例です。
 WiFi経由でインターネットにつながる環境があれば、132局のラジオを選んで聞くことができるようです。
 画面に表示されるスペクトラムアナライザーもかっこいいです。</description>
-    </item>
-    
-    <item>
-      <title>ESP32で動くよう改造されたOpenCV</title>
-      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%81%A7%E5%8B%95%E3%81%8F%E3%82%88%E3%81%86%E6%94%B9%E9%80%A0%E3%81%95%E3%82%8C%E3%81%9Fopencv/</link>
-      <pubDate>Tue, 14 Jun 2022 22:30:45 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%81%A7%E5%8B%95%E3%81%8F%E3%82%88%E3%81%86%E6%94%B9%E9%80%A0%E3%81%95%E3%82%8C%E3%81%9Fopencv/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32で動くよう改造されたOpenCV.jpg"&gt;OpenCV Running On A Tiny Microcontrollerから発見。画像もここから転載。
-ESP32でOpenCVを動かした話です。
-そのまま動作させるのはパフォーマンス的に難しかったようで様々な改造を行っているようです。
-Raspberry Piや他のLinuxが動作するボードなどの方がパワフルですが、ESP32はこれらに比べると非常に安価なので、この性能で事足りる場合は試してみる価値はありそうです。
-この成果はGitHubにて公開されています
- </description>
     </item>
     
   </channel>
