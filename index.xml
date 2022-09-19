@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 15 Sep 2022 15:09:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Sep 2022 23:34:43 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>電話型MIDI鍵盤</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E8%A9%B1%E5%9E%8Bmidi%E9%8D%B5%E7%9B%A4/</link>
+      <pubDate>Mon, 19 Sep 2022 23:34:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E8%A9%B1%E5%9E%8Bmidi%E9%8D%B5%E7%9B%A4/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/電話型MIDI鍵盤.jpg"&gt;Touch Tone MIDI Phone And Vocoder Covers Daft Punkから発見。画像もここから転載。
+プッシュ式の電話機を改造してMIDI出力を行う作例です。
+受話器はボコーダーとなっており、電話をしているようなスタイルで演奏できます。
+不思議な演奏風景ですが、ちょっと触ってみたくなる印象的な作例です。
+ </description>
+    </item>
     
     <item>
       <title>ESP32性の小型のビデオプレイヤー</title>
@@ -125,19 +138,6 @@ Arduino、特にArduino UNOは、かなり完成された製品で、今もな�
 この記事で紹介しているのは、そんなArduino UNOの改善案をふんだんに盛り込んだPRO版のArduino UNO互換機です。
 ざっと見たところ以下のような特徴があります
  コネクタがUSB Type-C ピンソケットの内側にピンヘッダが配置されている シリアル接続用のソケットが用意されている DCジャック用のソケットがない 良く使うOLEDや無線モジュール用のソケットが用意されている  こういうのを見ると自分も、自部の考えた「最強のArduino UNO」を設計してみたくなりますね。</description>
-    </item>
-    
-    <item>
-      <title>LEDでQRコードを表示する時計</title>
-      <link>https://inajob.github.io/iroiro-review/post/led%E3%81%A7qr%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B%E6%99%82%E8%A8%88/</link>
-      <pubDate>Sun, 04 Sep 2022 23:03:13 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/led%E3%81%A7qr%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B%E6%99%82%E8%A8%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/LEDでQRコードを表示する時計.jpg"&gt;LED Clock Uses Micro QR Codes To Show The Timeから発見。画像もここから転載。
-ユニークな表示の時計は数多くありますが、この記事で紹介しているのはQRコードで時間を表示する時計です。 アイデアはまぁよくあるものですが、ドットマトリクスのLEDを使ってQRコードを表現しているのが面白いです。
-周辺の固定の模様はマジックで記載し、可変部分だけを90個の白色LEDのマトリクスで表現しています。
-このQRコードの形式で10桁を表現することが出来ます。
-【電子工作】QRな時計を作ってみた </description>
     </item>
     
   </channel>

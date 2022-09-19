@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>電話 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E9%9B%BB%E8%A9%B1/</link>
+    <description>Recent content in 電話 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Mon, 19 Sep 2022 23:34:43 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%9B%BB%E8%A9%B1/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>電話型MIDI鍵盤</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E8%A9%B1%E5%9E%8Bmidi%E9%8D%B5%E7%9B%A4/</link>
+      <pubDate>Mon, 19 Sep 2022 23:34:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E8%A9%B1%E5%9E%8Bmidi%E9%8D%B5%E7%9B%A4/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/電話型MIDI鍵盤.jpg"&gt;Touch Tone MIDI Phone And Vocoder Covers Daft Punkから発見。画像もここから転載。
+プッシュ式の電話機を改造してMIDI出力を行う作例です。
+受話器はボコーダーとなっており、電話をしているようなスタイルで演奏できます。
+不思議な演奏風景ですが、ちょっと触ってみたくなる印象的な作例です。
+ </description>
+    </item>
+    
+  </channel>
+</rss>
+
