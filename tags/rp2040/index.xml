@@ -5,9 +5,26 @@
     <description>Recent content in RP2040 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 31 May 2022 22:05:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Sep 2022 22:21:25 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/rp2040/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>微妙に違うピン配置のRP2040ボードのピン配置を正すアダプタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%BE%AE%E5%A6%99%E3%81%AB%E9%81%95%E3%81%86%E3%83%94%E3%83%B3%E9%85%8D%E7%BD%AE%E3%81%AErp2040%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AE%E3%83%94%E3%83%B3%E9%85%8D%E7%BD%AE%E3%82%92%E6%AD%A3%E3%81%99%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF/</link>
+      <pubDate>Wed, 21 Sep 2022 22:21:25 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%BE%AE%E5%A6%99%E3%81%AB%E9%81%95%E3%81%86%E3%83%94%E3%83%B3%E9%85%8D%E7%BD%AE%E3%81%AErp2040%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AE%E3%83%94%E3%83%B3%E9%85%8D%E7%BD%AE%E3%82%92%E6%AD%A3%E3%81%99%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/微妙に違うピン配置のRP2040ボードのピン配置を正すアダプタ.jpg"&gt;algさんのTweetから発見。画像もここから転載。
+Raspberry Pi Picoとよく似たボードがAliExpressなどで販売されていますが、どうやらピン配置が微妙に異なるものがあるようです。
+このTweetでは、この微妙に異なるピン配置を正すためのアダプタボードを紹介しています。
+写真を見れば一目瞭然ですが、このアダプタを横にずらして固定することで、このピン配置が異なるボードをRaspberry Pi Picoの互換ボードとして利用できるというものです。
+このアダプタの頒布も考えられているようなので、気になる方はalgさんに聞いてみるのはいかがでしょう？
+変換基板、届いた。
+NisePicoと命名。変な位置に製造番号入ってるけどまあいいや、試作だし。
+コンスルーを贅沢にも4本使って検証する。 pic.twitter.com/Ak7OZTvRpX
+&amp;mdash; alg (@alg0002) September 17, 2022  </description>
+    </item>
     
     <item>
       <title>物理スイッチでブートするOSを選択するデバイス</title>
