@@ -5,16 +5,25 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 25 Sep 2022 23:42:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Sep 2022 23:39:47 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>3Dプリンタ</title>
       <link>https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
-      <pubDate>Sun, 25 Sep 2022 23:42:02 +0000</pubDate>
+      <pubDate>Mon, 26 Sep 2022 23:39:47 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi</title>
+      <link>https://inajob.github.io/iroiro-review/tags/raspberry-pi/</link>
+      <pubDate>Mon, 26 Sep 2022 23:39:47 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/raspberry-pi/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
@@ -87,15 +96,6 @@
       <pubDate>Wed, 14 Sep 2022 23:23:46 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/arduino/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>AVR128DB28</title>
-      <link>https://inajob.github.io/iroiro-review/tags/avr128db28/</link>
-      <pubDate>Wed, 14 Sep 2022 23:23:46 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/avr128db28/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     

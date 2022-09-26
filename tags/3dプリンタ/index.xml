@@ -5,9 +5,21 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 25 Sep 2022 23:42:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Sep 2022 23:39:47 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RaspberryPiを内蔵したジュークボックス</title>
+      <link>https://inajob.github.io/iroiro-review/post/raspberrypi%E3%82%92%E5%86%85%E8%94%B5%E3%81%97%E3%81%9F%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%AF%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/</link>
+      <pubDate>Mon, 26 Sep 2022 23:39:47 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/raspberrypi%E3%82%92%E5%86%85%E8%94%B5%E3%81%97%E3%81%9F%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%AF%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/RaspberryPiを内蔵したジュークボックス.jpg"&gt;Get Your Raspberry Pi Jamming With MuPiBoxから発見。画像もここから転載。
+RaspberryPiを内蔵したジュークボックスの作例です。 こういうガジェットは、小型化、薄型化、する作例をよく見ますが、この記事で紹介している筐体は、そこそこ大きな、ラジカセサイズなのが印象的です。
+ただ大きいだけでなく、ラジカセのように持ち運ぶことも簡単で、見た目もカッコいいです。
+ </description>
+    </item>
     
     <item>
       <title>ESP32で作られたグラフ電卓</title>
@@ -131,19 +143,6 @@ Raspberry Piを利用したノートパソコン風のマシンを作るため�
 この記事で紹介しているのは、3Dプリンタを少し斜めに配置し、ベッドの上に踏切の遮断機のような機構を搭載することで、完成した造形物をベッドから無理やり引き離すという改造です。
 見るからに強引な手法ですが、案外こういうので良いのかもしれません。
  </description>
-    </item>
-    
-    <item>
-      <title>既存の3Dプリンタを基に製作できるCoreXY構造の3Dプリンタ「Fraxinus」</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%97%A2%E5%AD%98%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E5%9F%BA%E3%81%AB%E8%A3%BD%E4%BD%9C%E3%81%A7%E3%81%8D%E3%82%8Bcorexy%E6%A7%8B%E9%80%A0%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BFfraxinus/</link>
-      <pubDate>Wed, 13 Jul 2022 13:03:23 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%97%A2%E5%AD%98%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E5%9F%BA%E3%81%AB%E8%A3%BD%E4%BD%9C%E3%81%A7%E3%81%8D%E3%82%8Bcorexy%E6%A7%8B%E9%80%A0%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BFfraxinus/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/既存の3Dプリンタを基に製作できるCoreXY構造の3Dプリンタ「Fraxinus」.jpg"&gt;Fraxinusから発見。画像もここから転載。
-巷には様々な安価な3Dプリンタが出回っていますが、なかなか思い通りの性能・機能のものがありません。 3Dプリンタ愛好者は、既製品の3Dプリンタを購入した後、それらを改造することで、自分の望む機能を搭載することをよく行います。 （結果、3Dプリンタで作ったものは「3Dプリンタのパーツ」のみ、というような妙な状況になることもあるのですが・・）
-この記事で紹介しているFraxinusはそういった既製品の3Dプリンターの改造の集大成です。
-安価な3Dプリンタとして有名なKP3Sを材料として、魅力的なCoreXY構造の3Dプリンタを作るという、もはや「改造」の域を超えた取り組みとなっています。
-改造というよりは、既製品を生贄にして、新たな3Dプリンターを召喚するというような印象を持つ面白いプロジェクトです。</description>
     </item>
     
   </channel>

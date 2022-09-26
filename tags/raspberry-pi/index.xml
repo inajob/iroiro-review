@@ -5,9 +5,21 @@
     <description>Recent content in Raspberry Pi on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 01 Aug 2022 00:16:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Sep 2022 23:39:47 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/raspberry-pi/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RaspberryPiを内蔵したジュークボックス</title>
+      <link>https://inajob.github.io/iroiro-review/post/raspberrypi%E3%82%92%E5%86%85%E8%94%B5%E3%81%97%E3%81%9F%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%AF%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/</link>
+      <pubDate>Mon, 26 Sep 2022 23:39:47 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/raspberrypi%E3%82%92%E5%86%85%E8%94%B5%E3%81%97%E3%81%9F%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%AF%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/RaspberryPiを内蔵したジュークボックス.jpg"&gt;Get Your Raspberry Pi Jamming With MuPiBoxから発見。画像もここから転載。
+RaspberryPiを内蔵したジュークボックスの作例です。 こういうガジェットは、小型化、薄型化、する作例をよく見ますが、この記事で紹介している筐体は、そこそこ大きな、ラジカセサイズなのが印象的です。
+ただ大きいだけでなく、ラジカセのように持ち運ぶことも簡単で、見た目もカッコいいです。
+ </description>
+    </item>
     
     <item>
       <title>RaspberryPiを使ったラップトップを作るためのデータ</title>
@@ -119,17 +131,6 @@ Raspberry Piを使ったタブレット端末のプロジェクトです。
 見ての通りアーケードゲーム風のRaspberry Piのエンクロージャです。 3Dプリンタを使って作られていますが、完成度は非常に高く、おもちゃっぽい色合いのフィラメントが良い雰囲気を演出しています。
 ディスプレイは800x480、バッテリ、スピーカーも搭載されています。さらに手前に小さなOLEDのディスプレイが搭載してあり、ガジェット感を演出しています。
  </description>
-    </item>
-    
-    <item>
-      <title>レトロな見た目のRaspberry Piコンソール</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%83%88%E3%83%AD%E3%81%AA%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AEraspberry-pi%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</link>
-      <pubDate>Mon, 16 Mar 2020 23:00:51 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%83%88%E3%83%AD%E3%81%AA%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AEraspberry-pi%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/retro-style-pi.jpg"&gt;FLIPT-BIT: Retro-styled Raspberry Pi Computerから発見。画像もここから転載（CC BY-NC-SA By lewisb42）
-レトロコンピューター風のRaspberry Piのケースの作例です。 キーボードと画面、トラックパッドを箱状のケースに詰め込んだ力作です。
-ケースはアクリル板と3Dプリンタによる造形で作られています。 RaspberryPiに必要なものが全部入ったケースで使い勝手がよさそうです。</description>
     </item>
     
   </channel>

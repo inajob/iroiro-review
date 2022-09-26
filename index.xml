@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 25 Sep 2022 23:42:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Sep 2022 23:39:47 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RaspberryPiを内蔵したジュークボックス</title>
+      <link>https://inajob.github.io/iroiro-review/post/raspberrypi%E3%82%92%E5%86%85%E8%94%B5%E3%81%97%E3%81%9F%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%AF%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/</link>
+      <pubDate>Mon, 26 Sep 2022 23:39:47 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/raspberrypi%E3%82%92%E5%86%85%E8%94%B5%E3%81%97%E3%81%9F%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%AF%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/RaspberryPiを内蔵したジュークボックス.jpg"&gt;Get Your Raspberry Pi Jamming With MuPiBoxから発見。画像もここから転載。
+RaspberryPiを内蔵したジュークボックスの作例です。 こういうガジェットは、小型化、薄型化、する作例をよく見ますが、この記事で紹介している筐体は、そこそこ大きな、ラジカセサイズなのが印象的です。
+ただ大きいだけでなく、ラジカセのように持ち運ぶことも簡単で、見た目もカッコいいです。
+ </description>
+    </item>
     
     <item>
       <title>ESP32で作られたグラフ電卓</title>
@@ -129,19 +141,6 @@ Rarspberry Pi Zeroのケースや、HATなどの周辺機器を利用できる�
 マイコンボードとしてはArduino Pro Microを使っています。
 気軽にアーケード気分が味わいたいときにさっと持っていくことが出来る素敵なコントローラーに仕上がっています。
 </description>
-    </item>
-    
-    <item>
-      <title>Raspberry Pi Pico Wを使ったWebAPIを持つ小型ディスプレイ</title>
-      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico-w%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fwebapi%E3%82%92%E6%8C%81%E3%81%A4%E5%B0%8F%E5%9E%8B%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</link>
-      <pubDate>Thu, 08 Sep 2022 22:45:14 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico-w%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fwebapi%E3%82%92%E6%8C%81%E3%81%A4%E5%B0%8F%E5%9E%8B%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi Pico Wを使ったWebAPIを持つ小型ディスプレイ.jpg"&gt;Share Screen To RGB Panel With Pi Pico Wから発見。画像もここから転載。
-16のディスプレイをWiFi経由のWeb APIで制御できるガジェットの作例です。
-コアマイコンはRaspberry Pi Pico Wを利用しています。 WiFiが扱えるようになるとこういうガジェットがサクっと作れて楽しいですね。
-Raspberry Pi Pico Wはまだ技適付きのものがなく日本で利用するのが面倒なので、ESP32あたりで作ってみるのもよさそうです。
- </description>
     </item>
     
   </channel>
