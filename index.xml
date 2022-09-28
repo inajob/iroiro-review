@@ -5,9 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 28 Sep 2022 00:02:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Sep 2022 23:14:38 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>おしゃれなVFD管時計</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C%E3%81%AAvfd%E7%AE%A1%E6%99%82%E8%A8%88/</link>
+      <pubDate>Wed, 28 Sep 2022 23:14:38 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C%E3%81%AAvfd%E7%AE%A1%E6%99%82%E8%A8%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/おしゃれなVFD管時計.jpg"&gt;dydyさんのTweetから発見。画像もここから転載。
+VFD管（蛍光表示管）は今でもレジなどでもよく見かけますが、雰囲気が良く、かっこいい作例を紹介します。
+基板も筐体も削り出しで作成しているそうで、その甲斐あって非常にスタイリッシュです。
+お洒落なVFD管時計完成した！！
+基板もフレームも削り出しで設計自由度高くて楽しかった pic.twitter.com/6mGwrL52NM
+&amp;mdash; dydt (@dydt_Nao) June 13, 2022  </description>
+    </item>
     
     <item>
       <title>手のひらサイズのRaspberry Piデバイス</title>
@@ -123,21 +137,6 @@ Raspberry Pi Zeroと同じサイズ、同じピンヘッダを備えた、Arduin
 コアとなるICはATmega328PBで、普通のArduino UNOなどと同じように利用できそうです。
 ATmega328PBはATmega328Pよりも4つ多くのGPIOを持っていますが、それらも利用できるようです。
 Rarspberry Pi Zeroのケースや、HATなどの周辺機器を利用できるので、なかなか使い勝手がよさそうです。</description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタ台としてコンクリートブロックを用いるHACK</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E5%8F%B0%E3%81%A8%E3%81%97%E3%81%A6%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%82%92%E7%94%A8%E3%81%84%E3%82%8Bhack/</link>
-      <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E5%8F%B0%E3%81%A8%E3%81%97%E3%81%A6%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%82%92%E7%94%A8%E3%81%84%E3%82%8Bhack/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3dprint-concrete-base.png"&gt;BRICKING YOUR 3D PRINTER, IN A GOOD WAYから発見。画像もここから転載。
-3Dプリンターを置く場所というのは、印刷精度や、騒音にかかわってきます。
-ぐらぐら揺れるような台では、本体が振動してしまい、印刷精度も悪くなります。また台と3Dプリンタが振動することにより騒音も大きくなります。
-この記事では、3Dプリンタを置く台として、重量のあるコンクリートブロックを提案しています。
-コンクリートブロックと、その下にショック吸収用のスポンジのような物を挟むことで、印刷精度の向上と、騒音の低下ができる、という事のようです。
-少しでも良い性能で印刷したい人は、ホームセンターでコンクリートブロックを買ってきましょう！
-</description>
     </item>
     
   </channel>
