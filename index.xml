@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 26 Sep 2022 23:39:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Sep 2022 00:02:41 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>手のひらサイズのRaspberry Piデバイス</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AEraspberry-pi%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</link>
+      <pubDate>Wed, 28 Sep 2022 00:02:41 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AEraspberry-pi%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/手のひらサイズのRaspberry Piデバイス.jpg"&gt;A Raspberry Pi Handheld Computer You Might Want To Useから発見。画像もここから転載。
+ミニマルな構成の手のひらサイズのRaspberry Piデバイスを紹介します。
+3Dプリンタで作られた最小限の筐体、親指タイプを想定した自作のキーボードと、非常に洗練された作例です。
+このキーボードのもとになったMiryoku という、36キーのキーボードも興味深いです。</description>
+    </item>
     
     <item>
       <title>RaspberryPiを内蔵したジュークボックス</title>
@@ -125,21 +137,6 @@ Rarspberry Pi Zeroのケースや、HATなどの周辺機器を利用できる�
 この記事では、3Dプリンタを置く台として、重量のあるコンクリートブロックを提案しています。
 コンクリートブロックと、その下にショック吸収用のスポンジのような物を挟むことで、印刷精度の向上と、騒音の低下ができる、という事のようです。
 少しでも良い性能で印刷したい人は、ホームセンターでコンクリートブロックを買ってきましょう！
-</description>
-    </item>
-    
-    <item>
-      <title>携帯できるアーケードゲームコントローラ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%90%BA%E5%B8%AF%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9/</link>
-      <pubDate>Sun, 11 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%90%BA%E5%B8%AF%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/mobile-gamepad.jpg"&gt;3D PRINTED PORTABLE ARCADE CONTROLLERから発見。画像もここから転載。
-蓋つきのケースの中に収納されたアーケードゲームゲームコントローラの作例です。
-蓋つきのケースは市販のものを利用し、コントローラは、その中に内蓋のような構造で収納されています。
-内蓋とそれを支える柱は3Dプリントされており、ここにスイッチやジョイスティック、マイコンを固定しています。そのため、PCBは不要です。
-マイコンボードとしてはArduino Pro Microを使っています。
-気軽にアーケード気分が味わいたいときにさっと持っていくことが出来る素敵なコントローラーに仕上がっています。
 </description>
     </item>
     
