@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+    
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>
+      
+  RP2040を使った携帯ゲーム機 &ndash; inajobのいろいろレビュー
+
+    </title>
+    
+    
+    <meta name="description" property="og:description" content="RP2040を使った携帯ゲーム機を紹介します。|">
+    
+
+    <meta name="apple-mobile-web-app-title" content="inajobのいろいろレビュー">
+    
+    
+    
+    
+
+    <meta property="og:title" content="RP2040を使った携帯ゲーム機 | inajobのいろいろレビュー">
+    <meta property="og:description" content="RP2040を使った携帯ゲーム機を紹介します。|">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@ina_ani">
+    <meta name="twitter:creator" content="@ina_ani">
+    <meta name="twitter:title" content="RP2040を使った携帯ゲーム機 | inajobのいろいろレビュー">
+    <meta name="twitter:description" content="RP2040を使った携帯ゲーム機を紹介します。|">
+    
+    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/RP2040を使った携帯ゲーム機.jpg">
+    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/RP2040を使った携帯ゲーム機.jpg">
+    
+    
+    <meta name="google-site-verification" content="9Ec1N9kzGZO5Ot91n8zCJnpR-zwh5LsLFMddYpK-w6c" />
+
+    <link rel="stylesheet" href="/iroiro-review/assets/syntax.css">
+    <link rel="stylesheet" href="/iroiro-review/assets/primer-build.css">
+    <link rel="stylesheet" href="/iroiro-review/assets/style.css">
+    <link rel="alternate" type="application/rss+xml" href="https://inajob.github.io/iroiro-review/index.xml" title="RSS2.0" />
+    <style>
+.rect{
+  width:120px;
+  height:120px;
+  object-fit:cover;
+}
+    </style>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+         (adsbygoogle = window.adsbygoogle || []).push({
+              google_ad_client: "ca-pub-4764710583056368",
+              enable_page_level_ads: true
+         });
+    </script>
+  </head>
+
+
+  <body class="bg-gray">
+    <div id="holy" class="container-lg bg-white h-100">
+
+      <div id="header" class="px-1 bg-white">
+        
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-3635234-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-3635234-7');
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PJ1H9LBP33"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PJ1H9LBP33');
+</script>
+
+
+<nav class="UnderlineNav UnderlineNav--right px-2">
+  <a class="UnderlineNav-actions muted-link h2" href="https://inajob.github.io/iroiro-review">
+    inajobのいろいろレビュー
+  </a>
+
+  
+  
+</nav>
+
+<div class="m-3 p-1">
+電子工作・デジタルファブリケーションの海外事例を日本語で紹介するブログです。
+はてブやリツイートしてもらえるととても喜びます。
+Twitter: <a href="http://twitter.com/ina_ani">@ina_ani</a>
+
+<div>
+RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Finajob.github.io%2Firoiro-review%2Findex.xml'  target='blank'><img id='feedlyFollow' src='http://s3.feedly.com/img/follows/feedly-follow-rectangle-volume-medium_2x.png' alt='follow us in feedly' width='71' height='28'></a>
+<a href='https://inajob.github.io/iroiro-review/index.xml'  target='blank'><img src="https://inajob.github.io/iroiro-review/img/rss.png" width="28px" height="28px"></a>
+</div>
+</div>
+
+
+
+      </div>
+
+      <div role="main" id="main" class="holy-main markdown-body px-4 bg-white">
+        
+
+<div class="Subhead">
+  <div class="Subhead-heading">
+    <div class="h1 mt-3 mb-1">RP2040を使った携帯ゲーム機</div>
+  </div>
+  <div class="Subhead-description">
+    
+
+
+
+
+<a href='/iroiro-review/tags/rp2040' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">RP2040</span>
+</a>
+
+<a href='/iroiro-review/tags/arduboy' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">Arduboy</span>
+</a>
+
+<a href='/iroiro-review/tags/%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">ゲーム機</span>
+</a>
+
+
+
+    
+    <div class="float-md-right">
+      <span title="Lastmod: 2022-09-29. Published at: 2022-09-29.">
+        
+          Published: 2022-09-29
+        
+      </span>
+    </div>
+    
+  </div>
+</div>
+<article>
+  
+  <section class="pb-6 mb-3 border-bottom">
+    <img src="https://inajob.github.io/iroiro-review/img/RP2040%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%9f%e6%90%ba%e5%b8%af%e3%82%b2%e3%83%bc%e3%83%a0%e6%a9%9f.jpg" />
+    <p><a href="https://lectronz.com/products/rp2040-stamp-handheld-console-flux-project">RP2040 Stamp Handheld Console (Flux Project)</a>から発見。画像もここから転載。</p>
+<p>RP2040を使った携帯ゲーム機です。
+この基板の裏面にRP2040 Stampという開発ボードを貼り付けます。</p>
+<p>128x64のOLEDや十字キー、A,Bボタンを搭載しArduboyのゲームを移植するためのライブラリも用意されています。</p>
+<p>RP2040はこの画面に対してはオーバースペックな感じはしますが、逆に言うと余裕をもってプログラムが作れるので、大作に挑戦するのも面白いかもしれません。</p>
+<p>ケースは付属していませんが3Dプリント用のデータが配布されているようです。</p>
+
+  </section>
+
+  
+  <a href="/iroiro-review/post/%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C%E3%81%AAvfd%E7%AE%A1%E6%99%82%E8%A8%88/">
+    <div class="box-shadow-medium mb-3 bg-blue-light border border-blue" style="height:122px;">
+        <div style="float:left;">
+          <img class="rect" src="https://inajob.github.io/iroiro-review/img/%e3%81%8a%e3%81%97%e3%82%83%e3%82%8c%e3%81%aaVFD%e7%ae%a1%e6%99%82%e8%a8%88.jpg" />
+        </div>
+
+        <div class="pb-2 pt-2 px-3" style="margin-left:122px;">
+          ← 前の記事 - おしゃれなVFD管時計
+        </div>
+    </div>
+  </a>
+  
+
+  
+
+  
+
+<h3>関連記事</h3>
+<div>
+  
+  <a href="/iroiro-review/post/%E5%BE%AE%E5%A6%99%E3%81%AB%E9%81%95%E3%81%86%E3%83%94%E3%83%B3%E9%85%8D%E7%BD%AE%E3%81%AErp2040%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AE%E3%83%94%E3%83%B3%E9%85%8D%E7%BD%AE%E3%82%92%E6%AD%A3%E3%81%99%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/%e5%be%ae%e5%a6%99%e3%81%ab%e9%81%95%e3%81%86%e3%83%94%e3%83%b3%e9%85%8d%e7%bd%ae%e3%81%aeRP2040%e3%83%9c%e3%83%bc%e3%83%89%e3%81%ae%e3%83%94%e3%83%b3%e9%85%8d%e7%bd%ae%e3%82%92%e6%ad%a3%e3%81%99%e3%82%a2%e3%83%80%e3%83%97%e3%82%bf.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        微妙に違うピン配置のRP2040ボードのピン配置を正すアダプタ
+      </div>
+    </div>
+  </a>
+  
+  <a href="/iroiro-review/post/attiny84%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F7%E3%82%BB%E3%82%B02%E3%81%A4%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/ATTiny84%e3%81%a7%e4%bd%9c%e3%82%89%e3%82%8c%e3%81%9f7%e3%82%bb%e3%82%b02%e3%81%a4%e3%82%92%e6%90%ad%e8%bc%89%e3%81%97%e3%81%9f%e3%82%b7%e3%83%b3%e3%83%97%e3%83%ab%e3%81%aa%e6%90%ba%e5%b8%af%e3%82%b2%e3%83%bc%e3%83%a0%e6%a9%9f.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        ATTiny84で作られた7セグ2つを搭載したシンプルな携帯ゲーム機
+      </div>
+    </div>
+  </a>
+  
+  <a href="/iroiro-review/post/esp32%E3%81%AB%E3%82%88%E3%82%8B%E3%83%9F%E3%83%8B%E3%83%81%E3%83%A5%E3%82%A2%E3%83%94%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%9E%E3%82%B7%E3%83%B3/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/ESP32%e3%81%ab%e3%82%88%e3%82%8b%e3%83%9f%e3%83%8b%e3%83%81%e3%83%a5%e3%82%a2%e3%83%94%e3%83%b3%e3%83%9c%e3%83%bc%e3%83%ab%e3%83%9e%e3%82%b7%e3%83%b3.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        ESP32によるミニチュアピンボールマシン
+      </div>
+    </div>
+  </a>
+  
+  <a href="/iroiro-review/post/%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E5%8C%96%E3%81%A7%E3%81%8D%E3%82%8B%E9%9D%A2%E7%99%BD%E3%81%84%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/%e3%83%96%e3%83%ac%e3%83%83%e3%83%89%e3%83%9c%e3%83%bc%e3%83%89%e3%82%92%e3%82%b2%e3%83%bc%e3%83%a0%e6%a9%9f%e5%8c%96%e3%81%a7%e3%81%8d%e3%82%8b%e9%9d%a2%e7%99%bd%e3%81%84%e3%83%a2%e3%82%b8%e3%83%a5%e3%83%bc%e3%83%ab.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        ブレッドボードをゲーム機化できる面白いモジュール
+      </div>
+    </div>
+  </a>
+  
+  <a href="/iroiro-review/post/%E7%89%A9%E7%90%86%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%81%A7%E3%83%96%E3%83%BC%E3%83%88%E3%81%99%E3%82%8Bos%E3%82%92%E9%81%B8%E6%8A%9E%E3%81%99%E3%82%8B%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/%e7%89%a9%e7%90%86%e3%82%b9%e3%82%a4%e3%83%83%e3%83%81%e3%81%a7%e3%83%96%e3%83%bc%e3%83%88%e3%81%99%e3%82%8bOS%e3%82%92%e9%81%b8%e6%8a%9e%e3%81%99%e3%82%8b%e3%83%87%e3%83%90%e3%82%a4%e3%82%b9.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        物理スイッチでブートするOSを選択するデバイス
+      </div>
+    </div>
+  </a>
+  
+</div>
+
+
+
+  <section>
+  
+    
+    
+    
+      <div>
+        
+          <a href="https://twitter.com/intent/tweet?hashtags=inajob" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        
+
+        
+          
+          <div id="fb-root"></div>
+          <script>(function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+            fjs.parentNode.insertBefore(js, fjs);
+          }(document, 'script', 'facebook-jssdk'));</script>
+
+          <div class="fb-share-button" 
+            data-href="/iroiro-review/post/rp2040%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/" 
+            data-layout="button_count">
+          </div>
+        
+
+        
+          <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+        
+
+        
+          <a data-pocket-label="pocket" data-pocket-count="none" class="pocket-btn" data-lang="en"></a>
+          <script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+        
+
+      </div>
+    
+  
+  </section>
+  <section>
+    
+      
+    
+  </section>
+</article>
+
+
+      </div>
+
+      <div id="side" class="pr-1 bg-white">
+        <aside class="pr-3">
+          
+  
+    <div id="toc" class="Box Box--blue mb-3">
+      <b>RP2040を使った携帯ゲーム機</b>
+      <nav id="TableOfContents"></nav>
+    </div>
+  
+
+  
+    
+    
+    
+      <div>
+        
+          <a href="https://twitter.com/intent/tweet?hashtags=inajob" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        
+
+        
+          <div class="fb-share-button" 
+            data-href="/iroiro-review/post/rp2040%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/" 
+            data-layout="button_count">
+          </div>
+        
+
+        
+          <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+        
+
+        
+          <a data-pocket-label="pocket" data-pocket-count="none" class="pocket-btn" data-lang="en"></a>
+          <script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+        
+
+      </div>
+    
+  
+
+        </aside>
+      </div>
+
+      <div id="footer" class="pt-2 pb-3 bg-white text-center">
+        
+          <span class="text-small text-gray">
+            
+Contents: ©inajob 2020 ,Theme: ©Qiushi Pan 2018.
+Generated with
+<a href="https://gohugo.io" class="link-gray-dark">Hugo</a> and
+<a href="https://github.com/qqhann/hugo-primer" class="link-gray-dark">Hugo-Primer</a> theme.
+
+          </span>
+        
+      </div>
+    </div>
+
+
+    
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    
+    <script type="text/x-mathjax-config">MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });</script>
+  </body>
+</html>

@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 28 Sep 2022 23:14:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Sep 2022 23:09:42 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RP2040を使った携帯ゲーム機</title>
+      <link>https://inajob.github.io/iroiro-review/post/rp2040%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Thu, 29 Sep 2022 23:09:42 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/rp2040%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/RP2040を使った携帯ゲーム機.jpg"&gt;RP2040 Stamp Handheld Console (Flux Project)から発見。画像もここから転載。
+RP2040を使った携帯ゲーム機です。 この基板の裏面にRP2040 Stampという開発ボードを貼り付けます。
+128x64のOLEDや十字キー、A,Bボタンを搭載しArduboyのゲームを移植するためのライブラリも用意されています。
+RP2040はこの画面に対してはオーバースペックな感じはしますが、逆に言うと余裕をもってプログラムが作れるので、大作に挑戦するのも面白いかもしれません。
+ケースは付属していませんが3Dプリント用のデータが配布されているようです。</description>
+    </item>
     
     <item>
       <title>おしゃれなVFD管時計</title>
@@ -124,19 +137,6 @@ ESP32性の小型のビデオプレイヤーの作例です。
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/AVR128DB28のArduino Nanoサイズの開発ボード.jpg"&gt;AVR128DB development board - &amp;lsquo;nano&amp;rsquo; style by ArduinoShop on Tindieから発見。画像もここから転載。
 AVR128DB28のArduino Nanoサイズの開発ボードです。
 AVR128DB28は、Flashは128KByte, RAMは16KBとリッチなメモリを搭載しています。 DIPパッケージもあるようで、趣味の電子工作で活用できそうなマイコンです。</description>
-    </item>
-    
-    <item>
-      <title>見た目はRaspberry Pi ZeroなArduino互換ボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AFraspberry-pi-zero%E3%81%AAarduino%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AFraspberry-pi-zero%E3%81%AAarduino%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/cricket-one.jpg"&gt;Cricket ONE (beta)から発見。画像もここから転載。
-Raspberry Pi Zeroと同じサイズ、同じピンヘッダを備えた、Arduinoです。
-コアとなるICはATmega328PBで、普通のArduino UNOなどと同じように利用できそうです。
-ATmega328PBはATmega328Pよりも4つ多くのGPIOを持っていますが、それらも利用できるようです。
-Rarspberry Pi Zeroのケースや、HATなどの周辺機器を利用できるので、なかなか使い勝手がよさそうです。</description>
     </item>
     
   </channel>
