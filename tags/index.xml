@@ -5,9 +5,27 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 29 Sep 2022 23:09:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Oct 2022 22:39:24 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>マクロパッド</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%91%E3%83%83%E3%83%89/</link>
+      <pubDate>Sun, 02 Oct 2022 22:39:24 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%91%E3%83%83%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>自作キーボード</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Sun, 02 Oct 2022 22:39:24 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>Arduboy</title>
@@ -78,24 +96,6 @@
       <pubDate>Wed, 28 Sep 2022 00:02:41 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/raspberry-pi-4/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>ESP32</title>
-      <link>https://inajob.github.io/iroiro-review/tags/esp32/</link>
-      <pubDate>Sun, 25 Sep 2022 23:42:02 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/esp32/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>電卓</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E9%9B%BB%E5%8D%93/</link>
-      <pubDate>Sun, 25 Sep 2022 23:42:02 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E9%9B%BB%E5%8D%93/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
