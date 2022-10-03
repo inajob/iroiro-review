@@ -5,9 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 02 Oct 2022 22:39:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Oct 2022 23:24:17 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>丸のこの切断予定線をを影として投影するHACK</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E4%B8%B8%E3%81%AE%E3%81%93%E3%81%AE%E5%88%87%E6%96%AD%E4%BA%88%E5%AE%9A%E7%B7%9A%E3%82%92%E3%82%92%E5%BD%B1%E3%81%A8%E3%81%97%E3%81%A6%E6%8A%95%E5%BD%B1%E3%81%99%E3%82%8Bhack/</link>
+      <pubDate>Mon, 03 Oct 2022 23:24:17 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E4%B8%B8%E3%81%AE%E3%81%93%E3%81%AE%E5%88%87%E6%96%AD%E4%BA%88%E5%AE%9A%E7%B7%9A%E3%82%92%E3%82%92%E5%BD%B1%E3%81%A8%E3%81%97%E3%81%A6%E6%8A%95%E5%BD%B1%E3%81%99%E3%82%8Bhack/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/丸のこの切断予定線をを影として投影するHACK.jpg"&gt;If The Blade Sees Its Shadow, It’s Another 64th Of Accuracyから発見。画像もここから転載。
+丸ノコで木材を切断するとき、補助線を引いたりするものの、実際に刃を当てるときに曲がってしまうことがあります。
+せっかく補助線を引いてもそこに刃を当てられないと意味がありません。
+そのためにレーザーなどで切断予定線を投影するような仕組みもありますが、この記事で紹介するのはもっと原始的な方法です。
+丸ノコの刃の後ろにLEDをつけ、丸ノコの影を木材に投影するのです。 レーザーではないので、目に入っても危険はないですし、実際の丸ノコの刃の影ですから、位置がずれるということも原理的にありません。
+簡単な改造で実現できる、非常に効果的なHACKです。
+ </description>
+    </item>
     
     <item>
       <title>ダイアル式のDIPスイッチでカラーコードを指定できるマクロキーパッド</title>
@@ -131,18 +146,6 @@ NisePicoと命名。変な位置に製造番号入ってるけどまあいいや
 プッシュ式の電話機を改造してMIDI出力を行う作例です。
 受話器はボコーダーとなっており、電話をしているようなスタイルで演奏できます。
 不思議な演奏風景ですが、ちょっと触ってみたくなる印象的な作例です。
- </description>
-    </item>
-    
-    <item>
-      <title>ESP32性の小型のビデオプレイヤー</title>
-      <link>https://inajob.github.io/iroiro-review/post/esp32%E6%80%A7%E3%81%AE%E5%B0%8F%E5%9E%8B%E3%81%AE%E3%83%93%E3%83%87%E3%82%AA%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC/</link>
-      <pubDate>Thu, 15 Sep 2022 15:09:55 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/esp32%E6%80%A7%E3%81%AE%E5%B0%8F%E5%9E%8B%E3%81%AE%E3%83%93%E3%83%87%E3%82%AA%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32性の小型のビデオプレイヤー.jpg"&gt;This Simple Media Player Will Inspire Beginners And Invite Experimentationから発見。画像もここから転載。
-ESP32性の小型のビデオプレイヤーの作例です。
-映像の処理速度の関係からMotionJPEG形式を利用しているようです。 ESP32の開発ボードを表面実装風に取り付ける手法も特徴的です。 基板むき出しのデザインが無骨ですがかっこいいです。
  </description>
     </item>
     
