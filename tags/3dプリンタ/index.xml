@@ -5,9 +5,22 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 28 Sep 2022 00:02:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Oct 2022 23:10:36 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>手回し式のペンプロッタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E5%9B%9E%E3%81%97%E5%BC%8F%E3%81%AE%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</link>
+      <pubDate>Tue, 04 Oct 2022 23:10:36 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E5%9B%9E%E3%81%97%E5%BC%8F%E3%81%AE%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/手回し式のペンプロッタ.jpg"&gt;Hand-Cranked Doodler Made Using A 3D Printerから発見。画像もここから転載。
+ペンプロッタというのは何か心にグッとくるものがあります。 機械が人間のようにペンを持ち絵を描く様子は見ていて飽きません。
+この記事で紹介しているのは手回し式のペンプロッタです。カムを使ってペンを前後左右に動かし決められた図形を描きます。
+これとよく似た仕組みのおもちゃが大人の科学にもありましたね。
+  </description>
+    </item>
     
     <item>
       <title>手のひらサイズのRaspberry Piデバイス</title>
@@ -128,19 +141,6 @@ ESP32によるミニチュアピンボールマシンの作例です。 よく�
 確かにミシンは結構昔からある機械で、仕組みはそこまで難しくなさそうですが、コアの部分は精密な造形が必要そうです。
 身近な機械の再発明は新しい気づきがありそうで楽しそうです。
  </description>
-    </item>
-    
-    <item>
-      <title>RaspberryPiを使ったラップトップを作るためのデータ</title>
-      <link>https://inajob.github.io/iroiro-review/post/raspberrypi%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%A9%E3%83%83%E3%83%97%E3%83%88%E3%83%83%E3%83%97%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF/</link>
-      <pubDate>Mon, 01 Aug 2022 00:16:21 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/raspberrypi%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%A9%E3%83%83%E3%83%97%E3%83%88%E3%83%83%E3%83%97%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/RaspberryPiを使ったラップトップを作るためのデータ.jpg"&gt;Raspberrypi laptop case(with 8inch 1024x768 display) by kimgooniから発見。画像もここから転載。
-Raspberry Piを利用したノートパソコン風のマシンを作るための3Dプリンタ用のデータです。
-詳しいことはあまり書かれていませんが、完成品の写真を見るとかなりちゃんとノートパソコンの形をしています。
-こういう製品はいくつかありますが、自分で作ってみるのも面白そうです。
-  </description>
     </item>
     
   </channel>
