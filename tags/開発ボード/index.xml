@@ -5,9 +5,41 @@
     <description>Recent content in 開発ボード on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 14 Sep 2022 23:23:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Oct 2022 19:37:01 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>高解像度液晶付きのESP32開発ボードMakePython ESP32 Color LCD</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%AB%98%E8%A7%A3%E5%83%8F%E5%BA%A6%E6%B6%B2%E6%99%B6%E4%BB%98%E3%81%8D%E3%81%AEesp32%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89makepython-esp32-color-lcd/</link>
+      <pubDate>Mon, 10 Oct 2022 19:37:01 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%AB%98%E8%A7%A3%E5%83%8F%E5%BA%A6%E6%B6%B2%E6%99%B6%E4%BB%98%E3%81%8D%E3%81%AEesp32%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89makepython-esp32-color-lcd/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/makepython-esp32-cover.jpg"&gt;この記事はMakerfabsの提供でお届けします。
+今回紹介するMakePython ESP32 Color LCDはMakerfabsから提供いただいたものです。
+（ですが、MakePython ESP32 Color LCDはMakerfabsをレビューしたい！と言ったのは自分なので、Makerfabsが無理やりこの商品を押しているわけではなく、inajobの一押しアイテム！、という感じです。）
+MakePython ESP32 Color LCDとは ESP32とディスプレイを搭載した開発ボードです。
+ 1.3インチディスプレイ 解像度240*240 ESP32-WROOM または ESP32-WROVER USBシリアル変換IC CP2104 Mirco USB端子  開発にはMicroPythonや、Arduinoを利用することが出来ます。
+まぁESP32を搭載した開発ボードであればどれでもこれらの開発環境は利用できます。
+MicroPythonで開発してみる 公式のドキュメントではuPyCraftを使う例が紹介されているので、それに従ってみます。 MicroPythonの開発環境はほかにもたくさんあるので、どれを使ってもよいと思います。
+ファームウェアの書き込み 購入時のMakePython ESP32 Color LCDのファームウェアは謎のファームウェアが書き込まれているのですが、どうもMicroPythonではないようだったので、ファームウェアの書き込みから実施する必要がありました。
+MicroPythonのファームウェアはここから入手しました。
+これを焼きこむと・・
+うごいた！
+サンプルプログラムの実行 公式ページで紹介されているGitHubのプロジェクトからサンプルプログラムを取得して実行してみます。
+ファイルの一覧はこちら https://github.com/Makerfabs/Makerfabs-MakePython-ESP32-Color-LCD/tree/master/workSpace
+以下のファイルをすべて書き込んでColor_LCD_test01.pyを実行するとサンプルプログラムが実行できます。
+ italicc.py romans.py st7789.py Color_LCD_test01.py  左カラムのdevice以下のファイルがボードに書き込まれたファイルです。
+時々このリストの更新に失敗することがあり、何度かUSBケーブルを抜き差ししているとうまくいきました。 （uPyCraftのバグ？）
+MicroPythonで独自のプログラムを書いてみる サンプルで利用している液晶ディスプレイ用のライブラリを利用して、独自のプログラムを実行してみます。
+サンプルには線画用のフォントデータしかないので、ビットマップフォントのデータを用意して私のIDの「INA」を表示してみました。
+MicroPythonで愚直に書くとアニメーションなどの処理は少し遅いようでした。
+まぁアニメーションのような速度が必要な処理はネイティブで書くのが良いのでしょう。
+MicroPythonで描画。
+のんびりだねー pic.twitter.com/57m6w2f4eP
+&amp;mdash; ina_ani@2歳児のパパ (@ina_ani) October 9, 2022  上のMicroPythonで作ったものと同じようなプログラムをArduinoで作ったものがこちら。さすがにネイティブなので早いですね。
+Arduinoで描画、流石にネイティブだとこのくらい早い pic.twitter.com/EqvCXFlEX5</description>
+    </item>
     
     <item>
       <title>AVR128DB28のArduino Nanoサイズの開発ボード</title>
@@ -152,20 +184,6 @@ WiFiやBluetoothも使うことが出来、今流行りのIoT的なガジェッ�
 OtterPill は STM32F072をコアとしたArduino Nanoっぽい開発ボードです。
 USB Type-C端子を搭載し、USB-PDを扱うこともできるようです。
 設計はオープンソースです。</description>
-    </item>
-    
-    <item>
-      <title>STCマイコンの学習用ボードの試食</title>
-      <link>https://inajob.github.io/iroiro-review/post/stc%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3%E3%81%AE%E5%AD%A6%E7%BF%92%E7%94%A8%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AE%E8%A9%A6%E9%A3%9F/</link>
-      <pubDate>Wed, 13 Oct 2021 10:00:32 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/stc%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3%E3%81%AE%E5%AD%A6%E7%BF%92%E7%94%A8%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AE%E8%A9%A6%E9%A3%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/stc8-learning-board.jpg"&gt;Adventures with a STC89C52 development boardから発見。画像もここから転載。
-STC社のマイコンを知っていますか？ 中国ではよく使われているマイコンのようで、古くからある8051アーキテクチャを拡張した物のようです。
-AliExpressなどで、このSTCマイコンを学習できるボードが販売されているのですが、そのボードを購入し実際にサンプルプログラムを動かした人が書いた記事です。
-サンプルプログラムは中国語のファイル名だったりと、非中国ネイティブな人にはつらい仕様ですが、この方は、このサンプルプログラムをforkしファイル名などを英語に書き換えたものを公開してくれています。
-ソースコード内のコメントなどは中国語が残っていますが、まぁソースコードはC言語なので、頑張れば読めそうです。
-意外と安くで開発ボードが手に入るので、ちょっと勉強がてら手を出してみるのも面白そうです。</description>
     </item>
     
   </channel>
