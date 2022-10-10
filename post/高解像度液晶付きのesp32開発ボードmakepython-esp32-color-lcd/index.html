@@ -152,7 +152,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <p>（ですが、<a href="https://www.makerfabs.com/makepython-esp32-color-lcd.html">MakePython ESP32 Color LCD</a>は<a href="https://www.makerfabs.com/">Makerfabs</a>をレビューしたい！と言ったのは自分なので、<a href="https://www.makerfabs.com/">Makerfabs</a>が無理やりこの商品を押しているわけではなく、inajobの一押しアイテム！、という感じです。）</p>
 <h2 id="makepython-esp32-color-lcdとは">MakePython ESP32 Color LCDとは</h2>
 <p>ESP32とディスプレイを搭載した開発ボードです。</p>
-<p><img src="/img/makepython-esp32-boot.jpg" alt=""></p>
+<p><img src="../../img/makepython-esp32-boot.jpg" alt=""></p>
 <ul>
 <li>1.3インチディスプレイ 解像度240*240</li>
 <li>ESP32-WROOM または ESP32-WROVER</li>
@@ -167,9 +167,9 @@ MicroPythonの開発環境はほかにもたくさんあるので、どれを使
 <h3 id="ファームウェアの書き込み">ファームウェアの書き込み</h3>
 <p>購入時のMakePython ESP32 Color LCDのファームウェアは謎のファームウェアが書き込まれているのですが、どうもMicroPythonではないようだったので、ファームウェアの書き込みから実施する必要がありました。</p>
 <p>MicroPythonのファームウェアは<a href="https://micropython.org/download/esp32/">ここ</a>から入手しました。</p>
-<p><img src="/img/makepython-esp32-burn.png" alt=""></p>
+<p><img src="../../img/makepython-esp32-burn.png" alt=""></p>
 <p>これを焼きこむと・・</p>
-<p><img src="/img/makepython-esp32-prompt.png" alt=""></p>
+<p><img src="../../img/makepython-esp32-prompt.png" alt=""></p>
 <p>うごいた！</p>
 <h3 id="サンプルプログラムの実行">サンプルプログラムの実行</h3>
 <p>公式ページで紹介されているGitHubのプロジェクトからサンプルプログラムを取得して実行してみます。</p>
@@ -184,7 +184,7 @@ MicroPythonの開発環境はほかにもたくさんあるので、どれを使
 <p>左カラムのdevice以下のファイルがボードに書き込まれたファイルです。</p>
 <p>時々このリストの更新に失敗することがあり、何度かUSBケーブルを抜き差ししているとうまくいきました。
 （uPyCraftのバグ？）</p>
-<p><img src="/img/makepython-esp32-files.jpg" alt=""></p>
+<p><img src="../../img/makepython-esp32-files.jpg" alt=""></p>
 <h3 id="micropythonで独自のプログラムを書いてみる">MicroPythonで独自のプログラムを書いてみる</h3>
 <p>サンプルで利用している液晶ディスプレイ用のライブラリを利用して、独自のプログラムを実行してみます。</p>
 <p>サンプルには線画用のフォントデータしかないので、ビットマップフォントのデータを用意して私のIDの「INA」を表示してみました。</p>
@@ -199,7 +199,7 @@ MicroPythonの開発環境はほかにもたくさんあるので、どれを使
 <p>プログラムはこちら <a href="https://github.com/Makerfabs/Makerfabs-MakePython-ESP32-Color-LCD/blob/master/Color_LCD_test/Color_LCD_test.ino">https://github.com/Makerfabs/Makerfabs-MakePython-ESP32-Color-LCD/blob/master/Color_LCD_test/Color_LCD_test.ino</a></p>
 <p>しかしArduino IDEでのコンパイルが「遅い！！」。ESP32のビルドが遅いのは知っているのですが、このプログラムはそれに輪をかけて遅い・・</p>
 <p>最近リリースされたArduino IDEの2系やPlatformioを使うともう少し早くビルドできると思います。</p>
-<p><img src="/img/makepython-esp32-arduino.jpg" alt=""></p>
+<p><img src="../../img/makepython-esp32-arduino.jpg" alt=""></p>
 <h2 id="まとめ">まとめ</h2>
 <p>まぁ普通のESP32の開発ボードなのですが、ディスプレイとESP32の組み合わせで何かを作りたい際にはちょうど良いものだと感じました。</p>
 <p>ディスプレイは240*240と高解像度ですがコストパフォーマンスが良く、手元にあるとプロトタイピングの助けになると感じまました。</p>
