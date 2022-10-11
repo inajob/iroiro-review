@@ -5,9 +5,24 @@
     <description>Recent content in 楽器 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 19 Sep 2022 23:34:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Oct 2022 22:50:12 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%A5%BD%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ホイールにつけた溝に薄い板を擦り付ける音を鳴らすオルガン風の楽器</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%E3%81%AB%E3%81%A4%E3%81%91%E3%81%9F%E6%BA%9D%E3%81%AB%E8%96%84%E3%81%84%E6%9D%BF%E3%82%92%E6%93%A6%E3%82%8A%E4%BB%98%E3%81%91%E3%82%8B%E9%9F%B3%E3%82%92%E9%B3%B4%E3%82%89%E3%81%99%E3%82%AA%E3%83%AB%E3%82%AC%E3%83%B3%E9%A2%A8%E3%81%AE%E6%A5%BD%E5%99%A8/</link>
+      <pubDate>Tue, 11 Oct 2022 22:50:12 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%E3%81%AB%E3%81%A4%E3%81%91%E3%81%9F%E6%BA%9D%E3%81%AB%E8%96%84%E3%81%84%E6%9D%BF%E3%82%92%E6%93%A6%E3%82%8A%E4%BB%98%E3%81%91%E3%82%8B%E9%9F%B3%E3%82%92%E9%B3%B4%E3%82%89%E3%81%99%E3%82%AA%E3%83%AB%E3%82%AC%E3%83%B3%E9%A2%A8%E3%81%AE%E6%A5%BD%E5%99%A8/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ホイールにつけた溝に薄い板を擦り付ける音を鳴らすオルガン風の楽器.jpg"&gt;This Found-Sound Organ Was Made With Python And A Laser Cutterから発見。画像もここから転載。
+音程が作れればなんでも楽器になります。
+この記事では、回転するギザギザのついたホイールと、薄いリードが触れ合い、振動する音を利用したオルガンのような楽器を紹介しています。
+ホイールは音階ごとに用意されており、それぞれギザギザの間隔が異なっています。
+同時押しをするとその分回転軸に負荷がかかって、少し音程が低くなってしまうところは要改善ポイントのようです。
+よく似た楽器でA/C Harp というエアコンを改造したものがあるのを思い出しました。
+ </description>
+    </item>
     
     <item>
       <title>電話型MIDI鍵盤</title>
@@ -116,19 +131,6 @@ I played my kalimba. https://t.co/0eyTbSlrst pic.twitter.com/UzAO0DazUo
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/arduino-midi-keyboard.jpg"&gt;Mini-Tone Keyboard Badgeから発見。画像もここから転載。
 Arduino互換の2.5オクターブ鍵盤を搭載したキーボードの作例です。 CPUはATMega328PB、USBシリアル変換ICにはCH340Gと、よく見かける格安Arduinoと同じ構成になっています。
 3.5mmオーディオジャックや、スピーカーも搭載され、スタンドアローンでも動作するように工夫されています。</description>
-    </item>
-    
-    <item>
-      <title>教会のパイプオルガンにMIDI入力がある</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%95%99%E4%BC%9A%E3%81%AE%E3%83%91%E3%82%A4%E3%83%97%E3%82%AA%E3%83%AB%E3%82%AC%E3%83%B3%E3%81%ABmidi%E5%85%A5%E5%8A%9B%E3%81%8C%E3%81%82%E3%82%8B/</link>
-      <pubDate>Wed, 20 Oct 2021 11:00:15 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%95%99%E4%BC%9A%E3%81%AE%E3%83%91%E3%82%A4%E3%83%97%E3%82%AA%E3%83%AB%E3%82%AC%E3%83%B3%E3%81%ABmidi%E5%85%A5%E5%8A%9B%E3%81%8C%E3%81%82%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/midi_organ.png"&gt;CONTROLLING A BUILDING SIZED PIPE ORGAN WITH MIDIから発見。画像もここから転載。
-教会と言えば大きなパイプオルガンが設定してあることも多いですが、この記事で紹介しているパイプオルガンにはMIDI入力端子があるようです。
-動画ではそこからマリオのテーマソングを入力し、教会中にゲーム音楽を響かせたりしています。
-教会・パイプオルガン、と聞くと昔ながらの装置を想像しますが、最近の物はかなり進化しているんですね。
-</description>
     </item>
     
   </channel>
