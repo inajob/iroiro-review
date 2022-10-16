@@ -5,9 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 13 Oct 2022 23:11:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Oct 2022 22:31:06 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DIPのICを削ってQFNパッケージに改造するHACK</title>
+      <link>https://inajob.github.io/iroiro-review/post/dip%E3%81%AEic%E3%82%92%E5%89%8A%E3%81%A3%E3%81%A6qfn%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%81%AB%E6%94%B9%E9%80%A0%E3%81%99%E3%82%8Bhack/</link>
+      <pubDate>Sun, 16 Oct 2022 22:31:06 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/dip%E3%81%AEic%E3%82%92%E5%89%8A%E3%81%A3%E3%81%A6qfn%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%81%AB%E6%94%B9%E9%80%A0%E3%81%99%E3%82%8Bhack/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/DIPのICを削ってQFNパッケージに改造するHACK.jpg"&gt;Making A Handheld NES By Turning DIP Chips Into…QFN?から発見。画像もここから転載。
+DIPのICを削ってQFNパッケージに改造しています。
+そんなことが出来るのか・・と、思いますが、確かにDIPのICのコア部分は非常に小さく、リードフレーム部分をうまく活用するとちょうどQFNパッケージに仕立てることが出来るようです。
+これによりNESの互換基板を小型化しようとしているみたいです。
+After a little clean up with a Dremel sanding drum, it&amp;#39;s ready to cut! pic.twitter.com/92Mh1W3DDC
+&amp;mdash; Redherring32 (@redherring32) September 18, 2022  </description>
+    </item>
     
     <item>
       <title>薄型のBASICが動くモバイル端末</title>
@@ -158,19 +172,6 @@ Features:
 - built in conversation from hex to RGB, CMYK, HSV
 - that&amp;#39;s kinda it but w/e pic.twitter.com/swR7sKlFzY
 &amp;mdash; Guy Dupont (@gvy_dvpont) September 13, 2022  </description>
-    </item>
-    
-    <item>
-      <title>RP2040を使った携帯ゲーム機</title>
-      <link>https://inajob.github.io/iroiro-review/post/rp2040%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
-      <pubDate>Thu, 29 Sep 2022 23:09:42 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/rp2040%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/RP2040を使った携帯ゲーム機.jpg"&gt;RP2040 Stamp Handheld Console (Flux Project)から発見。画像もここから転載。
-RP2040を使った携帯ゲーム機です。 この基板の裏面にRP2040 Stampという開発ボードを貼り付けます。
-128x64のOLEDや十字キー、A,Bボタンを搭載しArduboyのゲームを移植するためのライブラリも用意されています。
-RP2040はこの画面に対してはオーバースペックな感じはしますが、逆に言うと余裕をもってプログラムが作れるので、大作に挑戦するのも面白いかもしれません。
-ケースは付属していませんが3Dプリント用のデータが配布されているようです。</description>
     </item>
     
   </channel>
