@@ -5,9 +5,25 @@
     <description>Recent content in ESP32 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 10 Oct 2022 19:37:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Oct 2022 23:19:08 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/esp32/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32でモバイルVNCクライアント</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%81%A7%E3%83%A2%E3%83%90%E3%82%A4%E3%83%ABvnc%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/</link>
+      <pubDate>Tue, 18 Oct 2022 23:19:08 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%81%A7%E3%83%A2%E3%83%90%E3%82%A4%E3%83%ABvnc%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32でモバイルVNCクライアント.jpg"&gt;陳亮手痕定律 さんのTweetから発見。画像もここから転載。
+ESP32を使ったVNC端末の作例です。
+ESP32はパワフルでWiFi機能も備えているので、確かにこういうことはできそうな気がしますが、ここまでスムーズに動作させるためにはかなりの苦労が必要なのではと思いました。
+以前同じ作者のRaspberry Pi Pico Wを使ったVNCクライアントの作例を紹介しましたが、Raspberry Pi Pico Wは技適の問題で、まだ日本では利用できないことが課題でした。
+ESP32は技適取得済みのモジュールもあるので、日本でも試すことが出来そうです。
+ソースコードなどはここ から入手できそうです。
+#ESP32 x #BBQ10 keyboard #VNC to #Linux operating Terminal pic.twitter.com/fhsxHwCPVL
+&amp;mdash; 陳亮手痕定律 (@moononournation) October 5, 2022  </description>
+    </item>
     
     <item>
       <title>高解像度液晶付きのESP32開発ボードMakePython ESP32 Color LCD</title>
@@ -145,19 +161,6 @@ ESP32はパワフルなCPUですが、独自のインストラクションセッ
 トグルスイッチによる8ビット入力キーボードの作例です。
 キーのストック機能も実装されており、特定文字の連続入力や、同時押しなどもサポートしており実用的（？）となっています。 コアはESP32となっており、Bluetoothで接続するようです。
 木目調の筐体も良い味を出しています。
- </description>
-    </item>
-    
-    <item>
-      <title>エンボスラベルを自動生成する装置</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%A8%E3%83%B3%E3%83%9C%E3%82%B9%E3%83%A9%E3%83%99%E3%83%AB%E3%82%92%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/</link>
-      <pubDate>Wed, 13 Jul 2022 00:51:03 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%A8%E3%83%B3%E3%83%9C%E3%82%B9%E3%83%A9%E3%83%99%E3%83%AB%E3%82%92%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/エンボスラベルを自動生成する装置.jpg"&gt;DIY Automated Printer Kerchunks Out Classic Embossed Labelsから発見。画像もここから転載。
-昔懐かしのエンボスラベルを自動的に作るガジェットの作例です。 以下のような、手動のエンボスラベル生成器から部品を取り出して自動化しています。
- レトロな技術で作られたテプラという感じで面白いです。
-紹介動画も非常にスタイリッシュで無駄に欲しくなります。
  </description>
     </item>
     
