@@ -1,0 +1,28 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PCMCIA on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/pcmcia/</link>
+    <description>Recent content in PCMCIA on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Mon, 17 Oct 2022 23:12:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/pcmcia/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raspberry Pi Pico WでPCMCIAで動作するWiFiカードの作例</title>
+      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico-w%E3%81%A7pcmcia%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8Bwifi%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E4%BD%9C%E4%BE%8B/</link>
+      <pubDate>Mon, 17 Oct 2022 23:12:00 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico-w%E3%81%A7pcmcia%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8Bwifi%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E4%BD%9C%E4%BE%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi Pico WでPCMCIAで動作するWiFiカードの作例.jpg"&gt;Pi Pico W Does PCMCIA, Gets This IBM PC110 Onlineから発見。画像もここから転載。
+最近では見なくなりましたが、かつてノートパソコンには「PCカード」などと呼ばれる拡張端子がありました。
+クレジットカードサイズの拡張カードを差し込むことで、ストレージやネットワーク機能を追加することが出来るものです。
+この記事ではこのPCカードのインターフェースをRaspberry Pi Pico Wで喋らせるというものです。 こういったパソコンのバスの制御はタイミングが高速で、マイコンから扱うのは難しいことが多いですが、Raspberry Pi PicoにはPIOというメインCPUとは別に高速に簡単なロジックを実現する仕組みがあり、これを活用することで実現しているようです。
+加えて簡単な電圧変換、アドレス変換のためにCPLDも利用しているようです。
+Raspberry Pi PicoのPIOはほかのマイコンにはない特徴的な機能で、今後も面白い作例がたくさん出てきそうです。</description>
+    </item>
+    
+  </channel>
+</rss>
+
