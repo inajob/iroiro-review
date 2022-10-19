@@ -5,9 +5,25 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 06 Oct 2022 23:14:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Oct 2022 23:24:39 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタで作られた連射できる輪ゴム鉄砲</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E9%80%A3%E5%B0%84%E3%81%A7%E3%81%8D%E3%82%8B%E8%BC%AA%E3%82%B4%E3%83%A0%E9%89%84%E7%A0%B2/</link>
+      <pubDate>Wed, 19 Oct 2022 23:24:39 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E9%80%A3%E5%B0%84%E3%81%A7%E3%81%8D%E3%82%8B%E8%BC%AA%E3%82%B4%E3%83%A0%E9%89%84%E7%A0%B2/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作られた連射できる輪ゴム鉄砲.jpg"&gt;ぴろつく さんのTweetから発見。画像もここから転載。
+子供のころ工作で、段ボールや牛乳パックで作っていたものを、3Dプリンタで作るというのは面白い試みです。 耐久性が高いより複雑な仕掛けを再現可能な形で設計することが出来ます。
+このTweetで紹介されているのは、連射できる輪ゴム鉄砲の作例です。
+階段状の部品が輪ゴムを順に送り出すことで、リボルバー式の拳銃のように次々と輪ゴムを飛ばすことが出来ます。
+銃身の上部分がアタッチメントになっており、銃でいうところのマガジンの役割になっているのも面白いです。
+これを作るのに使った3Dプリンタは以前紹介した Fraxinus とのことです。
+3Dプリンタで、輪ゴム鉄砲を作りました。 pic.twitter.com/TwSIJEaD6G
+&amp;mdash; ぴろつく (@pirotsuku) October 9, 2022  </description>
+    </item>
     
     <item>
       <title>3Dプリンターで作るオルタネイトスイッチ</title>
@@ -128,19 +144,6 @@ RaspberryPiを内蔵したジュークボックスの作例です。 こうい�
 こういうことをする際は、ねじで締め付けたり、ボンドでくっつけたりと、様々な手法がありますが、この記事で紹介しているのは「結束バンド」で結合するという手法です。
 3Dプリント造形物同士の結合だけではなく、バッテリーボックスや出来合いの基板など、既存の部品をケースに結合する際にもこのテクニックは利用できます。
 この手法を実際に試すことができる3Dモデルも公開されている ので、気になる人は印刷してみてはどうでしょうか？
- </description>
-    </item>
-    
-    <item>
-      <title>ESP32によるミニチュアピンボールマシン</title>
-      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%81%AB%E3%82%88%E3%82%8B%E3%83%9F%E3%83%8B%E3%83%81%E3%83%A5%E3%82%A2%E3%83%94%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%9E%E3%82%B7%E3%83%B3/</link>
-      <pubDate>Thu, 04 Aug 2022 23:18:45 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%81%AB%E3%82%88%E3%82%8B%E3%83%9F%E3%83%8B%E3%83%81%E3%83%A5%E3%82%A2%E3%83%94%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%9E%E3%82%B7%E3%83%B3/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32によるミニチュアピンボールマシン.jpg"&gt;Tiny Pinball Machine Also Runs X86 Codeから発見。画像もここから転載。
-ESP32によるミニチュアピンボールマシンの作例です。 よくできたミニチュア筐体で液晶に表示されたピンボールゲームが遊べます。
-このゲーム自体はDOS時代の古いゲームのようですが、これはx86の機械語で書かれていたようです。 そこでESP32上でx86エミュレータを動すことで、このゲームを動かしているようです。
-さらに、触覚フィードバックや、筐体を傾けることによる操作などもサポートするようにアップグレードしています。
  </description>
     </item>
     
