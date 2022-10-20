@@ -5,9 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 19 Oct 2022 23:24:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Oct 2022 22:46:33 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>色がグラデーションとなっているフィラメントを自作するHACK</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%89%B2%E3%81%8C%E3%82%B0%E3%83%A9%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%99%E3%82%8Bhack/</link>
+      <pubDate>Thu, 20 Oct 2022 22:46:33 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%89%B2%E3%81%8C%E3%82%B0%E3%83%A9%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%99%E3%82%8Bhack/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/色がグラデーションとなっているフィラメントを自作するHACK.jpg"&gt;Make Your Own Color Gradient 3D Printing Filamentから発見。画像もここから転載。
+色が徐々に変化するグラデーションのフィラメントを使うと、面白い造形物を得ることが出来ます。
+こういってフィラメントは販売もされていますが、この記事ではこれを自作する方法を紹介しています。
+ 要は、「フィラメントを3Dプリント」すればよいのです。 蚊取り線香のような形状を作成し、これを斜めにカットしてそれぞれを違う色に設定し、印刷します。
+フィラメントを印刷、というと不思議な感じがしますが、こういう常識外れのことが出来てしまうのも3Dプリンタの魅力です。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタで作られた連射できる輪ゴム鉄砲</title>
@@ -158,21 +172,6 @@ Arduinoで描画、流石にネイティブだとこのくらい早い pic.twitt
 科学館の展示などにありそうなわかりやすいデモで、こういう実験ができるのも3Dプリンタの醍醐味ですね。
 オルタネイト pic.twitter.com/VT5DEjlDAg
 &amp;mdash; K.$uzuki🍮 (@BellTreeNursing) September 29, 2022  </description>
-    </item>
-    
-    <item>
-      <title>マルバツゲームがプレイできる名刺基板</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%9E%E3%83%AB%E3%83%90%E3%83%84%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%8C%E3%83%97%E3%83%AC%E3%82%A4%E3%81%A7%E3%81%8D%E3%82%8B%E5%90%8D%E5%88%BA%E5%9F%BA%E6%9D%BF/</link>
-      <pubDate>Wed, 05 Oct 2022 22:59:59 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9E%E3%83%AB%E3%83%90%E3%83%84%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%8C%E3%83%97%E3%83%AC%E3%82%A4%E3%81%A7%E3%81%8D%E3%82%8B%E5%90%8D%E5%88%BA%E5%9F%BA%E6%9D%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/マルバツゲームがプレイできる名刺基板.jpg"&gt;Minimal Tic Tac Toe Business Cardから発見。画像もここから転載。
-基板名刺というジャンルの作品があります。
-さっと他人に渡して、自分を知ってもらうための「名刺」ですが、これ自体が作品となっているというのは何よりの自己紹介になります。 そんな「名刺基板」ですが、どのような機能を持たせるかは、なかなか難しいです。
-あまり凝ったものだと、壊れやすかったり、金銭的なコストがかさんだりしてしまいます。
-この記事で紹介しているのはマルバツゲームが遊べる名刺基板です。 LEDと抵抗だけで表示部分が構成されているため、比較的安く、壊れにくいのがよさそうです。
-入力もボタンが1つだけで、これの長押しと、普通押しを区別して操作します。
-マイコンはATmega328pなので、Arduinoで開発ができるのも良いです。</description>
     </item>
     
   </channel>

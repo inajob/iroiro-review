@@ -5,16 +5,25 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 19 Oct 2022 23:24:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Oct 2022 22:46:33 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>3Dプリンタ</title>
       <link>https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
-      <pubDate>Wed, 19 Oct 2022 23:24:39 +0000</pubDate>
+      <pubDate>Thu, 20 Oct 2022 22:46:33 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>HACK</title>
+      <link>https://inajob.github.io/iroiro-review/tags/hack/</link>
+      <pubDate>Thu, 20 Oct 2022 22:46:33 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/hack/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
@@ -69,15 +78,6 @@
       <pubDate>Mon, 17 Oct 2022 23:12:00 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico-w/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>HACK</title>
-      <link>https://inajob.github.io/iroiro-review/tags/hack/</link>
-      <pubDate>Sun, 16 Oct 2022 22:31:06 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/hack/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
