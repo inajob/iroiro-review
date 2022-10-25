@@ -5,9 +5,25 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 24 Oct 2022 22:56:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Oct 2022 23:20:42 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3DプリンタのExtruderを斜めにして回転するようにした4軸3Dプリンター</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AEextruder%E3%82%92%E6%96%9C%E3%82%81%E3%81%AB%E3%81%97%E3%81%A6%E5%9B%9E%E8%BB%A2%E3%81%99%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%97%E3%81%9F4%E8%BB%B83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC/</link>
+      <pubDate>Tue, 25 Oct 2022 23:20:42 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AEextruder%E3%82%92%E6%96%9C%E3%82%81%E3%81%AB%E3%81%97%E3%81%A6%E5%9B%9E%E8%BB%A2%E3%81%99%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%97%E3%81%9F4%E8%BB%B83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3DプリンタのExtruderを斜めにして回転するようにした4軸3Dプリンター.jpg"&gt;RotBot Adds A Extra Dimension To 3D Printing, With A Twistから発見。画像もここから転載。
+よく見かける3DプリンタはX,Y,Zの3軸です。 それゆえにオーバーハングなど、造形にいくらかの制限がかかります。
+軸を増やすことでより自由な造形を行うことが出来、産業用では3軸以上の工作機などもよく見かけます。
+この記事で紹介しているのは市販の3Dプリンタを改造して4軸化した作例です。
+4軸目を追加する改造は様々ありますが、この作例では、ヘッド部分を45度傾けたうえでこれを回転させることで1軸追加しています。
+この手法の特徴はプリントヘッド部分のみ改造すればよいので比較的簡単に実現できるという点です。
+スライサーは独自に開発する必要がありますが、この変形であれば比較的簡単に既存のスライサーの入出力に前処理・後処理することで実現できるようです。
+ </description>
+    </item>
     
     <item>
       <title>歯車を作ることに特化したCNCマシン</title>
@@ -139,21 +155,6 @@ crisp-game-libを使ったゲームはたくさん作られており、このこ
  またWebAssemblyにも対応しており、組み込み機器向けに作ったゲームをブラウザでも遊ぶことが出来、作品のデモや、デバッグなどが簡単にできるというのも面白い特徴です。
 THUNDERがM5StickC PLUSで動くようになったので、主要機能はだいたい移植できたのでは https://t.co/h3xEIFCaDT pic.twitter.com/IRUO0hq5Ko
 &amp;mdash; ABA (@abagames) October 10, 2022  </description>
-    </item>
-    
-    <item>
-      <title>ホイールにつけた溝に薄い板を擦り付ける音を鳴らすオルガン風の楽器</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%E3%81%AB%E3%81%A4%E3%81%91%E3%81%9F%E6%BA%9D%E3%81%AB%E8%96%84%E3%81%84%E6%9D%BF%E3%82%92%E6%93%A6%E3%82%8A%E4%BB%98%E3%81%91%E3%82%8B%E9%9F%B3%E3%82%92%E9%B3%B4%E3%82%89%E3%81%99%E3%82%AA%E3%83%AB%E3%82%AC%E3%83%B3%E9%A2%A8%E3%81%AE%E6%A5%BD%E5%99%A8/</link>
-      <pubDate>Tue, 11 Oct 2022 22:50:12 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%E3%81%AB%E3%81%A4%E3%81%91%E3%81%9F%E6%BA%9D%E3%81%AB%E8%96%84%E3%81%84%E6%9D%BF%E3%82%92%E6%93%A6%E3%82%8A%E4%BB%98%E3%81%91%E3%82%8B%E9%9F%B3%E3%82%92%E9%B3%B4%E3%82%89%E3%81%99%E3%82%AA%E3%83%AB%E3%82%AC%E3%83%B3%E9%A2%A8%E3%81%AE%E6%A5%BD%E5%99%A8/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ホイールにつけた溝に薄い板を擦り付ける音を鳴らすオルガン風の楽器.jpg"&gt;This Found-Sound Organ Was Made With Python And A Laser Cutterから発見。画像もここから転載。
-音程が作れればなんでも楽器になります。
-この記事では、回転するギザギザのついたホイールと、薄いリードが触れ合い、振動する音を利用したオルガンのような楽器を紹介しています。
-ホイールは音階ごとに用意されており、それぞれギザギザの間隔が異なっています。
-同時押しをするとその分回転軸に負荷がかかって、少し音程が低くなってしまうところは要改善ポイントのようです。
-よく似た楽器でA/C Harp というエアコンを改造したものがあるのを思い出しました。
- </description>
     </item>
     
   </channel>

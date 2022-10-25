@@ -5,9 +5,25 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 20 Oct 2022 22:46:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Oct 2022 23:20:42 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3DプリンタのExtruderを斜めにして回転するようにした4軸3Dプリンター</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AEextruder%E3%82%92%E6%96%9C%E3%82%81%E3%81%AB%E3%81%97%E3%81%A6%E5%9B%9E%E8%BB%A2%E3%81%99%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%97%E3%81%9F4%E8%BB%B83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC/</link>
+      <pubDate>Tue, 25 Oct 2022 23:20:42 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AEextruder%E3%82%92%E6%96%9C%E3%82%81%E3%81%AB%E3%81%97%E3%81%A6%E5%9B%9E%E8%BB%A2%E3%81%99%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%97%E3%81%9F4%E8%BB%B83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3DプリンタのExtruderを斜めにして回転するようにした4軸3Dプリンター.jpg"&gt;RotBot Adds A Extra Dimension To 3D Printing, With A Twistから発見。画像もここから転載。
+よく見かける3DプリンタはX,Y,Zの3軸です。 それゆえにオーバーハングなど、造形にいくらかの制限がかかります。
+軸を増やすことでより自由な造形を行うことが出来、産業用では3軸以上の工作機などもよく見かけます。
+この記事で紹介しているのは市販の3Dプリンタを改造して4軸化した作例です。
+4軸目を追加する改造は様々ありますが、この作例では、ヘッド部分を45度傾けたうえでこれを回転させることで1軸追加しています。
+この手法の特徴はプリントヘッド部分のみ改造すればよいので比較的簡単に実現できるという点です。
+スライサーは独自に開発する必要がありますが、この変形であれば比較的簡単に既存のスライサーの入出力に前処理・後処理することで実現できるようです。
+ </description>
+    </item>
     
     <item>
       <title>色がグラデーションとなっているフィラメントを自作するHACK</title>
@@ -129,19 +145,6 @@ Raspberry Piなどのシングルボードコンピュータ(SBC)の多くはSD�
 これらのボード向けのOSをカスタマイズするなどの試行錯誤の際は、SDカードへの書き込みを何度も実施することになりますが、そのためにSDカードを抜き差しする作業が意外と面倒です。
 この記事で紹介しているのは、横からUSBでアクセスする機能を持ったmicroSDカード型のアダプタです。
 こういうツールがあるとSBC開発がかなりはかどりそうです。</description>
-    </item>
-    
-    <item>
-      <title>奇妙なタイヤを持つ自転車</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%A5%87%E5%A6%99%E3%81%AA%E3%82%BF%E3%82%A4%E3%83%A4%E3%82%92%E6%8C%81%E3%81%A4%E8%87%AA%E8%BB%A2%E8%BB%8A/</link>
-      <pubDate>Thu, 25 Aug 2022 23:17:33 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%A5%87%E5%A6%99%E3%81%AA%E3%82%BF%E3%82%A4%E3%83%A4%E3%82%92%E6%8C%81%E3%81%A4%E8%87%AA%E8%BB%A2%E8%BB%8A/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/奇妙なタイヤを持つ自転車.jpg"&gt;Trippy Bicycle Uses Multiple Partial Wheelsから発見。画像もここから転載。
-自転車のタイヤといえば円を思い浮かべますが、この円を1/3にカットし、少し離れて配置したユニークな車輪を持つ自転車の自作例です。
-原理がわかれば確かにこれでも走れることはわかりますが、一瞬目を疑います。
-この形にして良いことがあるかは疑問ですが、このように今ある形をもとに新しい形を創造することは、発明の第一歩のように思います。
-  </description>
     </item>
     
   </channel>
