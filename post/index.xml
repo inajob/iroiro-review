@@ -5,9 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 25 Oct 2022 23:20:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Oct 2022 23:22:26 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>結束バンドをキーキャップの材料にする</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%B5%90%E6%9D%9F%E3%83%90%E3%83%B3%E3%83%89%E3%82%92%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97%E3%81%AE%E6%9D%90%E6%96%99%E3%81%AB%E3%81%99%E3%82%8B/</link>
+      <pubDate>Wed, 26 Oct 2022 23:22:26 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%B5%90%E6%9D%9F%E3%83%90%E3%83%B3%E3%83%89%E3%82%92%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97%E3%81%AE%E6%9D%90%E6%96%99%E3%81%AB%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/結束バンドをキーキャップの材料にする.jpg"&gt;結束バンドを使ってkailh choc v1キーキャップを自作するから発見。画像もここから転載。
+ロープロファイルのキーボードスイッチは、コンパクトな自作キーボードを作りたい人にはうれしい部品ですが、キーキャップの形状が曲者です。
+市販の専用キーキャップを使えば、もちろん大丈夫なのですが、キーキャップを3Dプリンタで作ろうとすると問題があります。
+通常のCherry MX互換のキーボードスイッチの場合は、積層式の3Dプリンタでキーキャップを作ることが出来ましたが、ロープロファイルのキーボードスイッチの1種であるkailh choc v1は写真のように細長い2つのスリットのような溝でキーキャップを固定するようになっており、このような細くて剛性のある形状は3Dプリンタで作るのが難しいです。
+この記事ではこの問題の解決策として結束バンドを利用することを紹介しています。
+結束バンドを短く切ったものが、このキーボードスイッチの溝とぴったりはまるということで、3Dプリントで作ったキーキャップのステムの部分に接着剤で結束バンドを固定することで、キーボードスイッチを作っています。
+まさかの身近な製品が自作キーボードづくりの役に立つというまさにHACKな内容です。</description>
+    </item>
     
     <item>
       <title>3DプリンタのExtruderを斜めにして回転するようにした4軸3Dプリンター</title>
@@ -138,23 +153,6 @@ After a little clean up with a Dremel sanding drum, it&amp;#39;s ready to cut! p
 薄型のBASICが動くモバイル端末の作例です。 コアマイコンはPIC18にキャラクタ液晶を搭載しただけの単純な構成です。
 キーボード部分は静電容量式になっており、部品点数の削減に貢献しています。
 薄型、小型の筐体がとてもかっこいいですね。</description>
-    </item>
-    
-    <item>
-      <title>組み込み用のゲームエンジンcrisp-game-lib-portable</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E7%B5%84%E3%81%BF%E8%BE%BC%E3%81%BF%E7%94%A8%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3crisp-game-lib-portable/</link>
-      <pubDate>Wed, 12 Oct 2022 23:18:46 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E7%B5%84%E3%81%BF%E8%BE%BC%E3%81%BF%E7%94%A8%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3crisp-game-lib-portable/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/組み込み用のゲームエンジンcrisp-game-lib-portable.jpg"&gt;abagames/crisp-game-lib-portable: Minimal C-lang library for creating classic arcade-like mini-games running on devices and browsers (Experimental)から発見。画像もここから転載。
-この界隈で有名なABAさん が開発している組み込み向けのミニゲーム開発用ライブラリです。
-このライブラリはJavaScript向けに作られていたcrisp-game-lib をもとに作られています。 このライブラリは普通のゲーム向けのライブラリとは異なり「ミニゲーム」を作ることに特化しています。
-それっぽいプリセットサウンドや、プリミティブ図形の描画機能、画面を華やかにするパーティクル機能、衝突判定など、ミニゲームを作るために特化した内容となっており、これによりミニゲームを、素早く・簡単に作ることが出来ます。
-crisp-game-libを使ったゲームはたくさん作られており、このことからもこのライブラリの利便性は証明済みです。
-現在はM5StickC PLUSでのみ動作を確認しているようですが、移植性高く開発されているようで、ほかのマイコンボードで動作させるのも簡単そうです。
- またWebAssemblyにも対応しており、組み込み機器向けに作ったゲームをブラウザでも遊ぶことが出来、作品のデモや、デバッグなどが簡単にできるというのも面白い特徴です。
-THUNDERがM5StickC PLUSで動くようになったので、主要機能はだいたい移植できたのでは https://t.co/h3xEIFCaDT pic.twitter.com/IRUO0hq5Ko
-&amp;mdash; ABA (@abagames) October 10, 2022  </description>
     </item>
     
   </channel>

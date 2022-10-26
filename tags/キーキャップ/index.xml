@@ -1,0 +1,29 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>キーキャップ on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97/</link>
+    <description>Recent content in キーキャップ on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 26 Oct 2022 23:22:26 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>結束バンドをキーキャップの材料にする</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%B5%90%E6%9D%9F%E3%83%90%E3%83%B3%E3%83%89%E3%82%92%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97%E3%81%AE%E6%9D%90%E6%96%99%E3%81%AB%E3%81%99%E3%82%8B/</link>
+      <pubDate>Wed, 26 Oct 2022 23:22:26 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%B5%90%E6%9D%9F%E3%83%90%E3%83%B3%E3%83%89%E3%82%92%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97%E3%81%AE%E6%9D%90%E6%96%99%E3%81%AB%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/結束バンドをキーキャップの材料にする.jpg"&gt;結束バンドを使ってkailh choc v1キーキャップを自作するから発見。画像もここから転載。
+ロープロファイルのキーボードスイッチは、コンパクトな自作キーボードを作りたい人にはうれしい部品ですが、キーキャップの形状が曲者です。
+市販の専用キーキャップを使えば、もちろん大丈夫なのですが、キーキャップを3Dプリンタで作ろうとすると問題があります。
+通常のCherry MX互換のキーボードスイッチの場合は、積層式の3Dプリンタでキーキャップを作ることが出来ましたが、ロープロファイルのキーボードスイッチの1種であるkailh choc v1は写真のように細長い2つのスリットのような溝でキーキャップを固定するようになっており、このような細くて剛性のある形状は3Dプリンタで作るのが難しいです。
+この記事ではこの問題の解決策として結束バンドを利用することを紹介しています。
+結束バンドを短く切ったものが、このキーボードスイッチの溝とぴったりはまるということで、3Dプリントで作ったキーキャップのステムの部分に接着剤で結束バンドを固定することで、キーボードスイッチを作っています。
+まさかの身近な製品が自作キーボードづくりの役に立つというまさにHACKな内容です。</description>
+    </item>
+    
+  </channel>
+</rss>
+
