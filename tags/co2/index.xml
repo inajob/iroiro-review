@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CO2 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/co2/</link>
+    <description>Recent content in CO2 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Thu, 27 Oct 2022 23:13:02 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/co2/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>手のひらサイズのかわいいCO2モニタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84co2%E3%83%A2%E3%83%8B%E3%82%BF/</link>
+      <pubDate>Thu, 27 Oct 2022 23:13:02 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84co2%E3%83%A2%E3%83%8B%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/手のひらサイズのかわいいCO2モニタ.jpg"&gt;CO₂ Cubed!から発見。画像もここから転載。
+手のひらサイズのかわいいCO2モニタの作例です。
+筐体は3Dプリンタで作成され、表示機として2色のドットマトリクスLEDを用いています。
+ドットマトリクスLEDといえば単色のものをよく見かけますが2色表示のものも独特の雰囲気があって良いですね。
+制御にはESP32-S2を利用しています。</description>
+    </item>
+    
+  </channel>
+</rss>
+

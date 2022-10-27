@@ -5,9 +5,22 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 26 Oct 2022 23:22:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Oct 2022 23:13:02 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>手のひらサイズのかわいいCO2モニタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84co2%E3%83%A2%E3%83%8B%E3%82%BF/</link>
+      <pubDate>Thu, 27 Oct 2022 23:13:02 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84co2%E3%83%A2%E3%83%8B%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/手のひらサイズのかわいいCO2モニタ.jpg"&gt;CO₂ Cubed!から発見。画像もここから転載。
+手のひらサイズのかわいいCO2モニタの作例です。
+筐体は3Dプリンタで作成され、表示機として2色のドットマトリクスLEDを用いています。
+ドットマトリクスLEDといえば単色のものをよく見かけますが2色表示のものも独特の雰囲気があって良いですね。
+制御にはESP32-S2を利用しています。</description>
+    </item>
     
     <item>
       <title>結束バンドをキーキャップの材料にする</title>
@@ -132,20 +145,6 @@ CNCといえばX,Y,Z軸にドリルが動き溝を掘るようなものを想像
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/RaspberryPiを内蔵したジュークボックス.jpg"&gt;Get Your Raspberry Pi Jamming With MuPiBoxから発見。画像もここから転載。
 RaspberryPiを内蔵したジュークボックスの作例です。 こういうガジェットは、小型化、薄型化、する作例をよく見ますが、この記事で紹介している筐体は、そこそこ大きな、ラジカセサイズなのが印象的です。
 ただ大きいだけでなく、ラジカセのように持ち運ぶことも簡単で、見た目もカッコいいです。
- </description>
-    </item>
-    
-    <item>
-      <title>ESP32で作られたグラフ電卓</title>
-      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%82%B0%E3%83%A9%E3%83%95%E9%9B%BB%E5%8D%93/</link>
-      <pubDate>Sun, 25 Sep 2022 23:42:02 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%82%B0%E3%83%A9%E3%83%95%E9%9B%BB%E5%8D%93/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32で作られたグラフ電卓.jpg"&gt;2022 Cyberdeck Contest: The Galdeano Is More Than A Graphing Calculatorから発見。画像もここから転載。
-電卓といえばシンプルな四則演算ができるものを想像しますが、高性能なものになると複雑な関数やグラフを描画できるようなものもあります。
-この記事で紹介しているのはESP32を使った自作のグラフ電卓です。
-グラフ表示のソフトウェアから、3Dプリンタ製の筐体まですべて自作されています。
-確かにESP32の性能があればこれくらいのガジェットは自作可能ですが、なかなか思いついても実現するのは大変そうです。
  </description>
     </item>
     
