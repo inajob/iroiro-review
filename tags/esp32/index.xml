@@ -5,9 +5,21 @@
     <description>Recent content in ESP32 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 27 Oct 2022 23:13:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Oct 2022 23:22:07 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/esp32/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>WT32-SC01用のかっこいいUIサンプル</title>
+      <link>https://inajob.github.io/iroiro-review/post/wt32-sc01%E7%94%A8%E3%81%AE%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84ui%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB/</link>
+      <pubDate>Sun, 30 Oct 2022 23:22:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/wt32-sc01%E7%94%A8%E3%81%AE%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84ui%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/WT32-SC01用のかっこいいUIサンプル.jpg"&gt;Wt32-SC01 ESP32 Lumiaから発見。画像もここから転載。
+ESP32を搭載した液晶画面付きの開発ボードWT32-SC01での利用を想定したWindows PhoneのUI風のUIライブラリです。
+ESP32でもここまでの画面表示ができるのかと、感動できるデモです。
+組み込み機器のUIというとどうしても必要最低限の簡素なものが多いですが、こういうリッチな表示にするのも面白そうです。</description>
+    </item>
     
     <item>
       <title>手のひらサイズのかわいいCO2モニタ</title>
@@ -147,20 +159,6 @@ M5Stackを使って作られた卓上ロボット「ｽﾀｯｸﾁｬﾝ」は�
 そんな「ｽﾀｯｸﾁｬﾝ」ですが、作者のししかわさんが、勤務されている株式会社アールティと連携して、製品化する動きが進んでいるようです。
 「オープンソースプロジェクトが製品化する」と聞くと、嫌な予感もしますが、ブログ記事を読む限り、うまくオープンソースの良さは残しつつ、すそ野を広げるために製品化するというようなモチベーションのようです。
 また、この製品化の進捗についてもブログで随時公開してくださるようで、同人ハードウェア発祥のプロダクトの製品化事例としても要注目なプロジェクトです。
- </description>
-    </item>
-    
-    <item>
-      <title>ESP32でRISC-Vのエミュレータを動かしLinuxを動かす</title>
-      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%81%A7risc-v%E3%81%AE%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%82%92%E5%8B%95%E3%81%8B%E3%81%97linux%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</link>
-      <pubDate>Thu, 28 Jul 2022 22:20:01 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%81%A7risc-v%E3%81%AE%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%82%92%E5%8B%95%E3%81%8B%E3%81%97linux%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32でRISC-Vのエミュレータを動かしLinuxを動かす.jpg"&gt;It’s Linux. On An ESP32から発見。画像もここから転載。
-ESP32はパワフルなCPUですが、独自のインストラクションセットなので、既存の資源の活用が難しいなど問題もあります。
-この記事で紹介しているのはESP32の上でRISC-Vのエミュレータを動作させLinuxを動かす手法です。 エミュレータとしてはTinyEMUを利用しています。
-カーネルが起動するには1分35秒ほどかかるようです。
-先日は安価なATSAMD21の上でMIPSエミュレータを動かしLinuxがブートできる名刺型基板を紹介しましたが、Linuxをブートする方法はいろいろあって面白いですね。
  </description>
     </item>
     

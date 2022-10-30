@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WT32-SC01 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/wt32-sc01/</link>
+    <description>Recent content in WT32-SC01 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sun, 30 Oct 2022 23:22:07 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/wt32-sc01/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>WT32-SC01用のかっこいいUIサンプル</title>
+      <link>https://inajob.github.io/iroiro-review/post/wt32-sc01%E7%94%A8%E3%81%AE%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84ui%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB/</link>
+      <pubDate>Sun, 30 Oct 2022 23:22:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/wt32-sc01%E7%94%A8%E3%81%AE%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84ui%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/WT32-SC01用のかっこいいUIサンプル.jpg"&gt;Wt32-SC01 ESP32 Lumiaから発見。画像もここから転載。
+ESP32を搭載した液晶画面付きの開発ボードWT32-SC01での利用を想定したWindows PhoneのUI風のUIライブラリです。
+ESP32でもここまでの画面表示ができるのかと、感動できるデモです。
+組み込み機器のUIというとどうしても必要最低限の簡素なものが多いですが、こういうリッチな表示にするのも面白そうです。</description>
+    </item>
+    
+  </channel>
+</rss>
+
