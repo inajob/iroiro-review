@@ -5,9 +5,22 @@
     <description>Recent content in レーザー on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 26 Sep 2020 23:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Nov 2022 22:54:49 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>レーザーを使って立体的な基板を作る実験</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E7%AB%8B%E4%BD%93%E7%9A%84%E3%81%AA%E5%9F%BA%E6%9D%BF%E3%82%92%E4%BD%9C%E3%82%8B%E5%AE%9F%E9%A8%93/</link>
+      <pubDate>Thu, 03 Nov 2022 22:54:49 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E7%AB%8B%E4%BD%93%E7%9A%84%E3%81%AA%E5%9F%BA%E6%9D%BF%E3%82%92%E4%BD%9C%E3%82%8B%E5%AE%9F%E9%A8%93/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/レーザーを使って立体的な基板を作る実験.jpg"&gt;Fiber Laser Your Way To Flexible PCB Success!から発見。画像もここから転載。
+レーザーを使って基板を加工する実験です。
+銅箔とカプトンテープを張り合わせた素材にレーザーを当て、銅箔を焼き切ることで回路パターンを作成します。 またさらに強いレーザーを当てることで、基板の切断や、半田付けを行ったり、微妙な調整により折り目をつけることもできるようです。
+既存の基板生成法とは全く違いますが、実用化されると、ご家庭でも簡単に独自の基板が作れる日が来るかもしれません。
+とはいえ、レーザーは危険ですし、余った銅箔を剥がしたりと、このまま使うにはもう少し技術革新が必要かなという感じです。</description>
+    </item>
     
     <item>
       <title>オープンソースのレーザー彫刻機</title>
