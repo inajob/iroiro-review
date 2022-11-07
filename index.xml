@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 06 Nov 2022 23:12:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Nov 2022 23:27:47 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>カラーTFT液晶を搭載した自作キーボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%A9%E3%83%BCtft%E6%B6%B2%E6%99%B6%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Mon, 07 Nov 2022 23:27:47 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%A9%E3%83%BCtft%E6%B6%B2%E6%99%B6%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/カラーTFT液晶を搭載した自作キーボード.jpg"&gt;2022 Cyberdeck Contest: Keezyboost40 Is A Cyberdeck Masquerading As A Keyboardから発見。画像もここから転載。
+カラーTFT液晶を搭載した自作キーボードの作例です。 40個のキーを搭載し普通にUSB接続のキーボードとして利用できます。
+コアとなるマイコンはRaspberry Pi Picoです。
+中央の画面を活用するとスタンドアローンで遊べる端末としても活用できそうで、面白い作例です。
+ </description>
+    </item>
     
     <item>
       <title>チープなベルト式ベッドの3Dプリンタ</title>
@@ -126,20 +139,6 @@ CNCといえばX,Y,Z軸にドリルが動き溝を掘るようなものを想像
 歯車の元となる平べったい円形の素材の外周に任意の歯数のギアを掘る装置です。
 歯車づくりに特化しているためシンプルなつくりとなっていることも印象的です。
 こういう単機能の専用機というのはなぜか心惹かれますね。
- </description>
-    </item>
-    
-    <item>
-      <title>RaspberryPiで作られた携帯電話の作例</title>
-      <link>https://inajob.github.io/iroiro-review/post/raspberrypi%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E6%90%BA%E5%B8%AF%E9%9B%BB%E8%A9%B1%E3%81%AE%E4%BD%9C%E4%BE%8B/</link>
-      <pubDate>Sun, 23 Oct 2022 23:29:40 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/raspberrypi%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E6%90%BA%E5%B8%AF%E9%9B%BB%E8%A9%B1%E3%81%AE%E4%BD%9C%E4%BE%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/RaspberryPiで作られた携帯電話の作例.jpg"&gt;A Raspberry Pi Phone For The Modern Eraから発見。画像もここから転載。
-Raspberry Piは小型で省電力のLinuxボードなので、小型の端末を作るのに向いています。
-とはいえ、小型化するためには様々な工夫が必要で、スマートフォンのようなものを自作するためには多くのハードルがあります。
-この記事で紹介しているのは、そんなハードルをいい具合に妥協して作られたちょっと大きめのサイズの携帯電話です。
-ちょっと大きめですが、このサイズゆえに既存のモジュールを簡単に組み込むことができ、真似して同じものを作るのも比較的簡単そうです。
  </description>
     </item>
     
