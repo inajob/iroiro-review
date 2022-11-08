@@ -5,9 +5,22 @@
     <description>Recent content in 自転車 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 06 Sep 2022 22:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Nov 2022 22:23:11 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E8%87%AA%E8%BB%A2%E8%BB%8A/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>合板と3Dプリント部品で構成されたオープンソースの自転車のフレーム</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%90%88%E6%9D%BF%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E9%83%A8%E5%93%81%E3%81%A7%E6%A7%8B%E6%88%90%E3%81%95%E3%82%8C%E3%81%9F%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E8%87%AA%E8%BB%A2%E8%BB%8A%E3%81%AE%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0/</link>
+      <pubDate>Tue, 08 Nov 2022 22:23:11 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%90%88%E6%9D%BF%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E9%83%A8%E5%93%81%E3%81%A7%E6%A7%8B%E6%88%90%E3%81%95%E3%82%8C%E3%81%9F%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E8%87%AA%E8%BB%A2%E8%BB%8A%E3%81%AE%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/合板と3Dプリント部品で構成されたオープンソースの自転車のフレーム.jpg"&gt;Plywood Bicycle Makes Frame Building More Accessibleから発見。画像もここから転載。
+自転車を自作する、というのはあまり考えていませんでしたが、この記事で紹介しているのはオープンソースの自転車のフレームの設計です。
+合板をCNCカッターで切断し、いくつかの3Dプリンタ製の部品で構成されているようです。
+もちろんタイヤやチェーン、ペダルなどは別途用意する必要がありますが、自作の自転車というのは面白そうです。
+大きなCNCを利用できる環境にある人は、ぜひ作ってみてください。 (大きなCNC、使ってみたい・・）</description>
+    </item>
     
     <item>
       <title>ソーラー充電機能を持った自転車用の荷台</title>
