@@ -5,9 +5,22 @@
     <description>Recent content in 7セグ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 08 Aug 2022 23:14:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Nov 2022 21:58:57 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/7%E3%82%BB%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>かっこいい機械式の16セグメント表示機</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E6%A9%9F%E6%A2%B0%E5%BC%8F%E3%81%AE16%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
+      <pubDate>Wed, 09 Nov 2022 21:58:57 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E6%A9%9F%E6%A2%B0%E5%BC%8F%E3%81%AE16%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/かっこいい機械式の16セグメント表示機.jpg"&gt;I’ll See Your Seven-Segment Mechanical Display And Raise You To 16 Segmentsから発見。画像もここから転載。
+かっこいい機械式の16セグメント表示機の作例です。
+ばねも含めて部品の大半は3Dプリンタで作成しています。
+表示内容を記録したカードを入れる仕組みが特徴的で、ガシャコンとカードを差し込むことで任意の16セグメント表示を実現しています。
+ </description>
+    </item>
     
     <item>
       <title>ATTiny84で作られた7セグ2つを搭載したシンプルな携帯ゲーム機</title>
@@ -126,18 +139,6 @@ Arduinoに16チャンネルのサーボモーターコントローラボード�
 キラキラと乱反射するガラスの破片は半透明なアクリル板とは違った美しさを演出しています。
 また、大きな7セグのベースとなる筐体は大きなCNCマシンで削り出しています。
  </description>
-    </item>
-    
-    <item>
-      <title>手回し式のフルメカニカル7セグメント表示機</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E5%9B%9E%E3%81%97%E5%BC%8F%E3%81%AE%E3%83%95%E3%83%AB%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%AB%E3%83%AB7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
-      <pubDate>Sun, 27 Dec 2020 10:00:41 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E5%9B%9E%E3%81%97%E5%BC%8F%E3%81%AE%E3%83%95%E3%83%AB%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%AB%E3%83%AB7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/mechanical-7-seg.jpg"&gt;7-SEGMENTSから発見。画像もここから転載。
-電源を用いずに、完全にからくりだけで数字を切り替えながら表示できる装置です。
-3Dプリンタで作られており、有料ですがモデルデータをダウンロードすることが出来ます。
-ギアだらけの内部構造が見えるのもかっこよく、ギーク心をくすぐられます。</description>
     </item>
     
   </channel>

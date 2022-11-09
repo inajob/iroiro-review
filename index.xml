@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 08 Nov 2022 22:23:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Nov 2022 21:58:57 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>かっこいい機械式の16セグメント表示機</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E6%A9%9F%E6%A2%B0%E5%BC%8F%E3%81%AE16%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
+      <pubDate>Wed, 09 Nov 2022 21:58:57 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E6%A9%9F%E6%A2%B0%E5%BC%8F%E3%81%AE16%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/かっこいい機械式の16セグメント表示機.jpg"&gt;I’ll See Your Seven-Segment Mechanical Display And Raise You To 16 Segmentsから発見。画像もここから転載。
+かっこいい機械式の16セグメント表示機の作例です。
+ばねも含めて部品の大半は3Dプリンタで作成しています。
+表示内容を記録したカードを入れる仕組みが特徴的で、ガシャコンとカードを差し込むことで任意の16セグメント表示を実現しています。
+ </description>
+    </item>
     
     <item>
       <title>合板と3Dプリント部品で構成されたオープンソースの自転車のフレーム</title>
@@ -123,22 +136,6 @@ ESP32でもここまでの画面表示ができるのかと、感動できるデ
 この記事ではこの問題の解決策として結束バンドを利用することを紹介しています。
 結束バンドを短く切ったものが、このキーボードスイッチの溝とぴったりはまるということで、3Dプリントで作ったキーキャップのステムの部分に接着剤で結束バンドを固定することで、キーボードスイッチを作っています。
 まさかの身近な製品が自作キーボードづくりの役に立つというまさにHACKな内容です。</description>
-    </item>
-    
-    <item>
-      <title>3DプリンタのExtruderを斜めにして回転するようにした4軸3Dプリンター</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AEextruder%E3%82%92%E6%96%9C%E3%82%81%E3%81%AB%E3%81%97%E3%81%A6%E5%9B%9E%E8%BB%A2%E3%81%99%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%97%E3%81%9F4%E8%BB%B83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC/</link>
-      <pubDate>Tue, 25 Oct 2022 23:20:42 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AEextruder%E3%82%92%E6%96%9C%E3%82%81%E3%81%AB%E3%81%97%E3%81%A6%E5%9B%9E%E8%BB%A2%E3%81%99%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%97%E3%81%9F4%E8%BB%B83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3DプリンタのExtruderを斜めにして回転するようにした4軸3Dプリンター.jpg"&gt;RotBot Adds A Extra Dimension To 3D Printing, With A Twistから発見。画像もここから転載。
-よく見かける3DプリンタはX,Y,Zの3軸です。 それゆえにオーバーハングなど、造形にいくらかの制限がかかります。
-軸を増やすことでより自由な造形を行うことが出来、産業用では3軸以上の工作機などもよく見かけます。
-この記事で紹介しているのは市販の3Dプリンタを改造して4軸化した作例です。
-4軸目を追加する改造は様々ありますが、この作例では、ヘッド部分を45度傾けたうえでこれを回転させることで1軸追加しています。
-この手法の特徴はプリントヘッド部分のみ改造すればよいので比較的簡単に実現できるという点です。
-スライサーは独自に開発する必要がありますが、この変形であれば比較的簡単に既存のスライサーの入出力に前処理・後処理することで実現できるようです。
- </description>
     </item>
     
   </channel>

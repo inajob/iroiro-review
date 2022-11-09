@@ -5,9 +5,22 @@
     <description>Recent content in からくり on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 06 Oct 2022 23:14:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Nov 2022 21:58:57 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>かっこいい機械式の16セグメント表示機</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E6%A9%9F%E6%A2%B0%E5%BC%8F%E3%81%AE16%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
+      <pubDate>Wed, 09 Nov 2022 21:58:57 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E6%A9%9F%E6%A2%B0%E5%BC%8F%E3%81%AE16%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/かっこいい機械式の16セグメント表示機.jpg"&gt;I’ll See Your Seven-Segment Mechanical Display And Raise You To 16 Segmentsから発見。画像もここから転載。
+かっこいい機械式の16セグメント表示機の作例です。
+ばねも含めて部品の大半は3Dプリンタで作成しています。
+表示内容を記録したカードを入れる仕組みが特徴的で、ガシャコンとカードを差し込むことで任意の16セグメント表示を実現しています。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンターで作るオルタネイトスイッチ</title>
