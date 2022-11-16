@@ -5,9 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 10 Nov 2022 23:16:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Nov 2022 23:12:01 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>お古のシンクライアントマシンを使って3Dプリンタの制御ソフトを動かす</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8A%E5%8F%A4%E3%81%AE%E3%82%B7%E3%83%B3%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88%E3%83%9E%E3%82%B7%E3%83%B3%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A63d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E5%88%B6%E5%BE%A1%E3%82%BD%E3%83%95%E3%83%88%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</link>
+      <pubDate>Wed, 16 Nov 2022 23:12:01 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8A%E5%8F%A4%E3%81%AE%E3%82%B7%E3%83%B3%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88%E3%83%9E%E3%82%B7%E3%83%B3%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A63d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E5%88%B6%E5%BE%A1%E3%82%BD%E3%83%95%E3%83%88%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/お古のシンクライアントマシンを使って3Dプリンタの制御ソフトを動かす.jpg"&gt;Thin Client And Smartphone Step In For 3D Printer’s Raspberry Pi And Touchscreenから発見。画像もここから転載。
+お古のシンクライアントマシンって、意外と安売りされているのをご存じですか？
+普通に使おうとすると非力ですが、3Dプリンタの制御用と考えればそこそこの性能でも事足りるのでは？というのがこの記事で紹介している手法です。
+利用しているのはDellのWyse 3040というシンクライアントマシンです。Debianのイメージを書き込んだUSBメモリをさして起動することで普通にLinuxマシンとして利用できるようです。
+サイズもコンパクトで、3Dプリンタの内部に設置することも難しくありません。
+昨今の半導体不足でRaspberry Piの入手が難しくなっているので、こういう代替案も頭の片隅に入れておくと良いかもしれません。
+ </description>
+    </item>
     
     <item>
       <title>スライサーを使わず自前でg-codeを作る</title>
@@ -121,19 +136,6 @@ PCの筐体といえば購入するものという固定観念がありました
 ESP32を搭載した液晶画面付きの開発ボードWT32-SC01での利用を想定したWindows PhoneのUI風のUIライブラリです。
 ESP32でもここまでの画面表示ができるのかと、感動できるデモです。
 組み込み機器のUIというとどうしても必要最低限の簡素なものが多いですが、こういうリッチな表示にするのも面白そうです。</description>
-    </item>
-    
-    <item>
-      <title>手のひらサイズのかわいいCO2モニタ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84co2%E3%83%A2%E3%83%8B%E3%82%BF/</link>
-      <pubDate>Thu, 27 Oct 2022 23:13:02 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84co2%E3%83%A2%E3%83%8B%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/手のひらサイズのかわいいCO2モニタ.jpg"&gt;CO₂ Cubed!から発見。画像もここから転載。
-手のひらサイズのかわいいCO2モニタの作例です。
-筐体は3Dプリンタで作成され、表示機として2色のドットマトリクスLEDを用いています。
-ドットマトリクスLEDといえば単色のものをよく見かけますが2色表示のものも独特の雰囲気があって良いですね。
-制御にはESP32-S2を利用しています。</description>
     </item>
     
   </channel>
