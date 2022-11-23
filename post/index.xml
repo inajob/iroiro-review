@@ -5,9 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 21 Nov 2022 23:48:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Nov 2022 23:36:14 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>M5Stackで動作するワンキーゲーム</title>
+      <link>https://inajob.github.io/iroiro-review/post/m5stack%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B%E3%83%AF%E3%83%B3%E3%82%AD%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0/</link>
+      <pubDate>Wed, 23 Nov 2022 23:36:14 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/m5stack%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B%E3%83%AF%E3%83%B3%E3%82%AD%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/M5Stackで動作するワンキーゲーム.jpg"&gt;OBONO さんのTweetから発見。画像もここから転載。
+以前紹介した組み込み用のゲームエンジンcrisp-game-lib-portable がM5Stackに移植されています。
+M5Stackは3つのボタンしかなくゲームで遊ぶには向きませんが、ABAさんのゲームはワンキーなのでぴったりです。
+皆さんのご自宅にも1つは転がっているであろうM5Stackでワンキーゲームを遊んでみるのはどうですか？
+ソースコードは https://gist.github.com/obono/1606cf8a8a4e9c9f97de4ebebad3460a のようです。
+過ごしソースいじって、手元の M5Stack で動かしてみました。 pic.twitter.com/v5oGfdWoQY
+&amp;mdash; OBONO (@OBONO) October 24, 2022  </description>
+    </item>
     
     <item>
       <title>レーザープリンタでフィルムに印刷した鏡像を3Dプリント時の熱で造形物に転写するHACK</title>
@@ -127,17 +142,6 @@
 既存の基板生成法とは全く違いますが、実用化されると、ご家庭でも簡単に独自の基板が作れる日が来るかもしれません。
 とはいえ、レーザーは危険ですし、余った銅箔を剥がしたりと、このまま使うにはもう少し技術革新が必要かなという感じです。
  </description>
-    </item>
-    
-    <item>
-      <title>16x16ドットのモノクロ表示の気象情報表示時計ガジェット</title>
-      <link>https://inajob.github.io/iroiro-review/post/16x16%E3%83%89%E3%83%83%E3%83%88%E3%81%AE%E3%83%A2%E3%83%8E%E3%82%AF%E3%83%AD%E8%A1%A8%E7%A4%BA%E3%81%AE%E6%B0%97%E8%B1%A1%E6%83%85%E5%A0%B1%E8%A1%A8%E7%A4%BA%E6%99%82%E8%A8%88%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
-      <pubDate>Tue, 01 Nov 2022 23:23:33 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/16x16%E3%83%89%E3%83%83%E3%83%88%E3%81%AE%E3%83%A2%E3%83%8E%E3%82%AF%E3%83%AD%E8%A1%A8%E7%A4%BA%E3%81%AE%E6%B0%97%E8%B1%A1%E6%83%85%E5%A0%B1%E8%A1%A8%E7%A4%BA%E6%99%82%E8%A8%88%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/16x16ドットのモノクロ表示の気象情報表示時計ガジェット.jpg"&gt;DotC - Clock, Calendar and Weather Stationから発見。画像もここから転載。
-16x16ドットの気象情報表示時計ガジェットです。 マトリクスLEDのモジュールを使わず、あえてLEDを大量に並べてマトリクスを構成しています。 無骨ですが、白色LEDが目新しいからか、妙に洗練された印象を受けます。
-マイコンボードは明記されていませんが、WiFiが利用できるようなので、おそらくESP32かESP8266でしょう。</description>
     </item>
     
   </channel>

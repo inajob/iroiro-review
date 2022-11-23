@@ -1,0 +1,29 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>risp-game-lib on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/risp-game-lib/</link>
+    <description>Recent content in risp-game-lib on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 23 Nov 2022 23:36:14 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/risp-game-lib/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>M5Stackで動作するワンキーゲーム</title>
+      <link>https://inajob.github.io/iroiro-review/post/m5stack%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B%E3%83%AF%E3%83%B3%E3%82%AD%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0/</link>
+      <pubDate>Wed, 23 Nov 2022 23:36:14 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/m5stack%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B%E3%83%AF%E3%83%B3%E3%82%AD%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/M5Stackで動作するワンキーゲーム.jpg"&gt;OBONO さんのTweetから発見。画像もここから転載。
+以前紹介した組み込み用のゲームエンジンcrisp-game-lib-portable がM5Stackに移植されています。
+M5Stackは3つのボタンしかなくゲームで遊ぶには向きませんが、ABAさんのゲームはワンキーなのでぴったりです。
+皆さんのご自宅にも1つは転がっているであろうM5Stackでワンキーゲームを遊んでみるのはどうですか？
+ソースコードは https://gist.github.com/obono/1606cf8a8a4e9c9f97de4ebebad3460a のようです。
+過ごしソースいじって、手元の M5Stack で動かしてみました。 pic.twitter.com/v5oGfdWoQY
+&amp;mdash; OBONO (@OBONO) October 24, 2022  </description>
+    </item>
+    
+  </channel>
+</rss>
+

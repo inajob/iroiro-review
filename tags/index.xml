@@ -5,9 +5,36 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 21 Nov 2022 23:48:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Nov 2022 23:36:14 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>m5stack</title>
+      <link>https://inajob.github.io/iroiro-review/tags/m5stack/</link>
+      <pubDate>Wed, 23 Nov 2022 23:36:14 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/m5stack/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>risp-game-lib</title>
+      <link>https://inajob.github.io/iroiro-review/tags/risp-game-lib/</link>
+      <pubDate>Wed, 23 Nov 2022 23:36:14 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/risp-game-lib/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>ゲーム</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E3%82%B2%E3%83%BC%E3%83%A0/</link>
+      <pubDate>Wed, 23 Nov 2022 23:36:14 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E3%82%B2%E3%83%BC%E3%83%A0/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>3Dプリンタ</title>
@@ -69,33 +96,6 @@
       <pubDate>Tue, 08 Nov 2022 22:23:11 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>自転車</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E8%87%AA%E8%BB%A2%E8%BB%8A/</link>
-      <pubDate>Tue, 08 Nov 2022 22:23:11 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E8%87%AA%E8%BB%A2%E8%BB%8A/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>Raspberry Pi Pico</title>
-      <link>https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico/</link>
-      <pubDate>Mon, 07 Nov 2022 23:27:47 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>自作キーボード</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Mon, 07 Nov 2022 23:27:47 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
