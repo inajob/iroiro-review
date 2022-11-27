@@ -5,9 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 24 Nov 2022 23:11:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Nov 2022 23:13:07 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ドローンを使った3Dプリント</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88/</link>
+      <pubDate>Sun, 27 Nov 2022 23:13:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ドローンを使った3Dプリント.jpg"&gt;3D Printing With A Drone Swarm?から発見。画像もここから転載。
+ドローンを使った3Dプリントを行う実験を紹介します。 最近3Dプリントによる建築の実験が行われていますが、通常これらの3Dプリンタを稼働させるためには「足場」が必要となります。
+そして造形する成果物もこの足場の大きさに依存してしまいます。
+この記事で紹介しているのは足場不要のドローンによる3Dプリンタの実験です。
+飛行中のドローンは不安定でランダムにドリフトしますが、ドローンの下に吊り下げたアームがその動きをキャンセルする仕組みとなっており、結構良い精度で造形が出来るようです。
+ドローンを複数利用し編隊を組むことで造形速度を上げることもできるようで、うまく実用化されれば3Dプリントによる建築の活用の幅が広がりそうです
+ </description>
+    </item>
     
     <item>
       <title>長方形のフルカラーLEDであるSK6812を使った7セグメント表示機用PCB</title>
@@ -126,19 +141,6 @@ M5Stackは3つのボタンしかなくゲームで遊ぶには向きませんが
 カラーTFT液晶を搭載した自作キーボードの作例です。 40個のキーを搭載し普通にUSB接続のキーボードとして利用できます。
 コアとなるマイコンはRaspberry Pi Picoです。
 中央の画面を活用するとスタンドアローンで遊べる端末としても活用できそうで、面白い作例です。
- </description>
-    </item>
-    
-    <item>
-      <title>チープなベルト式ベッドの3Dプリンタ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%81%E3%83%BC%E3%83%97%E3%81%AA%E3%83%99%E3%83%AB%E3%83%88%E5%BC%8F%E3%83%99%E3%83%83%E3%83%89%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
-      <pubDate>Sun, 06 Nov 2022 23:12:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%81%E3%83%BC%E3%83%97%E3%81%AA%E3%83%99%E3%83%AB%E3%83%88%E5%BC%8F%E3%83%99%E3%83%83%E3%83%89%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/チープなベルト式ベッドの3Dプリンタ.jpg"&gt;ERRF 22: Baby Belt Promises Infinite Z For Under $200から発見。画像もここから転載。
-ベルト式のベッドを持つ3Dプリンタは高級品なイメージがありますが、この記事で紹介しているのは小型ゆえに安価なものです。
-造形範囲は狭いですがベルトの方向にはかなり長いものが作れるというバランスがなかなか面白いです。
-ステッピングモータは安価な28BYJ-48、ベルトの素材としては、画用紙とカーペットテープと布を組み合わせたもののようで、安く作るための工夫が随所に見られます。
  </description>
     </item>
     

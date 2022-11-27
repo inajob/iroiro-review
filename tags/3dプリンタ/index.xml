@@ -5,9 +5,24 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 21 Nov 2022 23:48:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Nov 2022 23:13:07 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ドローンを使った3Dプリント</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88/</link>
+      <pubDate>Sun, 27 Nov 2022 23:13:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ドローンを使った3Dプリント.jpg"&gt;3D Printing With A Drone Swarm?から発見。画像もここから転載。
+ドローンを使った3Dプリントを行う実験を紹介します。 最近3Dプリントによる建築の実験が行われていますが、通常これらの3Dプリンタを稼働させるためには「足場」が必要となります。
+そして造形する成果物もこの足場の大きさに依存してしまいます。
+この記事で紹介しているのは足場不要のドローンによる3Dプリンタの実験です。
+飛行中のドローンは不安定でランダムにドリフトしますが、ドローンの下に吊り下げたアームがその動きをキャンセルする仕組みとなっており、結構良い精度で造形が出来るようです。
+ドローンを複数利用し編隊を組むことで造形速度を上げることもできるようで、うまく実用化されれば3Dプリントによる建築の活用の幅が広がりそうです
+ </description>
+    </item>
     
     <item>
       <title>レーザープリンタでフィルムに印刷した鏡像を3Dプリント時の熱で造形物に転写するHACK</title>
@@ -129,20 +144,6 @@
 4軸目を追加する改造は様々ありますが、この作例では、ヘッド部分を45度傾けたうえでこれを回転させることで1軸追加しています。
 この手法の特徴はプリントヘッド部分のみ改造すればよいので比較的簡単に実現できるという点です。
 スライサーは独自に開発する必要がありますが、この変形であれば比較的簡単に既存のスライサーの入出力に前処理・後処理することで実現できるようです。
- </description>
-    </item>
-    
-    <item>
-      <title>歯車を作ることに特化したCNCマシン</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%AD%AF%E8%BB%8A%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AB%E7%89%B9%E5%8C%96%E3%81%97%E3%81%9Fcnc%E3%83%9E%E3%82%B7%E3%83%B3/</link>
-      <pubDate>Mon, 24 Oct 2022 22:56:10 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%AD%AF%E8%BB%8A%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AB%E7%89%B9%E5%8C%96%E3%81%97%E3%81%9Fcnc%E3%83%9E%E3%82%B7%E3%83%B3/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/歯車を作ることに特化したCNCマシン.jpg"&gt;Simple CNC Gear Production With Arduinoから発見。画像もここから転載。
-CNCといえばX,Y,Z軸にドリルが動き溝を掘るようなものを想像しますが、この記事で紹介するのは歯車を作ることに特化したCNCマシンです。
-歯車の元となる平べったい円形の素材の外周に任意の歯数のギアを掘る装置です。
-歯車づくりに特化しているためシンプルなつくりとなっていることも印象的です。
-こういう単機能の専用機というのはなぜか心惹かれますね。
  </description>
     </item>
     
