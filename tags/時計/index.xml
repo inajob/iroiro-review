@@ -5,9 +5,22 @@
     <description>Recent content in 時計 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 01 Nov 2022 23:23:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Nov 2022 21:28:09 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%99%82%E8%A8%88/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>面白い発想のデジタル砂時計装置</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%9D%A2%E7%99%BD%E3%81%84%E7%99%BA%E6%83%B3%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E7%A0%82%E6%99%82%E8%A8%88%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Wed, 30 Nov 2022 21:28:09 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%9D%A2%E7%99%BD%E3%81%84%E7%99%BA%E6%83%B3%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E7%A0%82%E6%99%82%E8%A8%88%E8%A3%85%E7%BD%AE/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/面白い発想のデジタル砂時計装置.jpg"&gt;Digital Hourglass Counts Down The Secondsから発見。画像もここから転載。
+砂でデジタル表示をするという面白い発想の「砂時計」です。
+7セグメント状の磁石をソレノイドで駆動させて砂鉄を引き付けることで表示機にしています。
+デジタルの表示がアナログな砂で描画されるのがなんとも不思議な雰囲気で面白いです。
+ </description>
+    </item>
     
     <item>
       <title>16x16ドットのモノクロ表示の気象情報表示時計ガジェット</title>
@@ -123,19 +136,6 @@ ATSAMD20を用いた、アナログ風のデジタル時計の作例です。か
 この記事で紹介しているのは、ハイブリッドスマートウォッチの内部基板をそっくり入れ替えてArduinoを基にしたHackしやすいものに変更してしまうという手法です。
 ハック用の基板はオープンソースで開発されており、RTC、3軸加速度センサー、気圧・緯度経度・温度センサー、3つのマイクロモーター駆動回路を搭載しており、時計に必要な機能はそろっています。
 スマートウォッチは面白いガジェットですが、各社独自の基板・ファームウェアで、改造するのが難しいところがあるので、このようなオープンソースの試みは面白そうです。
- </description>
-    </item>
-    
-    <item>
-      <title>ブロック崩し風な見た目の時計</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E5%B4%A9%E3%81%97%E9%A2%A8%E3%81%AA%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AE%E6%99%82%E8%A8%88/</link>
-      <pubDate>Thu, 24 Jun 2021 11:00:33 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E5%B4%A9%E3%81%97%E9%A2%A8%E3%81%AA%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AE%E6%99%82%E8%A8%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/arkaclock.jpg"&gt;Arkaclock: Retro arcade Arkanoid with clockから発見。画像もここから転載。
-256 x 64のOLEDを使って作った、ブロック崩し風な見た目の時計です。 時刻を表す数字フォントの各ドットをブロックとみなして、ボールをパドルで弾くゲームのような動作をします。
-CPUはPIC18F86K22です。
-5.5インチの画面は結構大き目で、見ていて飽きない時計です。
  </description>
     </item>
     
