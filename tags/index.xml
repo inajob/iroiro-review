@@ -5,9 +5,27 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 04 Dec 2022 23:18:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Dec 2022 22:55:53 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>HACK</title>
+      <link>https://inajob.github.io/iroiro-review/tags/hack/</link>
+      <pubDate>Mon, 05 Dec 2022 22:55:53 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/hack/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>Wii</title>
+      <link>https://inajob.github.io/iroiro-review/tags/wii/</link>
+      <pubDate>Mon, 05 Dec 2022 22:55:53 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/wii/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>ESP32</title>
@@ -78,24 +96,6 @@
       <pubDate>Wed, 30 Nov 2022 21:28:09 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/%E7%A3%81%E7%9F%B3/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>木工作</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E6%9C%A8%E5%B7%A5%E4%BD%9C/</link>
-      <pubDate>Tue, 29 Nov 2022 23:18:11 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E6%9C%A8%E5%B7%A5%E4%BD%9C/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>Raspberry Pi Zero</title>
-      <link>https://inajob.github.io/iroiro-review/tags/raspberry-pi-zero/</link>
-      <pubDate>Mon, 28 Nov 2022 23:20:54 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/raspberry-pi-zero/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     

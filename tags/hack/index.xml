@@ -5,9 +5,24 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 27 Nov 2022 23:13:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Dec 2022 22:55:53 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>WiiでClassic MacOSがそのまま動くHack</title>
+      <link>https://inajob.github.io/iroiro-review/post/wii%E3%81%A7classic-macos%E3%81%8C%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BE%E5%8B%95%E3%81%8Fhack/</link>
+      <pubDate>Mon, 05 Dec 2022 22:55:53 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/wii%E3%81%A7classic-macos%E3%81%8C%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BE%E5%8B%95%E3%81%8Fhack/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/WiiでClassic MacOSがそのまま動くHack.jpg"&gt;It’s MacOS. On An Unmodified Wii!から発見。画像もここから転載。
+もはや懐かしいClassic Mac OSですが、純正ハードウェアでなくても動くように様々なソフトウェアが開発されています。
+この記事で紹介しているのはニンテンドーのWiiでClassic Mac OSを動かす方法です。
+Classic Mac OSはPowerPCというCPUで動作するように設計されており、偶然にもWiiも同じPowerPCが搭載されています。 CPUが同じおかげで、何とWiiでもClassic Mac OSが動かせるようです。
+実際にはWiiで動作するLinuxの上で、Mac-on-Linuxというアプリケーションを起動してClassic Mac OSを動作させているようです。
+Mac-on-LinuxはPowerPC上のLinuxで動作するエミュレータとは違い、PowerPCを活用してClassic Mac OSを動作させるためのソフトウェアです。
+ </description>
+    </item>
     
     <item>
       <title>ドローンを使った3Dプリント</title>
@@ -135,18 +150,6 @@ After a little clean up with a Dremel sanding drum, it&amp;#39;s ready to cut! p
 そのためにレーザーなどで切断予定線を投影するような仕組みもありますが、この記事で紹介するのはもっと原始的な方法です。
 丸ノコの刃の後ろにLEDをつけ、丸ノコの影を木材に投影するのです。 レーザーではないので、目に入っても危険はないですし、実際の丸ノコの刃の影ですから、位置がずれるということも原理的にありません。
 簡単な改造で実現できる、非常に効果的なHACKです。
- </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタでグレイスケール画像を印刷するテクニック</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%E7%94%BB%E5%83%8F%E3%82%92%E5%8D%B0%E5%88%B7%E3%81%99%E3%82%8B%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</link>
-      <pubDate>Tue, 20 Sep 2022 23:46:52 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%E7%94%BB%E5%83%8F%E3%82%92%E5%8D%B0%E5%88%B7%E3%81%99%E3%82%8B%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタでグレイスケール画像を印刷するテクニック.jpg"&gt;A 2D Image Makes A 3D Printから発見。画像もここから転載。
-3Dプリンタは、3Dの造形物を印刷するものですが当然2Dの印刷もできます。 モノクロの印刷の例はよく見ますが、この記事では厚さで階調を表現する、いわば2.5次元の表現を紹介しています。
-多色対応の3Dプリンターを使い背景の白と前景の黒のフィラメントを使い分けていますが、単色の3Dプリンタでも途中でフィラメントを交換することで似たような効果を得ることが出来ます。
  </description>
     </item>
     
