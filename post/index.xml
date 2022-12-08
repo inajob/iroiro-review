@@ -5,9 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 07 Dec 2022 23:18:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Dec 2022 23:19:49 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>VGAケーブルで接続された分割キーボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/vga%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E3%81%A7%E6%8E%A5%E7%B6%9A%E3%81%95%E3%82%8C%E3%81%9F%E5%88%86%E5%89%B2%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Thu, 08 Dec 2022 23:19:49 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/vga%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E3%81%A7%E6%8E%A5%E7%B6%9A%E3%81%95%E3%82%8C%E3%81%9F%E5%88%86%E5%89%B2%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/VGAケーブルで接続された分割キーボード.jpg"&gt;Colorful Split Keyboard Uses VGA Connectionsから発見。画像もここから転載。
+分割型の自作キーボードが流行りです。 その多くは左右のキーボードをTRRSケーブルという、いわゆる4極のオーディオケーブルで接続しています。
+この4極をVCC,GND,信号線2本として使うことで左右のキーが連携するというものです。（信号線はUARTやI2Cでやり取りすることが多いようです）
+しかし、この方式だと分割キーボードの左右にマイコンが必要となります。
+もっとたくさんの電極を持つケーブルを使えば、片方のキーボードのマトリクス配線をすべて反対側のキーボードに伝えることができ、マイコンボードは片方だけにあればよいことになるのに・・という流れで設計されたのが、このVGAケーブル接続の分割キーボードです。
+VGAケーブルの一部の端子はGNDにショートしているらしく、すべてのピンを使うことが出来ない点は注意が必要です。
+ </description>
+    </item>
     
     <item>
       <title>スマフォを物理キー付きにするアタッチメント</title>
@@ -123,18 +138,6 @@ ESP32を使ったDOSみたいな仕組みがあると、結構何でもできて
 飛行中のドローンは不安定でランダムにドリフトしますが、ドローンの下に吊り下げたアームがその動きをキャンセルする仕組みとなっており、結構良い精度で造形が出来るようです。
 ドローンを複数利用し編隊を組むことで造形速度を上げることもできるようで、うまく実用化されれば3Dプリントによる建築の活用の幅が広がりそうです
  </description>
-    </item>
-    
-    <item>
-      <title>長方形のフルカラーLEDであるSK6812を使った7セグメント表示機用PCB</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E9%95%B7%E6%96%B9%E5%BD%A2%E3%81%AE%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCled%E3%81%A7%E3%81%82%E3%82%8Bsk6812%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F%E7%94%A8pcb/</link>
-      <pubDate>Thu, 24 Nov 2022 23:11:02 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E9%95%B7%E6%96%B9%E5%BD%A2%E3%81%AE%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCled%E3%81%A7%E3%81%82%E3%82%8Bsk6812%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F%E7%94%A8pcb/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/長方形のフルカラーLEDであるSK6812を使った7セグメント表示機用PCB.jpg"&gt;7-Segment Neopixel Display Moduleから発見。画像もここから転載。
-シリアル制御のフルカラーLEDはかなり安く入手できます。 こういうLEDを7つ並べることで作られた7セグメント表示機の作例です。
-横方向に光る細長いフルカラーLEDであるSK6812を活用しうまくセグメントを表現しています。
-また、基板を拡散板として利用することで、基板だけで表示機を構成しています。</description>
     </item>
     
   </channel>
