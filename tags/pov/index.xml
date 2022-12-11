@@ -5,9 +5,20 @@
     <description>Recent content in POV on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 02 Aug 2020 23:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Dec 2022 23:37:01 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/pov/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>非常にシンプルなPOVディスプレイ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%9D%9E%E5%B8%B8%E3%81%AB%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AApov%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</link>
+      <pubDate>Sun, 11 Dec 2022 23:37:01 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%9D%9E%E5%B8%B8%E3%81%AB%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AApov%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/非常にシンプルなPOVディスプレイ.jpg"&gt;$1 POV Display Goes Round And Roundから発見。画像もここから転載。
+回転するLEDの残像を利用した表示機、いわゆるPOV(Persistence of Vision)ディスプレイの作例です。 中身はATtiny13で、非常に安価に作成できるようです。
+LEDの点滅タイミングとファンの回転数制御などは手動ですが、加速度センサーなどを使うと自動化もできそうです。</description>
+    </item>
     
     <item>
       <title>手で素早く振ると残像で情報を表示する名刺</title>
