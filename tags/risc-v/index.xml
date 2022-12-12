@@ -5,9 +5,24 @@
     <description>Recent content in RISC-V on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 28 Jul 2022 22:20:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Dec 2022 22:59:58 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/risc-v/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MMUのないRISC-VエミュレータでDOOMを動かすデモ</title>
+      <link>https://inajob.github.io/iroiro-review/post/mmu%E3%81%AE%E3%81%AA%E3%81%84risc-v%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%81%A7doom%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99%E3%83%87%E3%83%A2/</link>
+      <pubDate>Mon, 12 Dec 2022 22:59:58 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/mmu%E3%81%AE%E3%81%AA%E3%81%84risc-v%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%81%A7doom%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99%E3%83%87%E3%83%A2/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/MMUのないRISC-VエミュレータでDOOMを動かすデモ.jpg"&gt;A Tiny RISC-V Emulator Runs Linux With No MMU. And Yes, It Runs DOOM!から発見。画像もここから転載。
+MMUのない小規模なRISC-Vエミュレータを作りLinuxを動かし、そこでDOOMを実行しています。
+このRISC-Vエミュレータはシンプルさゆえに移植もしやすそうで、M5Stackに移植するのも比較的簡単のようです。 （ただしM5Stackでの実行は非常に遅いようですが・・）
+ #M5Stack (ESP32)でLinux (RISC-V)を動かすコードを公開しました。実用性には触れませんが、キーボードのFACEを利用すればまさに手のひらLinuxマシンとなる、ロマン性能が高めのブツです。
+コード:https://t.co/PrM18pHjot
+起動画面を8分ほど眺める動画: https://t.co/IdAm9fAEMW
+&amp;mdash; verylowfreq (@verylowfreq) December 10, 2022  </description>
+    </item>
     
     <item>
       <title>ESP32でRISC-Vのエミュレータを動かしLinuxを動かす</title>
