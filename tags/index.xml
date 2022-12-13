@@ -5,9 +5,36 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 12 Dec 2022 22:59:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Dec 2022 22:56:31 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタ</title>
+      <link>https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
+      <pubDate>Tue, 13 Dec 2022 22:56:31 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>HACK</title>
+      <link>https://inajob.github.io/iroiro-review/tags/hack/</link>
+      <pubDate>Tue, 13 Dec 2022 22:56:31 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/hack/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>スライサー</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E3%82%B9%E3%83%A9%E3%82%A4%E3%82%B5%E3%83%BC/</link>
+      <pubDate>Tue, 13 Dec 2022 22:56:31 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E3%82%B9%E3%83%A9%E3%82%A4%E3%82%B5%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>RISC-V</title>
@@ -55,15 +82,6 @@
     </item>
     
     <item>
-      <title>HACK</title>
-      <link>https://inajob.github.io/iroiro-review/tags/hack/</link>
-      <pubDate>Tue, 06 Dec 2022 23:12:11 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/hack/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
       <title>ドローン</title>
       <link>https://inajob.github.io/iroiro-review/tags/%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3/</link>
       <pubDate>Tue, 06 Dec 2022 23:12:11 +0000</pubDate>
@@ -78,24 +96,6 @@
       <pubDate>Mon, 05 Dec 2022 22:55:53 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/wii/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>ESP32</title>
-      <link>https://inajob.github.io/iroiro-review/tags/esp32/</link>
-      <pubDate>Sun, 04 Dec 2022 23:18:39 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/esp32/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>FabGL</title>
-      <link>https://inajob.github.io/iroiro-review/tags/fabgl/</link>
-      <pubDate>Sun, 04 Dec 2022 23:18:39 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/fabgl/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
