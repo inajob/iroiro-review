@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 13 Dec 2022 22:56:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Dec 2022 23:16:14 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>自作のLofiサンプラー</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AElofi%E3%82%B5%E3%83%B3%E3%83%97%E3%83%A9%E3%83%BC/</link>
+      <pubDate>Wed, 14 Dec 2022 23:16:14 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AElofi%E3%82%B5%E3%83%B3%E3%83%97%E3%83%A9%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/自作のLofiサンプラー.jpg"&gt;自作Lofiサンプラー（概要編）｜メカヘルツ｜noteから発見。画像もここから転載。
+自作のLofiサンプラーの作例です。 録音再生モジュールをサンプル数分並べるという力業で複数サンプルに対応しています。
+力業ですが、録音再生モジュールもそこまで高いものではないので、意外とアリな構成かもしれません。 3Dプリンタで作られた筐体の完成度も高く、魅力的な作品です。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタ向けに斜めにスライスすることでオーバーハングの造形を可能にするテクニック</title>
@@ -129,19 +141,6 @@ ESP32を使ったDOSみたいな仕組みがあると、結構何でもできて
 せっかくオリジナルのパソコンを設計するなら、普通のパソコンには搭載されないような機能をつけたいものです。
 この作例では、通常の液晶ディスプレイとは別に、電子ペーパーディスプレイを併設しています。
 液晶に比べるとキーボードの横幅が広いので幅が余ると思っていたが、これは良いアイデアかもしれません。</description>
-    </item>
-    
-    <item>
-      <title>面白い発想のデジタル砂時計装置</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E9%9D%A2%E7%99%BD%E3%81%84%E7%99%BA%E6%83%B3%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E7%A0%82%E6%99%82%E8%A8%88%E8%A3%85%E7%BD%AE/</link>
-      <pubDate>Wed, 30 Nov 2022 21:28:09 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E9%9D%A2%E7%99%BD%E3%81%84%E7%99%BA%E6%83%B3%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E7%A0%82%E6%99%82%E8%A8%88%E8%A3%85%E7%BD%AE/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/面白い発想のデジタル砂時計装置.jpg"&gt;Digital Hourglass Counts Down The Secondsから発見。画像もここから転載。
-砂でデジタル表示をするという面白い発想の「砂時計」です。
-7セグメント状の磁石をソレノイドで駆動させて砂鉄を引き付けることで表示機にしています。
-デジタルの表示がアナログな砂で描画されるのがなんとも不思議な雰囲気で面白いです。
- </description>
     </item>
     
   </channel>
