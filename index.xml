@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 14 Dec 2022 23:16:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Dec 2022 23:08:51 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raspberry Piの拡張端子の名前とLEDがついたアダプタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi%E3%81%AE%E6%8B%A1%E5%BC%B5%E7%AB%AF%E5%AD%90%E3%81%AE%E5%90%8D%E5%89%8D%E3%81%A8led%E3%81%8C%E3%81%A4%E3%81%84%E3%81%9F%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF/</link>
+      <pubDate>Thu, 15 Dec 2022 23:08:51 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi%E3%81%AE%E6%8B%A1%E5%BC%B5%E7%AB%AF%E5%AD%90%E3%81%AE%E5%90%8D%E5%89%8D%E3%81%A8led%E3%81%8C%E3%81%A4%E3%81%84%E3%81%9F%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Piの拡張端子の名前とLEDがついたアダプタ.jpg"&gt;Blinky - RPi Header with Labels and LEDsから発見。画像もここから転載。
+Raspberry Piの拡張端子は、電子工作する際にはよく使いますが、どのピンが何の役割かが記載しておらず困ることがあります。 チートシートなどを見る手もありますが、このアダプタもなかなか良いアイデアです。
+この記事で紹介しているのは拡張端子に差し込んで、ピンで延長するアダプタですが、ピンの役割が基板に記されています。 これを重ねておけば、どのピンが何の役割か一目でわかって便利そうです。
+また各ピンにLEDが搭載されており、電圧が高いと光るようになっており、一目でピンの状態を知ることが出来ます。
+ </description>
+    </item>
     
     <item>
       <title>自作のLofiサンプラー</title>
@@ -129,18 +142,6 @@ Mac-on-LinuxはPowerPC上のLinuxで動作するエミュレータとは違い�
 ESP32でVGA出力付きのテキストエディタの作例です。 エディタ界隈では有名(?)なkiloという実装を参考に作られており、短いコードでテキストエディタが作られています。
 画面出力部分はFabGLを利用しているため、ソースコードは600行程度とシンプルにまとまっています。
 ESP32を使ったDOSみたいな仕組みがあると、結構何でもできてしまうのではないかと妄想が膨らみます。</description>
-    </item>
-    
-    <item>
-      <title>TFTと電子ペーパーの2画面を搭載したCyberdeck</title>
-      <link>https://inajob.github.io/iroiro-review/post/tft%E3%81%A8%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E3%81%AE2%E7%94%BB%E9%9D%A2%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fcyberdeck/</link>
-      <pubDate>Thu, 01 Dec 2022 23:12:18 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/tft%E3%81%A8%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E3%81%AE2%E7%94%BB%E9%9D%A2%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fcyberdeck/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/TFTと電子ペーパーの2画面を搭載したCyberdeck.jpg"&gt;Cyberdeck Contest 2022: Gibson Rev 001 Thinks Outside The Pelican Caseから発見。画像もここから転載。
-せっかくオリジナルのパソコンを設計するなら、普通のパソコンには搭載されないような機能をつけたいものです。
-この作例では、通常の液晶ディスプレイとは別に、電子ペーパーディスプレイを併設しています。
-液晶に比べるとキーボードの横幅が広いので幅が余ると思っていたが、これは良いアイデアかもしれません。</description>
     </item>
     
   </channel>

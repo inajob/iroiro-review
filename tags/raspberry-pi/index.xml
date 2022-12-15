@@ -5,9 +5,22 @@
     <description>Recent content in Raspberry Pi on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 23 Oct 2022 23:29:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Dec 2022 23:08:51 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/raspberry-pi/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raspberry Piの拡張端子の名前とLEDがついたアダプタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi%E3%81%AE%E6%8B%A1%E5%BC%B5%E7%AB%AF%E5%AD%90%E3%81%AE%E5%90%8D%E5%89%8D%E3%81%A8led%E3%81%8C%E3%81%A4%E3%81%84%E3%81%9F%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF/</link>
+      <pubDate>Thu, 15 Dec 2022 23:08:51 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi%E3%81%AE%E6%8B%A1%E5%BC%B5%E7%AB%AF%E5%AD%90%E3%81%AE%E5%90%8D%E5%89%8D%E3%81%A8led%E3%81%8C%E3%81%A4%E3%81%84%E3%81%9F%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Piの拡張端子の名前とLEDがついたアダプタ.jpg"&gt;Blinky - RPi Header with Labels and LEDsから発見。画像もここから転載。
+Raspberry Piの拡張端子は、電子工作する際にはよく使いますが、どのピンが何の役割かが記載しておらず困ることがあります。 チートシートなどを見る手もありますが、このアダプタもなかなか良いアイデアです。
+この記事で紹介しているのは拡張端子に差し込んで、ピンで延長するアダプタですが、ピンの役割が基板に記されています。 これを重ねておけば、どのピンが何の役割か一目でわかって便利そうです。
+また各ピンにLEDが搭載されており、電圧が高いと光るようになっており、一目でピンの状態を知ることが出来ます。
+ </description>
+    </item>
     
     <item>
       <title>RaspberryPiで作られた携帯電話の作例</title>
@@ -121,17 +134,6 @@ Raspberry Piを使ったタブレット端末のプロジェクトです。
 レトロラジオとアーケードゲームをくっつけたようなユニークな形状のRaspberry Piコンソールの作例です。レトロな外観のラジオ部分は実際に古いラジオを分解して再利用しているようです。
 コントローラの内部にRaspberry Piを内蔵するアイデアは応用が利きそうです。
  </description>
-    </item>
-    
-    <item>
-      <title>かっこいい形状の小型のRaspberryPiラップトップ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E5%BD%A2%E7%8A%B6%E3%81%AE%E5%B0%8F%E5%9E%8B%E3%81%AEraspberrypi%E3%83%A9%E3%83%83%E3%83%97%E3%83%88%E3%83%83%E3%83%97/</link>
-      <pubDate>Mon, 11 May 2020 23:00:49 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E5%BD%A2%E7%8A%B6%E3%81%AE%E5%B0%8F%E5%9E%8B%E3%81%AEraspberrypi%E3%83%A9%E3%83%83%E3%83%97%E3%83%88%E3%83%83%E3%83%97/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/portable-pijpg.jpg"&gt;DIY Ultra Portable Raspberry Pi Laptopから発見。画像もここから転載（CC BY-NC-SA By electronics for everyone）
-非常にかっこいいRaspberry Piコンソールの作例です。ケースは3Dプリンタで作成していて、ヒンジ部分の造形が興味深いです。
-キーボードとの接続はBluetooth,ディスプレイとの接続はGPIOを使っています。GPIOを使ったディスプレイは少し反応速度が遅いのが気になるところです。</description>
     </item>
     
   </channel>
