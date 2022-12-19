@@ -5,9 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 18 Dec 2022 23:14:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Dec 2022 23:14:42 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raspberry Pi Pico搭載のJavaScriptでプログラミングできるオープンソースのゲーム機</title>
+      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E6%90%AD%E8%BC%89%E3%81%AEjavascript%E3%81%A7%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Mon, 19 Dec 2022 23:14:42 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E6%90%AD%E8%BC%89%E3%81%AEjavascript%E3%81%A7%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi Pico搭載のJavaScriptでプログラミングできるオープンソースのゲーム機.jpg"&gt;Sprigから発見。画像もここから転載。
+Raspberry Pi Pico搭載のJavaScriptでプログラミングできるオープンソースのゲーム機です。
+ディスプレイは160x128で、JavaScriptエンジンとしてはKalumaを利用しているようです。
+公式ページにはゲームギャラリーもあり、ブラウザから遊ぶこともできます。
+高校生以下の人はゲームを投稿することでこのゲーム機を予約できるようですが、一般的向けには販売する予定はなさそうです。
+しかし、ハードウェアはオープンソースなので、だれでも同じものを作ることが出来ます。 組み立てが簡単そうな部品ばかりなので冬休みにちょっと組み立ててみるのも楽しそうです。</description>
+    </item>
     
     <item>
       <title>符号付き距離関数ベースのCADプログラミングフレームワーク</title>
@@ -129,21 +143,6 @@ VGAケーブルの一部の端子はGNDにショートしているらしく、�
 様々なタイプのドローンがありますが、食べられるドローン、というものが研究されているようです。
 ネタかと思いきや、遭難者に食料を届けるという理にかなった目的があるようです。 この作例では羽が餅とゼラチンで作られています。
 世の中色々なことを考える人がいますね。</description>
-    </item>
-    
-    <item>
-      <title>WiiでClassic MacOSがそのまま動くHack</title>
-      <link>https://inajob.github.io/iroiro-review/post/wii%E3%81%A7classic-macos%E3%81%8C%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BE%E5%8B%95%E3%81%8Fhack/</link>
-      <pubDate>Mon, 05 Dec 2022 22:55:53 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/wii%E3%81%A7classic-macos%E3%81%8C%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BE%E5%8B%95%E3%81%8Fhack/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/WiiでClassic MacOSがそのまま動くHack.jpg"&gt;It’s MacOS. On An Unmodified Wii!から発見。画像もここから転載。
-もはや懐かしいClassic Mac OSですが、純正ハードウェアでなくても動くように様々なソフトウェアが開発されています。
-この記事で紹介しているのはニンテンドーのWiiでClassic Mac OSを動かす方法です。
-Classic Mac OSはPowerPCというCPUで動作するように設計されており、偶然にもWiiも同じPowerPCが搭載されています。 CPUが同じおかげで、何とWiiでもClassic Mac OSが動かせるようです。
-実際にはWiiで動作するLinuxの上で、Mac-on-Linuxというアプリケーションを起動してClassic Mac OSを動作させているようです。
-Mac-on-LinuxはPowerPC上のLinuxで動作するエミュレータとは違い、PowerPCを活用してClassic Mac OSを動作させるためのソフトウェアです。
- </description>
     </item>
     
   </channel>
