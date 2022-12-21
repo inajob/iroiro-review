@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 20 Dec 2022 22:50:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Dec 2022 22:49:08 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>crisp-game-libがArduboyでも動くように移植された</title>
+      <link>https://inajob.github.io/iroiro-review/post/crisp-game-lib%E3%81%8Carduboy%E3%81%A7%E3%82%82%E5%8B%95%E3%81%8F%E3%82%88%E3%81%86%E3%81%AB%E7%A7%BB%E6%A4%8D%E3%81%95%E3%82%8C%E3%81%9F/</link>
+      <pubDate>Wed, 21 Dec 2022 22:49:08 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/crisp-game-lib%E3%81%8Carduboy%E3%81%A7%E3%82%82%E5%8B%95%E3%81%8F%E3%82%88%E3%81%86%E3%81%AB%E7%A7%BB%E6%A4%8D%E3%81%95%E3%82%8C%E3%81%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/crisp-game-libがArduboyでも動くように移植された.jpg"&gt;crisp-game-lib-arduboy - OBONO’s Diaryから発見。画像もここから転載。
+ABA さんが作成した、ブラウザ用のミニゲーム作成ライブラリであるcrisp-game-libですが、ご本人によりESP32などで動作するportable版が開発されています。
+しかし、いくらportableとはいってもESP32のようなパワフルなマイコンをターゲットにしたライブラリなので、Arduboyのような8bitのマイコンを搭載したゲーム機では動かすことはできませんでした。
+そんなcrisp-game-libがついにArduboyにも移植されました。移植したのはOBONO さん。 容量節約のテクニックの紹介も非常に参考になります。</description>
+    </item>
     
     <item>
       <title>3Dプリンタのノズル付近にカメラを搭載する</title>
@@ -132,19 +144,6 @@ LEDの点滅タイミングとファンの回転数制御などは手動です�
 しかし、この方式だと分割キーボードの左右にマイコンが必要となります。
 もっとたくさんの電極を持つケーブルを使えば、片方のキーボードのマトリクス配線をすべて反対側のキーボードに伝えることができ、マイコンボードは片方だけにあればよいことになるのに・・という流れで設計されたのが、このVGAケーブル接続の分割キーボードです。
 VGAケーブルの一部の端子はGNDにショートしているらしく、すべてのピンを使うことが出来ない点は注意が必要です。
- </description>
-    </item>
-    
-    <item>
-      <title>スマフォを物理キー付きにするアタッチメント</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%9E%E3%83%95%E3%82%A9%E3%82%92%E7%89%A9%E7%90%86%E3%82%AD%E3%83%BC%E4%BB%98%E3%81%8D%E3%81%AB%E3%81%99%E3%82%8B%E3%82%A2%E3%82%BF%E3%83%83%E3%83%81%E3%83%A1%E3%83%B3%E3%83%88/</link>
-      <pubDate>Wed, 07 Dec 2022 23:18:28 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%9E%E3%83%95%E3%82%A9%E3%82%92%E7%89%A9%E7%90%86%E3%82%AD%E3%83%BC%E4%BB%98%E3%81%8D%E3%81%AB%E3%81%99%E3%82%8B%E3%82%A2%E3%82%BF%E3%83%83%E3%83%81%E3%83%A1%E3%83%B3%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/スマフォを物理キー付きにするアタッチメント.jpg"&gt;GUGENから発見。画像もここから転載。
-今や、携帯端末から物理キーボードがなくなってしまいました。 ガラケーや、一部のキーボード付きスマートフォンにも根強い人気があったものの、今では物理キーボード付きの端末はほとんど目にしません。
-そんな中、この記事で紹介しているのは、スマートフォンにアタッチメントとして取り付ける物理キーボードです。 コの字型のユニークな筐体がスマートフォンの左右にキーボードを展開します。
-今年のGUGENに出場しているようで、興味のある人は「欲しいね」を押してみてはどうでしょうか？
  </description>
     </item>
     
