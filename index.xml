@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 25 Dec 2022 23:41:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Dec 2022 23:02:18 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>自作の基板ホットプレート2</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E5%9F%BA%E6%9D%BF%E3%83%9B%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%83%BC%E3%83%882/</link>
+      <pubDate>Mon, 26 Dec 2022 23:02:18 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E5%9F%BA%E6%9D%BF%E3%83%9B%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%83%BC%E3%83%882/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/自作の基板ホットプレート2.jpg"&gt;PCB Reflow Hot Plateから発見。画像もここから転載。
+昨日紹介したPCBで作られた超小型のリフロー装置ですが、さらに改良されたものを発見しました。 よく似た構成ですが、温度プロファイルを設定できるようになっており、OLEDによる状態表示もできます。
+制御はATTiny1614を使っています。
+昨日の記事には記載のなかった、回路図やガーバーデータも公開されているので、非常に参考になりそうです。
+ </description>
+    </item>
     
     <item>
       <title>自作の基板ホットプレート</title>
@@ -130,21 +143,6 @@ FDM式3Dプリンタでは、造形物をスライスすることで、造形パ
 ノズル周りの障害物の状況によりますが、この手法は既存の3Dプリンタでもそのまま使うことが出来るため、家に3Dプリンタがある方はすぐにでも試すことが出来そうです。
 ソフトウェアだけでこの問題を解決できるというのはなかなか面白いです。
  </description>
-    </item>
-    
-    <item>
-      <title>MMUのないRISC-VエミュレータでDOOMを動かすデモ</title>
-      <link>https://inajob.github.io/iroiro-review/post/mmu%E3%81%AE%E3%81%AA%E3%81%84risc-v%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%81%A7doom%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99%E3%83%87%E3%83%A2/</link>
-      <pubDate>Mon, 12 Dec 2022 22:59:58 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/mmu%E3%81%AE%E3%81%AA%E3%81%84risc-v%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%81%A7doom%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99%E3%83%87%E3%83%A2/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/MMUのないRISC-VエミュレータでDOOMを動かすデモ.jpg"&gt;A Tiny RISC-V Emulator Runs Linux With No MMU. And Yes, It Runs DOOM!から発見。画像もここから転載。
-MMUのない小規模なRISC-Vエミュレータを作りLinuxを動かし、そこでDOOMを実行しています。
-このRISC-Vエミュレータはシンプルさゆえに移植もしやすそうで、M5Stackに移植するのも比較的簡単のようです。 （ただしM5Stackでの実行は非常に遅いようですが・・）
- #M5Stack (ESP32)でLinux (RISC-V)を動かすコードを公開しました。実用性には触れませんが、キーボードのFACEを利用すればまさに手のひらLinuxマシンとなる、ロマン性能が高めのブツです。
-コード:https://t.co/PrM18pHjot
-起動画面を8分ほど眺める動画: https://t.co/IdAm9fAEMW
-&amp;mdash; verylowfreq (@verylowfreq) December 10, 2022  </description>
     </item>
     
   </channel>
