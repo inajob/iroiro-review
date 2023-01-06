@@ -5,9 +5,22 @@
     <description>Recent content in 楽器 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 11 Oct 2022 22:50:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jan 2023 00:38:43 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%A5%BD%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>距離センサー、光センサーを使ったMIDI楽器</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%B7%9D%E9%9B%A2%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%85%89%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fmidi%E6%A5%BD%E5%99%A8/</link>
+      <pubDate>Fri, 06 Jan 2023 00:38:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%B7%9D%E9%9B%A2%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%85%89%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fmidi%E6%A5%BD%E5%99%A8/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/距離センサー、光センサーを使ったMIDI楽器.jpg"&gt;Nanoaetherphone Is A Special MIDI Controllerから発見。画像もここから転載。
+距離センサー、光センサーを使った面白いMIDI楽器の作例です。
+距離センサーで音程を、光センサーで音量を制御します。
+音声の出力はMIDI信号により外部の音源を利用しています。
+ </description>
+    </item>
     
     <item>
       <title>ホイールにつけた溝に薄い板を擦り付ける音を鳴らすオルガン風の楽器</title>
@@ -120,17 +133,6 @@ I played my kalimba. https://t.co/0eyTbSlrst pic.twitter.com/UzAO0DazUo
 既存の楽器を改造してMIDIなどのデジタル信号を出力するという試みは多くあります。 この記事で紹介しているのは、バンドネオンをMIDI対応したという作例です。
 バンドネオンの鍵盤の押下は鍵盤と連動して動く内部のアームにネオジウム磁石を貼り付け、ホールセンサーによって検出しています。
 この方法は物理的な接点を持たず、既存の楽器を壊すことなくデジタル化する良い方法で、現にこのバンドネオンもMIDI化した後も普通に演奏できるようです。</description>
-    </item>
-    
-    <item>
-      <title>Arduino互換のキーボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/arduino%E4%BA%92%E6%8F%9B%E3%81%AEmidi%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Sun, 31 Oct 2021 11:00:12 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/arduino%E4%BA%92%E6%8F%9B%E3%81%AEmidi%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/arduino-midi-keyboard.jpg"&gt;Mini-Tone Keyboard Badgeから発見。画像もここから転載。
-Arduino互換の2.5オクターブ鍵盤を搭載したキーボードの作例です。 CPUはATMega328PB、USBシリアル変換ICにはCH340Gと、よく見かける格安Arduinoと同じ構成になっています。
-3.5mmオーディオジャックや、スピーカーも搭載され、スタンドアローンでも動作するように工夫されています。</description>
     </item>
     
   </channel>

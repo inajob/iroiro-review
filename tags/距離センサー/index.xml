@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>距離センサー on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E8%B7%9D%E9%9B%A2%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/</link>
+    <description>Recent content in 距離センサー on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Fri, 06 Jan 2023 00:38:43 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E8%B7%9D%E9%9B%A2%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>距離センサー、光センサーを使ったMIDI楽器</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%B7%9D%E9%9B%A2%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%85%89%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fmidi%E6%A5%BD%E5%99%A8/</link>
+      <pubDate>Fri, 06 Jan 2023 00:38:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%B7%9D%E9%9B%A2%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%85%89%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fmidi%E6%A5%BD%E5%99%A8/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/距離センサー、光センサーを使ったMIDI楽器.jpg"&gt;Nanoaetherphone Is A Special MIDI Controllerから発見。画像もここから転載。
+距離センサー、光センサーを使った面白いMIDI楽器の作例です。
+距離センサーで音程を、光センサーで音量を制御します。
+音声の出力はMIDI信号により外部の音源を利用しています。
+ </description>
+    </item>
+    
+  </channel>
+</rss>
+
