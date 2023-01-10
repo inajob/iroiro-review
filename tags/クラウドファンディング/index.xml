@@ -5,9 +5,22 @@
     <description>Recent content in クラウドファンディング on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 26 Apr 2021 11:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jan 2023 23:21:54 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Arduino Miniのクラウドファンディングは大成功し企画当初より仕様がアップグレードされた</title>
+      <link>https://inajob.github.io/iroiro-review/post/arduino-mini%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%AF%E5%A4%A7%E6%88%90%E5%8A%9F%E3%81%97%E4%BC%81%E7%94%BB%E5%BD%93%E5%88%9D%E3%82%88%E3%82%8A%E4%BB%95%E6%A7%98%E3%81%8C%E3%82%A2%E3%83%83%E3%83%97%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%89%E3%81%95%E3%82%8C%E3%81%9F/</link>
+      <pubDate>Tue, 10 Jan 2023 23:21:54 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/arduino-mini%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%AF%E5%A4%A7%E6%88%90%E5%8A%9F%E3%81%97%E4%BC%81%E7%94%BB%E5%BD%93%E5%88%9D%E3%82%88%E3%82%8A%E4%BB%95%E6%A7%98%E3%81%8C%E3%82%A2%E3%83%83%E3%83%97%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%89%E3%81%95%E3%82%8C%E3%81%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Arduino Miniのクラウドファンディングは大成功し企画当初より仕様がアップグレードされた.jpg"&gt;New And Improved Arduboy Mini Smashes Funding Goalから発見。画像もここから転載。
+以前も紹介したArduino Miniという、さらに小型のArduboyのプロダクトのクラウドファンディングが開催されていましたが、先日、目標額を大きく上回って達成されました。
+この大成功により、Arduino Miniの仕様はアップグレードされ、当初予定されていなかった5mmピエゾスピーカー、Qwiic端子、バッテリー用1.25mm Molex端子、メインCPUのポートの引き出しなどが実現しました。
+Arduboy Miniは従来のArduboy(や最新のArduoy FX)の代替となるものではなく、Hack可能なさらに小型のArduboyという位置づけの製品です。
+ケース、バッテリーなどは付属せず、購入者が自分で何とかする必要がある製品なので、購入を検討の際は注意が必要です。</description>
+    </item>
     
     <item>
       <title>灯篭風のオブジェによる良い感じのプロジェクションランプ</title>
@@ -120,18 +133,6 @@ AR技術を使ったボードゲームデバイスです。
 しかしノートパソコンとは違い、スマートフォンの画面は狭く、またキーボードもありません。
 ここで紹介しているNexDock 2はノートパソコン型の「外付けディスプレイ＋キーボード＋バッテリー」です。 一見ノートパソコンのように見えますが、中にCPUは入っていないというわけです。
 名前に2とついていることからもわかるように、すでに&amp;quot;NexDock&amp;quot;という製品は2016年に製品化されています。が、今回はさらに性能がアップしているようです。</description>
-    </item>
-    
-    <item>
-      <title>細かなセンシングができるタッチセンサー</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E7%B4%B0%E3%81%8B%E3%81%AA%E3%82%BB%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%BF%E3%83%83%E3%83%81%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/</link>
-      <pubDate>Sun, 29 Sep 2019 23:00:43 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E7%B4%B0%E3%81%8B%E3%81%AA%E3%82%BB%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%BF%E3%83%83%E3%83%81%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/trill.jpg"&gt;TRILL: Touch Sensing for Makersから転載。画像もここから転載。
-静電容量タッチをうまい具合に扱うことができるセンサーのプロジェクトです。 様々な形や大きさのセンサーが用意されており、またそれらを組み合わせたり、はさみで切って（！！）形状を変形させることもできるようです。
-それとは別にタッチセンサーのコントロールボードであるTOUCH CRAFTという製品も合わせて用意されており、これを使うと、任意の基板上のパターンや、アルミホイルなどで作ったオリジナルのタッチデバイスを制御することもできるようです。
- </description>
     </item>
     
   </channel>
