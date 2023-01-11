@@ -3,27 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://inajob.github.io/iroiro-review/</loc>
+    <lastmod>2023-01-11T23:35:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/post/</loc>
+    <lastmod>2023-01-11T23:35:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/tags/python/</loc>
+    <lastmod>2023-01-11T23:35:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/tags/</loc>
+    <lastmod>2023-01-11T23:35:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/tags/%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%91%E3%83%83%E3%83%89/</loc>
+    <lastmod>2023-01-11T23:35:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/post/%E5%9F%BA%E6%9D%BF%E8%A8%AD%E8%A8%88%E3%82%82%E5%90%AB%E3%82%81%E3%81%A6%E3%81%99%E3%81%B9%E3%81%A6python%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%95%E3%82%8C%E3%81%9F%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</loc>
+    <lastmod>2023-01-11T23:35:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/tags/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</loc>
+    <lastmod>2023-01-11T23:35:15+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://inajob.github.io/iroiro-review/tags/arduboy/</loc>
     <lastmod>2023-01-10T23:21:54+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://inajob.github.io/iroiro-review/post/arduino-mini%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%AF%E5%A4%A7%E6%88%90%E5%8A%9F%E3%81%97%E4%BC%81%E7%94%BB%E5%BD%93%E5%88%9D%E3%82%88%E3%82%8A%E4%BB%95%E6%A7%98%E3%81%8C%E3%82%A2%E3%83%83%E3%83%97%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%89%E3%81%95%E3%82%8C%E3%81%9F/</loc>
-    <lastmod>2023-01-10T23:21:54+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://inajob.github.io/iroiro-review/</loc>
-    <lastmod>2023-01-10T23:21:54+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://inajob.github.io/iroiro-review/post/</loc>
-    <lastmod>2023-01-10T23:21:54+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://inajob.github.io/iroiro-review/tags/</loc>
     <lastmod>2023-01-10T23:21:54+00:00</lastmod>
   </url>
   
@@ -224,11 +244,6 @@
   
   <url>
     <loc>https://inajob.github.io/iroiro-review/post/vga%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E3%81%A7%E6%8E%A5%E7%B6%9A%E3%81%95%E3%82%8C%E3%81%9F%E5%88%86%E5%89%B2%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</loc>
-    <lastmod>2022-12-08T23:19:49+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://inajob.github.io/iroiro-review/tags/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</loc>
     <lastmod>2022-12-08T23:19:49+00:00</lastmod>
   </url>
   
@@ -659,11 +674,6 @@
   
   <url>
     <loc>https://inajob.github.io/iroiro-review/post/%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AB%E5%BC%8F%E3%81%AEdip%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%81%A7%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E6%8C%87%E5%AE%9A%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%AD%E3%83%BC%E3%83%91%E3%83%83%E3%83%89/</loc>
-    <lastmod>2022-10-02T22:39:24+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://inajob.github.io/iroiro-review/tags/%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%91%E3%83%83%E3%83%89/</loc>
     <lastmod>2022-10-02T22:39:24+00:00</lastmod>
   </url>
   
