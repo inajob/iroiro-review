@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>磁性流体 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E7%A3%81%E6%80%A7%E6%B5%81%E4%BD%93/</link>
+    <description>Recent content in 磁性流体 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sun, 15 Jan 2023 23:29:29 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E7%A3%81%E6%80%A7%E6%B5%81%E4%BD%93/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>VHSのテープから磁性流体を自作する技</title>
+      <link>https://inajob.github.io/iroiro-review/post/vhs%E3%81%AE%E3%83%86%E3%83%BC%E3%83%97%E3%81%8B%E3%82%89%E7%A3%81%E6%80%A7%E6%B5%81%E4%BD%93%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%99%E3%82%8B%E6%8A%80/</link>
+      <pubDate>Sun, 15 Jan 2023 23:29:29 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/vhs%E3%81%AE%E3%83%86%E3%83%BC%E3%83%97%E3%81%8B%E3%82%89%E7%A3%81%E6%80%A7%E6%B5%81%E4%BD%93%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%99%E3%82%8B%E6%8A%80/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/VHSのテープから磁性流体を自作する技.jpg"&gt;You Can Make Ferrofluid On The Cheap With VHS Tapesから発見。画像もここから転載。
+VHSのテープなんて、今や使いどころはないですが、リサイクルすることで磁性流体を作れるようです。
+アセトンでテープを溶かして磁石で酸化鉄を回収し、乾燥させたのちに食用油や洗剤と混ぜ、大きな磁石で磁化させることでこの写真のような磁性流体が作れます。</description>
+    </item>
+    
+  </channel>
+</rss>
+
