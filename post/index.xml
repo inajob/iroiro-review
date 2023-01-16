@@ -5,9 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 15 Jan 2023 23:29:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jan 2023 23:27:14 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>頭が良い構造のリニアセンサー</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%A0%AD%E3%81%8C%E8%89%AF%E3%81%84%E6%A7%8B%E9%80%A0%E3%81%AE%E3%83%AA%E3%83%8B%E3%82%A2%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/</link>
+      <pubDate>Mon, 16 Jan 2023 23:27:14 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%A0%AD%E3%81%8C%E8%89%AF%E3%81%84%E6%A7%8B%E9%80%A0%E3%81%AE%E3%83%AA%E3%83%8B%E3%82%A2%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/頭が良い構造のリニアセンサー.jpg"&gt;Clever Mechanism Makes A Linear Control From A Rotary Hall Sensorから発見。画像もここから転載。
+大きなリニアセンサーってなかなか入手が難しいです。
+となると「自作だ！」と考えるわけですが、どういう仕組みにするかはまた悩みどころです。
+この記事で紹介しているのは、絵を見れば一目瞭然、ひねった板のようなものを使い位置をセンシングするリニアセンサーです。
+板に固定されたベアリングに磁石を取り付けホールセンサーを使って角度を取得しています。
+ </description>
+    </item>
     
     <item>
       <title>VHSのテープから磁性流体を自作する技</title>
@@ -119,19 +133,6 @@ Micro:Bitをコアとした手のひらサイズの鍵盤付きのシンセサ�
 制御はATTiny13を利用しており、温度はサーミスタで計測して、ホットプレートが厚くなりすぎないようMOSFETで制御しているようです。
 リフロー用のホットプレートは専用の物を買おうとすると高くつきますが、こうやって自作できるなら安く作ることが出来そうです。（まぁでも、多分本当に欲しいなら素直に良いものを買うのが良いと思いますよ！）
  </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタ用の汎用コンソールを別の用途に利用するために解析する</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E7%94%A8%E3%81%AE%E6%B1%8E%E7%94%A8%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB%E3%82%92%E5%88%A5%E3%81%AE%E7%94%A8%E9%80%94%E3%81%AB%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E8%A7%A3%E6%9E%90%E3%81%99%E3%82%8B/</link>
-      <pubDate>Thu, 22 Dec 2022 23:15:59 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E7%94%A8%E3%81%AE%E6%B1%8E%E7%94%A8%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB%E3%82%92%E5%88%A5%E3%81%AE%E7%94%A8%E9%80%94%E3%81%AB%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E8%A7%A3%E6%9E%90%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ用の汎用コンソールを別の用途に利用するために解析する.jpg"&gt;A Cheap 3D Printer Control Panel As A General Purpose Interfaceから発見。画像もここから転載。
-汎用化されたパーツは低価格で販売されているものが多いです。
-そういったパーツをうまく流用して自分の作品に取り込むことで安く済ませるというのは、よくあるテクニックですが、この記事で紹介しているのは3Dプリンタ用のコンソールパネルの部品です。
-この部品はタクトスイッチとフルカラーLED、ロータリーエンコーダ、大きめのLCD表示機、SDカードリーダー、ブザーが搭載されているもので、汎用性が高く、色々な用途に利用できそうです。
-そしてこのモジュール、確かにAliExpressで見ると$10程度と安価で入手できそうです。 一つ買っておこうかな・・</description>
     </item>
     
   </channel>
