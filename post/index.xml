@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 16 Jan 2023 23:27:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jan 2023 23:06:01 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>平面を円弧状にスライスすることで従来難しかった中空へのプリントを可能にするHACK</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%B9%B3%E9%9D%A2%E3%82%92%E5%86%86%E5%BC%A7%E7%8A%B6%E3%81%AB%E3%82%B9%E3%83%A9%E3%82%A4%E3%82%B9%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E5%BE%93%E6%9D%A5%E9%9B%A3%E3%81%97%E3%81%8B%E3%81%A3%E3%81%9F%E4%B8%AD%E7%A9%BA%E3%81%B8%E3%81%AE%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%82%92%E5%8F%AF%E8%83%BD%E3%81%AB%E3%81%99%E3%82%8Bhack/</link>
+      <pubDate>Tue, 17 Jan 2023 23:06:01 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%B9%B3%E9%9D%A2%E3%82%92%E5%86%86%E5%BC%A7%E7%8A%B6%E3%81%AB%E3%82%B9%E3%83%A9%E3%82%A4%E3%82%B9%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E5%BE%93%E6%9D%A5%E9%9B%A3%E3%81%97%E3%81%8B%E3%81%A3%E3%81%9F%E4%B8%AD%E7%A9%BA%E3%81%B8%E3%81%AE%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%82%92%E5%8F%AF%E8%83%BD%E3%81%AB%E3%81%99%E3%82%8Bhack/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/平面を円弧状にスライスすることで従来難しかった中空へのプリントを可能にするHACK.jpg"&gt;Arc Overhangs Make “Impossible” 3D Printsから発見。画像もここから転載。
+積層式の3Dプリンタはオーバーハング形状が苦手ですが、スライサーを工夫することで、この弱点を克服する方法があります。
+この記事で紹介しているのは、オーバーハング部分を円弧状にスライスすることで、サポート材なしに造形するテクニックです。
+冷却に気を遣う必要がありますが、3Dプリンタは無改造で実現できるというのが特徴です。
+ </description>
+    </item>
     
     <item>
       <title>頭が良い構造のリニアセンサー</title>
@@ -119,19 +132,6 @@ Micro:Bitをコアとした手のひらサイズの鍵盤付きのシンセサ�
 昨日紹介したPCBで作られた超小型のリフロー装置ですが、さらに改良されたものを発見しました。 よく似た構成ですが、温度プロファイルを設定できるようになっており、OLEDによる状態表示もできます。
 制御はATTiny1614を使っています。
 昨日の記事には記載のなかった、回路図やガーバーデータも公開されているので、非常に参考になりそうです。
- </description>
-    </item>
-    
-    <item>
-      <title>自作の基板ホットプレート</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E5%9F%BA%E6%9D%BF%E3%83%9B%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88/</link>
-      <pubDate>Sun, 25 Dec 2022 23:41:55 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E5%9F%BA%E6%9D%BF%E3%83%9B%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/自作の基板ホットプレート.jpg"&gt;PCB Hotplate Has Integrated Heating Element Tracesから発見。画像もここから転載。
-自作の基板ホットプレートの作例です。 ホットプレート部分も平面コイルを搭載した基板で構成しており、12Vの入力で214℃まで上げられます。
-制御はATTiny13を利用しており、温度はサーミスタで計測して、ホットプレートが厚くなりすぎないようMOSFETで制御しているようです。
-リフロー用のホットプレートは専用の物を買おうとすると高くつきますが、こうやって自作できるなら安く作ることが出来そうです。（まぁでも、多分本当に欲しいなら素直に良いものを買うのが良いと思いますよ！）
  </description>
     </item>
     

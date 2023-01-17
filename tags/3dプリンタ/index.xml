@@ -5,9 +5,22 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 22 Dec 2022 23:15:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jan 2023 23:06:01 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>平面を円弧状にスライスすることで従来難しかった中空へのプリントを可能にするHACK</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%B9%B3%E9%9D%A2%E3%82%92%E5%86%86%E5%BC%A7%E7%8A%B6%E3%81%AB%E3%82%B9%E3%83%A9%E3%82%A4%E3%82%B9%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E5%BE%93%E6%9D%A5%E9%9B%A3%E3%81%97%E3%81%8B%E3%81%A3%E3%81%9F%E4%B8%AD%E7%A9%BA%E3%81%B8%E3%81%AE%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%82%92%E5%8F%AF%E8%83%BD%E3%81%AB%E3%81%99%E3%82%8Bhack/</link>
+      <pubDate>Tue, 17 Jan 2023 23:06:01 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%B9%B3%E9%9D%A2%E3%82%92%E5%86%86%E5%BC%A7%E7%8A%B6%E3%81%AB%E3%82%B9%E3%83%A9%E3%82%A4%E3%82%B9%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E5%BE%93%E6%9D%A5%E9%9B%A3%E3%81%97%E3%81%8B%E3%81%A3%E3%81%9F%E4%B8%AD%E7%A9%BA%E3%81%B8%E3%81%AE%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%82%92%E5%8F%AF%E8%83%BD%E3%81%AB%E3%81%99%E3%82%8Bhack/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/平面を円弧状にスライスすることで従来難しかった中空へのプリントを可能にするHACK.jpg"&gt;Arc Overhangs Make “Impossible” 3D Printsから発見。画像もここから転載。
+積層式の3Dプリンタはオーバーハング形状が苦手ですが、スライサーを工夫することで、この弱点を克服する方法があります。
+この記事で紹介しているのは、オーバーハング部分を円弧状にスライスすることで、サポート材なしに造形するテクニックです。
+冷却に気を遣う必要がありますが、3Dプリンタは無改造で実現できるというのが特徴です。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタ用の汎用コンソールを別の用途に利用するために解析する</title>
@@ -133,19 +146,6 @@ FDM式3Dプリンタでは、造形物をスライスすることで、造形パ
 合板をCNCカッターで切断し、いくつかの3Dプリンタ製の部品で構成されているようです。
 もちろんタイヤやチェーン、ペダルなどは別途用意する必要がありますが、自作の自転車というのは面白そうです。
 大きなCNCを利用できる環境にある人は、ぜひ作ってみてください。 (大きなCNC、使ってみたい・・）</description>
-    </item>
-    
-    <item>
-      <title>チープなベルト式ベッドの3Dプリンタ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%81%E3%83%BC%E3%83%97%E3%81%AA%E3%83%99%E3%83%AB%E3%83%88%E5%BC%8F%E3%83%99%E3%83%83%E3%83%89%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
-      <pubDate>Sun, 06 Nov 2022 23:12:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%81%E3%83%BC%E3%83%97%E3%81%AA%E3%83%99%E3%83%AB%E3%83%88%E5%BC%8F%E3%83%99%E3%83%83%E3%83%89%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/チープなベルト式ベッドの3Dプリンタ.jpg"&gt;ERRF 22: Baby Belt Promises Infinite Z For Under $200から発見。画像もここから転載。
-ベルト式のベッドを持つ3Dプリンタは高級品なイメージがありますが、この記事で紹介しているのは小型ゆえに安価なものです。
-造形範囲は狭いですがベルトの方向にはかなり長いものが作れるというバランスがなかなか面白いです。
-ステッピングモータは安価な28BYJ-48、ベルトの素材としては、画用紙とカーペットテープと布を組み合わせたもののようで、安く作るための工夫が随所に見られます。
- </description>
     </item>
     
   </channel>
