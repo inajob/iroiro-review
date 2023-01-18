@@ -5,9 +5,23 @@
     <description>Recent content in ソレノイド on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 30 Nov 2022 21:28:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jan 2023 23:20:35 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%82%BD%E3%83%AC%E3%83%8E%E3%82%A4%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ハプティックフィードバックのあるマウス</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%8F%E3%83%97%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%95%E3%82%A3%E3%83%BC%E3%83%89%E3%83%90%E3%83%83%E3%82%AF%E3%81%AE%E3%81%82%E3%82%8B%E3%83%9E%E3%82%A6%E3%82%B9/</link>
+      <pubDate>Wed, 18 Jan 2023 23:20:35 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%8F%E3%83%97%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%95%E3%82%A3%E3%83%BC%E3%83%89%E3%83%90%E3%83%83%E3%82%AF%E3%81%AE%E3%81%82%E3%82%8B%E3%83%9E%E3%82%A6%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ハプティックフィードバックのあるマウス.jpg"&gt;shiura さんのTweetから発見。画像もここから転載。
+マウスというと、古くからある入力デバイスですが、これに触覚フィードバックを実装した作例を紹介します。
+マウスの中にソレノイドを搭載し、マウスカーソルの形状に応じて振動を発生させるという仕組みです。 クリックできない部分でクリックしようとすると、その感触が返ってくるような使い方が出来そうです。
+市販のマウスをばらして、自作されているようで、結構安価に研究が出来そうなのもポイントです。
+マウスカーソルの形状を常時ウォッチし、左指に触覚フィードバックを返すマウスを作ってみた。ウェブページのリンクにマウスオーバーすると触覚でわかる。マウスカーソルの形状が変化するアプリなら、ほぼどれでも使えるはず。触覚は動画では伝えられないので動作音を聞いてみてください。 pic.twitter.com/yVFrEP1wHr
+&amp;mdash; shiura (@shiura) January 9, 2023  </description>
+    </item>
     
     <item>
       <title>面白い発想のデジタル砂時計装置</title>
