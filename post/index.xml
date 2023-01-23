@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 19 Jan 2023 23:29:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jan 2023 02:02:03 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Vimを操作するためのペダル</title>
+      <link>https://inajob.github.io/iroiro-review/post/vim%E3%82%92%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%9A%E3%83%80%E3%83%AB/</link>
+      <pubDate>Mon, 23 Jan 2023 02:02:03 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/vim%E3%82%92%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%9A%E3%83%80%E3%83%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Vimを操作するためのペダル.jpg"&gt;Foot Pedal Ups Vim Productivity, Brings Ergonomic Benefitsから発見。画像もここから転載。
+Vimを操作するためのペダルの作例です。 ペダルを踏むと「i」が打鍵され挿入モードとなり、離すとEscが打鍵され標準モードに戻るという、直感的なvimの動作が実現します。
+ebayで購入したペダルにRaspberry Pi Picoを埋め込み、USBキーボードとして振る舞わせることで、これを実現しています。
+通称「Vimクラッチ」と呼ばれているのだとか、、</description>
+    </item>
     
     <item>
       <title>野良Arduinoに貼ると便利そうなピンの役割を示すシール</title>
@@ -121,19 +133,6 @@ Arduboy Miniは従来のArduboy(や最新のArduoy FX)の代替となるもの�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/5x5の鍵盤と傾きで制御する小さなシンセサイザー.jpg"&gt;BBC Micro:Bit As Handheld Synthesizerから発見。画像もここから転載。
 Micro:Bitをコアとした手のひらサイズの鍵盤付きのシンセサイザーです。
 動画の音はあまり良いものではありませんが、5x5のグリッド上のスイッチと傾きセンサーによるエフェクト操作には可能性を感じます。
- </description>
-    </item>
-    
-    <item>
-      <title>距離センサー、光センサーを使ったMIDI楽器</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E8%B7%9D%E9%9B%A2%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%85%89%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fmidi%E6%A5%BD%E5%99%A8/</link>
-      <pubDate>Fri, 06 Jan 2023 00:38:43 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E8%B7%9D%E9%9B%A2%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%85%89%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fmidi%E6%A5%BD%E5%99%A8/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/距離センサー、光センサーを使ったMIDI楽器.jpg"&gt;Nanoaetherphone Is A Special MIDI Controllerから発見。画像もここから転載。
-距離センサー、光センサーを使った面白いMIDI楽器の作例です。
-距離センサーで音程を、光センサーで音量を制御します。
-音声の出力はMIDI信号により外部の音源を利用しています。
  </description>
     </item>
     
