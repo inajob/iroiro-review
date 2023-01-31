@@ -5,9 +5,24 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 30 Jan 2023 23:41:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Jan 2023 23:08:32 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>子供に何を目的に3Dプリンタを使わせるかという話</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%AD%90%E4%BE%9B%E3%81%AB%E4%BD%95%E3%82%92%E7%9B%AE%E7%9A%84%E3%81%AB3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E4%BD%BF%E3%82%8F%E3%81%9B%E3%82%8B%E3%81%8B%E3%81%A8%E3%81%84%E3%81%86%E8%A9%B1/</link>
+      <pubDate>Tue, 31 Jan 2023 23:08:32 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%AD%90%E4%BE%9B%E3%81%AB%E4%BD%95%E3%82%92%E7%9B%AE%E7%9A%84%E3%81%AB3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E4%BD%BF%E3%82%8F%E3%81%9B%E3%82%8B%E3%81%8B%E3%81%A8%E3%81%84%E3%81%86%E8%A9%B1/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/子供に何を目的に3Dプリンタを使わせるかという話.jpg"&gt;Ask Hackaday: Do Kids Need 3D Printers?から発見。画像もここから転載。
+「学校に3Dプリンタを導入しよう！」みたいな話はよく聞きますが、実際のところこれにはどのような効果があるのでしょう？
+安価な3Dプリンタは期待するほどきれいな立体物を生成することはできず、また理不尽に頻繁に印刷に失敗します。 こういうマシンの特性との試行錯誤が、どの程度子供に対して有益なのかは疑問の余地があります。
+新しい加工機としての3Dプリンタの特性や、デジタルで設計したものがモノとして生成できるという体験をしたいだけなら、3Dプリントサービスに外注しても同じ効果が得られそうです。
+もちろん、機械で物を作る時の試行錯誤で得られるものもありますが、これは結構泥臭く、かつほかに応用が利かないノウハウも多数必要なため、そこまでの学習をほかの教科の時間を割いてまで体験させる必要があるかという点も考慮が必要です。
+この記事は、上記のような子供に3Dプリンタを使わせるという話についての利点、欠点を整理し、あなたはどう思いますか？ という形で話をまとめています。
+さて、あなたはどう思いますか？</description>
+    </item>
     
     <item>
       <title>車のカセットテーププレイヤーを利用してカップホルダーを設置するHACK</title>
@@ -131,19 +146,6 @@ FDM式3Dプリンタでは、造形物をスライスすることで、造形パ
 利用しているのはDellのWyse 3040というシンクライアントマシンです。Debianのイメージを書き込んだUSBメモリをさして起動することで普通にLinuxマシンとして利用できるようです。
 サイズもコンパクトで、3Dプリンタの内部に設置することも難しくありません。
 昨今の半導体不足でRaspberry Piの入手が難しくなっているので、こういう代替案も頭の片隅に入れておくと良いかもしれません。
- </description>
-    </item>
-    
-    <item>
-      <title>スライサーを使わず自前でg-codeを作る</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%A9%E3%82%A4%E3%82%B5%E3%83%BC%E3%82%92%E4%BD%BF%E3%82%8F%E3%81%9A%E8%87%AA%E5%89%8D%E3%81%A7g-code%E3%82%92%E4%BD%9C%E3%82%8B/</link>
-      <pubDate>Thu, 10 Nov 2022 23:16:54 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%A9%E3%82%A4%E3%82%B5%E3%83%BC%E3%82%92%E4%BD%BF%E3%82%8F%E3%81%9A%E8%87%AA%E5%89%8D%E3%81%A7g-code%E3%82%92%E4%BD%9C%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/スライサーを使わず自前でg-codeを作る.jpg"&gt;Playing With The Power Of Full G-Code Controlから発見。画像もここから転載。
-スライサーを使わず自前でg-codeを作るという技があります。 これは既存のスライサーを使う方法に比べると手間がかかりますが、これにより普通のスライサーでは作れないようなオーバーハングの造形を行うことが出来ます。
-この記事で紹介しているページでは、このように「g-code芸」で作られた様々な造形物のg-codeを配布しています。
-少し変わった造形を行いたいときは助けになりそうなテクニックです。
  </description>
     </item>
     
