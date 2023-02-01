@@ -5,9 +5,24 @@
     <description>Recent content in Arduino on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 29 Jan 2023 23:27:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Feb 2023 23:21:11 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ほぼスルーホール部品で構成されたArduino互換名刺基板</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%BB%E3%81%BC%E3%82%B9%E3%83%AB%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB%E9%83%A8%E5%93%81%E3%81%A7%E6%A7%8B%E6%88%90%E3%81%95%E3%82%8C%E3%81%9Farduino%E4%BA%92%E6%8F%9B%E5%90%8D%E5%88%BA%E5%9F%BA%E6%9D%BF/</link>
+      <pubDate>Wed, 01 Feb 2023 23:21:11 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%BB%E3%81%BC%E3%82%B9%E3%83%AB%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB%E9%83%A8%E5%93%81%E3%81%A7%E6%A7%8B%E6%88%90%E3%81%95%E3%82%8C%E3%81%9Farduino%E4%BA%92%E6%8F%9B%E5%90%8D%E5%88%BA%E5%9F%BA%E6%9D%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ほぼスルーホール部品で構成されたArduino互換名刺基板.jpg"&gt;CentRa on Twitter: &amp;ldquo;発注する予定の名刺、いい感じ https://t.co/nDrhJlORtT&amp;rdquo;から発見。画像もここから転載。
+ほぼスルーホール部品で構成されたArduino互換名刺基板の作例です。
+基板がUSB端子になっており、ケーブルなしで接続できることはもちろん、ほぼすべての部品をリード部品で設計しているため、初心者でも実装しやすくなっています。
+USBシリアル変換ICだけは表面実装の物しか存在しないのでCH340Nを使っているようですが、この部品もピッチが大きいのではんだ付けはそこまで難しくないです。
+名詞としてもインパクトがありますし、実際に機能するというのは非常に実用的で、一人1種類、名刺基板の時代が来ているのかもしれません。
+発注する予定の名刺、いい感じ pic.twitter.com/nDrhJlORtT
+&amp;mdash; CentRa (@cent_ra) December 23, 2022  </description>
+    </item>
     
     <item>
       <title>Arduino UNOで音遊びしたい人によさそうなキット</title>
@@ -122,17 +137,6 @@ iPhoneやAndroid以前にも、手のひらサイズのコンピュータが存�
 8x5という限られた文字盤を使って実現されたWordClockです。
 文字色をつけたり、右下に「5」という最終手段を用意することなど、様々な工夫により8x5でWordClockを実現しています。
 基板はArduino UNOのシールドとして作られているので、簡単に組み立て出来そうです。</description>
-    </item>
-    
-    <item>
-      <title>DIPサイズだが全部入りのArduino互換ボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/dip%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%A0%E3%81%8C%E5%85%A8%E9%83%A8%E5%85%A5%E3%82%8A%E3%81%AEarduino%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Thu, 14 Apr 2022 23:00:35 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/dip%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%A0%E3%81%8C%E5%85%A8%E9%83%A8%E5%85%A5%E3%82%8A%E3%81%AEarduino%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/dipduino.jpg"&gt;dipDuino 1.2から発見。画像もここから転載。
-DipDuinoはDIPのフットプリントと同じですが、USBポートが付いており、これだけでPCから書き込みができるArdunio互換ボードです。
-コアとなるマイコンはATMega328PでUSBシリアル変換ICとしてCP2104を用い、フルカラーLEDも搭載しています。</description>
     </item>
     
   </channel>
