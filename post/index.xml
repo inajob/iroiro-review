@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 01 Feb 2023 23:21:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Feb 2023 23:22:22 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>古いビデオコントローラの出力をキャプチャしてSPI接続TFT表示を行う</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%8F%A4%E3%81%84%E3%83%93%E3%83%87%E3%82%AA%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%81%AE%E5%87%BA%E5%8A%9B%E3%82%92%E3%82%AD%E3%83%A3%E3%83%97%E3%83%81%E3%83%A3%E3%81%97%E3%81%A6spi%E6%8E%A5%E7%B6%9Atft%E8%A1%A8%E7%A4%BA%E3%82%92%E8%A1%8C%E3%81%86/</link>
+      <pubDate>Thu, 02 Feb 2023 23:22:22 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%8F%A4%E3%81%84%E3%83%93%E3%83%87%E3%82%AA%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%81%AE%E5%87%BA%E5%8A%9B%E3%82%92%E3%82%AD%E3%83%A3%E3%83%97%E3%83%81%E3%83%A3%E3%81%97%E3%81%A6spi%E6%8E%A5%E7%B6%9Atft%E8%A1%A8%E7%A4%BA%E3%82%92%E8%A1%8C%E3%81%86/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/古いビデオコントローラの出力をキャプチャしてSPI接続TFT表示を行う.jpg"&gt;Classic Video Chip Drives A Modern TFTから発見。画像もここから転載。
+古いビデオコントローラであるTMS9928Aの出力をキャプチャしてSPI接続TFTで表示を行っている作例です。
+こういうのはよくFPGAで実装されますが、この記事ではSTM32G4を使って実現しています。 今やSPI接続のTFTディスプレイはコモディティ化しているので、こういう手法があると、レトロガジェットの再実装にも役立ちそうです。</description>
+    </item>
     
     <item>
       <title>ほぼスルーホール部品で構成されたArduino互換名刺基板</title>
@@ -123,19 +134,6 @@ Arduino UNOは電子工作のプロトタイピングにぴったりの開発ボ
 Vimを操作するためのペダルの作例です。 ペダルを踏むと「i」が打鍵され挿入モードとなり、離すとEscが打鍵され標準モードに戻るという、直感的なvimの動作が実現します。
 ebayで購入したペダルにRaspberry Pi Picoを埋め込み、USBキーボードとして振る舞わせることで、これを実現しています。
 通称「Vimクラッチ」と呼ばれているのだとか、、</description>
-    </item>
-    
-    <item>
-      <title>野良Arduinoに貼ると便利そうなピンの役割を示すシール</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E9%87%8E%E8%89%AFarduino%E3%81%AB%E8%B2%BC%E3%82%8B%E3%81%A8%E4%BE%BF%E5%88%A9%E3%81%9D%E3%81%86%E3%81%AA%E3%83%94%E3%83%B3%E3%81%AE%E5%BD%B9%E5%89%B2%E3%82%92%E7%A4%BA%E3%81%99%E3%82%B7%E3%83%BC%E3%83%AB/</link>
-      <pubDate>Thu, 19 Jan 2023 23:29:59 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E9%87%8E%E8%89%AFarduino%E3%81%AB%E8%B2%BC%E3%82%8B%E3%81%A8%E4%BE%BF%E5%88%A9%E3%81%9D%E3%81%86%E3%81%AA%E3%83%94%E3%83%B3%E3%81%AE%E5%BD%B9%E5%89%B2%E3%82%92%E7%A4%BA%E3%81%99%E3%82%B7%E3%83%BC%E3%83%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/野良Arduinoに貼ると便利そうなピンの役割を示すシール.jpg"&gt;Pin Header Sticker for Arduino Uno | 5 Pack by METE HOCA on Tindieから発見。画像もここから転載。
-純正Arduino UNOはピンソケット部分にピンの役割が書いてあり、プロトタイプ時に非常に便利ですが、安価な互換機にはそういう表示がないものが多いです。
-この記事ではそういう互換機のためのピンの役割のシールを販売しています。
-単なるシールですが、これがあるだけで、ぐっとArduno UNO互換機が使いやすくなると思います。
- </description>
     </item>
     
   </channel>

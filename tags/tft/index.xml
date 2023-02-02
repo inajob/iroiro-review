@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TFT on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/tft/</link>
+    <description>Recent content in TFT on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Thu, 02 Feb 2023 23:22:22 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/tft/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>古いビデオコントローラの出力をキャプチャしてSPI接続TFT表示を行う</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%8F%A4%E3%81%84%E3%83%93%E3%83%87%E3%82%AA%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%81%AE%E5%87%BA%E5%8A%9B%E3%82%92%E3%82%AD%E3%83%A3%E3%83%97%E3%83%81%E3%83%A3%E3%81%97%E3%81%A6spi%E6%8E%A5%E7%B6%9Atft%E8%A1%A8%E7%A4%BA%E3%82%92%E8%A1%8C%E3%81%86/</link>
+      <pubDate>Thu, 02 Feb 2023 23:22:22 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%8F%A4%E3%81%84%E3%83%93%E3%83%87%E3%82%AA%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%81%AE%E5%87%BA%E5%8A%9B%E3%82%92%E3%82%AD%E3%83%A3%E3%83%97%E3%83%81%E3%83%A3%E3%81%97%E3%81%A6spi%E6%8E%A5%E7%B6%9Atft%E8%A1%A8%E7%A4%BA%E3%82%92%E8%A1%8C%E3%81%86/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/古いビデオコントローラの出力をキャプチャしてSPI接続TFT表示を行う.jpg"&gt;Classic Video Chip Drives A Modern TFTから発見。画像もここから転載。
+古いビデオコントローラであるTMS9928Aの出力をキャプチャしてSPI接続TFTで表示を行っている作例です。
+こういうのはよくFPGAで実装されますが、この記事ではSTM32G4を使って実現しています。 今やSPI接続のTFTディスプレイはコモディティ化しているので、こういう手法があると、レトロガジェットの再実装にも役立ちそうです。</description>
+    </item>
+    
+  </channel>
+</rss>
+
