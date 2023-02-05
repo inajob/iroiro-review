@@ -5,9 +5,20 @@
     <description>Recent content in CNC on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 24 Oct 2022 22:56:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Feb 2023 23:12:40 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/cnc/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>木製のマクロキーパッド</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%9C%A8%E8%A3%BD%E3%81%AE%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%AD%E3%83%BC%E3%83%91%E3%83%83%E3%83%89/</link>
+      <pubDate>Sun, 05 Feb 2023 23:12:40 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%9C%A8%E8%A3%BD%E3%81%AE%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%AD%E3%83%BC%E3%83%91%E3%83%83%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/木製のマクロキーパッド.jpg"&gt;DIY Macro Keyboard Wood Be Niceから発見。画像もここから転載。
+木製のマクロキーパッドの作例です。 CNCで筐体を削りだして構成されていますが、私が着目したのはキーキャップです。
+木製のキーキャップは味があるのはもちろん、安価なレーザー彫刻機を使いキートップを印字できるため、オリジナルのマクロパッドやキーボードを作る際には、良さそうな素材だと思いました。</description>
+    </item>
     
     <item>
       <title>歯車を作ることに特化したCNCマシン</title>
@@ -125,19 +136,6 @@ Arduinoで制御する発泡スチロールを好きな形に加工できるCNC�
 Y軸とX軸を自在に動くニクロム線と、回転する発泡スチロール台という2.5次元の自由度を持っています。
 フレームなどの汎用的な部品以外の細かいパーツはほとんど3Dプリンタで出力して作成しています。
 このように「何かを作る装置」というのは見ているだけでワクワクしますね。
- </description>
-    </item>
-    
-    <item>
-      <title>オープンソースのレーザー彫刻機</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E5%BD%AB%E5%88%BB%E6%A9%9F/</link>
-      <pubDate>Sat, 26 Sep 2020 23:00:57 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E5%BD%AB%E5%88%BB%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/engravinator.jpg"&gt;AN OPEN HARDWARE LASER ENGRAVER FOR EVERYONEから発見。画像もここから転載。
-Engravinatorはオープンソースのレーザー彫刻機です。 よくあるむき出しのレーザー彫刻機とは違い、遮光板で全体が囲われているため、安全性が高そうです。
-残念ながらレーザーカッターとしての用途は想定していないようですが、レーザー彫刻機としてはなかなか良さそうに見えます。
-また、こういうレーザー彫刻機の設計がオープンソースにされていることで、お古の3Dプリンタをばらしてレーザー彫刻機に組み替えるなどができ、エコでリーズナブルなソリューションとしても活用できそうです。
  </description>
     </item>
     
