@@ -5,9 +5,23 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 31 Jan 2023 23:08:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Feb 2023 23:42:21 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>シンプルだけど楽しそうな3Dプリンタ製の対戦ピンボール</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%A0%E3%81%91%E3%81%A9%E6%A5%BD%E3%81%97%E3%81%9D%E3%81%86%E3%81%AA3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E5%AF%BE%E6%88%A6%E3%83%94%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Mon, 06 Feb 2023 23:42:21 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%A0%E3%81%91%E3%81%A9%E6%A5%BD%E3%81%97%E3%81%9D%E3%81%86%E3%81%AA3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E5%AF%BE%E6%88%A6%E3%83%94%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/シンプルだけど楽しそうな3Dプリンタ製の対戦ピンボール.jpg"&gt;Cults. on Twitter: &amp;ldquo;🥅 Soccer Pinball to challenge your friends, no glue required to assembly, just click all together! 💜 3D model:… https://t.co/PbeBX2bGMP&amp;rdquo;から発見。画像もここから転載。
+3Dプリンタで作られたシンプルな対戦型のピンボールのおもちゃです。 データは無料で公開されているため、3Dプリンタがあればだれでも簡単に作ることが出来ます。 分割されたいくつかのパーツから構成されており、部品をはめ込むことで、接着剤なしで組み立てできるように工夫されています。
+少しデータを変更して、障害物を設置しても面白そうです。
+🥅 Soccer Pinball to challenge your friends, no glue required to assembly, just click all together! 💜 3D model: https://t.co/XKhiDHvAuF
+💡 Designed by DanDerDrucker pic.twitter.com/jLwiiqHwvR
+&amp;mdash; Cults. (@Cults3D) January 20, 2023  </description>
+    </item>
     
     <item>
       <title>子供に何を目的に3Dプリンタを使わせるかという話</title>
@@ -132,21 +146,6 @@ FDM式3Dプリンタでは、造形物をスライスすることで、造形パ
 3Dプリント成果物の表面に画像を転写しての完成度を高めるための面白いテクニックを紹介します。
 このテクニックの肝となるのはレーザー印刷機です。
 透明フィルムにレーザープリンタで鏡面印刷したラベルを3Dプリンタのベッドに貼り付け、その上に3Dプリントすることで、印刷時の熱を利用してトナーを成果物に定着させています。</description>
-    </item>
-    
-    <item>
-      <title>お古のシンクライアントマシンを使って3Dプリンタの制御ソフトを動かす</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8A%E5%8F%A4%E3%81%AE%E3%82%B7%E3%83%B3%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88%E3%83%9E%E3%82%B7%E3%83%B3%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A63d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E5%88%B6%E5%BE%A1%E3%82%BD%E3%83%95%E3%83%88%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</link>
-      <pubDate>Wed, 16 Nov 2022 23:12:01 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8A%E5%8F%A4%E3%81%AE%E3%82%B7%E3%83%B3%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88%E3%83%9E%E3%82%B7%E3%83%B3%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A63d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E5%88%B6%E5%BE%A1%E3%82%BD%E3%83%95%E3%83%88%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/お古のシンクライアントマシンを使って3Dプリンタの制御ソフトを動かす.jpg"&gt;Thin Client And Smartphone Step In For 3D Printer’s Raspberry Pi And Touchscreenから発見。画像もここから転載。
-お古のシンクライアントマシンって、意外と安売りされているのをご存じですか？
-普通に使おうとすると非力ですが、3Dプリンタの制御用と考えればそこそこの性能でも事足りるのでは？というのがこの記事で紹介している手法です。
-利用しているのはDellのWyse 3040というシンクライアントマシンです。Debianのイメージを書き込んだUSBメモリをさして起動することで普通にLinuxマシンとして利用できるようです。
-サイズもコンパクトで、3Dプリンタの内部に設置することも難しくありません。
-昨今の半導体不足でRaspberry Piの入手が難しくなっているので、こういう代替案も頭の片隅に入れておくと良いかもしれません。
- </description>
     </item>
     
   </channel>
