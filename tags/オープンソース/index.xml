@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>オープンソース on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9/</link>
+    <description>Recent content in オープンソース on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Tue, 07 Feb 2023 23:34:02 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>かつてAppleがリリースしたLisa OSがオープンソースで公開された</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%81%A4%E3%81%A6apple%E3%81%8C%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%97%E3%81%9Flisa-os%E3%81%8C%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%A7%E5%85%AC%E9%96%8B%E3%81%95%E3%82%8C%E3%81%9F/</link>
+      <pubDate>Tue, 07 Feb 2023 23:34:02 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%81%A4%E3%81%A6apple%E3%81%8C%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%97%E3%81%9Flisa-os%E3%81%8C%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%A7%E5%85%AC%E9%96%8B%E3%81%95%E3%82%8C%E3%81%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/かつてAppleがリリースしたLisa OSがオープンソースで公開された.jpg"&gt;Open-Sourcing The Lisa, Mac’s Bigger Sisterから発見。画像もここから転載。
+かつてAppleがリリースしたLisa OSがオープンソースで公開されたようです。
+1983年にリリースされたものですが、ワープロや表計算など、今でもよく使われるソフトウェアが実装されており、案外実用的かもしれません。</description>
+    </item>
+    
+  </channel>
+</rss>
+

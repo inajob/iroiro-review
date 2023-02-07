@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 06 Feb 2023 23:42:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Feb 2023 23:34:02 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>かつてAppleがリリースしたLisa OSがオープンソースで公開された</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%81%A4%E3%81%A6apple%E3%81%8C%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%97%E3%81%9Flisa-os%E3%81%8C%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%A7%E5%85%AC%E9%96%8B%E3%81%95%E3%82%8C%E3%81%9F/</link>
+      <pubDate>Tue, 07 Feb 2023 23:34:02 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%81%A4%E3%81%A6apple%E3%81%8C%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%97%E3%81%9Flisa-os%E3%81%8C%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%A7%E5%85%AC%E9%96%8B%E3%81%95%E3%82%8C%E3%81%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/かつてAppleがリリースしたLisa OSがオープンソースで公開された.jpg"&gt;Open-Sourcing The Lisa, Mac’s Bigger Sisterから発見。画像もここから転載。
+かつてAppleがリリースしたLisa OSがオープンソースで公開されたようです。
+1983年にリリースされたものですが、ワープロや表計算など、今でもよく使われるソフトウェアが実装されており、案外実用的かもしれません。</description>
+    </item>
     
     <item>
       <title>シンプルだけど楽しそうな3Dプリンタ製の対戦ピンボール</title>
@@ -121,21 +132,6 @@ Arduino UNOは電子工作のプロトタイピングにぴったりの開発ボ
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/手頃な価格の技適付きのLoRa評価ボード.jpg"&gt;ＬｏＲａモジュール評価ボード　Ｅ２２０－９００Ｔ２２Ｓ（ＪＰ）－ＥＶ１: 無線、高周波関連商品 秋月電子通商-電子部品・ネット通販から発見。画像もここから転載。
 手頃な価格の技適付きのLoRa評価ボードが秋月電子で販売されています。
 技適付きのLoRaモジュールは結構高いものが多く、2000円程度で購入できるこのモジュールはなかなかリーズナブルのように思います。</description>
-    </item>
-    
-    <item>
-      <title>リフロー機能が実装された基板</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AA%E3%83%95%E3%83%AD%E3%83%BC%E6%A9%9F%E8%83%BD%E3%81%8C%E5%AE%9F%E8%A3%85%E3%81%95%E3%82%8C%E3%81%9F%E5%9F%BA%E6%9D%BF/</link>
-      <pubDate>Tue, 24 Jan 2023 23:25:47 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AA%E3%83%95%E3%83%AD%E3%83%BC%E6%A9%9F%E8%83%BD%E3%81%8C%E5%AE%9F%E8%A3%85%E3%81%95%E3%82%8C%E3%81%9F%E5%9F%BA%E6%9D%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/リフロー機能が実装された基板.jpg"&gt;Internal Heating Element Makes These PCBs Self-Solderingから発見。画像もここから転載。
-リフロー機能が実装された基板の作例を紹介します。
-表面実装部品の実装には、クリームはんだを接点に配置し、部品を乗せ、その後基板を加熱する（リフロー）ことにより行います。
-通常この加熱プロセスはホットプレートのようなリフロー炉を使い行いますが、この作例では、基板自体に発熱の仕組みを持たせています。
-4層基板の内層をジグザグパターンにし、そこに電流を流すことで基板を発熱させることで、はんだを溶かしリフローを実現します。
-この基板自体はリフローの温度制御をおこなうもののようで、一度これを作ればこれを利用して別の基板をリフローすることもできるようです。（電源は別に必要ですが・・）
- </description>
     </item>
     
   </channel>
