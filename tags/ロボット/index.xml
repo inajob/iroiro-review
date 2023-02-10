@@ -5,9 +5,21 @@
     <description>Recent content in ロボット on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 07 Jul 2022 23:14:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Feb 2023 00:01:04 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>実際に人が乗れる6足ロボット</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%AE%9F%E9%9A%9B%E3%81%AB%E4%BA%BA%E3%81%8C%E4%B9%97%E3%82%8C%E3%82%8B6%E8%B6%B3%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</link>
+      <pubDate>Fri, 10 Feb 2023 00:01:04 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%AE%9F%E9%9A%9B%E3%81%AB%E4%BA%BA%E3%81%8C%E4%B9%97%E3%82%8C%E3%82%8B6%E8%B6%B3%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/実際に人が乗れる6足ロボット.jpg"&gt;Megahex Will Give You Robo-Arachnophobiaから発見。画像もここから転載。
+実際に人が乗れるSF映画の適役に出てきそうな、6足ロボットの作例です。 車より大きくてとても迫力があります。
+動画を見るとかなりダイナミックに動いており、コックピットに乗っている人がムチ打ちにならないか心配です
+ </description>
+    </item>
     
     <item>
       <title>タコスを自動的に用意してくれるロボット</title>
@@ -119,17 +131,6 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/quad-a0.jpg"&gt;mjbots quad A0から発見。画像もここから転載。
 非常にスムーズに動作する4つ足のロボットです。 モーター周りの設計がオープンソースで公開されているようで、似たようなものを作ってみたい人には参考になりそうです。
  </description>
-    </item>
-    
-    <item>
-      <title>紅茶バッグをいい感じのタイミングで持ち上げてくれるガジェット</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E7%B4%85%E8%8C%B6%E3%83%90%E3%83%83%E3%82%B0%E3%82%92%E3%81%84%E3%81%84%E6%84%9F%E3%81%98%E3%81%AE%E3%82%BF%E3%82%A4%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%A7%E6%8C%81%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
-      <pubDate>Sat, 22 Aug 2020 23:00:23 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E7%B4%85%E8%8C%B6%E3%83%90%E3%83%83%E3%82%B0%E3%82%92%E3%81%84%E3%81%84%E6%84%9F%E3%81%98%E3%81%AE%E3%82%BF%E3%82%A4%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%A7%E6%8C%81%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/tea-robot.jpg"&gt;The Dipper - a tea brewing robotから発見。画像もここから転載。
-紅茶のティーバッグをいい感じにゆすったのちに持ち上げてくれるガジェットの作例です。 シンプルなつまみによる操作で、誰でも簡単に利用できるように工夫されています。
-内部的にはArduinoとリチウムイオンバッテリーを利用しているようです。</description>
     </item>
     
   </channel>

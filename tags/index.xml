@@ -5,9 +5,18 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 08 Feb 2023 23:19:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Feb 2023 00:01:04 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ロボット</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</link>
+      <pubDate>Fri, 10 Feb 2023 00:01:04 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>3Dプリンタ</title>
@@ -87,15 +96,6 @@
       <pubDate>Thu, 02 Feb 2023 23:22:22 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>Arduino</title>
-      <link>https://inajob.github.io/iroiro-review/tags/arduino/</link>
-      <pubDate>Wed, 01 Feb 2023 23:21:11 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/arduino/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
