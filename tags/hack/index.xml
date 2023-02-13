@@ -5,9 +5,20 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 24 Jan 2023 23:25:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Feb 2023 23:23:17 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>WiFiの電波の遮蔽状況で人物の姿勢を推定する</title>
+      <link>https://inajob.github.io/iroiro-review/post/wifi%E3%81%AE%E9%9B%BB%E6%B3%A2%E3%81%AE%E9%81%AE%E8%94%BD%E7%8A%B6%E6%B3%81%E3%81%A7%E4%BA%BA%E7%89%A9%E3%81%AE%E5%A7%BF%E5%8B%A2%E3%82%92%E6%8E%A8%E5%AE%9A%E3%81%99%E3%82%8B/</link>
+      <pubDate>Sun, 12 Feb 2023 23:23:17 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/wifi%E3%81%AE%E9%9B%BB%E6%B3%A2%E3%81%AE%E9%81%AE%E8%94%BD%E7%8A%B6%E6%B3%81%E3%81%A7%E4%BA%BA%E7%89%A9%E3%81%AE%E5%A7%BF%E5%8B%A2%E3%82%92%E6%8E%A8%E5%AE%9A%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/WiFiの電波の遮蔽状況で人物の姿勢を推定する.jpg"&gt;Tracking Humans With WiFiから発見。画像もここから転載。
+WiFiの電波は目には見えないですが、WiFiルーターから放出され、部屋中に拡散されています。 電波の強度を調べることで、どのような障害物が存在するかを知ることが出来ます。
+この研究ではその障害物を人間だと推定してポーズを検出しています。 WiFiの電波がこのようなことに応用できるというのは興味深いです。</description>
+    </item>
     
     <item>
       <title>リフロー機能が実装された基板</title>
@@ -131,19 +142,6 @@ Mac-on-LinuxはPowerPC上のLinuxで動作するエミュレータとは違い�
 利用しているのはDellのWyse 3040というシンクライアントマシンです。Debianのイメージを書き込んだUSBメモリをさして起動することで普通にLinuxマシンとして利用できるようです。
 サイズもコンパクトで、3Dプリンタの内部に設置することも難しくありません。
 昨今の半導体不足でRaspberry Piの入手が難しくなっているので、こういう代替案も頭の片隅に入れておくと良いかもしれません。
- </description>
-    </item>
-    
-    <item>
-      <title>スライサーを使わず自前でg-codeを作る</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%A9%E3%82%A4%E3%82%B5%E3%83%BC%E3%82%92%E4%BD%BF%E3%82%8F%E3%81%9A%E8%87%AA%E5%89%8D%E3%81%A7g-code%E3%82%92%E4%BD%9C%E3%82%8B/</link>
-      <pubDate>Thu, 10 Nov 2022 23:16:54 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%A9%E3%82%A4%E3%82%B5%E3%83%BC%E3%82%92%E4%BD%BF%E3%82%8F%E3%81%9A%E8%87%AA%E5%89%8D%E3%81%A7g-code%E3%82%92%E4%BD%9C%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/スライサーを使わず自前でg-codeを作る.jpg"&gt;Playing With The Power Of Full G-Code Controlから発見。画像もここから転載。
-スライサーを使わず自前でg-codeを作るという技があります。 これは既存のスライサーを使う方法に比べると手間がかかりますが、これにより普通のスライサーでは作れないようなオーバーハングの造形を行うことが出来ます。
-この記事で紹介しているページでは、このように「g-code芸」で作られた様々な造形物のg-codeを配布しています。
-少し変わった造形を行いたいときは助けになりそうなテクニックです。
  </description>
     </item>
     
