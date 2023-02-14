@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 13 Feb 2023 23:37:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Feb 2023 23:12:16 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>毛細管現象で水やりをするため3Dプリンタ製のアダプタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%AF%9B%E7%B4%B0%E7%AE%A1%E7%8F%BE%E8%B1%A1%E3%81%A7%E6%B0%B4%E3%82%84%E3%82%8A%E3%82%92%E3%81%99%E3%82%8B%E3%81%9F%E3%82%813d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF/</link>
+      <pubDate>Tue, 14 Feb 2023 23:12:16 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%AF%9B%E7%B4%B0%E7%AE%A1%E7%8F%BE%E8%B1%A1%E3%81%A7%E6%B0%B4%E3%82%84%E3%82%8A%E3%82%92%E3%81%99%E3%82%8B%E3%81%9F%E3%82%813d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/毛細管現象で水やりをするため3Dプリンタ製のアダプタ.jpg"&gt;Self-Watering Planters Reuse Household Jarsから発見。画像もここから転載。
+カイワレなどを育てる際には、日々の水やりが必要ですが、この記事で紹介しているアダプタを使うことで、その手間を削減できそうです。
+まずは、3Dプリンタ製のざる状の瓶のふたのような形状のアダプタから細いヒモを水に浸し、ざるの上に植物を植えます。 すると、細いヒモに毛細管現象で水が吸い上げられ、植物に自動的に水が供給されるという仕組みです。
+3Dプリンタを使って生成するため、様々な瓶にフィットするアダプタを作ることが出来ます。</description>
+    </item>
     
     <item>
       <title>バレンタインデーにぴったりなハート形のユニバーサル基板</title>
@@ -115,21 +127,6 @@ USBシリアル変換ICだけは表面実装の物しか存在しないのでCH3
 名詞としてもインパクトがありますし、実際に機能するというのは非常に実用的で、一人1種類、名刺基板の時代が来ているのかもしれません。
 発注する予定の名刺、いい感じ pic.twitter.com/nDrhJlORtT
 &amp;mdash; CentRa (@cent_ra) December 23, 2022  </description>
-    </item>
-    
-    <item>
-      <title>子供に何を目的に3Dプリンタを使わせるかという話</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%AD%90%E4%BE%9B%E3%81%AB%E4%BD%95%E3%82%92%E7%9B%AE%E7%9A%84%E3%81%AB3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E4%BD%BF%E3%82%8F%E3%81%9B%E3%82%8B%E3%81%8B%E3%81%A8%E3%81%84%E3%81%86%E8%A9%B1/</link>
-      <pubDate>Tue, 31 Jan 2023 23:08:32 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%AD%90%E4%BE%9B%E3%81%AB%E4%BD%95%E3%82%92%E7%9B%AE%E7%9A%84%E3%81%AB3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E4%BD%BF%E3%82%8F%E3%81%9B%E3%82%8B%E3%81%8B%E3%81%A8%E3%81%84%E3%81%86%E8%A9%B1/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/子供に何を目的に3Dプリンタを使わせるかという話.jpg"&gt;Ask Hackaday: Do Kids Need 3D Printers?から発見。画像もここから転載。
-「学校に3Dプリンタを導入しよう！」みたいな話はよく聞きますが、実際のところこれにはどのような効果があるのでしょう？
-安価な3Dプリンタは期待するほどきれいな立体物を生成することはできず、また理不尽に頻繁に印刷に失敗します。 こういうマシンの特性との試行錯誤が、どの程度子供に対して有益なのかは疑問の余地があります。
-新しい加工機としての3Dプリンタの特性や、デジタルで設計したものがモノとして生成できるという体験をしたいだけなら、3Dプリントサービスに外注しても同じ効果が得られそうです。
-もちろん、機械で物を作る時の試行錯誤で得られるものもありますが、これは結構泥臭く、かつほかに応用が利かないノウハウも多数必要なため、そこまでの学習をほかの教科の時間を割いてまで体験させる必要があるかという点も考慮が必要です。
-この記事は、上記のような子供に3Dプリンタを使わせるという話についての利点、欠点を整理し、あなたはどう思いますか？ という形で話をまとめています。
-さて、あなたはどう思いますか？</description>
     </item>
     
   </channel>
