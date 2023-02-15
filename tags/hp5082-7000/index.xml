@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HP5082-7000 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/hp5082-7000/</link>
+    <description>Recent content in HP5082-7000 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 15 Feb 2023 23:10:51 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/hp5082-7000/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>自作HP5082-7000モドキ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9Chp5082-7000%E3%83%A2%E3%83%89%E3%82%AD/</link>
+      <pubDate>Wed, 15 Feb 2023 23:10:51 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9Chp5082-7000%E3%83%A2%E3%83%89%E3%82%AD/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/自作HP5082-7000モドキ.jpg"&gt;JI8UCI 🐄 on Twitter: &amp;ldquo;自作HP5082-7000モドキの点灯テスト。モジュールにBCDで値を入れてやると対応した数字が出ます。秋月で売ってるLEDマトリックスをPIC16F1459でドライブする仕組み。基板たくさんあるので欲しい方いたらバイナリとともに… https://t.co/WRiEJUI8dE&amp;rdquo;から発見。画像もここから転載。
+自作HP5082-7000もどきの作例です。 コアはPIC16F1459でBCDを入れると数字が出るようになっています。
+LEDはLTP-305HRという小型のドットマトリクスLEDを使用しているようです 製作記事 もあるようなので、興味のある方は要チェックです。
+自作HP5082-7000モドキの点灯テスト。モジュールにBCDで値を入れてやると対応した数字が出ます。秋月で売ってるLEDマトリックスをPIC16F1459でドライブする仕組み。基板たくさんあるので欲しい方いたらバイナリとともに差し上げます。 pic.twitter.com/v7PZIYAvAR
+&amp;mdash; JI8UCI 🐄 (@ji8uci) December 24, 2022  </description>
+    </item>
+    
+  </channel>
+</rss>
+
