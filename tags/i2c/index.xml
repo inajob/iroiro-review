@@ -5,9 +5,20 @@
     <description>Recent content in I2C on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 21 Apr 2022 22:10:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Feb 2023 23:19:00 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/i2c/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>使い勝手の良さそうなコンパクトI2Cキーボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E4%BD%BF%E3%81%84%E5%8B%9D%E6%89%8B%E3%81%AE%E8%89%AF%E3%81%95%E3%81%9D%E3%81%86%E3%81%AA%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88i2c%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Sun, 19 Feb 2023 23:19:00 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E4%BD%BF%E3%81%84%E5%8B%9D%E6%89%8B%E3%81%AE%E8%89%AF%E3%81%95%E3%81%9D%E3%81%86%E3%81%AA%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88i2c%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/使い勝手の良さそうなコンパクトI2Cキーボード.jpg"&gt;Universal QWERTY I2C Grove keyboardから発見。画像もここから転載。
+使い勝手の良さそうなコンパクトI2Cキーボードです。 中身はIOエキスパンダであるMCP23017で、I2Cでマイコンボードと接続できます。
+一緒に利用されているM5StackやWioTerminalなどを固定するためのボードも使い勝手がよさそうです。</description>
+    </item>
     
     <item>
       <title>HDMIのI2C端子をOLEDにつなげてディスプレイにするHACK</title>
