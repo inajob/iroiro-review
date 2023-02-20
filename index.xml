@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 19 Feb 2023 23:19:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Feb 2023 22:29:37 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MDプレーヤーにBluetooth機能を増設する</title>
+      <link>https://inajob.github.io/iroiro-review/post/md%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC%E3%81%ABbluetooth%E6%A9%9F%E8%83%BD%E3%82%92%E5%A2%97%E8%A8%AD%E3%81%99%E3%82%8B/</link>
+      <pubDate>Mon, 20 Feb 2023 22:29:37 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/md%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC%E3%81%ABbluetooth%E6%A9%9F%E8%83%BD%E3%82%92%E5%A2%97%E8%A8%AD%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/MDプレーヤーにBluetooth機能を増設する.jpg"&gt;Wireless MiniDisc Walkman Has Bluetooth Insideから発見。画像もここから転載。
+もはや懐かしいMDプレーヤーですが、最新の技術でこれをアップグレードする作例を紹介します。
+この記事では、懐かしのMDプレーヤーにBluetooth送信機能を追加しています。 コンパクトなMDプレーヤーの筐体にBluetoothの基板を内蔵するのはなかなか骨の折れる作業のようです。
+作業の過程はGitHubで公開されているので、真似して作ることもできそうです。
+ </description>
+    </item>
     
     <item>
       <title>使い勝手の良さそうなコンパクトI2Cキーボード</title>
@@ -111,20 +124,6 @@ WiFiの電波は目には見えないですが、WiFiルーターから放出さ
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/かつてAppleがリリースしたLisa OSがオープンソースで公開された.jpg"&gt;Open-Sourcing The Lisa, Mac’s Bigger Sisterから発見。画像もここから転載。
 かつてAppleがリリースしたLisa OSがオープンソースで公開されたようです。
 1983年にリリースされたものですが、ワープロや表計算など、今でもよく使われるソフトウェアが実装されており、案外実用的かもしれません。</description>
-    </item>
-    
-    <item>
-      <title>シンプルだけど楽しそうな3Dプリンタ製の対戦ピンボール</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%A0%E3%81%91%E3%81%A9%E6%A5%BD%E3%81%97%E3%81%9D%E3%81%86%E3%81%AA3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E5%AF%BE%E6%88%A6%E3%83%94%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB/</link>
-      <pubDate>Mon, 06 Feb 2023 23:42:21 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%A0%E3%81%91%E3%81%A9%E6%A5%BD%E3%81%97%E3%81%9D%E3%81%86%E3%81%AA3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E5%AF%BE%E6%88%A6%E3%83%94%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/シンプルだけど楽しそうな3Dプリンタ製の対戦ピンボール.jpg"&gt;Cults. on Twitter: &amp;ldquo;🥅 Soccer Pinball to challenge your friends, no glue required to assembly, just click all together! 💜 3D model:… https://t.co/PbeBX2bGMP&amp;rdquo;から発見。画像もここから転載。
-3Dプリンタで作られたシンプルな対戦型のピンボールのおもちゃです。 データは無料で公開されているため、3Dプリンタがあればだれでも簡単に作ることが出来ます。 分割されたいくつかのパーツから構成されており、部品をはめ込むことで、接着剤なしで組み立てできるように工夫されています。
-少しデータを変更して、障害物を設置しても面白そうです。
-🥅 Soccer Pinball to challenge your friends, no glue required to assembly, just click all together! 💜 3D model: https://t.co/XKhiDHvAuF
-💡 Designed by DanDerDrucker pic.twitter.com/jLwiiqHwvR
-&amp;mdash; Cults. (@Cults3D) January 20, 2023  </description>
     </item>
     
   </channel>
