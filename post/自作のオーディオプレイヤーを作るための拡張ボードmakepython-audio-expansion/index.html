@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+    
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>
+      
+  自作のオーディオプレイヤーを作るための拡張ボード「MakePython Audio Expansion」 &ndash; inajobのいろいろレビュー
+
+    </title>
+    
+    
+    <meta name="description" property="og:description" content="自作のオーディオプレイヤーを作るための拡張ボード「MakePython Audio Expansion」を紹介します。|">
+    
+
+    <meta name="apple-mobile-web-app-title" content="inajobのいろいろレビュー">
+    
+    
+    
+    
+
+    <meta property="og:title" content="自作のオーディオプレイヤーを作るための拡張ボード「MakePython Audio Expansion」 | inajobのいろいろレビュー">
+    <meta property="og:description" content="自作のオーディオプレイヤーを作るための拡張ボード「MakePython Audio Expansion」を紹介します。|">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@ina_ani">
+    <meta name="twitter:creator" content="@ina_ani">
+    <meta name="twitter:title" content="自作のオーディオプレイヤーを作るための拡張ボード「MakePython Audio Expansion」 | inajobのいろいろレビュー">
+    <meta name="twitter:description" content="自作のオーディオプレイヤーを作るための拡張ボード「MakePython Audio Expansion」を紹介します。|">
+    
+    <meta property="og:image" content="https://inajob.github.io/iroiro-reviewimg/makepython-audio-expansion-cover.jpg">
+    <meta name="twitter:image" content="https://inajob.github.io/iroiro-reviewimg/makepython-audio-expansion-cover.jpg">
+    
+    
+    <meta name="google-site-verification" content="9Ec1N9kzGZO5Ot91n8zCJnpR-zwh5LsLFMddYpK-w6c" />
+
+    <link rel="stylesheet" href="/iroiro-review/assets/syntax.css">
+    <link rel="stylesheet" href="/iroiro-review/assets/primer-build.css">
+    <link rel="stylesheet" href="/iroiro-review/assets/style.css">
+    <link rel="alternate" type="application/rss+xml" href="https://inajob.github.io/iroiro-review/index.xml" title="RSS2.0" />
+    <style>
+.rect{
+  width:120px;
+  height:120px;
+  object-fit:cover;
+}
+    </style>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+         (adsbygoogle = window.adsbygoogle || []).push({
+              google_ad_client: "ca-pub-4764710583056368",
+              enable_page_level_ads: true
+         });
+    </script>
+  </head>
+
+
+  <body class="bg-gray">
+    <div id="holy" class="container-lg bg-white h-100">
+
+      <div id="header" class="px-1 bg-white">
+        
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-3635234-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-3635234-7');
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PJ1H9LBP33"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PJ1H9LBP33');
+</script>
+
+
+<nav class="UnderlineNav UnderlineNav--right px-2">
+  <a class="UnderlineNav-actions muted-link h2" href="https://inajob.github.io/iroiro-review">
+    inajobのいろいろレビュー
+  </a>
+
+  
+  
+</nav>
+
+<div class="m-3 p-1">
+電子工作・デジタルファブリケーションの海外事例を日本語で紹介するブログです。
+はてブやリツイートしてもらえるととても喜びます。
+Twitter: <a href="http://twitter.com/ina_ani">@ina_ani</a>
+
+<div>
+RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Finajob.github.io%2Firoiro-review%2Findex.xml'  target='blank'><img id='feedlyFollow' src='http://s3.feedly.com/img/follows/feedly-follow-rectangle-volume-medium_2x.png' alt='follow us in feedly' width='71' height='28'></a>
+<a href='https://inajob.github.io/iroiro-review/index.xml'  target='blank'><img src="https://inajob.github.io/iroiro-review/img/rss.png" width="28px" height="28px"></a>
+</div>
+</div>
+
+
+
+      </div>
+
+      <div role="main" id="main" class="holy-main markdown-body px-4 bg-white">
+        
+
+<div class="Subhead">
+  <div class="Subhead-heading">
+    <div class="h1 mt-3 mb-1">自作のオーディオプレイヤーを作るための拡張ボード「MakePython Audio Expansion」</div>
+  </div>
+  <div class="Subhead-description">
+    
+
+
+
+
+<a href='/iroiro-review/tags/makerfabs' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">MakerFabs</span>
+</a>
+
+<a href='/iroiro-review/tags/makepython' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">MakePYthon</span>
+</a>
+
+<a href='/iroiro-review/tags/esp32' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">ESP32</span>
+</a>
+
+
+
+    
+    <div class="float-md-right">
+      <span title="Lastmod: 2023-02-21. Published at: 2023-02-21.">
+        
+          Published: 2023-02-21
+        
+      </span>
+    </div>
+    
+  </div>
+</div>
+<article>
+  
+  <section class="pb-6 mb-3 border-bottom">
+    <img src="https://inajob.github.io/iroiro-reviewimg/makepython-audio-expansion-cover.jpg" />
+    <p>この記事はMakerfabsの提供でお届けします。</p>
+<p>今回紹介する<a href="https://www.makerfabs.com/makepython-audio.html">MakePython Audio Expansion</a>は<a href="https://www.makerfabs.com/">Makerfabs</a>から提供いただいたものです。</p>
+<p>（ですが、<a href="https://www.makerfabs.com/makepython-audio.html">MakePython Audio Expansion</a>は<a href="https://www.makerfabs.com/">Makerfabs</a>をレビューしたい！と言ったのは自分なので、<a href="https://www.makerfabs.com/">Makerfabs</a>が無理やりこの商品を押しているわけではなく、inajobの一押しアイテム！、という感じです。）</p>
+<h2 id="makepython-audio-expansionとは">MakePython Audio Expansionとは</h2>
+<p>[以前レビューしたMakePython ESP32 Color LCD](../../post/高解像度液晶付きのESP32開発ボードMakePython ESP32 Color LCD) や MakePython ESP32と組み合わせて利用することで、オーディオガジェットを作ることが出来る拡張ボードです。</p>
+<ul>
+<li>オーディオDACのUDA1334ATS</li>
+<li>2つのジョグダイアル</li>
+<li>Micro SDカードスロット</li>
+<li>オーディオジャック</li>
+</ul>
+<p><img src="img/makepython-audio-expansion-single.jpg" alt=""></p>
+<h2 id="mp3プレイヤーを動かしてみる">MP3プレイヤーを動かしてみる</h2>
+<p>このモジュールは公式にはMakePython ESP32用のサンプルプログラムしか存在しなくて、MakePython ESP32 Color LCD向けのプログラムは存在していません。</p>
+<p>そこでGitHubを探してみると以下のプログラムを発見しました。</p>
+<p><a href="https://github.com/VolosR/MakePythonLCDMP3">https://github.com/VolosR/MakePythonLCDMP3</a></p>
+<p>これはMakePython ESP32 Color LCDとMakePython Audio Expansionを組み合わせて動作するMP3プレーヤーのプログラムです。</p>
+<p>しかし、このプログラム、意外と一筋縄では動きませんでした。</p>
+<p>メモ的に変更点を列挙すると・・</p>
+<h3 id="arduino-ideにインポートするライブラリが自明ではない">Arduino IDEにインポートするライブラリが自明ではない</h3>
+<p>このプログラムはArduino IDEでビルドする事を前提として作られているため、依存するライブラリについては、自分で個別にインストールする必要があります。
+（これはArduino IDEの良くないところで、Platformioなどを使うとライブラリも管理出来て便利だと考えています）</p>
+<ul>
+<li>
+<p>SPI_eTFT 2.5.0(最新)</p>
+<ul>
+<li>設定が必要（後述）</li>
+</ul>
+</li>
+<li>
+<p><a href="https://github.com/schreibfaul1/ESP32-audioI2S">https://github.com/schreibfaul1/ESP32-audioI2S</a></p>
+<ul>
+<li>Audioという名前でライブラリマネージャを検索して出てくるライブラリではないので注意</li>
+<li>こちらはライブラリマネージャにないのでGitHubからZIPファイルをダウンロードしてインストールする</li>
+</ul>
+</li>
+</ul>
+<h3 id="spi_etftの設定">SPI_eTFTの設定</h3>
+<p>SPI_eTFTの設定は、インストールしたライブラリのファイルを直接書き換える方法により行います（もっと行儀のよい方法があれば教えてほしいです・・）</p>
+<p>User_Setup_Select.hの以下の行のコメントを外す</p>
+<blockquote>
+<p><code>#include &lt;User_Setups/Setup24_ST7789.h&gt;            // Setup file for DSTIKE/ESP32/ESP8266 configured for ST7789 240 x 240</code></p>
+</blockquote>
+<p>User_Setup.hのピンの設定を以下のように編集する</p>
+<pre><code>// ###### EDIT THE PIN NUMBERS IN THE LINES FOLLOWING TO SUIT YOUR ESP8266 SETUP ######
+
+// For NodeMCU - use pin numbers in the form PIN_Dx where Dx is the NodeMCU pin designation
+#define TFT_CS   PIN_D8  // Chip select control pin D8
+#define TFT_DC   PIN_D3  // Data Command control pin
+#define TFT_RST  PIN_D4  // Reset pin (could connect to NodeMCU RST, see next line)
+</code></pre><h3 id="makepythonlcdmp3のソースコードを修正する">MakePythonLCDMP3のソースコードを修正する</h3>
+<p>これは、おそらくMakePython ESP32 Color LCDの個体差によるものと思うのですが、私の手元にあるボードだと、ディスプレイの向きとオフセット、色が想定と違うようで、ディスプレイのずれた位置におかしな表示がされてしまいます。</p>
+<p>以下のようにソースコードを修正することで、正しい表示となりました。</p>
+<p><code>setup()</code>に以下の2行を追記します</p>
+<pre><code>    Serial.begin(115200);
+    tft.init();
+    tft.invertDisplay(1); // 追記する。色がおかしい問題の修正
+    tft.setRotation(3);  // 追記する。向き・オフセットがおかしい問題の修正
+    tft.setSwapBytes(true);
+</code></pre><h3 id="書き込みの際はmakepython-audio-expansionを外す">書き込みの際はMakePython Audio Expansionを外す</h3>
+<p>MakePython ESP32 Color LCDについている書き込みモード切替のスイッチである「Flash」はESP32のIO0とつながっており、これを押しながらRSTボタンを押すことで、シリアルブートローダーに入れるようになっていますが、この時IO2はGNDかハイインピーダンスである必要があるのですが、MakePython Audio ExpansionはIO2をプルアップしてしまっています。</p>
+<p><img src="img/makepython-audio-expansion-caution.jpg" alt=""></p>
+<p>そのため、プログラムを書き込む際はMakePython Audio Expansionを外す必要があり、しばらくこれに気付かずハマりました。</p>
+<h2 id="まとめ">まとめ</h2>
+<p><a href="https://www.makerfabs.com/makepython-audio.html">MakePython Audio Expansion</a>とMakePython ESP32 Color LCDを使うと、簡単にかっこいいMP3プレイヤーを作ることが出来ました。
+オープンソースのプログラムなので、ここから見た目をさらに良くしたり、自分の必要な機能を実装することもできそうです。</p>
+
+  </section>
+
+  
+  <a href="/iroiro-review/post/md%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC%E3%81%ABbluetooth%E6%A9%9F%E8%83%BD%E3%82%92%E5%A2%97%E8%A8%AD%E3%81%99%E3%82%8B/">
+    <div class="box-shadow-medium mb-3 bg-blue-light border border-blue" style="height:122px;">
+        <div style="float:left;">
+          <img class="rect" src="https://inajob.github.io/iroiro-review/img/MD%e3%83%97%e3%83%ac%e3%83%bc%e3%83%a4%e3%83%bc%e3%81%abBluetooth%e6%a9%9f%e8%83%bd%e3%82%92%e5%a2%97%e8%a8%ad%e3%81%99%e3%82%8b.jpg" />
+        </div>
+
+        <div class="pb-2 pt-2 px-3" style="margin-left:122px;">
+          ← 前の記事 - MDプレーヤーにBluetooth機能を増設する
+        </div>
+    </div>
+  </a>
+  
+
+  
+
+  
+
+<h3>関連記事</h3>
+<div>
+  
+  <a href="/iroiro-review/post/esp32%E3%81%A7%E5%8B%95%E3%81%8Fvga%E5%87%BA%E5%8A%9B%E6%A9%9F%E8%83%BD%E4%BB%98%E3%81%8D%E3%81%AE%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/ESP32%e3%81%a7%e5%8b%95%e3%81%8fVGA%e5%87%ba%e5%8a%9b%e6%a9%9f%e8%83%bd%e4%bb%98%e3%81%8d%e3%81%ae%e3%83%86%e3%82%ad%e3%82%b9%e3%83%88%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        ESP32で動くVGA出力機能付きのテキストエディタ
+      </div>
+    </div>
+  </a>
+  
+  <a href="/iroiro-review/post/wt32-sc01%E7%94%A8%E3%81%AE%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84ui%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/WT32-SC01%e7%94%a8%e3%81%ae%e3%81%8b%e3%81%a3%e3%81%93%e3%81%84%e3%81%84UI%e3%82%b5%e3%83%b3%e3%83%97%e3%83%ab.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        WT32-SC01用のかっこいいUIサンプル
+      </div>
+    </div>
+  </a>
+  
+  <a href="/iroiro-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84co2%E3%83%A2%E3%83%8B%E3%82%BF/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/%e6%89%8b%e3%81%ae%e3%81%b2%e3%82%89%e3%82%b5%e3%82%a4%e3%82%ba%e3%81%ae%e3%81%8b%e3%82%8f%e3%81%84%e3%81%84CO2%e3%83%a2%e3%83%8b%e3%82%bf.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        手のひらサイズのかわいいCO2モニタ
+      </div>
+    </div>
+  </a>
+  
+  <a href="/iroiro-review/post/esp32%E3%81%A7%E3%83%A2%E3%83%90%E3%82%A4%E3%83%ABvnc%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/ESP32%e3%81%a7%e3%83%a2%e3%83%90%e3%82%a4%e3%83%abVNC%e3%82%af%e3%83%a9%e3%82%a4%e3%82%a2%e3%83%b3%e3%83%88.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        ESP32でモバイルVNCクライアント
+      </div>
+    </div>
+  </a>
+  
+  <a href="/iroiro-review/post/%E9%AB%98%E8%A7%A3%E5%83%8F%E5%BA%A6%E6%B6%B2%E6%99%B6%E4%BB%98%E3%81%8D%E3%81%AEesp32%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89makepython-esp32-color-lcd/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/makepython-esp32-cover.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        高解像度液晶付きのESP32開発ボードMakePython ESP32 Color LCD
+      </div>
+    </div>
+  </a>
+  
+</div>
+
+
+
+  <section>
+  
+    
+    
+    
+      <div>
+        
+          <a href="https://twitter.com/intent/tweet?hashtags=inajob" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        
+
+        
+          
+          <div id="fb-root"></div>
+          <script>(function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+            fjs.parentNode.insertBefore(js, fjs);
+          }(document, 'script', 'facebook-jssdk'));</script>
+
+          <div class="fb-share-button" 
+            data-href="/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E6%8B%A1%E5%BC%B5%E3%83%9C%E3%83%BC%E3%83%89makepython-audio-expansion/" 
+            data-layout="button_count">
+          </div>
+        
+
+        
+          <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+        
+
+        
+          <a data-pocket-label="pocket" data-pocket-count="none" class="pocket-btn" data-lang="en"></a>
+          <script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+        
+
+      </div>
+    
+  
+  </section>
+  <section>
+    
+      
+    
+  </section>
+</article>
+
+
+      </div>
+
+      <div id="side" class="pr-1 bg-white">
+        <aside class="pr-3">
+          
+  
+    <div id="toc" class="Box Box--blue mb-3">
+      <b>自作のオーディオプレイヤーを作るための拡張ボード「MakePython Audio Expansion」</b>
+      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#makepython-audio-expansionとは">MakePython Audio Expansionとは</a></li>
+    <li><a href="#mp3プレイヤーを動かしてみる">MP3プレイヤーを動かしてみる</a>
+      <ul>
+        <li><a href="#arduino-ideにインポートするライブラリが自明ではない">Arduino IDEにインポートするライブラリが自明ではない</a></li>
+        <li><a href="#spi_etftの設定">SPI_eTFTの設定</a></li>
+        <li><a href="#makepythonlcdmp3のソースコードを修正する">MakePythonLCDMP3のソースコードを修正する</a></li>
+        <li><a href="#書き込みの際はmakepython-audio-expansionを外す">書き込みの際はMakePython Audio Expansionを外す</a></li>
+      </ul>
+    </li>
+    <li><a href="#まとめ">まとめ</a></li>
+  </ul>
+</nav>
+    </div>
+  
+
+  
+    
+    
+    
+      <div>
+        
+          <a href="https://twitter.com/intent/tweet?hashtags=inajob" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        
+
+        
+          <div class="fb-share-button" 
+            data-href="/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E6%8B%A1%E5%BC%B5%E3%83%9C%E3%83%BC%E3%83%89makepython-audio-expansion/" 
+            data-layout="button_count">
+          </div>
+        
+
+        
+          <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+        
+
+        
+          <a data-pocket-label="pocket" data-pocket-count="none" class="pocket-btn" data-lang="en"></a>
+          <script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+        
+
+      </div>
+    
+  
+
+        </aside>
+      </div>
+
+      <div id="footer" class="pt-2 pb-3 bg-white text-center">
+        
+          <span class="text-small text-gray">
+            
+Contents: ©inajob 2020 ,Theme: ©Qiushi Pan 2018.
+Generated with
+<a href="https://gohugo.io" class="link-gray-dark">Hugo</a> and
+<a href="https://github.com/qqhann/hugo-primer" class="link-gray-dark">Hugo-Primer</a> theme.
+
+          </span>
+        
+      </div>
+    </div>
+
+
+    
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    
+    <script type="text/x-mathjax-config">MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });</script>
+  </body>
+</html>
