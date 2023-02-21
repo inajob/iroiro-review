@@ -30,8 +30,8 @@
     <meta name="twitter:title" content="自作のオーディオプレイヤーを作るための拡張ボード「MakePython Audio Expansion」 | inajobのいろいろレビュー">
     <meta name="twitter:description" content="自作のオーディオプレイヤーを作るための拡張ボード「MakePython Audio Expansion」を紹介します。|">
     
-    <meta property="og:image" content="https://inajob.github.io/iroiro-reviewimg/makepython-audio-expansion-cover.jpg">
-    <meta name="twitter:image" content="https://inajob.github.io/iroiro-reviewimg/makepython-audio-expansion-cover.jpg">
+    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/makepython-audio-expansion-cover.jpg">
+    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/makepython-audio-expansion-cover.jpg">
     
     
     <meta name="google-site-verification" content="9Ec1N9kzGZO5Ot91n8zCJnpR-zwh5LsLFMddYpK-w6c" />
@@ -146,7 +146,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <article>
   
   <section class="pb-6 mb-3 border-bottom">
-    <img src="https://inajob.github.io/iroiro-reviewimg/makepython-audio-expansion-cover.jpg" />
+    <img src="https://inajob.github.io/iroiro-review/img/makepython-audio-expansion-cover.jpg" />
     <p>この記事はMakerfabsの提供でお届けします。</p>
 <p>今回紹介する<a href="https://www.makerfabs.com/makepython-audio.html">MakePython Audio Expansion</a>は<a href="https://www.makerfabs.com/">Makerfabs</a>から提供いただいたものです。</p>
 <p>（ですが、<a href="https://www.makerfabs.com/makepython-audio.html">MakePython Audio Expansion</a>は<a href="https://www.makerfabs.com/">Makerfabs</a>をレビューしたい！と言ったのは自分なので、<a href="https://www.makerfabs.com/">Makerfabs</a>が無理やりこの商品を押しているわけではなく、inajobの一押しアイテム！、という感じです。）</p>
@@ -158,7 +158,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
 <li>Micro SDカードスロット</li>
 <li>オーディオジャック</li>
 </ul>
-<p><img src="img/makepython-audio-expansion-single.jpg" alt=""></p>
+<p><img src="../../img/makepython-audio-expansion-single.jpg" alt=""></p>
 <h2 id="mp3プレイヤーを動かしてみる">MP3プレイヤーを動かしてみる</h2>
 <p>このモジュールは公式にはMakePython ESP32用のサンプルプログラムしか存在しなくて、MakePython ESP32 Color LCD向けのプログラムは存在していません。</p>
 <p>そこでGitHubを探してみると以下のプログラムを発見しました。</p>
@@ -208,7 +208,7 @@ RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps
     tft.setSwapBytes(true);
 </code></pre><h3 id="書き込みの際はmakepython-audio-expansionを外す">書き込みの際はMakePython Audio Expansionを外す</h3>
 <p>MakePython ESP32 Color LCDについている書き込みモード切替のスイッチである「Flash」はESP32のIO0とつながっており、これを押しながらRSTボタンを押すことで、シリアルブートローダーに入れるようになっていますが、この時IO2はGNDかハイインピーダンスである必要があるのですが、MakePython Audio ExpansionはIO2をプルアップしてしまっています。</p>
-<p><img src="img/makepython-audio-expansion-caution.jpg" alt=""></p>
+<p><img src="../../img/makepython-audio-expansion-caution.jpg" alt=""></p>
 <p>そのため、プログラムを書き込む際はMakePython Audio Expansionを外す必要があり、しばらくこれに気付かずハマりました。</p>
 <h2 id="まとめ">まとめ</h2>
 <p><a href="https://www.makerfabs.com/makepython-audio.html">MakePython Audio Expansion</a>とMakePython ESP32 Color LCDを使うと、簡単にかっこいいMP3プレイヤーを作ることが出来ました。
