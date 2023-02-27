@@ -5,9 +5,36 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 26 Feb 2023 23:31:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Feb 2023 23:47:12 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CH32V003</title>
+      <link>https://inajob.github.io/iroiro-review/tags/ch32v003/</link>
+      <pubDate>Mon, 27 Feb 2023 23:47:12 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/ch32v003/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>RISC-V</title>
+      <link>https://inajob.github.io/iroiro-review/tags/risc-v/</link>
+      <pubDate>Mon, 27 Feb 2023 23:47:12 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/risc-v/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>開発ボード</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Mon, 27 Feb 2023 23:47:12 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>CH552</title>
@@ -69,33 +96,6 @@
       <pubDate>Mon, 20 Feb 2023 22:29:37 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/bluetooth/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>MDプレーヤー</title>
-      <link>https://inajob.github.io/iroiro-review/tags/md%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC/</link>
-      <pubDate>Mon, 20 Feb 2023 22:29:37 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/md%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>I2C</title>
-      <link>https://inajob.github.io/iroiro-review/tags/i2c/</link>
-      <pubDate>Sun, 19 Feb 2023 23:19:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/i2c/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>MCP23017</title>
-      <link>https://inajob.github.io/iroiro-review/tags/mcp23017/</link>
-      <pubDate>Sun, 19 Feb 2023 23:19:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/mcp23017/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
