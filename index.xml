@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 27 Feb 2023 23:47:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Feb 2023 23:31:14 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PY32というCortex-M0&#43;のマイコンモジュールがとても安い</title>
+      <link>https://inajob.github.io/iroiro-review/post/py32%E3%81%A8%E3%81%84%E3%81%86cortex-m0&#43;%E3%81%AE%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%81%8C%E3%81%A8%E3%81%A6%E3%82%82%E5%AE%89%E3%81%84/</link>
+      <pubDate>Tue, 28 Feb 2023 23:31:14 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/py32%E3%81%A8%E3%81%84%E3%81%86cortex-m0&#43;%E3%81%AE%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%81%8C%E3%81%A8%E3%81%A6%E3%82%82%E5%AE%89%E3%81%84/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/PY32というCortex-M0&#43;のマイコンモジュールがとても安い.jpg"&gt;Puya PY32: The Cheapest Flash Microcontroller You Can Buy Is Actually An ARM Cortex-M0+から発見。画像もここから転載。
+PY32というCortex-M0+のマイコンモジュールがとてもコスパが良いようです。 自分は聞いたことがないマイコンでしたが、ARMのCortex-M0+のようでコスパがかなり良さそうです。
+確かにLCSCなどで価格を確認すると ROM20k, RAM3k, GPIO18個のPY32F002AF15P6TUは1つ$0.2と、確かに非常に安いです。
+GitHubで検索するとGCCベースのオープンな開発環境も利用できそうで、可能性を感じます。</description>
+    </item>
     
     <item>
       <title>安いと噂のRISC-V ICのCH32V003搭載の開発ボード</title>
@@ -128,16 +140,6 @@ LEDはLTP-305HRという小型のドットマトリクスLEDを使用してい�
 カイワレなどを育てる際には、日々の水やりが必要ですが、この記事で紹介しているアダプタを使うことで、その手間を削減できそうです。
 まずは、3Dプリンタ製のざる状の瓶のふたのような形状のアダプタから細いヒモを水に浸し、ざるの上に植物を植えます。 すると、細いヒモに毛細管現象で水が吸い上げられ、植物に自動的に水が供給されるという仕組みです。
 3Dプリンタを使って生成するため、様々な瓶にフィットするアダプタを作ることが出来ます。</description>
-    </item>
-    
-    <item>
-      <title>バレンタインデーにぴったりなハート形のユニバーサル基板</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3%E3%83%87%E3%83%BC%E3%81%AB%E3%81%B4%E3%81%A3%E3%81%9F%E3%82%8A%E3%81%AA%E3%83%8F%E3%83%BC%E3%83%88%E5%BD%A2%E3%81%AE%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB%E5%9F%BA%E6%9D%BF/</link>
-      <pubDate>Mon, 13 Feb 2023 23:37:59 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3%E3%83%87%E3%83%BC%E3%81%AB%E3%81%B4%E3%81%A3%E3%81%9F%E3%82%8A%E3%81%AA%E3%83%8F%E3%83%BC%E3%83%88%E5%BD%A2%E3%81%AE%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB%E5%9F%BA%E6%9D%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/バレンタインデーにぴったりなハート形のユニバーサル基板.jpg"&gt;Valentines Day Proto-Heartから発見。画像もここから転載。
-バレンタインデーにぴったりなハート形のユニバーサル基板です。 パッドもハート形となっており芸が細かいです。</description>
     </item>
     
   </channel>
