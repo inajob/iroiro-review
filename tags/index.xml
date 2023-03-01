@@ -5,9 +5,27 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 28 Feb 2023 23:31:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Mar 2023 23:11:45 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DFPlayer Mini</title>
+      <link>https://inajob.github.io/iroiro-review/tags/dfplayer-mini/</link>
+      <pubDate>Wed, 01 Mar 2023 23:11:45 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/dfplayer-mini/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>RaspberryPiPico</title>
+      <link>https://inajob.github.io/iroiro-review/tags/raspberrypipico/</link>
+      <pubDate>Wed, 01 Mar 2023 23:11:45 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/raspberrypipico/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>Cortex M0&#43;</title>
@@ -78,24 +96,6 @@
       <pubDate>Thu, 23 Feb 2023 22:37:03 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/kicad/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>ESP32</title>
-      <link>https://inajob.github.io/iroiro-review/tags/esp32/</link>
-      <pubDate>Tue, 21 Feb 2023 23:12:44 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/esp32/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>MakePYthon</title>
-      <link>https://inajob.github.io/iroiro-review/tags/makepython/</link>
-      <pubDate>Tue, 21 Feb 2023 23:12:44 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/makepython/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     

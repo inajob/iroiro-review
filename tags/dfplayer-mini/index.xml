@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DFPlayer Mini on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/dfplayer-mini/</link>
+    <description>Recent content in DFPlayer Mini on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 01 Mar 2023 23:11:45 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/dfplayer-mini/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MP3再生モジュールを2つ乗せてミキシングする仕組み</title>
+      <link>https://inajob.github.io/iroiro-review/post/mp3%E5%86%8D%E7%94%9F%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%82%922%E3%81%A4%E4%B9%97%E3%81%9B%E3%81%A6%E3%83%9F%E3%82%AD%E3%82%B7%E3%83%B3%E3%82%B0%E3%81%99%E3%82%8B%E4%BB%95%E7%B5%84%E3%81%BF/</link>
+      <pubDate>Wed, 01 Mar 2023 23:11:45 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/mp3%E5%86%8D%E7%94%9F%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%82%922%E3%81%A4%E4%B9%97%E3%81%9B%E3%81%A6%E3%83%9F%E3%82%AD%E3%82%B7%E3%83%B3%E3%82%B0%E3%81%99%E3%82%8B%E4%BB%95%E7%B5%84%E3%81%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/MP3再生モジュールを2つ乗せてミキシングする仕組み.jpg"&gt;akihiko taniguchi on Twitter: &amp;ldquo;こんなものを作っている場合ではないが、シンプルで小さいDJプレイヤー作ってた。DFPlayer mini 2個をRaspberry Pi Pico から制御。 https://t.co/sJUxr0b1GY&amp;rdquo;から発見。画像もここから転載。
+DFPlayer Miniという安価なMP3再生モジュールを2つ搭載しミキシングできるデバイスです。
+富豪的な構成ですが、このモジュールは結構安いので案外合理的なのかもしれません
+こんなものを作っている場合ではないが、シンプルで小さいDJプレイヤー作ってた。DFPlayer mini 2個をRaspberry Pi Pico から制御。 pic.twitter.com/sJUxr0b1GY
+&amp;mdash; akihiko taniguchi (@hikohiko) February 5, 2023  </description>
+    </item>
+    
+  </channel>
+</rss>
+
