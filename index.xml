@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 06 Mar 2023 23:19:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Mar 2023 23:13:23 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>真鍮製のガスキャップを可変抵抗のノブにするための3Dプリンタ製のアダプタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%9C%9F%E9%8D%AE%E8%A3%BD%E3%81%AE%E3%82%AC%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97%E3%82%92%E5%8F%AF%E5%A4%89%E6%8A%B5%E6%8A%97%E3%81%AE%E3%83%8E%E3%83%96%E3%81%AB%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF/</link>
+      <pubDate>Tue, 07 Mar 2023 23:13:23 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%9C%9F%E9%8D%AE%E8%A3%BD%E3%81%AE%E3%82%AC%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97%E3%82%92%E5%8F%AF%E5%A4%89%E6%8A%B5%E6%8A%97%E3%81%AE%E3%83%8E%E3%83%96%E3%81%AB%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/真鍮製のガスキャップを可変抵抗のノブにするための3Dプリンタ製のアダプタ.jpg"&gt;Brass Hardware Makes For Pretty Potentiometer Knobsから発見。画像もここから転載。
+可変抵抗のノブは様々な製品がありますが、その多くはプラスチック製です。
+この記事では真鍮製のガスキャップを可変抵抗のノブとして利用する作例を紹介しています。 もちろんそのままでは、ねじ穴とつまみの径が合わないので、利用できませんが、3Dプリンタ製のアダプタを使うことで、うまくこの問題を解決しています。
+真鍮のガスキャップは手軽に入手できわりに重厚感があって、手軽に真似できそうです。
+ </description>
+    </item>
     
     <item>
       <title>静電容量タッチと3Dプリントされたキーボードによりアナログな入力を実現したシンセ</title>
@@ -129,19 +142,6 @@ Arduino IDEにインポートするライブラリが自明ではない この�
  Audioという名前でライブラリマネージャを検索して出てくるライブラリではないので注意 こちらはライブラリマネージャにないのでGitHubからZIPファイルをダウンロードしてインストールする    SPI_eTFTの設定 SPI_eTFTの設定は、インストールしたライブラリのファイルを直接書き換える方法により行います（もっと行儀のよい方法があれば教えてほしいです・・）
 User_Setup_Select.hの以下の行のコメントを外す
  #include &amp;lt;User_Setups/Setup24_ST7789.</description>
-    </item>
-    
-    <item>
-      <title>MDプレーヤーにBluetooth機能を増設する</title>
-      <link>https://inajob.github.io/iroiro-review/post/md%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC%E3%81%ABbluetooth%E6%A9%9F%E8%83%BD%E3%82%92%E5%A2%97%E8%A8%AD%E3%81%99%E3%82%8B/</link>
-      <pubDate>Mon, 20 Feb 2023 22:29:37 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/md%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC%E3%81%ABbluetooth%E6%A9%9F%E8%83%BD%E3%82%92%E5%A2%97%E8%A8%AD%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/MDプレーヤーにBluetooth機能を増設する.jpg"&gt;Wireless MiniDisc Walkman Has Bluetooth Insideから発見。画像もここから転載。
-もはや懐かしいMDプレーヤーですが、最新の技術でこれをアップグレードする作例を紹介します。
-この記事では、懐かしのMDプレーヤーにBluetooth送信機能を追加しています。 コンパクトなMDプレーヤーの筐体にBluetoothの基板を内蔵するのはなかなか骨の折れる作業のようです。
-作業の過程はGitHubで公開されているので、真似して作ることもできそうです。
- </description>
     </item>
     
   </channel>
