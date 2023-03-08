@@ -5,9 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 07 Mar 2023 23:13:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Mar 2023 23:15:15 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>透明OLEDを活用したスカウター風ガジェット</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%80%8F%E6%98%8Eoled%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E3%82%B9%E3%82%AB%E3%82%A6%E3%82%BF%E3%83%BC%E9%A2%A8%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
+      <pubDate>Wed, 08 Mar 2023 23:15:15 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%80%8F%E6%98%8Eoled%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E3%82%B9%E3%82%AB%E3%82%A6%E3%82%BF%E3%83%BC%E9%A2%A8%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/透明OLEDを活用したスカウター風ガジェット.jpg"&gt;そぞらさんのTweetから発見。画像もここから転載。
+透明OLEDは意外と簡単に入手できるようになっていますが、かっこいい割には何に使うか悩ましい部品でもあります。
+この作例ではいわゆる「スカウター」的なガジェットで、機械学習を利用して目の前にあるものを認識して、それが何かを透明OLEDに表示するというものです。
+透明OLEDならではの活用法です。
+検出した物体名を表示する「AIスカウター」ができた pic.twitter.com/a7ylIrdJIU
+&amp;mdash; そぞら⚙Raspberry Pi 電子工作 (@sozoraemon) February 13, 2023  </description>
+    </item>
     
     <item>
       <title>真鍮製のガスキャップを可変抵抗のノブにするための3Dプリンタ製のアダプタ</title>
@@ -118,30 +132,6 @@ CH552もその一つです。USB Devie機能を内蔵しているにもかかわ
 Webページで基板を紹介する際、画像を使うことが多いですが、特定のレイヤーをハイライトしたり、閲覧者にズームなどの操作を提供するためには、専用の仕組みが必要です。
 この記事で紹介しているKiCanvasはこれを実現するライブラリのようです。 現在はまだのようですが、オープンソースでの公開を予定しているとで、それに先立ってスポンサーも募集しています。
 動作デモなどはすでにあるので、気になる人は記事を確認してみてください。</description>
-    </item>
-    
-    <item>
-      <title>自作のオーディオプレイヤーを作るための拡張ボード「MakePython Audio Expansion」</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E6%8B%A1%E5%BC%B5%E3%83%9C%E3%83%BC%E3%83%89makepython-audio-expansion/</link>
-      <pubDate>Tue, 21 Feb 2023 23:12:44 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E6%8B%A1%E5%BC%B5%E3%83%9C%E3%83%BC%E3%83%89makepython-audio-expansion/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/makepython-audio-expansion-cover.jpg"&gt;この記事はMakerfabsの提供でお届けします。
-今回紹介するMakePython Audio ExpansionはMakerfabsから提供いただいたものです。
-（ですが、MakePython Audio ExpansionはMakerfabsをレビューしたい！と言ったのは自分なので、Makerfabsが無理やりこの商品を押しているわけではなく、inajobの一押しアイテム！、という感じです。）
-MakePython Audio Expansionとは [以前レビューしたMakePython ESP32 Color LCD](../../post/高解像度液晶付きのESP32開発ボードMakePython ESP32 Color LCD) や MakePython ESP32と組み合わせて利用することで、オーディオガジェットを作ることが出来る拡張ボードです。
- オーディオDACのUDA1334ATS 2つのジョグダイアル Micro SDカードスロット オーディオジャック  MP3プレイヤーを動かしてみる このモジュールは公式にはMakePython ESP32用のサンプルプログラムしか存在しなくて、MakePython ESP32 Color LCD向けのプログラムは存在していません。
-そこでGitHubを探してみると以下のプログラムを発見しました。
-https://github.com/VolosR/MakePythonLCDMP3
-これはMakePython ESP32 Color LCDとMakePython Audio Expansionを組み合わせて動作するMP3プレーヤーのプログラムです。
-しかし、このプログラム、意外と一筋縄では動きませんでした。
-メモ的に変更点を列挙すると・・
-Arduino IDEにインポートするライブラリが自明ではない このプログラムはArduino IDEでビルドする事を前提として作られているため、依存するライブラリについては、自分で個別にインストールする必要があります。 （これはArduino IDEの良くないところで、Platformioなどを使うとライブラリも管理出来て便利だと考えています）
-  SPI_eTFT 2.5.0(最新)
- 設定が必要（後述）    https://github.com/schreibfaul1/ESP32-audioI2S
- Audioという名前でライブラリマネージャを検索して出てくるライブラリではないので注意 こちらはライブラリマネージャにないのでGitHubからZIPファイルをダウンロードしてインストールする    SPI_eTFTの設定 SPI_eTFTの設定は、インストールしたライブラリのファイルを直接書き換える方法により行います（もっと行儀のよい方法があれば教えてほしいです・・）
-User_Setup_Select.hの以下の行のコメントを外す
- #include &amp;lt;User_Setups/Setup24_ST7789.</description>
     </item>
     
   </channel>

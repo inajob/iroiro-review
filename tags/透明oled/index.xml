@@ -1,0 +1,28 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>透明OLED on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E9%80%8F%E6%98%8Eoled/</link>
+    <description>Recent content in 透明OLED on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 08 Mar 2023 23:15:15 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%80%8F%E6%98%8Eoled/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>透明OLEDを活用したスカウター風ガジェット</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%80%8F%E6%98%8Eoled%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E3%82%B9%E3%82%AB%E3%82%A6%E3%82%BF%E3%83%BC%E9%A2%A8%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
+      <pubDate>Wed, 08 Mar 2023 23:15:15 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%80%8F%E6%98%8Eoled%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E3%82%B9%E3%82%AB%E3%82%A6%E3%82%BF%E3%83%BC%E9%A2%A8%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/透明OLEDを活用したスカウター風ガジェット.jpg"&gt;そぞらさんのTweetから発見。画像もここから転載。
+透明OLEDは意外と簡単に入手できるようになっていますが、かっこいい割には何に使うか悩ましい部品でもあります。
+この作例ではいわゆる「スカウター」的なガジェットで、機械学習を利用して目の前にあるものを認識して、それが何かを透明OLEDに表示するというものです。
+透明OLEDならではの活用法です。
+検出した物体名を表示する「AIスカウター」ができた pic.twitter.com/a7ylIrdJIU
+&amp;mdash; そぞら⚙Raspberry Pi 電子工作 (@sozoraemon) February 13, 2023  </description>
+    </item>
+    
+  </channel>
+</rss>
+
