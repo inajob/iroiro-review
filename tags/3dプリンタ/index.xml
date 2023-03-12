@@ -5,9 +5,21 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 07 Mar 2023 23:13:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Mar 2023 23:27:39 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリントと輪ゴムを組み合わせるテクニック</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E8%BC%AA%E3%82%B4%E3%83%A0%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%82%8B%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</link>
+      <pubDate>Sun, 12 Mar 2023 23:27:39 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E8%BC%AA%E3%82%B4%E3%83%A0%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%82%8B%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリントと輪ゴムを組み合わせるテクニック.jpg"&gt;Rubber Bands And O-Rings Give 3D Prints Some Stretchから発見。画像もここから転載。
+3Dプリントと輪ゴムを組み合わせることで実現された、ブレスレットの作例です。 印刷を途中で停止させて、中の溝に輪ゴムを埋め込んでいます。その後、溝にふたをするため輪ゴムが成果物の内部に固定されるという作り方です。
+3Dプリントとほかの素材を組み合わせることで製作の幅が広がる面白い作例です。
+ </description>
+    </item>
     
     <item>
       <title>真鍮製のガスキャップを可変抵抗のノブにするための3Dプリンタ製のアダプタ</title>
@@ -123,19 +135,6 @@ ACアダプタも筐体下に収められるようになっているのがよさ
 この記事で紹介しているのは、オーバーハング部分を円弧状にスライスすることで、サポート材なしに造形するテクニックです。
 冷却に気を遣う必要がありますが、3Dプリンタは無改造で実現できるというのが特徴です。
  </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタ用の汎用コンソールを別の用途に利用するために解析する</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E7%94%A8%E3%81%AE%E6%B1%8E%E7%94%A8%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB%E3%82%92%E5%88%A5%E3%81%AE%E7%94%A8%E9%80%94%E3%81%AB%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E8%A7%A3%E6%9E%90%E3%81%99%E3%82%8B/</link>
-      <pubDate>Thu, 22 Dec 2022 23:15:59 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E7%94%A8%E3%81%AE%E6%B1%8E%E7%94%A8%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB%E3%82%92%E5%88%A5%E3%81%AE%E7%94%A8%E9%80%94%E3%81%AB%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E8%A7%A3%E6%9E%90%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ用の汎用コンソールを別の用途に利用するために解析する.jpg"&gt;A Cheap 3D Printer Control Panel As A General Purpose Interfaceから発見。画像もここから転載。
-汎用化されたパーツは低価格で販売されているものが多いです。
-そういったパーツをうまく流用して自分の作品に取り込むことで安く済ませるというのは、よくあるテクニックですが、この記事で紹介しているのは3Dプリンタ用のコンソールパネルの部品です。
-この部品はタクトスイッチとフルカラーLED、ロータリーエンコーダ、大きめのLCD表示機、SDカードリーダー、ブザーが搭載されているもので、汎用性が高く、色々な用途に利用できそうです。
-そしてこのモジュール、確かにAliExpressで見ると$10程度と安価で入手できそうです。 一つ買っておこうかな・・</description>
     </item>
     
   </channel>

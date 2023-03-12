@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 09 Mar 2023 23:45:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Mar 2023 23:27:39 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリントと輪ゴムを組み合わせるテクニック</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E8%BC%AA%E3%82%B4%E3%83%A0%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%82%8B%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</link>
+      <pubDate>Sun, 12 Mar 2023 23:27:39 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E8%BC%AA%E3%82%B4%E3%83%A0%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%82%8B%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリントと輪ゴムを組み合わせるテクニック.jpg"&gt;Rubber Bands And O-Rings Give 3D Prints Some Stretchから発見。画像もここから転載。
+3Dプリントと輪ゴムを組み合わせることで実現された、ブレスレットの作例です。 印刷を途中で停止させて、中の溝に輪ゴムを埋め込んでいます。その後、溝にふたをするため輪ゴムが成果物の内部に固定されるという作り方です。
+3Dプリントとほかの素材を組み合わせることで製作の幅が広がる面白い作例です。
+ </description>
+    </item>
     
     <item>
       <title>太陽光で充電できる分割キーボード</title>
@@ -119,19 +131,6 @@ GitHubで検索するとGCCベースのオープンな開発環境も利用で�
 安いと噂のRISC-V ICのCH32V003搭載の開発ボードです。
 16KBのFlash ROM、2KBのSRAMと、ちょっとした組み込みの処理には十分の性能です。 開発ボードも$1.5と安いですが、IC単品もかなり安くで入手できそうです。
 長引く半導体不足でよく利用するSTM32やAVRマイコンは品薄、価格の高騰が見られますので、この機会にRISC-Vに入門するのも有りかもしれません。</description>
-    </item>
-    
-    <item>
-      <title>CH552Eを使ったOLED制御基板</title>
-      <link>https://inajob.github.io/iroiro-review/post/ch552e%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Foled%E5%88%B6%E5%BE%A1%E5%9F%BA%E6%9D%BF/</link>
-      <pubDate>Sun, 26 Feb 2023 23:31:32 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/ch552e%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Foled%E5%88%B6%E5%BE%A1%E5%9F%BA%E6%9D%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH552Eを使ったOLED制御基板.jpg"&gt;CH552 USB to OLEDから発見。画像もここから転載。
-昨今半導体不足による価格の高騰で、中国製の安価なICが注目を浴びています。
-CH552もその一つです。USB Devie機能を内蔵しているにもかかわらず、結構安いので、同人ハードウェア界隈では試しに使っている人を見かけます。
-この記事で紹介しているのはCH552をコアとしたOLED制御基板です。
-ファームウェアや回路図も公開されているのでCH552での作例として参考になりそうです。 I2Cはマイコンの機能としては持っていないのでソフトウェアで実装されているようです。</description>
     </item>
     
   </channel>
