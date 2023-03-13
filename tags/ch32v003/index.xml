@@ -5,9 +5,21 @@
     <description>Recent content in CH32V003 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 27 Feb 2023 23:47:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Mar 2023 23:35:45 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/ch32v003/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>今話題のCH32V003の開発をオープンソースツールチェーンで行う方法</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E4%BB%8A%E8%A9%B1%E9%A1%8C%E3%81%AEch32v003%E3%81%AE%E9%96%8B%E7%99%BA%E3%82%92%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%84%E3%83%BC%E3%83%AB%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%81%A7%E8%A1%8C%E3%81%86%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Mon, 13 Mar 2023 23:35:45 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E4%BB%8A%E8%A9%B1%E9%A1%8C%E3%81%AEch32v003%E3%81%AE%E9%96%8B%E7%99%BA%E3%82%92%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%84%E3%83%BC%E3%83%AB%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%81%A7%E8%A1%8C%E3%81%86%E6%96%B9%E6%B3%95/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/今話題のCH32V003の開発をオープンソースツールチェーンで行う方法.jpg"&gt;A CH32V003 Toolchain — If You Can Get One To Try It Onから発見。画像もここから転載。
+今話題のCH32V003の開発をオープンソースツールチェーンで実現するためのプロジェクトを紹介しています。
+この記事で紹介しているリポジトリ では、CH32V003の標準のSDKではなく、独自のライブラリを提供しており、これを利用することで、商用のソフトウェアを使わず、軽量なプログラムが作れるようです。
+軽量の秘訣は公式SDKのようにHAL（ハードウェア抽象化層）を設けないプログラミングによるもので、これはプログラミングの再利用性を下げますが、CH32V003のみをターゲットに開発する分には効率の良い方法のように見えます。</description>
+    </item>
     
     <item>
       <title>安いと噂のRISC-V ICのCH32V003搭載の開発ボード</title>
