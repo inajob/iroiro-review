@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PY32F003 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/py32f003/</link>
+    <description>Recent content in PY32F003 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Tue, 14 Mar 2023 23:33:20 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/py32f003/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PY32搭載の開発ボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/py32%E6%90%AD%E8%BC%89%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Tue, 14 Mar 2023 23:33:20 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/py32%E6%90%AD%E8%BC%89%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/PY32搭載の開発ボード.jpg"&gt;PY32F003 development board by Maker go on Tindieから発見。画像もここから転載。
+以前も紹介した 激安のARM ICであるPY32搭載の開発ボードです。 USBポートはありますが、IC自体はUSBをサポートしていないので、おそらく電源のためだけに使われるのだと思います。
+開発ツールチェーンがどうなっているのか気になります。</description>
+    </item>
+    
+  </channel>
+</rss>
+
