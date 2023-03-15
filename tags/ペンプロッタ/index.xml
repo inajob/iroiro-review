@@ -5,9 +5,26 @@
     <description>Recent content in ペンプロッタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 04 Oct 2022 23:10:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Mar 2023 23:50:55 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>「せんせい」にお絵かきする装置</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%9B%E3%82%93%E3%81%9B%E3%81%84%E3%81%AB%E3%81%8A%E7%B5%B5%E3%81%8B%E3%81%8D%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Wed, 15 Mar 2023 23:50:55 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%9B%E3%82%93%E3%81%9B%E3%81%84%E3%81%AB%E3%81%8A%E7%B5%B5%E3%81%8B%E3%81%8D%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/「せんせい」にお絵かきする装置.jpg"&gt;ぴろつく さんのTweetから発見。画像もここから転載。
+「せんせい」にお絵かきする装置の作例です。 ペンを握って文字を書く様子を見るのは、なぜか楽しい気持ちになります。 コアはM5 ATOM Liteを使用し、サーボモーターを3つ使ってペンを制御しています。
+ 筐体データはThingiverseにアップロードされている ようなので、真似して作ってみるのも面白そうです。
+Plotclock改ができました。
+毎時0分は、絵を描きます。
+裏のスイッチや、ブラウザでボタンを押すと、絵を描きます。
+これから絵を増やしていきます。
+子供が来る場所に置くらしいので配線は中に入れましたが、すぐに壊されそうです。 pic.twitter.com/sbA32iXW74
+&amp;mdash; ぴろつく (@pirotsuku) February 25, 2023  </description>
+    </item>
     
     <item>
       <title>手回し式のペンプロッタ</title>
