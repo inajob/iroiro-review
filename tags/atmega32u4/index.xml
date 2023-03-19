@@ -1,13 +1,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>atmega32u4 on inajobのいろいろレビュー</title>
+    <title>ATmega32u4 on inajobのいろいろレビュー</title>
     <link>https://inajob.github.io/iroiro-review/tags/atmega32u4/</link>
-    <description>Recent content in atmega32u4 on inajobのいろいろレビュー</description>
+    <description>Recent content in ATmega32u4 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 12 Sep 2021 12:00:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Mar 2023 23:20:04 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/atmega32u4/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>とてもシンプルなATmega32u4搭載開発ボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%A8%E3%81%A6%E3%82%82%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AAatmega32u4%E6%90%AD%E8%BC%89%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Sun, 19 Mar 2023 23:20:04 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%A8%E3%81%A6%E3%82%82%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AAatmega32u4%E6%90%AD%E8%BC%89%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/とてもシンプルなATmega32u4搭載開発ボード.jpg"&gt;A Mega-Tiny Arduinoから発見。画像もここから転載。
+とてもシンプルなATmega32u4搭載開発ボードです。 コンパクトで、USB Type-Cを備えており、端面スルーホールなので他の基板にコンパクトに搭載することができます。
+レギュレータを積んでいませんが、USB電源で動かす場合においてはこれも不要です。 自作キーボードなどを作る時に便利そうです。</description>
+    </item>
     
     <item>
       <title>定番の小型ATMega32u4ボード「Beetle」</title>
