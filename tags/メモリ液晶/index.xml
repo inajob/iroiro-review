@@ -5,9 +5,22 @@
     <description>Recent content in メモリ液晶 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 24 Apr 2022 23:11:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Mar 2023 23:15:43 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%83%A1%E3%83%A2%E3%83%AA%E6%B6%B2%E6%99%B6/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>太陽光パネルで充電可能なバッテリーで約2年間動作する小型コンピュータ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%A4%AA%E9%99%BD%E5%85%89%E3%83%91%E3%83%8D%E3%83%AB%E3%81%A7%E5%85%85%E9%9B%BB%E5%8F%AF%E8%83%BD%E3%81%AA%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%81%A7%E7%B4%842%E5%B9%B4%E9%96%93%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B%E5%B0%8F%E5%9E%8B%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF/</link>
+      <pubDate>Thu, 23 Mar 2023 23:15:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%A4%AA%E9%99%BD%E5%85%89%E3%83%91%E3%83%8D%E3%83%AB%E3%81%A7%E5%85%85%E9%9B%BB%E5%8F%AF%E8%83%BD%E3%81%AA%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%81%A7%E7%B4%842%E5%B9%B4%E9%96%93%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B%E5%B0%8F%E5%9E%8B%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/太陽光パネルで充電可能なバッテリーで約2年間動作する小型コンピュータ.jpg"&gt;Low Power Challenge: The PotatoP Runs Lisp For Months Without Rechargingから発見。画像もここから転載。
+太陽光パネルで充電可能なバッテリーで約2年間動作する小型コンピュータの作例です。 消費電力の少ないメモリ液晶を搭載し、にソーラーパネルによる充電もサポートしています。
+連続実行時間は125日ほどですが、1日8時間稼働+太陽光での充電を計算に入れると2年ほど、充電なしで利用できるという計算のようです。
+コアとなるのはSparkfun RedBoard Artemisという48MHzの Cortex-M4Fを搭載した開発ボードです。 uLispというLispのサブセットを動作させることが出来ます。
+ </description>
+    </item>
     
     <item>
       <title>Raspberry Pi Zero 2W用のキーボードとメモリ液晶搭載のハンドヘルド端末</title>
