@@ -5,9 +5,22 @@
     <description>Recent content in 電子ペーパー on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 01 Dec 2022 23:12:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Mar 2023 23:42:06 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>今日の予定を表示してくれる電子ペーパガジェット</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E4%BB%8A%E6%97%A5%E3%81%AE%E4%BA%88%E5%AE%9A%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
+      <pubDate>Sun, 26 Mar 2023 23:42:06 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E4%BB%8A%E6%97%A5%E3%81%AE%E4%BA%88%E5%AE%9A%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/今日の予定を表示してくれる電子ペーパガジェット.jpg"&gt;The Timeframeから発見。画像もここから転載。
+今日の予定を表示してくれる電子ペーパガジェットを紹介します。
+このガジェットはLilyGo T5というものですが、ESP32と電子ペーパーモジュールがあれば似たものを作れそうです。
+仕組みとしては、サーバにある画像を表示するプログラムをESP32に仕込んでおき、スケジュールの画像はサーバで生成しているようです。（Google Clendarの画面をSeleniumでキャプチャしただけのようです）
+この方式だと、ESP32側はシンプルなプログラムでよく、かつサーバ側の実装を差し替えることで、あらゆる画像を表示できます。</description>
+    </item>
     
     <item>
       <title>TFTと電子ペーパーの2画面を搭載したCyberdeck</title>
@@ -120,18 +133,6 @@ CPUはArduino UNOなどと同じATmega328のようで、開発はArduinoIDEで�
 動画では制御部分は謎のCPUがついていたらしく、それをはがして単なる液晶モジュールとして使っている。
 日本でもたまに中古の電子ペーパーモジュールを見かけるが、同じ方法で制御できるのだろうか・・？
  </description>
-    </item>
-    
-    <item>
-      <title>写真立て風の電子ペーパーディスプレイ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%86%99%E7%9C%9F%E7%AB%8B%E3%81%A6%E9%A2%A8%E3%81%AE%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</link>
-      <pubDate>Tue, 26 Mar 2019 23:00:38 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%86%99%E7%9C%9F%E7%AB%8B%E3%81%A6%E9%A2%A8%E3%81%AE%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/e-ink-photo-stand.png"&gt;ePaper Picture Frameから発見。画像もここから転載。
-電子ペーパーが組み込まれた写真立て風のガジェット。 ちょうど今KickStarterでキャンペーン中で、€175（22000円くらい）でDIYキットのプランに投資できます。
-8inchで1024x768のディスプレイで、スマートフォンのアプリで画面を書き換えることができるようです。 電子ペーパーはその見た目もさることながら、書き換え時以外は電気を消費しないので、写真立てのようなプロダクトには非常に向いています。
-見た目がいい感じなので、インテリアにこだわる、ガジェット好きの方にはお勧めのプロジェクトです。</description>
     </item>
     
   </channel>

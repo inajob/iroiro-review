@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 23 Mar 2023 23:15:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Mar 2023 23:42:06 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>今日の予定を表示してくれる電子ペーパガジェット</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E4%BB%8A%E6%97%A5%E3%81%AE%E4%BA%88%E5%AE%9A%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
+      <pubDate>Sun, 26 Mar 2023 23:42:06 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E4%BB%8A%E6%97%A5%E3%81%AE%E4%BA%88%E5%AE%9A%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/今日の予定を表示してくれる電子ペーパガジェット.jpg"&gt;The Timeframeから発見。画像もここから転載。
+今日の予定を表示してくれる電子ペーパガジェットを紹介します。
+このガジェットはLilyGo T5というものですが、ESP32と電子ペーパーモジュールがあれば似たものを作れそうです。
+仕組みとしては、サーバにある画像を表示するプログラムをESP32に仕込んでおき、スケジュールの画像はサーバで生成しているようです。（Google Clendarの画面をSeleniumでキャプチャしただけのようです）
+この方式だと、ESP32側はシンプルなプログラムでよく、かつサーバ側の実装を差し替えることで、あらゆる画像を表示できます。</description>
+    </item>
     
     <item>
       <title>太陽光パネルで充電可能なバッテリーで約2年間動作する小型コンピュータ</title>
@@ -124,18 +137,6 @@ Plotclock改ができました。
 3Dプリントと輪ゴムを組み合わせることで実現された、ブレスレットの作例です。 印刷を途中で停止させて、中の溝に輪ゴムを埋め込んでいます。その後、溝にふたをするため輪ゴムが成果物の内部に固定されるという作り方です。
 3Dプリントとほかの素材を組み合わせることで製作の幅が広がる面白い作例です。
  </description>
-    </item>
-    
-    <item>
-      <title>太陽光で充電できる分割キーボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%A4%AA%E9%99%BD%E5%85%89%E3%81%A7%E5%85%85%E9%9B%BB%E3%81%A7%E3%81%8D%E3%82%8B%E5%88%86%E5%89%B2%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Thu, 09 Mar 2023 23:45:02 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%A4%AA%E9%99%BD%E5%85%89%E3%81%A7%E5%85%85%E9%9B%BB%E3%81%A7%E3%81%8D%E3%82%8B%E5%88%86%E5%89%B2%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/太陽光で充電できる分割キーボード.jpg"&gt;Aloidia: wireless split solar powered keyboardから発見。画像もここから転載。
-ワイヤレスキーボードは便利ですが、バッテリーの残量を気にする必要があるのがネックです。
-この記事ではソーラーパネルを搭載した分割キーボードの作例を紹介しています。 省エネなメモリ液晶を搭載しているのも特徴です。
-まだまだ試行錯誤の途中のようですが、蛍光灯などの光でもうまいことやると充電なしで運用できる計算のようです。</description>
     </item>
     
   </channel>
