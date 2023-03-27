@@ -5,9 +5,27 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 26 Mar 2023 23:42:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Mar 2023 23:20:14 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Android</title>
+      <link>https://inajob.github.io/iroiro-review/tags/android/</link>
+      <pubDate>Mon, 27 Mar 2023 23:20:14 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/android/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>HACK</title>
+      <link>https://inajob.github.io/iroiro-review/tags/hack/</link>
+      <pubDate>Mon, 27 Mar 2023 23:20:14 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/hack/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>ESP32</title>
@@ -73,29 +91,11 @@
     </item>
     
     <item>
-      <title>HACK</title>
-      <link>https://inajob.github.io/iroiro-review/tags/hack/</link>
-      <pubDate>Wed, 22 Mar 2023 22:29:49 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/hack/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
       <title>Arduino</title>
       <link>https://inajob.github.io/iroiro-review/tags/arduino/</link>
       <pubDate>Tue, 21 Mar 2023 23:27:33 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/arduino/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>CH32V003</title>
-      <link>https://inajob.github.io/iroiro-review/tags/ch32v003/</link>
-      <pubDate>Tue, 21 Mar 2023 23:27:33 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/ch32v003/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     

@@ -5,9 +5,21 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 22 Mar 2023 22:29:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Mar 2023 23:20:14 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Androidを搭載した普通の電卓</title>
+      <link>https://inajob.github.io/iroiro-review/post/android%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E6%99%AE%E9%80%9A%E3%81%AE%E9%9B%BB%E5%8D%93/</link>
+      <pubDate>Mon, 27 Mar 2023 23:20:14 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/android%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E6%99%AE%E9%80%9A%E3%81%AE%E9%9B%BB%E5%8D%93/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Androidを搭載した普通の電卓.jpg"&gt;Probably The Most Over-Specified Calculator To Ever Be Manufacturedから発見。画像もここから転載。
+Androidを搭載した普通の電卓です。 なぜこんな設計になったか謎ですが、Androidベースのただの電卓、というのがあるようです。（関数電卓ですらないようです）
+こういうものにAndroidを使うのは明らかにオーバースペックですが、なにか深い事情があったんでしょう・・ もちろんHackすればいろいろ遊べるようです。
+安くで買えるなら、自分も遊んでみたいなぁ・・</description>
+    </item>
     
     <item>
       <title>let&#39;t noteのトラックパッドの横に液晶を埋め込む</title>
@@ -129,21 +141,6 @@ FDM式3Dプリンタでは、造形物をスライスすることで、造形パ
 Classic Mac OSはPowerPCというCPUで動作するように設計されており、偶然にもWiiも同じPowerPCが搭載されています。 CPUが同じおかげで、何とWiiでもClassic Mac OSが動かせるようです。
 実際にはWiiで動作するLinuxの上で、Mac-on-Linuxというアプリケーションを起動してClassic Mac OSを動作させているようです。
 Mac-on-LinuxはPowerPC上のLinuxで動作するエミュレータとは違い、PowerPCを活用してClassic Mac OSを動作させるためのソフトウェアです。
- </description>
-    </item>
-    
-    <item>
-      <title>ドローンを使った3Dプリント</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88/</link>
-      <pubDate>Sun, 27 Nov 2022 23:13:07 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ドローンを使った3Dプリント.jpg"&gt;3D Printing With A Drone Swarm?から発見。画像もここから転載。
-ドローンを使った3Dプリントを行う実験を紹介します。 最近3Dプリントによる建築の実験が行われていますが、通常これらの3Dプリンタを稼働させるためには「足場」が必要となります。
-そして造形する成果物もこの足場の大きさに依存してしまいます。
-この記事で紹介しているのは足場不要のドローンによる3Dプリンタの実験です。
-飛行中のドローンは不安定でランダムにドリフトしますが、ドローンの下に吊り下げたアームがその動きをキャンセルする仕組みとなっており、結構良い精度で造形が出来るようです。
-ドローンを複数利用し編隊を組むことで造形速度を上げることもできるようで、うまく実用化されれば3Dプリントによる建築の活用の幅が広がりそうです
  </description>
     </item>
     
