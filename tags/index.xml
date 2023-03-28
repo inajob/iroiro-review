@@ -5,9 +5,27 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 27 Mar 2023 23:20:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Mar 2023 23:34:54 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>HACK</title>
+      <link>https://inajob.github.io/iroiro-review/tags/hack/</link>
+      <pubDate>Tue, 28 Mar 2023 23:34:54 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/hack/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>時計</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E6%99%82%E8%A8%88/</link>
+      <pubDate>Tue, 28 Mar 2023 23:34:54 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E6%99%82%E8%A8%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>Android</title>
@@ -15,15 +33,6 @@
       <pubDate>Mon, 27 Mar 2023 23:20:14 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/android/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>HACK</title>
-      <link>https://inajob.github.io/iroiro-review/tags/hack/</link>
-      <pubDate>Mon, 27 Mar 2023 23:20:14 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/hack/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
@@ -87,15 +96,6 @@
       <pubDate>Thu, 23 Mar 2023 23:15:43 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/%E3%83%A1%E3%83%A2%E3%83%AA%E6%B6%B2%E6%99%B6/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>Arduino</title>
-      <link>https://inajob.github.io/iroiro-review/tags/arduino/</link>
-      <pubDate>Tue, 21 Mar 2023 23:27:33 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/arduino/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     

@@ -5,9 +5,21 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 27 Mar 2023 23:20:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Mar 2023 23:34:54 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>アナログ時計をゆっくり動かすことで1年の経過を表す</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E6%99%82%E8%A8%88%E3%82%92%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8A%E5%8B%95%E3%81%8B%E3%81%99%E3%81%93%E3%81%A8%E3%81%A71%E5%B9%B4%E3%81%AE%E7%B5%8C%E9%81%8E%E3%82%92%E8%A1%A8%E3%81%99/</link>
+      <pubDate>Tue, 28 Mar 2023 23:34:54 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E6%99%82%E8%A8%88%E3%82%92%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8A%E5%8B%95%E3%81%8B%E3%81%99%E3%81%93%E3%81%A8%E3%81%A71%E5%B9%B4%E3%81%AE%E7%B5%8C%E9%81%8E%E3%82%92%E8%A1%A8%E3%81%99/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/アナログ時計をゆっくり動かすことで1年の経過を表す.jpg"&gt;Low-Power Challenge: Making An Analog Clock Into A Calendar With A 50-Year Lifeから発見。画像もここから転載。
+アナログ時計をゆっくり動かすことで1年の経過を表す時計の作例です。 単三電池1つで50年持つ計算のようです。
+水晶のパルスの代わりにArduinoからのパルスを使うことで、好きな間隔で時計を動かすことが出来るようです。
+Arduino Pro Miniを省エネ化する改造についても触れられており、参考になります。</description>
+    </item>
     
     <item>
       <title>Androidを搭載した普通の電卓</title>
@@ -127,21 +139,6 @@ FDM式3Dプリンタでは、造形物をスライスすることで、造形パ
 様々なタイプのドローンがありますが、食べられるドローン、というものが研究されているようです。
 ネタかと思いきや、遭難者に食料を届けるという理にかなった目的があるようです。 この作例では羽が餅とゼラチンで作られています。
 世の中色々なことを考える人がいますね。</description>
-    </item>
-    
-    <item>
-      <title>WiiでClassic MacOSがそのまま動くHack</title>
-      <link>https://inajob.github.io/iroiro-review/post/wii%E3%81%A7classic-macos%E3%81%8C%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BE%E5%8B%95%E3%81%8Fhack/</link>
-      <pubDate>Mon, 05 Dec 2022 22:55:53 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/wii%E3%81%A7classic-macos%E3%81%8C%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BE%E5%8B%95%E3%81%8Fhack/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/WiiでClassic MacOSがそのまま動くHack.jpg"&gt;It’s MacOS. On An Unmodified Wii!から発見。画像もここから転載。
-もはや懐かしいClassic Mac OSですが、純正ハードウェアでなくても動くように様々なソフトウェアが開発されています。
-この記事で紹介しているのはニンテンドーのWiiでClassic Mac OSを動かす方法です。
-Classic Mac OSはPowerPCというCPUで動作するように設計されており、偶然にもWiiも同じPowerPCが搭載されています。 CPUが同じおかげで、何とWiiでもClassic Mac OSが動かせるようです。
-実際にはWiiで動作するLinuxの上で、Mac-on-Linuxというアプリケーションを起動してClassic Mac OSを動作させているようです。
-Mac-on-LinuxはPowerPC上のLinuxで動作するエミュレータとは違い、PowerPCを活用してClassic Mac OSを動作させるためのソフトウェアです。
- </description>
     </item>
     
   </channel>
