@@ -5,9 +5,25 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 28 Mar 2023 23:34:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Mar 2023 23:03:40 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>短冊のような形状の電子ペーパー端末</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%9F%AD%E5%86%8A%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E5%BD%A2%E7%8A%B6%E3%81%AE%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E7%AB%AF%E6%9C%AB/</link>
+      <pubDate>Wed, 29 Mar 2023 23:03:40 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%9F%AD%E5%86%8A%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E5%BD%A2%E7%8A%B6%E3%81%AE%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E7%AB%AF%E6%9C%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/短冊のような形状の電子ペーパー端末.jpg"&gt;ゆずれもんさんのTweetから発見。画像もここから転載。
+短冊のような形状の電子ペーパー端末です。 きれいな筐体に収まっており、側面に3つのスイッチが付いており、操作性も良さそうです。
+高解像度、大画面のデバイスが多いですが、こういうデバイスももっとたくさん出てきてほしいですね。
+手のひらサイズの電子書籍リーダー作りました。
+Arduinoベースで、2.9インチの電子ペーパーを搭載しています。
+基板はFusionPCB様に、ケースはDMM.make様に作って頂きました。
+表面実装部品のはんだ付け大変だった!#Arduino #電子工作 #FusionPCB #DMMmake pic.twitter.com/Njlyd36aBX
+&amp;mdash; ゆずれもん (@circleyuzulemon) March 9, 2020  </description>
+    </item>
     
     <item>
       <title>アナログ時計をゆっくり動かすことで1年の経過を表す</title>
@@ -126,17 +142,6 @@ Plotclock改ができました。
 これから絵を増やしていきます。
 子供が来る場所に置くらしいので配線は中に入れましたが、すぐに壊されそうです。 pic.twitter.com/sbA32iXW74
 &amp;mdash; ぴろつく (@pirotsuku) February 25, 2023  </description>
-    </item>
-    
-    <item>
-      <title>PY32搭載の開発ボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/py32%E6%90%AD%E8%BC%89%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Tue, 14 Mar 2023 23:33:20 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/py32%E6%90%AD%E8%BC%89%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/PY32搭載の開発ボード.jpg"&gt;PY32F003 development board by Maker go on Tindieから発見。画像もここから転載。
-以前も紹介した 激安のARM ICであるPY32搭載の開発ボードです。 USBポートはありますが、IC自体はUSBをサポートしていないので、おそらく電源のためだけに使われるのだと思います。
-開発ツールチェーンがどうなっているのか気になります。</description>
     </item>
     
   </channel>

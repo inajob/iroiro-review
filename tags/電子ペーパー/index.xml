@@ -5,9 +5,25 @@
     <description>Recent content in 電子ペーパー on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 26 Mar 2023 23:42:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Mar 2023 23:03:40 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>短冊のような形状の電子ペーパー端末</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%9F%AD%E5%86%8A%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E5%BD%A2%E7%8A%B6%E3%81%AE%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E7%AB%AF%E6%9C%AB/</link>
+      <pubDate>Wed, 29 Mar 2023 23:03:40 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%9F%AD%E5%86%8A%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E5%BD%A2%E7%8A%B6%E3%81%AE%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E7%AB%AF%E6%9C%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/短冊のような形状の電子ペーパー端末.jpg"&gt;ゆずれもんさんのTweetから発見。画像もここから転載。
+短冊のような形状の電子ペーパー端末です。 きれいな筐体に収まっており、側面に3つのスイッチが付いており、操作性も良さそうです。
+高解像度、大画面のデバイスが多いですが、こういうデバイスももっとたくさん出てきてほしいですね。
+手のひらサイズの電子書籍リーダー作りました。
+Arduinoベースで、2.9インチの電子ペーパーを搭載しています。
+基板はFusionPCB様に、ケースはDMM.make様に作って頂きました。
+表面実装部品のはんだ付け大変だった!#Arduino #電子工作 #FusionPCB #DMMmake pic.twitter.com/Njlyd36aBX
+&amp;mdash; ゆずれもん (@circleyuzulemon) March 9, 2020  </description>
+    </item>
     
     <item>
       <title>今日の予定を表示してくれる電子ペーパガジェット</title>
@@ -119,20 +135,6 @@ CPUはArduino UNOなどと同じATmega328のようで、開発はArduinoIDEで�
 代わりにAdafruit Featherをマウントするためのピンヘッダが搭載されています。
 そして、このボード、よく見るとびっしりと”文字”が書かれているのも特徴の一つです。それぞれのパーツが何なのか、どういうピン配置なのかといったことが細かく基板上に書かれているのです。
 部品代だけだと$42.26、基板の作成に$66.80程度と、お安い！というほどではありませんが、”自由”な電子書籍端末を手に入れる代償としてはそこそこリーズナブルなのではないでしょうか？</description>
-    </item>
-    
-    <item>
-      <title>電子ペーパー製値札の解析</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E8%A3%BD%E5%80%A4%E6%9C%AD%E3%81%AE%E8%A7%A3%E6%9E%90/</link>
-      <pubDate>Tue, 23 Jul 2019 23:00:21 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E8%A3%BD%E5%80%A4%E6%9C%AD%E3%81%AE%E8%A7%A3%E6%9E%90/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/e-ink-tag-featured.jpg"&gt;E-INK PRICE TAGS FALL OFF STORE SHELVES ONTO YOUR WORKBENCH にて発見。画像もここから転載。
-いわゆる値札などに使われている、電子ペーパーモジュールだが、最近は我々電子工作愛好家でも簡単に入手可能になってきている。
-この記事ではスーパーで使われている電子ペーパー製の値札の制御方法を紹介している。 どうやら、このモジュールの液晶部分はWaveShare のものと互換性があるらしい。
-動画では制御部分は謎のCPUがついていたらしく、それをはがして単なる液晶モジュールとして使っている。
-日本でもたまに中古の電子ペーパーモジュールを見かけるが、同じ方法で制御できるのだろうか・・？
- </description>
     </item>
     
   </channel>
