@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 29 Mar 2023 23:03:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Mar 2023 23:34:32 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>M5Stackの透明OLEDのモジュール</title>
+      <link>https://inajob.github.io/iroiro-review/post/m5stack%E3%81%AE%E9%80%8F%E6%98%8Eoled%E3%81%AE%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Thu, 30 Mar 2023 23:34:32 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/m5stack%E3%81%AE%E9%80%8F%E6%98%8Eoled%E3%81%AE%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/M5Stackの透明OLEDのモジュール.jpg"&gt;Reviewing M5 Stack&amp;rsquo;s Transparent 1.5 inch OLED Glass Unit - Electronics-Lab.comから発見。画像もここから転載。
+M5Stackの透明OLEDのモジュールを紹介します。
+OLED制御用の端子が直接出ているのではなく、マイコンも搭載されており、高度な描画命令やボタンやブザーの制御もできるもののようです。
+OLEDの制御というとドット単位の制御を思い浮かべますが、このモジュールは円を描く命令や、直線を引く命令などが充実しており、直観的なプログラミングが出来そうです。</description>
+    </item>
     
     <item>
       <title>短冊のような形状の電子ペーパー端末</title>
@@ -125,23 +137,6 @@ RISC-Vの格安ICであるCH32V003ですが、ペリフェラルの操作にはS
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/USBシリアルやLiPoバッテリー充電機能をまとめたモジュール.jpg"&gt;EverythingUSB - USB that does it all! by Robox Robotics on Tindieから発見。画像もここから転載。
 USBシリアルやLiPoバッテリー充電機能をまとめたモジュールです。 よく見かけるのはUSBシリアル変換だけ、LiPoバッテリー充電だけ、のモジュールですが、このモジュールはその2つの機能を両方実装しています。
 USBコネクタもType-Cで使いやすそうで、過放電保護や、静電気保護も考慮されており、便利そうなモジュールです。</description>
-    </item>
-    
-    <item>
-      <title>「せんせい」にお絵かきする装置</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%81%9B%E3%82%93%E3%81%9B%E3%81%84%E3%81%AB%E3%81%8A%E7%B5%B5%E3%81%8B%E3%81%8D%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/</link>
-      <pubDate>Wed, 15 Mar 2023 23:50:55 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%9B%E3%82%93%E3%81%9B%E3%81%84%E3%81%AB%E3%81%8A%E7%B5%B5%E3%81%8B%E3%81%8D%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/「せんせい」にお絵かきする装置.jpg"&gt;ぴろつく さんのTweetから発見。画像もここから転載。
-「せんせい」にお絵かきする装置の作例です。 ペンを握って文字を書く様子を見るのは、なぜか楽しい気持ちになります。 コアはM5 ATOM Liteを使用し、サーボモーターを3つ使ってペンを制御しています。
- 筐体データはThingiverseにアップロードされている ようなので、真似して作ってみるのも面白そうです。
-Plotclock改ができました。
-毎時0分は、絵を描きます。
-裏のスイッチや、ブラウザでボタンを押すと、絵を描きます。
-これから絵を増やしていきます。
-子供が来る場所に置くらしいので配線は中に入れましたが、すぐに壊されそうです。 pic.twitter.com/sbA32iXW74
-&amp;mdash; ぴろつく (@pirotsuku) February 25, 2023  </description>
     </item>
     
   </channel>

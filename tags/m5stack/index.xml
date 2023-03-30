@@ -5,9 +5,21 @@
     <description>Recent content in m5stack on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 23 Nov 2022 23:36:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Mar 2023 23:34:32 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/m5stack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>M5Stackの透明OLEDのモジュール</title>
+      <link>https://inajob.github.io/iroiro-review/post/m5stack%E3%81%AE%E9%80%8F%E6%98%8Eoled%E3%81%AE%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Thu, 30 Mar 2023 23:34:32 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/m5stack%E3%81%AE%E9%80%8F%E6%98%8Eoled%E3%81%AE%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/M5Stackの透明OLEDのモジュール.jpg"&gt;Reviewing M5 Stack&amp;rsquo;s Transparent 1.5 inch OLED Glass Unit - Electronics-Lab.comから発見。画像もここから転載。
+M5Stackの透明OLEDのモジュールを紹介します。
+OLED制御用の端子が直接出ているのではなく、マイコンも搭載されており、高度な描画命令やボタンやブザーの制御もできるもののようです。
+OLEDの制御というとドット単位の制御を思い浮かべますが、このモジュールは円を描く命令や、直線を引く命令などが充実しており、直観的なプログラミングが出来そうです。</description>
+    </item>
     
     <item>
       <title>M5Stackで動作するワンキーゲーム</title>
