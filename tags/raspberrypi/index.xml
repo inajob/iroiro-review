@@ -5,9 +5,23 @@
     <description>Recent content in RaspberryPi on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 13 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Apr 2023 23:34:56 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/raspberrypi/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raspberry Piは5Vと3.3Vの短絡で電源管理ICが死んでしまうがチップを乗せ換えると復活する</title>
+      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi%E3%81%AF5v%E3%81%A83.3v%E3%81%AE%E7%9F%AD%E7%B5%A1%E3%81%A7%E9%9B%BB%E6%BA%90%E7%AE%A1%E7%90%86ic%E3%81%8C%E6%AD%BB%E3%82%93%E3%81%A7%E3%81%97%E3%81%BE%E3%81%86%E3%81%8C%E3%83%81%E3%83%83%E3%83%97%E3%82%92%E4%B9%97%E3%81%9B%E6%8F%9B%E3%81%88%E3%82%8B%E3%81%A8%E5%BE%A9%E6%B4%BB%E3%81%99%E3%82%8B/</link>
+      <pubDate>Sun, 02 Apr 2023 23:34:56 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi%E3%81%AF5v%E3%81%A83.3v%E3%81%AE%E7%9F%AD%E7%B5%A1%E3%81%A7%E9%9B%BB%E6%BA%90%E7%AE%A1%E7%90%86ic%E3%81%8C%E6%AD%BB%E3%82%93%E3%81%A7%E3%81%97%E3%81%BE%E3%81%86%E3%81%8C%E3%83%81%E3%83%83%E3%83%97%E3%82%92%E4%B9%97%E3%81%9B%E6%8F%9B%E3%81%88%E3%82%8B%E3%81%A8%E5%BE%A9%E6%B4%BB%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Piは5Vと3.3Vの短絡で電源管理ICが死んでしまうがチップを乗せ換えると復活する.jpg"&gt;Dead Raspberry Pi Boards, PMICs, And New Hopeから発見。画像もここから転載。
+Raspberry Piを壊してしまったことはありませんか？
+幸いにして自分はまだその経験はないのですが、故障パターンの一つとして電源管理IC(MxL7704)が壊れてしまうというのがあるようです。 これは5Vと3.3Vを直結してしまうと起きるようで、Raspberry Piで電子工作をしている際には、ついやってしまいそうな故障パターンです。
+壊れているのは電源管理ICのみなので、これを付け替えると復活する可能性があります。
+この記事では電源管理ICを乗せ換える方法について紹介しています。
+ただし、乗せ換えるICはBGPで再はんだ付けするのはテクニックが必要ですし、ただ乗せ換えるだけではだめでI2Cのアドレスを適切に設定する必要があるようです。</description>
+    </item>
     
     <item>
       <title>見た目はRaspberry Pi ZeroなArduino互換ボード</title>
@@ -142,19 +156,6 @@ Twitterを表示してみた例（ちょっと小さくて読みづらいかな�
 （一方手元のMacBookにHDMIで接続してみましたがうまく認識されませんでした。）
 基板をよく見てみる ディスプレイについては、全くの無知ですが、一応むき出しの基板に乗っているICを見てみました。
   TOSHIBA 358779XBG</description>
-    </item>
-    
-    <item>
-      <title>世界崩壊後に役立つRaspberryPiコンソール</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E4%B8%96%E7%95%8C%E5%B4%A9%E5%A3%8A%E5%BE%8C%E3%81%AB%E5%BD%B9%E7%AB%8B%E3%81%A4raspberrypi%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</link>
-      <pubDate>Wed, 04 Aug 2021 23:00:45 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E4%B8%96%E7%95%8C%E5%B4%A9%E5%A3%8A%E5%BE%8C%E3%81%AB%E5%BD%B9%E7%AB%8B%E3%81%A4raspberrypi%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/picrash.jpg"&gt;SURVIVING THE APOCALYPSE WITH A BRIEFCASE FULL OF PIから発見。画像もここから転載。
-この記事で紹介しているのはRaspberryPiコンソールですが、そのコンセプトがユニークです。
-世界崩壊後を意識しているというこのRaspberryPiコンソールは、バッテリー搭載はもちろんのこと、様々な電源ソースから稼働できるようになっており、その中にはサバイバルガイドや農業のためのドキュメント、Wikipediaの全データなどが収められています。
-こういうコンセプトがしっかりとした作例は特徴があって面白いですね。
- </description>
     </item>
     
   </channel>
