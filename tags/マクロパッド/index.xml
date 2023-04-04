@@ -5,9 +5,21 @@
     <description>Recent content in マクロパッド on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 11 Jan 2023 23:35:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Apr 2023 23:24:34 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%91%E3%83%83%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>12キーマクロパッドを使って作曲を行う</title>
+      <link>https://inajob.github.io/iroiro-review/post/12%E3%82%AD%E3%83%BC%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%91%E3%83%83%E3%83%89%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E4%BD%9C%E6%9B%B2%E3%82%92%E8%A1%8C%E3%81%86/</link>
+      <pubDate>Tue, 04 Apr 2023 23:24:34 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/12%E3%82%AD%E3%83%BC%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%91%E3%83%83%E3%83%89%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E4%BD%9C%E6%9B%B2%E3%82%92%E8%A1%8C%E3%81%86/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/12キーマクロパッドを使って作曲を行う.jpg"&gt;Compose Any Song With Twelve Buttonsから発見。画像もここから転載。
+12キーマクロパッドを使って作曲を行う事例を紹介します。 自作機キーボードは、文字を入力するためのものが、多いですが、ちょっとプログラムを変更するとMIDIコントローラにも返信するので、このような遊びをするには良さそうです。
+この例ではドラムの打ち込みや、4種類の和音の入力、メロディの打ち込みを12キーの割当を変えつつ実施しているようです。
+ </description>
+    </item>
     
     <item>
       <title>基板設計も含めてすべてPythonで作成されたキーボード</title>

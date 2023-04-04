@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 03 Apr 2023 23:28:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Apr 2023 23:24:34 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>12キーマクロパッドを使って作曲を行う</title>
+      <link>https://inajob.github.io/iroiro-review/post/12%E3%82%AD%E3%83%BC%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%91%E3%83%83%E3%83%89%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E4%BD%9C%E6%9B%B2%E3%82%92%E8%A1%8C%E3%81%86/</link>
+      <pubDate>Tue, 04 Apr 2023 23:24:34 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/12%E3%82%AD%E3%83%BC%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%91%E3%83%83%E3%83%89%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E4%BD%9C%E6%9B%B2%E3%82%92%E8%A1%8C%E3%81%86/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/12キーマクロパッドを使って作曲を行う.jpg"&gt;Compose Any Song With Twelve Buttonsから発見。画像もここから転載。
+12キーマクロパッドを使って作曲を行う事例を紹介します。 自作機キーボードは、文字を入力するためのものが、多いですが、ちょっとプログラムを変更するとMIDIコントローラにも返信するので、このような遊びをするには良さそうです。
+この例ではドラムの打ち込みや、4種類の和音の入力、メロディの打ち込みを12キーの割当を変えつつ実施しているようです。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタを放電加工機に変身させるためのプリンタヘッドのクラウドファンディングプロジェクト</title>
@@ -129,19 +141,6 @@ let&amp;#39;snoteドライブレスモデルの空きスペース勿体無いの
 使う事のないであろうD-SUBポート取っ払って隣のHDMIポートと繋いでます。
 本当はD-SUBポートがあった所から内部結線で繋ごうとしたけど、マザボの極小ピッチホールに手ハンダはうまく行かず断念して妥協 pic.twitter.com/u93vQp2mlE
 &amp;mdash; リンキン@ガラスの胃腸 (@micron_m) May 22, 2022  </description>
-    </item>
-    
-    <item>
-      <title>CH32V003の開発をArduinoで行うための仕組み</title>
-      <link>https://inajob.github.io/iroiro-review/post/ch32v003%E3%81%AE%E9%96%8B%E7%99%BA%E3%82%92arduino%E3%81%A7%E8%A1%8C%E3%81%86%E3%81%9F%E3%82%81%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF/</link>
-      <pubDate>Tue, 21 Mar 2023 23:27:33 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/ch32v003%E3%81%AE%E9%96%8B%E7%99%BA%E3%82%92arduino%E3%81%A7%E8%A1%8C%E3%81%86%E3%81%9F%E3%82%81%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32V003の開発をArduinoで行うための仕組み.jpg"&gt;GitHub - AlexanderMandera/arduino-wch32v003: Arduino Core for CH32V303 RISC-V microcontrollerから発見。画像もここから転載。
-CH32V003の開発をArduinoで行うための仕組みです。
-RISC-Vの格安ICであるCH32V003ですが、ペリフェラルの操作にはSDKの独自の関数を使う必要があります。
-このプロジェクトではCH32V003向けのArduino風ラッパーを提供しています。 RISC-V用のgccは別途インストールが必要そうですが、Arduinoに慣れた人からすると嬉しそうです。
-まだシンプルなI/O命令とdelay命令くらいしかサポートされていないので、利用の際は注意が必要です。</description>
     </item>
     
   </channel>
