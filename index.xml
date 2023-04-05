@@ -5,9 +5,25 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 04 Apr 2023 23:24:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Apr 2023 23:25:39 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>畳の目をうまく利用した表示装置</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%95%B3%E3%81%AE%E7%9B%AE%E3%82%92%E3%81%86%E3%81%BE%E3%81%8F%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E8%A1%A8%E7%A4%BA%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Wed, 05 Apr 2023 23:25:39 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%95%B3%E3%81%AE%E7%9B%AE%E3%82%92%E3%81%86%E3%81%BE%E3%81%8F%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E8%A1%A8%E7%A4%BA%E8%A3%85%E7%BD%AE/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/畳の目をうまく利用した表示装置.jpg"&gt;【本人】すごい畳 〜Kenzie Yamada 〜 さんのTweetから発見。画像もここから転載。
+畳の目をうまく利用した表示装置です。畳の「目」が角度によって違う色になる現象ををうまく利用して、緩やかなグラデーションのアニメーションを演出しています。
+以外な素材が案外素敵な表示機になるかもしれまないという可能性を感じる作例です。
+完成しました！
+「曜変地目」
+※光の反射で畳の色を変化させています。
+4/7(金)の名古屋展で展示します。 pic.twitter.com/bP3aAWqAF9
+&amp;mdash; 【本人】すごい畳 〜Kenzie Yamada 〜 (@japanese_floor) March 25, 2023  </description>
+    </item>
     
     <item>
       <title>12キーマクロパッドを使って作曲を行う</title>
@@ -124,23 +140,6 @@ Androidを搭載した普通の電卓です。 なぜこんな設計になった
 連続実行時間は125日ほどですが、1日8時間稼働+太陽光での充電を計算に入れると2年ほど、充電なしで利用できるという計算のようです。
 コアとなるのはSparkfun RedBoard Artemisという48MHzの Cortex-M4Fを搭載した開発ボードです。 uLispというLispのサブセットを動作させることが出来ます。
  </description>
-    </item>
-    
-    <item>
-      <title>let&#39;t noteのトラックパッドの横に液晶を埋め込む</title>
-      <link>https://inajob.github.io/iroiro-review/post/lett-note%E3%81%AE%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E3%83%91%E3%83%83%E3%83%89%E3%81%AE%E6%A8%AA%E3%81%AB%E6%B6%B2%E6%99%B6%E3%82%92%E5%9F%8B%E3%82%81%E8%BE%BC%E3%82%80/</link>
-      <pubDate>Wed, 22 Mar 2023 22:29:49 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/lett-note%E3%81%AE%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E3%83%91%E3%83%83%E3%83%89%E3%81%AE%E6%A8%AA%E3%81%AB%E6%B6%B2%E6%99%B6%E3%82%92%E5%9F%8B%E3%82%81%E8%BE%BC%E3%82%80/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/let&#39;t noteのトラックパッドの横に液晶を埋め込む.jpg"&gt;リンキンさんのTweetから発見。画像もここから転載。
-Let&amp;rsquo;s Noteのパームレスト部分に液晶を埋め込んだ作例です。
-動画を見ても合成のようにしか見えませんが、パームレストの部分に3.5インチの液晶を埋め込んでいるようです。 これで、出先でもマルチディスプレイで作業ができますね！
-let&amp;#39;snoteドライブレスモデルの空きスペース勿体無いので、Sigezone さん@ShigezoneAkiba とこの 640×480・3.5㌅液晶をぶち込んで
-2画面ノーパソにしてみた(仮想環境でXPブートの様子 pic.twitter.com/B6KAseQ7bt
-&amp;mdash; リンキン@ガラスの胃腸 (@micron_m) May 22, 2022  このディスプレイの接続は、側面のHDMIポートのようで、筐体に隙間さえ作れれば真似することは難しくなさそうです。
-使う事のないであろうD-SUBポート取っ払って隣のHDMIポートと繋いでます。
-本当はD-SUBポートがあった所から内部結線で繋ごうとしたけど、マザボの極小ピッチホールに手ハンダはうまく行かず断念して妥協 pic.twitter.com/u93vQp2mlE
-&amp;mdash; リンキン@ガラスの胃腸 (@micron_m) May 22, 2022  </description>
     </item>
     
   </channel>

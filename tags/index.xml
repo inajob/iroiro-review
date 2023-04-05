@@ -5,9 +5,18 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 04 Apr 2023 23:24:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Apr 2023 23:25:39 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>表示機</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
+      <pubDate>Wed, 05 Apr 2023 23:25:39 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>マクロパッド</title>
@@ -87,15 +96,6 @@
       <pubDate>Thu, 30 Mar 2023 23:34:32 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/m5stack/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>透明OLED</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E9%80%8F%E6%98%8Eoled/</link>
-      <pubDate>Thu, 30 Mar 2023 23:34:32 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E9%80%8F%E6%98%8Eoled/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
