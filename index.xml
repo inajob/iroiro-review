@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 06 Apr 2023 21:24:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Apr 2023 23:23:13 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raspberry Pi PicoでRISC-VをエミュレーションしてLinuxを動かす</title>
+      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%81%A7risc-v%E3%82%92%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%97%E3%81%A6linux%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</link>
+      <pubDate>Sun, 09 Apr 2023 23:23:13 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%81%A7risc-v%E3%82%92%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%97%E3%81%A6linux%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi PicoでRISC-VをエミュレーションしてLinuxを動かす.jpg"&gt;RP2040 Runs Linux Through RISC-V Emulationから発見。画像もここから転載。
+Raspberry Pi PicoでRISC-VをエミュレーションしてLinuxを動かすしています。 まぁ予想通り速度はかなり遅いですが可能性を感じる作例です。
+まだブートするだけで、その後停止してしまうという状況のようで、腕に覚えのある方はその先の挑戦をしてみるのは如何でしょう？
+以前[ESP32で似たようなことを行っている作例を紹介しました。](../ESP32でRISC-Vのエミュレータを動かしLinuxを動かす /)</description>
+    </item>
     
     <item>
       <title>Midi Fighter 64という8x8のMIDIコントローラ</title>
@@ -126,19 +138,6 @@ Arduino Pro Miniを省エネ化する改造についても触れられており�
 Androidを搭載した普通の電卓です。 なぜこんな設計になったか謎ですが、Androidベースのただの電卓、というのがあるようです。（関数電卓ですらないようです）
 こういうものにAndroidを使うのは明らかにオーバースペックですが、なにか深い事情があったんでしょう・・ もちろんHackすればいろいろ遊べるようです。
 安くで買えるなら、自分も遊んでみたいなぁ・・</description>
-    </item>
-    
-    <item>
-      <title>今日の予定を表示してくれる電子ペーパガジェット</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E4%BB%8A%E6%97%A5%E3%81%AE%E4%BA%88%E5%AE%9A%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
-      <pubDate>Sun, 26 Mar 2023 23:42:06 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E4%BB%8A%E6%97%A5%E3%81%AE%E4%BA%88%E5%AE%9A%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/今日の予定を表示してくれる電子ペーパガジェット.jpg"&gt;The Timeframeから発見。画像もここから転載。
-今日の予定を表示してくれる電子ペーパガジェットを紹介します。
-このガジェットはLilyGo T5というものですが、ESP32と電子ペーパーモジュールがあれば似たものを作れそうです。
-仕組みとしては、サーバにある画像を表示するプログラムをESP32に仕込んでおき、スケジュールの画像はサーバで生成しているようです。（Google Clendarの画面をSeleniumでキャプチャしただけのようです）
-この方式だと、ESP32側はシンプルなプログラムでよく、かつサーバ側の実装を差し替えることで、あらゆる画像を表示できます。</description>
     </item>
     
   </channel>
