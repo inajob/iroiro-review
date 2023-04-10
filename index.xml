@@ -22,6 +22,34 @@ Raspberry Pi PicoでRISC-VをエミュレーションしてLinuxを動かすし�
     </item>
     
     <item>
+      <title>ホワイトボードの代わりに！13.5インチの巨大電子メモパッド</title>
+      <link>https://inajob.github.io/iroiro-review/post/13-5%E3%82%A4%E3%83%B3%E3%83%81%E3%81%AE%E5%B7%A8%E5%A4%A7%E9%9B%BB%E5%AD%90%E3%83%A1%E3%83%A2%E3%83%91%E3%83%83%E3%83%89/</link>
+      <pubDate>Sun, 09 Apr 2023 23:00:33 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/13-5%E3%82%A4%E3%83%B3%E3%83%81%E3%81%AE%E5%B7%A8%E5%A4%A7%E9%9B%BB%E5%AD%90%E3%83%A1%E3%83%A2%E3%83%91%E3%83%83%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review../../img/e-memopad-cover.jpg"&gt;この記事はBanggoodの提供でお届けします。
+以前紹介したようにこのブログはBanggoodと提携させていただいており、今回紹介するXiaomi Mijia 13.5inch LCD Drawing TabletはBanggoodからいただいたものとなります。 （Xiaomi Mijia 13.5inch LCD Drawing Tabletのレビューがしたい！と言ったのは自分なので、Banggoodが無理やりXiaomi Mijia 13.5inch LCD Drawing Tabletを押しているわけではなく、inajobの一押しアイテム！、という感じです。）
+・・・ といういつもの前置きはそこそこに、Xiaomi Mijia 13.5inch LCD Drawing Tabletについて紹介していきます。
+そして、今回もこのブログのために2023/04/31まで利用できるクーポンを頂くことが出来たので、そちらも紹介します。
+Xiaomi Mijia 13.5inch LCD Drawing Tabletの仕様と特徴 まぁ、最近では一般的になってきた、電子メモパッドです。 ダイソーなどの100円ショップでも小さなサイズの物は入手できますが、大きなものとなると通販で探すのが良いと思います。
+電子、と名がついていますが特にIT的な機能はなく、いわゆる子供向けの磁石でお絵かきできるおもちゃである「せんせい」のような物です。
+ただし、この手の電子メモパッドは、磁石式の物とは違い、結構細かい線を描くこともできるため、ホワイトボードの代わりとして、大人が利用することもできそうです。
+操作は簡単で、付属のペンで表面をなぞると線が描ける、ボタンを押すと描いた線が消える、ボタンを押しても消去機能が発動しないロックスイッチが搭載されている、くらいです。
+ペンは側面の溝にスッと入れることが出来ます。
+この製品は子供向けを謡っていることもあり、描画色がグラデーションになっています。特に大人がメモとして使う際には不要な機能ですが、気になることはありまませんでした。
+コントラストが悪いかな？と思いましたが、描いた線は十分に視認することができ、カメラで写真を撮ってもこの通り明瞭です。
+ペンの感度(?)は非常に高く、すっとなぞっただけでも結構太い線が描かれました。これは好みが分かれそうでした。 この感度だと文字を書こうとするとかなり大きな文字しか描くことが出来ないと感じました。
+一方スケッチのような、ペンをシャッシャッとこするような描き方をすると、筆圧に応じてかなり細い線も描くことが出来るので、そういう用途には向いているように感じました。
+また、描くときに手がメモパッドに触れていると一部に意図しない線が描画されてしまうのも気になりました。
+2歳の娘にも触ってもらいましたが、軽いタッチで描画できるため初めてのお絵かきおもちゃとしてもよさそうに見えました。
+まとめ 13.5インチの電子メモパッドは、ホワイトボードの代わりとしては十分に使えるものでした。 細かい文字をたくさん描くような用途には不向きで、デッサンや、筆談、子供のおもちゃとしてなどの用途には向いているように感じました。
+クーポンコード！ さて、ここまで紹介してきた Xiaomi Mijia 13.5inch LCD Drawing Tabletですが、Banggoodでは $34.99で販売しています。このブログのために**$25.99**へ値下げできるクーポンコードを用意してくれました。
+さて、ここまで紹介してきたXiaomi Mijia 13.5inch LCD Drawing Tabletですが、今回Banggoodの提供という事で、$25.99で購入できるクーポンを頂いています。
+コード： BGc90ab3
+Xiaomi Mijia 13.5inch LCD Drawing Tabletをカートに入れ、チェックアウト後にこのクーポンコードを入力することで割引を受けることが出来ます。</description>
+    </item>
+    
+    <item>
       <title>Midi Fighter 64という8x8のMIDIコントローラ</title>
       <link>https://inajob.github.io/iroiro-review/post/midi-fighter-64%E3%81%A8%E3%81%84%E3%81%868x8%E3%81%AEmidi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9/</link>
       <pubDate>Thu, 06 Apr 2023 21:24:31 +0000</pubDate>
@@ -126,18 +154,6 @@ Arduinoベースで、2.9インチの電子ペーパーを搭載しています�
 アナログ時計をゆっくり動かすことで1年の経過を表す時計の作例です。 単三電池1つで50年持つ計算のようです。
 水晶のパルスの代わりにArduinoからのパルスを使うことで、好きな間隔で時計を動かすことが出来るようです。
 Arduino Pro Miniを省エネ化する改造についても触れられており、参考になります。</description>
-    </item>
-    
-    <item>
-      <title>Androidを搭載した普通の電卓</title>
-      <link>https://inajob.github.io/iroiro-review/post/android%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E6%99%AE%E9%80%9A%E3%81%AE%E9%9B%BB%E5%8D%93/</link>
-      <pubDate>Mon, 27 Mar 2023 23:20:14 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/android%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E6%99%AE%E9%80%9A%E3%81%AE%E9%9B%BB%E5%8D%93/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Androidを搭載した普通の電卓.jpg"&gt;Probably The Most Over-Specified Calculator To Ever Be Manufacturedから発見。画像もここから転載。
-Androidを搭載した普通の電卓です。 なぜこんな設計になったか謎ですが、Androidベースのただの電卓、というのがあるようです。（関数電卓ですらないようです）
-こういうものにAndroidを使うのは明らかにオーバースペックですが、なにか深い事情があったんでしょう・・ もちろんHackすればいろいろ遊べるようです。
-安くで買えるなら、自分も遊んでみたいなぁ・・</description>
     </item>
     
   </channel>
