@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 11 Apr 2023 00:01:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Apr 2023 23:32:24 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>基板のパッドに文字を描く手法</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%9F%BA%E6%9D%BF%E3%81%AE%E3%83%91%E3%83%83%E3%83%89%E3%81%AB%E6%96%87%E5%AD%97%E3%82%92%E6%8F%8F%E3%81%8F%E6%89%8B%E6%B3%95/</link>
+      <pubDate>Tue, 11 Apr 2023 23:32:24 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%9F%BA%E6%9D%BF%E3%81%AE%E3%83%91%E3%83%83%E3%83%89%E3%81%AB%E6%96%87%E5%AD%97%E3%82%92%E6%8F%8F%E3%81%8F%E6%89%8B%E6%B3%95/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/基板のパッドに文字を描く手法.jpg"&gt;Silkscreen Busy? Put Labels Inside Padsから発見。画像もここから転載。
+この記事では基板のパッドに文字を描く手法を紹介しています。 この方法を使うことで、シルクスクリーンに余白がない場合などでも、ピンの役割を基板に記載できそうです。 KiCad単体ではできず、スクリプトで後処理することでこれを実現しているようです。
+一方、基板上に複雑な形状のパッドがあると、アンテナとしてふるまってしまうなど、場合によっては注意が必要のようです。</description>
+    </item>
     
     <item>
       <title>14セグメント24桁のディスプレイ</title>
@@ -139,22 +150,6 @@ Raspberry Piを壊してしまったことはありませんか？
 M5Stackの透明OLEDのモジュールを紹介します。
 OLED制御用の端子が直接出ているのではなく、マイコンも搭載されており、高度な描画命令やボタンやブザーの制御もできるもののようです。
 OLEDの制御というとドット単位の制御を思い浮かべますが、このモジュールは円を描く命令や、直線を引く命令などが充実しており、直観的なプログラミングが出来そうです。</description>
-    </item>
-    
-    <item>
-      <title>短冊のような形状の電子ペーパー端末</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E7%9F%AD%E5%86%8A%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E5%BD%A2%E7%8A%B6%E3%81%AE%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E7%AB%AF%E6%9C%AB/</link>
-      <pubDate>Wed, 29 Mar 2023 23:03:40 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E7%9F%AD%E5%86%8A%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E5%BD%A2%E7%8A%B6%E3%81%AE%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E7%AB%AF%E6%9C%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/短冊のような形状の電子ペーパー端末.jpg"&gt;ゆずれもんさんのTweetから発見。画像もここから転載。
-短冊のような形状の電子ペーパー端末です。 きれいな筐体に収まっており、側面に3つのスイッチが付いており、操作性も良さそうです。
-高解像度、大画面のデバイスが多いですが、こういうデバイスももっとたくさん出てきてほしいですね。
-手のひらサイズの電子書籍リーダー作りました。
-Arduinoベースで、2.9インチの電子ペーパーを搭載しています。
-基板はFusionPCB様に、ケースはDMM.make様に作って頂きました。
-表面実装部品のはんだ付け大変だった!#Arduino #電子工作 #FusionPCB #DMMmake pic.twitter.com/Njlyd36aBX
-&amp;mdash; ゆずれもん (@circleyuzulemon) March 9, 2020  </description>
     </item>
     
   </channel>

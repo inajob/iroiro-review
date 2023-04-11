@@ -5,9 +5,27 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 11 Apr 2023 00:01:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Apr 2023 23:32:24 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>HACK</title>
+      <link>https://inajob.github.io/iroiro-review/tags/hack/</link>
+      <pubDate>Tue, 11 Apr 2023 23:32:24 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/hack/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>KiCAD</title>
+      <link>https://inajob.github.io/iroiro-review/tags/kicad/</link>
+      <pubDate>Tue, 11 Apr 2023 23:32:24 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/kicad/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>24セグメント</title>
@@ -78,24 +96,6 @@
       <pubDate>Sun, 09 Apr 2023 23:00:33 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/%E9%9B%BB%E5%AD%90%E3%83%A1%E3%83%A2%E3%83%91%E3%83%83%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>MIDI</title>
-      <link>https://inajob.github.io/iroiro-review/tags/midi/</link>
-      <pubDate>Thu, 06 Apr 2023 21:24:31 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/midi/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>音楽</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E9%9F%B3%E6%A5%BD/</link>
-      <pubDate>Thu, 06 Apr 2023 21:24:31 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E9%9F%B3%E6%A5%BD/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
