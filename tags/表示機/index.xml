@@ -10,13 +10,13 @@
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E8%A1%A8%E7%A4%BA%E6%A9%9F/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>24セグメント12桁のディスプレイ</title>
+      <title>14セグメント24桁のディスプレイ</title>
       <link>https://inajob.github.io/iroiro-review/post/24%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%8812%E6%A1%81%E3%81%AE%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</link>
       <pubDate>Tue, 11 Apr 2023 00:01:52 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/24%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%8812%E6%A1%81%E3%81%AE%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/24セグメント12桁のディスプレイ.jpg"&gt;S14Clock LED Word Clock Kit (24 Characters) by Store139 on Tindieから発見。画像もここから転載。
-24セグメント12桁のディスプレイです。 制御はESP32 S2 Miniで、もちろんWiFi経由で設定が出来ます。
+14セグメント24桁のディスプレイです。(12桁のものもあるようです。) 制御はESP32 S2 Miniで、もちろんWiFi経由で設定が出来ます。
 これだけセグメントがあるとアルファベットを表示することが出来るので、様々な情報の表示機として活用できそうです。
 表示の切り替えエフェクトなど、細かい作りこみがされており、このガジェットだけでかなりのことが出来そうです。
  </description>
