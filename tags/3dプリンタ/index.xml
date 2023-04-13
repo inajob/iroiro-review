@@ -5,9 +5,21 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 03 Apr 2023 23:28:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Apr 2023 23:29:02 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>水の流れで迷路を解く実験</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%B0%B4%E3%81%AE%E6%B5%81%E3%82%8C%E3%81%A7%E8%BF%B7%E8%B7%AF%E3%82%92%E8%A7%A3%E3%81%8F%E5%AE%9F%E9%A8%93/</link>
+      <pubDate>Thu, 13 Apr 2023 23:29:02 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%B0%B4%E3%81%AE%E6%B5%81%E3%82%8C%E3%81%A7%E8%BF%B7%E8%B7%AF%E3%82%92%E8%A7%A3%E3%81%8F%E5%AE%9F%E9%A8%93/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/水の流れで迷路を解く実験.jpg"&gt;Finding Paths With Water Is A-Mazingから発見。画像もここから転載。
+水の流れで迷路を解く実験を紹介します。 この手の実験はシミュレーションで十分か、、と思うのですが、実際やってみると、閉路の部分は残された空気の気圧で水が浸入しないとか、ある程度水を流したのちに色水を流すと、色水がゴールへの経路を示してくれるなど、やってみないとわからない知見がたくさん得られたようです。
+もちろん、この点も加味してシミュレーションすれば良いのでしょうけど、こういう実験をしてみないとシミュレーションに不足している要素を探し出すことは難しいでしょう。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタを放電加工機に変身させるためのプリンタヘッドのクラウドファンディングプロジェクト</title>
@@ -121,20 +133,6 @@ ACアダプタも筐体下に収められるようになっているのがよさ
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/車のカセットテーププレイヤーを利用してカップホルダーを設置するHACK.jpg"&gt;Cassette Player Cupholder Is A Useful But Risky Ideaから発見。画像もここから転載。
 古い車には、いまだにカセットプレイヤーがついているものがあります。 この記事で紹介しているのは、このカセットプレイヤーを活用したカップホルダーです。
 カセットプレイヤーはこういうものを差し込むことは当然想定していないので、ご利用は自己責任でお願いします。</description>
-    </item>
-    
-    <item>
-      <title>カービィの形をしたはんだ吸煙器</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%BC%E3%83%93%E3%82%A3%E3%81%AE%E5%BD%A2%E3%82%92%E3%81%97%E3%81%9F%E3%81%AF%E3%82%93%E3%81%A0%E5%90%B8%E7%85%99%E5%99%A8/</link>
-      <pubDate>Thu, 26 Jan 2023 23:10:02 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%BC%E3%83%93%E3%82%A3%E3%81%AE%E5%BD%A2%E3%82%92%E3%81%97%E3%81%9F%E3%81%AF%E3%82%93%E3%81%A0%E5%90%B8%E7%85%99%E5%99%A8/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/カービィの形をしたはんだ吸煙器.jpg"&gt;Kirby Sucks, Literallyから発見。画像もここから転載。
-カービィの形をしたはんだ吸煙器の作例です。
-工具というのはまぁ、機能すればそれで良いものですが、その見た目がかわいらしいと作業机のオブジェとしても映えるのがよさそうです。
-データはこちら で公開されているので、3Dプリンタのある方は試しに印刷してみるのはいかがでしょう？
-改良版のデータもあるようなので、気になる方は元記事を確認してみてください。
- </description>
     </item>
     
   </channel>
