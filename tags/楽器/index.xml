@@ -5,9 +5,21 @@
     <description>Recent content in 楽器 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 06 Jan 2023 00:38:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Apr 2023 23:40:41 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%A5%BD%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>転調しても変わらない配置のグリッド状のボタンが並ぶ楽器</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%BB%A2%E8%AA%BF%E3%81%97%E3%81%A6%E3%82%82%E5%A4%89%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E9%85%8D%E7%BD%AE%E3%81%AE%E3%82%B0%E3%83%AA%E3%83%83%E3%83%89%E7%8A%B6%E3%81%AE%E3%83%9C%E3%82%BF%E3%83%B3%E3%81%8C%E4%B8%A6%E3%81%B6%E6%A5%BD%E5%99%A8/</link>
+      <pubDate>Tue, 18 Apr 2023 23:40:41 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%BB%A2%E8%AA%BF%E3%81%97%E3%81%A6%E3%82%82%E5%A4%89%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E9%85%8D%E7%BD%AE%E3%81%AE%E3%82%B0%E3%83%AA%E3%83%83%E3%83%89%E7%8A%B6%E3%81%AE%E3%83%9C%E3%82%BF%E3%83%B3%E3%81%8C%E4%B8%A6%E3%81%B6%E6%A5%BD%E5%99%A8/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/転調しても変わらない配置のグリッド状のボタンが並ぶ楽器.jpg"&gt;Striso | A new intuitive, portable and expressive music instrumentから発見。画像もここから転載。
+転調しても変わらない配置のグリッド状のボタンが並ぶ電子楽器です。 ボタンは６１個あり、3.6オクターブをカバーしています。
+ボタン部分はアナログ入力になっており表現力も高そうです。 ファームウェアはオープンソースになっているので、興味のある人は覗いてみてはどうでしょう？
+ </description>
+    </item>
     
     <item>
       <title>距離センサー、光センサーを使ったMIDI楽器</title>
@@ -121,18 +133,6 @@ I played my kalimba. https://t.co/0eyTbSlrst pic.twitter.com/UzAO0DazUo
 タイプライターを改造してMIDIコントローラにしている作例です。
 元々タイプライターの音は軽快ですが、ドラムサウンドを割り当てることで、普通にMIDI楽器として活用できそうな物となっています。
 </description>
-    </item>
-    
-    <item>
-      <title>MIDI化したバンドネオン</title>
-      <link>https://inajob.github.io/iroiro-review/post/midi%E5%8C%96%E3%81%97%E3%81%9F%E3%83%90%E3%83%B3%E3%83%89%E3%83%8D%E3%82%AA%E3%83%B3/</link>
-      <pubDate>Wed, 10 Nov 2021 11:00:25 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/midi%E5%8C%96%E3%81%97%E3%81%9F%E3%83%90%E3%83%B3%E3%83%89%E3%83%8D%E3%82%AA%E3%83%B3/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/bandomidi.jpg"&gt;QUIETING DOWN A BANDONEON ACCORDION WITH MIDIから発見。画像もここから転載。
-既存の楽器を改造してMIDIなどのデジタル信号を出力するという試みは多くあります。 この記事で紹介しているのは、バンドネオンをMIDI対応したという作例です。
-バンドネオンの鍵盤の押下は鍵盤と連動して動く内部のアームにネオジウム磁石を貼り付け、ホールセンサーによって検出しています。
-この方法は物理的な接点を持たず、既存の楽器を壊すことなくデジタル化する良い方法で、現にこのバンドネオンもMIDI化した後も普通に演奏できるようです。</description>
     </item>
     
   </channel>
