@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>画像生成AI on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90ai/</link>
+    <description>Recent content in 画像生成AI on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 19 Apr 2023 22:55:43 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90ai/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>画像生成AIと電子ペーパー額縁</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90ai%E3%81%A8%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E9%A1%8D%E7%B8%81/</link>
+      <pubDate>Wed, 19 Apr 2023 22:55:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90ai%E3%81%A8%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E9%A1%8D%E7%B8%81/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/画像生成AIと電子ペーパー額縁.jpg"&gt;だいちさんのTweetから発見。画像もここから転載。
+最近流行りの画像生成AIで作成した画像を3時間おきに切り替えて表示する電子ペーパー額縁の作例です。 7色フルカラー電子ペーパーのため、カラーの絵も表示できるようです。
+額縁があるだけで、それっぽい画像に見える効果も相まってとても素敵なインテリアになりそうです
+ラズパイで #stablediffusion 動かせたから3時間に1回適当に画像を生成して7色電子ペーパーで表示させるフォトスタンド作ったけどいいなこれ pic.twitter.com/Ih5MKYRPmc
+&amp;mdash; だいち (@daichi000daichi) December 30, 2022  </description>
+    </item>
+    
+  </channel>
+</rss>
+

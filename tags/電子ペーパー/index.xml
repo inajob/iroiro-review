@@ -5,9 +5,22 @@
     <description>Recent content in 電子ペーパー on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 12 Apr 2023 23:55:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Apr 2023 22:55:43 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>画像生成AIと電子ペーパー額縁</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90ai%E3%81%A8%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E9%A1%8D%E7%B8%81/</link>
+      <pubDate>Wed, 19 Apr 2023 22:55:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90ai%E3%81%A8%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E9%A1%8D%E7%B8%81/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/画像生成AIと電子ペーパー額縁.jpg"&gt;だいちさんのTweetから発見。画像もここから転載。
+最近流行りの画像生成AIで作成した画像を3時間おきに切り替えて表示する電子ペーパー額縁の作例です。 7色フルカラー電子ペーパーのため、カラーの絵も表示できるようです。
+額縁があるだけで、それっぽい画像に見える効果も相まってとても素敵なインテリアになりそうです
+ラズパイで #stablediffusion 動かせたから3時間に1回適当に画像を生成して7色電子ペーパーで表示させるフォトスタンド作ったけどいいなこれ pic.twitter.com/Ih5MKYRPmc
+&amp;mdash; だいち (@daichi000daichi) December 30, 2022  </description>
+    </item>
     
     <item>
       <title>電子ペーパーの部分書き換えは意外と早い</title>
@@ -127,17 +140,6 @@ CPUはArduino UNOなどと同じATmega328のようで、開発はArduinoIDEで�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/mountain-clock.jpg"&gt;Mountain Clockから発見。画像もここから転載。
 「山」をモチーフにした目覚まし時計です。電子ペーパーによる時刻表示と、フルカラーLEDにより朝に光り輝くことで、カーテンを閉め切った部屋でもスムーズに目覚めることができるという作例です。
 電子ペーパーは光らないので、目覚まし時計のディスプレイとしては向いていると感じました。</description>
-    </item>
-    
-    <item>
-      <title>お気に入りのポエムなどを表示できる電子ペーパー式ガジェット</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8A%E6%B0%97%E3%81%AB%E5%85%A5%E3%82%8A%E3%81%AE%E3%83%9D%E3%82%A8%E3%83%A0%E3%81%AA%E3%81%A9%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%A7%E3%81%8D%E3%82%8B%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E5%BC%8F%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
-      <pubDate>Wed, 16 Sep 2020 23:00:43 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8A%E6%B0%97%E3%81%AB%E5%85%A5%E3%82%8A%E3%81%AE%E3%83%9D%E3%82%A8%E3%83%A0%E3%81%AA%E3%81%A9%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%A7%E3%81%8D%E3%82%8B%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E5%BC%8F%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/shihen.jpg"&gt;SHIHENから発見。画像もここから転載。
-非常にシンプルな電子ペーパーを使った表示装置です。 中身はESP8266で、間欠動作にすることで理論上は2年間稼働できるようです。3Dプリンタで作ったケースのデータも用意されています。
-専用の書き換えWebツールも用意されています。</description>
     </item>
     
   </channel>
