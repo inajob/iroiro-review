@@ -5,9 +5,20 @@
     <description>Recent content in OLED on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 08 Mar 2023 23:15:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Apr 2023 23:16:58 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/oled/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>128x64のOLEDが2画面搭載されたスマートウォッチ</title>
+      <link>https://inajob.github.io/iroiro-review/post/128x64%E3%81%AEoled%E3%81%8C2%E7%94%BB%E9%9D%A2%E6%90%AD%E8%BC%89%E3%81%95%E3%82%8C%E3%81%9F%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81/</link>
+      <pubDate>Sun, 23 Apr 2023 23:16:58 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/128x64%E3%81%AEoled%E3%81%8C2%E7%94%BB%E9%9D%A2%E6%90%AD%E8%BC%89%E3%81%95%E3%82%8C%E3%81%9F%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/128x64のOLEDが2画面搭載されたスマートウォッチ.jpg"&gt;ESP32 Dual-screen watch V2から発見。画像もここから転載。
+AliExpressなどを探すと128x64の小型のOLEDを見つけられますが、用途によっては少し小さすぎます。 この記事で紹介しているスマートウォッチは、このOLEDを2枚並べてこの問題を解決しています。
+コアとなるマイコンモジュールはXIAO ESP32C3です。</description>
+    </item>
     
     <item>
       <title>透明OLEDを活用したスカウター風ガジェット</title>
@@ -134,18 +145,6 @@ Transparent OLED Arduboy success! pic.twitter.com/YiRdXzAJsa
 &amp;mdash; Kevin Bates (@bateskecom) January 27, 2021  このOLEDを大量に重ねて立体ディスプレイを作っている人もいます。
 😳 it works. #teaser pic.twitter.com/GKAzug51em
 &amp;mdash; Sean Hodgins (@idlehandsdev) February 14, 2021  </description>
-    </item>
-    
-    <item>
-      <title>OLEDによるスマートグラス</title>
-      <link>https://inajob.github.io/iroiro-review/post/oled%E3%81%AB%E3%82%88%E3%82%8B%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B0%E3%83%A9%E3%82%B9/</link>
-      <pubDate>Sun, 21 Jun 2020 23:00:56 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/oled%E3%81%AB%E3%82%88%E3%82%8B%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B0%E3%83%A9%E3%82%B9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/oled-smart-glass.jpg"&gt;A Pair of AI-Powered E.D.I.T.H Smart Glasses You Can Make Yourselfから発見。画像もここから転載。
-眼鏡に透明なOLEDを装着して作られたスマートグラスの作例です。 表示するのはカメラから文字に関する説明です。仕組みとしてはOpenCVでカメラに映った文字を切り出して、WolfromAlphaで検索した結果を表示しているようです。
-動画では実際に使用している様子も表示されており、実は結構実用的なデバイスなのでは？と感じました。
- </description>
     </item>
     
   </channel>
