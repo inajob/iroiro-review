@@ -5,9 +5,20 @@
     <description>Recent content in 開発ボード on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 19 Mar 2023 23:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Apr 2023 23:28:41 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>シリアル、UPDI、ICSPをサポートした書き込み用ボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%ABupdiicsp%E3%82%92%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%97%E3%81%9F%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF%E7%94%A8%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Mon, 24 Apr 2023 23:28:41 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%ABupdiicsp%E3%82%92%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%97%E3%81%9F%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF%E7%94%A8%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/シリアル、UPDI、ICSPをサポートした書き込み用ボード.jpg"&gt;Integrated Serial Adapter (ISA)から発見。画像もここから転載。
+マイコンを使った開発をしていると、パソコンと繋げるための規格がいくつもあり、それぞれに応じた書き込みモジュールを用意する必要が出てきます。 ここで紹介するのはシリアル、CCSP、UPDIをサポートした書き込みボードの作例です。
+USBシリアルICとしてはCH330/CH340が搭載されており、ICSPプログラミング用にATTiny814が搭載されています。 基板上のスイッチで、プロトコルや電圧を選択できます。</description>
+    </item>
     
     <item>
       <title>とてもシンプルなATmega32u4搭載開発ボード</title>
@@ -159,17 +170,6 @@ Raspberry Piを使うほどでもない画面付きのガジェットを作る�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/dipduino.jpg"&gt;dipDuino 1.2から発見。画像もここから転載。
 DipDuinoはDIPのフットプリントと同じですが、USBポートが付いており、これだけでPCから書き込みができるArdunio互換ボードです。
 コアとなるマイコンはATMega328PでUSBシリアル変換ICとしてCP2104を用い、フルカラーLEDも搭載しています。</description>
-    </item>
-    
-    <item>
-      <title>小さいが使いやすそうなArduino互換ボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%B0%8F%E3%81%95%E3%81%84%E3%81%8C%E4%BD%BF%E3%81%84%E3%82%84%E3%81%99%E3%81%9D%E3%81%86%E3%81%AAarduino%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Wed, 30 Mar 2022 23:18:20 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%B0%8F%E3%81%95%E3%81%84%E3%81%8C%E4%BD%BF%E3%81%84%E3%82%84%E3%81%99%E3%81%9D%E3%81%86%E3%81%AAarduino%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/小さいが使いやすそうなArduino互換ボード.jpg"&gt;極小Arduino互換Tiny Board（OLED付き）から発見。画像もここから転載。
-必要最小限の面積のArduino互換ボードです。 コアとなるマイコンはATmega328Pで、USB書き込み機能は搭載されていませんが、その分省コスト・省スペースとなっています。
-OLEDをそのまま取り付けられるピンヘッダが用意されており、小型のOLED付きのガジェットの試作によさそうです。</description>
     </item>
     
   </channel>
