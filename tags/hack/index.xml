@@ -5,9 +5,22 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 17 Apr 2023 00:16:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Apr 2023 22:48:02 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ベッドに配置したグリッド上の穴にあらかじめフィラメントを詰め込んでおくことで食いつきをよくするアイデア</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%99%E3%83%83%E3%83%89%E3%81%AB%E9%85%8D%E7%BD%AE%E3%81%97%E3%81%9F%E3%82%B0%E3%83%AA%E3%83%83%E3%83%89%E4%B8%8A%E3%81%AE%E7%A9%B4%E3%81%AB%E3%81%82%E3%82%89%E3%81%8B%E3%81%98%E3%82%81%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E8%A9%B0%E3%82%81%E8%BE%BC%E3%82%93%E3%81%A7%E3%81%8A%E3%81%8F%E3%81%93%E3%81%A8%E3%81%A7%E9%A3%9F%E3%81%84%E3%81%A4%E3%81%8D%E3%82%92%E3%82%88%E3%81%8F%E3%81%99%E3%82%8B%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2/</link>
+      <pubDate>Tue, 25 Apr 2023 22:48:02 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%99%E3%83%83%E3%83%89%E3%81%AB%E9%85%8D%E7%BD%AE%E3%81%97%E3%81%9F%E3%82%B0%E3%83%AA%E3%83%83%E3%83%89%E4%B8%8A%E3%81%AE%E7%A9%B4%E3%81%AB%E3%81%82%E3%82%89%E3%81%8B%E3%81%98%E3%82%81%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E8%A9%B0%E3%82%81%E8%BE%BC%E3%82%93%E3%81%A7%E3%81%8A%E3%81%8F%E3%81%93%E3%81%A8%E3%81%A7%E9%A3%9F%E3%81%84%E3%81%A4%E3%81%8D%E3%82%92%E3%82%88%E3%81%8F%E3%81%99%E3%82%8B%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ベッドに配置したグリッド上の穴にあらかじめフィラメントを詰め込んでおくことで食いつきをよくするアイデア.jpg"&gt;3D Printer Gridlockから発見。画像もここから転載。
+3Dプリンタで印刷する際に、まず問題となるのが1層目の定着です。 1層目がうまくベッドに貼りつかないと、それ以降どんなに頑張っても印刷は成功しません。
+1層目を定着させるテクニックは様々ありますが、この記事で紹介しているのは、ベッドに配置したMDFにグリッド状の穴にあらかじめフィラメントを詰め込んでおくというアイデアです。
+穴に詰め込まれたフィラメントが1層目の造形時に底面に張り付くことでベッドに定着できるようです。
+印刷後はニッパーか何かでこの底面に貼り付いたフィラメントを取り除く必要がありそうですが、面白いテクニックです。</description>
+    </item>
     
     <item>
       <title>16x2のキャラクタディスプレイを使って大きな数字を表示する</title>
@@ -121,21 +134,6 @@ let&amp;#39;snoteドライブレスモデルの空きスペース勿体無いの
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/WiFiの電波の遮蔽状況で人物の姿勢を推定する.jpg"&gt;Tracking Humans With WiFiから発見。画像もここから転載。
 WiFiの電波は目には見えないですが、WiFiルーターから放出され、部屋中に拡散されています。 電波の強度を調べることで、どのような障害物が存在するかを知ることが出来ます。
 この研究ではその障害物を人間だと推定してポーズを検出しています。 WiFiの電波がこのようなことに応用できるというのは興味深いです。</description>
-    </item>
-    
-    <item>
-      <title>リフロー機能が実装された基板</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AA%E3%83%95%E3%83%AD%E3%83%BC%E6%A9%9F%E8%83%BD%E3%81%8C%E5%AE%9F%E8%A3%85%E3%81%95%E3%82%8C%E3%81%9F%E5%9F%BA%E6%9D%BF/</link>
-      <pubDate>Tue, 24 Jan 2023 23:25:47 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AA%E3%83%95%E3%83%AD%E3%83%BC%E6%A9%9F%E8%83%BD%E3%81%8C%E5%AE%9F%E8%A3%85%E3%81%95%E3%82%8C%E3%81%9F%E5%9F%BA%E6%9D%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/リフロー機能が実装された基板.jpg"&gt;Internal Heating Element Makes These PCBs Self-Solderingから発見。画像もここから転載。
-リフロー機能が実装された基板の作例を紹介します。
-表面実装部品の実装には、クリームはんだを接点に配置し、部品を乗せ、その後基板を加熱する（リフロー）ことにより行います。
-通常この加熱プロセスはホットプレートのようなリフロー炉を使い行いますが、この作例では、基板自体に発熱の仕組みを持たせています。
-4層基板の内層をジグザグパターンにし、そこに電流を流すことで基板を発熱させることで、はんだを溶かしリフローを実現します。
-この基板自体はリフローの温度制御をおこなうもののようで、一度これを作ればこれを利用して別の基板をリフローすることもできるようです。（電源は別に必要ですが・・）
- </description>
     </item>
     
   </channel>

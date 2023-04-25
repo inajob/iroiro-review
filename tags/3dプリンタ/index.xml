@@ -5,9 +5,22 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 13 Apr 2023 23:29:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Apr 2023 22:48:02 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ベッドに配置したグリッド上の穴にあらかじめフィラメントを詰め込んでおくことで食いつきをよくするアイデア</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%99%E3%83%83%E3%83%89%E3%81%AB%E9%85%8D%E7%BD%AE%E3%81%97%E3%81%9F%E3%82%B0%E3%83%AA%E3%83%83%E3%83%89%E4%B8%8A%E3%81%AE%E7%A9%B4%E3%81%AB%E3%81%82%E3%82%89%E3%81%8B%E3%81%98%E3%82%81%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E8%A9%B0%E3%82%81%E8%BE%BC%E3%82%93%E3%81%A7%E3%81%8A%E3%81%8F%E3%81%93%E3%81%A8%E3%81%A7%E9%A3%9F%E3%81%84%E3%81%A4%E3%81%8D%E3%82%92%E3%82%88%E3%81%8F%E3%81%99%E3%82%8B%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2/</link>
+      <pubDate>Tue, 25 Apr 2023 22:48:02 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%99%E3%83%83%E3%83%89%E3%81%AB%E9%85%8D%E7%BD%AE%E3%81%97%E3%81%9F%E3%82%B0%E3%83%AA%E3%83%83%E3%83%89%E4%B8%8A%E3%81%AE%E7%A9%B4%E3%81%AB%E3%81%82%E3%82%89%E3%81%8B%E3%81%98%E3%82%81%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E8%A9%B0%E3%82%81%E8%BE%BC%E3%82%93%E3%81%A7%E3%81%8A%E3%81%8F%E3%81%93%E3%81%A8%E3%81%A7%E9%A3%9F%E3%81%84%E3%81%A4%E3%81%8D%E3%82%92%E3%82%88%E3%81%8F%E3%81%99%E3%82%8B%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ベッドに配置したグリッド上の穴にあらかじめフィラメントを詰め込んでおくことで食いつきをよくするアイデア.jpg"&gt;3D Printer Gridlockから発見。画像もここから転載。
+3Dプリンタで印刷する際に、まず問題となるのが1層目の定着です。 1層目がうまくベッドに貼りつかないと、それ以降どんなに頑張っても印刷は成功しません。
+1層目を定着させるテクニックは様々ありますが、この記事で紹介しているのは、ベッドに配置したMDFにグリッド状の穴にあらかじめフィラメントを詰め込んでおくというアイデアです。
+穴に詰め込まれたフィラメントが1層目の造形時に底面に張り付くことでベッドに定着できるようです。
+印刷後はニッパーか何かでこの底面に貼り付いたフィラメントを取り除く必要がありそうですが、面白いテクニックです。</description>
+    </item>
     
     <item>
       <title>水の流れで迷路を解く実験</title>
@@ -122,17 +135,6 @@ ACアダプタも筐体下に収められるようになっているのがよさ
 もちろん、機械で物を作る時の試行錯誤で得られるものもありますが、これは結構泥臭く、かつほかに応用が利かないノウハウも多数必要なため、そこまでの学習をほかの教科の時間を割いてまで体験させる必要があるかという点も考慮が必要です。
 この記事は、上記のような子供に3Dプリンタを使わせるという話についての利点、欠点を整理し、あなたはどう思いますか？ という形で話をまとめています。
 さて、あなたはどう思いますか？</description>
-    </item>
-    
-    <item>
-      <title>車のカセットテーププレイヤーを利用してカップホルダーを設置するHACK</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E8%BB%8A%E3%81%AE%E3%82%AB%E3%82%BB%E3%83%83%E3%83%88%E3%83%86%E3%83%BC%E3%83%97%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E3%82%AB%E3%83%83%E3%83%97%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%82%92%E8%A8%AD%E7%BD%AE%E3%81%99%E3%82%8Bhack/</link>
-      <pubDate>Mon, 30 Jan 2023 23:41:44 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E8%BB%8A%E3%81%AE%E3%82%AB%E3%82%BB%E3%83%83%E3%83%88%E3%83%86%E3%83%BC%E3%83%97%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E3%82%AB%E3%83%83%E3%83%97%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%82%92%E8%A8%AD%E7%BD%AE%E3%81%99%E3%82%8Bhack/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/車のカセットテーププレイヤーを利用してカップホルダーを設置するHACK.jpg"&gt;Cassette Player Cupholder Is A Useful But Risky Ideaから発見。画像もここから転載。
-古い車には、いまだにカセットプレイヤーがついているものがあります。 この記事で紹介しているのは、このカセットプレイヤーを活用したカップホルダーです。
-カセットプレイヤーはこういうものを差し込むことは当然想定していないので、ご利用は自己責任でお願いします。</description>
     </item>
     
   </channel>

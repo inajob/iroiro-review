@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 24 Apr 2023 23:28:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Apr 2023 22:48:02 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ベッドに配置したグリッド上の穴にあらかじめフィラメントを詰め込んでおくことで食いつきをよくするアイデア</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%99%E3%83%83%E3%83%89%E3%81%AB%E9%85%8D%E7%BD%AE%E3%81%97%E3%81%9F%E3%82%B0%E3%83%AA%E3%83%83%E3%83%89%E4%B8%8A%E3%81%AE%E7%A9%B4%E3%81%AB%E3%81%82%E3%82%89%E3%81%8B%E3%81%98%E3%82%81%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E8%A9%B0%E3%82%81%E8%BE%BC%E3%82%93%E3%81%A7%E3%81%8A%E3%81%8F%E3%81%93%E3%81%A8%E3%81%A7%E9%A3%9F%E3%81%84%E3%81%A4%E3%81%8D%E3%82%92%E3%82%88%E3%81%8F%E3%81%99%E3%82%8B%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2/</link>
+      <pubDate>Tue, 25 Apr 2023 22:48:02 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%99%E3%83%83%E3%83%89%E3%81%AB%E9%85%8D%E7%BD%AE%E3%81%97%E3%81%9F%E3%82%B0%E3%83%AA%E3%83%83%E3%83%89%E4%B8%8A%E3%81%AE%E7%A9%B4%E3%81%AB%E3%81%82%E3%82%89%E3%81%8B%E3%81%98%E3%82%81%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E8%A9%B0%E3%82%81%E8%BE%BC%E3%82%93%E3%81%A7%E3%81%8A%E3%81%8F%E3%81%93%E3%81%A8%E3%81%A7%E9%A3%9F%E3%81%84%E3%81%A4%E3%81%8D%E3%82%92%E3%82%88%E3%81%8F%E3%81%99%E3%82%8B%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ベッドに配置したグリッド上の穴にあらかじめフィラメントを詰め込んでおくことで食いつきをよくするアイデア.jpg"&gt;3D Printer Gridlockから発見。画像もここから転載。
+3Dプリンタで印刷する際に、まず問題となるのが1層目の定着です。 1層目がうまくベッドに貼りつかないと、それ以降どんなに頑張っても印刷は成功しません。
+1層目を定着させるテクニックは様々ありますが、この記事で紹介しているのは、ベッドに配置したMDFにグリッド状の穴にあらかじめフィラメントを詰め込んでおくというアイデアです。
+穴に詰め込まれたフィラメントが1層目の造形時に底面に張り付くことでベッドに定着できるようです。
+印刷後はニッパーか何かでこの底面に貼り付いたフィラメントを取り除く必要がありそうですが、面白いテクニックです。</description>
+    </item>
     
     <item>
       <title>シリアル、UPDI、ICSPをサポートした書き込み用ボード</title>
@@ -120,17 +133,6 @@ AliExpressなどを探すと128x64の小型のOLEDを見つけられますが、
 このコードを頼りに勉強を進める。
 明日からの2連休。忙しくなりそうだぜ pic.twitter.com/X8pnlc2JK4
 &amp;mdash; HomeMadeGarbage (@H0meMadeGarbage) March 31, 2023  </description>
-    </item>
-    
-    <item>
-      <title>基板のパッドに文字を描く手法</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%9F%BA%E6%9D%BF%E3%81%AE%E3%83%91%E3%83%83%E3%83%89%E3%81%AB%E6%96%87%E5%AD%97%E3%82%92%E6%8F%8F%E3%81%8F%E6%89%8B%E6%B3%95/</link>
-      <pubDate>Tue, 11 Apr 2023 23:32:24 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%9F%BA%E6%9D%BF%E3%81%AE%E3%83%91%E3%83%83%E3%83%89%E3%81%AB%E6%96%87%E5%AD%97%E3%82%92%E6%8F%8F%E3%81%8F%E6%89%8B%E6%B3%95/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/基板のパッドに文字を描く手法.jpg"&gt;Silkscreen Busy? Put Labels Inside Padsから発見。画像もここから転載。
-この記事では基板のパッドに文字を描く手法を紹介しています。 この方法を使うことで、シルクスクリーンに余白がない場合などでも、ピンの役割を基板に記載できそうです。 KiCad単体ではできず、スクリプトで後処理することでこれを実現しているようです。
-一方、基板上に複雑な形状のパッドがあると、アンテナとしてふるまってしまうなど、場合によっては注意が必要のようです。</description>
     </item>
     
   </channel>
