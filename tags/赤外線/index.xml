@@ -5,9 +5,24 @@
     <description>Recent content in 赤外線 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 06 Dec 2021 12:00:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Apr 2023 23:23:16 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E8%B5%A4%E5%A4%96%E7%B7%9A/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>何かに使えそうな独自の赤外線式非接触センサー</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E4%BD%95%E3%81%8B%E3%81%AB%E4%BD%BF%E3%81%88%E3%81%9D%E3%81%86%E3%81%AA%E7%8B%AC%E8%87%AA%E3%81%AE%E8%B5%A4%E5%A4%96%E7%B7%9A%E5%BC%8F%E9%9D%9E%E6%8E%A5%E8%A7%A6%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/</link>
+      <pubDate>Wed, 26 Apr 2023 23:23:16 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E4%BD%95%E3%81%8B%E3%81%AB%E4%BD%BF%E3%81%88%E3%81%9D%E3%81%86%E3%81%AA%E7%8B%AC%E8%87%AA%E3%81%AE%E8%B5%A4%E5%A4%96%E7%B7%9A%E5%BC%8F%E9%9D%9E%E6%8E%A5%E8%A7%A6%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/何かに使えそうな独自の赤外線式非接触センサー.jpg"&gt;3D UI LabさんのTweetから発見。画像もここから転載。
+何かに使えそうな独自の赤外線式非接触センサーです。 直線状に並ぶセンサー前方にあるものとの距離を測定できるもののようです。 （おそらく直線以外の形状に並べることもできるのだと思います）
+センサーの前にかざした手などを認識することで、楽器のようなアナログの入力を得たり、ジェスチャー入力のようなものを実装するなど、色々な用途が考えられます。
+これで楽器を創りたいのですが
+具体的なアイデアがでなくて
+挫折中デス😅 pic.twitter.com/IvqcG0FVGP
+&amp;mdash; 3D UI lab (@TakahiroMaeda3) April 7, 2023  </description>
+    </item>
     
     <item>
       <title>ゲームボーイカラーでエアコンを操作するHACK</title>
