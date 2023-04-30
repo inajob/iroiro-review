@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 27 Apr 2023 23:26:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Apr 2023 22:57:16 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>カメラ搭載のラジコンで床下の配線を行う</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%A1%E3%83%A9%E6%90%AD%E8%BC%89%E3%81%AE%E3%83%A9%E3%82%B8%E3%82%B3%E3%83%B3%E3%81%A7%E5%BA%8A%E4%B8%8B%E3%81%AE%E9%85%8D%E7%B7%9A%E3%82%92%E8%A1%8C%E3%81%86/</link>
+      <pubDate>Sun, 30 Apr 2023 22:57:16 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%A1%E3%83%A9%E6%90%AD%E8%BC%89%E3%81%AE%E3%83%A9%E3%82%B8%E3%82%B3%E3%83%B3%E3%81%A7%E5%BA%8A%E4%B8%8B%E3%81%AE%E9%85%8D%E7%B7%9A%E3%82%92%E8%A1%8C%E3%81%86/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/カメラ搭載のラジコンで床下の配線を行う.jpg"&gt;Send This FPV Bot Into The Crawlspace To Do Your Dirty Workから発見。画像もここから転載。
+LANケーブルを別の部屋に通すために、床下に配線を這わす必要があり、それを実現するためのカメラ付きのラジコンロボットを作ったという話です。
+ちょっとやりすぎな感じもしますが、確かに床下は人が入るには低すぎて、かといって何も見ずに棒などでケーブルを通すのはなかなか苦労しそうなので、良い解決策かもしれません。
+カメラはよくドローンなどに搭載するFPVカメラです。比較的安価で手に入り、無線でリアルタイムに映像を送信できるためこういう用途にはぴったりです。
+ </description>
+    </item>
     
     <item>
       <title>ツリー状のサポート材をそのまま利用したマーブルマシン</title>
@@ -118,18 +131,6 @@ AliExpressなどを探すと128x64の小型のOLEDを見つけられますが、
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/飛行機コックピットのインジケーターを改造して作ったアニメーション装置.jpg"&gt;Mechanical GIF Animates With The Power Of Magnetsから発見。画像もここから転載。
 昔の飛行機コックピットの表示機には、4つの3角柱を並べそれらを回転させることで3種類の画面を切り替える表示機があったようです。
 この記事では、この表示機を改造してオリジナルのアニメーションを表示する装置を作成しています。
- </description>
-    </item>
-    
-    <item>
-      <title>16x2のキャラクタディスプレイを使って大きな数字を表示する</title>
-      <link>https://inajob.github.io/iroiro-review/post/16x2%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E5%A4%A7%E3%81%8D%E3%81%AA%E6%95%B0%E5%AD%97%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B/</link>
-      <pubDate>Mon, 17 Apr 2023 00:16:27 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/16x2%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E5%A4%A7%E3%81%8D%E3%81%AA%E6%95%B0%E5%AD%97%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/16x2のキャラクタディスプレイを使って大きな数字を表示する.jpg"&gt;Spice Up The Humble 16×2 LCD With Big Digitsから発見。画像もここから転載。
-16x2のキャラクタディスプレイを使って大きな数字を表示する手法です。 2×2文字の領域を使って1つの数字を表示するというアイデアで、遠くからでも見やすいユニークなフォントを実現しています。
-この手のキャラクタディスプレイには何文字分かの外字が登録できるようになっているので、この部分をうまく活用して数字フォントを構成しています。 この制限ゆえに、面白いパターンの組み合わせのユニークな数字フォントとなっています。
  </description>
     </item>
     
