@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>端面スルーホール on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E7%AB%AF%E9%9D%A2%E3%82%B9%E3%83%AB%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/</link>
+    <description>Recent content in 端面スルーホール on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Mon, 01 May 2023 23:24:51 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E7%AB%AF%E9%9D%A2%E3%82%B9%E3%83%AB%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>端面スルーホールピンのOLEDモジュール</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%AB%AF%E9%9D%A2%E3%82%B9%E3%83%AB%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%94%E3%83%B3%E3%81%AEoled%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Mon, 01 May 2023 23:24:51 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%AB%AF%E9%9D%A2%E3%82%B9%E3%83%AB%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%94%E3%83%B3%E3%81%AEoled%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/端面スルーホールピンのOLEDモジュール.jpg"&gt;Castellated 0.96 In OLED SSD1315 I2C 128x64 Screen by Questwise Ventures on Tindieから発見。画像もここから転載。
+0.96インチのOLEDモジュールは安価で出回っており、気軽に使える部品ですが、ボードがピンヘッダを介しての接続するように設計されているため、どうしてもかさばってしまいます。
+ここで紹介しているのは、同じOLEDを使った端面スルーホールのOLEDモジュールです。
+Raspberry Pi Picoなどでおなじみの端面にピンヘッダの穴が半分空いた形状の部分をはんだ付けします。
+これにより開発基板にペタッと貼り付けることが出来、高さを抑えることが出来ます。</description>
+    </item>
+    
+  </channel>
+</rss>
+

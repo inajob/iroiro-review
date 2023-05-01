@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 30 Apr 2023 22:57:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 May 2023 23:24:51 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>端面スルーホールピンのOLEDモジュール</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%AB%AF%E9%9D%A2%E3%82%B9%E3%83%AB%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%94%E3%83%B3%E3%81%AEoled%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Mon, 01 May 2023 23:24:51 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%AB%AF%E9%9D%A2%E3%82%B9%E3%83%AB%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%94%E3%83%B3%E3%81%AEoled%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/端面スルーホールピンのOLEDモジュール.jpg"&gt;Castellated 0.96 In OLED SSD1315 I2C 128x64 Screen by Questwise Ventures on Tindieから発見。画像もここから転載。
+0.96インチのOLEDモジュールは安価で出回っており、気軽に使える部品ですが、ボードがピンヘッダを介しての接続するように設計されているため、どうしてもかさばってしまいます。
+ここで紹介しているのは、同じOLEDを使った端面スルーホールのOLEDモジュールです。
+Raspberry Pi Picoなどでおなじみの端面にピンヘッダの穴が半分空いた形状の部分をはんだ付けします。
+これにより開発基板にペタッと貼り付けることが出来、高さを抑えることが出来ます。</description>
+    </item>
     
     <item>
       <title>カメラ搭載のラジコンで床下の配線を行う</title>
@@ -119,18 +132,6 @@ AliExpressなどを探すと128x64の小型のOLEDを見つけられますが、
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/転調しても変わらない配置のグリッド状のボタンが並ぶ楽器.jpg"&gt;Striso | A new intuitive, portable and expressive music instrumentから発見。画像もここから転載。
 転調しても変わらない配置のグリッド状のボタンが並ぶ電子楽器です。 ボタンは61個あり、3.6オクターブをカバーしています。
 ボタン部分はアナログ入力になっており表現力も高そうです。 ファームウェアはオープンソースになっているので、興味のある人は覗いてみてはどうでしょう？
- </description>
-    </item>
-    
-    <item>
-      <title>飛行機コックピットのインジケーターを改造して作ったアニメーション装置</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E9%A3%9B%E8%A1%8C%E6%A9%9F%E3%82%B3%E3%83%83%E3%82%AF%E3%83%94%E3%83%83%E3%83%88%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B8%E3%82%B1%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E8%A3%85%E7%BD%AE/</link>
-      <pubDate>Mon, 17 Apr 2023 23:16:42 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E9%A3%9B%E8%A1%8C%E6%A9%9F%E3%82%B3%E3%83%83%E3%82%AF%E3%83%94%E3%83%83%E3%83%88%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B8%E3%82%B1%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E8%A3%85%E7%BD%AE/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/飛行機コックピットのインジケーターを改造して作ったアニメーション装置.jpg"&gt;Mechanical GIF Animates With The Power Of Magnetsから発見。画像もここから転載。
-昔の飛行機コックピットの表示機には、4つの3角柱を並べそれらを回転させることで3種類の画面を切り替える表示機があったようです。
-この記事では、この表示機を改造してオリジナルのアニメーションを表示する装置を作成しています。
  </description>
     </item>
     
