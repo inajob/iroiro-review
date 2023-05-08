@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 07 May 2023 21:57:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 May 2023 23:09:38 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>格安のRISC-Vチップを16個並べて作られた並列コンピュータ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%A0%BC%E5%AE%89%E3%81%AErisc-v%E3%83%81%E3%83%83%E3%83%97%E3%82%9216%E5%80%8B%E4%B8%A6%E3%81%B9%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E4%B8%A6%E5%88%97%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF/</link>
+      <pubDate>Mon, 08 May 2023 23:09:38 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%A0%BC%E5%AE%89%E3%81%AErisc-v%E3%83%81%E3%83%83%E3%83%97%E3%82%9216%E5%80%8B%E4%B8%A6%E3%81%B9%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E4%B8%A6%E5%88%97%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/格安のRISC-Vチップを16個並べて作られた並列コンピュータ.jpg"&gt;A RISC-V Supercluster For Very Low Costから発見。画像もここから転載。
+CH32V003といえば、安価なRISC-VのICチップです。 これを16個並べて作られた並列コンピュータの作例です。 16個合わせても$2程度のコストのようです。
+まぁ、それぞれの性能はそこまで早いものでもないので、並べたところで、そこまで大規模な計算はできませんが、それぞれに別の仕事をさせつつ、チップ同士で連携するなど、今までとは違ったアーキテクチャの組み込み機器が出来るかもしれません。
+ </description>
+    </item>
     
     <item>
       <title>シルクスクリーンでドットマトリクスLEDの形をカスタマイズするテクニック</title>
@@ -121,19 +133,6 @@ AliExpressなどを探すと128x64の小型のOLEDを見つけられますが、
 この記事で紹介しているのは四角いタイヤの自転車の作例です。 まさに「車輪の再発明」とも言える作品で、実際のところはキャタピラのような仕組みでホイールは回転しないことでこの形状を実現しています。
 通り過ぎる人が思わず振り向いてしまうユニークな自転車です。
  </description>
-    </item>
-    
-    <item>
-      <title>画像生成AIと電子ペーパー額縁</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90ai%E3%81%A8%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E9%A1%8D%E7%B8%81/</link>
-      <pubDate>Wed, 19 Apr 2023 22:55:43 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90ai%E3%81%A8%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E9%A1%8D%E7%B8%81/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/画像生成AIと電子ペーパー額縁.jpg"&gt;だいちさんのTweetから発見。画像もここから転載。
-最近流行りの画像生成AIで作成した画像を3時間おきに切り替えて表示する電子ペーパー額縁の作例です。 7色フルカラー電子ペーパーのため、カラーの絵も表示できるようです。
-額縁があるだけで、それっぽい画像に見える効果も相まってとても素敵なインテリアになりそうです
-ラズパイで #stablediffusion 動かせたから3時間に1回適当に画像を生成して7色電子ペーパーで表示させるフォトスタンド作ったけどいいなこれ pic.twitter.com/Ih5MKYRPmc
-&amp;mdash; だいち (@daichi000daichi) December 30, 2022  </description>
     </item>
     
   </channel>
