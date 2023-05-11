@@ -5,9 +5,27 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 10 May 2023 20:50:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 May 2023 23:31:59 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32</title>
+      <link>https://inajob.github.io/iroiro-review/tags/esp32/</link>
+      <pubDate>Thu, 11 May 2023 23:31:59 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/esp32/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>電子ペーパー</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC/</link>
+      <pubDate>Thu, 11 May 2023 23:31:59 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>Banggood</title>
@@ -24,15 +42,6 @@
       <pubDate>Wed, 10 May 2023 20:50:26 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/%E5%B7%A5%E5%85%B7/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>ESP32</title>
-      <link>https://inajob.github.io/iroiro-review/tags/esp32/</link>
-      <pubDate>Tue, 09 May 2023 22:51:42 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/esp32/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
@@ -87,15 +96,6 @@
       <pubDate>Sun, 07 May 2023 21:57:25 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>OLED</title>
-      <link>https://inajob.github.io/iroiro-review/tags/oled/</link>
-      <pubDate>Mon, 01 May 2023 23:24:51 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/oled/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     

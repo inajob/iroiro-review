@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 10 May 2023 20:50:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 May 2023 23:31:59 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>薄くフチなしの筐体が印象的な電子ペーパー天気表示機</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%96%84%E3%81%8F%E3%83%95%E3%83%81%E3%81%AA%E3%81%97%E3%81%AE%E7%AD%90%E4%BD%93%E3%81%8C%E5%8D%B0%E8%B1%A1%E7%9A%84%E3%81%AA%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E5%A4%A9%E6%B0%97%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
+      <pubDate>Thu, 11 May 2023 23:31:59 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%96%84%E3%81%8F%E3%83%95%E3%83%81%E3%81%AA%E3%81%97%E3%81%AE%E7%AD%90%E4%BD%93%E3%81%8C%E5%8D%B0%E8%B1%A1%E7%9A%84%E3%81%AA%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E5%A4%A9%E6%B0%97%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/薄くフチなしの筐体が印象的な電子ペーパー天気表示機.jpg"&gt;ESP32 E-Paper Weather Displayから発見。画像もここから転載。
+薄くフチなしの筐体が印象的な電子ペーパー天気表示機です。 電子ペーパーを使ったサイネージの作例は数多くありますが、この作例は、思い切ったデザインが印象的です。
+制御ははESP32で行っており、LiPoバッテリーを電源として動作します。</description>
+    </item>
     
     <item>
       <title>コンパクトで取り回しやすいペン型マルチメーター MUSTOOL A008</title>
@@ -147,17 +158,6 @@ LANケーブルを別の部屋に通すために、床下に配線を這わす�
 1層目を定着させるテクニックは様々ありますが、この記事で紹介しているのは、ベッドに配置したMDFにグリッド状の穴にあらかじめフィラメントを詰め込んでおくというアイデアです。
 穴に詰め込まれたフィラメントが1層目の造形時に底面に張り付くことでベッドに定着できるようです。
 印刷後はニッパーか何かでこの底面に貼り付いたフィラメントを取り除く必要がありそうですが、面白いテクニックです。</description>
-    </item>
-    
-    <item>
-      <title>シリアル、UPDI、ICSPをサポートした書き込み用ボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%ABupdiicsp%E3%82%92%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%97%E3%81%9F%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF%E7%94%A8%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Mon, 24 Apr 2023 23:28:41 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%ABupdiicsp%E3%82%92%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%97%E3%81%9F%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF%E7%94%A8%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/シリアル、UPDI、ICSPをサポートした書き込み用ボード.jpg"&gt;Integrated Serial Adapter (ISA)から発見。画像もここから転載。
-マイコンを使った開発をしていると、パソコンと繋げるための規格がいくつもあり、それぞれに応じた書き込みモジュールを用意する必要が出てきます。 ここで紹介するのはシリアル、CCSP、UPDIをサポートした書き込みボードの作例です。
-USBシリアルICとしてはCH330/CH340が搭載されており、ICSPプログラミング用にATTiny814が搭載されています。 基板上のスイッチで、プロトコルや電圧を選択できます。</description>
     </item>
     
   </channel>

@@ -5,9 +5,20 @@
     <description>Recent content in 電子ペーパー on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 19 Apr 2023 22:55:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 May 2023 23:31:59 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>薄くフチなしの筐体が印象的な電子ペーパー天気表示機</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%96%84%E3%81%8F%E3%83%95%E3%83%81%E3%81%AA%E3%81%97%E3%81%AE%E7%AD%90%E4%BD%93%E3%81%8C%E5%8D%B0%E8%B1%A1%E7%9A%84%E3%81%AA%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E5%A4%A9%E6%B0%97%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
+      <pubDate>Thu, 11 May 2023 23:31:59 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%96%84%E3%81%8F%E3%83%95%E3%83%81%E3%81%AA%E3%81%97%E3%81%AE%E7%AD%90%E4%BD%93%E3%81%8C%E5%8D%B0%E8%B1%A1%E7%9A%84%E3%81%AA%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E5%A4%A9%E6%B0%97%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/薄くフチなしの筐体が印象的な電子ペーパー天気表示機.jpg"&gt;ESP32 E-Paper Weather Displayから発見。画像もここから転載。
+薄くフチなしの筐体が印象的な電子ペーパー天気表示機です。 電子ペーパーを使ったサイネージの作例は数多くありますが、この作例は、思い切ったデザインが印象的です。
+制御ははESP32で行っており、LiPoバッテリーを電源として動作します。</description>
+    </item>
     
     <item>
       <title>画像生成AIと電子ペーパー額縁</title>
@@ -129,17 +140,6 @@ CPUはArduino UNOなどと同じATmega328のようで、開発はArduinoIDEで�
 手のひらサイズの筐体に収められた電子ペーパー時計ガジェットです。
 メインのCPUはMSP430で、CR2032電池で4か月動作するようです。 32MBのフラッシュメモリも搭載されており、好きなフォントを利用することが出来ます。
 プログラムはMSP430版ArduinoであるEnergiaで作成されており、比較的簡単に改造できそうです。</description>
-    </item>
-    
-    <item>
-      <title>電子ペーパーとイルミネーションによるかっこいい目覚まし時計</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E3%81%A8%E3%82%A4%E3%83%AB%E3%83%9F%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E7%9B%AE%E8%A6%9A%E3%81%BE%E3%81%97%E6%99%82%E8%A8%88/</link>
-      <pubDate>Sat, 07 Nov 2020 23:00:07 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E3%81%A8%E3%82%A4%E3%83%AB%E3%83%9F%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E7%9B%AE%E8%A6%9A%E3%81%BE%E3%81%97%E6%99%82%E8%A8%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/mountain-clock.jpg"&gt;Mountain Clockから発見。画像もここから転載。
-「山」をモチーフにした目覚まし時計です。電子ペーパーによる時刻表示と、フルカラーLEDにより朝に光り輝くことで、カーテンを閉め切った部屋でもスムーズに目覚めることができるという作例です。
-電子ペーパーは光らないので、目覚まし時計のディスプレイとしては向いていると感じました。</description>
     </item>
     
   </channel>
