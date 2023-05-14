@@ -5,9 +5,21 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 27 Apr 2023 23:26:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 May 2023 23:55:45 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタで作られたコンパクトな筐体のハンドヘルド端末</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E7%AD%90%E4%BD%93%E3%81%AE%E3%83%8F%E3%83%B3%E3%83%89%E3%83%98%E3%83%AB%E3%83%89%E7%AB%AF%E6%9C%AB/</link>
+      <pubDate>Sun, 14 May 2023 23:55:45 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E7%AD%90%E4%BD%93%E3%81%AE%E3%83%8F%E3%83%B3%E3%83%89%E3%83%98%E3%83%AB%E3%83%89%E7%AB%AF%E6%9C%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作られたコンパクトな筐体のハンドヘルド端末.jpg"&gt;A Hombrew Retro Laptopから発見。画像もここから転載。
+3Dプリンタでうまい事ケースを作っているハンドヘルド端末の作例です。
+中身はRaspberr Pi Zero 2Wを使い、横長の7.9インチ液晶を搭載しています。 ヒンジ部分はゲームボーイアドバンスSPの部品を流用しているのも面白いです。
+横幅は20cmより少し大きいくらいなので、一般的な3Dプリンタでもギリギリ造形ができるサイズなのも良さそうです。</description>
+    </item>
     
     <item>
       <title>ツリー状のサポート材をそのまま利用したマーブルマシン</title>
@@ -118,20 +130,6 @@ ACアダプタも筐体下に収められるようになっているのがよさ
 特にこれ自体が役立つものではないですが、無駄に作ってみたくなります。
 機構模型など pic.twitter.com/2v6JHPx72i
 &amp;mdash; K.$uzuki (@BellTreeNursing) February 3, 2023  </description>
-    </item>
-    
-    <item>
-      <title>シンプルだけど楽しそうな3Dプリンタ製の対戦ピンボール</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%A0%E3%81%91%E3%81%A9%E6%A5%BD%E3%81%97%E3%81%9D%E3%81%86%E3%81%AA3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E5%AF%BE%E6%88%A6%E3%83%94%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB/</link>
-      <pubDate>Mon, 06 Feb 2023 23:42:21 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%A0%E3%81%91%E3%81%A9%E6%A5%BD%E3%81%97%E3%81%9D%E3%81%86%E3%81%AA3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E5%AF%BE%E6%88%A6%E3%83%94%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/シンプルだけど楽しそうな3Dプリンタ製の対戦ピンボール.jpg"&gt;Cults. on Twitter: &amp;ldquo;🥅 Soccer Pinball to challenge your friends, no glue required to assembly, just click all together! 💜 3D model:… https://t.co/PbeBX2bGMP&amp;rdquo;から発見。画像もここから転載。
-3Dプリンタで作られたシンプルな対戦型のピンボールのおもちゃです。 データは無料で公開されているため、3Dプリンタがあればだれでも簡単に作ることが出来ます。 分割されたいくつかのパーツから構成されており、部品をはめ込むことで、接着剤なしで組み立てできるように工夫されています。
-少しデータを変更して、障害物を設置しても面白そうです。
-🥅 Soccer Pinball to challenge your friends, no glue required to assembly, just click all together! 💜 3D model: https://t.co/XKhiDHvAuF
-💡 Designed by DanDerDrucker pic.twitter.com/jLwiiqHwvR
-&amp;mdash; Cults. (@Cults3D) January 20, 2023  </description>
     </item>
     
   </channel>

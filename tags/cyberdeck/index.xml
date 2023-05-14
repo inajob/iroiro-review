@@ -5,9 +5,21 @@
     <description>Recent content in Cyberdeck on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 23 Mar 2023 23:15:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 May 2023 23:55:45 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/cyberdeck/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタで作られたコンパクトな筐体のハンドヘルド端末</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E7%AD%90%E4%BD%93%E3%81%AE%E3%83%8F%E3%83%B3%E3%83%89%E3%83%98%E3%83%AB%E3%83%89%E7%AB%AF%E6%9C%AB/</link>
+      <pubDate>Sun, 14 May 2023 23:55:45 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E7%AD%90%E4%BD%93%E3%81%AE%E3%83%8F%E3%83%B3%E3%83%89%E3%83%98%E3%83%AB%E3%83%89%E7%AB%AF%E6%9C%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作られたコンパクトな筐体のハンドヘルド端末.jpg"&gt;A Hombrew Retro Laptopから発見。画像もここから転載。
+3Dプリンタでうまい事ケースを作っているハンドヘルド端末の作例です。
+中身はRaspberr Pi Zero 2Wを使い、横長の7.9インチ液晶を搭載しています。 ヒンジ部分はゲームボーイアドバンスSPの部品を流用しているのも面白いです。
+横幅は20cmより少し大きいくらいなので、一般的な3Dプリンタでもギリギリ造形ができるサイズなのも良さそうです。</description>
+    </item>
     
     <item>
       <title>太陽光パネルで充電可能なバッテリーで約2年間動作する小型コンピュータ</title>
