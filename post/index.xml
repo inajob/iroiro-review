@@ -5,9 +5,25 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 14 May 2023 23:55:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 May 2023 22:48:48 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>386搭載のハンドヘルドマシン</title>
+      <link>https://inajob.github.io/iroiro-review/post/386%E6%90%AD%E8%BC%89%E3%81%AE%E3%83%8F%E3%83%B3%E3%83%89%E3%83%98%E3%83%AB%E3%83%89%E3%83%9E%E3%82%B7%E3%83%B3/</link>
+      <pubDate>Mon, 15 May 2023 22:48:48 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/386%E6%90%AD%E8%BC%89%E3%81%AE%E3%83%8F%E3%83%B3%E3%83%89%E3%83%98%E3%83%AB%E3%83%89%E3%83%9E%E3%82%B7%E3%83%B3/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/386搭載のハンドヘルドマシン.jpg"&gt;chamekanさんのTweetから発見。画像もここから転載。
+ポケコンの現代版とも言えるスタイルの、一風変わったパソコンです。 現代風の見た目ですが、その中身は386sx互換のCPUであるM6117Dが搭載されており、今で言うところのレトロパソコンと言う感じです。
+ストレージはコンパクトフラッシュカード、RAMは8MB、音源はOPL3、などなかなか面白い構成となっており、スクリーンショットを見るとDOSのゲームはもちろんWindows95も起動できるようです。（RAMが8MBなのでWindows95は起動するだけ、でまともに使うのは難しそうですが・・）
+  https://t.co/uzCJeZ3XD8
+これぞ、幕の内ポケコン(^_^;)。
+値段と使いどころがむずかしいな、なぜ386(^_^;)。 pic.twitter.com/wJ4flR81wY
+&amp;mdash; chamekan (@chame) May 15, 2023   更に調べてみると、Book 8008というこれまたレトロなノートパソコンも発見しました。 こちらは8088搭載でメモリは640KBと更に制限された構成です。
+  </description>
+    </item>
     
     <item>
       <title>3Dプリンタで作られたコンパクトな筐体のハンドヘルド端末</title>
@@ -142,21 +158,6 @@ LANケーブルを別の部屋に通すために、床下に配線を這わす�
 3Dプリントのためのツリー状のサポートをそのまま利用したマーブルマシンの作例です。 データとしては金属級が転がるためのレールだけがあり、スライサーの設定でツリー状のサポートを取り付けています。
 このサポートは通常3Dプリント後に取り外すのですが、この作例では、これをそのまま残すことで、マーブルマシンを作成しています。
  </description>
-    </item>
-    
-    <item>
-      <title>何かに使えそうな独自の赤外線式非接触センサー</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E4%BD%95%E3%81%8B%E3%81%AB%E4%BD%BF%E3%81%88%E3%81%9D%E3%81%86%E3%81%AA%E7%8B%AC%E8%87%AA%E3%81%AE%E8%B5%A4%E5%A4%96%E7%B7%9A%E5%BC%8F%E9%9D%9E%E6%8E%A5%E8%A7%A6%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/</link>
-      <pubDate>Wed, 26 Apr 2023 23:23:16 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E4%BD%95%E3%81%8B%E3%81%AB%E4%BD%BF%E3%81%88%E3%81%9D%E3%81%86%E3%81%AA%E7%8B%AC%E8%87%AA%E3%81%AE%E8%B5%A4%E5%A4%96%E7%B7%9A%E5%BC%8F%E9%9D%9E%E6%8E%A5%E8%A7%A6%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/何かに使えそうな独自の赤外線式非接触センサー.jpg"&gt;3D UI LabさんのTweetから発見。画像もここから転載。
-何かに使えそうな独自の赤外線式非接触センサーです。 直線状に並ぶセンサー前方にあるものとの距離を測定できるもののようです。 （おそらく直線以外の形状に並べることもできるのだと思います）
-センサーの前にかざした手などを認識することで、楽器のようなアナログの入力を得たり、ジェスチャー入力のようなものを実装するなど、色々な用途が考えられます。
-これで楽器を創りたいのですが
-具体的なアイデアがでなくて
-挫折中デス😅 pic.twitter.com/IvqcG0FVGP
-&amp;mdash; 3D UI lab (@TakahiroMaeda3) April 7, 2023  </description>
     </item>
     
   </channel>
