@@ -5,9 +5,22 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 14 May 2023 23:55:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 May 2023 22:49:15 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタで作られたオカリナ</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%82%AA%E3%82%AB%E3%83%AA%E3%83%8A/</link>
+      <pubDate>Wed, 17 May 2023 22:49:15 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%82%AA%E3%82%AB%E3%83%AA%E3%83%8A/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作られたオカリナ.jpg"&gt;はりねずみ麺 きさいちのTweetから発見。画像もここから転載。
+3Dプリンタで作られたオカリナの演奏動画です。 わりとちゃんとした音が鳴っており、3Dプリンタの可能性を感じる作例です。
+最近話題のAnkerMake M5という3Dプリンタでの作例というのも気になるポイントです。
+ 3Dプリンターで出力したオカリナの音…#AnkerMake pic.twitter.com/KxmXaRFLhP
+&amp;mdash; はりねずみ麺 きさいち (@hedgehog_noodl) April 8, 2023  </description>
+    </item>
     
     <item>
       <title>3Dプリンタで作られたコンパクトな筐体のハンドヘルド端末</title>
@@ -117,19 +130,6 @@ ACアダプタも筐体下に収められるようになっているのがよさ
 カイワレなどを育てる際には、日々の水やりが必要ですが、この記事で紹介しているアダプタを使うことで、その手間を削減できそうです。
 まずは、3Dプリンタ製のざる状の瓶のふたのような形状のアダプタから細いヒモを水に浸し、ざるの上に植物を植えます。 すると、細いヒモに毛細管現象で水が吸い上げられ、植物に自動的に水が供給されるという仕組みです。
 3Dプリンタを使って生成するため、様々な瓶にフィットするアダプタを作ることが出来ます。</description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタで作成した機構図鑑</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%97%E3%81%9F%E6%A9%9F%E6%A7%8B%E5%9B%B3%E9%91%91/</link>
-      <pubDate>Wed, 08 Feb 2023 23:19:26 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%97%E3%81%9F%E6%A9%9F%E6%A7%8B%E5%9B%B3%E9%91%91/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作成した機構図鑑.jpg"&gt;K.$uzuki on Twitter: &amp;ldquo;機構模型など https://t.co/2v6JHPx72i&amp;rdquo;から発見。画像もここから転載。
-特にギアを使った「機構」のようなものは、3Dプリンタならではの生成物です。 この記事で紹介するのは3Dプリンタで作成された機構図鑑の作例です。
-特にこれ自体が役立つものではないですが、無駄に作ってみたくなります。
-機構模型など pic.twitter.com/2v6JHPx72i
-&amp;mdash; K.$uzuki (@BellTreeNursing) February 3, 2023  </description>
     </item>
     
   </channel>
