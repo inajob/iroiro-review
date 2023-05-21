@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>プラスチック on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF/</link>
+    <description>Recent content in プラスチック on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sun, 21 May 2023 23:32:59 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>割れたプラスチックを溶かした結束バンドで補修する</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%89%B2%E3%82%8C%E3%81%9F%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E3%82%92%E6%BA%B6%E3%81%8B%E3%81%97%E3%81%9F%E7%B5%90%E6%9D%9F%E3%83%90%E3%83%B3%E3%83%89%E3%81%A7%E8%A3%9C%E4%BF%AE%E3%81%99%E3%82%8B/</link>
+      <pubDate>Sun, 21 May 2023 23:32:59 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%89%B2%E3%82%8C%E3%81%9F%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E3%82%92%E6%BA%B6%E3%81%8B%E3%81%97%E3%81%9F%E7%B5%90%E6%9D%9F%E3%83%90%E3%83%B3%E3%83%89%E3%81%A7%E8%A3%9C%E4%BF%AE%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/割れたプラスチックを溶かした結束バンドで補修する.jpg"&gt;Zippy Plastic Weldingから発見。画像もここから転載。
+表面を荒く研磨して、結束バンドをホットグルーガンで溶かして注入することで、割れたプラスチックを溶かした結束バンドで補修しています。
+実際ちゃんとこれを行うためには、適切な種類のプラスチックの選定や、温度管理などをしないとうまくいかないように思いますが、3Dプリンタの成果物同士をくっつける際などにも利用できそうなテクニックです。
+3Dプリントの場合は、同じ素材はフィラメントから簡単に得られますし、注入用の機械も、3Dプリントペンなどがあるので、気軽に試すことが出来そうです。
+  </description>
+    </item>
+    
+  </channel>
+</rss>
+

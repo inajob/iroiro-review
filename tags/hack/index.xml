@@ -5,9 +5,22 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 08 May 2023 23:09:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 May 2023 23:32:59 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>割れたプラスチックを溶かした結束バンドで補修する</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%89%B2%E3%82%8C%E3%81%9F%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E3%82%92%E6%BA%B6%E3%81%8B%E3%81%97%E3%81%9F%E7%B5%90%E6%9D%9F%E3%83%90%E3%83%B3%E3%83%89%E3%81%A7%E8%A3%9C%E4%BF%AE%E3%81%99%E3%82%8B/</link>
+      <pubDate>Sun, 21 May 2023 23:32:59 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%89%B2%E3%82%8C%E3%81%9F%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E3%82%92%E6%BA%B6%E3%81%8B%E3%81%97%E3%81%9F%E7%B5%90%E6%9D%9F%E3%83%90%E3%83%B3%E3%83%89%E3%81%A7%E8%A3%9C%E4%BF%AE%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/割れたプラスチックを溶かした結束バンドで補修する.jpg"&gt;Zippy Plastic Weldingから発見。画像もここから転載。
+表面を荒く研磨して、結束バンドをホットグルーガンで溶かして注入することで、割れたプラスチックを溶かした結束バンドで補修しています。
+実際ちゃんとこれを行うためには、適切な種類のプラスチックの選定や、温度管理などをしないとうまくいかないように思いますが、3Dプリンタの成果物同士をくっつける際などにも利用できそうなテクニックです。
+3Dプリントの場合は、同じ素材はフィラメントから簡単に得られますし、注入用の機械も、3Dプリントペンなどがあるので、気軽に試すことが出来そうです。
+  </description>
+    </item>
     
     <item>
       <title>格安のRISC-Vチップを16個並べて作られた並列コンピュータ</title>
@@ -119,23 +132,6 @@ Arduino Pro Miniを省エネ化する改造についても触れられており�
 Androidを搭載した普通の電卓です。 なぜこんな設計になったか謎ですが、Androidベースのただの電卓、というのがあるようです。（関数電卓ですらないようです）
 こういうものにAndroidを使うのは明らかにオーバースペックですが、なにか深い事情があったんでしょう・・ もちろんHackすればいろいろ遊べるようです。
 安くで買えるなら、自分も遊んでみたいなぁ・・</description>
-    </item>
-    
-    <item>
-      <title>let&#39;t noteのトラックパッドの横に液晶を埋め込む</title>
-      <link>https://inajob.github.io/iroiro-review/post/lett-note%E3%81%AE%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E3%83%91%E3%83%83%E3%83%89%E3%81%AE%E6%A8%AA%E3%81%AB%E6%B6%B2%E6%99%B6%E3%82%92%E5%9F%8B%E3%82%81%E8%BE%BC%E3%82%80/</link>
-      <pubDate>Wed, 22 Mar 2023 22:29:49 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/lett-note%E3%81%AE%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E3%83%91%E3%83%83%E3%83%89%E3%81%AE%E6%A8%AA%E3%81%AB%E6%B6%B2%E6%99%B6%E3%82%92%E5%9F%8B%E3%82%81%E8%BE%BC%E3%82%80/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/let&#39;t noteのトラックパッドの横に液晶を埋め込む.jpg"&gt;リンキンさんのTweetから発見。画像もここから転載。
-Let&amp;rsquo;s Noteのパームレスト部分に液晶を埋め込んだ作例です。
-動画を見ても合成のようにしか見えませんが、パームレストの部分に3.5インチの液晶を埋め込んでいるようです。 これで、出先でもマルチディスプレイで作業ができますね！
-let&amp;#39;snoteドライブレスモデルの空きスペース勿体無いので、Sigezone さん@ShigezoneAkiba とこの 640×480・3.5㌅液晶をぶち込んで
-2画面ノーパソにしてみた(仮想環境でXPブートの様子 pic.twitter.com/B6KAseQ7bt
-&amp;mdash; リンキン@ガラスの胃腸 (@micron_m) May 22, 2022  このディスプレイの接続は、側面のHDMIポートのようで、筐体に隙間さえ作れれば真似することは難しくなさそうです。
-使う事のないであろうD-SUBポート取っ払って隣のHDMIポートと繋いでます。
-本当はD-SUBポートがあった所から内部結線で繋ごうとしたけど、マザボの極小ピッチホールに手ハンダはうまく行かず断念して妥協 pic.twitter.com/u93vQp2mlE
-&amp;mdash; リンキン@ガラスの胃腸 (@micron_m) May 22, 2022  </description>
     </item>
     
   </channel>

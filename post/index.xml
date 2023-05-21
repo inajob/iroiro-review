@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 18 May 2023 23:01:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 May 2023 23:32:59 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>割れたプラスチックを溶かした結束バンドで補修する</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%89%B2%E3%82%8C%E3%81%9F%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E3%82%92%E6%BA%B6%E3%81%8B%E3%81%97%E3%81%9F%E7%B5%90%E6%9D%9F%E3%83%90%E3%83%B3%E3%83%89%E3%81%A7%E8%A3%9C%E4%BF%AE%E3%81%99%E3%82%8B/</link>
+      <pubDate>Sun, 21 May 2023 23:32:59 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%89%B2%E3%82%8C%E3%81%9F%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E3%82%92%E6%BA%B6%E3%81%8B%E3%81%97%E3%81%9F%E7%B5%90%E6%9D%9F%E3%83%90%E3%83%B3%E3%83%89%E3%81%A7%E8%A3%9C%E4%BF%AE%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/割れたプラスチックを溶かした結束バンドで補修する.jpg"&gt;Zippy Plastic Weldingから発見。画像もここから転載。
+表面を荒く研磨して、結束バンドをホットグルーガンで溶かして注入することで、割れたプラスチックを溶かした結束バンドで補修しています。
+実際ちゃんとこれを行うためには、適切な種類のプラスチックの選定や、温度管理などをしないとうまくいかないように思いますが、3Dプリンタの成果物同士をくっつける際などにも利用できそうなテクニックです。
+3Dプリントの場合は、同じ素材はフィラメントから簡単に得られますし、注入用の機械も、3Dプリントペンなどがあるので、気軽に試すことが出来そうです。
+  </description>
+    </item>
     
     <item>
       <title>3Dプリンタで作る一体成型のヒンジ</title>
@@ -142,19 +155,6 @@ Arduinoによる動作のカスタマイズ ここまで紹介してきたよう
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/格安のRISC-Vチップを16個並べて作られた並列コンピュータ.jpg"&gt;A RISC-V Supercluster For Very Low Costから発見。画像もここから転載。
 CH32V003といえば、安価なRISC-VのICチップです。 これを16個並べて作られた並列コンピュータの作例です。 16個合わせても$2程度のコストのようです。
 まぁ、それぞれの性能はそこまで早いものでもないので、並べたところで、そこまで大規模な計算はできませんが、それぞれに別の仕事をさせつつ、チップ同士で連携するなど、今までとは違ったアーキテクチャの組み込み機器が出来るかもしれません。
- </description>
-    </item>
-    
-    <item>
-      <title>シルクスクリーンでドットマトリクスLEDの形をカスタマイズするテクニック</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%AB%E3%82%AF%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%81%A7%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%81%AE%E5%BD%A2%E3%82%92%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E3%81%99%E3%82%8B%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</link>
-      <pubDate>Sun, 07 May 2023 21:57:25 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%AB%E3%82%AF%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%81%A7%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%81%AE%E5%BD%A2%E3%82%92%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E3%81%99%E3%82%8B%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/シルクスクリーンでドットマトリクスLEDの形をカスタマイズするテクニック.jpg"&gt;LED Matrix Displays Get New Look Thanks To SMD Stencilsから発見。画像もここから転載。
-表面実装基板を作成するときに、はんだを塗るために利用するシルクスクリーンですが、基板発注と同様にデータを用意すれば、あらゆる形のシルクスクリーンを作ることが出来ます。
-この記事で紹介しているのは、このシルクスクリーンを使ってドットマトリクスLEDのドットの形をカスタマイズするという技です。
-見慣れたドットマトリクスLEDでも、このドットの形が違うだけで随分と違った印象になります。
  </description>
     </item>
     
