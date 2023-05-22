@@ -5,9 +5,22 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 21 May 2023 23:32:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 May 2023 22:35:17 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタ製の2つの部品をくっつけるための良い形状</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE2%E3%81%A4%E3%81%AE%E9%83%A8%E5%93%81%E3%82%92%E3%81%8F%E3%81%A3%E3%81%A4%E3%81%91%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E8%89%AF%E3%81%84%E5%BD%A2%E7%8A%B6/</link>
+      <pubDate>Mon, 22 May 2023 22:35:17 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE2%E3%81%A4%E3%81%AE%E9%83%A8%E5%93%81%E3%82%92%E3%81%8F%E3%81%A3%E3%81%A4%E3%81%91%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E8%89%AF%E3%81%84%E5%BD%A2%E7%8A%B6/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ製の2つの部品をくっつけるための良い形状.jpg"&gt;Alternatives To Pins And Holes For 3D Printed Assembliesから発見。画像もここから転載。
+3Dプリンタ製の2つの部品をくっつけるための良い形状を考察している記事を紹介します。
+3Dプリンタでこの手の突起を生成する際は、積層方向に脆い点や、サポート材なしで印刷可能にしたい、など特有の条件があるので、射出成型のプラスチック製品とは異なる考え方が必要となります。
+ぱっと思いつくピンの形状は、造形も面倒で脆いという問題があり、画像のようなスリット形状がおすすめとのことです。
+ </description>
+    </item>
     
     <item>
       <title>割れたプラスチックを溶かした結束バンドで補修する</title>
@@ -120,19 +133,6 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリントと輪ゴムを組み合わせるテクニック.jpg"&gt;Rubber Bands And O-Rings Give 3D Prints Some Stretchから発見。画像もここから転載。
 3Dプリントと輪ゴムを組み合わせることで実現された、ブレスレットの作例です。 印刷を途中で停止させて、中の溝に輪ゴムを埋め込んでいます。その後、溝にふたをするため輪ゴムが成果物の内部に固定されるという作り方です。
 3Dプリントとほかの素材を組み合わせることで製作の幅が広がる面白い作例です。
- </description>
-    </item>
-    
-    <item>
-      <title>真鍮製のガスキャップを可変抵抗のノブにするための3Dプリンタ製のアダプタ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E7%9C%9F%E9%8D%AE%E8%A3%BD%E3%81%AE%E3%82%AC%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97%E3%82%92%E5%8F%AF%E5%A4%89%E6%8A%B5%E6%8A%97%E3%81%AE%E3%83%8E%E3%83%96%E3%81%AB%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF/</link>
-      <pubDate>Tue, 07 Mar 2023 23:13:23 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E7%9C%9F%E9%8D%AE%E8%A3%BD%E3%81%AE%E3%82%AC%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97%E3%82%92%E5%8F%AF%E5%A4%89%E6%8A%B5%E6%8A%97%E3%81%AE%E3%83%8E%E3%83%96%E3%81%AB%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/真鍮製のガスキャップを可変抵抗のノブにするための3Dプリンタ製のアダプタ.jpg"&gt;Brass Hardware Makes For Pretty Potentiometer Knobsから発見。画像もここから転載。
-可変抵抗のノブは様々な製品がありますが、その多くはプラスチック製です。
-この記事では真鍮製のガスキャップを可変抵抗のノブとして利用する作例を紹介しています。 もちろんそのままでは、ねじ穴とつまみの径が合わないので、利用できませんが、3Dプリンタ製のアダプタを使うことで、うまくこの問題を解決しています。
-真鍮のガスキャップは手軽に入手できわりに重厚感があって、手軽に真似できそうです。
  </description>
     </item>
     
