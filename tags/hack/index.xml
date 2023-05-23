@@ -5,9 +5,21 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 21 May 2023 23:32:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 May 2023 23:03:48 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>最小限の部品でUSB機器として認識させる実験</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%9C%80%E5%B0%8F%E9%99%90%E3%81%AE%E9%83%A8%E5%93%81%E3%81%A7usb%E6%A9%9F%E5%99%A8%E3%81%A8%E3%81%97%E3%81%A6%E8%AA%8D%E8%AD%98%E3%81%95%E3%81%9B%E3%82%8B%E5%AE%9F%E9%A8%93/</link>
+      <pubDate>Tue, 23 May 2023 23:03:48 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%9C%80%E5%B0%8F%E9%99%90%E3%81%AE%E9%83%A8%E5%93%81%E3%81%A7usb%E6%A9%9F%E5%99%A8%E3%81%A8%E3%81%97%E3%81%A6%E8%AA%8D%E8%AD%98%E3%81%95%E3%81%9B%E3%82%8B%E5%AE%9F%E9%A8%93/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/最小限の部品でUSB機器として認識させる実験.jpg"&gt;Minimal USB Device Connects With Just A Couple Of Resistorsから発見。画像もここから転載。
+最小限の部品でUSB機器として認識させる実験です。 レギュレータと抵抗とDIPスイッチ、電解コンデンサだけで「不明なデバイス」とPCに認識させられるようです。
+まだDIPスイッチのパターンに応じて、low-speedモードや通常のモードであることを伝えることが出来るため、この手法を応用するとフルでUSBスタックを実装しなくてもPCにUSBケーブル経由で情報を伝えることが出来るようです。
+ </description>
+    </item>
     
     <item>
       <title>割れたプラスチックを溶かした結束バンドで補修する</title>
@@ -122,18 +134,6 @@ Raspberry Piを壊してしまったことはありませんか？
 アナログ時計をゆっくり動かすことで1年の経過を表す時計の作例です。 単三電池1つで50年持つ計算のようです。
 水晶のパルスの代わりにArduinoからのパルスを使うことで、好きな間隔で時計を動かすことが出来るようです。
 Arduino Pro Miniを省エネ化する改造についても触れられており、参考になります。</description>
-    </item>
-    
-    <item>
-      <title>Androidを搭載した普通の電卓</title>
-      <link>https://inajob.github.io/iroiro-review/post/android%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E6%99%AE%E9%80%9A%E3%81%AE%E9%9B%BB%E5%8D%93/</link>
-      <pubDate>Mon, 27 Mar 2023 23:20:14 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/android%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E6%99%AE%E9%80%9A%E3%81%AE%E9%9B%BB%E5%8D%93/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Androidを搭載した普通の電卓.jpg"&gt;Probably The Most Over-Specified Calculator To Ever Be Manufacturedから発見。画像もここから転載。
-Androidを搭載した普通の電卓です。 なぜこんな設計になったか謎ですが、Androidベースのただの電卓、というのがあるようです。（関数電卓ですらないようです）
-こういうものにAndroidを使うのは明らかにオーバースペックですが、なにか深い事情があったんでしょう・・ もちろんHackすればいろいろ遊べるようです。
-安くで買えるなら、自分も遊んでみたいなぁ・・</description>
     </item>
     
   </channel>

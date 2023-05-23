@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 22 May 2023 22:35:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 May 2023 23:03:48 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>最小限の部品でUSB機器として認識させる実験</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%9C%80%E5%B0%8F%E9%99%90%E3%81%AE%E9%83%A8%E5%93%81%E3%81%A7usb%E6%A9%9F%E5%99%A8%E3%81%A8%E3%81%97%E3%81%A6%E8%AA%8D%E8%AD%98%E3%81%95%E3%81%9B%E3%82%8B%E5%AE%9F%E9%A8%93/</link>
+      <pubDate>Tue, 23 May 2023 23:03:48 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%9C%80%E5%B0%8F%E9%99%90%E3%81%AE%E9%83%A8%E5%93%81%E3%81%A7usb%E6%A9%9F%E5%99%A8%E3%81%A8%E3%81%97%E3%81%A6%E8%AA%8D%E8%AD%98%E3%81%95%E3%81%9B%E3%82%8B%E5%AE%9F%E9%A8%93/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/最小限の部品でUSB機器として認識させる実験.jpg"&gt;Minimal USB Device Connects With Just A Couple Of Resistorsから発見。画像もここから転載。
+最小限の部品でUSB機器として認識させる実験です。 レギュレータと抵抗とDIPスイッチ、電解コンデンサだけで「不明なデバイス」とPCに認識させられるようです。
+まだDIPスイッチのパターンに応じて、low-speedモードや通常のモードであることを伝えることが出来るため、この手法を応用するとフルでUSBスタックを実装しなくてもPCにUSBケーブル経由で情報を伝えることが出来るようです。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタ製の2つの部品をくっつけるための良い形状</title>
@@ -133,32 +145,6 @@ MUSTOOL A008 デジタルマルチメータ 電子工作のお供であるテス
 MUSTOOL A008 デジタルマルチメータをカートに入れ、チェックアウト後にこのクーポンコードを入力することで割引を受けることが出来ます。
 有効期限は2023/05/31なので、買いたい方はお早めにどうぞ！（加えて、在庫に限りがあると思うのでお早目に！）
 *MUSTOOL A008 デジタルマルチメータの購入はこちら</description>
-    </item>
-    
-    <item>
-      <title>ESP32搭載のDIY時計ガジェットキット</title>
-      <link>https://inajob.github.io/iroiro-review/post/esp32%E6%90%AD%E8%BC%89%E3%81%AEdiy%E6%99%82%E8%A8%88%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%82%AD%E3%83%83%E3%83%88/</link>
-      <pubDate>Tue, 09 May 2023 22:51:42 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/esp32%E6%90%AD%E8%BC%89%E3%81%AEdiy%E6%99%82%E8%A8%88%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%82%AD%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/diy-esp32-smartclock-kit-cover.jpg"&gt;この記事はMakerfabsの提供でお届けします。
-今回紹介するDIY ESP32 SmartClock KitはMakerfabsから提供いただいたものです。
-（ですが、DIY ESP32 SmartClock KitはMakerfabsをレビューしたい！と言ったのは自分なので、Makerfabsが無理やりこの商品を押しているわけではなく、inajobの一押しアイテム！、という感じです。）
-DIY ESP32 SmartClock KitはESP32をコアとしたシンプルなスマート時計ガジェットのDIYキットです。
-仕様 仕様は以下の通り
- 1.44inch 128x128カラーTFT液晶  コントローラはST7735   ESP32-WROOM-32  技適がついているものなので、日本でも安心して利用できます   3.3Vレギュレーター SPX3819 Micro USBポート USBシリアル変換IC CP2104  自動リセット回路  トランジスタはS8050     LiPo充電IC MCP73831 操作用タクトスイッチ 3個 リセットスイッチ、書き込みスイッチ ブザー 450mAhのLiPoバッテリー  LiPoバッテリーについては、私の場合は、税関で没収されてしまいました、残念・・
-製品に組み込まれたLiPoバッテリーは問題ないのですが、このようにDIYキットでむき出しのLiPoバッテリーが含まれている場合は、容量がそこまで多くなくても没収の対象となることがあるようです。
-まぁLiPoバッテリーがなくてもUSB給電で動作を確認することができるので、今回はそのようにしました。
-DIYキットということで、多くの部品は未実装の状態ですが、表面実装の部品については予めはんだ付けされた状態なので、組立作業はそこまで大変ではありません。
-組み立て 部品表に従って、パーツをはんだ付けしていきます。背の低い部品から実装することで、はんだ付け前のパーツが落下することを防ぐことが出来ます。 このあたりのTipsは説明書のPDFにも記載されています。
-自分は、抵抗、セッラミックコンデンサ、電解コンデンサの順に実装しました。 はんだ付け後、ニッパーで余った導線を切断して、実装完了です。
-スペーサーとネジを使って、アクリルプレートを取り付けます。
-六角形のスペーサーは液晶モジュールと近すぎて、向きによっては干渉してしまうようだったので、向きを合わせた上で、やや強引に固定しました。
-動作確認 USBケーブルを差し込んで、電源スイッチをONにすると、液晶に文字が現れます。 指示に従いS1ボタンを3秒間長押しすることで、WiFiのAPモードが起動します。 パソコンなどでMakerfabs_apというSSIDのWiFiに接続し、Webブラウザから192.168.4.1にアクセスすることで、SSIDとパスフレーズを入力する画面が表示されます。
-この設定が完了するとNTP経由で時計を合わせてくれます。
-時計が起動した後はS1ボタンでアラーム時間を設定し、S3ボタンでアラームのON/OFFを制御できます。 さらにS1ボタンを押すとタイムゾーンも設定できます。
-説明書によると更にS1ボタンを押すことで天気の情報を取得できるようでしたが、手元ではうまく動きませんでした。（これは、このガジェットが天気参照のためにアクセスしているWebサービスが停止してしまっていることが原因のようです）
-Arduinoによる動作のカスタマイズ ここまで紹介してきたように、このガジェットはインターネットで時刻合わせが行われる時計、として使えますが、USB経由でプログラムを書き換えることで自由に動作を変更出来ます。 極論を言えば時計ではなく、デジタルフォトフレームのようなものや、ゲームのようなものも動作させることが出来ます。</description>
     </item>
     
   </channel>
