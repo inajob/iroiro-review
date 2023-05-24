@@ -5,9 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 23 May 2023 23:03:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 May 2023 23:40:21 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ステンレスパイプにねじ穴をつけるHACK</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9%E3%83%91%E3%82%A4%E3%83%97%E3%81%AB%E3%81%AD%E3%81%98%E7%A9%B4%E3%82%92%E3%81%A4%E3%81%91%E3%82%8Bhack/</link>
+      <pubDate>Wed, 24 May 2023 23:40:21 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9%E3%83%91%E3%82%A4%E3%83%97%E3%81%AB%E3%81%AD%E3%81%98%E7%A9%B4%E3%82%92%E3%81%A4%E3%81%91%E3%82%8Bhack/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ステンレスパイプにねじ穴をつけるHACK.jpg"&gt;https://twitter.com/hoshihajime1815/status/1657885501494550528から発見。画像もここから転載。
+ステンレスパイプにねじ穴をつけるHACKです。 中空のステンレスパイプにM5のナットを無理やり突っ込んでハンダで固定しています。
+ステンレスパイプを使った、ちょっとした構造を作る際に役立ちそうです。
+刺さる人が居るのか謎ですが、φ9.5mmのステンレスパイプにはM5のナットを無理矢理圧入することができます。
+そこにハンダを流し込むと結構な強度になり、両端にネジ山のついたパイプを簡易的に製作できます。
+これを応用することでシンプルなシューズラックを簡単にDIYすることができます。 pic.twitter.com/9S3Q7lEbNs
+&amp;mdash; 高橋星一 (@hoshihajime1815) May 14, 2023  </description>
+    </item>
     
     <item>
       <title>最小限の部品でUSB機器として認識させる実験</title>
@@ -122,29 +137,6 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/薄くフチなしの筐体が印象的な電子ペーパー天気表示機.jpg"&gt;ESP32 E-Paper Weather Displayから発見。画像もここから転載。
 薄くフチなしの筐体が印象的な電子ペーパー天気表示機です。 電子ペーパーを使ったサイネージの作例は数多くありますが、この作例は、思い切ったデザインが印象的です。
 制御ははESP32で行っており、LiPoバッテリーを電源として動作します。</description>
-    </item>
-    
-    <item>
-      <title>コンパクトで取り回しやすいペン型マルチメーター MUSTOOL A008</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%A7%E5%8F%96%E3%82%8A%E5%9B%9E%E3%81%97%E3%82%84%E3%81%99%E3%81%84%E3%83%9A%E3%83%B3%E5%9E%8B%E3%83%9E%E3%83%AB%E3%83%81%E3%83%A1%E3%83%BC%E3%82%BF%E3%83%BC-mustool-a008/</link>
-      <pubDate>Wed, 10 May 2023 20:50:26 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%A7%E5%8F%96%E3%82%8A%E5%9B%9E%E3%81%97%E3%82%84%E3%81%99%E3%81%84%E3%83%9A%E3%83%B3%E5%9E%8B%E3%83%9E%E3%83%AB%E3%83%81%E3%83%A1%E3%83%BC%E3%82%BF%E3%83%BC-mustool-a008/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/mini-pen-multimeter-cover.jpg"&gt;この記事はBanggoodの提供でお届けします。
-以前紹介したようにこのブログはBanggoodと提携させていただいており、今回紹介するMUSTOOL A008 デジタルマルチメータはBanggoodからいただいたものとなります。 （MUSTOOL A008 デジタルマルチメータのレビューがしたい！と言ったのは自分なので、Banggoodが無理やりMUSTOOL A008 デジタルマルチメータを押しているわけではなく、inajobの一押しアイテム！、という感じです。）
-・・・ といういつもの前置きはそこそこに、MUSTOOL A008 デジタルマルチメータについて紹介していきます。
-そして、今回もこのブログのために2023/0/31まで利用できるクーポンを頂くことが出来たので、そちらも紹介します。
-MUSTOOL A008 デジタルマルチメータ 電子工作のお供であるテスターですが、皆さんはどのようなものを使っていますか？
-自分は今までオーソドックスなデジタル式のマルチメーターを使っていました。これはデジタル表示器と操作用のつまみがある本体から、赤と黒の2本のケーブルが伸びているというタイプのものです。
-今回紹介するMUSTOOL A008 デジタルマルチメータは、ペンの形をしたマルチメーターです。一般的なマルチメーターで言うところの「本体」部分がプラス端子側のペン型の筐体に収められており、コンパクトで取り回しやすそうです。
-できること  単4電池1本駆動 直流電圧の測定 交流電圧の測定 周波数の測定 抵抗の測定（ショートしているときは音がなる） コンデンサの容量測定 温度測定（華氏、摂氏） 手元LED 別の形状の測定用ピン  電流の測定機能は無いので、その点は注意が必要です 自分がよく使う機能は、直流電圧の測定と、抵抗の測定です。
-まとめ 私のようなちょっとしたデジタルの電子工作をする人にとっては、コンパクトで必要十分なマルチメーターだと感じました。 一般的な形のマルチメーターと比べると、取り回しが簡単で扱いやすいと感じました。
-電流の測定機能がないのだけが残念ですが、他の機能に関してはこれで十分だと感じました。
-クーポンコード！ さて、ここまで紹介してきたMUSTOOL A008 デジタルマルチメータですが、今回Banggoodの提供という事で、$16.99で購入できるクーポンを頂いています。
-コード： BG1c78e8
-MUSTOOL A008 デジタルマルチメータをカートに入れ、チェックアウト後にこのクーポンコードを入力することで割引を受けることが出来ます。
-有効期限は2023/05/31なので、買いたい方はお早めにどうぞ！（加えて、在庫に限りがあると思うのでお早目に！）
-*MUSTOOL A008 デジタルマルチメータの購入はこちら</description>
     </item>
     
   </channel>

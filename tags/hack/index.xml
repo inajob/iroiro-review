@@ -5,9 +5,24 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 23 May 2023 23:03:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 May 2023 23:40:21 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ステンレスパイプにねじ穴をつけるHACK</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9%E3%83%91%E3%82%A4%E3%83%97%E3%81%AB%E3%81%AD%E3%81%98%E7%A9%B4%E3%82%92%E3%81%A4%E3%81%91%E3%82%8Bhack/</link>
+      <pubDate>Wed, 24 May 2023 23:40:21 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9%E3%83%91%E3%82%A4%E3%83%97%E3%81%AB%E3%81%AD%E3%81%98%E7%A9%B4%E3%82%92%E3%81%A4%E3%81%91%E3%82%8Bhack/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ステンレスパイプにねじ穴をつけるHACK.jpg"&gt;https://twitter.com/hoshihajime1815/status/1657885501494550528から発見。画像もここから転載。
+ステンレスパイプにねじ穴をつけるHACKです。 中空のステンレスパイプにM5のナットを無理やり突っ込んでハンダで固定しています。
+ステンレスパイプを使った、ちょっとした構造を作る際に役立ちそうです。
+刺さる人が居るのか謎ですが、φ9.5mmのステンレスパイプにはM5のナットを無理矢理圧入することができます。
+そこにハンダを流し込むと結構な強度になり、両端にネジ山のついたパイプを簡易的に製作できます。
+これを応用することでシンプルなシューズラックを簡単にDIYすることができます。 pic.twitter.com/9S3Q7lEbNs
+&amp;mdash; 高橋星一 (@hoshihajime1815) May 14, 2023  </description>
+    </item>
     
     <item>
       <title>最小限の部品でUSB機器として認識させる実験</title>
@@ -122,18 +137,6 @@ Raspberry Piを壊してしまったことはありませんか？
 壊れているのは電源管理ICのみなので、これを付け替えると復活する可能性があります。
 この記事では電源管理ICを乗せ換える方法について紹介しています。
 ただし、乗せ換えるICはBGPで再はんだ付けするのはテクニックが必要ですし、ただ乗せ換えるだけではだめでI2Cのアドレスを適切に設定する必要があるようです。</description>
-    </item>
-    
-    <item>
-      <title>アナログ時計をゆっくり動かすことで1年の経過を表す</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E6%99%82%E8%A8%88%E3%82%92%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8A%E5%8B%95%E3%81%8B%E3%81%99%E3%81%93%E3%81%A8%E3%81%A71%E5%B9%B4%E3%81%AE%E7%B5%8C%E9%81%8E%E3%82%92%E8%A1%A8%E3%81%99/</link>
-      <pubDate>Tue, 28 Mar 2023 23:34:54 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E6%99%82%E8%A8%88%E3%82%92%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8A%E5%8B%95%E3%81%8B%E3%81%99%E3%81%93%E3%81%A8%E3%81%A71%E5%B9%B4%E3%81%AE%E7%B5%8C%E9%81%8E%E3%82%92%E8%A1%A8%E3%81%99/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/アナログ時計をゆっくり動かすことで1年の経過を表す.jpg"&gt;Low-Power Challenge: Making An Analog Clock Into A Calendar With A 50-Year Lifeから発見。画像もここから転載。
-アナログ時計をゆっくり動かすことで1年の経過を表す時計の作例です。 単三電池1つで50年持つ計算のようです。
-水晶のパルスの代わりにArduinoからのパルスを使うことで、好きな間隔で時計を動かすことが出来るようです。
-Arduino Pro Miniを省エネ化する改造についても触れられており、参考になります。</description>
     </item>
     
   </channel>
