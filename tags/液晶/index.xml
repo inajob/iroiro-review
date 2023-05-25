@@ -5,9 +5,20 @@
     <description>Recent content in 液晶 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 02 Feb 2023 23:22:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 May 2023 23:04:13 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%B6%B2%E6%99%B6/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>電卓の液晶の偏光板を裏返してダークモードの電卓作る</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%8D%93%E3%81%AE%E6%B6%B2%E6%99%B6%E3%81%AE%E5%81%8F%E5%85%89%E6%9D%BF%E3%82%92%E8%A3%8F%E8%BF%94%E3%81%97%E3%81%A6%E3%83%80%E3%83%BC%E3%82%AF%E3%83%A2%E3%83%BC%E3%83%89%E3%81%AE%E9%9B%BB%E5%8D%93%E4%BD%9C%E3%82%8B/</link>
+      <pubDate>Thu, 25 May 2023 23:04:13 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%8D%93%E3%81%AE%E6%B6%B2%E6%99%B6%E3%81%AE%E5%81%8F%E5%85%89%E6%9D%BF%E3%82%92%E8%A3%8F%E8%BF%94%E3%81%97%E3%81%A6%E3%83%80%E3%83%BC%E3%82%AF%E3%83%A2%E3%83%BC%E3%83%89%E3%81%AE%E9%9B%BB%E5%8D%93%E4%BD%9C%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/電卓の液晶の偏光板を裏返してダークモードの電卓作る.jpg"&gt;DIY dark mode calculator!から発見。画像もここから転載。
+電卓の液晶は、一般的には白地に黒い文字ですが、比較的簡単な手法でこれを反転させて「ダークモード」にできるようです。
+電卓の液晶部分をばらして、偏光板を取り外して反対向きに付け直すことで、このような反転表示の電卓に改造するすることが出来るようです。</description>
+    </item>
     
     <item>
       <title>古いビデオコントローラの出力をキャプチャしてSPI接続TFT表示を行う</title>

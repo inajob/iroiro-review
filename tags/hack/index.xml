@@ -5,9 +5,20 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 24 May 2023 23:40:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 May 2023 23:04:13 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>電卓の液晶の偏光板を裏返してダークモードの電卓作る</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%8D%93%E3%81%AE%E6%B6%B2%E6%99%B6%E3%81%AE%E5%81%8F%E5%85%89%E6%9D%BF%E3%82%92%E8%A3%8F%E8%BF%94%E3%81%97%E3%81%A6%E3%83%80%E3%83%BC%E3%82%AF%E3%83%A2%E3%83%BC%E3%83%89%E3%81%AE%E9%9B%BB%E5%8D%93%E4%BD%9C%E3%82%8B/</link>
+      <pubDate>Thu, 25 May 2023 23:04:13 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%8D%93%E3%81%AE%E6%B6%B2%E6%99%B6%E3%81%AE%E5%81%8F%E5%85%89%E6%9D%BF%E3%82%92%E8%A3%8F%E8%BF%94%E3%81%97%E3%81%A6%E3%83%80%E3%83%BC%E3%82%AF%E3%83%A2%E3%83%BC%E3%83%89%E3%81%AE%E9%9B%BB%E5%8D%93%E4%BD%9C%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/電卓の液晶の偏光板を裏返してダークモードの電卓作る.jpg"&gt;DIY dark mode calculator!から発見。画像もここから転載。
+電卓の液晶は、一般的には白地に黒い文字ですが、比較的簡単な手法でこれを反転させて「ダークモード」にできるようです。
+電卓の液晶部分をばらして、偏光板を取り外して反対向きに付け直すことで、このような反転表示の電卓に改造するすることが出来るようです。</description>
+    </item>
     
     <item>
       <title>ステンレスパイプにねじ穴をつけるHACK</title>
@@ -123,20 +134,6 @@ CH32V003といえば、安価なRISC-VのICチップです。 これを16個並�
 放電加工はドリルを用いたCNCなどとは違い、強い力を加えずとも加工ができるため、3Dプリンタの筐体を流用するのが簡単なようです。
 このプロジェクトでは、放電加工用の電源兼コントローラーボードと、放電用ワイヤー、加工用のアルミニウムなどが提供されるようです。
 放電加工用のヘッドは単に電極があるだけなので、どんな3Dプリンタにでも比較的簡単に取り付ける事ができそうです。 クラウドファンディングは目標金額の20倍の資金を集め終了し、製造に向けて進行中のようです。</description>
-    </item>
-    
-    <item>
-      <title>Raspberry Piは5Vと3.3Vの短絡で電源管理ICが死んでしまうがチップを乗せ換えると復活する</title>
-      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi%E3%81%AF5v%E3%81%A83.3v%E3%81%AE%E7%9F%AD%E7%B5%A1%E3%81%A7%E9%9B%BB%E6%BA%90%E7%AE%A1%E7%90%86ic%E3%81%8C%E6%AD%BB%E3%82%93%E3%81%A7%E3%81%97%E3%81%BE%E3%81%86%E3%81%8C%E3%83%81%E3%83%83%E3%83%97%E3%82%92%E4%B9%97%E3%81%9B%E6%8F%9B%E3%81%88%E3%82%8B%E3%81%A8%E5%BE%A9%E6%B4%BB%E3%81%99%E3%82%8B/</link>
-      <pubDate>Sun, 02 Apr 2023 23:34:56 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi%E3%81%AF5v%E3%81%A83.3v%E3%81%AE%E7%9F%AD%E7%B5%A1%E3%81%A7%E9%9B%BB%E6%BA%90%E7%AE%A1%E7%90%86ic%E3%81%8C%E6%AD%BB%E3%82%93%E3%81%A7%E3%81%97%E3%81%BE%E3%81%86%E3%81%8C%E3%83%81%E3%83%83%E3%83%97%E3%82%92%E4%B9%97%E3%81%9B%E6%8F%9B%E3%81%88%E3%82%8B%E3%81%A8%E5%BE%A9%E6%B4%BB%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Piは5Vと3.3Vの短絡で電源管理ICが死んでしまうがチップを乗せ換えると復活する.jpg"&gt;Dead Raspberry Pi Boards, PMICs, And New Hopeから発見。画像もここから転載。
-Raspberry Piを壊してしまったことはありませんか？
-幸いにして自分はまだその経験はないのですが、故障パターンの一つとして電源管理IC(MxL7704)が壊れてしまうというのがあるようです。 これは5Vと3.3Vを直結してしまうと起きるようで、Raspberry Piで電子工作をしている際には、ついやってしまいそうな故障パターンです。
-壊れているのは電源管理ICのみなので、これを付け替えると復活する可能性があります。
-この記事では電源管理ICを乗せ換える方法について紹介しています。
-ただし、乗せ換えるICはBGPで再はんだ付けするのはテクニックが必要ですし、ただ乗せ換えるだけではだめでI2Cのアドレスを適切に設定する必要があるようです。</description>
     </item>
     
   </channel>
