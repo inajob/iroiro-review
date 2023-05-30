@@ -5,9 +5,21 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 25 May 2023 23:04:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 May 2023 23:27:30 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>スマートズボンのチャック</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%BA%E3%83%9C%E3%83%B3%E3%81%AE%E3%83%81%E3%83%A3%E3%83%83%E3%82%AF/</link>
+      <pubDate>Tue, 30 May 2023 23:27:30 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%BA%E3%83%9C%E3%83%B3%E3%81%AE%E3%83%81%E3%83%A3%E3%83%83%E3%82%AF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/スマートズボンのチャック.jpg"&gt;Smart Pants Sound Alarm When Your Fly Is Undoneから発見。画像もここから転載。
+いわゆる「社会の窓」が開いている状態を通知してくれるスマートズボンのチャックの作例です。
+ホールセンサーを使うことで、チャック本体にあまり改造をほどくことなしにセンシングを実現しています。
+装置自身の防水性などの問題があるので、これを製品化するのはなかなか大変そうですが・・</description>
+    </item>
     
     <item>
       <title>電卓の液晶の偏光板を裏返してダークモードの電卓作る</title>
@@ -121,19 +133,6 @@ CH32V003といえば、安価なRISC-VのICチップです。 これを16個並�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/基板のパッドに文字を描く手法.jpg"&gt;Silkscreen Busy? Put Labels Inside Padsから発見。画像もここから転載。
 この記事では基板のパッドに文字を描く手法を紹介しています。 この方法を使うことで、シルクスクリーンに余白がない場合などでも、ピンの役割を基板に記載できそうです。 KiCad単体ではできず、スクリプトで後処理することでこれを実現しているようです。
 一方、基板上に複雑な形状のパッドがあると、アンテナとしてふるまってしまうなど、場合によっては注意が必要のようです。</description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタを放電加工機に変身させるためのプリンタヘッドのクラウドファンディングプロジェクト</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E6%94%BE%E9%9B%BB%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%81%AB%E5%A4%89%E8%BA%AB%E3%81%95%E3%81%9B%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%98%E3%83%83%E3%83%89%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88/</link>
-      <pubDate>Mon, 03 Apr 2023 23:28:08 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E6%94%BE%E9%9B%BB%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%81%AB%E5%A4%89%E8%BA%AB%E3%81%95%E3%81%9B%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%98%E3%83%83%E3%83%89%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタを放電加工機に変身させるためのプリンタヘッドのクラウドファンディングプロジェクト.jpg"&gt;Powercore - Cut through solid metal with EDMから発見。画像もここから転載。
-3Dプリンタを放電加工機に返信させるためのプリンタヘッドのクラウドファンディングプロジェクトです。
-放電加工はドリルを用いたCNCなどとは違い、強い力を加えずとも加工ができるため、3Dプリンタの筐体を流用するのが簡単なようです。
-このプロジェクトでは、放電加工用の電源兼コントローラーボードと、放電用ワイヤー、加工用のアルミニウムなどが提供されるようです。
-放電加工用のヘッドは単に電極があるだけなので、どんな3Dプリンタにでも比較的簡単に取り付ける事ができそうです。 クラウドファンディングは目標金額の20倍の資金を集め終了し、製造に向けて進行中のようです。</description>
     </item>
     
   </channel>
