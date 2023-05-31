@@ -5,9 +5,26 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 30 May 2023 23:27:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 May 2023 22:42:26 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Qrioの乗っ取り</title>
+      <link>https://inajob.github.io/iroiro-review/post/qrio%E3%81%AE%E4%B9%97%E3%81%A3%E5%8F%96%E3%82%8A/</link>
+      <pubDate>Wed, 31 May 2023 22:42:26 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/qrio%E3%81%AE%E4%B9%97%E3%81%A3%E5%8F%96%E3%82%8A/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Qrioの乗っ取り.jpg"&gt;ひろみつさんのTweetから発見。画像もここから転載。
+Qrioというスマートロックの製品がありますが、先日このQrioの旧機種であるQ-SL1のサービス終了が発表されました。 同機種を持っている人はサービス終了日以降は利用できなくなるとのことでした。
+こういったクラウドと接続されたガジェットの宿命とはいえ、今まで使えていたものが使えなくなるのは困ります。 ということで、この使えなくなるQrioの中身を解析して、サービス終了後も独自に動かす事ができないかを模索する動きがあるようです。
+といっても、搭載されたマイコンを剥がして、別のマイコンから制御するという荒業のようですが・・
+またこれに関して技術書典で書籍も発表されているようです。気になる方は購入してみてはいかがでしょうか？ https://techbookfest.org/product/5euMid5xtFGWDjKzyx61wD?productVariantID=27c2gygGrvfrQDE9fg11Xe
+サービス終了で話題のQrio Smart Lock
+元のマイコン剥がして数本配線で乗っ取ってほぼ制御完了
+モーター、LEDはi2c、圧電ブザーへの入力と電源なので半田付けもちょっとで済む https://t.co/FVdjAHfv0E pic.twitter.com/Mg9s5FY2Et
+&amp;mdash; ひろみつ (@bakueikozo) May 18, 2023  </description>
+    </item>
     
     <item>
       <title>スマートズボンのチャック</title>
@@ -152,19 +169,6 @@
 3Dプリンタで作る一体成のヒンジのテクニックについての紹介記事です。
 開閉する機構に必要となる「ヒンジ」を3Dプリンタで作成するテクニックです。 丁番のような専用の金具を用いるのではなく、筐体と一体成型で作成することで、部品点数や組み立て工数を減らすことが出来ます。
  </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタで作られたオカリナ</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%82%AA%E3%82%AB%E3%83%AA%E3%83%8A/</link>
-      <pubDate>Wed, 17 May 2023 22:49:15 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%82%AA%E3%82%AB%E3%83%AA%E3%83%8A/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作られたオカリナ.jpg"&gt;はりねずみ麺 きさいちのTweetから発見。画像もここから転載。
-3Dプリンタで作られたオカリナの演奏動画です。 わりとちゃんとした音が鳴っており、3Dプリンタの可能性を感じる作例です。
-最近話題のAnkerMake M5という3Dプリンタでの作例というのも気になるポイントです。
- 3Dプリンターで出力したオカリナの音…#AnkerMake pic.twitter.com/KxmXaRFLhP
-&amp;mdash; はりねずみ麺 きさいち (@hedgehog_noodl) April 8, 2023  </description>
     </item>
     
   </channel>

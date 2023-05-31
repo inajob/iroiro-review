@@ -5,9 +5,26 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 30 May 2023 23:27:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 May 2023 22:42:26 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Qrioの乗っ取り</title>
+      <link>https://inajob.github.io/iroiro-review/post/qrio%E3%81%AE%E4%B9%97%E3%81%A3%E5%8F%96%E3%82%8A/</link>
+      <pubDate>Wed, 31 May 2023 22:42:26 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/qrio%E3%81%AE%E4%B9%97%E3%81%A3%E5%8F%96%E3%82%8A/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Qrioの乗っ取り.jpg"&gt;ひろみつさんのTweetから発見。画像もここから転載。
+Qrioというスマートロックの製品がありますが、先日このQrioの旧機種であるQ-SL1のサービス終了が発表されました。 同機種を持っている人はサービス終了日以降は利用できなくなるとのことでした。
+こういったクラウドと接続されたガジェットの宿命とはいえ、今まで使えていたものが使えなくなるのは困ります。 ということで、この使えなくなるQrioの中身を解析して、サービス終了後も独自に動かす事ができないかを模索する動きがあるようです。
+といっても、搭載されたマイコンを剥がして、別のマイコンから制御するという荒業のようですが・・
+またこれに関して技術書典で書籍も発表されているようです。気になる方は購入してみてはいかがでしょうか？ https://techbookfest.org/product/5euMid5xtFGWDjKzyx61wD?productVariantID=27c2gygGrvfrQDE9fg11Xe
+サービス終了で話題のQrio Smart Lock
+元のマイコン剥がして数本配線で乗っ取ってほぼ制御完了
+モーター、LEDはi2c、圧電ブザーへの入力と電源なので半田付けもちょっとで済む https://t.co/FVdjAHfv0E pic.twitter.com/Mg9s5FY2Et
+&amp;mdash; ひろみつ (@bakueikozo) May 18, 2023  </description>
+    </item>
     
     <item>
       <title>スマートズボンのチャック</title>
@@ -122,17 +139,6 @@ CH32V003といえば、安価なRISC-VのICチップです。 これを16個並�
 16x2のキャラクタディスプレイを使って大きな数字を表示する手法です。 2×2文字の領域を使って1つの数字を表示するというアイデアで、遠くからでも見やすいユニークなフォントを実現しています。
 この手のキャラクタディスプレイには何文字分かの外字が登録できるようになっているので、この部分をうまく活用して数字フォントを構成しています。 この制限ゆえに、面白いパターンの組み合わせのユニークな数字フォントとなっています。
  </description>
-    </item>
-    
-    <item>
-      <title>基板のパッドに文字を描く手法</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%9F%BA%E6%9D%BF%E3%81%AE%E3%83%91%E3%83%83%E3%83%89%E3%81%AB%E6%96%87%E5%AD%97%E3%82%92%E6%8F%8F%E3%81%8F%E6%89%8B%E6%B3%95/</link>
-      <pubDate>Tue, 11 Apr 2023 23:32:24 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%9F%BA%E6%9D%BF%E3%81%AE%E3%83%91%E3%83%83%E3%83%89%E3%81%AB%E6%96%87%E5%AD%97%E3%82%92%E6%8F%8F%E3%81%8F%E6%89%8B%E6%B3%95/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/基板のパッドに文字を描く手法.jpg"&gt;Silkscreen Busy? Put Labels Inside Padsから発見。画像もここから転載。
-この記事では基板のパッドに文字を描く手法を紹介しています。 この方法を使うことで、シルクスクリーンに余白がない場合などでも、ピンの役割を基板に記載できそうです。 KiCad単体ではできず、スクリプトで後処理することでこれを実現しているようです。
-一方、基板上に複雑な形状のパッドがあると、アンテナとしてふるまってしまうなど、場合によっては注意が必要のようです。</description>
     </item>
     
   </channel>
