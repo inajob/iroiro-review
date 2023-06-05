@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 05 Jun 2023 00:39:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jun 2023 22:26:03 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ラミネートフィルムで3Dプリントした筐体のフロントパネルを装飾する</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%A9%E3%83%9F%E3%83%8D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0%E3%81%A73d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%97%E3%81%9F%E7%AD%90%E4%BD%93%E3%81%AE%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%83%91%E3%83%8D%E3%83%AB%E3%82%92%E8%A3%85%E9%A3%BE%E3%81%99%E3%82%8B/</link>
+      <pubDate>Mon, 05 Jun 2023 22:26:03 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%A9%E3%83%9F%E3%83%8D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0%E3%81%A73d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%97%E3%81%9F%E7%AD%90%E4%BD%93%E3%81%AE%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%83%91%E3%83%8D%E3%83%AB%E3%82%92%E8%A3%85%E9%A3%BE%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ラミネートフィルムで3Dプリントした筐体のフロントパネルを装飾する.jpg"&gt;Improve Your Front Panelsから発見。画像もここから転載。
+3Dプリンタで作った筐体に操作説明のためのアイコンなどを配置すると便利です。 もっとも簡単なのはマジックなどで書き込む方法ですが、いかにも手作りという感じになってしまいます。
+この記事で紹介しているのは、フロントパネルのデザインをコピー用紙に印刷し、それをラミネート加工し、3Dプリンタ製の筐体に貼り付けるというものです。
+手書きするよりは幾分か洗練された見た目になります。
+ </description>
+    </item>
     
     <item>
       <title>UARTの入力をOLEDに表示するコンパクトなモジュール</title>
@@ -155,19 +168,6 @@ Qrioというスマートロックの製品がありますが、先日このQrio
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/最小限の部品でUSB機器として認識させる実験.jpg"&gt;Minimal USB Device Connects With Just A Couple Of Resistorsから発見。画像もここから転載。
 最小限の部品でUSB機器として認識させる実験です。 レギュレータと抵抗とDIPスイッチ、電解コンデンサだけで「不明なデバイス」とPCに認識させられるようです。
 まだDIPスイッチのパターンに応じて、low-speedモードや通常のモードであることを伝えることが出来るため、この手法を応用するとフルでUSBスタックを実装しなくてもPCにUSBケーブル経由で情報を伝えることが出来るようです。
- </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタ製の2つの部品をくっつけるための良い形状</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE2%E3%81%A4%E3%81%AE%E9%83%A8%E5%93%81%E3%82%92%E3%81%8F%E3%81%A3%E3%81%A4%E3%81%91%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E8%89%AF%E3%81%84%E5%BD%A2%E7%8A%B6/</link>
-      <pubDate>Mon, 22 May 2023 22:35:17 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE2%E3%81%A4%E3%81%AE%E9%83%A8%E5%93%81%E3%82%92%E3%81%8F%E3%81%A3%E3%81%A4%E3%81%91%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E8%89%AF%E3%81%84%E5%BD%A2%E7%8A%B6/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ製の2つの部品をくっつけるための良い形状.jpg"&gt;Alternatives To Pins And Holes For 3D Printed Assembliesから発見。画像もここから転載。
-3Dプリンタ製の2つの部品をくっつけるための良い形状を考察している記事を紹介します。
-3Dプリンタでこの手の突起を生成する際は、積層方向に脆い点や、サポート材なしで印刷可能にしたい、など特有の条件があるので、射出成型のプラスチック製品とは異なる考え方が必要となります。
-ぱっと思いつくピンの形状は、造形も面倒で脆いという問題があり、画像のようなスリット形状がおすすめとのことです。
  </description>
     </item>
     
