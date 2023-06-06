@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 05 Jun 2023 22:26:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jun 2023 22:55:53 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>手ハンダで実装できるLinuxボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E3%83%8F%E3%83%B3%E3%83%80%E3%81%A7%E5%AE%9F%E8%A3%85%E3%81%A7%E3%81%8D%E3%82%8Blinux%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Tue, 06 Jun 2023 22:55:53 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E3%83%8F%E3%83%B3%E3%83%80%E3%81%A7%E5%AE%9F%E8%A3%85%E3%81%A7%E3%81%8D%E3%82%8Blinux%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/手ハンダで実装できるLinuxボード.jpg"&gt;BeagleStamp Makes Soldering Linux Into Your Projects Easierから発見。画像もここから転載。
+自分のオリジナル基板をLinuxで制御するのはなかなか大変です。ということで既製品であるRaspberry Piなどと組み合わせることが多いですが、Raspberry Piは結構かさばるという問題があります。
+この記事で紹介しているのは、切手サイズのLinuxボードです。 端面スルーホールになっており、手はんだでも実装できます。
+搭載されているICはOctavoと呼ばれるものでBGAパッケージの中にメインメモリなど全部入りとなっています。 性能はRaspberry Piには劣りますが、このコンパクトさや実装しやすさは使いやすそうです。</description>
+    </item>
     
     <item>
       <title>ラミネートフィルムで3Dプリントした筐体のフロントパネルを装飾する</title>
@@ -157,18 +169,6 @@ Qrioというスマートロックの製品がありますが、先日このQrio
 そこにハンダを流し込むと結構な強度になり、両端にネジ山のついたパイプを簡易的に製作できます。
 これを応用することでシンプルなシューズラックを簡単にDIYすることができます。 pic.twitter.com/9S3Q7lEbNs
 &amp;mdash; 高橋星一 (@hoshihajime1815) May 14, 2023  </description>
-    </item>
-    
-    <item>
-      <title>最小限の部品でUSB機器として認識させる実験</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%9C%80%E5%B0%8F%E9%99%90%E3%81%AE%E9%83%A8%E5%93%81%E3%81%A7usb%E6%A9%9F%E5%99%A8%E3%81%A8%E3%81%97%E3%81%A6%E8%AA%8D%E8%AD%98%E3%81%95%E3%81%9B%E3%82%8B%E5%AE%9F%E9%A8%93/</link>
-      <pubDate>Tue, 23 May 2023 23:03:48 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%9C%80%E5%B0%8F%E9%99%90%E3%81%AE%E9%83%A8%E5%93%81%E3%81%A7usb%E6%A9%9F%E5%99%A8%E3%81%A8%E3%81%97%E3%81%A6%E8%AA%8D%E8%AD%98%E3%81%95%E3%81%9B%E3%82%8B%E5%AE%9F%E9%A8%93/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/最小限の部品でUSB機器として認識させる実験.jpg"&gt;Minimal USB Device Connects With Just A Couple Of Resistorsから発見。画像もここから転載。
-最小限の部品でUSB機器として認識させる実験です。 レギュレータと抵抗とDIPスイッチ、電解コンデンサだけで「不明なデバイス」とPCに認識させられるようです。
-まだDIPスイッチのパターンに応じて、low-speedモードや通常のモードであることを伝えることが出来るため、この手法を応用するとフルでUSBスタックを実装しなくてもPCにUSBケーブル経由で情報を伝えることが出来るようです。
- </description>
     </item>
     
   </channel>

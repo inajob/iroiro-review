@@ -5,9 +5,21 @@
     <description>Recent content in 開発ボード on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 24 Apr 2023 23:28:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jun 2023 22:55:53 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>手ハンダで実装できるLinuxボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E3%83%8F%E3%83%B3%E3%83%80%E3%81%A7%E5%AE%9F%E8%A3%85%E3%81%A7%E3%81%8D%E3%82%8Blinux%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Tue, 06 Jun 2023 22:55:53 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E3%83%8F%E3%83%B3%E3%83%80%E3%81%A7%E5%AE%9F%E8%A3%85%E3%81%A7%E3%81%8D%E3%82%8Blinux%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/手ハンダで実装できるLinuxボード.jpg"&gt;BeagleStamp Makes Soldering Linux Into Your Projects Easierから発見。画像もここから転載。
+自分のオリジナル基板をLinuxで制御するのはなかなか大変です。ということで既製品であるRaspberry Piなどと組み合わせることが多いですが、Raspberry Piは結構かさばるという問題があります。
+この記事で紹介しているのは、切手サイズのLinuxボードです。 端面スルーホールになっており、手はんだでも実装できます。
+搭載されているICはOctavoと呼ばれるものでBGAパッケージの中にメインメモリなど全部入りとなっています。 性能はRaspberry Piには劣りますが、このコンパクトさや実装しやすさは使いやすそうです。</description>
+    </item>
     
     <item>
       <title>シリアル、UPDI、ICSPをサポートした書き込み用ボード</title>
@@ -159,17 +171,6 @@ https://github.com/seaniefs/WT32-SC01-Exp
 Raspberry Piを使うほどでもない画面付きのガジェットを作る際のパーツして役立ちそうです。
 クーポンコード さて、ここまで紹介してきたWT32-SC01ですが、今回Banggoodの提供という事で、$38.99 → $34.99で購入できるクーポンを頂いています。
 コード： BG324264 (5/16まで)</description>
-    </item>
-    
-    <item>
-      <title>DIPサイズだが全部入りのArduino互換ボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/dip%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%A0%E3%81%8C%E5%85%A8%E9%83%A8%E5%85%A5%E3%82%8A%E3%81%AEarduino%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Thu, 14 Apr 2022 23:00:35 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/dip%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%A0%E3%81%8C%E5%85%A8%E9%83%A8%E5%85%A5%E3%82%8A%E3%81%AEarduino%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/dipduino.jpg"&gt;dipDuino 1.2から発見。画像もここから転載。
-DipDuinoはDIPのフットプリントと同じですが、USBポートが付いており、これだけでPCから書き込みができるArdunio互換ボードです。
-コアとなるマイコンはATMega328PでUSBシリアル変換ICとしてCP2104を用い、フルカラーLEDも搭載しています。</description>
     </item>
     
   </channel>
