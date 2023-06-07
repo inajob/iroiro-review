@@ -5,9 +5,23 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 02 Jun 2023 00:10:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jun 2023 23:43:46 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>子供向けのスイッチ大量搭載のおもちゃ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%AD%90%E4%BE%9B%E5%90%91%E3%81%91%E3%81%AE%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E5%A4%A7%E9%87%8F%E6%90%AD%E8%BC%89%E3%81%AE%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83/</link>
+      <pubDate>Wed, 07 Jun 2023 23:43:46 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%AD%90%E4%BE%9B%E5%90%91%E3%81%91%E3%81%AE%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E5%A4%A7%E9%87%8F%E6%90%AD%E8%BC%89%E3%81%AE%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/子供向けのスイッチ大量搭載のおもちゃ.jpg"&gt;しげるさんのTweetから発見。画像もここから転載。
+3Dプリンタと家庭にある部品で作られた子供向けのスイッチ大量搭載のおもちゃ
+実際にロジックが入っていなくても、トグルスイッチのカチカチ感とか、アーケードスイッチの押し心地とかが楽しめるので、こういうので十分な感じがします。
+これなら簡単に我が家でも作れそうなので、挑戦してみようかなと思いました。
+子が最近やたらといろんなスイッチを押したがるので、「スイッチの集合体」を作りました pic.twitter.com/ksfgxyKnjF
+&amp;mdash; しげる (@gerusea) May 30, 2023  </description>
+    </item>
     
     <item>
       <title>3Dプリンタ製のカレンダーパズル</title>
@@ -122,18 +136,6 @@
 1層目を定着させるテクニックは様々ありますが、この記事で紹介しているのは、ベッドに配置したMDFにグリッド状の穴にあらかじめフィラメントを詰め込んでおくというアイデアです。
 穴に詰め込まれたフィラメントが1層目の造形時に底面に張り付くことでベッドに定着できるようです。
 印刷後はニッパーか何かでこの底面に貼り付いたフィラメントを取り除く必要がありそうですが、面白いテクニックです。</description>
-    </item>
-    
-    <item>
-      <title>水の流れで迷路を解く実験</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%B0%B4%E3%81%AE%E6%B5%81%E3%82%8C%E3%81%A7%E8%BF%B7%E8%B7%AF%E3%82%92%E8%A7%A3%E3%81%8F%E5%AE%9F%E9%A8%93/</link>
-      <pubDate>Thu, 13 Apr 2023 23:29:02 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%B0%B4%E3%81%AE%E6%B5%81%E3%82%8C%E3%81%A7%E8%BF%B7%E8%B7%AF%E3%82%92%E8%A7%A3%E3%81%8F%E5%AE%9F%E9%A8%93/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/水の流れで迷路を解く実験.jpg"&gt;Finding Paths With Water Is A-Mazingから発見。画像もここから転載。
-水の流れで迷路を解く実験を紹介します。 この手の実験はシミュレーションで十分か、、と思うのですが、実際やってみると、閉路の部分は残された空気の気圧で水が浸入しないとか、ある程度水を流したのちに色水を流すと、色水がゴールへの経路を示してくれるなど、やってみないとわからない知見がたくさん得られたようです。
-もちろん、この点も加味してシミュレーションすれば良いのでしょうけど、こういう実験をしてみないとシミュレーションに不足している要素を探し出すことは難しいでしょう。
- </description>
     </item>
     
   </channel>
