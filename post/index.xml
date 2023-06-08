@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 07 Jun 2023 23:43:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jun 2023 23:13:08 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CH552を搭載した$3のマクロパッド</title>
+      <link>https://inajob.github.io/iroiro-review/post/ch552%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F3%E3%81%AE%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%91%E3%83%83%E3%83%89/</link>
+      <pubDate>Thu, 08 Jun 2023 23:13:08 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/ch552%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F3%E3%81%AE%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%91%E3%83%83%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH552を搭載した$3のマクロパッド.jpg"&gt;Macro Pad Cheap Enough To Give Awayから発見。画像もここから転載。
+自作キーボードを作る際によく使うマイコンというと、Pro Microに搭載されているATMega32u4や、Raspberry Pi Picoに搭載されているRP2040などがメジャーです。 これらのマイコンは数百円で買うことが出来ますが、もっと安いものはないのでしょうか？
+この記事で紹介しているのはCH552を搭載した$3のマクロパッドです。
+CH552は前述のマイコンより安く、また、昨今の半導体の高騰に巻き込まれていないため、現在も安価で入手できます。
+キーボードを考えるとほかの部品が結構高いので、マイコンをそこまで安く済ませたいという需要があるかは微妙ですが、このようなマクロパッドの場合は、マイコンの単価の割合が大きいので、安く済ませるための選択肢としてCH552良さそうです。</description>
+    </item>
     
     <item>
       <title>子供向けのスイッチ大量搭載のおもちゃ</title>
@@ -157,17 +170,6 @@ Qrioというスマートロックの製品がありますが、先日このQrio
 ハイテクおもちゃ「物理箱入り娘」をカートに入れ、チェックアウト後にこのクーポンコードを入力することで割引を受けることが出来ます。
 有効期限は2023/06/30なので、買いたい方はお早めにどうぞ！（加えて、在庫に限りがあると思うのでお早目に！）
  ハイテクおもちゃ「物理箱入り娘」の購入はこちら  </description>
-    </item>
-    
-    <item>
-      <title>電卓の液晶の偏光板を裏返してダークモードの電卓作る</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%8D%93%E3%81%AE%E6%B6%B2%E6%99%B6%E3%81%AE%E5%81%8F%E5%85%89%E6%9D%BF%E3%82%92%E8%A3%8F%E8%BF%94%E3%81%97%E3%81%A6%E3%83%80%E3%83%BC%E3%82%AF%E3%83%A2%E3%83%BC%E3%83%89%E3%81%AE%E9%9B%BB%E5%8D%93%E4%BD%9C%E3%82%8B/</link>
-      <pubDate>Thu, 25 May 2023 23:04:13 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%8D%93%E3%81%AE%E6%B6%B2%E6%99%B6%E3%81%AE%E5%81%8F%E5%85%89%E6%9D%BF%E3%82%92%E8%A3%8F%E8%BF%94%E3%81%97%E3%81%A6%E3%83%80%E3%83%BC%E3%82%AF%E3%83%A2%E3%83%BC%E3%83%89%E3%81%AE%E9%9B%BB%E5%8D%93%E4%BD%9C%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/電卓の液晶の偏光板を裏返してダークモードの電卓作る.jpg"&gt;DIY dark mode calculator!から発見。画像もここから転載。
-電卓の液晶は、一般的には白地に黒い文字ですが、比較的簡単な手法でこれを反転させて「ダークモード」にできるようです。
-電卓の液晶部分をばらして、偏光板を取り外して反対向きに付け直すことで、このような反転表示の電卓に改造するすることが出来るようです。</description>
     </item>
     
   </channel>
