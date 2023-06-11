@@ -5,9 +5,22 @@
     <description>Recent content in 楽器 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 29 May 2023 23:56:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jun 2023 23:56:30 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%A5%BD%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>リコーダーの運指を自動化してくれる装置</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AA%E3%82%B3%E3%83%BC%E3%83%80%E3%83%BC%E3%81%AE%E9%81%8B%E6%8C%87%E3%82%92%E8%87%AA%E5%8B%95%E5%8C%96%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Sun, 11 Jun 2023 23:56:30 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AA%E3%82%B3%E3%83%BC%E3%83%80%E3%83%BC%E3%81%AE%E9%81%8B%E6%8C%87%E3%82%92%E8%87%AA%E5%8B%95%E5%8C%96%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E8%A3%85%E7%BD%AE/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/リコーダーの運指を自動化してくれる装置.jpg"&gt;Musical Robot Lets You Play The Recorder Hands-Freeから発見。画像もここから転載。
+小学校で定番の楽器であるリコーダーですが、指の操作はかなり複雑で、苦手に感じている人も多いのではないでしょうか？
+この記事で紹介しているのはリコーダーの運指を自動化してくれる装置です。 穴1つ1つに対応するソレノイドが自動的に穴をふさぐことで、人間は息を吹き込むだけで演奏できます。
+リコーダーの穴をうまくふさぐための工夫として「耳栓」を使っているようです。
+ </description>
+    </item>
     
     <item>
       <title>和音も演奏できる電子サックス的な楽器</title>
@@ -122,17 +135,6 @@ Raspberry Pi Picoはパワフルな開発ボードで、シンセサイザーな
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/物理法則を使ってモジュレーションをかけることができるシンセサイザー.jpg"&gt;Abacus Synthesizer Really Adds Upから発見。画像もここから転載。
 4つのコマが並ぶ物理UIで、このコマを左右に動かしたり、回転させたりすることで音色を変化させることができるシンセサイザーです。
 特徴的なのが、このコマを回転させるという操作です。 この回転を読み取って、音色にいい感じのモジュレーションをかけることができます。
- </description>
-    </item>
-    
-    <item>
-      <title>組子細工を取り入れたエレキギター筐体</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E7%B5%84%E5%AD%90%E7%B4%B0%E5%B7%A5%E3%82%92%E5%8F%96%E3%82%8A%E5%85%A5%E3%82%8C%E3%81%9F%E3%82%A8%E3%83%AC%E3%82%AD%E3%82%AE%E3%82%BF%E3%83%BC%E7%AD%90%E4%BD%93/</link>
-      <pubDate>Mon, 18 Apr 2022 23:12:14 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E7%B5%84%E5%AD%90%E7%B4%B0%E5%B7%A5%E3%82%92%E5%8F%96%E3%82%8A%E5%85%A5%E3%82%8C%E3%81%9F%E3%82%A8%E3%83%AC%E3%82%AD%E3%82%AE%E3%82%BF%E3%83%BC%E7%AD%90%E4%BD%93/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/組子細工を取り入れたエレキギター筐体.jpg"&gt;Young Maker Mixes Traditional Japanese Construction With Modern Artから発見。画像もここから転載。
-日本の伝統工芸である組子細工を取り入れたギター筐体。 組子とエキポシで筐体を作っています。 エレキと日本の伝統工芸の組み合わせがカッコいいです。
  </description>
     </item>
     
