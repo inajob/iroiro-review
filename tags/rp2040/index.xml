@@ -5,9 +5,20 @@
     <description>Recent content in RP2040 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 29 Sep 2022 23:09:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jun 2023 22:48:00 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/rp2040/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>手のひらサイズのZX Spectrumエミュレータ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AEzx-spectrum%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF/</link>
+      <pubDate>Mon, 12 Jun 2023 22:48:00 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AEzx-spectrum%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/手のひらサイズのZX Spectrumエミュレータ.jpg"&gt;PICOmputer ZX - Pocket ZX Spectrumから発見。画像もここから転載。
+手のひらサイズのZX Spectrumエミュレータです。 キーボードもついているので、これ単体で開発もできそうです。
+中身はRP2040となっており、ZX Spectrum以外にもMicro Pythonなどの環境としても利用できそうです。</description>
+    </item>
     
     <item>
       <title>RP2040を使った携帯ゲーム機</title>
