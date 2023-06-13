@@ -5,9 +5,36 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 12 Jun 2023 22:48:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jun 2023 23:39:03 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>BlackBerry</title>
+      <link>https://inajob.github.io/iroiro-review/tags/blackberry/</link>
+      <pubDate>Tue, 13 Jun 2023 23:39:03 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/blackberry/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi Zero</title>
+      <link>https://inajob.github.io/iroiro-review/tags/raspberry-pi-zero/</link>
+      <pubDate>Tue, 13 Jun 2023 23:39:03 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/raspberry-pi-zero/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>メモリ液晶</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E3%83%A1%E3%83%A2%E3%83%AA%E6%B6%B2%E6%99%B6/</link>
+      <pubDate>Tue, 13 Jun 2023 23:39:03 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E3%83%A1%E3%83%A2%E3%83%AA%E6%B6%B2%E6%99%B6/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>RP2040</title>
@@ -69,33 +96,6 @@
       <pubDate>Thu, 08 Jun 2023 23:13:08 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタ</title>
-      <link>https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
-      <pubDate>Wed, 07 Jun 2023 23:43:46 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>おもちゃ</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83/</link>
-      <pubDate>Wed, 07 Jun 2023 23:43:46 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>Octavo</title>
-      <link>https://inajob.github.io/iroiro-review/tags/octavo/</link>
-      <pubDate>Tue, 06 Jun 2023 22:55:53 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/octavo/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
