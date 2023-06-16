@@ -5,9 +5,21 @@
     <description>Recent content in CH32V003 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 08 May 2023 23:09:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jun 2023 23:59:57 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/ch32v003/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CH32V003をコアとした携帯ゲーム機</title>
+      <link>https://inajob.github.io/iroiro-review/post/ch32v003%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Thu, 15 Jun 2023 23:59:57 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/ch32v003%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32V003をコアとした携帯ゲーム機.jpg"&gt;CH32V003 RISC-V Mini Game Consoleから発見。画像もここから転載。
+CH32V003をコアとした携帯ゲーム機の作例です。 最近はArduino UNOのメインチップであるATmega328の価格も高騰しており、ちょっと手が出しづらくなってきています。
+そんなときに出てきたのがRISC-VコアのCH32V003です。Flashは16KでRAMは2Kと、少しメモリに不安がありますが、ミニゲームを作る程度ならこれで十分そうです。
+ </description>
+    </item>
     
     <item>
       <title>格安のRISC-Vチップを16個並べて作られた並列コンピュータ</title>
