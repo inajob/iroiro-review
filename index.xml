@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 15 Jun 2023 23:59:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jun 2023 23:58:34 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>レゴのような発想の3Dプリンタ製のブロック</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%82%B4%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E7%99%BA%E6%83%B3%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF/</link>
+      <pubDate>Sun, 18 Jun 2023 23:58:34 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%82%B4%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E7%99%BA%E6%83%B3%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/レゴのような発想の3Dプリンタ製のブロック.jpg"&gt;3D Printing LEGO-like Blocksから発見。画像もここから転載。
+レゴのような発想の3Dプリンタ製のブロックです。
+この穴を開けておけばなんでもこのブロック互換になるので、3Dプリンタで何か作る時にはこの穴をあけておこうかなと思いました。
+このブロックのデータは、色々作成されており、有料の物もありますが、基本ブロックとジョイントのデータは無料で入手できるようです。
+ </description>
+    </item>
     
     <item>
       <title>CH32V003をコアとした携帯ゲーム機</title>
@@ -122,19 +135,6 @@ CH552は前述のマイコンより安く、また、昨今の半導体の高騰
 3Dプリンタで作った筐体に操作説明のためのアイコンなどを配置すると便利です。 もっとも簡単なのはマジックなどで書き込む方法ですが、いかにも手作りという感じになってしまいます。
 この記事で紹介しているのは、フロントパネルのデザインをコピー用紙に印刷し、それをラミネート加工し、3Dプリンタ製の筐体に貼り付けるというものです。
 手書きするよりは幾分か洗練された見た目になります。
- </description>
-    </item>
-    
-    <item>
-      <title>UARTの入力をOLEDに表示するコンパクトなモジュール</title>
-      <link>https://inajob.github.io/iroiro-review/post/uart%E3%81%AE%E5%85%A5%E5%8A%9B%E3%82%92oled%E3%81%AB%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</link>
-      <pubDate>Mon, 05 Jun 2023 00:39:53 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/uart%E3%81%AE%E5%85%A5%E5%8A%9B%E3%82%92oled%E3%81%AB%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/UARTの入力をOLEDに表示するコンパクトなモジュール.jpg"&gt;Mini 0.96 OLED Breadboard Debugging Serial Monitor by Questwise Ventures on Tindieから発見。画像もここから転載。
-電子工作でマイコンと通信する方式としてUARTは一般的です。
-パソコンとつなげるとUART通信の内容をダンプすることは簡単にできますが、パソコンなしで確認できると便利なこともあります。
-そんな時に役立ちそうなのが、このUARTを表示するOLED付きモジュールです。 これを買ってもよいですし、腕試しにこういう機能のモジュールを自作してみるのも面白そうです。
  </description>
     </item>
     
