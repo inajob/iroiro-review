@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 21 Jun 2023 23:28:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jun 2023 00:29:42 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>自作の走るピクニックテーブル</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E8%B5%B0%E3%82%8B%E3%83%94%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB/</link>
+      <pubDate>Fri, 23 Jun 2023 00:29:42 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E8%B5%B0%E3%82%8B%E3%83%94%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/自作の走るピクニックテーブル.jpg"&gt;A Ride-On Picnic Table For Those Idylic Summer Eveningsから発見。画像もここから転載。
+自作の走るピクニックテーブルの作例です。 オートバイのエンジンを流用し、動力としています。
+楽しそうですが、サスペンションもないのでガタガタしそうです。
+ </description>
+    </item>
     
     <item>
       <title>フレキシブル基板によるPOVおもちゃ</title>
@@ -124,20 +136,6 @@ WiFiやBluetoothは技適のあるRaspberry Pi Zeroのものを利用するた�
 小学校で定番の楽器であるリコーダーですが、指の操作はかなり複雑で、苦手に感じている人も多いのではないでしょうか？
 この記事で紹介しているのはリコーダーの運指を自動化してくれる装置です。 穴1つ1つに対応するソレノイドが自動的に穴をふさぐことで、人間は息を吹き込むだけで演奏できます。
 リコーダーの穴をうまくふさぐための工夫として「耳栓」を使っているようです。
- </description>
-    </item>
-    
-    <item>
-      <title>CH552を搭載した$3のマクロパッド</title>
-      <link>https://inajob.github.io/iroiro-review/post/ch552%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F3%E3%81%AE%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%91%E3%83%83%E3%83%89/</link>
-      <pubDate>Thu, 08 Jun 2023 23:13:08 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/ch552%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F3%E3%81%AE%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%91%E3%83%83%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH552を搭載した$3のマクロパッド.jpg"&gt;Macro Pad Cheap Enough To Give Awayから発見。画像もここから転載。
-自作キーボードを作る際によく使うマイコンというと、Pro Microに搭載されているATMega32u4や、Raspberry Pi Picoに搭載されているRP2040などがメジャーです。 これらのマイコンは数百円で買うことが出来ますが、もっと安いものはないのでしょうか？
-この記事で紹介しているのはCH552を搭載した$3のマクロパッドです。
-CH552は前述のマイコンより安く、また、昨今の半導体の高騰に巻き込まれていないため、現在も安価で入手できます。
-キーボードを考えるとほかの部品が結構高いので、マイコンをそこまで安く済ませたいという需要があるかは微妙ですが、このようなマクロパッドの場合は、マイコンの単価の割合が大きいので、安く済ませるための選択肢としてCH552良さそうです。
  </description>
     </item>
     

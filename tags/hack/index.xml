@@ -5,9 +5,21 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 31 May 2023 22:42:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jun 2023 00:29:42 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>自作の走るピクニックテーブル</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E8%B5%B0%E3%82%8B%E3%83%94%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB/</link>
+      <pubDate>Fri, 23 Jun 2023 00:29:42 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E8%B5%B0%E3%82%8B%E3%83%94%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/自作の走るピクニックテーブル.jpg"&gt;A Ride-On Picnic Table For Those Idylic Summer Eveningsから発見。画像もここから転載。
+自作の走るピクニックテーブルの作例です。 オートバイのエンジンを流用し、動力としています。
+楽しそうですが、サスペンションもないのでガタガタしそうです。
+ </description>
+    </item>
     
     <item>
       <title>Qrioの乗っ取り</title>
@@ -129,18 +141,6 @@ CH32V003といえば、安価なRISC-VのICチップです。 これを16個並�
 1層目を定着させるテクニックは様々ありますが、この記事で紹介しているのは、ベッドに配置したMDFにグリッド状の穴にあらかじめフィラメントを詰め込んでおくというアイデアです。
 穴に詰め込まれたフィラメントが1層目の造形時に底面に張り付くことでベッドに定着できるようです。
 印刷後はニッパーか何かでこの底面に貼り付いたフィラメントを取り除く必要がありそうですが、面白いテクニックです。</description>
-    </item>
-    
-    <item>
-      <title>16x2のキャラクタディスプレイを使って大きな数字を表示する</title>
-      <link>https://inajob.github.io/iroiro-review/post/16x2%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E5%A4%A7%E3%81%8D%E3%81%AA%E6%95%B0%E5%AD%97%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B/</link>
-      <pubDate>Mon, 17 Apr 2023 00:16:27 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/16x2%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E5%A4%A7%E3%81%8D%E3%81%AA%E6%95%B0%E5%AD%97%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/16x2のキャラクタディスプレイを使って大きな数字を表示する.jpg"&gt;Spice Up The Humble 16×2 LCD With Big Digitsから発見。画像もここから転載。
-16x2のキャラクタディスプレイを使って大きな数字を表示する手法です。 2×2文字の領域を使って1つの数字を表示するというアイデアで、遠くからでも見やすいユニークなフォントを実現しています。
-この手のキャラクタディスプレイには何文字分かの外字が登録できるようになっているので、この部分をうまく活用して数字フォントを構成しています。 この制限ゆえに、面白いパターンの組み合わせのユニークな数字フォントとなっています。
- </description>
     </item>
     
   </channel>
