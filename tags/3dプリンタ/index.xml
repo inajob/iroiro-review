@@ -5,9 +5,21 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 18 Jun 2023 23:58:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jun 2023 23:31:15 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタ製の雨量計</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E9%9B%A8%E9%87%8F%E8%A8%88/</link>
+      <pubDate>Sun, 25 Jun 2023 23:31:15 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E9%9B%A8%E9%87%8F%E8%A8%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ製の雨量計.jpg"&gt;DIY 3D Printed Rain Gauge Connects To Home Assistantから発見。画像もここから転載。
+3Dプリンタ製の雨量計です。 ししおどしのような仕組みで、定期的にマイコンをスリープから解除する仕組みによりバッテリーを長寿命化しています （単三電池4本で1年持つ計算のようです）
+コアとなるマイコンはESP32でESPHomeでプログラムを作っているようです
+ </description>
+    </item>
     
     <item>
       <title>レゴのような発想の3Dプリンタ製のブロック</title>
@@ -124,18 +136,6 @@
 3Dプリンタでうまい事ケースを作っているハンドヘルド端末の作例です。
 中身はRaspberr Pi Zero 2Wを使い、横長の7.9インチ液晶を搭載しています。 ヒンジ部分はゲームボーイアドバンスSPの部品を流用しているのも面白いです。
 横幅は20cmより少し大きいくらいなので、一般的な3Dプリンタでもギリギリ造形ができるサイズなのも良さそうです。</description>
-    </item>
-    
-    <item>
-      <title>ツリー状のサポート材をそのまま利用したマーブルマシン</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%84%E3%83%AA%E3%83%BC%E7%8A%B6%E3%81%AE%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E6%9D%90%E3%82%92%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BE%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E3%83%9E%E3%83%BC%E3%83%96%E3%83%AB%E3%83%9E%E3%82%B7%E3%83%B3/</link>
-      <pubDate>Thu, 27 Apr 2023 23:26:23 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%84%E3%83%AA%E3%83%BC%E7%8A%B6%E3%81%AE%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E6%9D%90%E3%82%92%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BE%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E3%83%9E%E3%83%BC%E3%83%96%E3%83%AB%E3%83%9E%E3%82%B7%E3%83%B3/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ツリー状のサポート材をそのまま利用したマーブルマシン.jpg"&gt;Tree Supports Are Pretty, So Why Not Make Them Part Of The Print?から発見。画像もここから転載。
-3Dプリントのためのツリー状のサポートをそのまま利用したマーブルマシンの作例です。 データとしては金属級が転がるためのレールだけがあり、スライサーの設定でツリー状のサポートを取り付けています。
-このサポートは通常3Dプリント後に取り外すのですが、この作例では、これをそのまま残すことで、マーブルマシンを作成しています。
- </description>
     </item>
     
   </channel>

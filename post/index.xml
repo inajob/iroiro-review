@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 23 Jun 2023 00:29:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jun 2023 23:31:15 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタ製の雨量計</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E9%9B%A8%E9%87%8F%E8%A8%88/</link>
+      <pubDate>Sun, 25 Jun 2023 23:31:15 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E9%9B%A8%E9%87%8F%E8%A8%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ製の雨量計.jpg"&gt;DIY 3D Printed Rain Gauge Connects To Home Assistantから発見。画像もここから転載。
+3Dプリンタ製の雨量計です。 ししおどしのような仕組みで、定期的にマイコンをスリープから解除する仕組みによりバッテリーを長寿命化しています （単三電池4本で1年持つ計算のようです）
+コアとなるマイコンはESP32でESPHomeでプログラムを作っているようです
+ </description>
+    </item>
     
     <item>
       <title>自作の走るピクニックテーブル</title>
@@ -124,19 +136,6 @@ WiFiやBluetoothは技適のあるRaspberry Pi Zeroのものを利用するた�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/手のひらサイズのZX Spectrumエミュレータ.jpg"&gt;PICOmputer ZX - Pocket ZX Spectrumから発見。画像もここから転載。
 手のひらサイズのZX Spectrumエミュレータです。 キーボードもついているので、これ単体で開発もできそうです。
 中身はRP2040となっており、ZX Spectrum以外にもMicro Pythonなどの環境としても利用できそうです。</description>
-    </item>
-    
-    <item>
-      <title>リコーダーの運指を自動化してくれる装置</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AA%E3%82%B3%E3%83%BC%E3%83%80%E3%83%BC%E3%81%AE%E9%81%8B%E6%8C%87%E3%82%92%E8%87%AA%E5%8B%95%E5%8C%96%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E8%A3%85%E7%BD%AE/</link>
-      <pubDate>Sun, 11 Jun 2023 23:56:30 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AA%E3%82%B3%E3%83%BC%E3%83%80%E3%83%BC%E3%81%AE%E9%81%8B%E6%8C%87%E3%82%92%E8%87%AA%E5%8B%95%E5%8C%96%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E8%A3%85%E7%BD%AE/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/リコーダーの運指を自動化してくれる装置.jpg"&gt;Musical Robot Lets You Play The Recorder Hands-Freeから発見。画像もここから転載。
-小学校で定番の楽器であるリコーダーですが、指の操作はかなり複雑で、苦手に感じている人も多いのではないでしょうか？
-この記事で紹介しているのはリコーダーの運指を自動化してくれる装置です。 穴1つ1つに対応するソレノイドが自動的に穴をふさぐことで、人間は息を吹き込むだけで演奏できます。
-リコーダーの穴をうまくふさぐための工夫として「耳栓」を使っているようです。
- </description>
     </item>
     
   </channel>
