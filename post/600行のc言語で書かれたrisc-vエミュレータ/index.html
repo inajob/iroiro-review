@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+    
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>
+      
+  600行のC言語で書かれたRISC-Vエミュレータ &ndash; inajobのいろいろレビュー
+
+    </title>
+    
+    
+    <meta name="description" property="og:description" content="600行のC言語で書かれたRISC-Vエミュレータを紹介します。|">
+    
+
+    <meta name="apple-mobile-web-app-title" content="inajobのいろいろレビュー">
+    
+    
+    
+    
+
+    <meta property="og:title" content="600行のC言語で書かれたRISC-Vエミュレータ | inajobのいろいろレビュー">
+    <meta property="og:description" content="600行のC言語で書かれたRISC-Vエミュレータを紹介します。|">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@ina_ani">
+    <meta name="twitter:creator" content="@ina_ani">
+    <meta name="twitter:title" content="600行のC言語で書かれたRISC-Vエミュレータ | inajobのいろいろレビュー">
+    <meta name="twitter:description" content="600行のC言語で書かれたRISC-Vエミュレータを紹介します。|">
+    
+    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/600行のC言語で書かれたRISC-Vエミュレータ.jpg">
+    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/600行のC言語で書かれたRISC-Vエミュレータ.jpg">
+    
+    
+    <meta name="google-site-verification" content="9Ec1N9kzGZO5Ot91n8zCJnpR-zwh5LsLFMddYpK-w6c" />
+
+    <link rel="stylesheet" href="/iroiro-review/assets/syntax.css">
+    <link rel="stylesheet" href="/iroiro-review/assets/primer-build.css">
+    <link rel="stylesheet" href="/iroiro-review/assets/style.css">
+    <link rel="alternate" type="application/rss+xml" href="https://inajob.github.io/iroiro-review/index.xml" title="RSS2.0" />
+    <style>
+.rect{
+  width:120px;
+  height:120px;
+  object-fit:cover;
+}
+    </style>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+         (adsbygoogle = window.adsbygoogle || []).push({
+              google_ad_client: "ca-pub-4764710583056368",
+              enable_page_level_ads: true
+         });
+    </script>
+  </head>
+
+
+  <body class="bg-gray">
+    <div id="holy" class="container-lg bg-white h-100">
+
+      <div id="header" class="px-1 bg-white">
+        
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-3635234-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-3635234-7');
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PJ1H9LBP33"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PJ1H9LBP33');
+</script>
+
+
+<nav class="UnderlineNav UnderlineNav--right px-2">
+  <a class="UnderlineNav-actions muted-link h2" href="https://inajob.github.io/iroiro-review">
+    inajobのいろいろレビュー
+  </a>
+
+  
+  
+</nav>
+
+<div class="m-3 p-1">
+電子工作・デジタルファブリケーションの海外事例を日本語で紹介するブログです。
+はてブやリツイートしてもらえるととても喜びます。
+Twitter: <a href="http://twitter.com/ina_ani">@ina_ani</a>
+
+<div>
+RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Finajob.github.io%2Firoiro-review%2Findex.xml'  target='blank'><img id='feedlyFollow' src='http://s3.feedly.com/img/follows/feedly-follow-rectangle-volume-medium_2x.png' alt='follow us in feedly' width='71' height='28'></a>
+<a href='https://inajob.github.io/iroiro-review/index.xml'  target='blank'><img src="https://inajob.github.io/iroiro-review/img/rss.png" width="28px" height="28px"></a>
+</div>
+</div>
+
+
+
+      </div>
+
+      <div role="main" id="main" class="holy-main markdown-body px-4 bg-white">
+        
+
+<div class="Subhead">
+  <div class="Subhead-heading">
+    <div class="h1 mt-3 mb-1">600行のC言語で書かれたRISC-Vエミュレータ</div>
+  </div>
+  <div class="Subhead-description">
+    
+
+
+
+
+<a href='/iroiro-review/tags/risc-v' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">RISC-V</span>
+</a>
+
+<a href='/iroiro-review/tags/%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">エミュレータ</span>
+</a>
+
+
+
+    
+    <div class="float-md-right">
+      <span title="Lastmod: 2023-06-30. Published at: 2023-06-30.">
+        
+          Published: 2023-06-30
+        
+      </span>
+    </div>
+    
+  </div>
+</div>
+<article>
+  
+  <section class="pb-6 mb-3 border-bottom">
+    <img src="https://inajob.github.io/iroiro-review/img/600%e8%a1%8c%e3%81%aeC%e8%a8%80%e8%aa%9e%e3%81%a7%e6%9b%b8%e3%81%8b%e3%82%8c%e3%81%9fRISC-V%e3%82%a8%e3%83%9f%e3%83%a5%e3%83%ac%e3%83%bc%e3%82%bf.jpg" />
+    <p><a href="https://hackaday.com/2023/06/24/a-32-bit-risc-v-cpu-core-in-600-lines-of-c/">A 32-BIT RISC-V CPU CORE IN 600 LINES OF C</a>から発見。画像もここから転載。</p>
+<p>600行のC言語で書かれたRISC-Vエミュレータです。
+RV32IMCの実装のようです。</p>
+<p>速度に心配はありますが、RISC-Vとは違うアーキテクチャのCPUでRISC-Vの資産を利用したいときに活躍しそうです。</p>
+<p>こういったエミュレータの活用例として、これとは別のRISC-Vエミュレータですが、<a href="../post/raspberry-pi-pico%E3%81%A7risc-v%E3%82%92%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%97%E3%81%A6linux%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/">Raspberry Pi PicoでLinuxを動かす作例を以前紹介しました。</a>
+このLinuxを動かす作例ではRV32imaのエミュレーションを行っています。</p>
+
+  </section>
+
+  
+  <a href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%82%AD%E3%83%BC%E3%83%88%E3%83%83%E3%83%97%E3%82%92%E4%B8%80%E4%BD%93%E6%88%90%E5%9E%8B%E3%81%99%E3%82%8B/">
+    <div class="box-shadow-medium mb-3 bg-blue-light border border-blue" style="height:122px;">
+        <div style="float:left;">
+          <img class="rect" src="https://inajob.github.io/iroiro-review/img/3D%e3%83%97%e3%83%aa%e3%83%b3%e3%82%bf%e3%81%a7%e3%82%ad%e3%83%bc%e3%83%88%e3%83%83%e3%83%97%e3%82%92%e4%b8%80%e4%bd%93%e6%88%90%e5%9e%8b%e3%81%99%e3%82%8b.jpg" />
+        </div>
+
+        <div class="pb-2 pt-2 px-3" style="margin-left:122px;">
+          ← 前の記事 - 3Dプリンタでキートップを一体成型する
+        </div>
+    </div>
+  </a>
+  
+
+  
+
+  
+
+<h3>関連記事</h3>
+<div>
+  
+  <a href="/iroiro-review/post/raspberry-pi-pico%E3%81%A7risc-v%E3%82%92%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%97%E3%81%A6linux%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/Raspberry%20Pi%20Pico%e3%81%a7RISC-V%e3%82%92%e3%82%a8%e3%83%9f%e3%83%a5%e3%83%ac%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%81%97%e3%81%a6Linux%e3%82%92%e5%8b%95%e3%81%8b%e3%81%99.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        Raspberry Pi PicoでRISC-VをエミュレーションしてLinuxを動かす
+      </div>
+    </div>
+  </a>
+  
+  <a href="/iroiro-review/post/%E5%AE%89%E3%81%84%E3%81%A8%E5%99%82%E3%81%AErisc-v-ic%E3%81%AEch32v003%E6%90%AD%E8%BC%89%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/%e5%ae%89%e3%81%84%e3%81%a8%e5%99%82%e3%81%aeRISC-V%20IC%e3%81%aeCH32V003%e6%90%ad%e8%bc%89%e3%81%ae%e9%96%8b%e7%99%ba%e3%83%9c%e3%83%bc%e3%83%89.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        安いと噂のRISC-V ICのCH32V003搭載の開発ボード
+      </div>
+    </div>
+  </a>
+  
+  <a href="/iroiro-review/post/mmu%E3%81%AE%E3%81%AA%E3%81%84risc-v%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%81%A7doom%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99%E3%83%87%E3%83%A2/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/MMU%e3%81%ae%e3%81%aa%e3%81%84RISC-V%e3%82%a8%e3%83%9f%e3%83%a5%e3%83%ac%e3%83%bc%e3%82%bf%e3%81%a7DOOM%e3%82%92%e5%8b%95%e3%81%8b%e3%81%99%e3%83%87%e3%83%a2.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        MMUのないRISC-VエミュレータでDOOMを動かすデモ
+      </div>
+    </div>
+  </a>
+  
+  <a href="/iroiro-review/post/esp32%E3%81%A7risc-v%E3%81%AE%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%82%92%E5%8B%95%E3%81%8B%E3%81%97linux%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/ESP32%e3%81%a7RISC-V%e3%81%ae%e3%82%a8%e3%83%9f%e3%83%a5%e3%83%ac%e3%83%bc%e3%82%bf%e3%82%92%e5%8b%95%e3%81%8b%e3%81%97Linux%e3%82%92%e5%8b%95%e3%81%8b%e3%81%99.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        ESP32でRISC-Vのエミュレータを動かしLinuxを動かす
+      </div>
+    </div>
+  </a>
+  
+  <a href="/iroiro-review/post/%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E4%BB%98%E3%81%8D%E3%81%AErisc-v%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/risc-v-nano.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        カラーディスプレイ付きのRISC-V開発ボード
+      </div>
+    </div>
+  </a>
+  
+</div>
+
+
+
+  <section>
+  
+    
+    
+    
+      <div>
+        
+          <a href="https://twitter.com/intent/tweet?hashtags=inajob" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        
+
+        
+          
+          <div id="fb-root"></div>
+          <script>(function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+            fjs.parentNode.insertBefore(js, fjs);
+          }(document, 'script', 'facebook-jssdk'));</script>
+
+          <div class="fb-share-button" 
+            data-href="/iroiro-review/post/600%E8%A1%8C%E3%81%AEc%E8%A8%80%E8%AA%9E%E3%81%A7%E6%9B%B8%E3%81%8B%E3%82%8C%E3%81%9Frisc-v%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF/" 
+            data-layout="button_count">
+          </div>
+        
+
+        
+          <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+        
+
+        
+          <a data-pocket-label="pocket" data-pocket-count="none" class="pocket-btn" data-lang="en"></a>
+          <script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+        
+
+      </div>
+    
+  
+  </section>
+  <section>
+    
+      
+    
+  </section>
+</article>
+
+
+      </div>
+
+      <div id="side" class="pr-1 bg-white">
+        <aside class="pr-3">
+          
+  
+    <div id="toc" class="Box Box--blue mb-3">
+      <b>600行のC言語で書かれたRISC-Vエミュレータ</b>
+      <nav id="TableOfContents"></nav>
+    </div>
+  
+
+  
+    
+    
+    
+      <div>
+        
+          <a href="https://twitter.com/intent/tweet?hashtags=inajob" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        
+
+        
+          <div class="fb-share-button" 
+            data-href="/iroiro-review/post/600%E8%A1%8C%E3%81%AEc%E8%A8%80%E8%AA%9E%E3%81%A7%E6%9B%B8%E3%81%8B%E3%82%8C%E3%81%9Frisc-v%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF/" 
+            data-layout="button_count">
+          </div>
+        
+
+        
+          <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+        
+
+        
+          <a data-pocket-label="pocket" data-pocket-count="none" class="pocket-btn" data-lang="en"></a>
+          <script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+        
+
+      </div>
+    
+  
+
+        </aside>
+      </div>
+
+      <div id="footer" class="pt-2 pb-3 bg-white text-center">
+        
+          <span class="text-small text-gray">
+            
+Contents: ©inajob 2020 ,Theme: ©Qiushi Pan 2018.
+Generated with
+<a href="https://gohugo.io" class="link-gray-dark">Hugo</a> and
+<a href="https://github.com/qqhann/hugo-primer" class="link-gray-dark">Hugo-Primer</a> theme.
+
+          </span>
+        
+      </div>
+    </div>
+
+
+    
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    
+    <script type="text/x-mathjax-config">MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });</script>
+  </body>
+</html>

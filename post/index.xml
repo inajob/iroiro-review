@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 28 Jun 2023 21:27:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jun 2023 00:02:42 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>600行のC言語で書かれたRISC-Vエミュレータ</title>
+      <link>https://inajob.github.io/iroiro-review/post/600%E8%A1%8C%E3%81%AEc%E8%A8%80%E8%AA%9E%E3%81%A7%E6%9B%B8%E3%81%8B%E3%82%8C%E3%81%9Frisc-v%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF/</link>
+      <pubDate>Fri, 30 Jun 2023 00:02:42 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/600%E8%A1%8C%E3%81%AEc%E8%A8%80%E8%AA%9E%E3%81%A7%E6%9B%B8%E3%81%8B%E3%82%8C%E3%81%9Frisc-v%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/600行のC言語で書かれたRISC-Vエミュレータ.jpg"&gt;A 32-BIT RISC-V CPU CORE IN 600 LINES OF Cから発見。画像もここから転載。
+600行のC言語で書かれたRISC-Vエミュレータです。 RV32IMCの実装のようです。
+速度に心配はありますが、RISC-Vとは違うアーキテクチャのCPUでRISC-Vの資産を利用したいときに活躍しそうです。
+こういったエミュレータの活用例として、これとは別のRISC-Vエミュレータですが、Raspberry Pi PicoでLinuxを動かす作例を以前紹介しました。 このLinuxを動かす作例ではRV32imaのエミュレーションを行っています。</description>
+    </item>
     
     <item>
       <title>3Dプリンタでキートップを一体成型する</title>
@@ -124,18 +136,6 @@ USB端子もType-Cとなっており、かなり使いやすそうです。</des
 レゴのような発想の3Dプリンタ製のブロックです。
 この穴を開けておけばなんでもこのブロック互換になるので、3Dプリンタで何か作る時にはこの穴をあけておこうかなと思いました。
 このブロックのデータは、色々作成されており、有料の物もありますが、基本ブロックとジョイントのデータは無料で入手できるようです。
- </description>
-    </item>
-    
-    <item>
-      <title>CH32V003をコアとした携帯ゲーム機</title>
-      <link>https://inajob.github.io/iroiro-review/post/ch32v003%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
-      <pubDate>Thu, 15 Jun 2023 23:59:57 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/ch32v003%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32V003をコアとした携帯ゲーム機.jpg"&gt;CH32V003 RISC-V Mini Game Consoleから発見。画像もここから転載。
-CH32V003をコアとした携帯ゲーム機の作例です。 最近はArduino UNOのメインチップであるATmega328の価格も高騰しており、ちょっと手が出しづらくなってきています。
-そんなときに出てきたのがRISC-VコアのCH32V003です。Flashは16KでRAMは2Kと、少しメモリに不安がありますが、ミニゲームを作る程度ならこれで十分そうです。
  </description>
     </item>
     

@@ -5,9 +5,27 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 28 Jun 2023 21:27:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jun 2023 00:02:42 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RISC-V</title>
+      <link>https://inajob.github.io/iroiro-review/tags/risc-v/</link>
+      <pubDate>Fri, 30 Jun 2023 00:02:42 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/risc-v/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>エミュレータ</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF/</link>
+      <pubDate>Fri, 30 Jun 2023 00:02:42 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>3Dプリンタ</title>
@@ -78,24 +96,6 @@
       <pubDate>Wed, 21 Jun 2023 23:28:49 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/%E3%83%95%E3%83%AC%E3%82%AD%E3%82%B7%E3%83%96%E3%83%AB%E5%9F%BA%E6%9D%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>表示機][AliExpress</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E8%A1%A8%E7%A4%BA%E6%A9%9Faliexpress/</link>
-      <pubDate>Tue, 20 Jun 2023 23:47:04 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E8%A1%A8%E7%A4%BA%E6%A9%9Faliexpress/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>開発ボード</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Mon, 19 Jun 2023 23:06:14 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
