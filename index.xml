@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 03 Jul 2023 00:16:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jul 2023 23:38:09 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>メカニカルキーボード版のZX81キーボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%AB%E3%83%AB%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E7%89%88%E3%81%AEzx81%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Mon, 03 Jul 2023 23:38:09 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%AB%E3%83%AB%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E7%89%88%E3%81%AEzx81%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/メカニカルキーボード版のZX81キーボード.jpg"&gt;It’s Never Too Late To Upgrade Your ZX81 Keyboardから発見。画像もここから転載。
+メカニカルキーボード版のZX81キーボードの作例です。
+ZX81のキーボードはメンブレンキーボードで、操作がしやすいとは言えませんでした。 この記事で紹介するのはZX81のキーボードをメカニカルキーボードにするための取り組みです。
+キーキャップにカスタムの模様を印刷してくれるサービスを利用し、ZX81のキーを再現しています。</description>
+    </item>
     
     <item>
       <title>車に搭載できる巨大なドットマトリクス印刷機</title>
@@ -123,19 +135,6 @@ FC版ドラクエでやったら売れそう。この魅力が伝えにくい、
 画像に表示されているのはバックライトのみの価格で、セグメント表示機は$5くらいのようです。 AliExpressのリンク
 Holy hell pic.twitter.com/bYKKF9Vs1N
 &amp;mdash; tablatronix (@tablatronix) May 25, 2023  </description>
-    </item>
-    
-    <item>
-      <title>ESP32にしては細い形の開発ボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%81%AB%E3%81%97%E3%81%A6%E3%81%AF%E7%B4%B0%E3%81%84%E5%BD%A2%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Mon, 19 Jun 2023 23:06:14 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%81%AB%E3%81%97%E3%81%A6%E3%81%AF%E7%B4%B0%E3%81%84%E5%BD%A2%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32にしては細い形の開発ボード.jpg"&gt;Esp32-S3-Pill by KusTech on Tindieから発見。画像もここから転載。
-ESP32-WROOMのパッケージは横幅が結構あるので、開発ボードも横幅が広いものがほとんどです。 これにより、ブレッドボードに挿したときにジャンパを指すところがないなどの問題が起きたりします。
-人によっては間隔を開けて2つのブレッドボードを並べるような人もいるようですが、ここで紹介している開発ボードは、一般的なBluePillボードと同じ間隔の細い形をしたものです。
-みたままですが、ESP32モジュールを開発ボードの後ろに配置することで、開発ボードの横幅を小さく保っています。
-USB端子もType-Cとなっており、かなり使いやすそうです。</description>
     </item>
     
   </channel>

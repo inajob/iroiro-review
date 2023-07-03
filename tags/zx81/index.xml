@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ZX81 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/zx81/</link>
+    <description>Recent content in ZX81 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Mon, 03 Jul 2023 23:38:09 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/zx81/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>メカニカルキーボード版のZX81キーボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%AB%E3%83%AB%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E7%89%88%E3%81%AEzx81%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Mon, 03 Jul 2023 23:38:09 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%AB%E3%83%AB%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E7%89%88%E3%81%AEzx81%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/メカニカルキーボード版のZX81キーボード.jpg"&gt;It’s Never Too Late To Upgrade Your ZX81 Keyboardから発見。画像もここから転載。
+メカニカルキーボード版のZX81キーボードの作例です。
+ZX81のキーボードはメンブレンキーボードで、操作がしやすいとは言えませんでした。 この記事で紹介するのはZX81のキーボードをメカニカルキーボードにするための取り組みです。
+キーキャップにカスタムの模様を印刷してくれるサービスを利用し、ZX81のキーを再現しています。</description>
+    </item>
+    
+  </channel>
+</rss>
+

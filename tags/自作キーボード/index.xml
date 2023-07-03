@@ -5,9 +5,21 @@
     <description>Recent content in 自作キーボード on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 08 Jun 2023 23:13:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jul 2023 23:38:09 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>メカニカルキーボード版のZX81キーボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%AB%E3%83%AB%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E7%89%88%E3%81%AEzx81%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Mon, 03 Jul 2023 23:38:09 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%AB%E3%83%AB%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E7%89%88%E3%81%AEzx81%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/メカニカルキーボード版のZX81キーボード.jpg"&gt;It’s Never Too Late To Upgrade Your ZX81 Keyboardから発見。画像もここから転載。
+メカニカルキーボード版のZX81キーボードの作例です。
+ZX81のキーボードはメンブレンキーボードで、操作がしやすいとは言えませんでした。 この記事で紹介するのはZX81のキーボードをメカニカルキーボードにするための取り組みです。
+キーキャップにカスタムの模様を印刷してくれるサービスを利用し、ZX81のキーを再現しています。</description>
+    </item>
     
     <item>
       <title>CH552を搭載した$3のマクロパッド</title>
@@ -120,21 +132,6 @@ VGAケーブルの一部の端子はGNDにショートしているらしく、�
 コアとなるマイコンはRaspberry Pi Picoです。
 中央の画面を活用するとスタンドアローンで遊べる端末としても活用できそうで、面白い作例です。
  </description>
-    </item>
-    
-    <item>
-      <title>結束バンドをキーキャップの材料にする</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E7%B5%90%E6%9D%9F%E3%83%90%E3%83%B3%E3%83%89%E3%82%92%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97%E3%81%AE%E6%9D%90%E6%96%99%E3%81%AB%E3%81%99%E3%82%8B/</link>
-      <pubDate>Wed, 26 Oct 2022 23:22:26 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E7%B5%90%E6%9D%9F%E3%83%90%E3%83%B3%E3%83%89%E3%82%92%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97%E3%81%AE%E6%9D%90%E6%96%99%E3%81%AB%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/結束バンドをキーキャップの材料にする.jpg"&gt;結束バンドを使ってkailh choc v1キーキャップを自作するから発見。画像もここから転載。
-ロープロファイルのキーボードスイッチは、コンパクトな自作キーボードを作りたい人にはうれしい部品ですが、キーキャップの形状が曲者です。
-市販の専用キーキャップを使えば、もちろん大丈夫なのですが、キーキャップを3Dプリンタで作ろうとすると問題があります。
-通常のCherry MX互換のキーボードスイッチの場合は、積層式の3Dプリンタでキーキャップを作ることが出来ましたが、ロープロファイルのキーボードスイッチの1種であるkailh choc v1は写真のように細長い2つのスリットのような溝でキーキャップを固定するようになっており、このような細くて剛性のある形状は3Dプリンタで作るのが難しいです。
-この記事ではこの問題の解決策として結束バンドを利用することを紹介しています。
-結束バンドを短く切ったものが、このキーボードスイッチの溝とぴったりはまるということで、3Dプリントで作ったキーキャップのステムの部分に接着剤で結束バンドを固定することで、キーボードスイッチを作っています。
-まさかの身近な製品が自作キーボードづくりの役に立つというまさにHACKな内容です。</description>
     </item>
     
   </channel>
