@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 03 Jul 2023 23:38:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jul 2023 21:47:32 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raspberry Pi Picoを搭載したZX Spectrumエミュレータ</title>
+      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fzx-spectrum%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF/</link>
+      <pubDate>Tue, 04 Jul 2023 21:47:32 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fzx-spectrum%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi Picoを搭載したZX Spectrumエミュレータ.jpg"&gt;A Pico-Based ZX Spectrum Emulatorから発見。画像もここから転載。
+Raspberry Pi Picoを搭載した画面付きのZX Spectrumエミュレータです。 コンパクトな筐体に画面もキーボードも搭載されており、可愛いです。
+Raspberry Pi Picoは頑張るとHDMI出力ができるので、このようにグラフィックカード的な使い方もできて面白いです。
+ </description>
+    </item>
     
     <item>
       <title>メカニカルキーボード版のZX81キーボード</title>
@@ -121,20 +133,6 @@ ZX81のキーボードはメンブレンキーボードで、操作がしやす�
  触れるデジタルペット「とびだせ！きゅーびっつ」この仕組み分かりますか？ちなみに写真を撮っても映りませんでした。実物はくっきりドット絵キャラが豊かに動いてます。かわいい、8ビット系良い
 FC版ドラクエでやったら売れそう。この魅力が伝えにくい、宣伝するの難しそう〜#東京おもちゃショー2023 pic.twitter.com/2yEUE395zq
 &amp;mdash; コヤ所長 (@mayanmoyan) June 8, 2023  </description>
-    </item>
-    
-    <item>
-      <title>巨大なTNセグメント表示機</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%B7%A8%E5%A4%A7%E3%81%AAtn%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
-      <pubDate>Tue, 20 Jun 2023 23:47:04 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%B7%A8%E5%A4%A7%E3%81%AAtn%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/巨大なTNセグメント表示機.jpg"&gt;tablatronixさんのTweetから発見。画像もここから転載。
-巨大なTNセグメント表示機がAliExpressで販売されているという情報です。 電卓やデジタル腕時計の表示でよく利用されているセグメント式の表示機ですが、ここまでの大きさ(55.88mm * 76.20mm)のものは日常ではあまり見かけません。
-制御にはちょっとコツが必要ですが（単に電圧をかけると色が変わる、というものではなく、パルスを送る必要がある）自作のガジェットでも使ってみたいです。
-画像に表示されているのはバックライトのみの価格で、セグメント表示機は$5くらいのようです。 AliExpressのリンク
-Holy hell pic.twitter.com/bYKKF9Vs1N
-&amp;mdash; tablatronix (@tablatronix) May 25, 2023  </description>
     </item>
     
   </channel>

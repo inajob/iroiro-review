@@ -5,9 +5,27 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 03 Jul 2023 23:38:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jul 2023 21:47:32 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raspberry Pi Pico</title>
+      <link>https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico/</link>
+      <pubDate>Tue, 04 Jul 2023 21:47:32 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>ZX Spectrum</title>
+      <link>https://inajob.github.io/iroiro-review/tags/zx-spectrum/</link>
+      <pubDate>Tue, 04 Jul 2023 21:47:32 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/zx-spectrum/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>ZX81</title>
@@ -78,24 +96,6 @@
       <pubDate>Tue, 27 Jun 2023 00:09:58 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%A0%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>ESP32</title>
-      <link>https://inajob.github.io/iroiro-review/tags/esp32/</link>
-      <pubDate>Sun, 25 Jun 2023 23:31:15 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/esp32/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>ESPHome</title>
-      <link>https://inajob.github.io/iroiro-review/tags/esphome/</link>
-      <pubDate>Sun, 25 Jun 2023 23:31:15 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/esphome/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
