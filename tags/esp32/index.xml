@@ -5,9 +5,20 @@
     <description>Recent content in ESP32 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 25 Jun 2023 23:31:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jul 2023 23:59:06 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/esp32/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32-S3でLinuxがブートするらしい</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32-s3%E3%81%A7linux%E3%81%8C%E3%83%96%E3%83%BC%E3%83%88%E3%81%99%E3%82%8B%E3%82%89%E3%81%97%E3%81%84/</link>
+      <pubDate>Thu, 06 Jul 2023 23:59:06 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32-s3%E3%81%A7linux%E3%81%8C%E3%83%96%E3%83%BC%E3%83%88%E3%81%99%E3%82%8B%E3%82%89%E3%81%97%E3%81%84/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32-S3でLinuxがブートするらしい.jpg"&gt;Running Linux with kernel 6.3 on Open Source Hardware board with ESP32-S3!から発見。画像もここから転載。
+ESP32-S3でLinuxがブートするらしい。 過去にした記事ではESP32上でRISC-Vなどのエミュレーションをするタイプのものでしたが、この記事では、直接ESP32のコンパイラを使ってLinuxをビルドしています。
+ESP32-S3にMMUはついていないので、Buildrootを使ってMMUなしで構成しているように見えます。 ESP32-S3のような安価な組み込みチップでLinuxが動くと、色々と応用が利きそうです。</description>
+    </item>
     
     <item>
       <title>3Dプリンタ製の雨量計</title>
@@ -142,18 +153,6 @@ User_Setup_Select.hの以下の行のコメントを外す
 ESP32でVGA出力付きのテキストエディタの作例です。 エディタ界隈では有名(?)なkiloという実装を参考に作られており、短いコードでテキストエディタが作られています。
 画面出力部分はFabGLを利用しているため、ソースコードは600行程度とシンプルにまとまっています。
 ESP32を使ったDOSみたいな仕組みがあると、結構何でもできてしまうのではないかと妄想が膨らみます。</description>
-    </item>
-    
-    <item>
-      <title>WT32-SC01用のかっこいいUIサンプル</title>
-      <link>https://inajob.github.io/iroiro-review/post/wt32-sc01%E7%94%A8%E3%81%AE%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84ui%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB/</link>
-      <pubDate>Sun, 30 Oct 2022 23:22:07 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/wt32-sc01%E7%94%A8%E3%81%AE%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84ui%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/WT32-SC01用のかっこいいUIサンプル.jpg"&gt;Wt32-SC01 ESP32 Lumiaから発見。画像もここから転載。
-ESP32を搭載した液晶画面付きの開発ボードWT32-SC01での利用を想定したWindows PhoneのUI風のUIライブラリです。
-ESP32でもここまでの画面表示ができるのかと、感動できるデモです。
-組み込み機器のUIというとどうしても必要最低限の簡素なものが多いですが、こういうリッチな表示にするのも面白そうです。</description>
     </item>
     
   </channel>

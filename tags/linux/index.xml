@@ -5,9 +5,20 @@
     <description>Recent content in Linux on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 09 Apr 2023 23:23:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jul 2023 23:59:06 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32-S3でLinuxがブートするらしい</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32-s3%E3%81%A7linux%E3%81%8C%E3%83%96%E3%83%BC%E3%83%88%E3%81%99%E3%82%8B%E3%82%89%E3%81%97%E3%81%84/</link>
+      <pubDate>Thu, 06 Jul 2023 23:59:06 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32-s3%E3%81%A7linux%E3%81%8C%E3%83%96%E3%83%BC%E3%83%88%E3%81%99%E3%82%8B%E3%82%89%E3%81%97%E3%81%84/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32-S3でLinuxがブートするらしい.jpg"&gt;Running Linux with kernel 6.3 on Open Source Hardware board with ESP32-S3!から発見。画像もここから転載。
+ESP32-S3でLinuxがブートするらしい。 過去にした記事ではESP32上でRISC-Vなどのエミュレーションをするタイプのものでしたが、この記事では、直接ESP32のコンパイラを使ってLinuxをビルドしています。
+ESP32-S3にMMUはついていないので、Buildrootを使ってMMUなしで構成しているように見えます。 ESP32-S3のような安価な組み込みチップでLinuxが動くと、色々と応用が利きそうです。</description>
+    </item>
     
     <item>
       <title>Raspberry Pi PicoでRISC-VをエミュレーションしてLinuxを動かす</title>

@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 05 Jul 2023 23:43:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jul 2023 23:59:06 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32-S3でLinuxがブートするらしい</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32-s3%E3%81%A7linux%E3%81%8C%E3%83%96%E3%83%BC%E3%83%88%E3%81%99%E3%82%8B%E3%82%89%E3%81%97%E3%81%84/</link>
+      <pubDate>Thu, 06 Jul 2023 23:59:06 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32-s3%E3%81%A7linux%E3%81%8C%E3%83%96%E3%83%BC%E3%83%88%E3%81%99%E3%82%8B%E3%82%89%E3%81%97%E3%81%84/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32-S3でLinuxがブートするらしい.jpg"&gt;Running Linux with kernel 6.3 on Open Source Hardware board with ESP32-S3!から発見。画像もここから転載。
+ESP32-S3でLinuxがブートするらしい。 過去にした記事ではESP32上でRISC-Vなどのエミュレーションをするタイプのものでしたが、この記事では、直接ESP32のコンパイラを使ってLinuxをビルドしています。
+ESP32-S3にMMUはついていないので、Buildrootを使ってMMUなしで構成しているように見えます。 ESP32-S3のような安価な組み込みチップでLinuxが動くと、色々と応用が利きそうです。</description>
+    </item>
     
     <item>
       <title>iPhoneケースを再利用した電卓</title>
@@ -118,18 +129,6 @@ ZX81のキーボードはメンブレンキーボードで、操作がしやす�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ製の雨量計.jpg"&gt;DIY 3D Printed Rain Gauge Connects To Home Assistantから発見。画像もここから転載。
 3Dプリンタ製の雨量計です。 ししおどしのような仕組みで、定期的にマイコンをスリープから解除する仕組みによりバッテリーを長寿命化しています （単三電池4本で1年持つ計算のようです）
 コアとなるマイコンはESP32でESPHomeでプログラムを作っているようです
- </description>
-    </item>
-    
-    <item>
-      <title>自作の走るピクニックテーブル</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E8%B5%B0%E3%82%8B%E3%83%94%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB/</link>
-      <pubDate>Fri, 23 Jun 2023 00:29:42 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E8%B5%B0%E3%82%8B%E3%83%94%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/自作の走るピクニックテーブル.jpg"&gt;A Ride-On Picnic Table For Those Idylic Summer Eveningsから発見。画像もここから転載。
-自作の走るピクニックテーブルの作例です。 オートバイのエンジンを流用し、動力としています。
-楽しそうですが、サスペンションもないのでガタガタしそうです。
  </description>
     </item>
     
