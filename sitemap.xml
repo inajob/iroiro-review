@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://inajob.github.io/iroiro-review/</loc>
+    <lastmod>2023-07-10T00:01:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/post/</loc>
+    <lastmod>2023-07-10T00:01:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/tags/</loc>
+    <lastmod>2023-07-10T00:01:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/tags/%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%A9%E3%83%96%E3%83%AB/</loc>
+    <lastmod>2023-07-10T00:01:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/tags/%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/</loc>
+    <lastmod>2023-07-10T00:01:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/post/%E3%83%AA%E3%82%B9%E3%83%88%E3%83%90%E3%83%B3%E3%83%89%E3%81%AB%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92%E4%BB%95%E8%BE%BC%E3%82%80/</loc>
+    <lastmod>2023-07-10T00:01:09+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://inajob.github.io/iroiro-review/tags/esp32/</loc>
     <lastmod>2023-07-06T23:59:06+00:00</lastmod>
   </url>
@@ -13,22 +43,7 @@
   </url>
   
   <url>
-    <loc>https://inajob.github.io/iroiro-review/</loc>
-    <lastmod>2023-07-06T23:59:06+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://inajob.github.io/iroiro-review/tags/linux/</loc>
-    <lastmod>2023-07-06T23:59:06+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://inajob.github.io/iroiro-review/post/</loc>
-    <lastmod>2023-07-06T23:59:06+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://inajob.github.io/iroiro-review/tags/</loc>
     <lastmod>2023-07-06T23:59:06+00:00</lastmod>
   </url>
   
@@ -550,11 +565,6 @@
   <url>
     <loc>https://inajob.github.io/iroiro-review/tags/%E3%83%9E%E3%83%BC%E3%83%96%E3%83%AB%E3%83%9E%E3%82%B7%E3%83%B3/</loc>
     <lastmod>2023-04-27T23:26:23+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://inajob.github.io/iroiro-review/tags/%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/</loc>
-    <lastmod>2023-04-26T23:23:16+00:00</lastmod>
   </url>
   
   <url>
