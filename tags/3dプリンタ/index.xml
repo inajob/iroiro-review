@@ -5,9 +5,24 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 28 Jun 2023 21:27:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jul 2023 23:38:12 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>プラレールから発想を得た継ぎ手</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%97%E3%83%A9%E3%83%AC%E3%83%BC%E3%83%AB%E3%81%8B%E3%82%89%E7%99%BA%E6%83%B3%E3%82%92%E5%BE%97%E3%81%9F%E7%B6%99%E3%81%8E%E6%89%8B/</link>
+      <pubDate>Wed, 12 Jul 2023 23:38:12 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%97%E3%83%A9%E3%83%AC%E3%83%BC%E3%83%AB%E3%81%8B%E3%82%89%E7%99%BA%E6%83%B3%E3%82%92%E5%BE%97%E3%81%9F%E7%B6%99%E3%81%8E%E6%89%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/プラレールから発想を得た継ぎ手.jpg"&gt;livehackさんのTweetから発見。画像もここから転載。
+以前紹介した、[3Dプリンタ製の2つの部品をくっつけるための良い形状] (../../post/3Dプリンタ製の2つの部品をくっつけるための良い形状)にコメントいただいた新たな手法です。
+プラレールから発想を得た継ぎ手ということで、凹凸の組み合わせで2つの部品を結合しています。 凸部分の端にスリットを入れることで、プラスチックのたわみを利用してはめ込むための「あそび」を実現しているようです。
+全長40センチのキーボード用トレイを製作することがあるのですが、
+プラレールのジョイントから着想を得て、写真のような継ぎ手にしています。
+すこしキツめに作ることで、スリットでぎゅっと締まるようにしています。#3Dプリンター pic.twitter.com/URYsxzfkHL
+&amp;mdash; livehack (@livehack3d) May 23, 2023  </description>
+    </item>
     
     <item>
       <title>3Dプリンタでキートップを一体成型する</title>
@@ -125,18 +140,6 @@
   なんて書いていたら、実際に3Dプリントペンを使った補修を行った方から事例を紹介していただきました。
 3Dペン補修やってみたことありますが、全然強度出ません。3Dペンで盛ったあとにアクリサンデーとか200℃に温度調整したハンダゴテとかで融着させるとマシになります。https://t.co/2Z0CJfmNlt
 &amp;mdash; 紺屋健生🇺🇦 (@konya) May 22, 2023  なかなか一筋縄ではいかないようですね・・</description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタで作る一体成型のヒンジ</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E4%B8%80%E4%BD%93%E6%88%90%E5%9E%8B%E3%81%AE%E3%83%92%E3%83%B3%E3%82%B8/</link>
-      <pubDate>Thu, 18 May 2023 23:01:19 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E4%B8%80%E4%BD%93%E6%88%90%E5%9E%8B%E3%81%AE%E3%83%92%E3%83%B3%E3%82%B8/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作る一体成型のヒンジ.jpg"&gt;Hinges Live Inside 3D Printsから発見。画像もここから転載。
-3Dプリンタで作る一体成のヒンジのテクニックについての紹介記事です。
-開閉する機構に必要となる「ヒンジ」を3Dプリンタで作成するテクニックです。 丁番のような専用の金具を用いるのではなく、筐体と一体成型で作成することで、部品点数や組み立て工数を減らすことが出来ます。
- </description>
     </item>
     
   </channel>

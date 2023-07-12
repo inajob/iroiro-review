@@ -5,9 +5,24 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 12 Jul 2023 00:05:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jul 2023 23:38:12 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>プラレールから発想を得た継ぎ手</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%97%E3%83%A9%E3%83%AC%E3%83%BC%E3%83%AB%E3%81%8B%E3%82%89%E7%99%BA%E6%83%B3%E3%82%92%E5%BE%97%E3%81%9F%E7%B6%99%E3%81%8E%E6%89%8B/</link>
+      <pubDate>Wed, 12 Jul 2023 23:38:12 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%97%E3%83%A9%E3%83%AC%E3%83%BC%E3%83%AB%E3%81%8B%E3%82%89%E7%99%BA%E6%83%B3%E3%82%92%E5%BE%97%E3%81%9F%E7%B6%99%E3%81%8E%E6%89%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/プラレールから発想を得た継ぎ手.jpg"&gt;livehackさんのTweetから発見。画像もここから転載。
+以前紹介した、[3Dプリンタ製の2つの部品をくっつけるための良い形状] (../../post/3Dプリンタ製の2つの部品をくっつけるための良い形状)にコメントいただいた新たな手法です。
+プラレールから発想を得た継ぎ手ということで、凹凸の組み合わせで2つの部品を結合しています。 凸部分の端にスリットを入れることで、プラスチックのたわみを利用してはめ込むための「あそび」を実現しているようです。
+全長40センチのキーボード用トレイを製作することがあるのですが、
+プラレールのジョイントから着想を得て、写真のような継ぎ手にしています。
+すこしキツめに作ることで、スリットでぎゅっと締まるようにしています。#3Dプリンター pic.twitter.com/URYsxzfkHL
+&amp;mdash; livehack (@livehack3d) May 23, 2023  </description>
+    </item>
     
     <item>
       <title>お古のApple Watchのガワを利用した普通の腕時計</title>
@@ -126,19 +141,6 @@ Qrioというスマートロックの製品がありますが、先日このQrio
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/格安のRISC-Vチップを16個並べて作られた並列コンピュータ.jpg"&gt;A RISC-V Supercluster For Very Low Costから発見。画像もここから転載。
 CH32V003といえば、安価なRISC-VのICチップです。 これを16個並べて作られた並列コンピュータの作例です。 16個合わせても$2程度のコストのようです。
 まぁ、それぞれの性能はそこまで早いものでもないので、並べたところで、そこまで大規模な計算はできませんが、それぞれに別の仕事をさせつつ、チップ同士で連携するなど、今までとは違ったアーキテクチャの組み込み機器が出来るかもしれません。
- </description>
-    </item>
-    
-    <item>
-      <title>シルクスクリーンでドットマトリクスLEDの形をカスタマイズするテクニック</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%AB%E3%82%AF%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%81%A7%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%81%AE%E5%BD%A2%E3%82%92%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E3%81%99%E3%82%8B%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</link>
-      <pubDate>Sun, 07 May 2023 21:57:25 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%AB%E3%82%AF%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%81%A7%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%81%AE%E5%BD%A2%E3%82%92%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E3%81%99%E3%82%8B%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/シルクスクリーンでドットマトリクスLEDの形をカスタマイズするテクニック.jpg"&gt;LED Matrix Displays Get New Look Thanks To SMD Stencilsから発見。画像もここから転載。
-表面実装基板を作成するときに、はんだを塗るために利用するシルクスクリーンですが、基板発注と同様にデータを用意すれば、あらゆる形のシルクスクリーンを作ることが出来ます。
-この記事で紹介しているのは、このシルクスクリーンを使ってドットマトリクスLEDのドットの形をカスタマイズするという技です。
-見慣れたドットマトリクスLEDでも、このドットの形が違うだけで随分と違った印象になります。
  </description>
     </item>
     
