@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 12 Jul 2023 23:38:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jul 2023 23:52:36 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ゴムブロックで作られた物理的なカウンタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B4%E3%83%A0%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E7%89%A9%E7%90%86%E7%9A%84%E3%81%AA%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BF/</link>
+      <pubDate>Thu, 13 Jul 2023 23:52:36 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B4%E3%83%A0%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E7%89%A9%E7%90%86%E7%9A%84%E3%81%AA%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ゴムブロックで作られた物理的なカウンタ.jpg"&gt;This Block Of Rubber Can Count To Tenから発見。画像もここから転載。
+ゴムブロックで作られた物理的なカウンタの実験です。
+ゴムの物理特性をうまく生かして、押した回数を記録する仕組みを作っています。 これを組み合わせてもっと複雑なロジックが組めるようになると面白そうと感じました。
+ </description>
+    </item>
     
     <item>
       <title>プラレールから発想を得た継ぎ手</title>
@@ -117,18 +129,6 @@ ZX81のキーボードはメンブレンキーボードで、操作がしやす�
 車に搭載できる巨大なドットマトリクス印刷機の作例です。 Raspberry Piでリレー越しにソレノイドを制御し、弁を制御し印刷をしています。
 印刷といっても水を垂らすだけだが、これなら迷惑になりづらくて良さそうです。
  </description>
-    </item>
-    
-    <item>
-      <title>600行のC言語で書かれたRISC-Vエミュレータ</title>
-      <link>https://inajob.github.io/iroiro-review/post/600%E8%A1%8C%E3%81%AEc%E8%A8%80%E8%AA%9E%E3%81%A7%E6%9B%B8%E3%81%8B%E3%82%8C%E3%81%9Frisc-v%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF/</link>
-      <pubDate>Fri, 30 Jun 2023 00:02:42 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/600%E8%A1%8C%E3%81%AEc%E8%A8%80%E8%AA%9E%E3%81%A7%E6%9B%B8%E3%81%8B%E3%82%8C%E3%81%9Frisc-v%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/600行のC言語で書かれたRISC-Vエミュレータ.jpg"&gt;A 32-BIT RISC-V CPU CORE IN 600 LINES OF Cから発見。画像もここから転載。
-600行のC言語で書かれたRISC-Vエミュレータです。 RV32IMCの実装のようです。
-速度に心配はありますが、RISC-Vとは違うアーキテクチャのCPUでRISC-Vの資産を利用したいときに活躍しそうです。
-こういったエミュレータの活用例として、これとは別のRISC-Vエミュレータですが、Raspberry Pi PicoでLinuxを動かす作例を以前紹介しました。 このLinuxを動かす作例ではRV32imaのエミュレーションを行っています。</description>
     </item>
     
   </channel>

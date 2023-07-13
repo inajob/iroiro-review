@@ -5,9 +5,21 @@
     <description>Recent content in からくり on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 09 Nov 2022 21:58:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jul 2023 23:52:36 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ゴムブロックで作られた物理的なカウンタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B4%E3%83%A0%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E7%89%A9%E7%90%86%E7%9A%84%E3%81%AA%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BF/</link>
+      <pubDate>Thu, 13 Jul 2023 23:52:36 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B4%E3%83%A0%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E7%89%A9%E7%90%86%E7%9A%84%E3%81%AA%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ゴムブロックで作られた物理的なカウンタ.jpg"&gt;This Block Of Rubber Can Count To Tenから発見。画像もここから転載。
+ゴムブロックで作られた物理的なカウンタの実験です。
+ゴムの物理特性をうまく生かして、押した回数を記録する仕組みを作っています。 これを組み合わせてもっと複雑なロジックが組めるようになると面白そうと感じました。
+ </description>
+    </item>
     
     <item>
       <title>かっこいい機械式の16セグメント表示機</title>
