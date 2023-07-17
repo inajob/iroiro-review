@@ -5,9 +5,21 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 12 Jul 2023 23:38:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jul 2023 22:52:14 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>熱で色の変わる塗料をブレッドボードに塗るテクニック</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%86%B1%E3%81%A7%E8%89%B2%E3%81%AE%E5%A4%89%E3%82%8F%E3%82%8B%E5%A1%97%E6%96%99%E3%82%92%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AB%E5%A1%97%E3%82%8B%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</link>
+      <pubDate>Mon, 17 Jul 2023 22:52:14 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%86%B1%E3%81%A7%E8%89%B2%E3%81%AE%E5%A4%89%E3%82%8F%E3%82%8B%E5%A1%97%E6%96%99%E3%82%92%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AB%E5%A1%97%E3%82%8B%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/熱で色の変わる塗料をブレッドボードに塗るテクニック.jpg"&gt;Thermochromic Treatment Keeps Solderless Breadboards Smokelessから発見。画像もここから転載。
+熱で色の変わる塗料をブレッドボードに塗るテクニックです。
+抵抗やICなど、故障する一歩手前で非常に熱くなるのは、よく知られており、部品に小指を当てながら動作テストしたり、サーマルカメラで様子を見るなど、色々なテクニックがありますが、この記事では、とてもスマートな方法を紹介しています。
+知ってしまえば簡単ですが、電源も不要で、一度塗料をぬると他の機材も不要という画期的なアイデアです。</description>
+    </item>
     
     <item>
       <title>プラレールから発想を得た継ぎ手</title>
@@ -130,18 +142,6 @@ Qrioというスマートロックの製品がありますが、先日このQrio
   なんて書いていたら、実際に3Dプリントペンを使った補修を行った方から事例を紹介していただきました。
 3Dペン補修やってみたことありますが、全然強度出ません。3Dペンで盛ったあとにアクリサンデーとか200℃に温度調整したハンダゴテとかで融着させるとマシになります。https://t.co/2Z0CJfmNlt
 &amp;mdash; 紺屋健生🇺🇦 (@konya) May 22, 2023  なかなか一筋縄ではいかないようですね・・</description>
-    </item>
-    
-    <item>
-      <title>格安のRISC-Vチップを16個並べて作られた並列コンピュータ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%A0%BC%E5%AE%89%E3%81%AErisc-v%E3%83%81%E3%83%83%E3%83%97%E3%82%9216%E5%80%8B%E4%B8%A6%E3%81%B9%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E4%B8%A6%E5%88%97%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF/</link>
-      <pubDate>Mon, 08 May 2023 23:09:38 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%A0%BC%E5%AE%89%E3%81%AErisc-v%E3%83%81%E3%83%83%E3%83%97%E3%82%9216%E5%80%8B%E4%B8%A6%E3%81%B9%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E4%B8%A6%E5%88%97%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/格安のRISC-Vチップを16個並べて作られた並列コンピュータ.jpg"&gt;A RISC-V Supercluster For Very Low Costから発見。画像もここから転載。
-CH32V003といえば、安価なRISC-VのICチップです。 これを16個並べて作られた並列コンピュータの作例です。 16個合わせても$2程度のコストのようです。
-まぁ、それぞれの性能はそこまで早いものでもないので、並べたところで、そこまで大規模な計算はできませんが、それぞれに別の仕事をさせつつ、チップ同士で連携するなど、今までとは違ったアーキテクチャの組み込み機器が出来るかもしれません。
- </description>
     </item>
     
   </channel>
