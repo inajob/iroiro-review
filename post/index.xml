@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 18 Jul 2023 22:17:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jul 2023 23:18:24 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>サーボアレイを使ったマトリクス表示機</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B5%E3%83%BC%E3%83%9C%E3%82%A2%E3%83%AC%E3%82%A4%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
+      <pubDate>Wed, 19 Jul 2023 23:18:24 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B5%E3%83%BC%E3%83%9C%E3%82%A2%E3%83%AC%E3%82%A4%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/サーボアレイを使ったマトリクス表示機.jpg"&gt;サーボアレイを用いた一軸ジンバルによるメカニカルディスプレイあるいはインスタレーション（仮称） | ProtoPediaから発見。画像もここから転載。
+サーボを使って鏡や角度によって色が違って見える板を動かすことで画素を構成するマトリクス表示機の作例です。
+特に鏡を使った作例が味があって好きです。 サーボが1列ずつ動いていく様子もかわいらしいです。
+ </description>
+    </item>
     
     <item>
       <title>プログラムで生成する組み立て式のマーブルコースター</title>
@@ -117,18 +129,6 @@ iPhoneのケースは、バージョンが上がったり、別のものに買�
 iPhoneと同じサイズで、かつiPhoneの電卓アプリと同じ物理UIで電卓を作成されており、もともと物理世界の電卓をまねた、バーチャルのアプリが再び現実になるという、不思議な気持ちになります。
 使用済みのスマホケースを電卓に改造した「スマホ型電卓」を作りました。スマホケースをベースにしているので、スマホをいじるように片手で電卓の操作がしたくなります。#CASETiFYPartner #ReCASETiFY pic.twitter.com/hsMmWXKfjV
 &amp;mdash; ミチル (@mitiruxxx) May 31, 2023  </description>
-    </item>
-    
-    <item>
-      <title>Raspberry Pi Picoを搭載したZX Spectrumエミュレータ</title>
-      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fzx-spectrum%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF/</link>
-      <pubDate>Tue, 04 Jul 2023 21:47:32 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fzx-spectrum%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi Picoを搭載したZX Spectrumエミュレータ.jpg"&gt;A Pico-Based ZX Spectrum Emulatorから発見。画像もここから転載。
-Raspberry Pi Picoを搭載した画面付きのZX Spectrumエミュレータです。 コンパクトな筐体に画面もキーボードも搭載されており、可愛いです。
-Raspberry Pi Picoは頑張るとHDMI出力ができるので、このようにグラフィックカード的な使い方もできて面白いです。
- </description>
     </item>
     
   </channel>
