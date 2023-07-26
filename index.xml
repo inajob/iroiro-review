@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 24 Jul 2023 23:28:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jul 2023 00:04:25 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>トリチウムの放射光を使ってソーラーパネル付き電卓を動かす</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%88%E3%83%AA%E3%83%81%E3%82%A6%E3%83%A0%E3%81%AE%E6%94%BE%E5%B0%84%E5%85%89%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%82%BD%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%91%E3%83%8D%E3%83%AB%E4%BB%98%E3%81%8D%E9%9B%BB%E5%8D%93%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</link>
+      <pubDate>Wed, 26 Jul 2023 00:04:25 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%88%E3%83%AA%E3%83%81%E3%82%A6%E3%83%A0%E3%81%AE%E6%94%BE%E5%B0%84%E5%85%89%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%82%BD%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%91%E3%83%8D%E3%83%AB%E4%BB%98%E3%81%8D%E9%9B%BB%E5%8D%93%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/トリチウムの放射光を使ってソーラーパネル付き電卓を動かす.jpg"&gt;Tritium Powered Mini Calculatorから発見。画像もここから転載。
+トリチウムの放射光をソーラーパネルで受け止め電力をためることで、電源なしで動く電卓を実現しています。
+発電される電気はわずかであるため、1晩充電して1分動作できる程度のようですが、容量を大きくすることも難しくはなさそうです。
+一般的にトリチウム管は10年ほど発光し続けるようなので、この電卓もそのくらいは動かし続けることが出来そうです。
+ </description>
+    </item>
     
     <item>
       <title>太陽光をレンズで収束させて雑草を破壊する装置</title>
@@ -119,17 +132,6 @@
 お古のApple Watchのガワを利用した普通の腕時計の作例です。 既存のリューズ穴などを活用するため、様々な努力をしています。
 ここまでするのは流石に大変ですが、既製品のケースを流用して、別の製品に転用するのはアイデアとして面白いです。
  </description>
-    </item>
-    
-    <item>
-      <title>18650バッテリーを10個同時に充電できる装置</title>
-      <link>https://inajob.github.io/iroiro-review/post/18650%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%82%9210%E5%80%8B%E5%90%8C%E6%99%82%E3%81%AB%E5%85%85%E9%9B%BB%E3%81%A7%E3%81%8D%E3%82%8B%E8%A3%85%E7%BD%AE/</link>
-      <pubDate>Mon, 10 Jul 2023 23:41:11 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/18650%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%82%9210%E5%80%8B%E5%90%8C%E6%99%82%E3%81%AB%E5%85%85%E9%9B%BB%E3%81%A7%E3%81%8D%E3%82%8B%E8%A3%85%E7%BD%AE/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/18650バッテリーを10個同時に充電できる装置.jpg"&gt;World&amp;rsquo;s Biggest Li-Ion Battery Charging Stationから発見。画像もここから転載。
-18650バッテリーを10個同時に充電できる装置の作例です。
-1セルを充電できるモジュールを10個並列に並べるという素朴な設計ですが、このモジュールは安価なので、意外と合理的な設計なのかもしれません。</description>
     </item>
     
   </channel>
