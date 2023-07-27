@@ -5,9 +5,21 @@
     <description>Recent content in ESP32 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 06 Jul 2023 23:59:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2023 23:05:54 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/esp32/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32をコアとしたArduino公式の開発ボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9Farduino%E5%85%AC%E5%BC%8F%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Thu, 27 Jul 2023 23:05:54 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9Farduino%E5%85%AC%E5%BC%8F%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32をコアとしたArduino公式の開発ボード.jpg"&gt;Nano ESP32から発見。画像もここから転載。
+Arduino公式からESP32-S3をコアとしたArduino Nanoフォームファクタの開発ボードが出ました。
+まだ日本の技適を取得している様子はないので、すぐに試すのは難しそうですが、ESP32をコアとしたソフトウェアとしてのArduinoはすでに十分に普及しているので、使い勝手はなんとなく想像がつきます。
+USBコネクタがType-Cだったり、端面スルーホールになっていたりと、痒い所に手が届く設計になっています。</description>
+    </item>
     
     <item>
       <title>ESP32-S3でLinuxがブートするらしい</title>
@@ -141,18 +153,6 @@ Arduino IDEにインポートするライブラリが自明ではない この�
  Audioという名前でライブラリマネージャを検索して出てくるライブラリではないので注意 こちらはライブラリマネージャにないのでGitHubからZIPファイルをダウンロードしてインストールする    SPI_eTFTの設定 SPI_eTFTの設定は、インストールしたライブラリのファイルを直接書き換える方法により行います（もっと行儀のよい方法があれば教えてほしいです・・）
 User_Setup_Select.hの以下の行のコメントを外す
  #include &amp;lt;User_Setups/Setup24_ST7789.</description>
-    </item>
-    
-    <item>
-      <title>ESP32で動くVGA出力機能付きのテキストエディタ</title>
-      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%81%A7%E5%8B%95%E3%81%8Fvga%E5%87%BA%E5%8A%9B%E6%A9%9F%E8%83%BD%E4%BB%98%E3%81%8D%E3%81%AE%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF/</link>
-      <pubDate>Sun, 04 Dec 2022 23:18:39 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%81%A7%E5%8B%95%E3%81%8Fvga%E5%87%BA%E5%8A%9B%E6%A9%9F%E8%83%BD%E4%BB%98%E3%81%8D%E3%81%AE%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32で動くVGA出力機能付きのテキストエディタ.jpg"&gt;GitHub - maksimKorzh/esp32-kilo: Kilo text editor port to esp32 using FabGLから発見。画像もここから転載。
-ESP32でVGA出力付きのテキストエディタの作例です。 エディタ界隈では有名(?)なkiloという実装を参考に作られており、短いコードでテキストエディタが作られています。
-画面出力部分はFabGLを利用しているため、ソースコードは600行程度とシンプルにまとまっています。
-ESP32を使ったDOSみたいな仕組みがあると、結構何でもできてしまうのではないかと妄想が膨らみます。</description>
     </item>
     
   </channel>
