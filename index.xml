@@ -5,9 +5,25 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 26 Jul 2023 00:04:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jul 2023 23:58:26 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>8bit自動作曲システム</title>
+      <link>https://inajob.github.io/iroiro-review/post/8bit%E8%87%AA%E5%8B%95%E4%BD%9C%E6%9B%B2%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/</link>
+      <pubDate>Wed, 26 Jul 2023 23:58:26 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/8bit%E8%87%AA%E5%8B%95%E4%BD%9C%E6%9B%B2%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/8bit自動作曲システム.jpg"&gt;frenchbreadさんのTweetから発見。画像もここから転載。
+ブラウザで動作する8bit自動作曲システムです。 ブラウザでアクセス すると作曲ソフトが起動して、それっぽい8bitゲームサウンドを作成してくれます。
+コード進行などもいい感じのプリセットがいくつか用意されており、これらをポチポチ選ぶだけで曲の雰囲気を変更することもできます。
+このソフト自体がPython製のゲームエンジンPyxelで作成されており、これで生成した音楽もPyxelで作ったゲームで簡単に利用できるようです。
+8ビット風BGMを自動生成するWebアプリ「8bit BGM Generator」を作りました。
+スマホだとちょっとボタンが小さいですが、ブラウザでも動くのでぜひ遊んでみてください🎶https://t.co/Vqx1XRulur
+詳しい説明（ローカル版のダウンロードもここから）https://t.co/3fTlrJ5vk3 pic.twitter.com/5hCuqNIZzZ
+&amp;mdash; frenchbread (@frenchbread1222) May 19, 2023  </description>
+    </item>
     
     <item>
       <title>トリチウムの放射光を使ってソーラーパネル付き電卓を動かす</title>
@@ -120,18 +136,6 @@
 プラレールのジョイントから着想を得て、写真のような継ぎ手にしています。
 すこしキツめに作ることで、スリットでぎゅっと締まるようにしています。#3Dプリンター pic.twitter.com/URYsxzfkHL
 &amp;mdash; livehack (@livehack3d) May 23, 2023  </description>
-    </item>
-    
-    <item>
-      <title>お古のApple Watchのガワを利用した普通の腕時計</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8A%E5%8F%A4%E3%81%AEapple-watch%E3%81%AE%E3%82%AC%E3%83%AF%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E6%99%AE%E9%80%9A%E3%81%AE%E8%85%95%E6%99%82%E8%A8%88/</link>
-      <pubDate>Wed, 12 Jul 2023 00:05:03 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8A%E5%8F%A4%E3%81%AEapple-watch%E3%81%AE%E3%82%AC%E3%83%AF%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E6%99%AE%E9%80%9A%E3%81%AE%E8%85%95%E6%99%82%E8%A8%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/お古のApple Watchのガワを利用した普通の腕時計.jpg"&gt;Apple Invent The Mechanical Watchから発見。画像もここから転載。
-お古のApple Watchのガワを利用した普通の腕時計の作例です。 既存のリューズ穴などを活用するため、様々な努力をしています。
-ここまでするのは流石に大変ですが、既製品のケースを流用して、別の製品に転用するのはアイデアとして面白いです。
- </description>
     </item>
     
   </channel>
