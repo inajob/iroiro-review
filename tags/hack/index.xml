@@ -5,9 +5,21 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 17 Jul 2023 22:52:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Jul 2023 23:16:12 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>デニム生地をエキポシで固めて作られたテーブル</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%87%E3%83%8B%E3%83%A0%E7%94%9F%E5%9C%B0%E3%82%92%E3%82%A8%E3%82%AD%E3%83%9D%E3%82%B7%E3%81%A7%E5%9B%BA%E3%82%81%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB/</link>
+      <pubDate>Mon, 31 Jul 2023 23:16:12 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%87%E3%83%8B%E3%83%A0%E7%94%9F%E5%9C%B0%E3%82%92%E3%82%A8%E3%82%AD%E3%83%9D%E3%82%B7%E3%81%A7%E5%9B%BA%E3%82%81%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/デニム生地をエキポシで固めて作られたテーブル.jpg"&gt;Denim Epoxy Table Is A Work Of Artから発見。画像もここから転載。
+ジーパンの記事であるデニムを重ねて、エキポシで固め、テーブルの天板としています。
+研磨したり、きれいなコンセントを付けたり、味のある足を作ったりと、かなり大変そうですが、とても素敵なテーブルとなっています。
+ </description>
+    </item>
     
     <item>
       <title>熱で色の変わる塗料をブレッドボードに塗るテクニック</title>
@@ -127,21 +139,6 @@ Qrioというスマートロックの製品がありますが、先日このQrio
 最小限の部品でUSB機器として認識させる実験です。 レギュレータと抵抗とDIPスイッチ、電解コンデンサだけで「不明なデバイス」とPCに認識させられるようです。
 まだDIPスイッチのパターンに応じて、low-speedモードや通常のモードであることを伝えることが出来るため、この手法を応用するとフルでUSBスタックを実装しなくてもPCにUSBケーブル経由で情報を伝えることが出来るようです。
  </description>
-    </item>
-    
-    <item>
-      <title>割れたプラスチックを溶かした結束バンドで補修する</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%89%B2%E3%82%8C%E3%81%9F%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E3%82%92%E6%BA%B6%E3%81%8B%E3%81%97%E3%81%9F%E7%B5%90%E6%9D%9F%E3%83%90%E3%83%B3%E3%83%89%E3%81%A7%E8%A3%9C%E4%BF%AE%E3%81%99%E3%82%8B/</link>
-      <pubDate>Sun, 21 May 2023 23:32:59 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%89%B2%E3%82%8C%E3%81%9F%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E3%82%92%E6%BA%B6%E3%81%8B%E3%81%97%E3%81%9F%E7%B5%90%E6%9D%9F%E3%83%90%E3%83%B3%E3%83%89%E3%81%A7%E8%A3%9C%E4%BF%AE%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/割れたプラスチックを溶かした結束バンドで補修する.jpg"&gt;Zippy Plastic Weldingから発見。画像もここから転載。
-表面を荒く研磨して、結束バンドをホットグルーガンで溶かして注入することで、割れたプラスチックを溶かした結束バンドで補修しています。
-実際ちゃんとこれを行うためには、適切な種類のプラスチックの選定や、温度管理などをしないとうまくいかないように思いますが、3Dプリンタの成果物同士をくっつける際などにも利用できそうなテクニックです。
-3Dプリントの場合は、同じ素材はフィラメントから簡単に得られますし、注入用の機械も、3Dプリントペンなどがあるので、気軽に試すことが出来そうです。
-  なんて書いていたら、実際に3Dプリントペンを使った補修を行った方から事例を紹介していただきました。
-3Dペン補修やってみたことありますが、全然強度出ません。3Dペンで盛ったあとにアクリサンデーとか200℃に温度調整したハンダゴテとかで融着させるとマシになります。https://t.co/2Z0CJfmNlt
-&amp;mdash; 紺屋健生🇺🇦 (@konya) May 22, 2023  なかなか一筋縄ではいかないようですね・・</description>
     </item>
     
   </channel>
