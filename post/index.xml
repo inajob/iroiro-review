@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 31 Jul 2023 23:16:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Aug 2023 23:42:55 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>エポキシシートを太陽光で加工する</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%A8%E3%83%9D%E3%82%AD%E3%82%B7%E3%82%B7%E3%83%BC%E3%83%88%E3%82%92%E5%A4%AA%E9%99%BD%E5%85%89%E3%81%A7%E5%8A%A0%E5%B7%A5%E3%81%99%E3%82%8B/</link>
+      <pubDate>Tue, 01 Aug 2023 23:42:55 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%A8%E3%83%9D%E3%82%AD%E3%82%B7%E3%82%B7%E3%83%BC%E3%83%88%E3%82%92%E5%A4%AA%E9%99%BD%E5%85%89%E3%81%A7%E5%8A%A0%E5%B7%A5%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/エポキシシートを太陽光で加工する.jpg"&gt;Using The Sun To Turn Epoxy Into Furnitureから発見。画像もここから転載。
+エポキシシートを太陽光で加工する手法です。 エポキシシートは太陽光に長くさらされると変形してしまうのですが、この作例ではこの特性を逆に利用して、加工しています。
+曲げた後研磨したりと、後処理が大変そうですが太陽光で加工できるのは手軽でよさそうです。
+ </description>
+    </item>
     
     <item>
       <title>デニム生地をエポキシで固めて作られたテーブル</title>
@@ -119,18 +131,6 @@ USBコネクタがType-Cだったり、端面スルーホールになってい�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/サーボアレイを使ったマトリクス表示機.jpg"&gt;サーボアレイを用いた一軸ジンバルによるメカニカルディスプレイあるいはインスタレーション（仮称） | ProtoPediaから発見。画像もここから転載。
 サーボを使って鏡や角度によって色が違って見える板を動かすことで画素を構成するマトリクス表示機の作例です。
 特に鏡を使った作例が味があって好きです。 サーボが1列ずつ動いていく様子もかわいらしいです。
- </description>
-    </item>
-    
-    <item>
-      <title>プログラムで生成する組み立て式のマーブルコースター</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%A7%E7%94%9F%E6%88%90%E3%81%99%E3%82%8B%E7%B5%84%E3%81%BF%E7%AB%8B%E3%81%A6%E5%BC%8F%E3%81%AE%E3%83%9E%E3%83%BC%E3%83%96%E3%83%AB%E3%82%B3%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC/</link>
-      <pubDate>Tue, 18 Jul 2023 22:17:40 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%A7%E7%94%9F%E6%88%90%E3%81%99%E3%82%8B%E7%B5%84%E3%81%BF%E7%AB%8B%E3%81%A6%E5%BC%8F%E3%81%AE%E3%83%9E%E3%83%BC%E3%83%96%E3%83%AB%E3%82%B3%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/プログラムで生成する組み立て式のマーブルコースター.jpg"&gt;Gumball Coaster Is 3D-Printed Candy Funから発見。画像もここから転載。
-プログラムで生成する3Dプリンタ製の組み立て式のマーブルコースターの仕組みです。 コースの形状をjsonで記述することで、3Dプリント用のモデルを生成するというものです。
-パーツを組み合わせる方式なので、造形範囲の小さな3Dプリンタでも作れそうです。
  </description>
     </item>
     
