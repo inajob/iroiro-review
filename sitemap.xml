@@ -3,27 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://inajob.github.io/iroiro-review/</loc>
+    <lastmod>2023-08-07T23:33:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/post/</loc>
+    <lastmod>2023-08-07T23:33:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico/</loc>
+    <lastmod>2023-08-07T23:33:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/post/sd%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AB%E8%A8%AD%E5%AE%9A%E3%82%92%E4%BF%9D%E5%AD%98%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%91%E3%83%83%E3%83%89/</loc>
+    <lastmod>2023-08-07T23:33:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/tags/</loc>
+    <lastmod>2023-08-07T23:33:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/tags/%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%91%E3%83%83%E3%83%89/</loc>
+    <lastmod>2023-08-07T23:33:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/tags/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</loc>
+    <lastmod>2023-08-07T23:33:46+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://inajob.github.io/iroiro-review/post/attiniy85%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fdiy%E3%81%AE%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</loc>
     <lastmod>2023-08-06T23:30:56+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://inajob.github.io/iroiro-review/tags/attiny85/</loc>
-    <lastmod>2023-08-06T23:30:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://inajob.github.io/iroiro-review/</loc>
-    <lastmod>2023-08-06T23:30:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://inajob.github.io/iroiro-review/post/</loc>
-    <lastmod>2023-08-06T23:30:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://inajob.github.io/iroiro-review/tags/</loc>
     <lastmod>2023-08-06T23:30:56+00:00</lastmod>
   </url>
   
@@ -268,11 +288,6 @@
   </url>
   
   <url>
-    <loc>https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico/</loc>
-    <lastmod>2023-07-04T21:47:32+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fzx-spectrum%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF/</loc>
     <lastmod>2023-07-04T21:47:32+00:00</lastmod>
   </url>
@@ -289,11 +304,6 @@
   
   <url>
     <loc>https://inajob.github.io/iroiro-review/post/%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%AB%E3%83%AB%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E7%89%88%E3%81%AEzx81%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</loc>
-    <lastmod>2023-07-03T23:38:09+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://inajob.github.io/iroiro-review/tags/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</loc>
     <lastmod>2023-07-03T23:38:09+00:00</lastmod>
   </url>
   
@@ -474,11 +484,6 @@
   
   <url>
     <loc>https://inajob.github.io/iroiro-review/post/ch552%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F3%E3%81%AE%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%91%E3%83%83%E3%83%89/</loc>
-    <lastmod>2023-06-08T23:13:08+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://inajob.github.io/iroiro-review/tags/%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%91%E3%83%83%E3%83%89/</loc>
     <lastmod>2023-06-08T23:13:08+00:00</lastmod>
   </url>
   

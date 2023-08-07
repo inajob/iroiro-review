@@ -5,9 +5,20 @@
     <description>Recent content in マクロパッド on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 08 Jun 2023 23:13:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Aug 2023 23:33:46 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%91%E3%83%83%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SDカードに設定を保存できるマクロパッド</title>
+      <link>https://inajob.github.io/iroiro-review/post/sd%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AB%E8%A8%AD%E5%AE%9A%E3%82%92%E4%BF%9D%E5%AD%98%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%91%E3%83%83%E3%83%89/</link>
+      <pubDate>Mon, 07 Aug 2023 23:33:46 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/sd%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AB%E8%A8%AD%E5%AE%9A%E3%82%92%E4%BF%9D%E5%AD%98%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%91%E3%83%83%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/SDカードに設定を保存できるマクロパッド.jpg"&gt;Console Macropad Uses SD Cards For Stylin’ And Profilin’から発見。画像もここから転載。
+キーボードのお供として利用できるマクロパッドの作例です。 マクロパッドは、アプリケーション用にカスタマイズすることでその進化を発揮します。
+複数のアプリケーションに対応したマクロパッドの中には、ソフトに応じてキーのプリセットを変更できるものも有り、この作例もそういったマクロパッドです。 特にこのマクロパッドはSDカードに設定を記録できるという特徴を持っており、各キーの役割や点灯色、OLEDへの表示内容などをテキストファイルでSDカードに入れておくことで、プリセットを設定し、またそれらを切り替えて利用できます。</description>
+    </item>
     
     <item>
       <title>CH552を搭載した$3のマクロパッド</title>
