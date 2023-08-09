@@ -5,9 +5,18 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 07 Aug 2023 23:33:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Aug 2023 23:56:05 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32</title>
+      <link>https://inajob.github.io/iroiro-review/tags/esp32/</link>
+      <pubDate>Tue, 08 Aug 2023 23:56:05 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/esp32/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>Raspberry Pi Pico</title>
@@ -87,15 +96,6 @@
       <pubDate>Wed, 02 Aug 2023 23:43:20 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>エポキシ</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E3%82%A8%E3%83%9D%E3%82%AD%E3%82%B7/</link>
-      <pubDate>Tue, 01 Aug 2023 23:42:55 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E3%82%A8%E3%83%9D%E3%82%AD%E3%82%B7/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
