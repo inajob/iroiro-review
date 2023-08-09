@@ -5,9 +5,26 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 08 Aug 2023 23:56:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Aug 2023 23:49:30 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RP2040搭載の単漢字変換端末</title>
+      <link>https://inajob.github.io/iroiro-review/post/rp2040%E6%90%AD%E8%BC%89%E3%81%AE%E5%8D%98%E6%BC%A2%E5%AD%97%E5%A4%89%E6%8F%9B%E7%AB%AF%E6%9C%AB/</link>
+      <pubDate>Wed, 09 Aug 2023 23:49:30 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/rp2040%E6%90%AD%E8%BC%89%E3%81%AE%E5%8D%98%E6%BC%A2%E5%AD%97%E5%A4%89%E6%8F%9B%E7%AB%AF%E6%9C%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/RP2040搭載の単漢字変換端末.jpg"&gt;PIMORONI Badger 2040 / W + CardKB で単漢字変換 とかから発見。画像もここから転載。
+RP2040搭載電子ペーパー搭載の開発ボードであるPIMORONI Badger 2040W を使って単漢字変換端末を実現しています。 キーボードはCardKBを搭載しています。
+日本人が使う端末では、「日本語が入力できるか」というのは非常に重要ですが、なかなか簡単に導入できるライブラリなどがありません。
+この作例では、非常に単純な単漢字変換のアルゴリズムの日本語変換ロジックを実装しています。 ソースコードはMicroPythonで記述されており、RP2040で簡単に試すことができそうです。
+...とかいってるだけではしょうがないので
+試しに 非常に原始的な ローマ字単漢字変換を試作
+PIMORONI badger 2040 W + CardKB で漢字入力...しかし原始的な単漢字変換はやはりきつい
+CardKBの入力し辛さ、eINKのもっさり感と相まって40年以上に前にこんな感じのを見たことがあるような雰囲気 pic.twitter.com/W2LbIP0S6f
+&amp;mdash; n602💉💉💉💉 (@n602_NA) August 2, 2023  </description>
+    </item>
     
     <item>
       <title>ESP32をコアとしたオープンソースのスマートフォン</title>
@@ -113,22 +130,6 @@ ATtiny85で動くゲームはtinyjoypad のページでたくさん公開され�
 Arduino公式からESP32-S3をコアとしたArduino Nanoフォームファクタの開発ボードが出ました。
 まだ日本の技適を取得している様子はないので、すぐに試すのは難しそうですが、ESP32をコアとしたソフトウェアとしてのArduinoはすでに十分に普及しているので、使い勝手はなんとなく想像がつきます。
 USBコネクタがType-Cだったり、端面スルーホールになっていたりと、痒い所に手が届く設計になっています。</description>
-    </item>
-    
-    <item>
-      <title>8bit自動作曲システム</title>
-      <link>https://inajob.github.io/iroiro-review/post/8bit%E8%87%AA%E5%8B%95%E4%BD%9C%E6%9B%B2%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/</link>
-      <pubDate>Wed, 26 Jul 2023 23:58:26 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/8bit%E8%87%AA%E5%8B%95%E4%BD%9C%E6%9B%B2%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/8bit自動作曲システム.jpg"&gt;frenchbreadさんのTweetから発見。画像もここから転載。
-ブラウザで動作する8bit自動作曲システムです。 ブラウザでアクセス すると作曲ソフトが起動して、それっぽい8bitゲームサウンドを作成してくれます。
-コード進行などもいい感じのプリセットがいくつか用意されており、これらをポチポチ選ぶだけで曲の雰囲気を変更することもできます。
-このソフト自体がPython製のゲームエンジンPyxelで作成されており、これで生成した音楽もPyxelで作ったゲームで簡単に利用できるようです。
-8ビット風BGMを自動生成するWebアプリ「8bit BGM Generator」を作りました。
-スマホだとちょっとボタンが小さいですが、ブラウザでも動くのでぜひ遊んでみてください🎶https://t.co/Vqx1XRulur
-詳しい説明（ローカル版のダウンロードもここから）https://t.co/3fTlrJ5vk3 pic.twitter.com/5hCuqNIZzZ
-&amp;mdash; frenchbread (@frenchbread1222) May 19, 2023  </description>
     </item>
     
   </channel>
