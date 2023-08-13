@@ -5,9 +5,21 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 02 Aug 2023 23:43:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Aug 2023 23:56:20 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタ製の靴</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E9%9D%B4/</link>
+      <pubDate>Sun, 13 Aug 2023 23:56:20 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E9%9D%B4/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ製の靴.jpg"&gt;If The Shoe Doesn’t Fit, Print It!から発見。画像もここから転載。
+3Dプリンタ製の靴です。 まぁ靴というかサンダルの底板という感じですが、この単純な形状ゆえに、自分の3Dプリンタでも簡単に試すことができそうです。 靴底の素材は柔軟性のあるTPUを想定しているようです。 ケースのデータもあり、製品っぽい作りになっているのも印象的です。
+データはOpenSCADなので、カスタマイズも比較的簡単そうです。
+自分の足にピッタリの靴、体験してみたいです。 （このようなサンダルの形状でもそういう「ぴったり感」はあるのだろうか？と気になります）</description>
+    </item>
     
     <item>
       <title>3Dプリンタを改造して作られたペンプロッタ</title>
@@ -123,19 +135,6 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ製のカレンダーパズル.jpg"&gt;Daily Hexagonal Puzzle by shiuraから発見。画像もここから転載。
 毎日違う面を遊ぶことが出来るパズルゲームです。
 六角形が並んだような盤面に、日付と月名が書かれており、ピースを組み合わせて、本日の日付、月名以外を覆い隠すようなパターンを探るというものです。
- </description>
-    </item>
-    
-    <item>
-      <title>和音も演奏できる電子サックス的な楽器</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%92%8C%E9%9F%B3%E3%82%82%E6%BC%94%E5%A5%8F%E3%81%A7%E3%81%8D%E3%82%8B%E9%9B%BB%E5%AD%90%E3%82%B5%E3%83%83%E3%82%AF%E3%82%B9%E7%9A%84%E3%81%AA%E6%A5%BD%E5%99%A8/</link>
-      <pubDate>Mon, 29 May 2023 23:56:13 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%92%8C%E9%9F%B3%E3%82%82%E6%BC%94%E5%A5%8F%E3%81%A7%E3%81%8D%E3%82%8B%E9%9B%BB%E5%AD%90%E3%82%B5%E3%83%83%E3%82%AF%E3%82%B9%E7%9A%84%E3%81%AA%E6%A5%BD%E5%99%A8/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/和音も演奏できる電子サックス的な楽器.jpg"&gt;3D Printed Breath-Controlled MIDI Deviceから発見。画像もここから転載。
-和音も演奏できる電子サックス的な楽器の作例です。
-管楽器風の呼吸で強弱をつける仕組みになっており、大量に並んだボタンで、単音や和音を自在に出すことが出来ます。
-裏面にはリニアタッチセンサーが搭載され、ピッチベンドなどン機能を割り振ることが出来ます。
  </description>
     </item>
     
