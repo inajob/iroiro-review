@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 13 Aug 2023 23:56:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Aug 2023 23:38:49 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>USBのType-AとType-C一体化ソケットのブレイクアウトボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/usb%E3%81%AEtype-a%E3%81%A8type-c%E4%B8%80%E4%BD%93%E5%8C%96%E3%82%BD%E3%82%B1%E3%83%83%E3%83%88%E3%81%AE%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AF%E3%82%A2%E3%82%A6%E3%83%88%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Mon, 14 Aug 2023 23:38:49 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/usb%E3%81%AEtype-a%E3%81%A8type-c%E4%B8%80%E4%BD%93%E5%8C%96%E3%82%BD%E3%82%B1%E3%83%83%E3%83%88%E3%81%AE%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AF%E3%82%A2%E3%82%A6%E3%83%88%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/USBのType-AとType-C一体化ソケットのブレイクアウトボード.jpg"&gt;Dual USB Breakout by SB Components on Tindieから発見。画像もここから転載。
+USBのType-AとType-C一体化ソケットのブレイクアウトボードです。
+こんな2種のコネクタがくっついたパーツがあったのか！という驚きが有りました。 これは、このユニークな部品をブレッドボードで簡単に扱うためのブレイクアウトボードです。</description>
+    </item>
     
     <item>
       <title>3Dプリンタ製の靴</title>
@@ -119,17 +130,6 @@ ATtiny85で動くゲームはtinyjoypad のページでたくさん公開され�
 ジーパンの記事であるデニムを重ねて、エポキシで固め、テーブルの天板としています。
 研磨したり、きれいなコンセントを付けたり、味のある足を作ったりと、かなり大変そうですが、とても素敵なテーブルとなっています。
  </description>
-    </item>
-    
-    <item>
-      <title>DCモーターを使ったポンプを10並列する</title>
-      <link>https://inajob.github.io/iroiro-review/post/dc%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%9D%E3%83%B3%E3%83%97%E3%82%9210%E4%B8%A6%E5%88%97%E3%81%99%E3%82%8B/</link>
-      <pubDate>Sun, 30 Jul 2023 23:25:20 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/dc%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%9D%E3%83%B3%E3%83%97%E3%82%9210%E4%B8%A6%E5%88%97%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/DCモーターを使ったポンプを10並列する.jpg"&gt;Powerful Water Pump Is Modular In Natureから発見。画像もここから転載。
-水を吸い上げるポンプの仕組みは様々なものがありますが、この作例ではDCモーターを使ったシンプルな機構を使っています。
-ユニークなのは、このポンプを10個並列で並べている点です。これにより1つではたいしたことのない威力のポンプをパワフルなものにしています。</description>
     </item>
     
   </channel>
