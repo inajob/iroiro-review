@@ -5,9 +5,21 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 16 Aug 2023 23:29:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Aug 2023 23:37:24 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリントのパーツを組み合わせる際に継ぎ目にこだわる</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E3%83%91%E3%83%BC%E3%83%84%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%82%8B%E9%9A%9B%E3%81%AB%E7%B6%99%E3%81%8E%E7%9B%AE%E3%81%AB%E3%81%93%E3%81%A0%E3%82%8F%E3%82%8B/</link>
+      <pubDate>Thu, 17 Aug 2023 23:37:24 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E3%83%91%E3%83%BC%E3%83%84%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%82%8B%E9%9A%9B%E3%81%AB%E7%B6%99%E3%81%8E%E7%9B%AE%E3%81%AB%E3%81%93%E3%81%A0%E3%82%8F%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリントのパーツを組み合わせる際に継ぎ目にこだわる.jpg"&gt;Enhance Your Enclosures With A Shadow Lineから発見。画像もここから転載。
+3Dプリントのパーツを組み合わせる際に継ぎ目を工夫している事例です。 これは射出成形で用いられる継ぎ目のテクニックのようですが3Dプリンタでも有効なようです。
+継ぎ目の部分が微妙な誤差で隙間が空いてしまうのを防いだり、重ねて組み立てるときにずれることを防ぐなどの効果があるようです。
+ </description>
+    </item>
     
     <item>
       <title>造形の嵌め合わせの調整を歯医者用の紙を使って行う</title>
@@ -128,18 +140,6 @@ Qrioというスマートロックの製品がありますが、先日このQrio
 &amp;mdash; ひろみつ (@bakueikozo) May 18, 2023  あれこれやった結果、Qrioの元のマイコンも剥がさず、本体無改造で隠しコネクタから自前ビルドのファームの書き込みに成功。
 完全掌握。 https://t.co/FVdjAHfv0E pic.twitter.com/TdG9mmyewb
 &amp;mdash; ひろみつ (@bakueikozo) May 23, 2023  </description>
-    </item>
-    
-    <item>
-      <title>スマートズボンのチャック</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%BA%E3%83%9C%E3%83%B3%E3%81%AE%E3%83%81%E3%83%A3%E3%83%83%E3%82%AF/</link>
-      <pubDate>Tue, 30 May 2023 23:27:30 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%BA%E3%83%9C%E3%83%B3%E3%81%AE%E3%83%81%E3%83%A3%E3%83%83%E3%82%AF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/スマートズボンのチャック.jpg"&gt;Smart Pants Sound Alarm When Your Fly Is Undoneから発見。画像もここから転載。
-いわゆる「社会の窓」が開いている状態を通知してくれるスマートズボンのチャックの作例です。
-ホールセンサーを使うことで、チャック本体にあまり改造をほどくことなしにセンシングを実現しています。
-装置自身の防水性などの問題があるので、これを製品化するのはなかなか大変そうですが・・</description>
     </item>
     
   </channel>

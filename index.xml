@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 16 Aug 2023 23:29:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Aug 2023 23:37:24 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリントのパーツを組み合わせる際に継ぎ目にこだわる</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E3%83%91%E3%83%BC%E3%83%84%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%82%8B%E9%9A%9B%E3%81%AB%E7%B6%99%E3%81%8E%E7%9B%AE%E3%81%AB%E3%81%93%E3%81%A0%E3%82%8F%E3%82%8B/</link>
+      <pubDate>Thu, 17 Aug 2023 23:37:24 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E3%83%91%E3%83%BC%E3%83%84%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%82%8B%E9%9A%9B%E3%81%AB%E7%B6%99%E3%81%8E%E7%9B%AE%E3%81%AB%E3%81%93%E3%81%A0%E3%82%8F%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリントのパーツを組み合わせる際に継ぎ目にこだわる.jpg"&gt;Enhance Your Enclosures With A Shadow Lineから発見。画像もここから転載。
+3Dプリントのパーツを組み合わせる際に継ぎ目を工夫している事例です。 これは射出成形で用いられる継ぎ目のテクニックのようですが3Dプリンタでも有効なようです。
+継ぎ目の部分が微妙な誤差で隙間が空いてしまうのを防いだり、重ねて組み立てるときにずれることを防ぐなどの効果があるようです。
+ </description>
+    </item>
     
     <item>
       <title>造形の嵌め合わせの調整を歯医者用の紙を使って行う</title>
@@ -119,19 +131,6 @@ ATtiny85で動くゲームはtinyjoypad のページでたくさん公開され�
 親指タイピングしやすそうなキーボード付きのハンドヘルド端末の作例です。
 コアはRaspberry Pi 3が搭載されており、キーボードの制御用にRaspberry Pi Picoも使われています。 表面のキーボードの他に、裏面には2つの5-Wayスイッチ（上下左右と押し込みに対応したジョイスティックみたいなスイッチ）が搭載されています。
 手頃なサイズ感で、ちょっと触ってみたいです。</description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタを改造して作られたペンプロッタ</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</link>
-      <pubDate>Wed, 02 Aug 2023 23:43:20 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタを改造して作られたペンプロッタ.jpg"&gt;ゆういちろうさんのTweetから発見。画像もここから転載。
-3Dプリンタを改造して作られたペンプロッタです。
-3Dプリンタのヘッド部分にアタッチメントとしてペンを持たせる仕組みを後付けしているようです。
-3Dプリンタはあるのに2Dプリンタ持ってないな…と思ったので、3Dプリンタにペンを持たせてXYプロッタを生成した。いい感じ。 pic.twitter.com/kNL8B6ulFO
-&amp;mdash; ゆういちろう (@yuuitirou528) May 27, 2023  </description>
     </item>
     
   </channel>
