@@ -5,9 +5,22 @@
     <description>Recent content in Raspberry Pi Zero on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 13 Jun 2023 23:39:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Aug 2023 23:56:16 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/raspberry-pi-zero/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>手のひら端末BEEPYのレビュー</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E7%AB%AF%E6%9C%ABbeepy%E3%81%AE%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC/</link>
+      <pubDate>Mon, 21 Aug 2023 23:56:16 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E7%AB%AF%E6%9C%ABbeepy%E3%81%AE%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/手のひら端末BEEPYのレビュー.jpg"&gt;Review: Beepy, A Palm-sized Linux Hacking Playgroundから発見。画像もここから転載。
+手のひら端末BEEPYはRaspberry Pi ZeroをコアとしたハンドヘルドLinux端末です。 画面は低消費電力のシャープのモノクロのメモリ液晶、キーボードはBlackBerryのものを利用しています。
+バッテリーの持ちは、MP3ファイルを再生するだけなら7時間と、結構実用的な動作時間のようです。
+記事では、このBeepyは部品コストに対してお買い得とのことです。また液晶が特殊である点は、この端末の癖であり、しかしこの癖がこの端末のユニークなところと評しています。
+日本でも購入した方がいるようです</description>
+    </item>
     
     <item>
       <title>BrackBerryのキーボードとシャープメモリ液晶を搭載したハンドヘルドRaspberry Pi端末</title>
