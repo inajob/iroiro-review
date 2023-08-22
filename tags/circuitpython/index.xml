@@ -5,9 +5,21 @@
     <description>Recent content in CircuitPython on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 15 Feb 2022 11:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Aug 2023 22:47:31 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/circuitpython/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RP2040を使ったハードウェアシンセサイザー</title>
+      <link>https://inajob.github.io/iroiro-review/post/rp2040%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</link>
+      <pubDate>Tue, 22 Aug 2023 22:47:31 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/rp2040%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/RP2040を使ったハードウェアシンセサイザー.jpg"&gt;qtpy_synth by todbot synth toys on Tindieから発見。画像もここから転載。
+RP2040を使ったハードウェアシンセサイザーです。 CircuitPythonにはsynthioというシンセサイザー用のライブラリが標準搭載されており、それを使って音を生成しているようです。
+シンセサイザーというとC/C++言語での開発が必要かと思っていたのですがCircuitPythonでもできるなら、手軽に始められそうと感じました。
+ </description>
+    </item>
     
     <item>
       <title>アヒル型のコンピュータ</title>
