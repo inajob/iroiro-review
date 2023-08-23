@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>日本語入力 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%85%A5%E5%8A%9B/</link>
+    <description>Recent content in 日本語入力 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 23 Aug 2023 23:15:42 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%85%A5%E5%8A%9B/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32で動く単漢字変換</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%81%A7%E5%8B%95%E3%81%8F%E5%8D%98%E6%BC%A2%E5%AD%97%E5%A4%89%E6%8F%9B/</link>
+      <pubDate>Wed, 23 Aug 2023 23:15:42 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%81%A7%E5%8B%95%E3%81%8F%E5%8D%98%E6%BC%A2%E5%AD%97%E5%A4%89%E6%8F%9B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32で動く単漢字変換.jpg"&gt;M5Stackで日本語入力を作る｜NJRecallsから発見。画像もここから転載。
+ESP32で動く単漢字変換の実装です。 少ないメモリの環境で動くように、辞書ファイルを毎回ストレージから読み込みつつ変換する方式のようです。
+M5StackにCardKBを接続するだけなので、ハードウェアは誰でも簡単に揃えられるのも良さそうです。
+以前もRP2040搭載の単漢字変換端末 を紹介しましたが日本語入力のプログラムがどんどん出てきていい感じです。</description>
+    </item>
+    
+  </channel>
+</rss>
+

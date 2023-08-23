@@ -5,9 +5,21 @@
     <description>Recent content in ESP32 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 08 Aug 2023 23:56:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Aug 2023 23:15:42 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/esp32/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32で動く単漢字変換</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%81%A7%E5%8B%95%E3%81%8F%E5%8D%98%E6%BC%A2%E5%AD%97%E5%A4%89%E6%8F%9B/</link>
+      <pubDate>Wed, 23 Aug 2023 23:15:42 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%81%A7%E5%8B%95%E3%81%8F%E5%8D%98%E6%BC%A2%E5%AD%97%E5%A4%89%E6%8F%9B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32で動く単漢字変換.jpg"&gt;M5Stackで日本語入力を作る｜NJRecallsから発見。画像もここから転載。
+ESP32で動く単漢字変換の実装です。 少ないメモリの環境で動くように、辞書ファイルを毎回ストレージから読み込みつつ変換する方式のようです。
+M5StackにCardKBを接続するだけなので、ハードウェアは誰でも簡単に揃えられるのも良さそうです。
+以前もRP2040搭載の単漢字変換端末 を紹介しましたが日本語入力のプログラムがどんどん出てきていい感じです。</description>
+    </item>
     
     <item>
       <title>ESP32をコアとしたオープンソースのスマートフォン</title>
@@ -127,19 +139,6 @@ AliExpressなどを探すと128x64の小型のOLEDを見つけられますが、
 これだけセグメントがあるとアルファベットを表示することが出来るので、様々な情報の表示機として活用できそうです。
 表示の切り替えエフェクトなど、細かい作りこみがされており、このガジェットだけでかなりのことが出来そうです。
  </description>
-    </item>
-    
-    <item>
-      <title>今日の予定を表示してくれる電子ペーパガジェット</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E4%BB%8A%E6%97%A5%E3%81%AE%E4%BA%88%E5%AE%9A%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
-      <pubDate>Sun, 26 Mar 2023 23:42:06 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E4%BB%8A%E6%97%A5%E3%81%AE%E4%BA%88%E5%AE%9A%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/今日の予定を表示してくれる電子ペーパガジェット.jpg"&gt;The Timeframeから発見。画像もここから転載。
-今日の予定を表示してくれる電子ペーパガジェットを紹介します。
-このガジェットはLilyGo T5というものですが、ESP32と電子ペーパーモジュールがあれば似たものを作れそうです。
-仕組みとしては、サーバにある画像を表示するプログラムをESP32に仕込んでおき、スケジュールの画像はサーバで生成しているようです。（Google Clendarの画面をSeleniumでキャプチャしただけのようです）
-この方式だと、ESP32側はシンプルなプログラムでよく、かつサーバ側の実装を差し替えることで、あらゆる画像を表示できます。</description>
     </item>
     
   </channel>
