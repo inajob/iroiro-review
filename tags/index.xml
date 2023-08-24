@@ -5,9 +5,18 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 23 Aug 2023 23:15:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Aug 2023 23:27:20 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ドットマトリクス</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9/</link>
+      <pubDate>Thu, 24 Aug 2023 23:27:20 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>ESP32</title>
@@ -87,15 +96,6 @@
       <pubDate>Thu, 17 Aug 2023 23:37:24 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>USB Type-C</title>
-      <link>https://inajob.github.io/iroiro-review/tags/usb-type-c/</link>
-      <pubDate>Mon, 14 Aug 2023 23:38:49 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/usb-type-c/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
