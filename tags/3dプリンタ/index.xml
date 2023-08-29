@@ -5,9 +5,21 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 17 Aug 2023 23:37:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Aug 2023 23:19:02 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ender3で利用できる粘土用Extruder</title>
+      <link>https://inajob.github.io/iroiro-review/post/ender3%E3%81%A7%E5%88%A9%E7%94%A8%E3%81%A7%E3%81%8D%E3%82%8B%E7%B2%98%E5%9C%9F%E7%94%A8extruder/</link>
+      <pubDate>Tue, 29 Aug 2023 23:19:02 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/ender3%E3%81%A7%E5%88%A9%E7%94%A8%E3%81%A7%E3%81%8D%E3%82%8B%E7%B2%98%E5%9C%9F%E7%94%A8extruder/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Ender3で利用できる粘土用Extruder.jpg"&gt;3D Printing With Clay, Thanks To Custom Extruderから発見。画像もここから転載。
+3Dプリンタといえば、プラスチック、特にPLAやABSを使った造形のものがほとんどですが、この記事で紹介しているのは「粘土」を使った3Dプリントです。
+普通の積層式の3DプリンタであるEnder3のヘッド部分を改造して粘土を扱えるようにしています。
+この部品自体も3Dプリントで作られているので、Ender3があれば比較的簡単に試すことができそうです。 といっても、粘土を送り出す部分などは他の例も少なくなかなか難しそうです。</description>
+    </item>
     
     <item>
       <title>3Dプリントのパーツを組み合わせる際に継ぎ目にこだわる</title>
@@ -122,19 +134,6 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ製の雨量計.jpg"&gt;DIY 3D Printed Rain Gauge Connects To Home Assistantから発見。画像もここから転載。
 3Dプリンタ製の雨量計です。 ししおどしのような仕組みで、定期的にマイコンをスリープから解除する仕組みによりバッテリーを長寿命化しています （単三電池4本で1年持つ計算のようです）
 コアとなるマイコンはESP32でESPHomeでプログラムを作っているようです
- </description>
-    </item>
-    
-    <item>
-      <title>レゴのような発想の3Dプリンタ製のブロック</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%82%B4%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E7%99%BA%E6%83%B3%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF/</link>
-      <pubDate>Sun, 18 Jun 2023 23:58:34 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%82%B4%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E7%99%BA%E6%83%B3%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/レゴのような発想の3Dプリンタ製のブロック.jpg"&gt;3D Printing LEGO-like Blocksから発見。画像もここから転載。
-レゴのような発想の3Dプリンタ製のブロックです。
-この穴を開けておけばなんでもこのブロック互換になるので、3Dプリンタで何か作る時にはこの穴をあけておこうかなと思いました。
-このブロックのデータは、色々作成されており、有料の物もありますが、基本ブロックとジョイントのデータは無料で入手できるようです。
  </description>
     </item>
     

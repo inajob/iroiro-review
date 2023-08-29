@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 28 Aug 2023 23:51:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Aug 2023 23:19:02 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ender3で利用できる粘土用Extruder</title>
+      <link>https://inajob.github.io/iroiro-review/post/ender3%E3%81%A7%E5%88%A9%E7%94%A8%E3%81%A7%E3%81%8D%E3%82%8B%E7%B2%98%E5%9C%9F%E7%94%A8extruder/</link>
+      <pubDate>Tue, 29 Aug 2023 23:19:02 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/ender3%E3%81%A7%E5%88%A9%E7%94%A8%E3%81%A7%E3%81%8D%E3%82%8B%E7%B2%98%E5%9C%9F%E7%94%A8extruder/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Ender3で利用できる粘土用Extruder.jpg"&gt;3D Printing With Clay, Thanks To Custom Extruderから発見。画像もここから転載。
+3Dプリンタといえば、プラスチック、特にPLAやABSを使った造形のものがほとんどですが、この記事で紹介しているのは「粘土」を使った3Dプリントです。
+普通の積層式の3DプリンタであるEnder3のヘッド部分を改造して粘土を扱えるようにしています。
+この部品自体も3Dプリントで作られているので、Ender3があれば比較的簡単に試すことができそうです。 といっても、粘土を送り出す部分などは他の例も少なくなかなか難しそうです。</description>
+    </item>
     
     <item>
       <title>コードレスはんだごてのバッテリーとしてスーパーキャパシタが使われている</title>
@@ -118,18 +130,6 @@ RP2040を使ったハードウェアシンセサイザーです。 CircuitPython
  嵌合調整ってみんなどうやってるんでしょうか…ウチは歯医者さん方式です。
 「カチカチしてくださーい、あ、ここちょっと高いですね。もうちょっとで終わるので我慢してくださいね～」て pic.twitter.com/lHEmaafMHB
 &amp;mdash; 桐咲もでら🧰フィギュア原型師兼Vtuber (@trickydesigns) March 30, 2023  </description>
-    </item>
-    
-    <item>
-      <title>側面ノック式の太い芯用のシャープペンシルをはんだフィーダーにする</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%81%B4%E9%9D%A2%E3%83%8E%E3%83%83%E3%82%AF%E5%BC%8F%E3%81%AE%E5%A4%AA%E3%81%84%E8%8A%AF%E7%94%A8%E3%81%AE%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%82%92%E3%81%AF%E3%82%93%E3%81%A0%E3%83%95%E3%82%A3%E3%83%BC%E3%83%80%E3%83%BC%E3%81%AB%E3%81%99%E3%82%8B/</link>
-      <pubDate>Tue, 15 Aug 2023 23:54:38 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%81%B4%E9%9D%A2%E3%83%8E%E3%83%83%E3%82%AF%E5%BC%8F%E3%81%AE%E5%A4%AA%E3%81%84%E8%8A%AF%E7%94%A8%E3%81%AE%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%82%92%E3%81%AF%E3%82%93%E3%81%A0%E3%83%95%E3%82%A3%E3%83%BC%E3%83%80%E3%83%BC%E3%81%AB%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/側面ノック式の太い芯用のシャープペンシルをはんだフィーダーにする.jpg"&gt;Mechanical Pencil Solder Feeder Hackから発見。画像もここから転載。
-はんだ付けをする際に、必要量のはんだを出していく作業は、細かい作業をしているときは煩わしいものがあります。
-そんな時に役立つのが側面ノック式の太い芯用のシャープペンシルです。 はんだの線材の太さと同じ径のシャープペンシルを使うと、普通にはんだ送り器として利用できるようです。
-身近な製品でも電子工作のお供で活用できる面白い事例です。</description>
     </item>
     
   </channel>
