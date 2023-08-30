@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 29 Aug 2023 23:19:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Aug 2023 23:40:45 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>とても薄型のリチウムイオンバッテリー</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%A8%E3%81%A6%E3%82%82%E8%96%84%E5%9E%8B%E3%81%AE%E3%83%AA%E3%83%81%E3%82%A6%E3%83%A0%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC/</link>
+      <pubDate>Wed, 30 Aug 2023 23:40:45 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%A8%E3%81%A6%E3%82%82%E8%96%84%E5%9E%8B%E3%81%AE%E3%83%AA%E3%83%81%E3%82%A6%E3%83%A0%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/とても薄型のリチウムイオンバッテリー.jpg"&gt;【新商品】超薄型リチウムイオン電池モジュール 3.3 V / 3.8 V出力 24 mAhから発見。画像もここから転載。
+スイッチサイエンスでとても薄型のリチウムイオンバッテリーです。 非常に薄いモジュールですが、保護回路なども内蔵されており使い勝手がよさそうです。
+ただし容量は24mAhとかなり少ないので、使いどころには工夫が必要そうです。
+スイッチサイエンスのブログ にもこのバッテリーを使った作例がたくさん紹介されているので参考になります。</description>
+    </item>
     
     <item>
       <title>Ender3で利用できる粘土用Extruder</title>
@@ -116,20 +128,6 @@ RP2040を使ったハードウェアシンセサイザーです。 CircuitPython
 3Dプリントのパーツを組み合わせる際に継ぎ目を工夫している事例です。 これは射出成形で用いられる継ぎ目のテクニックのようですが3Dプリンタでも有効なようです。
 継ぎ目の部分が微妙な誤差で隙間が空いてしまうのを防いだり、重ねて組み立てるときにずれることを防ぐなどの効果があるようです。
  </description>
-    </item>
-    
-    <item>
-      <title>造形の嵌め合わせの調整を歯医者用の紙を使って行う</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E9%80%A0%E5%BD%A2%E3%81%AE%E5%B5%8C%E3%82%81%E5%90%88%E3%82%8F%E3%81%9B%E3%81%AE%E8%AA%BF%E6%95%B4%E3%82%92%E6%AD%AF%E5%8C%BB%E8%80%85%E7%94%A8%E3%81%AE%E7%B4%99%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E8%A1%8C%E3%81%86/</link>
-      <pubDate>Wed, 16 Aug 2023 23:29:37 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E9%80%A0%E5%BD%A2%E3%81%AE%E5%B5%8C%E3%82%81%E5%90%88%E3%82%8F%E3%81%9B%E3%81%AE%E8%AA%BF%E6%95%B4%E3%82%92%E6%AD%AF%E5%8C%BB%E8%80%85%E7%94%A8%E3%81%AE%E7%B4%99%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E8%A1%8C%E3%81%86/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/造形の嵌め合わせの調整を歯医者用の紙を使って行う.jpg"&gt;桐咲もでら🧰バーチャルフィギュア原型師さんのPostから発見。画像もここから転載。
-造形の嵌め合わせの調整を歯医者用の紙を使って行う手法です。 確かにやっていることは歯科医師さんのやっているかみ合わせの調整と同じですもんね。
-この手法は、3Dプリンタの現物合わせでも使えそうな気がしました。
- 嵌合調整ってみんなどうやってるんでしょうか…ウチは歯医者さん方式です。
-「カチカチしてくださーい、あ、ここちょっと高いですね。もうちょっとで終わるので我慢してくださいね～」て pic.twitter.com/lHEmaafMHB
-&amp;mdash; 桐咲もでら🧰フィギュア原型師兼Vtuber (@trickydesigns) March 30, 2023  </description>
     </item>
     
   </channel>
