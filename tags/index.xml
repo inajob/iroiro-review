@@ -5,9 +5,27 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 30 Aug 2023 23:40:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Aug 2023 23:14:44 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raspberry Pi Pico</title>
+      <link>https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico/</link>
+      <pubDate>Thu, 31 Aug 2023 23:14:44 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>自作キーボード</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Thu, 31 Aug 2023 23:14:44 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>バッテリー</title>
@@ -78,24 +96,6 @@
       <pubDate>Wed, 23 Aug 2023 23:15:42 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/esp32/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>m5stack</title>
-      <link>https://inajob.github.io/iroiro-review/tags/m5stack/</link>
-      <pubDate>Wed, 23 Aug 2023 23:15:42 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/m5stack/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>日本語入力</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%85%A5%E5%8A%9B/</link>
-      <pubDate>Wed, 23 Aug 2023 23:15:42 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%85%A5%E5%8A%9B/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     

@@ -5,9 +5,23 @@
     <description>Recent content in Raspberry Pi Pico on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 07 Aug 2023 23:33:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Aug 2023 23:14:44 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raspberry Pi Picoを使った非常に小さなキーボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E9%9D%9E%E5%B8%B8%E3%81%AB%E5%B0%8F%E3%81%95%E3%81%AA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Thu, 31 Aug 2023 23:14:44 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E9%9D%9E%E5%B8%B8%E3%81%AB%E5%B0%8F%E3%81%95%E3%81%AA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi Picoを使った非常に小さなキーボード.jpg"&gt;Raspberry Pi Pico Gets A Tiny Keyboard On Its Backから発見。画像もここから転載。
+Raspberry Pi Picoを使ったとても小さなキーボード。小さいけど59キーあります。 スイッチのはんだ付けは大変そうですが、それ以外はRaspberry Pi Picoをつけるだけなので比較的簡単に組み立てできそうです。
+プログラムはCircuitPythonで作られており簡単にカスタマイズできそうです。
+しかしこれは、相当小さいですね・・
+前にも同じような構成のキーボードを紹介しました。
+ </description>
+    </item>
     
     <item>
       <title>SDカードに設定を保存できるマクロパッド</title>
@@ -128,18 +142,6 @@ Raspberry Pi Picoはパワフルな開発ボードで、シンセサイザーな
 この記事で紹介しているのはRaspberry Pi Picoをコアとした鍵盤型のMIDIシンセサイザーです。 スイッチにはメカニカルキーボードで利用されるKailh Chocを採用し非常に押し心地がよさそうです。
 ソースコードをちらっと見ましたが、Adaのソースコードもあったりと、ちょっと謎の作りになっているように見えました。 （個人的にはもっとシンプルなポリフォニックな音源のソースが見たいのですが・・誰か知りません？）
  </description>
-    </item>
-    
-    <item>
-      <title>Raspberry Pi Picoとほぼ同じ大きさのとても小さなキーボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%81%A8%E3%81%BB%E3%81%BC%E5%90%8C%E3%81%98%E5%A4%A7%E3%81%8D%E3%81%95%E3%81%AE%E3%81%A8%E3%81%A6%E3%82%82%E5%B0%8F%E3%81%95%E3%81%AA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Mon, 04 Jul 2022 23:18:43 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%81%A8%E3%81%BB%E3%81%BC%E5%90%8C%E3%81%98%E5%A4%A7%E3%81%8D%E3%81%95%E3%81%AE%E3%81%A8%E3%81%A6%E3%82%82%E5%B0%8F%E3%81%95%E3%81%AA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi Picoとほぼ同じ大きさのとても小さなキーボード.jpg"&gt;DIY Keyboard Can’t Get Much Smallerから発見。画像もここから転載。
-Raspberry Pi Picoとほぼ同じ大きさのとても小さなキーボードの作例です。 Raspberry Pi Picoの裏面にペタッと貼り付ける形の基板で、小さいですがキーボードとして正しく動作します。
-Raspberry Pi Pico用の自作キーボードのファームウェアとしてはPRK firmware というのがあるようです。
-よく似たプロダクトとしてtact31_keyboard を思い出します。</description>
     </item>
     
   </channel>
