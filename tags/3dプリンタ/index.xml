@@ -5,9 +5,20 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 29 Aug 2023 23:19:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Sep 2023 00:06:37 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>グラフィックVFDを搭載したかっこいいCyberdeck</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AFvfd%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84cyberdeck/</link>
+      <pubDate>Tue, 05 Sep 2023 00:06:37 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AFvfd%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84cyberdeck/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/グラフィックVFDを搭載したかっこいいCyberdeck.jpg"&gt;2023 Cyberdeck Challenge: KOAT0 Portable Terminalから発見。画像もここから転載。
+グラフィックVFDを搭載したかっこいいCyberdeckの作例です。 グラフィックVFDは解像度が非常に小さいので実用性には問題がありそうですが、とてもかっこいいです。
+ケースは3Dプリンタで作られています。こういう作例を見ていると造形範囲の大きな3Dプリンタが欲しくなりますね。</description>
+    </item>
     
     <item>
       <title>Ender3で利用できる粘土用Extruder</title>
@@ -122,18 +133,6 @@
 3Dプリンタで作られた糸編み装置です。
 糸巻自体がギアの仕組みでぐるぐると回遊していく仕組みで、見ていて飽きません。
 工場などでは、まさにこのような仕組みで作られているのだろうけど、よく思いついたなーという機構です。
- </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタ製の雨量計</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E9%9B%A8%E9%87%8F%E8%A8%88/</link>
-      <pubDate>Sun, 25 Jun 2023 23:31:15 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E9%9B%A8%E9%87%8F%E8%A8%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ製の雨量計.jpg"&gt;DIY 3D Printed Rain Gauge Connects To Home Assistantから発見。画像もここから転載。
-3Dプリンタ製の雨量計です。 ししおどしのような仕組みで、定期的にマイコンをスリープから解除する仕組みによりバッテリーを長寿命化しています （単三電池4本で1年持つ計算のようです）
-コアとなるマイコンはESP32でESPHomeでプログラムを作っているようです
  </description>
     </item>
     
