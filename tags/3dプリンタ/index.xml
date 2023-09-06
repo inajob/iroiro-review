@@ -5,9 +5,23 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 05 Sep 2023 23:38:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Sep 2023 23:16:08 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタにアタッチメントを付けてペンプロッタにする</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AB%E3%82%A2%E3%82%BF%E3%83%83%E3%83%81%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E4%BB%98%E3%81%91%E3%81%A6%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF%E3%81%AB%E3%81%99%E3%82%8B/</link>
+      <pubDate>Wed, 06 Sep 2023 23:16:08 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AB%E3%82%A2%E3%82%BF%E3%83%83%E3%83%81%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E4%BB%98%E3%81%91%E3%81%A6%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF%E3%81%AB%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタにアタッチメントを付けてペンプロッタにする.jpg"&gt;hsgwさんのPostからから発見。画像もここから転載。
+3Dプリンタにアタッチメントを付けてペンプロッタにしています。
+アタッチメントのデータはこちら で公開されているもののようです。
+デモで描いている絵も可愛いです。
+3Dプリンタをペンプロッタにするやつやったことないなと思ってやってみた pic.twitter.com/HQQUSAHxXj
+&amp;mdash; hsgw 𓃏 (@hsgw) August 4, 2023  </description>
+    </item>
     
     <item>
       <title>電動歯ブラシを改造して作られた電動ヤスリ</title>
@@ -121,19 +135,6 @@
 プラレールのジョイントから着想を得て、写真のような継ぎ手にしています。
 すこしキツめに作ることで、スリットでぎゅっと締まるようにしています。#3Dプリンター pic.twitter.com/URYsxzfkHL
 &amp;mdash; livehack (@livehack3d) May 23, 2023  </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタでキートップを一体成型する</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%82%AD%E3%83%BC%E3%83%88%E3%83%83%E3%83%97%E3%82%92%E4%B8%80%E4%BD%93%E6%88%90%E5%9E%8B%E3%81%99%E3%82%8B/</link>
-      <pubDate>Wed, 28 Jun 2023 21:27:53 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%82%AD%E3%83%BC%E3%83%88%E3%83%83%E3%83%97%E3%82%92%E4%B8%80%E4%BD%93%E6%88%90%E5%9E%8B%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタでキートップを一体成型する.jpg"&gt;しなぷすさんのTweetから発見。画像もここから転載。
-3Dプリンタでキートップを一体成型する手法です。 画像を見れば一目瞭然で、キートップ部分の一部を筐体とくっつけ、接続部分をたわませることでボタンとしての機能を実現しています。
-原理的にはできますが、設定をどの程度追い込む必要があるのか、どのようなトラブルがあるのかなど、気になる作例です。
-うまく出力できていた。キーは上下に1.5mmのストロークで移動するが、本体のツメに引っ掛かって抜けなくなっている。この機構ができたので、ばらばらのキーを、本体にはめ込む作業が不要になった。 pic.twitter.com/UQHGbueoJ9
-&amp;mdash; しなぷす＠synapse.kyoto (@h164tan1) May 20, 2023  </description>
     </item>
     
   </channel>
