@@ -5,9 +5,22 @@
     <description>Recent content in 赤外線 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 26 Apr 2023 23:23:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Sep 2023 23:09:31 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E8%B5%A4%E5%A4%96%E7%B7%9A/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>リモコン信号を受けて対応するキーストロークをパソコンに送信するデバイス</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AA%E3%83%A2%E3%82%B3%E3%83%B3%E4%BF%A1%E5%8F%B7%E3%82%92%E5%8F%97%E3%81%91%E3%81%A6%E5%AF%BE%E5%BF%9C%E3%81%99%E3%82%8B%E3%82%AD%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AD%E3%83%BC%E3%82%AF%E3%82%92%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%81%AB%E9%80%81%E4%BF%A1%E3%81%99%E3%82%8B%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</link>
+      <pubDate>Thu, 07 Sep 2023 23:09:31 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AA%E3%83%A2%E3%82%B3%E3%83%B3%E4%BF%A1%E5%8F%B7%E3%82%92%E5%8F%97%E3%81%91%E3%81%A6%E5%AF%BE%E5%BF%9C%E3%81%99%E3%82%8B%E3%82%AD%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AD%E3%83%BC%E3%82%AF%E3%82%92%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%81%AB%E9%80%81%E4%BF%A1%E3%81%99%E3%82%8B%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/リモコン信号を受けて対応するキーストロークをパソコンに送信するデバイス.jpg"&gt;DSTIKE IR DUCKY-Bad USB/Remote Control 21 Scripts by Travis Lin on Tindieから発見。画像もここから転載。
+リモコン信号を受けて対応するキーストロークをパソコンに送信するデバイスです。 これをPCに繋ぐと、赤外線リモコンであらかじめ登録したキーストロークを打ち込むことが出来ます。
+簡易的にシステムを無線化するなどの用途で活躍しそうな面白いガジェットです。
+Arduino Leonardoと書いてあるのでコアとなるマイコンはATmega32u4と思われます。
+ </description>
+    </item>
     
     <item>
       <title>何かに使えそうな独自の赤外線式非接触センサー</title>

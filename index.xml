@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 06 Sep 2023 23:16:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Sep 2023 23:09:31 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>リモコン信号を受けて対応するキーストロークをパソコンに送信するデバイス</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AA%E3%83%A2%E3%82%B3%E3%83%B3%E4%BF%A1%E5%8F%B7%E3%82%92%E5%8F%97%E3%81%91%E3%81%A6%E5%AF%BE%E5%BF%9C%E3%81%99%E3%82%8B%E3%82%AD%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AD%E3%83%BC%E3%82%AF%E3%82%92%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%81%AB%E9%80%81%E4%BF%A1%E3%81%99%E3%82%8B%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</link>
+      <pubDate>Thu, 07 Sep 2023 23:09:31 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AA%E3%83%A2%E3%82%B3%E3%83%B3%E4%BF%A1%E5%8F%B7%E3%82%92%E5%8F%97%E3%81%91%E3%81%A6%E5%AF%BE%E5%BF%9C%E3%81%99%E3%82%8B%E3%82%AD%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AD%E3%83%BC%E3%82%AF%E3%82%92%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%81%AB%E9%80%81%E4%BF%A1%E3%81%99%E3%82%8B%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/リモコン信号を受けて対応するキーストロークをパソコンに送信するデバイス.jpg"&gt;DSTIKE IR DUCKY-Bad USB/Remote Control 21 Scripts by Travis Lin on Tindieから発見。画像もここから転載。
+リモコン信号を受けて対応するキーストロークをパソコンに送信するデバイスです。 これをPCに繋ぐと、赤外線リモコンであらかじめ登録したキーストロークを打ち込むことが出来ます。
+簡易的にシステムを無線化するなどの用途で活躍しそうな面白いガジェットです。
+Arduino Leonardoと書いてあるのでコアとなるマイコンはATmega32u4と思われます。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタにアタッチメントを付けてペンプロッタにする</title>
@@ -117,18 +130,6 @@ Raspberry Pi Picoを使ったとても小さなキーボード。小さいけど
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/極座標ペンプロッタ.jpg"&gt;Pen Plotter Uses Polar Coordinatesから発見。画像もここから転載。
 極座標ペンプロッタの作例です。 一般的なペンプロッタはX-Y軸方式ですが、このプロッタは中心軸と半径の極座標方式となっています。 制御をしっかりやればこのような座標軸でもきれいに絵が描け、また曲線については、こちらの方式のほうがうまく描けるというような例もありそうです。
 以前もこれより小型のプロッタを紹介したことがあります
- </description>
-    </item>
-    
-    <item>
-      <title>ドットマトリクスLEDを利用した表情の変わるお面</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E8%A1%A8%E6%83%85%E3%81%AE%E5%A4%89%E3%82%8F%E3%82%8B%E3%81%8A%E9%9D%A2/</link>
-      <pubDate>Thu, 24 Aug 2023 23:27:20 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E8%A1%A8%E6%83%85%E3%81%AE%E5%A4%89%E3%82%8F%E3%82%8B%E3%81%8A%E9%9D%A2/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ドットマトリクスLEDを利用した表情の変わるお面.jpg"&gt;Angry Robot Face Is Less Than Friendlyから発見。画像もここから転載。
-ドットマトリクスLEDを利用した表情の変わるお面の作例です。 チープだが意外と顔として機能していて面白いです。
-顔追跡機能も搭載されており、目線で人を追うような動きもできるらしく、意外と芸が細かいです。
  </description>
     </item>
     
