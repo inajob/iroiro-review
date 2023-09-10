@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 07 Sep 2023 23:09:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Sep 2023 23:41:32 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタで作った帯を使って板や箱を編む</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E5%B8%AF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E6%9D%BF%E3%82%84%E7%AE%B1%E3%82%92%E7%B7%A8%E3%82%80/</link>
+      <pubDate>Sun, 10 Sep 2023 23:41:32 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E5%B8%AF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E6%9D%BF%E3%82%84%E7%AE%B1%E3%82%92%E7%B7%A8%E3%82%80/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作った帯を使って板や箱を編む.jpg"&gt;3D-Printed Woven Coasters Save Tabletops In Styleから発見。画像もここから転載。
+3Dプリンタで作った帯を使って板や箱を編む手法を紹介します。
+3Dプリンタで帯パーツを作り、これを組み合わせることでコースターを作るテクニックです。
+実用性というよりはその見た目において利点がある手法のように見えます。
+ </description>
+    </item>
     
     <item>
       <title>リモコン信号を受けて対応するキーストロークをパソコンに送信するデバイス</title>
@@ -118,18 +131,6 @@ Raspberry Pi Picoを使ったとても小さなキーボード。小さいけど
 はんだごてといえば、昔からある工具ですが、最近もどんどん新しい機能の製品が出てきています。 温度調整はもちろんのこと、ステーションとBluetoothで通信して、状態を表示する機能もあるようです。
 このはんだこての最も特徴的なのは、本体の電源としてスーパーキャパシタを用いているところです。 通常こういうポータブル機の電源としてはリチウムイオンバッテリーを用いますが、頻繁に充放電を繰り返すような用途には向いていないので、スーパーキャパシタを使うというのは結構妥当な選択だと感じました。
 ただし、その代償として本体は太くなり、長時間のはんだ付けはできず、都度都度ステーションに戻して充電する必要があります。まぁしかし、はんだごての通常の使用でも、作業のたびにステーションに戻すことをするので、意外と気にならない弱点かもしれません。
- </description>
-    </item>
-    
-    <item>
-      <title>極座標ペンプロッタ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%A5%B5%E5%BA%A7%E6%A8%99%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</link>
-      <pubDate>Sun, 27 Aug 2023 23:42:14 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%A5%B5%E5%BA%A7%E6%A8%99%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/極座標ペンプロッタ.jpg"&gt;Pen Plotter Uses Polar Coordinatesから発見。画像もここから転載。
-極座標ペンプロッタの作例です。 一般的なペンプロッタはX-Y軸方式ですが、このプロッタは中心軸と半径の極座標方式となっています。 制御をしっかりやればこのような座標軸でもきれいに絵が描け、また曲線については、こちらの方式のほうがうまく描けるというような例もありそうです。
-以前もこれより小型のプロッタを紹介したことがあります
  </description>
     </item>
     
