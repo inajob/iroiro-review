@@ -5,9 +5,20 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 10 Sep 2023 23:41:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Sep 2023 23:37:39 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタで作る面ファスナー</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E9%9D%A2%E3%83%95%E3%82%A1%E3%82%B9%E3%83%8A%E3%83%BC/</link>
+      <pubDate>Tue, 12 Sep 2023 23:37:39 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E9%9D%A2%E3%83%95%E3%82%A1%E3%82%B9%E3%83%8A%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作る面ファスナー.jpg"&gt;3D Printed — Um — Hook And Loop Fastenersから発見。画像もここから転載。
+3Dプリンタで作る面ファスナー。いわゆるマジックテープというやつです。 様々なフィラメント、様々な形状で実験し、意外としっかりとくっつくことを紹介しています。 こういううとだと積層式の3Dプリンタの悪い特徴である「糸引き」も役立つみたいです。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタで作った帯を使って板や箱を編む</title>
@@ -121,18 +132,6 @@
 ジーパンの記事であるデニムを重ねて、エポキシで固め、テーブルの天板としています。
 研磨したり、きれいなコンセントを付けたり、味のある足を作ったりと、かなり大変そうですが、とても素敵なテーブルとなっています。
  </description>
-    </item>
-    
-    <item>
-      <title>熱で色の変わる塗料をブレッドボードに塗るテクニック</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E7%86%B1%E3%81%A7%E8%89%B2%E3%81%AE%E5%A4%89%E3%82%8F%E3%82%8B%E5%A1%97%E6%96%99%E3%82%92%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AB%E5%A1%97%E3%82%8B%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</link>
-      <pubDate>Mon, 17 Jul 2023 22:52:14 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E7%86%B1%E3%81%A7%E8%89%B2%E3%81%AE%E5%A4%89%E3%82%8F%E3%82%8B%E5%A1%97%E6%96%99%E3%82%92%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AB%E5%A1%97%E3%82%8B%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/熱で色の変わる塗料をブレッドボードに塗るテクニック.jpg"&gt;Thermochromic Treatment Keeps Solderless Breadboards Smokelessから発見。画像もここから転載。
-熱で色の変わる塗料をブレッドボードに塗るテクニックです。
-抵抗やICなど、故障する一歩手前で非常に熱くなるのは、よく知られており、部品に小指を当てながら動作テストしたり、サーマルカメラで様子を見るなど、色々なテクニックがありますが、この記事では、とてもスマートな方法を紹介しています。
-知ってしまえば簡単ですが、電源も不要で、一度塗料をぬると他の機材も不要という画期的なアイデアです。</description>
     </item>
     
   </channel>
