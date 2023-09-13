@@ -5,9 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 12 Sep 2023 23:37:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Sep 2023 21:23:31 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>動くデジタルフィギュアカード</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%8B%95%E3%81%8F%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%E3%82%AB%E3%83%BC%E3%83%89/</link>
+      <pubDate>Wed, 13 Sep 2023 21:23:31 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%8B%95%E3%81%8F%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%E3%82%AB%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/動くデジタルフィギュアカード.jpg"&gt;YORIMIYAさんのTweetから発見。画像もここから転載。
+動画を見ると、二度見したくなるくらいのクオリティの、「動くデジタルフィギュアカード」を見ることができます。
+はじめはARか何かかな？と思ったのですが、そうではなく、これは薄型高解像度のフルカラーOLEDを2枚貼り合わせたものとのことです。 ちょっとお値段は張りますが、これは欲しい人が多そうです。
+ &amp;quot;動く&amp;quot;デジタルフィギュアカード。初音ミクver
+かわよ！！！#初音ミク #miku16th pic.twitter.com/ANuNeSmqfX
+&amp;mdash; YORIMIYA (@jav6868) September 8, 2023  デジタルフィギュア開発用にOLEDフレキシブルディスプレイ買ってみた。極薄すぎて裏から透ける。いろいろ遊べそう pic.twitter.com/3aDQmmxbXH
+&amp;mdash; YORIMIYA (@jav6868) September 3, 2023  </description>
+    </item>
     
     <item>
       <title>3Dプリンタで作る面ファスナー</title>
@@ -118,18 +133,6 @@ Raspberry Pi Picoを使ったとても小さなキーボード。小さいけど
 しかしこれは、相当小さいですね・・
 前にも同じような構成のキーボードを紹介しました。
  </description>
-    </item>
-    
-    <item>
-      <title>とても薄型のリチウムイオンバッテリー</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%81%A8%E3%81%A6%E3%82%82%E8%96%84%E5%9E%8B%E3%81%AE%E3%83%AA%E3%83%81%E3%82%A6%E3%83%A0%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC/</link>
-      <pubDate>Wed, 30 Aug 2023 23:40:45 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%A8%E3%81%A6%E3%82%82%E8%96%84%E5%9E%8B%E3%81%AE%E3%83%AA%E3%83%81%E3%82%A6%E3%83%A0%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/とても薄型のリチウムイオンバッテリー.jpg"&gt;【新商品】超薄型リチウムイオン電池モジュール 3.3 V / 3.8 V出力 24 mAhから発見。画像もここから転載。
-スイッチサイエンスでとても薄型のリチウムイオンバッテリーです。 非常に薄いモジュールですが、保護回路なども内蔵されており使い勝手がよさそうです。
-ただし容量は24mAhとかなり少ないので、使いどころには工夫が必要そうです。
-スイッチサイエンスのブログ にもこのバッテリーを使った作例がたくさん紹介されているので参考になります。</description>
     </item>
     
   </channel>

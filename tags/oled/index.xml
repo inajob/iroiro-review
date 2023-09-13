@@ -5,9 +5,24 @@
     <description>Recent content in OLED on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 05 Jun 2023 00:39:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Sep 2023 21:23:31 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/oled/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>動くデジタルフィギュアカード</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%8B%95%E3%81%8F%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%E3%82%AB%E3%83%BC%E3%83%89/</link>
+      <pubDate>Wed, 13 Sep 2023 21:23:31 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%8B%95%E3%81%8F%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%E3%82%AB%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/動くデジタルフィギュアカード.jpg"&gt;YORIMIYAさんのTweetから発見。画像もここから転載。
+動画を見ると、二度見したくなるくらいのクオリティの、「動くデジタルフィギュアカード」を見ることができます。
+はじめはARか何かかな？と思ったのですが、そうではなく、これは薄型高解像度のフルカラーOLEDを2枚貼り合わせたものとのことです。 ちょっとお値段は張りますが、これは欲しい人が多そうです。
+ &amp;quot;動く&amp;quot;デジタルフィギュアカード。初音ミクver
+かわよ！！！#初音ミク #miku16th pic.twitter.com/ANuNeSmqfX
+&amp;mdash; YORIMIYA (@jav6868) September 8, 2023  デジタルフィギュア開発用にOLEDフレキシブルディスプレイ買ってみた。極薄すぎて裏から透ける。いろいろ遊べそう pic.twitter.com/3aDQmmxbXH
+&amp;mdash; YORIMIYA (@jav6868) September 3, 2023  </description>
+    </item>
     
     <item>
       <title>UARTの入力をOLEDに表示するコンパクトなモジュール</title>
@@ -127,19 +142,6 @@ Tindieで販売されているようです。
 OLEDとロータリーエンコーダで作られた直感的に操作できるノブデバイスです。
 つまみの動きと連動してOLED上の目盛りがアニメーションするため、非常に直感的な操作が出来そうです。
 それぞれの部品は結構安くで手に入るので、お手軽にそれっぽい操作感のデバイスが作れる良い方法だと感じました。
- </description>
-    </item>
-    
-    <item>
-      <title>HDMIのI2C端子をOLEDにつなげてディスプレイにするHACK</title>
-      <link>https://inajob.github.io/iroiro-review/post/hdmi%E3%81%AEi2c%E7%AB%AF%E5%AD%90%E3%82%92oled%E3%81%AB%E3%81%A4%E3%81%AA%E3%81%92%E3%81%A6%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%81%AB%E3%81%99%E3%82%8Bhack/</link>
-      <pubDate>Thu, 21 Apr 2022 22:10:56 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/hdmi%E3%81%AEi2c%E7%AB%AF%E5%AD%90%E3%82%92oled%E3%81%AB%E3%81%A4%E3%81%AA%E3%81%92%E3%81%A6%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%81%AB%E3%81%99%E3%82%8Bhack/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/HDMIのI2C端子をOLEDにつなげてディスプレイにするHACK.jpg"&gt;DDC OLEDから発見。画像もここから転載。
-HDMIには制御信号をやり取りするためのI2Cのピンがあります。 この記事ではこのI2Cの信号を使いOLEDを制御し、小さなディスプレイとして利用しています。
-PCの画面を出すためにxrandrを使って仮想ディスプレイの設定を行っているようです。
-5~10FPS程度で画面が更新できるようです。
  </description>
     </item>
     
