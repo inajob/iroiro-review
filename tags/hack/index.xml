@@ -5,9 +5,21 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 12 Sep 2023 23:37:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Sep 2023 23:07:03 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタのベルトの張り具合を音で測定するアプリ</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%99%E3%83%AB%E3%83%88%E3%81%AE%E5%BC%B5%E3%82%8A%E5%85%B7%E5%90%88%E3%82%92%E9%9F%B3%E3%81%A7%E6%B8%AC%E5%AE%9A%E3%81%99%E3%82%8B%E3%82%A2%E3%83%97%E3%83%AA/</link>
+      <pubDate>Thu, 14 Sep 2023 23:07:03 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%99%E3%83%AB%E3%83%88%E3%81%AE%E5%BC%B5%E3%82%8A%E5%85%B7%E5%90%88%E3%82%92%E9%9F%B3%E3%81%A7%E6%B8%AC%E5%AE%9A%E3%81%99%E3%82%8B%E3%82%A2%E3%83%97%E3%83%AA/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタのベルトの張り具合を音で測定するアプリ.jpg"&gt;Checking Belt Tension Gets Easier For (Some) Prusa 3D Printersから発見。画像もここから転載。
+3Dプリンタの調整は、まだまだ難しいところがあり、3Dプリンタを気軽に人に勧められない理由の一つだったりしますが、ここで紹介するアプリを使うとその問題の1つである、ベルトの張り具合について定量的な評価を行うことができます。
+このアプリではベルトの張り具合を測定するために、指でベルトを弾いたときに発生する音の周波数を利用しているようです。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタで作る面ファスナー</title>
@@ -120,18 +132,6 @@
 3Dプリンタのヘッド部分にアタッチメントとしてペンを持たせる仕組みを後付けしているようです。
 3Dプリンタはあるのに2Dプリンタ持ってないな…と思ったので、3Dプリンタにペンを持たせてXYプロッタを生成した。いい感じ。 pic.twitter.com/kNL8B6ulFO
 &amp;mdash; ゆういちろう (@yuuitirou528) May 27, 2023  </description>
-    </item>
-    
-    <item>
-      <title>デニム生地をエポキシで固めて作られたテーブル</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%87%E3%83%8B%E3%83%A0%E7%94%9F%E5%9C%B0%E3%82%92%E3%82%A8%E3%82%AD%E3%83%9D%E3%82%B7%E3%81%A7%E5%9B%BA%E3%82%81%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB/</link>
-      <pubDate>Mon, 31 Jul 2023 23:16:12 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%87%E3%83%8B%E3%83%A0%E7%94%9F%E5%9C%B0%E3%82%92%E3%82%A8%E3%82%AD%E3%83%9D%E3%82%B7%E3%81%A7%E5%9B%BA%E3%82%81%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/デニム生地をエキポシで固めて作られたテーブル.jpg"&gt;Denim Epoxy Table Is A Work Of Artから発見。画像もここから転載。
-ジーパンの記事であるデニムを重ねて、エポキシで固め、テーブルの天板としています。
-研磨したり、きれいなコンセントを付けたり、味のある足を作ったりと、かなり大変そうですが、とても素敵なテーブルとなっています。
- </description>
     </item>
     
   </channel>

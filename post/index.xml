@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 13 Sep 2023 21:23:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Sep 2023 23:07:03 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタのベルトの張り具合を音で測定するアプリ</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%99%E3%83%AB%E3%83%88%E3%81%AE%E5%BC%B5%E3%82%8A%E5%85%B7%E5%90%88%E3%82%92%E9%9F%B3%E3%81%A7%E6%B8%AC%E5%AE%9A%E3%81%99%E3%82%8B%E3%82%A2%E3%83%97%E3%83%AA/</link>
+      <pubDate>Thu, 14 Sep 2023 23:07:03 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%99%E3%83%AB%E3%83%88%E3%81%AE%E5%BC%B5%E3%82%8A%E5%85%B7%E5%90%88%E3%82%92%E9%9F%B3%E3%81%A7%E6%B8%AC%E5%AE%9A%E3%81%99%E3%82%8B%E3%82%A2%E3%83%97%E3%83%AA/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタのベルトの張り具合を音で測定するアプリ.jpg"&gt;Checking Belt Tension Gets Easier For (Some) Prusa 3D Printersから発見。画像もここから転載。
+3Dプリンタの調整は、まだまだ難しいところがあり、3Dプリンタを気軽に人に勧められない理由の一つだったりしますが、ここで紹介するアプリを使うとその問題の1つである、ベルトの張り具合について定量的な評価を行うことができます。
+このアプリではベルトの張り具合を測定するために、指でベルトを弾いたときに発生する音の周波数を利用しているようです。
+ </description>
+    </item>
     
     <item>
       <title>動くデジタルフィギュアカード</title>
@@ -119,20 +131,6 @@ Arduino Leonardoと書いてあるのでコアとなるマイコンはATmega32u4
       <guid>https://inajob.github.io/iroiro-review/post/%E8%B6%85%E5%B0%8F%E5%9E%8B%E3%81%AE62%E3%82%AD%E3%83%BC%E6%90%AD%E8%BC%89%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/超小型の62キー搭載のキーボード.jpg"&gt;MORPH-MINI-KB USB-C Mini True PC Keyboard by MorpheansStore on Tindieから発見。画像もここから転載。
 超小型の62キー搭載のキーボードの作例です。 小型ですがキーの数が多いので、モバイルガジェットのキーボードとしても活躍しそうです。 MCUはATmega32u4を使っており、いわゆる一般的な自作キーボードと同じようにファームウェアを用意できます。</description>
-    </item>
-    
-    <item>
-      <title>Raspberry Pi Picoを使った非常に小さなキーボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E9%9D%9E%E5%B8%B8%E3%81%AB%E5%B0%8F%E3%81%95%E3%81%AA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Thu, 31 Aug 2023 23:14:44 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E9%9D%9E%E5%B8%B8%E3%81%AB%E5%B0%8F%E3%81%95%E3%81%AA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi Picoを使った非常に小さなキーボード.jpg"&gt;Raspberry Pi Pico Gets A Tiny Keyboard On Its Backから発見。画像もここから転載。
-Raspberry Pi Picoを使ったとても小さなキーボード。小さいけど59キーあります。 スイッチのはんだ付けは大変そうですが、それ以外はRaspberry Pi Picoをつけるだけなので比較的簡単に組み立てできそうです。
-プログラムはCircuitPythonで作られており簡単にカスタマイズできそうです。
-しかしこれは、相当小さいですね・・
-前にも同じような構成のキーボードを紹介しました。
- </description>
     </item>
     
   </channel>
