@@ -5,9 +5,18 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 14 Sep 2023 23:07:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Sep 2023 23:49:19 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>USBハブ</title>
+      <link>https://inajob.github.io/iroiro-review/tags/usb%E3%83%8F%E3%83%96/</link>
+      <pubDate>Mon, 18 Sep 2023 23:49:19 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/usb%E3%83%8F%E3%83%96/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>3Dプリンタ</title>
@@ -87,15 +96,6 @@
       <pubDate>Tue, 05 Sep 2023 00:06:37 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/cyberdeck/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>Raspberry Pi 3</title>
-      <link>https://inajob.github.io/iroiro-review/tags/raspberry-pi-3/</link>
-      <pubDate>Tue, 05 Sep 2023 00:06:37 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/raspberry-pi-3/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
