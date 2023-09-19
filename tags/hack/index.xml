@@ -5,9 +5,21 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 14 Sep 2023 23:07:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Sep 2023 23:14:40 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PC状態を表示するスマートモニタに任意の画像を表示する</title>
+      <link>https://inajob.github.io/iroiro-review/post/pc%E7%8A%B6%E6%85%8B%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%A2%E3%83%8B%E3%82%BF%E3%81%AB%E4%BB%BB%E6%84%8F%E3%81%AE%E7%94%BB%E5%83%8F%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B/</link>
+      <pubDate>Tue, 19 Sep 2023 23:14:40 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/pc%E7%8A%B6%E6%85%8B%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%A2%E3%83%8B%E3%82%BF%E3%81%AB%E4%BB%BB%E6%84%8F%E3%81%AE%E7%94%BB%E5%83%8F%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/PC状態を表示するスマートモニタに任意の画像を表示する.jpg"&gt;Cheap LCD Uses USB Serialから発見。画像もここから転載。
+最近AliExpressなどで見かける、安価なPCの性能をリアルタイムに表示する「スマートモニタ」ですが、これに任意の画像を表示する方法の紹介です。
+ Pythonのコードで実装されており、手順に従えば、好きな画像を表示したり、オリジナルのテーマを作ることができるようです。 この手のスマートモニタは比較的安価ですが、良い感じのケースに入っており、任意の画像が表示できることで、面白い使い道が思いつきそうです
+対応している機種が限られている点に注意が必要です。</description>
+    </item>
     
     <item>
       <title>3Dプリンタのベルトの張り具合を音で測定するアプリ</title>
@@ -119,19 +131,6 @@
 はんだ付けをする際に、必要量のはんだを出していく作業は、細かい作業をしているときは煩わしいものがあります。
 そんな時に役立つのが側面ノック式の太い芯用のシャープペンシルです。 はんだの線材の太さと同じ径のシャープペンシルを使うと、普通にはんだ送り器として利用できるようです。
 身近な製品でも電子工作のお供で活用できる面白い事例です。</description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタを改造して作られたペンプロッタ</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</link>
-      <pubDate>Wed, 02 Aug 2023 23:43:20 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタを改造して作られたペンプロッタ.jpg"&gt;ゆういちろうさんのTweetから発見。画像もここから転載。
-3Dプリンタを改造して作られたペンプロッタです。
-3Dプリンタのヘッド部分にアタッチメントとしてペンを持たせる仕組みを後付けしているようです。
-3Dプリンタはあるのに2Dプリンタ持ってないな…と思ったので、3Dプリンタにペンを持たせてXYプロッタを生成した。いい感じ。 pic.twitter.com/kNL8B6ulFO
-&amp;mdash; ゆういちろう (@yuuitirou528) May 27, 2023  </description>
     </item>
     
   </channel>
