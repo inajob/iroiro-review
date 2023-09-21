@@ -5,9 +5,21 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 19 Sep 2023 23:14:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Sep 2023 23:12:54 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Z軸を自分で増やすことができる3Dプリンタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/z%E8%BB%B8%E3%82%92%E8%87%AA%E5%88%86%E3%81%A7%E5%A2%97%E3%82%84%E3%81%99%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
+      <pubDate>Thu, 21 Sep 2023 23:12:54 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/z%E8%BB%B8%E3%82%92%E8%87%AA%E5%88%86%E3%81%A7%E5%A2%97%E3%82%84%E3%81%99%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Z軸を自分で増やすことができる3Dプリンタ.jpg"&gt;Infinite Z-Axis Printer Aims To Print Itself Somedayから発見。画像もここから転載。
+3Dプリンタといえば、自己複製機械の文脈で語られることも多いですが、実際のところ、すべての部品を自己複製できるわけでは有りません。
+この作例では特にZ軸について、自己複製の可能性を追求しています。 写真を見れば一目瞭然で、通常リードスクリューロッドなどで構成されるZ軸を3Dプリント製の雌ねじで構成しており、この雌ねじを延長することで、Z軸を拡張できる3Dプリンタを作っています。
+ </description>
+    </item>
     
     <item>
       <title>PC状態を表示するスマートモニタに任意の画像を表示する</title>
@@ -119,18 +131,6 @@
  嵌合調整ってみんなどうやってるんでしょうか…ウチは歯医者さん方式です。
 「カチカチしてくださーい、あ、ここちょっと高いですね。もうちょっとで終わるので我慢してくださいね～」て pic.twitter.com/lHEmaafMHB
 &amp;mdash; 桐咲もでら🧰フィギュア原型師兼Vtuber (@trickydesigns) March 30, 2023  </description>
-    </item>
-    
-    <item>
-      <title>側面ノック式の太い芯用のシャープペンシルをはんだフィーダーにする</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%81%B4%E9%9D%A2%E3%83%8E%E3%83%83%E3%82%AF%E5%BC%8F%E3%81%AE%E5%A4%AA%E3%81%84%E8%8A%AF%E7%94%A8%E3%81%AE%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%82%92%E3%81%AF%E3%82%93%E3%81%A0%E3%83%95%E3%82%A3%E3%83%BC%E3%83%80%E3%83%BC%E3%81%AB%E3%81%99%E3%82%8B/</link>
-      <pubDate>Tue, 15 Aug 2023 23:54:38 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%81%B4%E9%9D%A2%E3%83%8E%E3%83%83%E3%82%AF%E5%BC%8F%E3%81%AE%E5%A4%AA%E3%81%84%E8%8A%AF%E7%94%A8%E3%81%AE%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%82%92%E3%81%AF%E3%82%93%E3%81%A0%E3%83%95%E3%82%A3%E3%83%BC%E3%83%80%E3%83%BC%E3%81%AB%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/側面ノック式の太い芯用のシャープペンシルをはんだフィーダーにする.jpg"&gt;Mechanical Pencil Solder Feeder Hackから発見。画像もここから転載。
-はんだ付けをする際に、必要量のはんだを出していく作業は、細かい作業をしているときは煩わしいものがあります。
-そんな時に役立つのが側面ノック式の太い芯用のシャープペンシルです。 はんだの線材の太さと同じ径のシャープペンシルを使うと、普通にはんだ送り器として利用できるようです。
-身近な製品でも電子工作のお供で活用できる面白い事例です。</description>
     </item>
     
   </channel>
