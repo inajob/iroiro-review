@@ -5,9 +5,19 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 21 Sep 2023 23:12:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Sep 2023 23:11:19 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RP2040をコアとしたRaspberry Pi Zero風の開発ボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/rp2040%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9Fraspberry-pi-zero%E9%A2%A8%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Sun, 24 Sep 2023 23:11:19 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/rp2040%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9Fraspberry-pi-zero%E9%A2%A8%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/RP2040をコアとしたRaspberry Pi Zero風の開発ボード.jpg"&gt;Waveshare RP2040-PiZero Development Board, Based On The Raspberry Pi RP2040 Dual-core Processor, 264KB SRAM and 16MB onboard Flash memoryから発見。画像もここから転載。
+Raspberry Pi Zero風の形をしたRP2040をコアとする開発ボードです。 mini HDMIポートやUSB Host、micro SDカードスロット、LiPo充電などの機能がついており、Raspberry Pi程は性能が必要ないが、パワフルな処理に向いているように見えます。</description>
+    </item>
     
     <item>
       <title>Z軸を自分で増やすことができる3Dプリンタ</title>
@@ -118,20 +128,6 @@ PCに接続されているUSB機器の抜き差しをPCのからの指示で実�
 簡易的にシステムを無線化するなどの用途で活躍しそうな面白いガジェットです。
 Arduino Leonardoと書いてあるのでコアとなるマイコンはATmega32u4と思われます。
  </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタにアタッチメントを付けてペンプロッタにする</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AB%E3%82%A2%E3%82%BF%E3%83%83%E3%83%81%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E4%BB%98%E3%81%91%E3%81%A6%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF%E3%81%AB%E3%81%99%E3%82%8B/</link>
-      <pubDate>Wed, 06 Sep 2023 23:16:08 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AB%E3%82%A2%E3%82%BF%E3%83%83%E3%83%81%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E4%BB%98%E3%81%91%E3%81%A6%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF%E3%81%AB%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタにアタッチメントを付けてペンプロッタにする.jpg"&gt;hsgwさんのPostからから発見。画像もここから転載。
-3Dプリンタにアタッチメントを付けてペンプロッタにしています。
-アタッチメントのデータはこちら で公開されているもののようです。
-デモで描いている絵も可愛いです。
-3Dプリンタをペンプロッタにするやつやったことないなと思ってやってみた pic.twitter.com/HQQUSAHxXj
-&amp;mdash; hsgw 𓃏 (@hsgw) August 4, 2023  </description>
     </item>
     
   </channel>
