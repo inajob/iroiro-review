@@ -5,9 +5,19 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 25 Sep 2023 23:33:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Sep 2023 23:15:32 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>懐中時計型のスマートウォッチ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%87%90%E4%B8%AD%E6%99%82%E8%A8%88%E5%9E%8B%E3%81%AE%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81/</link>
+      <pubDate>Tue, 26 Sep 2023 23:15:32 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%87%90%E4%B8%AD%E6%99%82%E8%A8%88%E5%9E%8B%E3%81%AE%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/懐中時計型のスマートウォッチ.jpg"&gt;It’s Time You Built A Smart Pocket Watchから発見。画像もここから転載。
+懐中時計型のスマートウォッチの作例です。 市販のスマートウォッチを懐中時計の筐体に入れているようですが、充電ポートをクラウンの部分に搭載するなど、細かい芸が光る逸品です。</description>
+    </item>
     
     <item>
       <title>0.42インチのOLEDにレンズが付いたもの</title>
@@ -113,19 +123,6 @@ PCに接続されているUSB機器の抜き差しをPCのからの指示で実�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/キーの役割をディスプレイで表示した4キーのマクロパッド.jpg"&gt;Open Deck - Macro Keyboard by Open Deck on Tindieから発見。画像もここから転載。
 キーの役割をディスプレイで表示した4キーのマクロパッドの作例です。 透明キーキャップとディスプレイを使い、役割に応じたキーのアイコンを各キーに表示しています。
 このかっこいい仕組み、内部は1つのTFT液晶ディスプレイと、特殊な形状にCNCで加工したアクリル板4枚でできています。 動画を見るとこの仕組みについて詳しく説明されており、似たような作品を作る際の参考になりそうです。
- </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタで作った帯を使って板や箱を編む</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E5%B8%AF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E6%9D%BF%E3%82%84%E7%AE%B1%E3%82%92%E7%B7%A8%E3%82%80/</link>
-      <pubDate>Sun, 10 Sep 2023 23:41:32 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E5%B8%AF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E6%9D%BF%E3%82%84%E7%AE%B1%E3%82%92%E7%B7%A8%E3%82%80/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作った帯を使って板や箱を編む.jpg"&gt;3D-Printed Woven Coasters Save Tabletops In Styleから発見。画像もここから転載。
-3Dプリンタで作った帯を使って板や箱を編む手法を紹介します。
-3Dプリンタで帯パーツを作り、これを組み合わせることでコースターを作るテクニックです。
-実用性というよりはその見た目において利点がある手法のように見えます。
  </description>
     </item>
     
