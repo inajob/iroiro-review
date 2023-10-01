@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 28 Sep 2023 23:16:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Oct 2023 23:46:23 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raspberry Pi PicoにQwiic端子を無理やり横付けする基板</title>
+      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%81%ABqwiic%E7%AB%AF%E5%AD%90%E3%82%92%E7%84%A1%E7%90%86%E3%82%84%E3%82%8A%E6%A8%AA%E4%BB%98%E3%81%91%E3%81%99%E3%82%8B%E5%9F%BA%E6%9D%BF/</link>
+      <pubDate>Sun, 01 Oct 2023 23:46:23 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%81%ABqwiic%E7%AB%AF%E5%AD%90%E3%82%92%E7%84%A1%E7%90%86%E3%82%84%E3%82%8A%E6%A8%AA%E4%BB%98%E3%81%91%E3%81%99%E3%82%8B%E5%9F%BA%E6%9D%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi PicoにQwiic端子を無理やり横付けする基板.jpg"&gt;Pico QwiicReset Addon by DUPPA on Tindieから発見。画像もここから転載。
+Raspberry Pi Picoは、パワフルなマイコンボードの1つとしてデファクトスタンダードとなりつつあります。
+この記事で紹介しているのは、Raspberry Pi PicoにQwiic端子を増設するためのアダプタです。
+この形状が独特で、写真を見ると一目瞭然。ピンヘッダの上側に寄生するような形でこのアダプタを取り付けるというものです。 Qwiic端子のモジュールをたくさん持っている人には便利な部品に見えます。</description>
+    </item>
     
     <item>
       <title>真空成形するための掃除機用アダプタを3Dプリンタで作る</title>
@@ -115,21 +127,6 @@ PCに接続されているUSB機器の抜き差しをPCのからの指示で実�
 3Dプリンタの調整は、まだまだ難しいところがあり、3Dプリンタを気軽に人に勧められない理由の一つだったりしますが、ここで紹介するアプリを使うとその問題の1つである、ベルトの張り具合について定量的な評価を行うことができます。
 このアプリではベルトの張り具合を測定するために、指でベルトを弾いたときに発生する音の周波数を利用しているようです。
  </description>
-    </item>
-    
-    <item>
-      <title>動くデジタルフィギュアカード</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%8B%95%E3%81%8F%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%E3%82%AB%E3%83%BC%E3%83%89/</link>
-      <pubDate>Wed, 13 Sep 2023 21:23:31 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%8B%95%E3%81%8F%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%E3%82%AB%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/動くデジタルフィギュアカード.jpg"&gt;YORIMIYAさんのTweetから発見。画像もここから転載。
-動画を見ると、二度見したくなるくらいのクオリティの、「動くデジタルフィギュアカード」を見ることができます。
-はじめはARか何かかな？と思ったのですが、そうではなく、これは薄型高解像度のフルカラーOLEDを2枚貼り合わせたものとのことです。 ちょっとお値段は張りますが、これは欲しい人が多そうです。
- &amp;quot;動く&amp;quot;デジタルフィギュアカード。初音ミクver
-かわよ！！！#初音ミク #miku16th pic.twitter.com/ANuNeSmqfX
-&amp;mdash; YORIMIYA (@jav6868) September 8, 2023  デジタルフィギュア開発用にOLEDフレキシブルディスプレイ買ってみた。極薄すぎて裏から透ける。いろいろ遊べそう pic.twitter.com/3aDQmmxbXH
-&amp;mdash; YORIMIYA (@jav6868) September 3, 2023  </description>
     </item>
     
   </channel>
