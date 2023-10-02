@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 01 Oct 2023 23:46:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Oct 2023 23:24:28 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>一見永久機関のように見えるオブジェ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E4%B8%80%E8%A6%8B%E6%B0%B8%E4%B9%85%E6%A9%9F%E9%96%A2%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E8%A6%8B%E3%81%88%E3%82%8B%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7/</link>
+      <pubDate>Mon, 02 Oct 2023 23:24:28 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E4%B8%80%E8%A6%8B%E6%B0%B8%E4%B9%85%E6%A9%9F%E9%96%A2%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E8%A6%8B%E3%81%88%E3%82%8B%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/一見永久機関のように見えるオブジェ.jpg"&gt;Simulating A Real Perpetual Motion Deviceから発見。画像もここから転載。
+上から落ちてくる鉄球がその勢いで飛び上がって、また落ちて、、と、一見永久機関のように見えるオブジェの作例です。
+種明かしとしては電磁石の力でパチンコ玉を加速させることで、この仕組みを実現しています
+ </description>
+    </item>
     
     <item>
       <title>Raspberry Pi PicoにQwiic端子を無理やり横付けする基板</title>
@@ -115,18 +127,6 @@ Raspberry Pi Zero風の形をしたRP2040をコアとする開発ボードです
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/I2Cで各ポートのON・OFFを切り替えられるUSBハブ.jpg"&gt;Flip The Switch On This I2C Controlled USB Hubから発見。画像もここから転載。
 PCに接続されているUSB機器の抜き差しをPCのからの指示で実行で実行したいと思ったことは有りませんか？
 この記事で紹介しているUSBハブはI2C制御で各ポートのON・OFFを切り替えられるというものです。 かゆいところに手が届きそうな作例です。</description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタのベルトの張り具合を音で測定するアプリ</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%99%E3%83%AB%E3%83%88%E3%81%AE%E5%BC%B5%E3%82%8A%E5%85%B7%E5%90%88%E3%82%92%E9%9F%B3%E3%81%A7%E6%B8%AC%E5%AE%9A%E3%81%99%E3%82%8B%E3%82%A2%E3%83%97%E3%83%AA/</link>
-      <pubDate>Thu, 14 Sep 2023 23:07:03 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%99%E3%83%AB%E3%83%88%E3%81%AE%E5%BC%B5%E3%82%8A%E5%85%B7%E5%90%88%E3%82%92%E9%9F%B3%E3%81%A7%E6%B8%AC%E5%AE%9A%E3%81%99%E3%82%8B%E3%82%A2%E3%83%97%E3%83%AA/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタのベルトの張り具合を音で測定するアプリ.jpg"&gt;Checking Belt Tension Gets Easier For (Some) Prusa 3D Printersから発見。画像もここから転載。
-3Dプリンタの調整は、まだまだ難しいところがあり、3Dプリンタを気軽に人に勧められない理由の一つだったりしますが、ここで紹介するアプリを使うとその問題の1つである、ベルトの張り具合について定量的な評価を行うことができます。
-このアプリではベルトの張り具合を測定するために、指でベルトを弾いたときに発生する音の周波数を利用しているようです。
- </description>
     </item>
     
   </channel>
