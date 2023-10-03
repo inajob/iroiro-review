@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 02 Oct 2023 23:24:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Oct 2023 23:29:38 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>水切りザル製のパズルボブル専用コントローラ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%B0%B4%E5%88%87%E3%82%8A%E3%82%B6%E3%83%AB%E8%A3%BD%E3%81%AE%E3%83%91%E3%82%BA%E3%83%AB%E3%83%9C%E3%83%96%E3%83%AB%E5%B0%82%E7%94%A8%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9/</link>
+      <pubDate>Tue, 03 Oct 2023 23:29:38 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%B0%B4%E5%88%87%E3%82%8A%E3%82%B6%E3%83%AB%E8%A3%BD%E3%81%AE%E3%83%91%E3%82%BA%E3%83%AB%E3%83%9C%E3%83%96%E3%83%AB%E5%B0%82%E7%94%A8%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/水切りザル製のパズルボブル専用コントローラ.jpg"&gt;Salad Spinner Busts Some New Movesから発見。画像もここから転載。
+水切りザルで作られた、パズルボブル専用コントローラです。
+水切りザルの中にマウスを逆さにして入れるという、ありあわせの部品での構成ですが、案外それっぽい操作感のコントローラになっていて面白いです。</description>
+    </item>
     
     <item>
       <title>一見永久機関のように見えるオブジェ</title>
@@ -116,17 +127,6 @@ Raspberry Pi Zero風の形をしたRP2040をコアとする開発ボードです
 最近AliExpressなどで見かける、安価なPCの性能をリアルタイムに表示する「スマートモニタ」ですが、これに任意の画像を表示する方法の紹介です。
  Pythonのコードで実装されており、手順に従えば、好きな画像を表示したり、オリジナルのテーマを作ることができるようです。 この手のスマートモニタは比較的安価ですが、良い感じのケースに入っており、任意の画像が表示できることで、面白い使い道が思いつきそうです
 対応している機種が限られている点に注意が必要です。</description>
-    </item>
-    
-    <item>
-      <title>I2Cで各ポートのON・OFFを切り替えられるUSBハブ</title>
-      <link>https://inajob.github.io/iroiro-review/post/i2c%E3%81%A7%E5%90%84%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AEonoff%E3%82%92%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88%E3%82%89%E3%82%8C%E3%82%8Busb%E3%83%8F%E3%83%96/</link>
-      <pubDate>Mon, 18 Sep 2023 23:49:19 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/i2c%E3%81%A7%E5%90%84%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AEonoff%E3%82%92%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88%E3%82%89%E3%82%8C%E3%82%8Busb%E3%83%8F%E3%83%96/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/I2Cで各ポートのON・OFFを切り替えられるUSBハブ.jpg"&gt;Flip The Switch On This I2C Controlled USB Hubから発見。画像もここから転載。
-PCに接続されているUSB機器の抜き差しをPCのからの指示で実行で実行したいと思ったことは有りませんか？
-この記事で紹介しているUSBハブはI2C制御で各ポートのON・OFFを切り替えられるというものです。 かゆいところに手が届きそうな作例です。</description>
     </item>
     
   </channel>
