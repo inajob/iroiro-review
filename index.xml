@@ -5,9 +5,25 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 03 Oct 2023 23:29:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Oct 2023 21:43:52 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>多条ねじを使ったペンプロッタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%A4%9A%E6%9D%A1%E3%81%AD%E3%81%98%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</link>
+      <pubDate>Wed, 04 Oct 2023 21:43:52 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%A4%9A%E6%9D%A1%E3%81%AD%E3%81%98%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/多条ねじを使ったペンプロッタ.jpg"&gt;ginoji_nRF52さんのPostから発見。画像もここから転載。
+3Dプリンタで作られた、多条ねじを使ったペンプロッタの作例です。 3Dプリンタで作るペンプロッタといえば、既製品のねじ付きロッドを用いたものが多いですが、この作例では3Dプリンタ製の多条ねじを使っているのが特徴のようです。
+データも公開されているようなので、手元の3Dプリンタで印刷してみても面白そうです。 （多条ねじは光造形式3Dプリンタじゃないと作れなさそう？）
+[ハギテック]
+MFT2023参加＆ペンプロッターがんばるぞの思いを込めた先行公開モデルです。https://t.co/ZApOI0I86H
+※展示品がどうなるかは、当日のお楽しみ！
+（@kyosuke_ishikaw いしかわきょーすけ さんに届け）#今作ってます #MFT2023 #MFTokyo2023 pic.twitter.com/JhLjneRIA5
+&amp;mdash; ginoji_nRF52, mini4WDもロボット？？　👍　ぱふぇ🐰📒 (@ginoji_5) July 27, 2023  </description>
+    </item>
     
     <item>
       <title>水切りザル製のパズルボブル専用コントローラ</title>
@@ -116,18 +132,6 @@ Raspberry Pi Zero風の形をしたRP2040をコアとする開発ボードです
 3Dプリンタといえば、自己複製機械の文脈で語られることも多いですが、実際のところ、すべての部品を自己複製できるわけでは有りません。
 この作例では特にZ軸について、自己複製の可能性を追求しています。 写真を見れば一目瞭然で、通常リードスクリューロッドなどで構成されるZ軸を3Dプリント製の雌ねじで構成しており、この雌ねじを延長することで、Z軸を拡張できる3Dプリンタを作っています。
  </description>
-    </item>
-    
-    <item>
-      <title>PC状態を表示するスマートモニタに任意の画像を表示する</title>
-      <link>https://inajob.github.io/iroiro-review/post/pc%E7%8A%B6%E6%85%8B%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%A2%E3%83%8B%E3%82%BF%E3%81%AB%E4%BB%BB%E6%84%8F%E3%81%AE%E7%94%BB%E5%83%8F%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B/</link>
-      <pubDate>Tue, 19 Sep 2023 23:14:40 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/pc%E7%8A%B6%E6%85%8B%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%A2%E3%83%8B%E3%82%BF%E3%81%AB%E4%BB%BB%E6%84%8F%E3%81%AE%E7%94%BB%E5%83%8F%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/PC状態を表示するスマートモニタに任意の画像を表示する.jpg"&gt;Cheap LCD Uses USB Serialから発見。画像もここから転載。
-最近AliExpressなどで見かける、安価なPCの性能をリアルタイムに表示する「スマートモニタ」ですが、これに任意の画像を表示する方法の紹介です。
- Pythonのコードで実装されており、手順に従えば、好きな画像を表示したり、オリジナルのテーマを作ることができるようです。 この手のスマートモニタは比較的安価ですが、良い感じのケースに入っており、任意の画像が表示できることで、面白い使い道が思いつきそうです
-対応している機種が限られている点に注意が必要です。</description>
     </item>
     
   </channel>

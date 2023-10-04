@@ -5,9 +5,25 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 27 Sep 2023 23:46:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Oct 2023 21:43:52 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>多条ねじを使ったペンプロッタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%A4%9A%E6%9D%A1%E3%81%AD%E3%81%98%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</link>
+      <pubDate>Wed, 04 Oct 2023 21:43:52 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%A4%9A%E6%9D%A1%E3%81%AD%E3%81%98%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/多条ねじを使ったペンプロッタ.jpg"&gt;ginoji_nRF52さんのPostから発見。画像もここから転載。
+3Dプリンタで作られた、多条ねじを使ったペンプロッタの作例です。 3Dプリンタで作るペンプロッタといえば、既製品のねじ付きロッドを用いたものが多いですが、この作例では3Dプリンタ製の多条ねじを使っているのが特徴のようです。
+データも公開されているようなので、手元の3Dプリンタで印刷してみても面白そうです。 （多条ねじは光造形式3Dプリンタじゃないと作れなさそう？）
+[ハギテック]
+MFT2023参加＆ペンプロッターがんばるぞの思いを込めた先行公開モデルです。https://t.co/ZApOI0I86H
+※展示品がどうなるかは、当日のお楽しみ！
+（@kyosuke_ishikaw いしかわきょーすけ さんに届け）#今作ってます #MFT2023 #MFTokyo2023 pic.twitter.com/JhLjneRIA5
+&amp;mdash; ginoji_nRF52, mini4WDもロボット？？　👍　ぱふぇ🐰📒 (@ginoji_5) July 27, 2023  </description>
+    </item>
     
     <item>
       <title>2色3Dプリントで北斎を描く</title>
@@ -122,18 +138,6 @@ WASEN Benchy by Tommy Zerohttps://t.co/MvqUZ6WrRI pic.twitter.com/1fg2Av3X1Y
 3Dプリンタといえば、プラスチック、特にPLAやABSを使った造形のものがほとんどですが、この記事で紹介しているのは「粘土」を使った3Dプリントです。
 普通の積層式の3DプリンタであるEnder3のヘッド部分を改造して粘土を扱えるようにしています。
 この部品自体も3Dプリントで作られているので、Ender3があれば比較的簡単に試すことができそうです。 といっても、粘土を送り出す部分などは他の例も少なくなかなか難しそうです。</description>
-    </item>
-    
-    <item>
-      <title>3Dプリントのパーツを組み合わせる際に継ぎ目にこだわる</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E3%83%91%E3%83%BC%E3%83%84%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%82%8B%E9%9A%9B%E3%81%AB%E7%B6%99%E3%81%8E%E7%9B%AE%E3%81%AB%E3%81%93%E3%81%A0%E3%82%8F%E3%82%8B/</link>
-      <pubDate>Thu, 17 Aug 2023 23:37:24 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E3%83%91%E3%83%BC%E3%83%84%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%82%8B%E9%9A%9B%E3%81%AB%E7%B6%99%E3%81%8E%E7%9B%AE%E3%81%AB%E3%81%93%E3%81%A0%E3%82%8F%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリントのパーツを組み合わせる際に継ぎ目にこだわる.jpg"&gt;Enhance Your Enclosures With A Shadow Lineから発見。画像もここから転載。
-3Dプリントのパーツを組み合わせる際に継ぎ目を工夫している事例です。 これは射出成形で用いられる継ぎ目のテクニックのようですが3Dプリンタでも有効なようです。
-継ぎ目の部分が微妙な誤差で隙間が空いてしまうのを防いだり、重ねて組み立てるときにずれることを防ぐなどの効果があるようです。
- </description>
     </item>
     
   </channel>
