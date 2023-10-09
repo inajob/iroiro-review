@@ -5,9 +5,21 @@
     <description>Recent content in Lisp on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 23 Mar 2023 23:15:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Oct 2023 23:35:34 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/lisp/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>キーボード付きのLisp端末</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8D%E3%81%AElisp%E7%AB%AF%E6%9C%AB/</link>
+      <pubDate>Mon, 09 Oct 2023 23:35:34 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8D%E3%81%AElisp%E7%AB%AF%E6%9C%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/キーボード付きのLisp端末.jpg"&gt;Lisp Badge LEから発見。画像もここから転載。
+キーボード付きのLisp端末の作例です。 画面は250×122のモノクロのメモリ液晶を使っており、省エネです。
+タクトスイッチはリバースマウントされており、この見た目ですが基板は1枚で構成されています。 プロセッサはAVR128DB48を採用しています。
+コイン電池1つで動作するため、これがあればどこでもLispプログラミングが出来ますね！</description>
+    </item>
     
     <item>
       <title>太陽光パネルで充電可能なバッテリーで約2年間動作する小型コンピュータ</title>
