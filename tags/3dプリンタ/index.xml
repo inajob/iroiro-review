@@ -5,9 +5,21 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 05 Oct 2023 23:32:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Oct 2023 22:52:46 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>積層式3Dプリンタ成果物の表面をツルツルにする</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%A9%8D%E5%B1%A4%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E6%88%90%E6%9E%9C%E7%89%A9%E3%81%AE%E8%A1%A8%E9%9D%A2%E3%82%92%E3%83%84%E3%83%AB%E3%83%84%E3%83%AB%E3%81%AB%E3%81%99%E3%82%8B/</link>
+      <pubDate>Tue, 10 Oct 2023 22:52:46 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%A9%8D%E5%B1%A4%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E6%88%90%E6%9E%9C%E7%89%A9%E3%81%AE%E8%A1%A8%E9%9D%A2%E3%82%92%E3%83%84%E3%83%AB%E3%83%84%E3%83%AB%E3%81%AB%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/積層式3Dプリンタ成果物の表面をツルツルにする.jpg"&gt;Powder Your Prints For Baby-Smoothnessから発見。画像もここから転載。
+積層式3Dプリンタ成果物の表面をツルツルにする技法についての記事です。 5層に渡るレジンや塗料の塗布ややすり掛けを駆使して、ピカピカの表面にしています。
+おそらく表面が分厚くなってしまうので、精度のある工作には向かなそうですが、完成度を高めるには良さそうなテクニックです。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタを改造してZ軸を10フィートに延長する</title>
@@ -127,17 +139,6 @@ WASEN Benchy by Tommy Zerohttps://t.co/MvqUZ6WrRI pic.twitter.com/1fg2Av3X1Y
 確かに歯ブラシというのは「歯を研磨する」ためのものなので、この改造は非常に的を射ています。
 改造方法としては、ブラシ部分に3Dプリンタ製のアタッチメントを介して紙やすりを貼り付けているだけです。
  </description>
-    </item>
-    
-    <item>
-      <title>グラフィックVFDを搭載したかっこいいCyberdeck</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AFvfd%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84cyberdeck/</link>
-      <pubDate>Tue, 05 Sep 2023 00:06:37 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AFvfd%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84cyberdeck/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/グラフィックVFDを搭載したかっこいいCyberdeck.jpg"&gt;2023 Cyberdeck Challenge: KOAT0 Portable Terminalから発見。画像もここから転載。
-グラフィックVFDを搭載したかっこいいCyberdeckの作例です。 グラフィックVFDは解像度が非常に小さいので実用性には問題がありそうですが、とてもかっこいいです。
-ケースは3Dプリンタで作られています。こういう作例を見ていると造形範囲の大きな3Dプリンタが欲しくなりますね。</description>
     </item>
     
   </channel>

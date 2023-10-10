@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 09 Oct 2023 23:35:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Oct 2023 22:52:46 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>積層式3Dプリンタ成果物の表面をツルツルにする</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%A9%8D%E5%B1%A4%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E6%88%90%E6%9E%9C%E7%89%A9%E3%81%AE%E8%A1%A8%E9%9D%A2%E3%82%92%E3%83%84%E3%83%AB%E3%83%84%E3%83%AB%E3%81%AB%E3%81%99%E3%82%8B/</link>
+      <pubDate>Tue, 10 Oct 2023 22:52:46 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%A9%8D%E5%B1%A4%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E6%88%90%E6%9E%9C%E7%89%A9%E3%81%AE%E8%A1%A8%E9%9D%A2%E3%82%92%E3%83%84%E3%83%AB%E3%83%84%E3%83%AB%E3%81%AB%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/積層式3Dプリンタ成果物の表面をツルツルにする.jpg"&gt;Powder Your Prints For Baby-Smoothnessから発見。画像もここから転載。
+積層式3Dプリンタ成果物の表面をツルツルにする技法についての記事です。 5層に渡るレジンや塗料の塗布ややすり掛けを駆使して、ピカピカの表面にしています。
+おそらく表面が分厚くなってしまうので、精度のある工作には向かなそうですが、完成度を高めるには良さそうなテクニックです。
+ </description>
+    </item>
     
     <item>
       <title>キーボード付きのLisp端末</title>
@@ -122,18 +134,6 @@ WASEN Benchy by Tommy Zerohttps://t.co/MvqUZ6WrRI pic.twitter.com/1fg2Av3X1Y
       <guid>https://inajob.github.io/iroiro-review/post/%E6%87%90%E4%B8%AD%E6%99%82%E8%A8%88%E5%9E%8B%E3%81%AE%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/懐中時計型のスマートウォッチ.jpg"&gt;It’s Time You Built A Smart Pocket Watchから発見。画像もここから転載。
 懐中時計型のスマートウォッチの作例です。 市販のスマートウォッチを懐中時計の筐体に入れているようですが、充電ポートをクラウンの部分に搭載するなど、細かい芸が光る逸品です。</description>
-    </item>
-    
-    <item>
-      <title>0.42インチのOLEDにレンズが付いたもの</title>
-      <link>https://inajob.github.io/iroiro-review/post/0.42%E3%82%A4%E3%83%B3%E3%83%81%E3%81%AEoled%E3%81%AB%E3%83%AC%E3%83%B3%E3%82%BA%E3%81%8C%E4%BB%98%E3%81%84%E3%81%9F%E3%82%82%E3%81%AE/</link>
-      <pubDate>Mon, 25 Sep 2023 23:33:51 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/0.42%E3%82%A4%E3%83%B3%E3%83%81%E3%81%AEoled%E3%81%AB%E3%83%AC%E3%83%B3%E3%82%BA%E3%81%8C%E4%BB%98%E3%81%84%E3%81%9F%E3%82%82%E3%81%AE/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/0.42インチのOLEDにレンズが付いたもの.jpg"&gt;Miniature 0.42&amp;quot; OLED 72x40 Display with Resin Lens by Questwise Ventures on Tindieから発見。画像もここから転載。
-0.42インチのOLEDは、AliExpressなどでよく見かける部品ですが、小さすぎてあまり活用の場面が有りません。 この小さなOLEDにレンズのような樹脂を重ねることで、少し表示を大きく見せるという技があるようです。
-たいして表示は大きくなっていませんが、バブルディスプレイのような見た目が印象的です。
- </description>
     </item>
     
   </channel>
