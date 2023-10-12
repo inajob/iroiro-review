@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 12 Oct 2023 00:12:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Oct 2023 23:29:15 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DIPパッケージのICを開きにして表面実装するHACK</title>
+      <link>https://inajob.github.io/iroiro-review/post/dip%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%81%AEic%E3%82%92%E9%96%8B%E3%81%8D%E3%81%AB%E3%81%97%E3%81%A6%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8Bhack/</link>
+      <pubDate>Thu, 12 Oct 2023 23:29:15 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/dip%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%81%AEic%E3%82%92%E9%96%8B%E3%81%8D%E3%81%AB%E3%81%97%E3%81%A6%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8Bhack/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/DIPパッケージのICを開きにして表面実装するHACK.jpg"&gt;Chip Shortage Engineering: Misusing DIP Packagesから発見。画像もここから転載。
+半導体不足の影響で、よく使われる部品が思わぬ高値になっていることがあります。 この記事の作者は8ピンDIPのATtiny85を大量に持っており、これを活用する方法を考えていたようです。
+その方法は、画像のようにDIPのICの足を「開き」にすることです。 この「開き」にしたピンに合うような長いパッドのフットプリントを用意し、DIP部品をSMDパーツとして基板に実装しています。
+まぁこんなことをしなくても、半導体不足の影響を受けにくい最新のIC（ATtinyでいうと、tinyAVR 2系のIC）を使う方がコスト的には安くつくようですが、家にDIP部品が余っている方は試してみるのはどうでしょう？</description>
+    </item>
     
     <item>
       <title>磁石を使った歯がない歯車</title>
@@ -121,23 +133,6 @@ Raspberry Pi Picoは、パワフルなマイコンボードの1つとしてデ�
 真空成型するための掃除機用アダプタを3Dプリンタで作っています。 素材としてはプラスチック製のお皿を使い、ヒートガンで熱したものをこの装置で吸い込むことで成型します。
 3Dプリンタとドライヤー、掃除機があれば気軽に試すことができそうです。
  </description>
-    </item>
-    
-    <item>
-      <title>2色3Dプリントで北斎を描く</title>
-      <link>https://inajob.github.io/iroiro-review/post/2%E8%89%B23d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A7%E5%8C%97%E6%96%8E%E3%82%92%E6%8F%8F%E3%81%8F/</link>
-      <pubDate>Wed, 27 Sep 2023 23:46:04 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/2%E8%89%B23d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A7%E5%8C%97%E6%96%8E%E3%82%92%E6%8F%8F%E3%81%8F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/2色3Dプリントで北斎を描く.jpg"&gt;きたになおきさんのTweetから発見。画像もここから転載。
-2色3Dプリントで北斎の絵画を思わせるような波を造形し、そこに3Dプリンタのテスト用のデータとして有名なBechyを乗せています。
-多色の3Dプリントができると表現力が増して面白いと感じました。
-データは https://www.printables.com/model/273856-the-great-benchy-wave にあるようです。
-Prusa i3 MK3S+ with MMU2Sで23時間13分の2色プリントに成功しました。MMU2Sのエラーはゼロ！ヒートブレイクを純正にするだけでこんなに安定するとは。
-The Great Benchy Wave by JonShttps://t.co/wkvEp0RjA6
-3Dbenchyhttps://t.co/un9heJNeFK
-WASEN Benchy by Tommy Zerohttps://t.co/MvqUZ6WrRI pic.twitter.com/1fg2Av3X1Y
-&amp;mdash; きたになおき (@nkitani) September 16, 2023  </description>
     </item>
     
   </channel>
