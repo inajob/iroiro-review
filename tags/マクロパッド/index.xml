@@ -5,9 +5,21 @@
     <description>Recent content in マクロパッド on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 11 Sep 2023 23:27:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Oct 2023 23:46:34 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%91%E3%83%83%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>キーの役割をネームプレート的に配置マクロキーパッド</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AD%E3%83%BC%E3%81%AE%E5%BD%B9%E5%89%B2%E3%82%92%E3%83%8D%E3%83%BC%E3%83%A0%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E7%9A%84%E3%81%AB%E9%85%8D%E7%BD%AE%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%AD%E3%83%BC%E3%83%91%E3%83%83%E3%83%89/</link>
+      <pubDate>Mon, 16 Oct 2023 23:46:34 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AD%E3%83%BC%E3%81%AE%E5%BD%B9%E5%89%B2%E3%82%92%E3%83%8D%E3%83%BC%E3%83%A0%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E7%9A%84%E3%81%AB%E9%85%8D%E7%BD%AE%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%AD%E3%83%BC%E3%83%91%E3%83%83%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/キーの役割をネームプレート的に配置マクロキーパッド.jpg"&gt;A Tile Based MacroPadから発見。画像もここから転載。
+マクロパッドのキーの役割を切り替えて使えるようにすることを考えると、キーのラベルは動的に切り替えられることが求められます。
+富豪的な方法としては、キーキャップの中に液晶を仕込むなどがありますが、この記事で紹介しているのは、キーの横にそのキーの役割がエンボスで書かれたラベルパーツを並べて置くというものです。 このラベルパーツの中には磁石が入っており、このマクロキーパッドはその磁石の配置から何のラベルが置かれているかを認識します。
+これにより、8つのキーの役割を物理的なラベルパーツで設定できます。 直観的でわかりやすいキーの設定方法だと感じます。</description>
+    </item>
     
     <item>
       <title>キーの役割をディスプレイで表示した4キーのマクロパッド</title>
