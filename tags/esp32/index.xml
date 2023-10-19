@@ -5,9 +5,21 @@
     <description>Recent content in ESP32 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 23 Aug 2023 23:15:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Oct 2023 21:28:55 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/esp32/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>オープンソースの電子ペーパー搭載の電子書籍リーダー</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E6%90%AD%E8%BC%89%E3%81%AE%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC/</link>
+      <pubDate>Thu, 19 Oct 2023 21:28:55 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E6%90%AD%E8%BC%89%E3%81%AE%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/オープンソースの電子ペーパー搭載の電子書籍リーダー.jpg"&gt;The Open Bookから発見。画像もここから転載。
+オープンソースの電子ペーパー搭載の電子書籍リーダーです。 以前 オープンソースの電子ブックリーダー 紹介していたものを改良し、ESP32-S3をコアに用いたものです。
+リチウムイオンバッテリー充放電機能を搭載し、3Dプリンタ用のケースのデータも公開されています。
+多国語対応されたファームウェアも提供されているので、自分好みの電子書籍端末を作りたい人は、これを基に改造していくというアプローチもありそうです。</description>
+    </item>
     
     <item>
       <title>ESP32で動く単漢字変換</title>
@@ -126,19 +138,6 @@ Arduinoによる動作のカスタマイズ ここまで紹介してきたよう
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/128x64のOLEDが2画面搭載されたスマートウォッチ.jpg"&gt;ESP32 Dual-screen watch V2から発見。画像もここから転載。
 AliExpressなどを探すと128x64の小型のOLEDを見つけられますが、用途によっては少し小さすぎます。 この記事で紹介しているスマートウォッチは、このOLEDを2枚並べてこの問題を解決しています。
 コアとなるマイコンモジュールはXIAO ESP32C3です。</description>
-    </item>
-    
-    <item>
-      <title>14セグメント24桁のディスプレイ</title>
-      <link>https://inajob.github.io/iroiro-review/post/24%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%8812%E6%A1%81%E3%81%AE%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</link>
-      <pubDate>Tue, 11 Apr 2023 00:01:52 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/24%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%8812%E6%A1%81%E3%81%AE%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/24セグメント12桁のディスプレイ.jpg"&gt;S14Clock LED Word Clock Kit (24 Characters) by Store139 on Tindieから発見。画像もここから転載。
-14セグメント24桁のディスプレイです。(12桁のものもあるようです。) 制御はESP32 S2 Miniで、もちろんWiFi経由で設定が出来ます。
-これだけセグメントがあるとアルファベットを表示することが出来るので、様々な情報の表示機として活用できそうです。
-表示の切り替えエフェクトなど、細かい作りこみがされており、このガジェットだけでかなりのことが出来そうです。
- </description>
     </item>
     
   </channel>

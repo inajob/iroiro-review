@@ -5,9 +5,21 @@
     <description>Recent content in 電子ペーパー on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 11 May 2023 23:31:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Oct 2023 21:28:55 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>オープンソースの電子ペーパー搭載の電子書籍リーダー</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E6%90%AD%E8%BC%89%E3%81%AE%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC/</link>
+      <pubDate>Thu, 19 Oct 2023 21:28:55 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E6%90%AD%E8%BC%89%E3%81%AE%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/オープンソースの電子ペーパー搭載の電子書籍リーダー.jpg"&gt;The Open Bookから発見。画像もここから転載。
+オープンソースの電子ペーパー搭載の電子書籍リーダーです。 以前 オープンソースの電子ブックリーダー 紹介していたものを改良し、ESP32-S3をコアに用いたものです。
+リチウムイオンバッテリー充放電機能を搭載し、3Dプリンタ用のケースのデータも公開されています。
+多国語対応されたファームウェアも提供されているので、自分好みの電子書籍端末を作りたい人は、これを基に改造していくというアプローチもありそうです。</description>
+    </item>
     
     <item>
       <title>薄くフチなしの筐体が印象的な電子ペーパー天気表示機</title>
@@ -128,18 +140,6 @@ ESP32のULPを使うことで低消費電力の動作を実現しています。
 この記事で紹介しているのは太陽光で発電し、LoRaで通信し、通信結果を電子ペーパーに表示するというガジェット「LoRaPaper」です。
 太陽光で発電した電力をスーパーキャパシタに貯めこみ、十分溜まったところで動作を行うようです。
 CPUはArduino UNOなどと同じATmega328のようで、開発はArduinoIDEでできるようです。</description>
-    </item>
-    
-    <item>
-      <title>コンパクトな電子ペーパーを使った時計</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%99%82%E8%A8%88/</link>
-      <pubDate>Wed, 16 Dec 2020 10:00:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%99%82%E8%A8%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/eink-clock.jpg"&gt;ePaper clockから発見。画像もここから転載。
-手のひらサイズの筐体に収められた電子ペーパー時計ガジェットです。
-メインのCPUはMSP430で、CR2032電池で4か月動作するようです。 32MBのフラッシュメモリも搭載されており、好きなフォントを利用することが出来ます。
-プログラムはMSP430版ArduinoであるEnergiaで作成されており、比較的簡単に改造できそうです。</description>
     </item>
     
   </channel>
