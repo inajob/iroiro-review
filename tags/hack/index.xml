@@ -5,9 +5,22 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 17 Oct 2023 21:48:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Oct 2023 00:24:39 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>基板側面に電池をマウントする手法</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%9F%BA%E6%9D%BF%E5%81%B4%E9%9D%A2%E3%81%AB%E9%9B%BB%E6%B1%A0%E3%82%92%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88%E3%81%99%E3%82%8B%E6%89%8B%E6%B3%95/</link>
+      <pubDate>Thu, 19 Oct 2023 00:24:39 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%9F%BA%E6%9D%BF%E5%81%B4%E9%9D%A2%E3%81%AB%E9%9B%BB%E6%B1%A0%E3%82%92%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88%E3%81%99%E3%82%8B%E6%89%8B%E6%B3%95/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/基板側面に電池をマウントする手法.jpg"&gt;パレットシステム よっぴさんのPostから発見。画像もここから転載。
+基板側面に電池をマウントする手法です。 通常電池ボックスは、基板に対して平行に取り付けられますが、別にその限りではありません。 このPostでは、基板に対して横向きに電池ボックスをマウントする方法を紹介しています。
+このような手法を知っておくことで基板設計の自由度が上がります。
+横向き電池ボックスいい感じ👍 pic.twitter.com/BNpMmrUlCg
+&amp;mdash; パレットシステム よっぴ&amp;#39; (@4py1) April 8, 2023  </description>
+    </item>
     
     <item>
       <title>キーパッドの配線をウィザード形式で自動判定する仕組み</title>
@@ -116,20 +129,6 @@
 3Dプリンタで帯パーツを作り、これを組み合わせることでコースターを作るテクニックです。
 実用性というよりはその見た目において利点がある手法のように見えます。
  </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタにアタッチメントを付けてペンプロッタにする</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AB%E3%82%A2%E3%82%BF%E3%83%83%E3%83%81%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E4%BB%98%E3%81%91%E3%81%A6%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF%E3%81%AB%E3%81%99%E3%82%8B/</link>
-      <pubDate>Wed, 06 Sep 2023 23:16:08 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AB%E3%82%A2%E3%82%BF%E3%83%83%E3%83%81%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E4%BB%98%E3%81%91%E3%81%A6%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF%E3%81%AB%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタにアタッチメントを付けてペンプロッタにする.jpg"&gt;hsgwさんのPostからから発見。画像もここから転載。
-3Dプリンタにアタッチメントを付けてペンプロッタにしています。
-アタッチメントのデータはこちら で公開されているもののようです。
-デモで描いている絵も可愛いです。
-3Dプリンタをペンプロッタにするやつやったことないなと思ってやってみた pic.twitter.com/HQQUSAHxXj
-&amp;mdash; hsgw 𓃏 (@hsgw) August 4, 2023  </description>
     </item>
     
   </channel>
