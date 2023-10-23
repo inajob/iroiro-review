@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 22 Oct 2023 21:13:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Oct 2023 21:18:59 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>シュレッダーに車輪をつける</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%A5%E3%83%AC%E3%83%83%E3%83%80%E3%83%BC%E3%81%AB%E8%BB%8A%E8%BC%AA%E3%82%92%E3%81%A4%E3%81%91%E3%82%8B/</link>
+      <pubDate>Mon, 23 Oct 2023 21:18:59 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%A5%E3%83%AC%E3%83%83%E3%83%80%E3%83%BC%E3%81%AB%E8%BB%8A%E8%BC%AA%E3%82%92%E3%81%A4%E3%81%91%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/シュレッダーに車輪をつける.jpg"&gt;The Insatiable Hunger Of Paper Shredder-Based Locomotionから発見。画像もここから転載。
+シュレッダーに車輪をつける。それだけの作例です。 しかし、この動画を見ると、何とも言えない「生き物感」を感じ取ることができ、不思議な気持ちになります。
+ </description>
+    </item>
     
     <item>
       <title>フィラメントLEDを使ったUART制御できる大きい7セグメント表示機</title>
@@ -121,18 +132,6 @@ Apple Pencilの充電、置き場所を見事に解決しています。
 積層式3Dプリンタ成果物の表面をツルツルにする技法についての記事です。 5層に渡るレジンや塗料の塗布ややすり掛けを駆使して、ピカピカの表面にしています。
 おそらく表面が分厚くなってしまうので、精度のある工作には向かなそうですが、完成度を高めるには良さそうなテクニックです。
  </description>
-    </item>
-    
-    <item>
-      <title>キーボード付きのLisp端末</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8D%E3%81%AElisp%E7%AB%AF%E6%9C%AB/</link>
-      <pubDate>Mon, 09 Oct 2023 23:35:34 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8D%E3%81%AElisp%E7%AB%AF%E6%9C%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/キーボード付きのLisp端末.jpg"&gt;Lisp Badge LEから発見。画像もここから転載。
-キーボード付きのLisp端末の作例です。 画面は250×122のモノクロのメモリ液晶を使っており、省エネです。
-タクトスイッチはリバースマウントされており、この見た目ですが基板は1枚で構成されています。 プロセッサはAVR128DB48を採用しています。
-コイン電池1つで動作するため、これがあればどこでもLispプログラミングが出来ますね！</description>
     </item>
     
   </channel>
