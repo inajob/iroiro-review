@@ -5,9 +5,27 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 23 Oct 2023 21:18:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Oct 2023 21:13:30 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32</title>
+      <link>https://inajob.github.io/iroiro-review/tags/esp32/</link>
+      <pubDate>Tue, 24 Oct 2023 21:13:30 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/esp32/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>音楽プレーヤー</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E9%9F%B3%E6%A5%BD%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC/</link>
+      <pubDate>Tue, 24 Oct 2023 21:13:30 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E9%9F%B3%E6%A5%BD%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>HACK</title>
@@ -33,15 +51,6 @@
       <pubDate>Sun, 22 Oct 2023 21:13:08 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>ESP32</title>
-      <link>https://inajob.github.io/iroiro-review/tags/esp32/</link>
-      <pubDate>Thu, 19 Oct 2023 21:28:55 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/esp32/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
@@ -87,15 +96,6 @@
       <pubDate>Mon, 09 Oct 2023 23:35:34 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/avr128db48/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>Lisp</title>
-      <link>https://inajob.github.io/iroiro-review/tags/lisp/</link>
-      <pubDate>Mon, 09 Oct 2023 23:35:34 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/lisp/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     

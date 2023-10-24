@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 23 Oct 2023 21:18:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Oct 2023 21:13:30 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2000年代を思い出させるオープンソースの音楽プレーヤー</title>
+      <link>https://inajob.github.io/iroiro-review/post/2000%E5%B9%B4%E4%BB%A3%E3%82%92%E6%80%9D%E3%81%84%E5%87%BA%E3%81%95%E3%81%9B%E3%82%8B%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E9%9F%B3%E6%A5%BD%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC/</link>
+      <pubDate>Tue, 24 Oct 2023 21:13:30 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/2000%E5%B9%B4%E4%BB%A3%E3%82%92%E6%80%9D%E3%81%84%E5%87%BA%E3%81%95%E3%81%9B%E3%82%8B%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E9%9F%B3%E6%A5%BD%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/2000年代を思い出させるオープンソースの音楽プレーヤー.jpg"&gt;Tangaraから発見。画像もここから転載。
+2000年代を思い出させるオープンソースの音楽プレーヤーのクラウドファンディングプロジェクトです。
+中身はESP32、DACとしてWM8523、アンプにINA1620を採用しています。 オープンソースで開発が進められているため、カスタマイズは容易そうです。</description>
+    </item>
     
     <item>
       <title>シュレッダーに車輪をつける</title>
@@ -120,18 +131,6 @@ Apple Pencilの充電、置き場所を見事に解決しています。
 以前もこのような仕組みのもう少し大掛かりな作例を紹介しました。 磁石を使って作る「ギア」
 歯がない歯車の応用として、クラウンギアみたいにもできました pic.twitter.com/erBpfZyrRH
 &amp;mdash; しゃ (@shacho_tech) October 2, 2023  </description>
-    </item>
-    
-    <item>
-      <title>積層式3Dプリンタ成果物の表面をツルツルにする</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E7%A9%8D%E5%B1%A4%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E6%88%90%E6%9E%9C%E7%89%A9%E3%81%AE%E8%A1%A8%E9%9D%A2%E3%82%92%E3%83%84%E3%83%AB%E3%83%84%E3%83%AB%E3%81%AB%E3%81%99%E3%82%8B/</link>
-      <pubDate>Tue, 10 Oct 2023 22:52:46 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E7%A9%8D%E5%B1%A4%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E6%88%90%E6%9E%9C%E7%89%A9%E3%81%AE%E8%A1%A8%E9%9D%A2%E3%82%92%E3%83%84%E3%83%AB%E3%83%84%E3%83%AB%E3%81%AB%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/積層式3Dプリンタ成果物の表面をツルツルにする.jpg"&gt;Powder Your Prints For Baby-Smoothnessから発見。画像もここから転載。
-積層式3Dプリンタ成果物の表面をツルツルにする技法についての記事です。 5層に渡るレジンや塗料の塗布ややすり掛けを駆使して、ピカピカの表面にしています。
-おそらく表面が分厚くなってしまうので、精度のある工作には向かなそうですが、完成度を高めるには良さそうなテクニックです。
- </description>
     </item>
     
   </channel>
