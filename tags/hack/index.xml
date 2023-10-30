@@ -5,9 +5,21 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 23 Oct 2023 21:18:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Oct 2023 21:18:12 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ミクロサイズの銃を作る実験</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%9F%E3%82%AF%E3%83%AD%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E9%8A%83%E3%82%92%E4%BD%9C%E3%82%8B%E5%AE%9F%E9%A8%93/</link>
+      <pubDate>Mon, 30 Oct 2023 21:18:12 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9F%E3%82%AF%E3%83%AD%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E9%8A%83%E3%82%92%E4%BD%9C%E3%82%8B%E5%AE%9F%E9%A8%93/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ミクロサイズの銃を作る実験.jpg"&gt;Pushing The Boundaries Of Tiny Mechanical Devices With Compliant Mechanismsから発見。画像もここから転載。
+ミクロサイズの銃を作る実験です。 バネも含めて一体成型でデザインされていることがミソで、3Dプリンタ用の大きなモデルもあり、動作の原理を体験できるます。
+将来的に人工細胞などが作られるようになると、こういう武器で最近を退治するようになるのでしょうか？
+3Dプリンタで実際に同じ原理のものが作れるということは、形状の試行錯誤を3Dプリンタで行うことが出来るということで、手元にある工作機がミクロの世界に繋がっていると思うと不思議な気持ちになります。</description>
+    </item>
     
     <item>
       <title>シュレッダーに車輪をつける</title>
@@ -115,17 +127,6 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタのベルトの張り具合を音で測定するアプリ.jpg"&gt;Checking Belt Tension Gets Easier For (Some) Prusa 3D Printersから発見。画像もここから転載。
 3Dプリンタの調整は、まだまだ難しいところがあり、3Dプリンタを気軽に人に勧められない理由の一つだったりしますが、ここで紹介するアプリを使うとその問題の1つである、ベルトの張り具合について定量的な評価を行うことができます。
 このアプリではベルトの張り具合を測定するために、指でベルトを弾いたときに発生する音の周波数を利用しているようです。
- </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタで作る面ファスナー</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E9%9D%A2%E3%83%95%E3%82%A1%E3%82%B9%E3%83%8A%E3%83%BC/</link>
-      <pubDate>Tue, 12 Sep 2023 23:37:39 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E9%9D%A2%E3%83%95%E3%82%A1%E3%82%B9%E3%83%8A%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作る面ファスナー.jpg"&gt;3D Printed — Um — Hook And Loop Fastenersから発見。画像もここから転載。
-3Dプリンタで作る面ファスナー。いわゆるマジックテープというやつです。 様々なフィラメント、様々な形状で実験し、意外としっかりとくっつくことを紹介しています。 こういううとだと積層式の3Dプリンタの悪い特徴である「糸引き」も役立つみたいです。
  </description>
     </item>
     
