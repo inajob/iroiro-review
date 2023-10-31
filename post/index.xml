@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 30 Oct 2023 21:18:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Oct 2023 23:52:27 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>電子ペーパーを用いたフチなしの情報板</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E3%83%95%E3%83%81%E3%81%AA%E3%81%97%E3%81%AE%E6%83%85%E5%A0%B1%E6%9D%BF/</link>
+      <pubDate>Tue, 31 Oct 2023 23:52:27 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E3%83%95%E3%83%81%E3%81%AA%E3%81%97%E3%81%AE%E6%83%85%E5%A0%B1%E6%9D%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/電子ペーパーを用いたフチなしの情報板.jpg"&gt;Smart Dashboardから発見。画像もここから転載。
+電子ペーパーを用いたフチなしの情報板の作例です。コアとなる開発ボードはESP32-S2-MINIです。
+以前薄くフチなしの筐体が印象的な電子ペーパー天気表示機 で紹介したものと非常によく似ていますが、独立した作例のようです。
+見栄えが非常に良いので、近いうちにこういう製品が出てくるのでは？と予想しています。</description>
+    </item>
     
     <item>
       <title>ミクロサイズの銃を作る実験</title>
@@ -120,19 +132,6 @@ iPhoneケースをマクロパッドのケースに流用している作例で�
 このような手法を知っておくことで基板設計の自由度が上がります。
 横向き電池ボックスいい感じ👍 pic.twitter.com/BNpMmrUlCg
 &amp;mdash; パレットシステム よっぴ&amp;#39; (@4py1) April 8, 2023  </description>
-    </item>
-    
-    <item>
-      <title>キーパッドの配線をウィザード形式で自動判定する仕組み</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AD%E3%83%BC%E3%83%91%E3%83%83%E3%83%89%E3%81%AE%E9%85%8D%E7%B7%9A%E3%82%92%E3%82%A6%E3%82%A3%E3%82%B6%E3%83%BC%E3%83%89%E5%BD%A2%E5%BC%8F%E3%81%A7%E8%87%AA%E5%8B%95%E5%88%A4%E5%AE%9A%E3%81%99%E3%82%8B%E4%BB%95%E7%B5%84%E3%81%BF/</link>
-      <pubDate>Tue, 17 Oct 2023 21:48:39 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AD%E3%83%BC%E3%83%91%E3%83%83%E3%83%89%E3%81%AE%E9%85%8D%E7%B7%9A%E3%82%92%E3%82%A6%E3%82%A3%E3%82%B6%E3%83%BC%E3%83%89%E5%BD%A2%E5%BC%8F%E3%81%A7%E8%87%AA%E5%8B%95%E5%88%A4%E5%AE%9A%E3%81%99%E3%82%8B%E4%BB%95%E7%B5%84%E3%81%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/キーパッドの配線をウィザード形式で自動判定する仕組み.jpg"&gt;Keypad Interface Module Reverse Engineers Pinouts So You Don’t Have Toから発見。画像もここから転載。
-マトリクス配列のキーパッドの配線を読み取るのは、電子工作をしていると良くあることですが、どのピンがどのマトリクスに対応しているかを把握してキースキャンのコードを書くのは退屈な仕事です。
-ここで紹介しているのは、とりあえずキーパッドを端子をつなぐと、ウィザード形式で、キーとピンの対応を認識してくれる仕組みです。
-画面の指示に従いキーのボタンを順に押していくと、自動的にキーとマトリクスの関係を理解してくれるというものです。 この方式を使うと、任意のマトリクス方式のキーパッドに対応したデバイスを作ることが出来そうです。
- </description>
     </item>
     
   </channel>
