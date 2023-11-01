@@ -5,9 +5,24 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 30 Oct 2023 21:18:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Nov 2023 23:39:36 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ちっさくてかわいい自作の3Dプリンタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%A1%E3%81%A3%E3%81%95%E3%81%8F%E3%81%A6%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E8%87%AA%E4%BD%9C%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
+      <pubDate>Wed, 01 Nov 2023 23:39:36 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%A1%E3%81%A3%E3%81%95%E3%81%8F%E3%81%A6%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E8%87%AA%E4%BD%9C%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ちっさくてかわいい自作の3Dプリンタ.jpg"&gt;福馬 洋平さんのPostから発見。画像もここから転載。
+ちっさくてかわいい自作の3Dプリンタの作例です。
+これは以前紹介したFraxinus の作者の方が作っている、トートバックに収まるサイズの3Dプリンタです。
+実用性はともかく、このサイズでちゃんと動作する3Dプリンタというのは面白いです。
+「3Dプリンタを作成する」という1つ目メタな工作も面白そうです。
+先週3Dプリンター好きな人達と会えるのでなんらか作ろうかなと思い、 @caesar02 さんや @hd1103 さんにお教え頂き好感持ってたマイクロ3Dプリンタを、パーテーション残材な5mm厚アクリルを主構造材として作製し無事印刷出来るようになりました！ pic.twitter.com/Uy6PqkV2xV
+&amp;mdash; 福馬 洋平 (@fukumay1) October 22, 2023  </description>
+    </item>
     
     <item>
       <title>ミクロサイズの銃を作る実験</title>
@@ -126,18 +141,6 @@ WASEN Benchy by Tommy Zerohttps://t.co/MvqUZ6WrRI pic.twitter.com/1fg2Av3X1Y
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Z軸を自分で増やすことができる3Dプリンタ.jpg"&gt;Infinite Z-Axis Printer Aims To Print Itself Somedayから発見。画像もここから転載。
 3Dプリンタといえば、自己複製機械の文脈で語られることも多いですが、実際のところ、すべての部品を自己複製できるわけでは有りません。
 この作例では特にZ軸について、自己複製の可能性を追求しています。 写真を見れば一目瞭然で、通常リードスクリューロッドなどで構成されるZ軸を3Dプリント製の雌ねじで構成しており、この雌ねじを延長することで、Z軸を拡張できる3Dプリンタを作っています。
- </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタのベルトの張り具合を音で測定するアプリ</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%99%E3%83%AB%E3%83%88%E3%81%AE%E5%BC%B5%E3%82%8A%E5%85%B7%E5%90%88%E3%82%92%E9%9F%B3%E3%81%A7%E6%B8%AC%E5%AE%9A%E3%81%99%E3%82%8B%E3%82%A2%E3%83%97%E3%83%AA/</link>
-      <pubDate>Thu, 14 Sep 2023 23:07:03 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%99%E3%83%AB%E3%83%88%E3%81%AE%E5%BC%B5%E3%82%8A%E5%85%B7%E5%90%88%E3%82%92%E9%9F%B3%E3%81%A7%E6%B8%AC%E5%AE%9A%E3%81%99%E3%82%8B%E3%82%A2%E3%83%97%E3%83%AA/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタのベルトの張り具合を音で測定するアプリ.jpg"&gt;Checking Belt Tension Gets Easier For (Some) Prusa 3D Printersから発見。画像もここから転載。
-3Dプリンタの調整は、まだまだ難しいところがあり、3Dプリンタを気軽に人に勧められない理由の一つだったりしますが、ここで紹介するアプリを使うとその問題の1つである、ベルトの張り具合について定量的な評価を行うことができます。
-このアプリではベルトの張り具合を測定するために、指でベルトを弾いたときに発生する音の周波数を利用しているようです。
  </description>
     </item>
     
