@@ -5,9 +5,21 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 01 Nov 2023 23:39:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Nov 2023 22:51:31 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ベッドが平面ではなく円柱状の3Dプリンタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%99%E3%83%83%E3%83%89%E3%81%8C%E5%B9%B3%E9%9D%A2%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E5%86%86%E6%9F%B1%E7%8A%B6%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
+      <pubDate>Sun, 05 Nov 2023 22:51:31 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%99%E3%83%83%E3%83%89%E3%81%8C%E5%B9%B3%E9%9D%A2%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E5%86%86%E6%9F%B1%E7%8A%B6%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ベッドが平面ではなく円柱状の3Dプリンタ.jpg"&gt;3D Printing On A Spinning Rodから発見。画像もここから転載。
+よく見かける3Dプリンタは前後にスライドする平面（ベッド）があり、その上に造形していきますが、このベッドが平面ではなく円柱状の3Dプリンタの作例です。
+造形物によってはこっちの方が効率が良かったり、強度が強くなるなどの利点があるようです。
+ </description>
+    </item>
     
     <item>
       <title>ちっさくてかわいい自作の3Dプリンタ</title>
@@ -130,18 +142,6 @@ The Great Benchy Wave by JonShttps://t.co/wkvEp0RjA6
 3Dbenchyhttps://t.co/un9heJNeFK
 WASEN Benchy by Tommy Zerohttps://t.co/MvqUZ6WrRI pic.twitter.com/1fg2Av3X1Y
 &amp;mdash; きたになおき (@nkitani) September 16, 2023  </description>
-    </item>
-    
-    <item>
-      <title>Z軸を自分で増やすことができる3Dプリンタ</title>
-      <link>https://inajob.github.io/iroiro-review/post/z%E8%BB%B8%E3%82%92%E8%87%AA%E5%88%86%E3%81%A7%E5%A2%97%E3%82%84%E3%81%99%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
-      <pubDate>Thu, 21 Sep 2023 23:12:54 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/z%E8%BB%B8%E3%82%92%E8%87%AA%E5%88%86%E3%81%A7%E5%A2%97%E3%82%84%E3%81%99%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Z軸を自分で増やすことができる3Dプリンタ.jpg"&gt;Infinite Z-Axis Printer Aims To Print Itself Somedayから発見。画像もここから転載。
-3Dプリンタといえば、自己複製機械の文脈で語られることも多いですが、実際のところ、すべての部品を自己複製できるわけでは有りません。
-この作例では特にZ軸について、自己複製の可能性を追求しています。 写真を見れば一目瞭然で、通常リードスクリューロッドなどで構成されるZ軸を3Dプリント製の雌ねじで構成しており、この雌ねじを延長することで、Z軸を拡張できる3Dプリンタを作っています。
- </description>
     </item>
     
   </channel>

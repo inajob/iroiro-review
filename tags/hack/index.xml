@@ -5,9 +5,21 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 30 Oct 2023 21:18:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Nov 2023 22:51:31 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ベッドが平面ではなく円柱状の3Dプリンタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%99%E3%83%83%E3%83%89%E3%81%8C%E5%B9%B3%E9%9D%A2%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E5%86%86%E6%9F%B1%E7%8A%B6%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
+      <pubDate>Sun, 05 Nov 2023 22:51:31 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%99%E3%83%83%E3%83%89%E3%81%8C%E5%B9%B3%E9%9D%A2%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E5%86%86%E6%9F%B1%E7%8A%B6%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ベッドが平面ではなく円柱状の3Dプリンタ.jpg"&gt;3D Printing On A Spinning Rodから発見。画像もここから転載。
+よく見かける3Dプリンタは前後にスライドする平面（ベッド）があり、その上に造形していきますが、このベッドが平面ではなく円柱状の3Dプリンタの作例です。
+造形物によってはこっちの方が効率が良かったり、強度が強くなるなどの利点があるようです。
+ </description>
+    </item>
     
     <item>
       <title>ミクロサイズの銃を作る実験</title>
@@ -117,18 +129,6 @@
 最近AliExpressなどで見かける、安価なPCの性能をリアルタイムに表示する「スマートモニタ」ですが、これに任意の画像を表示する方法の紹介です。
  Pythonのコードで実装されており、手順に従えば、好きな画像を表示したり、オリジナルのテーマを作ることができるようです。 この手のスマートモニタは比較的安価ですが、良い感じのケースに入っており、任意の画像が表示できることで、面白い使い道が思いつきそうです
 対応している機種が限られている点に注意が必要です。</description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタのベルトの張り具合を音で測定するアプリ</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%99%E3%83%AB%E3%83%88%E3%81%AE%E5%BC%B5%E3%82%8A%E5%85%B7%E5%90%88%E3%82%92%E9%9F%B3%E3%81%A7%E6%B8%AC%E5%AE%9A%E3%81%99%E3%82%8B%E3%82%A2%E3%83%97%E3%83%AA/</link>
-      <pubDate>Thu, 14 Sep 2023 23:07:03 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%99%E3%83%AB%E3%83%88%E3%81%AE%E5%BC%B5%E3%82%8A%E5%85%B7%E5%90%88%E3%82%92%E9%9F%B3%E3%81%A7%E6%B8%AC%E5%AE%9A%E3%81%99%E3%82%8B%E3%82%A2%E3%83%97%E3%83%AA/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタのベルトの張り具合を音で測定するアプリ.jpg"&gt;Checking Belt Tension Gets Easier For (Some) Prusa 3D Printersから発見。画像もここから転載。
-3Dプリンタの調整は、まだまだ難しいところがあり、3Dプリンタを気軽に人に勧められない理由の一つだったりしますが、ここで紹介するアプリを使うとその問題の1つである、ベルトの張り具合について定量的な評価を行うことができます。
-このアプリではベルトの張り具合を測定するために、指でベルトを弾いたときに発生する音の周波数を利用しているようです。
- </description>
     </item>
     
   </channel>
