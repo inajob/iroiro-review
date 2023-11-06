@@ -5,9 +5,22 @@
     <description>Recent content in 開発ボード on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 27 Jul 2023 23:05:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Nov 2023 23:39:36 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>例の格安の黄色いESP32基板について解析ドキュメント</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E4%BE%8B%E3%81%AE%E6%A0%BC%E5%AE%89%E3%81%AE%E9%BB%84%E8%89%B2%E3%81%84esp32%E5%9F%BA%E6%9D%BF%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%A7%A3%E6%9E%90%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/</link>
+      <pubDate>Mon, 06 Nov 2023 23:39:36 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E4%BE%8B%E3%81%AE%E6%A0%BC%E5%AE%89%E3%81%AE%E9%BB%84%E8%89%B2%E3%81%84esp32%E5%9F%BA%E6%9D%BF%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%A7%A3%E6%9E%90%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/例の格安の黄色いESP32基板について解析ドキュメント.jpg"&gt;“Cheap Yellow Display” Builds Community Through Hardwareから発見。画像もここから転載。
+ESP32と大きめのタッチ機能付きLCDを搭載した格安の基板で有名な、「黄色いボード」についての分析記事です。 型番でいうと「ESP32-2432S028R」というこの基板、AliExpressなどで格安で販売されています。
+この記事ではこれをCheap-Yello-Display(CYD) と名付けています。
+実はこの分野（？）の分析、日本でも結構頑張っている方が居ます。いつもお世話になっています。 Lang-ship - 黄色いESP32液晶ボードシリーズまとめ macsbug - ESP32-2432S028
+ </description>
+    </item>
     
     <item>
       <title>ESP32をコアとしたArduino公式の開発ボード</title>
@@ -134,19 +147,6 @@ Raspberry Pi Zeroと同じサイズ、同じピンヘッダを備えた、Arduin
 コアとなるICはATmega328PBで、普通のArduino UNOなどと同じように利用できそうです。
 ATmega328PBはATmega328Pよりも4つ多くのGPIOを持っていますが、それらも利用できるようです。
 Rarspberry Pi Zeroのケースや、HATなどの周辺機器を利用できるので、なかなか使い勝手がよさそうです。</description>
-    </item>
-    
-    <item>
-      <title>現代的な設計で作り直したArduino互換ボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E7%8F%BE%E4%BB%A3%E7%9A%84%E3%81%AA%E8%A8%AD%E8%A8%88%E3%81%A7%E4%BD%9C%E3%82%8A%E7%9B%B4%E3%81%97%E3%81%9Farduino%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Mon, 05 Sep 2022 23:25:36 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E7%8F%BE%E4%BB%A3%E7%9A%84%E3%81%AA%E8%A8%AD%E8%A8%88%E3%81%A7%E4%BD%9C%E3%82%8A%E7%9B%B4%E3%81%97%E3%81%9Farduino%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/現代的な設計で作り直したArduino互換ボード.jpg"&gt;DIY Arduino UNO PRO Versionから発見。画像もここから転載。
-Arduino、特にArduino UNOは、かなり完成された製品で、今もなお多く利用されていますが、利用しているとたくさんの改良案が浮かんできます。
-この記事で紹介しているのは、そんなArduino UNOの改善案をふんだんに盛り込んだPRO版のArduino UNO互換機です。
-ざっと見たところ以下のような特徴があります
- コネクタがUSB Type-C ピンソケットの内側にピンヘッダが配置されている シリアル接続用のソケットが用意されている DCジャック用のソケットがない 良く使うOLEDや無線モジュール用のソケットが用意されている  こういうのを見ると自分も、自部の考えた「最強のArduino UNO」を設計してみたくなりますね。</description>
     </item>
     
   </channel>
