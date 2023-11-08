@@ -5,9 +5,22 @@
     <description>Recent content in 開発ボード on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 06 Nov 2023 23:39:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Nov 2023 23:38:15 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>プロトタイピングに使えそうなフレキシブル基板の開発ボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%97%E3%83%AD%E3%83%88%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0%E3%81%AB%E4%BD%BF%E3%81%88%E3%81%9D%E3%81%86%E3%81%AA%E3%83%95%E3%83%AC%E3%82%AD%E3%82%B7%E3%83%96%E3%83%AB%E5%9F%BA%E6%9D%BF%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Wed, 08 Nov 2023 23:38:15 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%97%E3%83%AD%E3%83%88%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0%E3%81%AB%E4%BD%BF%E3%81%88%E3%81%9D%E3%81%86%E3%81%AA%E3%83%95%E3%83%AC%E3%82%AD%E3%82%B7%E3%83%96%E3%83%AB%E5%9F%BA%E6%9D%BF%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/プロトタイピングに使えそうなフレキシブル基板の開発ボード.jpg"&gt;堀洋祐 Yosuke Hori / ｶｻﾈﾀﾘｳﾑ さんのPostからから発見。画像もここから転載。
+プロトタイピングに使えそうなフレキシブル基板の開発ボードです。 正式名称は「折り紙式メディアデバイスORIME」のようです。
+ウェアラブルなガジェットの試作や、人工筋肉を使って基板自体を駆動させたり、基板自体を折り紙のように折り曲げるようなデモも紹介されています。
+Maker Faire Tokyo 2023 では折り紙のように折り曲げたり、ハサミで切ったりすることで自由な形を作ることができ、身の回りの物をメディア化するデバイス「ORIME」を展示します！ https://t.co/fX7Y4ZRMYF#MFTokyo2023 #今作ってます pic.twitter.com/maWMmf2p2P
+&amp;mdash; 堀洋祐 Yosuke Hori / ｶｻﾈﾀﾘｳﾑ (@kasanetarium) October 4, 2023   </description>
+    </item>
     
     <item>
       <title>例の格安の黄色いESP32基板について解析ドキュメント</title>
@@ -134,19 +147,6 @@ Arduinoで描画、流石にネイティブだとこのくらい早い pic.twitt
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/AVR128DB28のArduino Nanoサイズの開発ボード.jpg"&gt;AVR128DB development board - &amp;lsquo;nano&amp;rsquo; style by ArduinoShop on Tindieから発見。画像もここから転載。
 AVR128DB28のArduino Nanoサイズの開発ボードです。
 AVR128DB28は、Flashは128KByte, RAMは16KBとリッチなメモリを搭載しています。 DIPパッケージもあるようで、趣味の電子工作で活用できそうなマイコンです。</description>
-    </item>
-    
-    <item>
-      <title>見た目はRaspberry Pi ZeroなArduino互換ボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AFraspberry-pi-zero%E3%81%AAarduino%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AFraspberry-pi-zero%E3%81%AAarduino%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/cricket-one.jpg"&gt;Cricket ONE (beta)から発見。画像もここから転載。
-Raspberry Pi Zeroと同じサイズ、同じピンヘッダを備えた、Arduinoです。
-コアとなるICはATmega328PBで、普通のArduino UNOなどと同じように利用できそうです。
-ATmega328PBはATmega328Pよりも4つ多くのGPIOを持っていますが、それらも利用できるようです。
-Rarspberry Pi Zeroのケースや、HATなどの周辺機器を利用できるので、なかなか使い勝手がよさそうです。</description>
     </item>
     
   </channel>
