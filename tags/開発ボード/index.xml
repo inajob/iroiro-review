@@ -5,9 +5,20 @@
     <description>Recent content in 開発ボード on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 08 Nov 2023 23:38:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Nov 2023 23:50:52 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CH32V003搭載の開発ボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/ch32v003%E6%90%AD%E8%BC%89%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Thu, 09 Nov 2023 23:50:52 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/ch32v003%E6%90%AD%E8%BC%89%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32V003搭載の開発ボード.jpg"&gt;CH32V003 Dev Kitから発見。画像もここから転載。
+CH32V003搭載の開発ボードの作例です。
+USB Type-Cコネクタ、3.3Vレギュレータ、USBシリアル変換、I2C温度気温センサー、I2C接続OLED、I2C汎用コネクタ、SPI NOR FLash、RGB LED、スイッチ、LED、ブザー、GPIOの引き出し線、と開発ボードに必要そうな機能がてんこ盛りです。</description>
+    </item>
     
     <item>
       <title>プロトタイピングに使えそうなフレキシブル基板の開発ボード</title>
@@ -136,17 +147,6 @@ MicroPythonで描画。
 のんびりだねー pic.twitter.com/57m6w2f4eP
 &amp;mdash; ina_ani@2歳児のパパ (@ina_ani) October 9, 2022  上のMicroPythonで作ったものと同じようなプログラムをArduinoで作ったものがこちら。さすがにネイティブなので早いですね。
 Arduinoで描画、流石にネイティブだとこのくらい早い pic.twitter.com/EqvCXFlEX5</description>
-    </item>
-    
-    <item>
-      <title>AVR128DB28のArduino Nanoサイズの開発ボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/avr128db28%E3%81%AEarduino-nano%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Wed, 14 Sep 2022 23:23:46 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/avr128db28%E3%81%AEarduino-nano%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/AVR128DB28のArduino Nanoサイズの開発ボード.jpg"&gt;AVR128DB development board - &amp;lsquo;nano&amp;rsquo; style by ArduinoShop on Tindieから発見。画像もここから転載。
-AVR128DB28のArduino Nanoサイズの開発ボードです。
-AVR128DB28は、Flashは128KByte, RAMは16KBとリッチなメモリを搭載しています。 DIPパッケージもあるようで、趣味の電子工作で活用できそうなマイコンです。</description>
     </item>
     
   </channel>
