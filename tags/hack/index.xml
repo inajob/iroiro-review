@@ -5,9 +5,23 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 07 Nov 2023 23:56:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Nov 2023 22:25:10 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>格安RISC-VマイコンCH32V003だけで温度測定する</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%A0%BC%E5%AE%89risc-v%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3ch32v003%E3%81%A0%E3%81%91%E3%81%A7%E6%B8%A9%E5%BA%A6%E6%B8%AC%E5%AE%9A%E3%81%99%E3%82%8B/</link>
+      <pubDate>Tue, 14 Nov 2023 22:25:10 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%A0%BC%E5%AE%89risc-v%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3ch32v003%E3%81%A0%E3%81%91%E3%81%A7%E6%B8%A9%E5%BA%A6%E6%B8%AC%E5%AE%9A%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/格安RISC-VマイコンCH32V003だけで温度測定する.jpg"&gt;Adding Temperature Sensor Functionality To The CH32V003 MCUから発見。画像もここから転載。
+格安RISC-VマイコンCH32V003ですが、このICだけを使って温度測定する方法があるようです。
+この手のHACKではよくある手法ですが、内部発振回路の温度の違いによるズレを測定する手法を使っています。 高い周波数と低い周波数の2つのクロックの差がが周辺温度の違いによりずれることを利用するようですが、低い周波数のクロックにアクセスする方法が少ない点で、この記事では苦労しているようです。
+この手法はICの個体差などが大きいことが予想されますし、個体差も大きいので、実用的な用途には向かないですが、面白いHACKです
+以前も似たような原理のHACKを紹介しました。
+ 温度センサーを使わずにマイコンで温度を取得する裏技 ダイオードを使った温度センサー  </description>
+    </item>
     
     <item>
       <title>小さな爆発を動力とするロボット</title>
@@ -116,18 +130,6 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタを改造してZ軸を10フィートに延長する.jpg"&gt;10-Foot High 3D Printer Based On Ender 3から発見。画像もここから転載。
 積層式の3Dプリンタは、造形範囲が限られていますが、Z軸に関して拡張している作例を紹介します。
 この記事では市販の3DプリンタであるEnder 3を改造してZ軸を10フィートに延長しています。 もともとネジ付きロッドだったものを、ベルト式に改造し、ケーブルをすごく長くすることでこれを実現しています。
- </description>
-    </item>
-    
-    <item>
-      <title>Z軸を自分で増やすことができる3Dプリンタ</title>
-      <link>https://inajob.github.io/iroiro-review/post/z%E8%BB%B8%E3%82%92%E8%87%AA%E5%88%86%E3%81%A7%E5%A2%97%E3%82%84%E3%81%99%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
-      <pubDate>Thu, 21 Sep 2023 23:12:54 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/z%E8%BB%B8%E3%82%92%E8%87%AA%E5%88%86%E3%81%A7%E5%A2%97%E3%82%84%E3%81%99%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Z軸を自分で増やすことができる3Dプリンタ.jpg"&gt;Infinite Z-Axis Printer Aims To Print Itself Somedayから発見。画像もここから転載。
-3Dプリンタといえば、自己複製機械の文脈で語られることも多いですが、実際のところ、すべての部品を自己複製できるわけでは有りません。
-この作例では特にZ軸について、自己複製の可能性を追求しています。 写真を見れば一目瞭然で、通常リードスクリューロッドなどで構成されるZ軸を3Dプリント製の雌ねじで構成しており、この雌ねじを延長することで、Z軸を拡張できる3Dプリンタを作っています。
  </description>
     </item>
     
