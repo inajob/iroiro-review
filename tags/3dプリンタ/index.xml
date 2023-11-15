@@ -5,9 +5,20 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 12 Nov 2023 23:41:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Nov 2023 23:19:25 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタ製のダイアルカチカチフィジェット</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%81%E3%82%AB%E3%83%81%E3%83%95%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
+      <pubDate>Wed, 15 Nov 2023 23:19:25 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%81%E3%82%AB%E3%83%81%E3%83%95%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ製のダイアルカチカチフィジェット.jpg"&gt;Clicky Dial Fidget (Print-in-Place) by TrocheHoleから発見。画像もここから転載。
+3Dプリンタ製のダイアルカチカチフィジェットの作成です。
+3Dプリンタの作例ならではの一体成型のモデルとなっており、組み立てられた状態で生成出来ます。 メカメカしい見た目も相まってテンションが上がりそうです。</description>
+    </item>
     
     <item>
       <title>3DCADで弦楽器を作る</title>
@@ -121,22 +132,6 @@ Apple Pencilの充電、置き場所を見事に解決しています。
 積層式の3Dプリンタは、造形範囲が限られていますが、Z軸に関して拡張している作例を紹介します。
 この記事では市販の3DプリンタであるEnder 3を改造してZ軸を10フィートに延長しています。 もともとネジ付きロッドだったものを、ベルト式に改造し、ケーブルをすごく長くすることでこれを実現しています。
  </description>
-    </item>
-    
-    <item>
-      <title>多条ねじを使ったペンプロッタ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%A4%9A%E6%9D%A1%E3%81%AD%E3%81%98%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</link>
-      <pubDate>Wed, 04 Oct 2023 21:43:52 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%A4%9A%E6%9D%A1%E3%81%AD%E3%81%98%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/多条ねじを使ったペンプロッタ.jpg"&gt;ginoji_nRF52さんのPostから発見。画像もここから転載。
-3Dプリンタで作られた、多条ねじを使ったペンプロッタの作例です。 3Dプリンタで作るペンプロッタといえば、既製品のねじ付きロッドを用いたものが多いですが、この作例では3Dプリンタ製の多条ねじを使っているのが特徴のようです。
-データも公開されているようなので、手元の3Dプリンタで印刷してみても面白そうです。 （多条ねじは光造形式3Dプリンタじゃないと作れなさそう？）
-[ハギテック]
-MFT2023参加＆ペンプロッターがんばるぞの思いを込めた先行公開モデルです。https://t.co/ZApOI0I86H
-※展示品がどうなるかは、当日のお楽しみ！
-（@kyosuke_ishikaw いしかわきょーすけ さんに届け）#今作ってます #MFT2023 #MFTokyo2023 pic.twitter.com/JhLjneRIA5
-&amp;mdash; ginoji_nRF52, mini4WDもロボット？？　👍　ぱふぇ🐰📒 (@ginoji_5) July 27, 2023  </description>
     </item>
     
   </channel>
