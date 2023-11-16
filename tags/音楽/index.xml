@@ -5,9 +5,22 @@
     <description>Recent content in 音楽 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 12 Nov 2023 23:41:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Nov 2023 22:15:16 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%9F%B3%E6%A5%BD/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>空き瓶を円状に並べたおしゃれな楽器</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%A9%BA%E3%81%8D%E7%93%B6%E3%82%92%E5%86%86%E7%8A%B6%E3%81%AB%E4%B8%A6%E3%81%B9%E3%81%9F%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C%E3%81%AA%E6%A5%BD%E5%99%A8/</link>
+      <pubDate>Thu, 16 Nov 2023 22:15:16 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%A9%BA%E3%81%8D%E7%93%B6%E3%82%92%E5%86%86%E7%8A%B6%E3%81%AB%E4%B8%A6%E3%81%B9%E3%81%9F%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C%E3%81%AA%E6%A5%BD%E5%99%A8/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/空き瓶を円状に並べたおしゃれな楽器.jpg"&gt;Pour One Out For This Bottle-Playing Robotから発見。画像もここから転載。
+空き瓶を同心円に並べたおしゃれな楽器の作例です。 ソレノイドでボトルを叩くことで、これを実現しています。
+そのアイデアも面白いですが、動画の完成度が高いので、ぜひ一度見てみてください。
+ケースの設計には Boxes.py を利用しています
+ </description>
+    </item>
     
     <item>
       <title>3DCADで弦楽器を作る</title>
@@ -115,21 +128,6 @@ Micro:Bitをコアとした手のひらサイズの鍵盤付きのシンセサ�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/自作のLofiサンプラー.jpg"&gt;DIY Lofiサンプラー「OpnBeat」プロトタイプ Ver.1（概要編）から発見。画像もここから転載。
 自作のLofiサンプラーの作例です。 録音再生モジュールをサンプル数分並べるという力業で複数サンプルに対応しています。
 力業ですが、録音再生モジュールもそこまで高いものではないので、意外とアリな構成かもしれません。 3Dプリンタで作られた筐体の完成度も高く、魅力的な作品です。
- </description>
-    </item>
-    
-    <item>
-      <title>ホイールにつけた溝に薄い板を擦り付ける音を鳴らすオルガン風の楽器</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%E3%81%AB%E3%81%A4%E3%81%91%E3%81%9F%E6%BA%9D%E3%81%AB%E8%96%84%E3%81%84%E6%9D%BF%E3%82%92%E6%93%A6%E3%82%8A%E4%BB%98%E3%81%91%E3%82%8B%E9%9F%B3%E3%82%92%E9%B3%B4%E3%82%89%E3%81%99%E3%82%AA%E3%83%AB%E3%82%AC%E3%83%B3%E9%A2%A8%E3%81%AE%E6%A5%BD%E5%99%A8/</link>
-      <pubDate>Tue, 11 Oct 2022 22:50:12 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%E3%81%AB%E3%81%A4%E3%81%91%E3%81%9F%E6%BA%9D%E3%81%AB%E8%96%84%E3%81%84%E6%9D%BF%E3%82%92%E6%93%A6%E3%82%8A%E4%BB%98%E3%81%91%E3%82%8B%E9%9F%B3%E3%82%92%E9%B3%B4%E3%82%89%E3%81%99%E3%82%AA%E3%83%AB%E3%82%AC%E3%83%B3%E9%A2%A8%E3%81%AE%E6%A5%BD%E5%99%A8/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ホイールにつけた溝に薄い板を擦り付ける音を鳴らすオルガン風の楽器.jpg"&gt;This Found-Sound Organ Was Made With Python And A Laser Cutterから発見。画像もここから転載。
-音程が作れればなんでも楽器になります。
-この記事では、回転するギザギザのついたホイールと、薄いリードが触れ合い、振動する音を利用したオルガンのような楽器を紹介しています。
-ホイールは音階ごとに用意されており、それぞれギザギザの間隔が異なっています。
-同時押しをするとその分回転軸に負荷がかかって、少し音程が低くなってしまうところは要改善ポイントのようです。
-よく似た楽器でA/C Harp というエアコンを改造したものがあるのを思い出しました。
  </description>
     </item>
     

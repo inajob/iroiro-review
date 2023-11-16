@@ -5,9 +5,22 @@
     <description>Recent content in ソレノイド on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 03 Jul 2023 00:16:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Nov 2023 22:15:16 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%82%BD%E3%83%AC%E3%83%8E%E3%82%A4%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>空き瓶を円状に並べたおしゃれな楽器</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%A9%BA%E3%81%8D%E7%93%B6%E3%82%92%E5%86%86%E7%8A%B6%E3%81%AB%E4%B8%A6%E3%81%B9%E3%81%9F%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C%E3%81%AA%E6%A5%BD%E5%99%A8/</link>
+      <pubDate>Thu, 16 Nov 2023 22:15:16 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%A9%BA%E3%81%8D%E7%93%B6%E3%82%92%E5%86%86%E7%8A%B6%E3%81%AB%E4%B8%A6%E3%81%B9%E3%81%9F%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C%E3%81%AA%E6%A5%BD%E5%99%A8/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/空き瓶を円状に並べたおしゃれな楽器.jpg"&gt;Pour One Out For This Bottle-Playing Robotから発見。画像もここから転載。
+空き瓶を同心円に並べたおしゃれな楽器の作例です。 ソレノイドでボトルを叩くことで、これを実現しています。
+そのアイデアも面白いですが、動画の完成度が高いので、ぜひ一度見てみてください。
+ケースの設計には Boxes.py を利用しています
+ </description>
+    </item>
     
     <item>
       <title>車に搭載できる巨大なドットマトリクス印刷機</title>

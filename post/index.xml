@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 15 Nov 2023 23:19:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Nov 2023 22:15:16 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>空き瓶を円状に並べたおしゃれな楽器</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%A9%BA%E3%81%8D%E7%93%B6%E3%82%92%E5%86%86%E7%8A%B6%E3%81%AB%E4%B8%A6%E3%81%B9%E3%81%9F%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C%E3%81%AA%E6%A5%BD%E5%99%A8/</link>
+      <pubDate>Thu, 16 Nov 2023 22:15:16 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%A9%BA%E3%81%8D%E7%93%B6%E3%82%92%E5%86%86%E7%8A%B6%E3%81%AB%E4%B8%A6%E3%81%B9%E3%81%9F%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C%E3%81%AA%E6%A5%BD%E5%99%A8/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/空き瓶を円状に並べたおしゃれな楽器.jpg"&gt;Pour One Out For This Bottle-Playing Robotから発見。画像もここから転載。
+空き瓶を同心円に並べたおしゃれな楽器の作例です。 ソレノイドでボトルを叩くことで、これを実現しています。
+そのアイデアも面白いですが、動画の完成度が高いので、ぜひ一度見てみてください。
+ケースの設計には Boxes.py を利用しています
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタ製のダイアルカチカチフィジェット</title>
@@ -117,21 +130,6 @@ ESP32と大きめのタッチ機能付きLCDを搭載した格安の基板で有
 よく見かける3Dプリンタは前後にスライドする平面（ベッド）があり、その上に造形していきますが、このベッドが平面ではなく円柱状の3Dプリンタの作例です。
 造形物によってはこっちの方が効率が良かったり、強度が強くなるなどの利点があるようです。
  </description>
-    </item>
-    
-    <item>
-      <title>ちっさくてかわいい自作の3Dプリンタ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%81%A1%E3%81%A3%E3%81%95%E3%81%8F%E3%81%A6%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E8%87%AA%E4%BD%9C%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
-      <pubDate>Wed, 01 Nov 2023 23:39:36 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%A1%E3%81%A3%E3%81%95%E3%81%8F%E3%81%A6%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E8%87%AA%E4%BD%9C%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ちっさくてかわいい自作の3Dプリンタ.jpg"&gt;福馬 洋平さんのPostから発見。画像もここから転載。
-ちっさくてかわいい自作の3Dプリンタの作例です。
-これは以前紹介したFraxinus の作者の方が作っている、トートバックに収まるサイズの3Dプリンタです。
-実用性はともかく、このサイズでちゃんと動作する3Dプリンタというのは面白いです。
-「3Dプリンタを作成する」という1つ目メタな工作も面白そうです。
-先週3Dプリンター好きな人達と会えるのでなんらか作ろうかなと思い、 @caesar02 さんや @hd1103 さんにお教え頂き好感持ってたマイクロ3Dプリンタを、パーテーション残材な5mm厚アクリルを主構造材として作製し無事印刷出来るようになりました！ pic.twitter.com/Uy6PqkV2xV
-&amp;mdash; 福馬 洋平 (@fukumay1) October 22, 2023  </description>
     </item>
     
   </channel>
