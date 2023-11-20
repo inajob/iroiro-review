@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 20 Nov 2023 00:11:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Nov 2023 21:12:29 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>M5Stackの透明OLEDのモジュール2</title>
+      <link>https://inajob.github.io/iroiro-review/post/m5stack%E3%81%AE%E9%80%8F%E6%98%8Eoled%E3%81%AE%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB2/</link>
+      <pubDate>Mon, 20 Nov 2023 21:12:29 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/m5stack%E3%81%AE%E9%80%8F%E6%98%8Eoled%E3%81%AE%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB2/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/M5Stackの透明OLEDのモジュール2.jpg"&gt;M5Stack用 1.5インチ透過型OLEDディスプレイユニット2から発見。画像もここから転載。
+M5Stackの透過型OLEDディスプレイのバージョンアップ版です。 以前紹介した M5Stackの透明OLEDのモジュール の後継版という位置づけのようです。
+旧バージョンは透明OLEDとマイコンモジュールが同梱されているもので、メインマイコンから見ると高級な描画命令セットを持ったものでしたが、新バージョンはシンプルにOLED飲みが搭載されており、メインマイコンからはそのままI2Cで制御する方式になっています。
+前のバージョンのほうがリッチなものでしたが、ArduinoとOLEDの接続方式は結構コモデティ化されているので、むしろこの新しいバージョンのようにモジュール単体のみが実装されている方が、嬉しい人も多いのかな、なんて推測したりします。 製品設計って難しいですね。</description>
+    </item>
     
     <item>
       <title>FlashプログラマであるCH341AはI2CやSPI、UARTも喋れる</title>
@@ -116,19 +128,6 @@ Maker Faire Tokyo 2023 では折り紙のように折り曲げたり、ハサミ
 ロボットの動力には様々なものがありますが、この記事で紹介しているのは「爆発」です。具体的にはメタンと酸素の組み合わせを使って、超小規模な爆発を起こし、その動力を使って移動するというものです。
 動画ではハエトリグモのような動きをしながら移動する様子を見ることが出来ます。 従来の常識にとらわれないロボット、他にも色々考えられそうです。
  </description>
-    </item>
-    
-    <item>
-      <title>例の格安の黄色いESP32基板について解析ドキュメント</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E4%BE%8B%E3%81%AE%E6%A0%BC%E5%AE%89%E3%81%AE%E9%BB%84%E8%89%B2%E3%81%84esp32%E5%9F%BA%E6%9D%BF%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%A7%A3%E6%9E%90%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/</link>
-      <pubDate>Mon, 06 Nov 2023 23:39:36 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E4%BE%8B%E3%81%AE%E6%A0%BC%E5%AE%89%E3%81%AE%E9%BB%84%E8%89%B2%E3%81%84esp32%E5%9F%BA%E6%9D%BF%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%A7%A3%E6%9E%90%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/例の格安の黄色いESP32基板について解析ドキュメント.jpg"&gt;“Cheap Yellow Display” Builds Community Through Hardwareから発見。画像もここから転載。
-ESP32と大きめのタッチ機能付きLCDを搭載した格安の基板で有名な、「黄色いボード」についての分析記事です。 型番でいうと「ESP32-2432S028R」というこの基板、AliExpressなどで格安で販売されています。
-この記事ではこれをCheap-Yello-Display(CYD) と名付けています。
-実はこの分野（？）の分析、日本でも結構頑張っている方が居ます。いつもお世話になっています。
- Lang-ship - 黄色いESP32液晶ボードシリーズまとめ macsbug - ESP32-2432S028   </description>
     </item>
     
   </channel>

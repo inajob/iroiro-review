@@ -5,9 +5,21 @@
     <description>Recent content in 透明OLED on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 30 Mar 2023 23:34:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Nov 2023 21:12:29 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%80%8F%E6%98%8Eoled/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>M5Stackの透明OLEDのモジュール2</title>
+      <link>https://inajob.github.io/iroiro-review/post/m5stack%E3%81%AE%E9%80%8F%E6%98%8Eoled%E3%81%AE%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB2/</link>
+      <pubDate>Mon, 20 Nov 2023 21:12:29 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/m5stack%E3%81%AE%E9%80%8F%E6%98%8Eoled%E3%81%AE%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB2/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/M5Stackの透明OLEDのモジュール2.jpg"&gt;M5Stack用 1.5インチ透過型OLEDディスプレイユニット2から発見。画像もここから転載。
+M5Stackの透過型OLEDディスプレイのバージョンアップ版です。 以前紹介した M5Stackの透明OLEDのモジュール の後継版という位置づけのようです。
+旧バージョンは透明OLEDとマイコンモジュールが同梱されているもので、メインマイコンから見ると高級な描画命令セットを持ったものでしたが、新バージョンはシンプルにOLED飲みが搭載されており、メインマイコンからはそのままI2Cで制御する方式になっています。
+前のバージョンのほうがリッチなものでしたが、ArduinoとOLEDの接続方式は結構コモデティ化されているので、むしろこの新しいバージョンのようにモジュール単体のみが実装されている方が、嬉しい人も多いのかな、なんて推測したりします。 製品設計って難しいですね。</description>
+    </item>
     
     <item>
       <title>M5Stackの透明OLEDのモジュール</title>
