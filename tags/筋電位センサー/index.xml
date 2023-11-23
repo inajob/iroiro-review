@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>筋電位センサー on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E7%AD%8B%E9%9B%BB%E4%BD%8D%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/</link>
+    <description>Recent content in 筋電位センサー on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Thu, 23 Nov 2023 23:23:15 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E7%AD%8B%E9%9B%BB%E4%BD%8D%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>筋電位センサーで操作するUFOキャッチャー的なアーム</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%AD%8B%E9%9B%BB%E4%BD%8D%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%81%A7%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8Bufo%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81%E3%83%A3%E3%83%BC%E7%9A%84%E3%81%AA%E3%82%A2%E3%83%BC%E3%83%A0/</link>
+      <pubDate>Thu, 23 Nov 2023 23:23:15 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%AD%8B%E9%9B%BB%E4%BD%8D%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%81%A7%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8Bufo%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81%E3%83%A3%E3%83%BC%E7%9A%84%E3%81%AA%E3%82%A2%E3%83%BC%E3%83%A0/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/筋電位センサーで操作するUFOキャッチャー的なアーム.jpg"&gt;Servo Claw Game Puts Your Muscles To The Testから発見。画像もここから転載。
+筋電位センサーを使うことで、筋肉にどの程度力を加えているかをセンシングすることが出来ます。 これを利用することで作られた、筋肉で操作するUFOキャッチャー的なアームの作例です。
+これはおもちゃ的なものですが、人間の体の筋肉をそれぞれセンシングすることで、人間の動作を真似するようなロボットも作れそうだなと感じました。
+ </description>
+    </item>
+    
+  </channel>
+</rss>
+

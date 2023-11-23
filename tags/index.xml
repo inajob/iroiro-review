@@ -5,9 +5,18 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 21 Nov 2023 23:45:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Nov 2023 23:23:15 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>筋電位センサー</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E7%AD%8B%E9%9B%BB%E4%BD%8D%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/</link>
+      <pubDate>Thu, 23 Nov 2023 23:23:15 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E7%AD%8B%E9%9B%BB%E4%BD%8D%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>3Dプリンタ</title>
@@ -87,15 +96,6 @@
       <pubDate>Tue, 14 Nov 2023 22:25:10 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/hack/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>USB</title>
-      <link>https://inajob.github.io/iroiro-review/tags/usb/</link>
-      <pubDate>Mon, 13 Nov 2023 23:11:02 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/usb/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
