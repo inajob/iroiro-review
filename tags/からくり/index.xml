@@ -5,9 +5,20 @@
     <description>Recent content in からくり on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 13 Jul 2023 23:52:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 23:11:28 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>からくりで水量を可視化するゲージ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A%E3%81%A7%E6%B0%B4%E9%87%8F%E3%82%92%E5%8F%AF%E8%A6%96%E5%8C%96%E3%81%99%E3%82%8B%E3%82%B2%E3%83%BC%E3%82%B8/</link>
+      <pubDate>Sun, 26 Nov 2023 23:11:28 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A%E3%81%A7%E6%B0%B4%E9%87%8F%E3%82%92%E5%8F%AF%E8%A6%96%E5%8C%96%E3%81%99%E3%82%8B%E3%82%B2%E3%83%BC%E3%82%B8/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/からくりで水量を可視化するゲージ.jpg"&gt;3D Printing Improves Passive Pixel Water Gaugeから発見。画像もここから転載。
+からくりで水量を可視化する、3Dプリンタ製のゲージの作例です。 磁石付きの「浮き」を使ってフリップドットディスプレイのようなゲージを制御しています。
+素朴な仕組みですが、電子的なロジックなしで動作するのである意味堅牢かもしれません。</description>
+    </item>
     
     <item>
       <title>ゴムブロックで作られた物理的なカウンタ</title>

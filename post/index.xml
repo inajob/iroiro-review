@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 23 Nov 2023 23:23:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 23:11:28 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>からくりで水量を可視化するゲージ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A%E3%81%A7%E6%B0%B4%E9%87%8F%E3%82%92%E5%8F%AF%E8%A6%96%E5%8C%96%E3%81%99%E3%82%8B%E3%82%B2%E3%83%BC%E3%82%B8/</link>
+      <pubDate>Sun, 26 Nov 2023 23:11:28 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A%E3%81%A7%E6%B0%B4%E9%87%8F%E3%82%92%E5%8F%AF%E8%A6%96%E5%8C%96%E3%81%99%E3%82%8B%E3%82%B2%E3%83%BC%E3%82%B8/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/からくりで水量を可視化するゲージ.jpg"&gt;3D Printing Improves Passive Pixel Water Gaugeから発見。画像もここから転載。
+からくりで水量を可視化する、3Dプリンタ製のゲージの作例です。 磁石付きの「浮き」を使ってフリップドットディスプレイのようなゲージを制御しています。
+素朴な仕組みですが、電子的なロジックなしで動作するのである意味堅牢かもしれません。</description>
+    </item>
     
     <item>
       <title>筋電位センサーで操作するUFOキャッチャー的なアーム</title>
@@ -117,17 +128,6 @@ CH32V003といえば、言わずとしれた安価なRISC-Vマイコンです。
 3DCADを使って独自の弦楽器を作る方法の紹介です。 鳴らしたい音程から元の長さを計算し、3DCADで設計した後に3Dプリンタで製造しています。
 ここで作成しているのは、上から弦を弾くだけで特定のメロディが奏でられるという楽器です。 こういうオリジナルの音が出るおもちゃを作れるのは面白そうです。
  </description>
-    </item>
-    
-    <item>
-      <title>CH32V003搭載の開発ボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/ch32v003%E6%90%AD%E8%BC%89%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Thu, 09 Nov 2023 23:50:52 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/ch32v003%E6%90%AD%E8%BC%89%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32V003搭載の開発ボード.jpg"&gt;CH32V003 Dev Kitから発見。画像もここから転載。
-CH32V003搭載の開発ボードの作例です。
-USB Type-Cコネクタ、3.3Vレギュレータ、USBシリアル変換、I2C温度気温センサー、I2C接続OLED、I2C汎用コネクタ、SPI NOR FLash、RGB LED、スイッチ、LED、ブザー、GPIOの引き出し線、と開発ボードに必要そうな機能がてんこ盛りです。</description>
     </item>
     
   </channel>
