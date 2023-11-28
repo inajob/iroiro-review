@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 27 Nov 2023 23:41:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Nov 2023 22:52:48 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタで幅広マーカーにくっつけるタイプのコロコロスタンプを作る</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E5%B9%85%E5%BA%83%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%AB%E3%81%8F%E3%81%A3%E3%81%A4%E3%81%91%E3%82%8B%E3%82%BF%E3%82%A4%E3%83%97%E3%81%AE%E3%82%B3%E3%83%AD%E3%82%B3%E3%83%AD%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%82%92%E4%BD%9C%E3%82%8B/</link>
+      <pubDate>Tue, 28 Nov 2023 22:52:48 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E5%B9%85%E5%BA%83%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%AB%E3%81%8F%E3%81%A3%E3%81%A4%E3%81%91%E3%82%8B%E3%82%BF%E3%82%A4%E3%83%97%E3%81%AE%E3%82%B3%E3%83%AD%E3%82%B3%E3%83%AD%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%82%92%E4%BD%9C%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで幅広マーカーにくっつけるタイプのコロコロスタンプを作る.jpg"&gt;3D Printed Stamp Rollersから発見。画像もここから転載。
+3Dプリンタで幅広マーカーにくっつけるタイプのコロコロスタンプの作例を紹介します。 ペンの部分は市販品をそのまま使い、コロコロスタンプ部分のみを3Dプリンタで作成しています。
+回転コロコロを保持する部分をTPUで作ることで、事由にコロコロ部分を取り換えられるようにされています。
+3Dプリンタを使えばオリジナルの模様を自由に作れるので、色々と遊べそうです。
+ </description>
+    </item>
     
     <item>
       <title>QAZ配列のかわいらしいキーボード</title>
@@ -117,18 +130,6 @@ Flashプログラマとしてよく用いられるCH341AというICはI2CやSPI�
 この手法はICの個体差などが大きいことが予想されるため、実用的な用途には向かないですが、面白いHACKです
 以前も似たような原理のHACKを紹介しました。
  温度センサーを使わずにマイコンで温度を取得する裏技 ダイオードを使った温度センサー  </description>
-    </item>
-    
-    <item>
-      <title>CH32V003でソフトウェアでUSBデバイスを実現するライブラリ</title>
-      <link>https://inajob.github.io/iroiro-review/post/ch32v003%E3%81%A7%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%A7usb%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA/</link>
-      <pubDate>Mon, 13 Nov 2023 23:11:02 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/ch32v003%E3%81%A7%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%A7usb%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32V003でソフトウェアでUSBデバイスを実現するライブラリ.jpg"&gt;GitHub - cnlohr/rv003usb: CH32V003 RISC-V Pure Software USB Controllerから発見。画像もここから転載。
-CH32V003といえば、言わずとしれた安価なRISC-Vマイコンです。 このマイコン、$1未満で、SRAM2K、Flash16Kとスペックもそこそこですが、USB機能を持たないのが玉に傷です。
-ということでソフトウェア実装でUSBデバイスを実現するライブラリを作った人がいるようです。 このライブラリを利用することでゲームパッドやマウス、キーボードといったデバイスや、CH32V003自身への書き込み機能などを実現することが出来るようです。
-まぁひとつ上グレードのCH32V203などを使えばハードウェアのUSBドライバが利用できるので、懐に余裕がある方はそちらを使うのが良さそうです。</description>
     </item>
     
   </channel>
