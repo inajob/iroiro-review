@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lua on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/lua/</link>
+    <description>Recent content in Lua on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 29 Nov 2023 23:46:29 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/lua/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32をコアとしたLuaでゲームを作る環境</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9Flua%E3%81%A7%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E4%BD%9C%E3%82%8B%E7%92%B0%E5%A2%83/</link>
+      <pubDate>Wed, 29 Nov 2023 23:46:29 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9Flua%E3%81%A7%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E4%BD%9C%E3%82%8B%E7%92%B0%E5%A2%83/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32をコアとしたLuaでゲームを作る環境.jpg"&gt;Haco3 | ProtoPediaから発見。画像もここから転載。
+ESP32をコアとしたLuaでゲームを作る環境の作例です。 ダイソーの300円テトリス筐体を流用することでモバイルゲーム機のような見た目をした筐体を実現しています。
+キーボード入力もサポートしているようで、この機能を使うことで、理論的にはこの端末とキーボードだけでゲーム開発が出来るようです。
+Lua言語は組み込みやすいので、このような環境を比較的簡単に作れて便利です。また、ESP32もパワフルなマイコンなので、思った以上に立地なゲームを動作することが出来るようです。
+ </description>
+    </item>
+    
+  </channel>
+</rss>
+

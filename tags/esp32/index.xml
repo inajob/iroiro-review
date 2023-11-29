@@ -5,9 +5,22 @@
     <description>Recent content in ESP32 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 06 Nov 2023 23:39:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Nov 2023 23:46:29 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/esp32/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32をコアとしたLuaでゲームを作る環境</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9Flua%E3%81%A7%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E4%BD%9C%E3%82%8B%E7%92%B0%E5%A2%83/</link>
+      <pubDate>Wed, 29 Nov 2023 23:46:29 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9Flua%E3%81%A7%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E4%BD%9C%E3%82%8B%E7%92%B0%E5%A2%83/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32をコアとしたLuaでゲームを作る環境.jpg"&gt;Haco3 | ProtoPediaから発見。画像もここから転載。
+ESP32をコアとしたLuaでゲームを作る環境の作例です。 ダイソーの300円テトリス筐体を流用することでモバイルゲーム機のような見た目をした筐体を実現しています。
+キーボード入力もサポートしているようで、この機能を使うことで、理論的にはこの端末とキーボードだけでゲーム開発が出来るようです。
+Lua言語は組み込みやすいので、このような環境を比較的簡単に作れて便利です。また、ESP32もパワフルなマイコンなので、思った以上に立地なゲームを動作することが出来るようです。
+ </description>
+    </item>
     
     <item>
       <title>例の格安の黄色いESP32基板について解析ドキュメント</title>
@@ -113,19 +126,6 @@ ESP32-S3にMMUはついていないので、Buildrootを使ってMMUなしで構
 3Dプリンタ製の雨量計です。 ししおどしのような仕組みで、定期的にマイコンをスリープから解除する仕組みによりバッテリーを長寿命化しています （単三電池4本で1年持つ計算のようです）
 コアとなるマイコンはESP32でESPHomeでプログラムを作っているようです
  </description>
-    </item>
-    
-    <item>
-      <title>ESP32にしては細い形の開発ボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%81%AB%E3%81%97%E3%81%A6%E3%81%AF%E7%B4%B0%E3%81%84%E5%BD%A2%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Mon, 19 Jun 2023 23:06:14 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%81%AB%E3%81%97%E3%81%A6%E3%81%AF%E7%B4%B0%E3%81%84%E5%BD%A2%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32にしては細い形の開発ボード.jpg"&gt;Esp32-S3-Pill by KusTech on Tindieから発見。画像もここから転載。
-ESP32-WROOMのパッケージは横幅が結構あるので、開発ボードも横幅が広いものがほとんどです。 これにより、ブレッドボードに挿したときにジャンパを指すところがないなどの問題が起きたりします。
-人によっては間隔を開けて2つのブレッドボードを並べるような人もいるようですが、ここで紹介している開発ボードは、一般的なBluePillボードと同じ間隔の細い形をしたものです。
-みたままですが、ESP32モジュールを開発ボードの後ろに配置することで、開発ボードの横幅を小さく保っています。
-USB端子もType-Cとなっており、かなり使いやすそうです。</description>
     </item>
     
   </channel>

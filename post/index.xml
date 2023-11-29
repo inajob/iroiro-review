@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 28 Nov 2023 22:52:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Nov 2023 23:46:29 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32をコアとしたLuaでゲームを作る環境</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9Flua%E3%81%A7%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E4%BD%9C%E3%82%8B%E7%92%B0%E5%A2%83/</link>
+      <pubDate>Wed, 29 Nov 2023 23:46:29 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9Flua%E3%81%A7%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E4%BD%9C%E3%82%8B%E7%92%B0%E5%A2%83/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32をコアとしたLuaでゲームを作る環境.jpg"&gt;Haco3 | ProtoPediaから発見。画像もここから転載。
+ESP32をコアとしたLuaでゲームを作る環境の作例です。 ダイソーの300円テトリス筐体を流用することでモバイルゲーム機のような見た目をした筐体を実現しています。
+キーボード入力もサポートしているようで、この機能を使うことで、理論的にはこの端末とキーボードだけでゲーム開発が出来るようです。
+Lua言語は組み込みやすいので、このような環境を比較的簡単に作れて便利です。また、ESP32もパワフルなマイコンなので、思った以上に立地なゲームを動作することが出来るようです。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタで幅広マーカーにくっつけるタイプのコロコロスタンプを作る</title>
@@ -116,20 +129,6 @@ Flashプログラマとしてよく用いられるCH341AというICはI2CやSPI�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ製のダイアルカチカチフィジェット.jpg"&gt;Clicky Dial Fidget (Print-in-Place) by TrocheHoleから発見。画像もここから転載。
 3Dプリンタ製のダイアルカチカチフィジェットの作成です。
 3Dプリンタの作例ならではの一体成型のモデルとなっており、組み立てられた状態で生成出来ます。 メカメカしい見た目も相まってテンションが上がりそうです。</description>
-    </item>
-    
-    <item>
-      <title>格安RISC-VマイコンCH32V003だけで温度測定する</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%A0%BC%E5%AE%89risc-v%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3ch32v003%E3%81%A0%E3%81%91%E3%81%A7%E6%B8%A9%E5%BA%A6%E6%B8%AC%E5%AE%9A%E3%81%99%E3%82%8B/</link>
-      <pubDate>Tue, 14 Nov 2023 22:25:10 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%A0%BC%E5%AE%89risc-v%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3ch32v003%E3%81%A0%E3%81%91%E3%81%A7%E6%B8%A9%E5%BA%A6%E6%B8%AC%E5%AE%9A%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/格安RISC-VマイコンCH32V003だけで温度測定する.jpg"&gt;Adding Temperature Sensor Functionality To The CH32V003 MCUから発見。画像もここから転載。
-格安RISC-VマイコンCH32V003ですが、このICだけを使って温度測定する方法があるようです。
-この手のHACKではよくある手法ですが、内部発振回路の温度の違いによるズレを測定する手法を使っています。 高い周波数と低い周波数の2つのクロックの差がが周辺温度の違いによりずれることを利用するようですが、低い周波数のクロックにアクセスする方法が少ない点で、この記事では苦労しているようです。
-この手法はICの個体差などが大きいことが予想されるため、実用的な用途には向かないですが、面白いHACKです
-以前も似たような原理のHACKを紹介しました。
- 温度センサーを使わずにマイコンで温度を取得する裏技 ダイオードを使った温度センサー  </description>
     </item>
     
   </channel>
