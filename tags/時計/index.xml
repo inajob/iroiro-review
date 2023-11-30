@@ -5,9 +5,22 @@
     <description>Recent content in 時計 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 09 May 2023 22:51:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Nov 2023 23:09:20 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%99%82%E8%A8%88/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>らせん状の迷路のような形状のユニークな時計</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%89%E3%81%9B%E3%82%93%E7%8A%B6%E3%81%AE%E8%BF%B7%E8%B7%AF%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E5%BD%A2%E7%8A%B6%E3%81%AE%E3%83%A6%E3%83%8B%E3%83%BC%E3%82%AF%E3%81%AA%E6%99%82%E8%A8%88/</link>
+      <pubDate>Thu, 30 Nov 2023 23:09:20 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%89%E3%81%9B%E3%82%93%E7%8A%B6%E3%81%AE%E8%BF%B7%E8%B7%AF%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E5%BD%A2%E7%8A%B6%E3%81%AE%E3%83%A6%E3%83%8B%E3%83%BC%E3%82%AF%E3%81%AA%E6%99%82%E8%A8%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/らせん状の迷路のような形状のユニークな時計.jpg"&gt;Watch Time Roll By On This Strange, Spiral Clockから発見。画像もここから転載。
+らせん状の迷路のような形状のユニークな時計の作例です。
+ステッピングモータでこのらせん状の時計を回転させることで、ボールをうずまきの内側へと移動させていき、そのボールの位置が時刻を表しているという仕組みです。
+この渦巻きの螺旋を作るために、MDF板にレーザーカットで細かい切れ目を入れて柔軟性をもたせるリビングヒンジというテクニックを利用しています。
+ </description>
+    </item>
     
     <item>
       <title>ESP32搭載のDIY時計ガジェットキット</title>
@@ -134,18 +147,6 @@ CPUにはPIC16F84Aを用いており、バッテリーはCR2032です。
 鉄球は裏面の磁石に引き寄せられて固定されており、その磁石はステッピングモーターで回転するようになっています。
 制御にはArduino Nanoを利用しているようです。
 一見時計に見えないシンプルさが面白いですね。</description>
-    </item>
-    
-    <item>
-      <title>ATSAMD20を用いたアナログ風デジタル時計</title>
-      <link>https://inajob.github.io/iroiro-review/post/atsamd20%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E9%A2%A8%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E6%99%82%E8%A8%88/</link>
-      <pubDate>Mon, 20 Sep 2021 12:00:15 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/atsamd20%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E9%A2%A8%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E6%99%82%E8%A8%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/decko.png"&gt;DECKOTOOから発見。画像もここから転載。
-ATSAMD20を用いた、アナログ風のデジタル時計の作例です。かつてKickstarterで資金を募っていたようですが、それには失敗し、オープンソースハードウェアとして公開することにしたようです。
-3軸加速度センサーを搭載しているので、ジェスチャーで操作できるようです。
-機能とは関係ないですが、規則的な回路パターンが美しいと思いました。</description>
     </item>
     
   </channel>
