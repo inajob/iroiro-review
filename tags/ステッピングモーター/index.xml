@@ -5,9 +5,20 @@
     <description>Recent content in ステッピングモーター on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 30 Nov 2023 23:09:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Dec 2023 23:29:11 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%82%B9%E3%83%86%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>日付と曜日を時計っぽく表示する装置</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%97%A5%E4%BB%98%E3%81%A8%E6%9B%9C%E6%97%A5%E3%82%92%E6%99%82%E8%A8%88%E3%81%A3%E3%81%BD%E3%81%8F%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Sun, 03 Dec 2023 23:29:11 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%97%A5%E4%BB%98%E3%81%A8%E6%9B%9C%E6%97%A5%E3%82%92%E6%99%82%E8%A8%88%E3%81%A3%E3%81%BD%E3%81%8F%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/日付と曜日を時計っぽく表示する装置.jpg"&gt;Analog Wall Calendar Keeps Track Of The Days For Youから発見。画像もここから転載。
+一見時計のように見えますが、これは日付と曜日を表示する、一種のカレンダーです。
+ステッピングモーターを用いて、日付の針と曜日の針を制御しています。 カレンダーという固定観念にとらわれないユニークな見た目が面白いです。</description>
+    </item>
     
     <item>
       <title>らせん状の迷路のような形状のユニークな時計</title>
