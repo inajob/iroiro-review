@@ -5,9 +5,20 @@
     <description>Recent content in 自作キーボード on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 06 Dec 2023 23:42:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Dec 2023 23:20:23 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RP2040をコアとした可愛いサイズの静音キーボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/rp2040%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E5%8F%AF%E6%84%9B%E3%81%84%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E9%9D%99%E9%9F%B3%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Thu, 07 Dec 2023 23:20:23 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/rp2040%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E5%8F%AF%E6%84%9B%E3%81%84%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E9%9D%99%E9%9F%B3%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/RP2040をコアとした可愛いサイズの静音キーボード.jpg"&gt;GitHub - ChrisChrisLoLo/bunchiez40から発見。画像もここから転載。
+RP2040をコアとした可愛いサイズの静音キーボードの作例です。 スイッチとしてマウスボタン用の静音タクトスイッチを利用しており、押し心地もよさそうです。
+小さなキーボードですが、普通のキーボードと同じようなフォームでタイピングすることを想定しているようです。</description>
+    </item>
     
     <item>
       <title>狭ピッチキーキャップ</title>
@@ -120,20 +131,6 @@ Raspberry Pi Picoを使ったとても小さなキーボード。小さいけど
 メカニカルキーボード版のZX81キーボードの作例です。
 ZX81のキーボードはメンブレンキーボードで、操作がしやすいとは言えませんでした。 この記事で紹介するのはZX81のキーボードをメカニカルキーボードにするための取り組みです。
 キーキャップにカスタムの模様を印刷してくれるサービスを利用し、ZX81のキーを再現しています。</description>
-    </item>
-    
-    <item>
-      <title>CH552を搭載した$3のマクロパッド</title>
-      <link>https://inajob.github.io/iroiro-review/post/ch552%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F3%E3%81%AE%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%91%E3%83%83%E3%83%89/</link>
-      <pubDate>Thu, 08 Jun 2023 23:13:08 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/ch552%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F3%E3%81%AE%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%91%E3%83%83%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH552を搭載した$3のマクロパッド.jpg"&gt;Macro Pad Cheap Enough To Give Awayから発見。画像もここから転載。
-自作キーボードを作る際によく使うマイコンというと、Pro Microに搭載されているATMega32u4や、Raspberry Pi Picoに搭載されているRP2040などがメジャーです。 これらのマイコンは数百円で買うことが出来ますが、もっと安いものはないのでしょうか？
-この記事で紹介しているのはCH552を搭載した$3のマクロパッドです。
-CH552は前述のマイコンより安く、また、昨今の半導体の高騰に巻き込まれていないため、現在も安価で入手できます。
-キーボードを考えるとほかの部品が結構高いので、マイコンをそこまで安く済ませたいという需要があるかは微妙ですが、このようなマクロパッドの場合は、マイコンの単価の割合が大きいので、安く済ませるための選択肢としてCH552良さそうです。
- </description>
     </item>
     
   </channel>

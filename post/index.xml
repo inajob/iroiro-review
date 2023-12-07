@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 06 Dec 2023 23:42:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Dec 2023 23:20:23 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RP2040をコアとした可愛いサイズの静音キーボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/rp2040%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E5%8F%AF%E6%84%9B%E3%81%84%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E9%9D%99%E9%9F%B3%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Thu, 07 Dec 2023 23:20:23 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/rp2040%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E5%8F%AF%E6%84%9B%E3%81%84%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E9%9D%99%E9%9F%B3%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/RP2040をコアとした可愛いサイズの静音キーボード.jpg"&gt;GitHub - ChrisChrisLoLo/bunchiez40から発見。画像もここから転載。
+RP2040をコアとした可愛いサイズの静音キーボードの作例です。 スイッチとしてマウスボタン用の静音タクトスイッチを利用しており、押し心地もよさそうです。
+小さなキーボードですが、普通のキーボードと同じようなフォームでタイピングすることを想定しているようです。</description>
+    </item>
     
     <item>
       <title>狭ピッチキーキャップ</title>
@@ -120,18 +131,6 @@ Lua言語は組み込みやすいので、このような環境を比較的簡�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/からくりで水量を可視化するゲージ.jpg"&gt;3D Printing Improves Passive Pixel Water Gaugeから発見。画像もここから転載。
 からくりで水量を可視化する、3Dプリンタ製のゲージの作例です。 磁石付きの「浮き」を使ってフリップドットディスプレイのようなゲージを制御しています。
 素朴な仕組みですが、電子的なロジックなしで動作するのである意味堅牢かもしれません。
- </description>
-    </item>
-    
-    <item>
-      <title>筋電位センサーで操作するUFOキャッチャー的なアーム</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E7%AD%8B%E9%9B%BB%E4%BD%8D%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%81%A7%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8Bufo%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81%E3%83%A3%E3%83%BC%E7%9A%84%E3%81%AA%E3%82%A2%E3%83%BC%E3%83%A0/</link>
-      <pubDate>Thu, 23 Nov 2023 23:23:15 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E7%AD%8B%E9%9B%BB%E4%BD%8D%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%81%A7%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8Bufo%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81%E3%83%A3%E3%83%BC%E7%9A%84%E3%81%AA%E3%82%A2%E3%83%BC%E3%83%A0/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/筋電位センサーで操作するUFOキャッチャー的なアーム.jpg"&gt;Servo Claw Game Puts Your Muscles To The Testから発見。画像もここから転載。
-筋電位センサーを使うことで、筋肉にどの程度力を加えているかをセンシングすることが出来ます。 これを利用することで作られた、筋肉で操作するUFOキャッチャー的なアームの作例です。
-これはおもちゃ的なものですが、人間の体の筋肉をそれぞれセンシングすることで、人間の動作を真似するようなロボットも作れそうだなと感じました。
  </description>
     </item>
     
