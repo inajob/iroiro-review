@@ -5,9 +5,21 @@
     <description>Recent content in フルカラーLED on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 24 Nov 2022 23:11:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Dec 2023 23:52:53 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCled/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>六角形のフルカラーイルミネーション</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%85%AD%E8%A7%92%E5%BD%A2%E3%81%AE%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%A4%E3%83%AB%E3%83%9F%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/</link>
+      <pubDate>Sun, 10 Dec 2023 23:52:53 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%85%AD%E8%A7%92%E5%BD%A2%E3%81%AE%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%A4%E3%83%AB%E3%83%9F%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/六角形のフルカラーイルミネーション.jpg"&gt;Build Your Own Nanoleaf-Like Hex Lightsから発見。画像もここから転載。
+六角形のフルカラーイルミネーションの作例です。 内側によくある12mmのタクトスイッチを埋め込んで、この照明器具を押し込むことで操作出来るようにしています。
+素朴な仕組みですが、良いアイデアと感じました。
+ </description>
+    </item>
     
     <item>
       <title>長方形のフルカラーLEDであるSK6812を使った7セグメント表示機用PCB</title>
