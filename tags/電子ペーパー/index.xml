@@ -5,9 +5,21 @@
     <description>Recent content in 電子ペーパー on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 31 Oct 2023 23:52:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Dec 2023 23:36:47 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>電子ペーパー搭載の文字書き専用端末</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E6%90%AD%E8%BC%89%E3%81%AE%E6%96%87%E5%AD%97%E6%9B%B8%E3%81%8D%E5%B0%82%E7%94%A8%E7%AB%AF%E6%9C%AB/</link>
+      <pubDate>Mon, 11 Dec 2023 23:36:47 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E6%90%AD%E8%BC%89%E3%81%AE%E6%96%87%E5%AD%97%E6%9B%B8%E3%81%8D%E5%B0%82%E7%94%A8%E7%AB%AF%E6%9C%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/電子ペーパー搭載の文字書き専用端末.jpg"&gt;ZeroWriterから発見。画像もここから転載。
+電子ペーパー搭載の文字書き専用端末の作例です
+内部はRaspberry Pi Zero Wで、メカニカルキーボードを搭載し、シンプルな文字入力端末を実現しています。 ケースは3Dプリンタで作られており、この設計は 3Dプリンタで作られたコンパクトな筐体のハンドヘルド端末 のものを元にしているとのことです。
+この作例では日本語入力はサポートしていないようですが、中身Raspberry Pi Zeroということなので、日本語入力対応もそこまで難しくなさそうに見えます。</description>
+    </item>
     
     <item>
       <title>電子ペーパーを用いたフチなしの情報板</title>
@@ -125,20 +137,6 @@ Arduinoベースで、2.9インチの電子ペーパーを搭載しています�
 電子ペーパーを利用して作られた、自動スクロールする絵巻物風の画像を表示する額縁の作例です
 電子ペーパーの素材感と絵巻物の雰囲気がよくマッチしており、インテリアとして完成度が高いです。
 内部的にはRaspberry Pi Zeroで実装されており、この画像はブラウザ上で動作するJavaScriptが自動生成しているという、意外と富豪的なつくりです。</description>
-    </item>
-    
-    <item>
-      <title>ゆっくりと画面が切り替わる壁掛け電子ペーパー動画サイネージ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8A%E3%81%A8%E7%94%BB%E9%9D%A2%E3%81%8C%E5%88%87%E3%82%8A%E6%9B%BF%E3%82%8F%E3%82%8B%E5%A3%81%E6%8E%9B%E3%81%91%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E5%8B%95%E7%94%BB%E3%82%B5%E3%82%A4%E3%83%8D%E3%83%BC%E3%82%B8/</link>
-      <pubDate>Wed, 31 Aug 2022 00:07:12 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8A%E3%81%A8%E7%94%BB%E9%9D%A2%E3%81%8C%E5%88%87%E3%82%8A%E6%9B%BF%E3%82%8F%E3%82%8B%E5%A3%81%E6%8E%9B%E3%81%91%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E5%8B%95%E7%94%BB%E3%82%B5%E3%82%A4%E3%83%8D%E3%83%BC%E3%82%B8/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ゆっくりと画面が切り替わる壁掛け電子ペーパー動画サイネージ.jpg"&gt;Every Frame A Work Of Art With This Color Ultra-Slow Movie Playerから発見。画像もここから転載。
-ゆっくりと画面が切り替わる壁掛け電子ペーパー動画サイネージの作例です
-ディスプレイは7色のカラー電子ペーパーで、プロセッサはESP32を使っています。
-ESP32のULPを使うことで低消費電力の動作を実現しています。
-電子ペーパーは書き換えの速度が遅いことが問題になることが多いです。特にこの作例で使うようなカラーの電子ペーパーは全色書き換えるのに30sほどかかるようです。 この作例では、あえてこのゆっくりでしか書き換えられない特性を利用して、のんびりと動画を表示するというサイネージを作っています。
-インテリアとして、ふと見たときに毎回違う場面が描かれているフォトフレームというのは なかなか面白そうです。</description>
     </item>
     
   </channel>

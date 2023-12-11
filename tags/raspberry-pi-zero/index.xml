@@ -5,9 +5,21 @@
     <description>Recent content in Raspberry Pi Zero on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 24 Sep 2023 23:11:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Dec 2023 23:36:47 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/raspberry-pi-zero/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>電子ペーパー搭載の文字書き専用端末</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E6%90%AD%E8%BC%89%E3%81%AE%E6%96%87%E5%AD%97%E6%9B%B8%E3%81%8D%E5%B0%82%E7%94%A8%E7%AB%AF%E6%9C%AB/</link>
+      <pubDate>Mon, 11 Dec 2023 23:36:47 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E6%90%AD%E8%BC%89%E3%81%AE%E6%96%87%E5%AD%97%E6%9B%B8%E3%81%8D%E5%B0%82%E7%94%A8%E7%AB%AF%E6%9C%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/電子ペーパー搭載の文字書き専用端末.jpg"&gt;ZeroWriterから発見。画像もここから転載。
+電子ペーパー搭載の文字書き専用端末の作例です
+内部はRaspberry Pi Zero Wで、メカニカルキーボードを搭載し、シンプルな文字入力端末を実現しています。 ケースは3Dプリンタで作られており、この設計は 3Dプリンタで作られたコンパクトな筐体のハンドヘルド端末 のものを元にしているとのことです。
+この作例では日本語入力はサポートしていないようですが、中身Raspberry Pi Zeroということなので、日本語入力対応もそこまで難しくなさそうに見えます。</description>
+    </item>
     
     <item>
       <title>RP2040をコアとしたRaspberry Pi Zero風の開発ボード</title>
