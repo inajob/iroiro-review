@@ -5,9 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 12 Dec 2023 23:46:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Dec 2023 22:32:54 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ゼンマイみたいな仕組みを内蔵した3Dプリンタ製のマーブルマシン</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%BC%E3%83%B3%E3%83%9E%E3%82%A4%E3%81%BF%E3%81%9F%E3%81%84%E3%81%AA%E4%BB%95%E7%B5%84%E3%81%BF%E3%82%92%E5%86%85%E8%94%B5%E3%81%97%E3%81%9F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%83%9E%E3%83%BC%E3%83%96%E3%83%AB%E3%83%9E%E3%82%B7%E3%83%B3/</link>
+      <pubDate>Wed, 13 Dec 2023 22:32:54 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%BC%E3%83%B3%E3%83%9E%E3%82%A4%E3%81%BF%E3%81%9F%E3%81%84%E3%81%AA%E4%BB%95%E7%B5%84%E3%81%BF%E3%82%92%E5%86%85%E8%94%B5%E3%81%97%E3%81%9F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%83%9E%E3%83%BC%E3%83%96%E3%83%AB%E3%83%9E%E3%82%B7%E3%83%B3/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ゼンマイみたいな仕組みを内蔵した3Dプリンタ製のマーブルマシン.jpg"&gt;K.$uzukiさんのPostから発見。画像もここから転載。
+ゼンマイみたいな仕組みを内蔵した3Dプリンタ製のマーブルマシンの作例です。 ゼンマイ部分は100均で購入できる伸縮するキーチェーンの中身を流用しています。
+このゼンマイ部分はモジュール化されており、マーブルマシン以外の様々な機構と組み合わせができるように設計されています。
+電源無しでメカが勝手に動く様子は見ているだけで飽きません。
+手のひらサイズのマーブルマシンができたぞ pic.twitter.com/DN7KOWxI8L
+&amp;mdash; K.$uzuki (@BellTreeNursing) November 23, 2023   </description>
+    </item>
     
     <item>
       <title>Raspberry Pi Picoをコアとした8ステップのMIDIシーケンサ</title>
@@ -117,19 +131,6 @@ RP2040をコアとした可愛いサイズの静音キーボードの作例で�
 らせん状の迷路のような形状のユニークな時計の作例です。
 ステッピングモータでこのらせん状の時計を回転させることで、ボールをうずまきの内側へと移動させていき、そのボールの位置が時刻を表しているという仕組みです。
 この渦巻きの螺旋を作るために、MDF板にレーザーカットで細かい切れ目を入れて柔軟性をもたせるリビングヒンジというテクニックを利用しています。
- </description>
-    </item>
-    
-    <item>
-      <title>ESP32をコアとしたLuaでゲームを作る環境</title>
-      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9Flua%E3%81%A7%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E4%BD%9C%E3%82%8B%E7%92%B0%E5%A2%83/</link>
-      <pubDate>Wed, 29 Nov 2023 23:46:29 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9Flua%E3%81%A7%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E4%BD%9C%E3%82%8B%E7%92%B0%E5%A2%83/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32をコアとしたLuaでゲームを作る環境.jpg"&gt;Haco3 | ProtoPediaから発見。画像もここから転載。
-ESP32をコアとしたLuaでゲームを作る環境の作例です。 ダイソーの300円テトリス筐体を流用することでモバイルゲーム機のような見た目をした筐体を実現しています。
-キーボード入力もサポートしているようで、この機能を使うことで、理論的にはこの端末とキーボードだけでゲーム開発が出来るようです。
-Lua言語は組み込みやすいので、このような環境を比較的簡単に作れて便利です。また、ESP32もパワフルなマイコンなので、思った以上に立地なゲームを動作することが出来るようです。
  </description>
     </item>
     
