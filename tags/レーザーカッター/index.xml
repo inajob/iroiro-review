@@ -5,9 +5,23 @@
     <description>Recent content in レーザーカッター on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 30 Nov 2023 23:09:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Dec 2023 23:50:51 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>レーザーカットならではのパーツのジョイント手法</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%83%88%E3%81%AA%E3%82%89%E3%81%A7%E3%81%AF%E3%81%AE%E3%83%91%E3%83%BC%E3%83%84%E3%81%AE%E3%82%B8%E3%83%A7%E3%82%A4%E3%83%B3%E3%83%88%E6%89%8B%E6%B3%95/</link>
+      <pubDate>Mon, 18 Dec 2023 23:50:51 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%83%88%E3%81%AA%E3%82%89%E3%81%A7%E3%81%AF%E3%81%AE%E3%83%91%E3%83%BC%E3%83%84%E3%81%AE%E3%82%B8%E3%83%A7%E3%82%A4%E3%83%B3%E3%83%88%E6%89%8B%E6%B3%95/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/レーザーカットならではのパーツのジョイント手法.jpg"&gt;This Laser-Cut One-Piece Wedge Tenon Locks Wood Joints Tightから発見。画像もここから転載。
+複数の部品を接合する方法は様々ありますが、それは素材や加工方法によるところが大きいです。
+この記事で紹介しているのはレーザーカットで木材を切断する際に利用できる接合方法です。
+写真のように、「くさび」がわずかにつながった状態で断面をカットすることで、このくさびをハンマーでたたくことで接合部分を止めるという手法です。
+精密にカットできるレーザーカッターの特性をうまく生かした手法です。
+ </description>
+    </item>
     
     <item>
       <title>らせん状の迷路のような形状のユニークな時計</title>
@@ -120,18 +134,6 @@ PCB基板にチップLEDを配置し、その上にアクリル板を重ねる�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/harmonic-anlyzer.png"&gt;Harmonic Analyzer : Mechanical Lasercut Signal Plotterから発見。画像もここから転載。
 からくりで計算をするというのは昔からたくさんの試みがなされてきました。ここで紹介するのもそういった装置の一つで、関数のグラフをプロットするものです。
 仕組みとしては、目的の関数を様々な周期のsin,cos波の合成関数として近似し（フーリエ級数展開）、たくさんのギアの回転をからくりで組み合わせて描画しているようです。
- </description>
-    </item>
-    
-    <item>
-      <title>アクリル板の組み合わせで作る種まき器</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E6%9D%BF%E3%81%AE%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%A7%E4%BD%9C%E3%82%8B%E7%A8%AE%E3%82%84%E3%82%8A%E5%99%A8/</link>
-      <pubDate>Mon, 12 Oct 2020 23:00:07 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E6%9D%BF%E3%81%AE%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%A7%E4%BD%9C%E3%82%8B%E7%A8%AE%E3%82%84%E3%82%8A%E5%99%A8/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/dropseed.png"&gt;Drop Seeder, Put those seeds in the soil quickから発見。画像もここから転載。
-農業とDIYは相性がよさそうですが、ここで紹介するのは「種まき」を効率よく行うためのソリューションです。
-アクリル板、MDF板をレーザーカットし、それらを組み合わせて、均等なグリッドに種をまくための装置を作成しています。
  </description>
     </item>
     

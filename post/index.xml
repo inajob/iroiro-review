@@ -5,9 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 17 Dec 2023 23:33:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Dec 2023 23:50:51 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>レーザーカットならではのパーツのジョイント手法</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%83%88%E3%81%AA%E3%82%89%E3%81%A7%E3%81%AF%E3%81%AE%E3%83%91%E3%83%BC%E3%83%84%E3%81%AE%E3%82%B8%E3%83%A7%E3%82%A4%E3%83%B3%E3%83%88%E6%89%8B%E6%B3%95/</link>
+      <pubDate>Mon, 18 Dec 2023 23:50:51 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%83%88%E3%81%AA%E3%82%89%E3%81%A7%E3%81%AF%E3%81%AE%E3%83%91%E3%83%BC%E3%83%84%E3%81%AE%E3%82%B8%E3%83%A7%E3%82%A4%E3%83%B3%E3%83%88%E6%89%8B%E6%B3%95/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/レーザーカットならではのパーツのジョイント手法.jpg"&gt;This Laser-Cut One-Piece Wedge Tenon Locks Wood Joints Tightから発見。画像もここから転載。
+複数の部品を接合する方法は様々ありますが、それは素材や加工方法によるところが大きいです。
+この記事で紹介しているのはレーザーカットで木材を切断する際に利用できる接合方法です。
+写真のように、「くさび」がわずかにつながった状態で断面をカットすることで、このくさびをハンマーでたたくことで接合部分を止めるという手法です。
+精密にカットできるレーザーカッターの特性をうまく生かした手法です。
+ </description>
+    </item>
     
     <item>
       <title>時間によって変わる電力料金を可視化する時計</title>
@@ -118,18 +132,6 @@ RP2040をコアとした可愛いサイズの静音キーボードの作例で�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作られた光る指輪.jpg"&gt;LED Ring Brings The Blingから発見。画像もここから転載。
 3Dプリンタで作られた光る指輪の作例です。
 そこまで細かい作業はせず、指輪型のケースの中に表面実装LEDを埋め込み、電源はコイン電池を手のひらの中に握るという割り切った設計となっており、比較的簡単に真似して作ることが出来そうです。
- </description>
-    </item>
-    
-    <item>
-      <title>散歩しながら仕事できる電動タイヤ付きスタンディングデスク</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%95%A3%E6%AD%A9%E3%81%97%E3%81%AA%E3%81%8C%E3%82%89%E4%BB%95%E4%BA%8B%E3%81%A7%E3%81%8D%E3%82%8B%E9%9B%BB%E5%8B%95%E3%82%BF%E3%82%A4%E3%83%A4%E4%BB%98%E3%81%8D%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%87%E3%82%B9%E3%82%AF/</link>
-      <pubDate>Tue, 05 Dec 2023 00:16:51 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%95%A3%E6%AD%A9%E3%81%97%E3%81%AA%E3%81%8C%E3%82%89%E4%BB%95%E4%BA%8B%E3%81%A7%E3%81%8D%E3%82%8B%E9%9B%BB%E5%8B%95%E3%82%BF%E3%82%A4%E3%83%A4%E4%BB%98%E3%81%8D%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%87%E3%82%B9%E3%82%AF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/散歩しながら仕事できる電動タイヤ付きスタンディングデスク.jpg"&gt;Walking Desk Is More Annoying Than A Standing Deskから発見。画像もここから転載。
-散歩しながら仕事できる電動タイヤ付きスタンディングデスクの作例です。
-見た目からしてネタでしかないですが、しっかりと作られており、平らな道であれば本当に散歩しながらPC作業を行うことが出来るようです。
  </description>
     </item>
     
