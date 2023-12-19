@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 18 Dec 2023 23:50:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Dec 2023 23:45:42 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ジャンパー不要のブレッドボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%91%E3%83%BC%E4%B8%8D%E8%A6%81%E3%81%AE%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Tue, 19 Dec 2023 23:45:42 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%91%E3%83%BC%E4%B8%8D%E8%A6%81%E3%81%AE%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ジャンパー不要のブレッドボード.jpg"&gt;Jumperlessから発見。画像もここから転載。
+ジャンパーをソフトウェアで定義できるハイテクな製品です。
+ピン間の電圧、電流も検知することができるので、回路の状況をモニタリングしLEDで表示することもできます。
+配線の切り替えにはCH446というICをたくさん利用しています。 コントローラはRP2040となっており頻繁にファームウェアが更新されています。
+ </description>
+    </item>
     
     <item>
       <title>レーザーカットならではのパーツのジョイント手法</title>
@@ -121,18 +134,6 @@ RP2040をコアとした可愛いサイズの静音キーボードの作例で�
 挟ピッチキーキャップ、つや消しクリア吹いて落ち着いた(oﾟ▽ﾟ)
 明日はちゃんとキーボードに組みたいところ pic.twitter.com/wn6FtJs822
 &amp;mdash; mike (@mikekoma) November 14, 2023  </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタで作られた光る指輪</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E5%85%89%E3%82%8B%E6%8C%87%E8%BC%AA/</link>
-      <pubDate>Tue, 05 Dec 2023 23:36:21 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E5%85%89%E3%82%8B%E6%8C%87%E8%BC%AA/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作られた光る指輪.jpg"&gt;LED Ring Brings The Blingから発見。画像もここから転載。
-3Dプリンタで作られた光る指輪の作例です。
-そこまで細かい作業はせず、指輪型のケースの中に表面実装LEDを埋め込み、電源はコイン電池を手のひらの中に握るという割り切った設計となっており、比較的簡単に真似して作ることが出来そうです。
- </description>
     </item>
     
   </channel>
