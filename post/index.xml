@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 19 Dec 2023 23:45:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Dec 2023 23:39:44 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタによるメガネフレームの自作</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AB%E3%82%88%E3%82%8B%E3%83%A1%E3%82%AC%E3%83%8D%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E8%87%AA%E4%BD%9C/</link>
+      <pubDate>Wed, 20 Dec 2023 23:39:44 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AB%E3%82%88%E3%82%8B%E3%83%A1%E3%82%AC%E3%83%8D%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E8%87%AA%E4%BD%9C/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタによるメガネフレームの自作.jpg"&gt;Naohiro IIDAさんのPostから発見。画像もここから転載。
+3Dプリンタによるメガネフレームの自作例です。 最近の眼鏡は安いものも多いので、3Dプリンタでフレームを作る遊びは面白そうです。
+JINSのメガネフレーム、一ヶ月で二回も折れて、フレーム折れは補償外なので頭に来て、3Dプリンタでフレーム作った。どうかしら。 pic.twitter.com/wT1SZpIPpD
+&amp;mdash; Naohiro IIDA (@dannymodules) December 3, 2023  </description>
+    </item>
     
     <item>
       <title>ジャンパー不要のブレッドボード</title>
@@ -118,22 +130,6 @@ Raspberry Pi Picoをコアとした8ステップのMIDIシーケンサです。 
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/RP2040をコアとした可愛いサイズの静音キーボード.jpg"&gt;GitHub - ChrisChrisLoLo/bunchiez40から発見。画像もここから転載。
 RP2040をコアとした可愛いサイズの静音キーボードの作例です。 スイッチとしてマウスボタン用の静音タクトスイッチを利用しており、押し心地もよさそうです。
 小さなキーボードですが、普通のキーボードと同じようなフォームでタイピングすることを想定しているようです。</description>
-    </item>
-    
-    <item>
-      <title>狭ピッチキーキャップ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E7%8B%AD%E3%83%94%E3%83%83%E3%83%81%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97/</link>
-      <pubDate>Wed, 06 Dec 2023 23:42:50 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E7%8B%AD%E3%83%94%E3%83%83%E3%83%81%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/狭ピッチキーキャップ.jpg"&gt;mikeさんのPostから発見。画像もここから転載。
-自作キーボードの世界には狭ピッチキーボードという、言葉があり、これは通常のキーボードよりもキー同士の間隔が狭いものを指します。
-自作キーボードで一般的に利用されるキーキャップは、キースイッチよりは大きなものが大半のため、狭いピッチのキーボードを設計する際は、自分でキーキャップも設計必要があります。
-このPostでは、一般的なキーキャップでは見られない面白い形状の狭いピッチキーボード用のキーキャップを紹介しています。
-このキーキャップを利用したキーボードの製作に関するログも公開されています
-挟ピッチキーキャップ、つや消しクリア吹いて落ち着いた(oﾟ▽ﾟ)
-明日はちゃんとキーボードに組みたいところ pic.twitter.com/wn6FtJs822
-&amp;mdash; mike (@mikekoma) November 14, 2023  </description>
     </item>
     
   </channel>
