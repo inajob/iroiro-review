@@ -5,9 +5,22 @@
     <description>Recent content in 電子ペーパー on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 11 Dec 2023 23:36:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Dec 2023 23:44:39 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>電子ペーパーとRaspberry Pi Zero W向けのダッシュボード作成用フレームワーク</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E3%81%A8raspberry-pi-zero-w%E5%90%91%E3%81%91%E3%81%AE%E3%83%80%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%83%BC%E3%83%89%E4%BD%9C%E6%88%90%E7%94%A8%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF/</link>
+      <pubDate>Thu, 21 Dec 2023 23:44:39 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E3%81%A8raspberry-pi-zero-w%E5%90%91%E3%81%91%E3%81%AE%E3%83%80%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%83%BC%E3%83%89%E4%BD%9C%E6%88%90%E7%94%A8%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/電子ペーパーとRaspberry Pi Zero W向けのダッシュボード作成用フレームワーク.jpg"&gt;Inkycal - Your own E-Paper Dashboardから発見。画像もここから転載。
+電子ペーパーとRaspberry Pi Zero W向けのダッシュボード作成用フレームワークです。
+様々なな電子ペーパーに対応しておりWebUIでデザインすることが出来ます。
+電子ペーパーをつかったデジタルサイネージをサクッと作ることができ、面白そうです。
+ </description>
+    </item>
     
     <item>
       <title>電子ペーパー搭載の文字書き専用端末</title>
@@ -125,18 +138,6 @@ Arduinoベースで、2.9インチの電子ペーパーを搭載しています�
 せっかくオリジナルのパソコンを設計するなら、普通のパソコンには搭載されないような機能をつけたいものです。
 この作例では、通常の液晶ディスプレイとは別に、電子ペーパーディスプレイを併設しています。
 液晶に比べるとキーボードの横幅が広いので幅が余ると思っていたが、これは良いアイデアかもしれません。</description>
-    </item>
-    
-    <item>
-      <title>e-inkディスプレイを利用した無限スクロールする風景絵巻</title>
-      <link>https://inajob.github.io/iroiro-review/post/e-ink%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E7%84%A1%E9%99%90%E3%82%B9%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B%E9%A2%A8%E6%99%AF%E7%B5%B5%E5%B7%BB/</link>
-      <pubDate>Mon, 28 Nov 2022 23:20:54 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/e-ink%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E7%84%A1%E9%99%90%E3%82%B9%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B%E9%A2%A8%E6%99%AF%E7%B5%B5%E5%B7%BB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/e-inkディスプレイを利用した無限スクロールする風景絵巻.jpg"&gt;Infinitely Scrolling E-Ink Landscape Never Repeatsから発見。画像もここから転載。
-電子ペーパーを利用して作られた、自動スクロールする絵巻物風の画像を表示する額縁の作例です
-電子ペーパーの素材感と絵巻物の雰囲気がよくマッチしており、インテリアとして完成度が高いです。
-内部的にはRaspberry Pi Zeroで実装されており、この画像はブラウザ上で動作するJavaScriptが自動生成しているという、意外と富豪的なつくりです。</description>
     </item>
     
   </channel>
