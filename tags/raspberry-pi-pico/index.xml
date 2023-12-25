@@ -5,9 +5,22 @@
     <description>Recent content in Raspberry Pi Pico on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 12 Dec 2023 23:46:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Dec 2023 23:18:05 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>おもちゃのキーボードにRaspberry Pi Picoを搭載し高音質なシンセサイザーに変身させる</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%81%ABraspberry-pi-pico%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E9%AB%98%E9%9F%B3%E8%B3%AA%E3%81%AA%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC%E3%81%AB%E5%A4%89%E8%BA%AB%E3%81%95%E3%81%9B%E3%82%8B/</link>
+      <pubDate>Mon, 25 Dec 2023 23:18:05 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%81%ABraspberry-pi-pico%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E9%AB%98%E9%9F%B3%E8%B3%AA%E3%81%AA%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC%E3%81%AB%E5%A4%89%E8%BA%AB%E3%81%95%E3%81%9B%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/おもちゃのキーボードにRaspberry Pi Picoを搭載し高音質なシンセサイザーに変身させる.jpg"&gt;Picophonicaから発見。画像もここから転載。
+おもちゃの鍵盤を改造してしっかりした音が出るシンセサイザーに変身させる事例です。
+中身をRaspberry Pi Picoにして、リッチな音の出る楽器に仕上げています。塗装もやり直して完成度を高めています。
+音源としてはpico_synth_ex を利用しています
+ </description>
+    </item>
     
     <item>
       <title>Raspberry Pi Picoをコアとした8ステップのMIDIシーケンサ</title>
@@ -126,20 +139,6 @@ Raspberry Pi PicoにWiFi機能が付いたバージョンである Raspberry Pi 
 Raspberry Pi Pico Wと液晶画面をつないでいるだけの構成ですが、これでPCの画面をVNC経由で表示することが出来ています。
 パワフルなRaspberry Pi Picoに無線機能が付くことで、このようにパワフルな作例が作れるようになりました。日本でも利用できるようになる日が楽しみです。
  </description>
-    </item>
-    
-    <item>
-      <title>Raspberry Pi Pico上で動くvi風エディタとCコンパイラ</title>
-      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E4%B8%8A%E3%81%A7%E5%8B%95%E3%81%8Fvi%E9%A2%A8%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF%E3%81%A8c%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%A9/</link>
-      <pubDate>Mon, 15 Aug 2022 23:13:23 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E4%B8%8A%E3%81%A7%E5%8B%95%E3%81%8Fvi%E9%A2%A8%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF%E3%81%A8c%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%A9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi Pico上で動くvi風エディタとCコンパイラ.jpg"&gt;Self-Hosted Pi Pico Developmentから発見。画像もここから転載。
-Raspberry Pi Picoはパワフルなマイコンボードで、これだけで何でもできてしまいそうです。
-ということで、この記事では、Raspberry Pi Picoの上で動作する開発環境の作例を紹介しています。 C言語のコンパイラ、vi的なエディタ、ファイルシステムなどをRaspberry Pi Picoだけで動くように移植することでセルフ開発環境を構築しています。
-C言語のコンパイラについて、もう少し見てみると、amaccと呼ばれるコンパイラのパーサージェネレータを流用しc4と呼ばれる仮想言語機械上で動作する機械語を出力しているようです。
-viについてはBusyBoxに内蔵されているものを移植しています。
-これを使うためには何らかのシリアルコンソールにアクセスできる端末が必要ですが、その部分もRaspberry Pi Picoで実現することもそこまで難しくなさそうです。</description>
     </item>
     
   </channel>

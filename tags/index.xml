@@ -5,9 +5,27 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 24 Dec 2023 23:34:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Dec 2023 23:18:05 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raspberry Pi Pico</title>
+      <link>https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico/</link>
+      <pubDate>Mon, 25 Dec 2023 23:18:05 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>音楽</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E9%9F%B3%E6%A5%BD/</link>
+      <pubDate>Mon, 25 Dec 2023 23:18:05 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E9%9F%B3%E6%A5%BD/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>静電容量</title>
@@ -78,24 +96,6 @@
       <pubDate>Sun, 17 Dec 2023 23:33:47 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCled/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>時計</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E6%99%82%E8%A8%88/</link>
-      <pubDate>Sun, 17 Dec 2023 23:33:47 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E6%99%82%E8%A8%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>ポゴピン</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E3%83%9D%E3%82%B4%E3%83%94%E3%83%B3/</link>
-      <pubDate>Fri, 15 Dec 2023 00:05:44 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E3%83%9D%E3%82%B4%E3%83%94%E3%83%B3/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
