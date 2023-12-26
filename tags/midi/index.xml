@@ -5,9 +5,21 @@
     <description>Recent content in MIDI on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 12 Dec 2023 23:46:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Dec 2023 23:26:48 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/midi/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>USB端子サイズの小さなシンセモジュール</title>
+      <link>https://inajob.github.io/iroiro-review/post/usb%E7%AB%AF%E5%AD%90%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E5%B0%8F%E3%81%95%E3%81%AA%E3%82%B7%E3%83%B3%E3%82%BB%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Tue, 26 Dec 2023 23:26:48 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/usb%E7%AB%AF%E5%AD%90%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E5%B0%8F%E3%81%95%E3%81%AA%E3%82%B7%E3%83%B3%E3%82%BB%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/USB端子サイズの小さなシンセモジュール.jpg"&gt;The Small And Silly Synth Now Even Smaller (But Just As Silly)から発見。画像もここから転載。
+USB端子サイズの小さな単音のシンセモジュールの作例です。 USB Type-C端子と小さなブザーで構成されており、制御はCH32V003で行っています。
+単音しかならせませんが、デモではUSBハブにこのモジュールをたくさん取り付けて和音の演奏を実現しています。
+ </description>
+    </item>
     
     <item>
       <title>Raspberry Pi Picoをコアとした8ステップのMIDIシーケンサ</title>
