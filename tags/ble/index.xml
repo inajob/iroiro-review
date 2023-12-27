@@ -1,0 +1,30 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BLE on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/ble/</link>
+    <description>Recent content in BLE on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 27 Dec 2023 23:22:13 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/ble/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>車のハンドルをタッチセンサーでドラム化する</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%BB%8A%E3%81%AE%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AB%E3%82%92%E3%82%BF%E3%83%83%E3%83%81%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%81%A7%E3%83%89%E3%83%A9%E3%83%A0%E5%8C%96%E3%81%99%E3%82%8B/</link>
+      <pubDate>Wed, 27 Dec 2023 23:22:13 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%BB%8A%E3%81%AE%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AB%E3%82%92%E3%82%BF%E3%83%83%E3%83%81%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%81%A7%E3%83%89%E3%83%A9%E3%83%A0%E5%8C%96%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/車のハンドルをタッチセンサーでドラム化する.jpg"&gt;ひろみつさんのPostから発見。画像もここから転載。
+車のハンドルをタッチセンサーでドラム化している事例です。
+ハンドルにタッチセンサーを取り付け、そのセンシング情報をBLE MIDIで送受信することでドラム演奏を実現しています。 コアとなるマイコンモジュールはSeeduino XIAOを使用しています。
+おっさんってさ、運転中ハンドルでドラム叩くじゃん。
+せっかくだからさ、ちゃんと音出るようにしてみたよ。
+１０年ぐらい前に思いついてずっとやってなかったんだけど、重い腰を上げてやってみたら一晩でできたよｗ
+割とすごいよ。見てみて。タッチセンサとBLE MIDI使ってるよ。あと、車。 pic.twitter.com/FyvqRmek0t
+&amp;mdash; ひろみつ (@bakueikozo) May 2, 2023  </description>
+    </item>
+    
+  </channel>
+</rss>
+
