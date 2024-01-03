@@ -5,9 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 27 Dec 2023 23:22:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jan 2024 23:31:16 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>スーパーキャパシタ内臓のモバイルスピーカー</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%91%E3%82%B7%E3%82%BF%E5%86%85%E8%87%93%E3%81%AE%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC/</link>
+      <pubDate>Wed, 03 Jan 2024 23:31:16 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%91%E3%82%B7%E3%82%BF%E5%86%85%E8%87%93%E3%81%AE%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/スーパーキャパシタ内臓のモバイルスピーカー.jpg"&gt;Building A Solar-Powered, Supercapacitor-Based Speakerから発見。画像もここから転載。
+スーパーキャパシタ内臓のモバイルスピーカーの作例です。
+バッテリーを内蔵したモバイルスピーカーは多くありますが、その多くはリチウムイオンバッテリーに充電しています。
+リチウムイオンバッテリーは体積あたりの容量は大きいですが充放電の回数に制限があるという問題があります。 例えばソーラーパネルのようなもので充電をしつつ利用するような用途にはこのようなバッテリーは向きません。
+この作例ではスーパーキャパシタを内蔵したスピーカーを自作しており、ソーラーパネルなどで充電しつつ利用するのにぴったりです。
+ </description>
+    </item>
     
     <item>
       <title>車のハンドルをタッチセンサーでドラム化する</title>
@@ -123,17 +137,6 @@ JINSのメガネフレーム、一ヶ月で二回も折れて、フレーム折�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/時間によって変わる電力料金を可視化する時計.jpg"&gt;Monitoring Energy Use And Saving Moneyから発見。画像もここから転載。
 時間によって変わる電力料金を可視化する時計の作例です。
 時計の周りにフルカラーLEDを並べ、時刻に応じて色で情報を掲示する機能を実現しています。
- </description>
-    </item>
-    
-    <item>
-      <title>ポゴピンで作られた表面実装部品用テスター</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%9D%E3%82%B4%E3%83%94%E3%83%B3%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85%E9%83%A8%E5%93%81%E7%94%A8%E3%83%86%E3%82%B9%E3%82%BF%E3%83%BC/</link>
-      <pubDate>Fri, 15 Dec 2023 00:05:44 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9D%E3%82%B4%E3%83%94%E3%83%B3%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85%E9%83%A8%E5%93%81%E7%94%A8%E3%83%86%E3%82%B9%E3%82%BF%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ポゴピンで作られた表面実装部品用テスター.jpg"&gt;This Pogo Pin Test Fixture Keep Your SMDs From Taking Flightから発見。画像もここから転載。
-ポゴピンで作られた表面実装部品用テスターの作例です。
  </description>
     </item>
     
