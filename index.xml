@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 04 Jan 2024 04:12:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jan 2024 23:33:33 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>1軸しか無いPongゲーム</title>
+      <link>https://inajob.github.io/iroiro-review/post/1%E8%BB%B8%E3%81%97%E3%81%8B%E7%84%A1%E3%81%84pong%E3%82%B2%E3%83%BC%E3%83%A0/</link>
+      <pubDate>Thu, 04 Jan 2024 23:33:33 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/1%E8%BB%B8%E3%81%97%E3%81%8B%E7%84%A1%E3%81%84pong%E3%82%B2%E3%83%BC%E3%83%A0/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/1軸しか無いPongゲーム.jpg"&gt;1D LED PONG, Arduino-Styleから発見。画像もここから転載。
+1軸しか無いPongゲームの作例です。 1列のLEDの間を光が行ったり来たりするだけのゲームです。
+タイミング良くボタンを押すことでLEDの光を打ち返す事が出来、最もゴールに近い黄色のLEDが光ったタイミングでボタンを押すことでスマッシュを打つことが出来るというルールです。
+シンプルですが、意外と戦略性がありそうなゲームで面白いです。
+ </description>
+    </item>
     
     <item>
       <title>スーパーキャパシタ内臓のモバイルスピーカー</title>
@@ -125,18 +138,6 @@ JINSのメガネフレーム、一ヶ月で二回も折れて、フレーム折�
 この記事で紹介しているのはレーザーカットで木材を切断する際に利用できる接合方法です。
 写真のように、「くさび」がわずかにつながった状態で断面をカットすることで、このくさびをハンマーでたたくことで接合部分を止めるという手法です。
 精密にカットできるレーザーカッターの特性をうまく生かした手法です。
- </description>
-    </item>
-    
-    <item>
-      <title>時間によって変わる電力料金を可視化する時計</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%99%82%E9%96%93%E3%81%AB%E3%82%88%E3%81%A3%E3%81%A6%E5%A4%89%E3%82%8F%E3%82%8B%E9%9B%BB%E5%8A%9B%E6%96%99%E9%87%91%E3%82%92%E5%8F%AF%E8%A6%96%E5%8C%96%E3%81%99%E3%82%8B%E6%99%82%E8%A8%88/</link>
-      <pubDate>Sun, 17 Dec 2023 23:33:47 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%99%82%E9%96%93%E3%81%AB%E3%82%88%E3%81%A3%E3%81%A6%E5%A4%89%E3%82%8F%E3%82%8B%E9%9B%BB%E5%8A%9B%E6%96%99%E9%87%91%E3%82%92%E5%8F%AF%E8%A6%96%E5%8C%96%E3%81%99%E3%82%8B%E6%99%82%E8%A8%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/時間によって変わる電力料金を可視化する時計.jpg"&gt;Monitoring Energy Use And Saving Moneyから発見。画像もここから転載。
-時間によって変わる電力料金を可視化する時計の作例です。
-時計の周りにフルカラーLEDを並べ、時刻に応じて色で情報を掲示する機能を実現しています。
  </description>
     </item>
     
