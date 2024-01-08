@@ -5,9 +5,20 @@
     <description>Recent content in Arduino on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 04 Jan 2024 23:33:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jan 2024 23:28:21 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CH32用のWCH公式のArduinoサポートが登場</title>
+      <link>https://inajob.github.io/iroiro-review/post/ch32%E7%94%A8%E3%81%AEwch%E5%85%AC%E5%BC%8F%E3%81%AEarduino%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%8C%E7%99%BB%E5%A0%B4/</link>
+      <pubDate>Mon, 08 Jan 2024 23:28:21 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/ch32%E7%94%A8%E3%81%AEwch%E5%85%AC%E5%BC%8F%E3%81%AEarduino%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%8C%E7%99%BB%E5%A0%B4/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32用のWCH公式のArduinoサポートが登場.jpg"&gt;CH32 RISC-V MCUs Get Official Arduino Supportから発見。画像もここから転載。
+CH32用のWCH公式のArduinoサポートが登場しました。 やはり使い慣れたArduino的にプログラミングできると便利なことが多いです。公式からの提供というのもありがたいです。
+試しにインストール(1.0.3)してみましたが、公式のSDKを使うもので、blinkというLEDを点滅させるコードだけで、CH32V003のROMの63%を占有してしまうのが、ちょっと気になりました。</description>
+    </item>
     
     <item>
       <title>1軸しか無いPongゲーム</title>
@@ -124,19 +135,6 @@ Rarspberry Pi Zeroのケースや、HATなどの周辺機器を利用できる�
 マイコンボードとしてはArduino Pro Microを使っています。
 気軽にアーケード気分が味わいたいときにさっと持っていくことが出来る素敵なコントローラーに仕上がっています。
 </description>
-    </item>
-    
-    <item>
-      <title>現代的な設計で作り直したArduino互換ボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E7%8F%BE%E4%BB%A3%E7%9A%84%E3%81%AA%E8%A8%AD%E8%A8%88%E3%81%A7%E4%BD%9C%E3%82%8A%E7%9B%B4%E3%81%97%E3%81%9Farduino%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Mon, 05 Sep 2022 23:25:36 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E7%8F%BE%E4%BB%A3%E7%9A%84%E3%81%AA%E8%A8%AD%E8%A8%88%E3%81%A7%E4%BD%9C%E3%82%8A%E7%9B%B4%E3%81%97%E3%81%9Farduino%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/現代的な設計で作り直したArduino互換ボード.jpg"&gt;DIY Arduino UNO PRO Versionから発見。画像もここから転載。
-Arduino、特にArduino UNOは、かなり完成された製品で、今もなお多く利用されていますが、利用しているとたくさんの改良案が浮かんできます。
-この記事で紹介しているのは、そんなArduino UNOの改善案をふんだんに盛り込んだPRO版のArduino UNO互換機です。
-ざっと見たところ以下のような特徴があります
- コネクタがUSB Type-C ピンソケットの内側にピンヘッダが配置されている シリアル接続用のソケットが用意されている DCジャック用のソケットがない 良く使うOLEDや無線モジュール用のソケットが用意されている  こういうのを見ると自分も、自部の考えた「最強のArduino UNO」を設計してみたくなりますね。</description>
     </item>
     
   </channel>

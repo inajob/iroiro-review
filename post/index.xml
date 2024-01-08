@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 04 Jan 2024 23:33:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jan 2024 23:28:21 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CH32用のWCH公式のArduinoサポートが登場</title>
+      <link>https://inajob.github.io/iroiro-review/post/ch32%E7%94%A8%E3%81%AEwch%E5%85%AC%E5%BC%8F%E3%81%AEarduino%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%8C%E7%99%BB%E5%A0%B4/</link>
+      <pubDate>Mon, 08 Jan 2024 23:28:21 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/ch32%E7%94%A8%E3%81%AEwch%E5%85%AC%E5%BC%8F%E3%81%AEarduino%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%8C%E7%99%BB%E5%A0%B4/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32用のWCH公式のArduinoサポートが登場.jpg"&gt;CH32 RISC-V MCUs Get Official Arduino Supportから発見。画像もここから転載。
+CH32用のWCH公式のArduinoサポートが登場しました。 やはり使い慣れたArduino的にプログラミングできると便利なことが多いです。公式からの提供というのもありがたいです。
+試しにインストール(1.0.3)してみましたが、公式のSDKを使うもので、blinkというLEDを点滅させるコードだけで、CH32V003のROMの63%を占有してしまうのが、ちょっと気になりました。</description>
+    </item>
     
     <item>
       <title>1軸しか無いPongゲーム</title>
@@ -124,20 +135,6 @@ JINSのメガネフレーム、一ヶ月で二回も折れて、フレーム折�
 ジャンパーをソフトウェアで定義できるハイテクな製品です。
 ピン間の電圧、電流も検知することができるので、回路の状況をモニタリングしLEDで表示することもできます。
 配線の切り替えにはCH446というICをたくさん利用しています。 コントローラはRP2040となっており頻繁にファームウェアが更新されています。
- </description>
-    </item>
-    
-    <item>
-      <title>レーザーカットならではのパーツのジョイント手法</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%83%88%E3%81%AA%E3%82%89%E3%81%A7%E3%81%AF%E3%81%AE%E3%83%91%E3%83%BC%E3%83%84%E3%81%AE%E3%82%B8%E3%83%A7%E3%82%A4%E3%83%B3%E3%83%88%E6%89%8B%E6%B3%95/</link>
-      <pubDate>Mon, 18 Dec 2023 23:50:51 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%83%88%E3%81%AA%E3%82%89%E3%81%A7%E3%81%AF%E3%81%AE%E3%83%91%E3%83%BC%E3%83%84%E3%81%AE%E3%82%B8%E3%83%A7%E3%82%A4%E3%83%B3%E3%83%88%E6%89%8B%E6%B3%95/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/レーザーカットならではのパーツのジョイント手法.jpg"&gt;This Laser-Cut One-Piece Wedge Tenon Locks Wood Joints Tightから発見。画像もここから転載。
-複数の部品を接合する方法は様々ありますが、それは素材や加工方法によるところが大きいです。
-この記事で紹介しているのはレーザーカットで木材を切断する際に利用できる接合方法です。
-写真のように、「くさび」がわずかにつながった状態で断面をカットすることで、このくさびをハンマーでたたくことで接合部分を止めるという手法です。
-精密にカットできるレーザーカッターの特性をうまく生かした手法です。
  </description>
     </item>
     
