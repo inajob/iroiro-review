@@ -5,9 +5,21 @@
     <description>Recent content in Raspberry Pi Pico on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 25 Dec 2023 23:18:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jan 2024 23:27:32 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>オープンソースのRaspberry Pi Pico互換ボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AEraspberry-pi-pico%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Tue, 09 Jan 2024 23:27:32 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AEraspberry-pi-pico%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/オープンソースのRaspberry Pi Pico互換ボード.jpg"&gt;ProPico For Your Pro Pico Needsから発見。画像もここから転載。
+オープンソースのRaspberry Pi Pico互換ボードの作例です。
+Raspberry Pi Picoはよくできているボードですが、その構成を見直し、同じフットプリントで、より扱いやすくしたものが、これです。
+プログラミング時に役立つRUNボタンを搭載し、Type-C端子、レギュレータは一般的な1117を使うなどが主な違いです。</description>
+    </item>
     
     <item>
       <title>おもちゃのキーボードにRaspberry Pi Picoを搭載し高音質なシンセサイザーに変身させる</title>
@@ -125,20 +137,6 @@ Raspberry Pi Picoとよく似たボードがAliExpressなどで販売されて�
 NisePicoと命名。変な位置に製造番号入ってるけどまあいいや、試作だし。
 コンスルーを贅沢にも4本使って検証する。 pic.twitter.com/Ak7OZTvRpX
 &amp;mdash; alg (@alg0002) September 17, 2022  </description>
-    </item>
-    
-    <item>
-      <title>Raspberry Pi Pico Wで作られたVNCクライアント</title>
-      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico-w%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9Fvnc%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/</link>
-      <pubDate>Sun, 28 Aug 2022 22:49:28 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico-w%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9Fvnc%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi Pico Wで作られたVNCクライアント.jpg"&gt;Playing Pico W With Arduino IDEから発見。画像もここから転載。
-Raspberry Pi PicoにWiFi機能が付いたバージョンである Raspberry Pi Wが発表されました。 まだ日本で利用できる、技適付きのものは販売されていないですが、徐々に利用例が出てきました。
-この記事では様々な作例を紹介していますが、印象的なのがVNCクライアントです。
-Raspberry Pi Pico Wと液晶画面をつないでいるだけの構成ですが、これでPCの画面をVNC経由で表示することが出来ています。
-パワフルなRaspberry Pi Picoに無線機能が付くことで、このようにパワフルな作例が作れるようになりました。日本でも利用できるようになる日が楽しみです。
- </description>
     </item>
     
   </channel>
