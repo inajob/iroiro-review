@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 10 Jan 2024 23:34:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jan 2024 23:22:32 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>水中で積層式の3Dプリンタを動かす試み</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%B0%B4%E4%B8%AD%E3%81%A7%E7%A9%8D%E5%B1%A4%E5%BC%8F%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99%E8%A9%A6%E3%81%BF/</link>
+      <pubDate>Thu, 11 Jan 2024 23:22:32 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%B0%B4%E4%B8%AD%E3%81%A7%E7%A9%8D%E5%B1%A4%E5%BC%8F%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99%E8%A9%A6%E3%81%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/水中で積層式の3Dプリンタを動かす試み.jpg"&gt;Better 3D Printing Overhangs? Dive! Dive!から発見。画像もここから転載。
+水中で積層式の3Dプリンタを動かす試みです。 ちょっと水につける程度かな？と思ったらマジでプールの中で動かしていて面白いです。
+ネタっぽいけどオーバーハングの問題が少し解決できるなど、意外と実用的な側面もありそうです。
+ </description>
+    </item>
     
     <item>
       <title>8x8の2色ドットマトリクス表示機で細かい漢字を表示する</title>
@@ -124,19 +136,6 @@ USB端子サイズの小さな単音のシンセモジュールの作例です�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/静電容量センサーを雨センサーとして利用する.jpg"&gt;Capacitive Rainmeter Measures The Sky Water Just Fineから発見。画像もここから転載。
 よく見かける雨センサーは、電極をむき出しにした基板の抵抗を測定するものですが、この仕組みでは端子が腐食しやすいという問題があります。
 この記事では静電容量センサーを使って雨を検知しています。
- </description>
-    </item>
-    
-    <item>
-      <title>電子ペーパーとRaspberry Pi Zero W向けのダッシュボード作成用フレームワーク</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E3%81%A8raspberry-pi-zero-w%E5%90%91%E3%81%91%E3%81%AE%E3%83%80%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%83%BC%E3%83%89%E4%BD%9C%E6%88%90%E7%94%A8%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF/</link>
-      <pubDate>Thu, 21 Dec 2023 23:44:39 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E3%81%A8raspberry-pi-zero-w%E5%90%91%E3%81%91%E3%81%AE%E3%83%80%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%83%BC%E3%83%89%E4%BD%9C%E6%88%90%E7%94%A8%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/電子ペーパーとRaspberry Pi Zero W向けのダッシュボード作成用フレームワーク.jpg"&gt;Inkycal - Your own E-Paper Dashboardから発見。画像もここから転載。
-電子ペーパーとRaspberry Pi Zero W向けのダッシュボード作成用フレームワークです。
-様々なな電子ペーパーに対応しておりWebUIでデザインすることが出来ます。
-電子ペーパーをつかったデジタルサイネージをサクッと作ることができ、面白そうです。
  </description>
     </item>
     
