@@ -5,9 +5,20 @@
     <description>Recent content in CH32V003 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 08 Jan 2024 23:28:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2024 23:42:28 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/ch32v003/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>8x8のフルカラーLEDによるドット絵表示装置</title>
+      <link>https://inajob.github.io/iroiro-review/post/8x8%E3%81%AE%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCled%E3%81%AB%E3%82%88%E3%82%8B%E3%83%89%E3%83%83%E3%83%88%E7%B5%B5%E8%A1%A8%E7%A4%BA%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Wed, 17 Jan 2024 23:42:28 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/8x8%E3%81%AE%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCled%E3%81%AB%E3%82%88%E3%82%8B%E3%83%89%E3%83%83%E3%83%88%E7%B5%B5%E8%A1%A8%E7%A4%BA%E8%A3%85%E7%BD%AE/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/8x8のフルカラーLEDによるドット絵表示装置.jpg"&gt;An Animated LED Fireplace Powered By The CH32V003から発見。画像もここから転載。
+8x8のフルカラーLEDによるドット絵表示装置です。 コアとなるマイコンはCH32V003で安く仕上げています。
+ライブラリとしてch32v003funを利用しており、静電容量タッチの制御の方法など、色々と参考になりそうです。</description>
+    </item>
     
     <item>
       <title>CH32用のWCH公式のArduinoサポートが登場</title>
@@ -116,18 +127,6 @@ RISC-Vの格安ICであるCH32V003ですが、ペリフェラルの操作にはS
 今話題のCH32V003の開発をオープンソースツールチェーンで実現するためのプロジェクトを紹介しています。
 この記事で紹介しているリポジトリ では、CH32V003の標準のSDKではなく、独自のライブラリを提供しており、これを利用することで、商用のソフトウェアを使わず、軽量なプログラムが作れるようです。
 軽量の秘訣は公式SDKのようにHAL（ハードウェア抽象化層）を設けないプログラミングによるもので、これはプログラミングの再利用性を下げますが、CH32V003のみをターゲットに開発する分には効率の良い方法のように見えます。</description>
-    </item>
-    
-    <item>
-      <title>安いと噂のRISC-V ICのCH32V003搭載の開発ボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E3%81%84%E3%81%A8%E5%99%82%E3%81%AErisc-v-ic%E3%81%AEch32v003%E6%90%AD%E8%BC%89%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Mon, 27 Feb 2023 23:47:12 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E3%81%84%E3%81%A8%E5%99%82%E3%81%AErisc-v-ic%E3%81%AEch32v003%E6%90%AD%E8%BC%89%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/安いと噂のRISC-V ICのCH32V003搭載の開発ボード.jpg"&gt;nanoCH32V003 Development Board by MuseLab on Tindieから発見。画像もここから転載。
-安いと噂のRISC-V ICのCH32V003搭載の開発ボードです。
-16KBのFlash ROM、2KBのSRAMと、ちょっとした組み込みの処理には十分の性能です。 開発ボードも$1.5と安いですが、IC単品もかなり安くで入手できそうです。
-長引く半導体不足でよく利用するSTM32やAVRマイコンは品薄、価格の高騰が見られますので、この機会にRISC-Vに入門するのも有りかもしれません。</description>
     </item>
     
   </channel>

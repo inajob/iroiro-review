@@ -5,9 +5,20 @@
     <description>Recent content in フルカラーLED on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 17 Dec 2023 23:33:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2024 23:42:28 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCled/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>8x8のフルカラーLEDによるドット絵表示装置</title>
+      <link>https://inajob.github.io/iroiro-review/post/8x8%E3%81%AE%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCled%E3%81%AB%E3%82%88%E3%82%8B%E3%83%89%E3%83%83%E3%83%88%E7%B5%B5%E8%A1%A8%E7%A4%BA%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Wed, 17 Jan 2024 23:42:28 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/8x8%E3%81%AE%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCled%E3%81%AB%E3%82%88%E3%82%8B%E3%83%89%E3%83%83%E3%83%88%E7%B5%B5%E8%A1%A8%E7%A4%BA%E8%A3%85%E7%BD%AE/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/8x8のフルカラーLEDによるドット絵表示装置.jpg"&gt;An Animated LED Fireplace Powered By The CH32V003から発見。画像もここから転載。
+8x8のフルカラーLEDによるドット絵表示装置です。 コアとなるマイコンはCH32V003で安く仕上げています。
+ライブラリとしてch32v003funを利用しており、静電容量タッチの制御の方法など、色々と参考になりそうです。</description>
+    </item>
     
     <item>
       <title>時間によって変わる電力料金を可視化する時計</title>
