@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 17 Jan 2024 23:42:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2024 23:21:39 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタ的な仕組みで基板を作る技術</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E7%9A%84%E3%81%AA%E4%BB%95%E7%B5%84%E3%81%BF%E3%81%A7%E5%9F%BA%E6%9D%BF%E3%82%92%E4%BD%9C%E3%82%8B%E6%8A%80%E8%A1%93/</link>
+      <pubDate>Thu, 18 Jan 2024 23:21:39 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E7%9A%84%E3%81%AA%E4%BB%95%E7%B5%84%E3%81%BF%E3%81%A7%E5%9F%BA%E6%9D%BF%E3%82%92%E4%BD%9C%E3%82%8B%E6%8A%80%E8%A1%93/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ的な仕組みで基板を作る技術.jpg"&gt;革新的なエレクトロニクス３Dプリンター FPM-Trinityについてから発見。画像もここから転載。
+3Dプリンタは画期的な仕組みですが、この動画では、この考えをさらに推し進めて、基板を作る技術を紹介しています。 通常のプリント基板とは違い、配線を印刷するという手法です。電子パーツの配置までこの装置で実現できるので、試作が捗りそうです。
+ </description>
+    </item>
     
     <item>
       <title>8x8のフルカラーLEDによるドット絵表示装置</title>
@@ -117,20 +128,6 @@ CH32用のWCH公式のArduinoサポートが登場しました。 やはり使�
 1軸しか無いPongゲームの作例です。 1列のLEDの間を光が行ったり来たりするだけのゲームです。
 タイミング良くボタンを押すことでLEDの光を打ち返す事が出来、最もゴールに近い黄色のLEDが光ったタイミングでボタンを押すことでスマッシュを打つことが出来るというルールです。
 シンプルですが、意外と戦略性がありそうなゲームで面白いです。
- </description>
-    </item>
-    
-    <item>
-      <title>スーパーキャパシタ内臓のモバイルスピーカー</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%91%E3%82%B7%E3%82%BF%E5%86%85%E8%87%93%E3%81%AE%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC/</link>
-      <pubDate>Thu, 04 Jan 2024 04:12:54 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%91%E3%82%B7%E3%82%BF%E5%86%85%E8%87%93%E3%81%AE%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/スーパーキャパシタ内臓のモバイルスピーカー.jpg"&gt;Building A Solar-Powered, Supercapacitor-Based Speakerから発見。画像もここから転載。
-スーパーキャパシタ内臓のモバイルスピーカーの作例です。
-バッテリーを内蔵したモバイルスピーカーは多くありますが、その多くはリチウムイオンバッテリーに充電しています。
-リチウムイオンバッテリーは体積あたりの容量は大きいですが充放電の回数に制限があるという問題があります。 例えばソーラーパネルのようなもので充電をしつつ利用するような用途にはこのようなバッテリーは向きません。
-この作例ではスーパーキャパシタを内蔵したスピーカーを自作しており、ソーラーパネルなどで充電しつつ利用するのにぴったりです。
  </description>
     </item>
     
