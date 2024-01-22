@@ -5,9 +5,19 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 22 Jan 2024 00:04:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jan 2024 23:30:21 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32の各ピンがどのような状態化を可視化する仕組み</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%81%AE%E5%90%84%E3%83%94%E3%83%B3%E3%81%8C%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E7%8A%B6%E6%85%8B%E5%8C%96%E3%82%92%E5%8F%AF%E8%A6%96%E5%8C%96%E3%81%99%E3%82%8B%E4%BB%95%E7%B5%84%E3%81%BF/</link>
+      <pubDate>Mon, 22 Jan 2024 23:30:21 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%81%AE%E5%90%84%E3%83%94%E3%83%B3%E3%81%8C%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E7%8A%B6%E6%85%8B%E5%8C%96%E3%82%92%E5%8F%AF%E8%A6%96%E5%8C%96%E3%81%99%E3%82%8B%E4%BB%95%E7%B5%84%E3%81%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32の各ピンがどのような状態化を可視化する仕組み.jpg"&gt;Spying On The ESP32’s GPIOから発見。画像もここから転載。
+ESP32の各ピンがどのような状態化を可視化する仕組みです。 WiFi経由でWebサーバーとして動くというリッチなシステムですが、ESP32はWiFiを使いWebサーバを作ることが出来るのでこのような仕組みを作るにはぴったりです。</description>
+    </item>
     
     <item>
       <title>音を使って火を消す実験</title>
@@ -116,17 +126,6 @@ MIDIの入出力もできますし、DACに直接つなぐことでこれだけ�
 オープンソースのRaspberry Pi Pico互換ボードの作例です。
 Raspberry Pi Picoはよくできているボードですが、その構成を見直し、同じフットプリントで、より扱いやすくしたものが、これです。
 プログラミング時に役立つRUNボタンを搭載し、Type-C端子、レギュレータは一般的な1117を使うなどが主な違いです。</description>
-    </item>
-    
-    <item>
-      <title>CH32用のWCH公式のArduinoサポートが登場</title>
-      <link>https://inajob.github.io/iroiro-review/post/ch32%E7%94%A8%E3%81%AEwch%E5%85%AC%E5%BC%8F%E3%81%AEarduino%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%8C%E7%99%BB%E5%A0%B4/</link>
-      <pubDate>Mon, 08 Jan 2024 23:28:21 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/ch32%E7%94%A8%E3%81%AEwch%E5%85%AC%E5%BC%8F%E3%81%AEarduino%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%8C%E7%99%BB%E5%A0%B4/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32用のWCH公式のArduinoサポートが登場.jpg"&gt;CH32 RISC-V MCUs Get Official Arduino Supportから発見。画像もここから転載。
-CH32用のWCH公式のArduinoサポートが登場しました。 やはり使い慣れたArduino的にプログラミングできると便利なことが多いです。公式からの提供というのもありがたいです。
-試しにインストール(1.0.3)してみましたが、公式のSDKを使うもので、blinkというLEDを点滅させるコードだけで、CH32V003のROMの63%を占有してしまうのが、ちょっと気になりました。</description>
     </item>
     
   </channel>
