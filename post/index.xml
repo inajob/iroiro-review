@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 18 Jan 2024 23:21:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jan 2024 00:04:46 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>音を使って火を消す実験</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%9F%B3%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E7%81%AB%E3%82%92%E6%B6%88%E3%81%99%E5%AE%9F%E9%A8%93/</link>
+      <pubDate>Mon, 22 Jan 2024 00:04:46 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%9F%B3%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E7%81%AB%E3%82%92%E6%B6%88%E3%81%99%E5%AE%9F%E9%A8%93/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/音を使って火を消す実験.jpg"&gt;Using Sound Waves As A Fire Extinguisherから発見。画像もここから転載。
+音を使って火を消す実験です。 なんとなく理屈はわかりますが、スピーカーを火に向けて発射し、それで火が消えている様子は見ていて不思議な気持ちになります。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタ的な仕組みで基板を作る技術</title>
@@ -116,19 +127,6 @@ Raspberry Pi Picoはよくできているボードですが、その構成を見
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32用のWCH公式のArduinoサポートが登場.jpg"&gt;CH32 RISC-V MCUs Get Official Arduino Supportから発見。画像もここから転載。
 CH32用のWCH公式のArduinoサポートが登場しました。 やはり使い慣れたArduino的にプログラミングできると便利なことが多いです。公式からの提供というのもありがたいです。
 試しにインストール(1.0.3)してみましたが、公式のSDKを使うもので、blinkというLEDを点滅させるコードだけで、CH32V003のROMの63%を占有してしまうのが、ちょっと気になりました。</description>
-    </item>
-    
-    <item>
-      <title>1軸しか無いPongゲーム</title>
-      <link>https://inajob.github.io/iroiro-review/post/1%E8%BB%B8%E3%81%97%E3%81%8B%E7%84%A1%E3%81%84pong%E3%82%B2%E3%83%BC%E3%83%A0/</link>
-      <pubDate>Thu, 04 Jan 2024 23:33:33 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/1%E8%BB%B8%E3%81%97%E3%81%8B%E7%84%A1%E3%81%84pong%E3%82%B2%E3%83%BC%E3%83%A0/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/1軸しか無いPongゲーム.jpg"&gt;1D LED PONG, Arduino-Styleから発見。画像もここから転載。
-1軸しか無いPongゲームの作例です。 1列のLEDの間を光が行ったり来たりするだけのゲームです。
-タイミング良くボタンを押すことでLEDの光を打ち返す事が出来、最もゴールに近い黄色のLEDが光ったタイミングでボタンを押すことでスマッシュを打つことが出来るというルールです。
-シンプルですが、意外と戦略性がありそうなゲームで面白いです。
- </description>
     </item>
     
   </channel>
