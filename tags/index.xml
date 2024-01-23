@@ -5,9 +5,18 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 22 Jan 2024 23:30:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2024 23:06:46 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>旋盤</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E6%97%8B%E7%9B%A4/</link>
+      <pubDate>Tue, 23 Jan 2024 23:06:46 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E6%97%8B%E7%9B%A4/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>ESP32</title>
@@ -87,15 +96,6 @@
       <pubDate>Wed, 10 Jan 2024 23:34:24 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>RP2040</title>
-      <link>https://inajob.github.io/iroiro-review/tags/rp2040/</link>
-      <pubDate>Tue, 09 Jan 2024 23:27:32 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/rp2040/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
