@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 23 Jan 2024 23:06:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 23:31:28 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lipoバッテリーの膨張を素朴な仕組みでチェックする</title>
+      <link>https://inajob.github.io/iroiro-review/post/lipo%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%81%AE%E8%86%A8%E5%BC%B5%E3%82%92%E7%B4%A0%E6%9C%B4%E3%81%AA%E4%BB%95%E7%B5%84%E3%81%BF%E3%81%A7%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%81%99%E3%82%8B/</link>
+      <pubDate>Wed, 24 Jan 2024 23:31:28 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/lipo%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%81%AE%E8%86%A8%E5%BC%B5%E3%82%92%E7%B4%A0%E6%9C%B4%E3%81%AA%E4%BB%95%E7%B5%84%E3%81%BF%E3%81%A7%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Lipoバッテリーの膨張を素朴な仕組みでチェックする.jpg"&gt;ジャカロープさんのPostから発見。画像もここから転載。
+リチウムイオン電池は便利ですが、危険な部品です。 品質の悪いものを使ったり、制御がうまくできてない場合、温度などにより、膨張することがあります。膨張するだけならまだしも、爆発して火災につながるケースもあると聞きます。
+そこで、この膨張を検知する仕組みを考案したのがこれです。 単にタクトスイッチをリチウムイオン電池の隣に設置するだけですが、確かにこれで膨張を検知できそうです。
+Lipo バッテリーが膨らんだらタクトスイッチが押されて検出しようという装置 pic.twitter.com/CBzjb8F7zU
+&amp;mdash; ジャ力口一プ (@jackalope_yoshi) January 14, 2024  </description>
+    </item>
     
     <item>
       <title>古代における自作の旋盤の作成手法</title>
@@ -111,21 +124,6 @@ MIDIの入出力もできますし、DACに直接つなぐことでこれだけ�
 水中で積層式の3Dプリンタを動かす試みです。 ちょっと水につける程度かな？と思ったらマジでプールの中で動かしていて面白いです。
 ネタっぽいけどオーバーハングの問題が少し解決できるなど、意外と実用的な側面もありそうです。
  </description>
-    </item>
-    
-    <item>
-      <title>8x8の2色ドットマトリクス表示機で細かい漢字を表示する</title>
-      <link>https://inajob.github.io/iroiro-review/post/8x8%E3%81%AE2%E8%89%B2%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E8%A1%A8%E7%A4%BA%E6%A9%9F%E3%81%A7%E7%B4%B0%E3%81%8B%E3%81%84%E6%BC%A2%E5%AD%97%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B/</link>
-      <pubDate>Wed, 10 Jan 2024 23:34:24 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/8x8%E3%81%AE2%E8%89%B2%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E8%A1%A8%E7%A4%BA%E6%A9%9F%E3%81%A7%E7%B4%B0%E3%81%8B%E3%81%84%E6%BC%A2%E5%AD%97%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/8x8の2色ドットマトリクス表示機で細かい漢字を表示する.jpg"&gt;KenKenMkIISRさんのポストから発見。画像もここから転載。
-8x8の2色ドットマトリクス表示機で細かい漢字を表示する作例です。
-画像のように、8×8ドットなのに、「龍」の字が見えてくる不思議なテクニックです。
-昨年もKenLenMkIISRさんはドットマトリクスLEDを駆使して漢字を表示していたのを思い出しました。
-新年おめでとうございます。今年もよろしくお願いします。
-今年の書き初めは8x8ドットLEDマトリクスで「龍」にチャレンジしてみました。そんな無茶なって？いえいえ、ちゃんと読めるでしょ。 pic.twitter.com/ZfmxfUXOkL
-&amp;mdash; KenKenMkIISR (@KenKenMkIISR) December 31, 2023  </description>
     </item>
     
   </channel>
