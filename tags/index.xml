@@ -5,9 +5,36 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 25 Jan 2024 23:07:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jan 2024 23:43:07 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CH552</title>
+      <link>https://inajob.github.io/iroiro-review/tags/ch552/</link>
+      <pubDate>Sun, 28 Jan 2024 23:43:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/ch552/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>IP2721</title>
+      <link>https://inajob.github.io/iroiro-review/tags/ip2721/</link>
+      <pubDate>Sun, 28 Jan 2024 23:43:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/ip2721/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>リフロー</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E3%83%AA%E3%83%95%E3%83%AD%E3%83%BC/</link>
+      <pubDate>Sun, 28 Jan 2024 23:43:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E3%83%AA%E3%83%95%E3%83%AD%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>Raspberry Pi Pico</title>
@@ -69,33 +96,6 @@
       <pubDate>Wed, 17 Jan 2024 23:42:28 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/ch32v003/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>WS2812-B</title>
-      <link>https://inajob.github.io/iroiro-review/tags/ws2812-b/</link>
-      <pubDate>Wed, 17 Jan 2024 23:42:28 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/ws2812-b/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>フルカラーLED</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCled/</link>
-      <pubDate>Wed, 17 Jan 2024 23:42:28 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCled/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>マトリクスLED</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led/</link>
-      <pubDate>Wed, 10 Jan 2024 23:34:24 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
