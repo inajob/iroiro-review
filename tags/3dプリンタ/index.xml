@@ -5,9 +5,22 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 18 Jan 2024 23:21:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2024 23:26:56 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>とても小さなゲーミングマウス</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%A8%E3%81%A6%E3%82%82%E5%B0%8F%E3%81%95%E3%81%AA%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%A6%E3%82%B9/</link>
+      <pubDate>Mon, 29 Jan 2024 23:26:56 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%A8%E3%81%A6%E3%82%82%E5%B0%8F%E3%81%95%E3%81%AA%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%A6%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/とても小さなゲーミングマウス.jpg"&gt;Tiny Gaming Mouseから発見。画像もここから転載。
+とても小さなゲーミングマウスの作例です。 コアとなるマイコンはATmega32U4、マウスセンサーとしてはPMW3389を使用しています。
+3Dプリンタで作成された、必要最低限の筐体も良い味を出しています。
+確かにこれらの部品を乗せるには、このくらいの大きさの基板で十分そうです。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタ的な仕組みで基板を作る技術</title>
@@ -119,17 +132,6 @@ JINSのメガネフレーム、一ヶ月で二回も折れて、フレーム折�
 渦巻き模様のお皿を振動することで、対象の部品を少しずつ移動させ、1列に整列させ、1つずつ取り出す仕組みとなっています。
 小さな部品が自律的に整列しているように見える動画は見ていて楽しいです。
  </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタ製のダイアルカチカチフィジェット</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%81%E3%82%AB%E3%83%81%E3%83%95%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
-      <pubDate>Wed, 15 Nov 2023 23:19:25 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%81%E3%82%AB%E3%83%81%E3%83%95%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ製のダイアルカチカチフィジェット.jpg"&gt;Clicky Dial Fidget (Print-in-Place) by TrocheHoleから発見。画像もここから転載。
-3Dプリンタ製のダイアルカチカチフィジェットの作成です。
-3Dプリンタの作例ならではの一体成型のモデルとなっており、組み立てられた状態で生成出来ます。 メカメカしい見た目も相まってテンションが上がりそうです。</description>
     </item>
     
   </channel>
