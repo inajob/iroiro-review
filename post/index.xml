@@ -5,9 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 30 Jan 2024 23:33:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2024 23:44:49 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>USB Type-Cのコネクタのフットプリントのランドを伸ばしてはんだ付けしやすくする</title>
+      <link>https://inajob.github.io/iroiro-review/post/usb-type-c%E3%81%AE%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%81%AE%E3%83%95%E3%83%83%E3%83%88%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E3%83%A9%E3%83%B3%E3%83%89%E3%82%92%E4%BC%B8%E3%81%B0%E3%81%97%E3%81%A6%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E3%81%97%E3%82%84%E3%81%99%E3%81%8F%E3%81%99%E3%82%8B/</link>
+      <pubDate>Wed, 31 Jan 2024 23:44:49 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/usb-type-c%E3%81%AE%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%81%AE%E3%83%95%E3%83%83%E3%83%88%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E3%83%A9%E3%83%B3%E3%83%89%E3%82%92%E4%BC%B8%E3%81%B0%E3%81%97%E3%81%A6%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E3%81%97%E3%82%84%E3%81%99%E3%81%8F%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/USB Type-Cのコネクタのフットプリントのランドを伸ばしてはんだ付けしやすくする.jpg"&gt;74thさんのPostから発見。画像もここから転載。
+表面実装部品は、基板の集積度を上げるために便利ですが、はんだ付けが難しいという課題があります。 特にピンの間隔の狭いICやコネクタは、はんだ付けすることが難しいです。
+ここで紹介するのはUSB Type-Cのコネクタのフットプリントのランドを伸ばしてはんだ付けしやすくするというテクニックです。
+ランドを少し長くすることで、はんだ付けをしやすくしているようです。
+データは公開されているようです。
+USB-C ソケットのフットプリントを更新。ランドを伸ばしたらすごく実装が楽になった。あと、足を支える耳もつけてみた。 pic.twitter.com/wMELPkUViM
+&amp;mdash; 74th (@74th) January 19, 2024  </description>
+    </item>
     
     <item>
       <title>かっこいいダイヤル式のキッチンタイマー</title>
@@ -113,17 +128,6 @@ ESP32の各ピンがどのような状態化を可視化する仕組みです。
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ的な仕組みで基板を作る技術.jpg"&gt;革新的なエレクトロニクス３Dプリンター FPM-Trinityについてから発見。画像もここから転載。
 3Dプリンタは画期的な仕組みですが、この動画では、この考えをさらに推し進めて、基板を作る技術を紹介しています。 通常のプリント基板とは違い、配線を印刷するという手法です。電子パーツの配置までこの装置で実現できるので、試作が捗りそうです。
  </description>
-    </item>
-    
-    <item>
-      <title>8x8のフルカラーLEDによるドット絵表示装置</title>
-      <link>https://inajob.github.io/iroiro-review/post/8x8%E3%81%AE%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCled%E3%81%AB%E3%82%88%E3%82%8B%E3%83%89%E3%83%83%E3%83%88%E7%B5%B5%E8%A1%A8%E7%A4%BA%E8%A3%85%E7%BD%AE/</link>
-      <pubDate>Wed, 17 Jan 2024 23:42:28 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/8x8%E3%81%AE%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCled%E3%81%AB%E3%82%88%E3%82%8B%E3%83%89%E3%83%83%E3%83%88%E7%B5%B5%E8%A1%A8%E7%A4%BA%E8%A3%85%E7%BD%AE/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/8x8のフルカラーLEDによるドット絵表示装置.jpg"&gt;An Animated LED Fireplace Powered By The CH32V003から発見。画像もここから転載。
-8x8のフルカラーLEDによるドット絵表示装置です。 コアとなるマイコンはCH32V003で安く仕上げています。
-ライブラリとしてch32v003funを利用しており、静電容量タッチの制御の方法など、色々と参考になりそうです。</description>
     </item>
     
   </channel>
