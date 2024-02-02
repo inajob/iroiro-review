@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 31 Jan 2024 23:44:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2024 00:04:12 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ミニマルサーマルプリンタ端末</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%9E%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E7%AB%AF%E6%9C%AB/</link>
+      <pubDate>Fri, 02 Feb 2024 00:04:12 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%9E%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E7%AB%AF%E6%9C%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ミニマルサーマルプリンタ端末.jpg"&gt;how to make thermal printer using crafts at your homeから発見。画像もここから転載。
+ミニマルサーマルプリンタ端末の作例です
+電熱線を使って7セグメントの印刷を実現しており、小さな筐体に紙送りの仕組みや、入力用のボタンを配置し、ミニマルなワープロのような造形を実現しています。
+ </description>
+    </item>
     
     <item>
       <title>USB Type-Cのコネクタのフットプリントのランドを伸ばしてはんだ付けしやすくする</title>
@@ -116,17 +128,6 @@ ESP32の各ピンがどのような状態化を可視化する仕組みです。
       <guid>https://inajob.github.io/iroiro-review/post/%E9%9F%B3%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E7%81%AB%E3%82%92%E6%B6%88%E3%81%99%E5%AE%9F%E9%A8%93/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/音を使って火を消す実験.jpg"&gt;Using Sound Waves As A Fire Extinguisherから発見。画像もここから転載。
 音を使って火を消す実験です。 なんとなく理屈はわかりますが、スピーカーを火に向けて発射し、それで火が消えている様子は見ていて不思議な気持ちになります。
- </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタ的な仕組みで基板を作る技術</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E7%9A%84%E3%81%AA%E4%BB%95%E7%B5%84%E3%81%BF%E3%81%A7%E5%9F%BA%E6%9D%BF%E3%82%92%E4%BD%9C%E3%82%8B%E6%8A%80%E8%A1%93/</link>
-      <pubDate>Thu, 18 Jan 2024 23:21:39 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E7%9A%84%E3%81%AA%E4%BB%95%E7%B5%84%E3%81%BF%E3%81%A7%E5%9F%BA%E6%9D%BF%E3%82%92%E4%BD%9C%E3%82%8B%E6%8A%80%E8%A1%93/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ的な仕組みで基板を作る技術.jpg"&gt;革新的なエレクトロニクス３Dプリンター FPM-Trinityについてから発見。画像もここから転載。
-3Dプリンタは画期的な仕組みですが、この動画では、この考えをさらに推し進めて、基板を作る技術を紹介しています。 通常のプリント基板とは違い、配線を印刷するという手法です。電子パーツの配置までこの装置で実現できるので、試作が捗りそうです。
  </description>
     </item>
     
