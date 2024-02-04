@@ -5,9 +5,20 @@
     <description>Recent content in 電子ペーパー on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 21 Dec 2023 23:44:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Feb 2024 23:05:07 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>自分で作る電子ペーパー</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E5%88%86%E3%81%A7%E4%BD%9C%E3%82%8B%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC/</link>
+      <pubDate>Sun, 04 Feb 2024 23:05:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E5%88%86%E3%81%A7%E4%BD%9C%E3%82%8B%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/自分で作る電子ペーパー.jpg"&gt;Solid State Tank - Eink wrist watchから発見。画像もここから転載。
+自分で作る電子ペーパーの作例です。 え、電子ペーパーって自分で作れるの、と思いましたが、自作しているのは電極部分で、それ以外の部分は既存の製品を分解して取り出したもののようです。
+それにしても、自分の好きな形のセグメントの電子ペーパーを作るというのは面白い試みです。 （ただし記事の情報量が少ないので、真似して作るのは少し難しそうです）</description>
+    </item>
     
     <item>
       <title>電子ペーパーとRaspberry Pi Zero W向けのダッシュボード作成用フレームワーク</title>
@@ -126,18 +137,6 @@ Arduinoベースで、2.9インチの電子ペーパーを搭載しています�
 このガジェットはLilyGo T5というものですが、ESP32と電子ペーパーモジュールがあれば似たものを作れそうです。
 仕組みとしては、サーバにある画像を表示するプログラムをESP32に仕込んでおき、スケジュールの画像はサーバで生成しているようです。（Google Clendarの画面をSeleniumでキャプチャしただけのようです）
 この方式だと、ESP32側はシンプルなプログラムでよく、かつサーバ側の実装を差し替えることで、あらゆる画像を表示できます。</description>
-    </item>
-    
-    <item>
-      <title>TFTと電子ペーパーの2画面を搭載したCyberdeck</title>
-      <link>https://inajob.github.io/iroiro-review/post/tft%E3%81%A8%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E3%81%AE2%E7%94%BB%E9%9D%A2%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fcyberdeck/</link>
-      <pubDate>Thu, 01 Dec 2022 23:12:18 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/tft%E3%81%A8%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E3%81%AE2%E7%94%BB%E9%9D%A2%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fcyberdeck/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/TFTと電子ペーパーの2画面を搭載したCyberdeck.jpg"&gt;Cyberdeck Contest 2022: Gibson Rev 001 Thinks Outside The Pelican Caseから発見。画像もここから転載。
-せっかくオリジナルのパソコンを設計するなら、普通のパソコンには搭載されないような機能をつけたいものです。
-この作例では、通常の液晶ディスプレイとは別に、電子ペーパーディスプレイを併設しています。
-液晶に比べるとキーボードの横幅が広いので幅が余ると思っていたが、これは良いアイデアかもしれません。</description>
     </item>
     
   </channel>
