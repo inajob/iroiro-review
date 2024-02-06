@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 05 Feb 2024 23:21:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Feb 2024 23:30:01 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>マウスの中に内蔵されたコンピュータ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%AE%E4%B8%AD%E3%81%AB%E5%86%85%E8%94%B5%E3%81%95%E3%82%8C%E3%81%9F%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF/</link>
+      <pubDate>Tue, 06 Feb 2024 23:30:01 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%AE%E4%B8%AD%E3%81%AB%E5%86%85%E8%94%B5%E3%81%95%E3%82%8C%E3%81%9F%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/マウスの中に内蔵されたコンピュータ.jpg"&gt;Building A Mouse That’s Also A Computerから発見。画像もここから転載。
+マウスの中に内蔵されたコンピュータの作例です。 ディスプレイもマウスに搭載されていて、操作することで一緒に画面も動いてしまうため、使いにくそうですが面白いです。
+動画では、ほかにもキーボード一体型の物や、Intel NUCを内蔵した巨大なマウスの物などいくつかの作例も紹介されています。
+ </description>
+    </item>
     
     <item>
       <title>マウスの裏側のセンサーを低解像度カメラとして利用する</title>
@@ -119,18 +131,6 @@ Raspberry Pi PicoをプログラマブルなUSBマスストレージデバイス
 そこで、この膨張を検知する仕組みを考案したのがこれです。 単にタクトスイッチをリチウムイオン電池の隣に設置するだけですが、確かにこれで膨張を検知できそうです。
 Lipo バッテリーが膨らんだらタクトスイッチが押されて検出しようという装置 pic.twitter.com/CBzjb8F7zU
 &amp;mdash; ジャ力口一プ (@jackalope_yoshi) January 14, 2024  </description>
-    </item>
-    
-    <item>
-      <title>古代における自作の旋盤の作成手法</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%8F%A4%E4%BB%A3%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E8%87%AA%E4%BD%9C%E3%81%AE%E6%97%8B%E7%9B%A4%E3%81%AE%E4%BD%9C%E6%88%90%E6%89%8B%E6%B3%95/</link>
-      <pubDate>Tue, 23 Jan 2024 23:06:46 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%8F%A4%E4%BB%A3%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E8%87%AA%E4%BD%9C%E3%81%AE%E6%97%8B%E7%9B%A4%E3%81%AE%E4%BD%9C%E6%88%90%E6%89%8B%E6%B3%95/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/古代における自作の旋盤の作成手法.jpg"&gt;World’s First Precision Lathe: Indispensable When Constructing The Antikythera Mechanismから発見。画像もここから転載。
-古代における自作の旋盤の作成手法。 金属棒2本と、木片から、弓のような道具からスタートし、最終的には写真のような精度の高い真鍮の加工を実現しています。
-素朴な材料でここまで精密な加工ができるのが面白いです。
- </description>
     </item>
     
   </channel>
