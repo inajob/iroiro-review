@@ -5,9 +5,22 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 06 Feb 2024 23:30:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Feb 2024 23:05:57 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ボールペンのノック機構を流用したしたプッシュスイッチ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%9A%E3%83%B3%E3%81%AE%E3%83%8E%E3%83%83%E3%82%AF%E6%A9%9F%E6%A7%8B%E3%82%92%E6%B5%81%E7%94%A8%E3%81%97%E3%81%9F%E3%81%97%E3%81%9F%E3%83%97%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81/</link>
+      <pubDate>Thu, 08 Feb 2024 23:05:57 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%9A%E3%83%B3%E3%81%AE%E3%83%8E%E3%83%83%E3%82%AF%E6%A9%9F%E6%A7%8B%E3%82%92%E6%B5%81%E7%94%A8%E3%81%97%E3%81%9F%E3%81%97%E3%81%9F%E3%83%97%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ボールペンのノック機構を流用したしたプッシュスイッチ.jpg"&gt;Ballpoint Switch Is Oh-So Satisfyingから発見。画像もここから転載。
+ボールペンのノック機構を流用したしたプッシュスイッチの作例です。
+ボールペンのノック機構は、一度押すと引っかかり、もう一度押すと離れるという仕組みですが、これをうまく利用することで、プッシュスイッチを自作しています。
+ペンの先に2つのゼムクリップをくっつけておいて、ペン先が飛び出すことでこれら2つが導通するという仕組みです。
+まぁ、ここまでの苦労を考えると、プッシュスイッチを普通に買った方が良い気もしますが、面白いアイデアです。</description>
+    </item>
     
     <item>
       <title>マウスの中に内蔵されたコンピュータ</title>
@@ -119,19 +132,6 @@ Lipo バッテリーが膨らんだらタクトスイッチが押されて検出
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ベッドが平面ではなく円柱状の3Dプリンタ.jpg"&gt;3D Printing On A Spinning Rodから発見。画像もここから転載。
 よく見かける3Dプリンタは前後にスライドする平面（ベッド）があり、その上に造形していきますが、このベッドが平面ではなく円柱状の3Dプリンタの作例です。
 造形物によってはこっちの方が効率が良かったり、強度が強くなるなどの利点があるようです。
- </description>
-    </item>
-    
-    <item>
-      <title>ミクロサイズの銃を作る実験</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%9F%E3%82%AF%E3%83%AD%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E9%8A%83%E3%82%92%E4%BD%9C%E3%82%8B%E5%AE%9F%E9%A8%93/</link>
-      <pubDate>Mon, 30 Oct 2023 21:18:12 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9F%E3%82%AF%E3%83%AD%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E9%8A%83%E3%82%92%E4%BD%9C%E3%82%8B%E5%AE%9F%E9%A8%93/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ミクロサイズの銃を作る実験.jpg"&gt;Pushing The Boundaries Of Tiny Mechanical Devices With Compliant Mechanismsから発見。画像もここから転載。
-ミクロサイズの銃を作る実験です。 バネも含めて一体成型でデザインされていることがミソで、3Dプリンタ用の大きなモデルもあり、動作の原理を体験できます。
-将来的に人工細胞などが作られるようになると、こういう武器で最近を退治するようになるのでしょうか？
-3Dプリンタで実際に同じ原理のものが作れるということは、形状の試行錯誤を3Dプリンタで行うことが出来るということで、手元にある工作機がミクロの世界に繋がっていると思うと不思議な気持ちになります。
  </description>
     </item>
     
