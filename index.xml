@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 13 Feb 2024 01:55:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 23:18:38 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリント部品を熱で溶かしてくっつける</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E9%83%A8%E5%93%81%E3%82%92%E7%86%B1%E3%81%A7%E6%BA%B6%E3%81%8B%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A3%E3%81%A4%E3%81%91%E3%82%8B/</link>
+      <pubDate>Tue, 13 Feb 2024 23:18:38 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E9%83%A8%E5%93%81%E3%82%92%E7%86%B1%E3%81%A7%E6%BA%B6%E3%81%8B%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A3%E3%81%A4%E3%81%91%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリント部品を熱で溶かしてくっつける.jpg"&gt;Tricky 3D Printed Joinery Problem? Give Heat Staking A Tryから発見。画像もここから転載。
+3Dプリントの部品は作成できる形状に制限があるため、複数の部品に分割して印刷して、その後それらを接合するというのは一般的に良く行われます。
+接合のためには、スナップフィットジョイントや、ネジ、接着剤、など様々な手法がありますが、この記事では熱によりプラスチックを溶かして溶着させるという手法を紹介しています。
+はんだごての根元部分をカプトンテープ越しに造形物に充てることでいい感じに加熱できるようです。</description>
+    </item>
     
     <item>
       <title>GPS搭載のシンプルな自転車用ナビ</title>
@@ -115,19 +127,6 @@ USB-C ソケットのフットプリントを更新。ランドを伸ばした�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/かっこいいダイヤル式のキッチンタイマー.jpg"&gt;REST: Kitchen timerから発見。画像もここから転載。
 かっこいいダイヤル式のキッチンタイマーの作例です。 よく見る部品の構成ですが、何もかもかっこいい作りになっています。ぜひ動画を見てみてください。
 7セグメントLEDの駆動にはMAX7219 、コアとなるマイコンはSTM32F103 （いわゆるBluePillボード)を利用しています。
- </description>
-    </item>
-    
-    <item>
-      <title>とても小さなゲーミングマウス</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%81%A8%E3%81%A6%E3%82%82%E5%B0%8F%E3%81%95%E3%81%AA%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%A6%E3%82%B9/</link>
-      <pubDate>Mon, 29 Jan 2024 23:26:56 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%A8%E3%81%A6%E3%82%82%E5%B0%8F%E3%81%95%E3%81%AA%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%A6%E3%82%B9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/とても小さなゲーミングマウス.jpg"&gt;Tiny Gaming Mouseから発見。画像もここから転載。
-とても小さなゲーミングマウスの作例です。 コアとなるマイコンはATmega32U4、マウスセンサーとしてはPMW3389を使用しています。
-3Dプリンタで作成された、必要最低限の筐体も良い味を出しています。
-確かにこれらの部品を乗せるには、このくらいの大きさの基板で十分そうです。
  </description>
     </item>
     
