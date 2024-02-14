@@ -5,9 +5,24 @@
     <description>Recent content in 7セグ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 30 Jan 2024 23:33:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 23:37:22 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/7%E3%82%BB%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>光ファイバーで導光した7セグ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E3%83%BC%E3%81%A7%E5%B0%8E%E5%85%89%E3%81%97%E3%81%9F7%E3%82%BB%E3%82%B0/</link>
+      <pubDate>Wed, 14 Feb 2024 23:37:22 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E3%83%BC%E3%81%A7%E5%B0%8E%E5%85%89%E3%81%97%E3%81%9F7%E3%82%BB%E3%82%B0/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/光ファイバーで導光した7セグ.jpg"&gt;デリシャス☆さんのPostから発見。画像もここから転載。
+光ファイバーで導光した7セグの作例です。
+LEDの光を光ファイバーで導光し、美しい表示機を自作しています。
+LEDは各セグメント1つずつですが、光ファイバーで光を複数のドットに導光しているので、画像のような見た目となっています。
+光ファイバー7セグ完成したー😊
+普通にけっこう見た目良くできた！ pic.twitter.com/jJQGbZERvF
+&amp;mdash; デリシャス☆ (@delicious1229) January 28, 2024  </description>
+    </item>
     
     <item>
       <title>かっこいいダイヤル式のキッチンタイマー</title>
@@ -126,19 +141,6 @@ Arduinoに16チャンネルのサーボモーターコントローラボード�
 時計を表示するには時、分など複数の7セグメントLEDを使いますが、この作品では、数字を順番に表示することで1つの7セグメントLEDだけで時計を実現しています。
 3Dプリンタとシリアル制御のLEDを組み合わせて作られた7セグメントLEDの完成度も高く、インテリアとしても面白い作品となっています。
 </description>
-    </item>
-    
-    <item>
-      <title>棚にもなる大きな7セグメントLED</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%A3%9A%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E5%A4%A7%E3%81%8D%E3%81%AA7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88led/</link>
-      <pubDate>Tue, 24 Aug 2021 11:00:32 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%A3%9A%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E5%A4%A7%E3%81%8D%E3%81%AA7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88led/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/hidden-clock-shelf.jpg"&gt;How to Build a Giant Hidden Shelf Edge Clockから発見、画像もここから転載。(CC BY-NC-SA By DIY Machines)
-大きな7セグメントLEDの作例は数多くあります。 この記事で紹介しているのは、そんな数ある作例の中でもちょっと変わったものです。
-大きな7セグメントがそのまま「棚」として利用できるというものです。
-7セグメントを構成し、かつ棚の一部となる外装は、すべて3Dプリンタで出力したものです。 おしゃれで、かつ場所も占有しないナイスアイデアな作品です。
- </description>
     </item>
     
   </channel>

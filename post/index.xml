@@ -5,9 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 13 Feb 2024 23:18:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 23:37:22 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>光ファイバーで導光した7セグ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E3%83%BC%E3%81%A7%E5%B0%8E%E5%85%89%E3%81%97%E3%81%9F7%E3%82%BB%E3%82%B0/</link>
+      <pubDate>Wed, 14 Feb 2024 23:37:22 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E3%83%BC%E3%81%A7%E5%B0%8E%E5%85%89%E3%81%97%E3%81%9F7%E3%82%BB%E3%82%B0/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/光ファイバーで導光した7セグ.jpg"&gt;デリシャス☆さんのPostから発見。画像もここから転載。
+光ファイバーで導光した7セグの作例です。
+LEDの光を光ファイバーで導光し、美しい表示機を自作しています。
+LEDは各セグメント1つずつですが、光ファイバーで光を複数のドットに導光しているので、画像のような見た目となっています。
+光ファイバー7セグ完成したー😊
+普通にけっこう見た目良くできた！ pic.twitter.com/jJQGbZERvF
+&amp;mdash; デリシャス☆ (@delicious1229) January 28, 2024  </description>
+    </item>
     
     <item>
       <title>3Dプリント部品を熱で溶かしてくっつける</title>
@@ -116,18 +131,6 @@ GPS搭載のシンプルな自転車用ナビの作例です。 指定した座�
 データは公開されているようです。
 USB-C ソケットのフットプリントを更新。ランドを伸ばしたらすごく実装が楽になった。あと、足を支える耳もつけてみた。 pic.twitter.com/wMELPkUViM
 &amp;mdash; 74th (@74th) January 19, 2024  </description>
-    </item>
-    
-    <item>
-      <title>かっこいいダイヤル式のキッチンタイマー</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E3%83%80%E3%82%A4%E3%83%A4%E3%83%AB%E5%BC%8F%E3%81%AE%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC/</link>
-      <pubDate>Tue, 30 Jan 2024 23:33:12 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E3%83%80%E3%82%A4%E3%83%A4%E3%83%AB%E5%BC%8F%E3%81%AE%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/かっこいいダイヤル式のキッチンタイマー.jpg"&gt;REST: Kitchen timerから発見。画像もここから転載。
-かっこいいダイヤル式のキッチンタイマーの作例です。 よく見る部品の構成ですが、何もかもかっこいい作りになっています。ぜひ動画を見てみてください。
-7セグメントLEDの駆動にはMAX7219 、コアとなるマイコンはSTM32F103 （いわゆるBluePillボード)を利用しています。
- </description>
     </item>
     
   </channel>
