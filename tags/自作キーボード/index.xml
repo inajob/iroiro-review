@@ -5,9 +5,20 @@
     <description>Recent content in 自作キーボード on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 07 Dec 2023 23:20:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 23:30:22 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>マニキュアトップコートが美しいコンパクトなキーボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%9E%E3%83%8B%E3%82%AD%E3%83%A5%E3%82%A2%E3%83%88%E3%83%83%E3%83%97%E3%82%B3%E3%83%BC%E3%83%88%E3%81%8C%E7%BE%8E%E3%81%97%E3%81%84%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Thu, 15 Feb 2024 23:30:22 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9E%E3%83%8B%E3%82%AD%E3%83%A5%E3%82%A2%E3%83%88%E3%83%83%E3%83%97%E3%82%B3%E3%83%BC%E3%83%88%E3%81%8C%E7%BE%8E%E3%81%97%E3%81%84%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/マニキュアトップコートが美しいコンパクトなキーボード.jpg"&gt;Altoids Tin Keyboard Is A Breath Of Fresh Airから発見。画像もここから転載。
+マニキュアトップコートが美しいコンパクトなキーボードの作例です。
+3Dプリンタ製のキーキャップはその質感がどうしても既製品に劣ってしまいますが、この作例ではキートップにマニキュアトップコートを塗ってツヤのあるキーを実現しています。</description>
+    </item>
     
     <item>
       <title>RP2040をコアとした可愛いサイズの静音キーボード</title>
@@ -119,18 +130,6 @@ Raspberry Pi Picoを使ったとても小さなキーボード。小さいけど
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/SDカードに設定を保存できるマクロパッド.jpg"&gt;Console Macropad Uses SD Cards For Stylin’ And Profilin’から発見。画像もここから転載。
 キーボードのお供として利用できるマクロパッドの作例です。 マクロパッドは、アプリケーション用にカスタマイズすることでその進化を発揮します。
 複数のアプリケーションに対応したマクロパッドの中には、ソフトに応じてキーのプリセットを変更できるものも有り、この作例もそういったマクロパッドです。 特にこのマクロパッドはSDカードに設定を記録できるという特徴を持っており、各キーの役割や点灯色、OLEDへの表示内容などをテキストファイルでSDカードに入れておくことで、プリセットを設定し、またそれらを切り替えて利用できます。</description>
-    </item>
-    
-    <item>
-      <title>メカニカルキーボード版のZX81キーボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%AB%E3%83%AB%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E7%89%88%E3%81%AEzx81%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Mon, 03 Jul 2023 23:38:09 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%AB%E3%83%AB%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E7%89%88%E3%81%AEzx81%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/メカニカルキーボード版のZX81キーボード.jpg"&gt;It’s Never Too Late To Upgrade Your ZX81 Keyboardから発見。画像もここから転載。
-メカニカルキーボード版のZX81キーボードの作例です。
-ZX81のキーボードはメンブレンキーボードで、操作がしやすいとは言えませんでした。 この記事で紹介するのはZX81のキーボードをメカニカルキーボードにするための取り組みです。
-キーキャップにカスタムの模様を印刷してくれるサービスを利用し、ZX81のキーを再現しています。</description>
     </item>
     
   </channel>
