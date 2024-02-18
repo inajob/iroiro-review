@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 15 Feb 2024 23:30:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2024 22:56:09 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>配線を定義するためのプログラミング言語Atopile</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%85%8D%E7%B7%9A%E3%82%92%E5%AE%9A%E7%BE%A9%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9Eatopile/</link>
+      <pubDate>Sun, 18 Feb 2024 22:56:09 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%85%8D%E7%B7%9A%E3%82%92%E5%AE%9A%E7%BE%A9%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9Eatopile/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/配線を定義するためのプログラミング言語Atopile.jpg"&gt;Atopile Wants You To Code Schematicsから発見。画像もここから転載。
+プリント基板を作る際、まず初めに論理回路図を作り、その後配線図を作りますが、この論理回路図については、図ではなくプログラミングのように記述できるという発想のもとに作られた言語が、ここで紹介しているAtopileのようです。
+https://packages.atopile.io/ でパッケージが公開されており、これを見ると周辺回路も合わせて、「よく使う組み合わせ」での回路をモジュールとして扱うことが出来るような思想のようで、便利そうだと感じました。
+似たようなものとしてPythonベースの SKiDL というものもあります。</description>
+    </item>
     
     <item>
       <title>マニキュアトップコートが美しいコンパクトなキーボード</title>
@@ -116,18 +128,6 @@ GPS搭載のシンプルな自転車用ナビの作例です。 指定した座�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/自分で作る電子ペーパー.jpg"&gt;Solid State Tank - Eink wrist watchから発見。画像もここから転載。
 自分で作る電子ペーパーの作例です。 え、電子ペーパーって自分で作れるの、と思いましたが、自作しているのは電極部分で、それ以外の部分は既存の製品を分解して取り出したもののようです。
 それにしても、自分の好きな形のセグメントの電子ペーパーを作るというのは面白い試みです。 （ただし記事の情報量が少ないので、真似して作るのは少し難しそうです）</description>
-    </item>
-    
-    <item>
-      <title>ミニマルサーマルプリンタ端末</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%9E%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E7%AB%AF%E6%9C%AB/</link>
-      <pubDate>Fri, 02 Feb 2024 00:04:12 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%9E%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E7%AB%AF%E6%9C%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ミニマルサーマルプリンタ端末.jpg"&gt;how to make thermal printer using crafts at your homeから発見。画像もここから転載。
-ミニマルサーマルプリンタ端末の作例です
-電熱線を使って7セグメントの印刷を実現しており、小さな筐体に紙送りの仕組みや、入力用のボタンを配置し、ミニマルなワープロのような造形を実現しています。
- </description>
     </item>
     
   </channel>
