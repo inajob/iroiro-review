@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 18 Feb 2024 22:56:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 23:39:20 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3DプリンタとLEDストリップで作られたネオンサイン風の看板</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A8led%E3%82%B9%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%83%8D%E3%82%AA%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%B3%E9%A2%A8%E3%81%AE%E7%9C%8B%E6%9D%BF/</link>
+      <pubDate>Mon, 19 Feb 2024 23:39:20 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A8led%E3%82%B9%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%83%8D%E3%82%AA%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%B3%E9%A2%A8%E3%81%AE%E7%9C%8B%E6%9D%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3DプリンタとLEDストリップで作られたネオンサイン風の看板.jpg"&gt;A Look At 3D Printed Professional LED Signageから発見。画像もここから転載。
+3DプリンタとLEDストリップで作られたネオンサイン風の看板です。 この記事は韓国の看板業者での製作の様子を紹介しています。
+こういうオーダーメイドの製品は、まさに3Dプリンタの使いどころという感じがします。
+ </description>
+    </item>
     
     <item>
       <title>配線を定義するためのプログラミング言語Atopile</title>
@@ -117,17 +129,6 @@ GPS搭載のシンプルな自転車用ナビの作例です。 指定した座�
 マウスの裏側の光学センサーのデータを読み取って、低解像度カメラとして利用するという事例です。
 マウスの光学センサーのモジュールはSPIでやり取りできるようで、意外と簡単に真似できそうです。
 まぁ、こんな低解像度で何ができるかという気もしますが、何か活用法がありそうな気がします。</description>
-    </item>
-    
-    <item>
-      <title>自分で作る電子ペーパー</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E5%88%86%E3%81%A7%E4%BD%9C%E3%82%8B%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC/</link>
-      <pubDate>Sun, 04 Feb 2024 23:05:07 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E5%88%86%E3%81%A7%E4%BD%9C%E3%82%8B%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/自分で作る電子ペーパー.jpg"&gt;Solid State Tank - Eink wrist watchから発見。画像もここから転載。
-自分で作る電子ペーパーの作例です。 え、電子ペーパーって自分で作れるの、と思いましたが、自作しているのは電極部分で、それ以外の部分は既存の製品を分解して取り出したもののようです。
-それにしても、自分の好きな形のセグメントの電子ペーパーを作るというのは面白い試みです。 （ただし記事の情報量が少ないので、真似して作るのは少し難しそうです）</description>
     </item>
     
   </channel>
