@@ -5,9 +5,22 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 13 Feb 2024 23:18:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 23:39:57 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>45°傾けて3Dプリントすることで強度を得る</title>
+      <link>https://inajob.github.io/iroiro-review/post/45%E5%82%BE%E3%81%91%E3%81%A63d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E5%BC%B7%E5%BA%A6%E3%82%92%E5%BE%97%E3%82%8B/</link>
+      <pubDate>Tue, 20 Feb 2024 23:39:57 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/45%E5%82%BE%E3%81%91%E3%81%A63d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E5%BC%B7%E5%BA%A6%E3%82%92%E5%BE%97%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/45°傾けて3Dプリントすることで強度を得る.jpg"&gt;An Alternative Orientation For 3D Printed Enclosuresから発見。画像もここから転載。
+積層式の3Dプリンタは、積層方向に割れてしまうという強度の問題があります。
+この記事では45°傾けて3Dプリントすることで強度を得る手法を紹介しています。 もちろん傾けた積層方向についての強度は弱いのですが、箱型の形状を作った時に、その向きに力がかかることはあまり一般的ではありません。
+45°傾けて造形するためには、サポート材が必要ですが、これも最低限となるように工夫した形状を紹介しています。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリント部品を熱で溶かしてくっつける</title>
@@ -121,18 +134,6 @@ Lipo バッテリーが膨らんだらタクトスイッチが押されて検出
 この手法はICの個体差などが大きいことが予想されるため、実用的な用途には向かないですが、面白いHACKです
 以前も似たような原理のHACKを紹介しました。
  温度センサーを使わずにマイコンで温度を取得する裏技 ダイオードを使った温度センサー  </description>
-    </item>
-    
-    <item>
-      <title>小さな爆発を動力とするロボット</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%B0%8F%E3%81%95%E3%81%AA%E7%88%86%E7%99%BA%E3%82%92%E5%8B%95%E5%8A%9B%E3%81%A8%E3%81%99%E3%82%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</link>
-      <pubDate>Tue, 07 Nov 2023 23:56:48 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%B0%8F%E3%81%95%E3%81%AA%E7%88%86%E7%99%BA%E3%82%92%E5%8B%95%E5%8A%9B%E3%81%A8%E3%81%99%E3%82%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/小さな爆発を動力とするロボット.jpg"&gt;Micro Robot Disregards Gears, Embraces Explosionsから発見。画像もここから転載。
-ロボットの動力には様々なものがありますが、この記事で紹介しているのは「爆発」です。具体的にはメタンと酸素の組み合わせを使って、超小規模な爆発を起こし、その動力を使って移動するというものです。
-動画ではハエトリグモのような動きをしながら移動する様子を見ることが出来ます。 従来の常識にとらわれないロボット、他にも色々考えられそうです。
- </description>
     </item>
     
   </channel>
