@@ -5,9 +5,22 @@
     <description>Recent content in 表示機 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 10 Jan 2024 23:34:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 23:03:05 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E8%A1%A8%E7%A4%BA%E6%A9%9F/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>基板を使ったセグメント表示機</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%9F%BA%E6%9D%BF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
+      <pubDate>Wed, 21 Feb 2024 23:03:05 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%9F%BA%E6%9D%BF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/基板を使ったセグメント表示機.jpg"&gt;パレットシステム よっぴ&amp;rsquo;さんのポストから発見。画像もここから転載。
+基板を使ったセグメント表示機です。黒色基板のソルダーマスクをセグメントとして活用し、後ろからチップLEDで照らすことで、任意の形のセグメント表示機を実現しています。
+PCBの裏面だけ文字の形に銅板をカット、表面は銅板なしで、後ろからカラーLED😆
+思っていたよりもキレイに文字が浮き出たのでこれを使って何か作りたい😆✨ pic.twitter.com/8vA0A6nbyG
+&amp;mdash; パレットシステム よっぴ&amp;#39; (@4py1) February 4, 2024  </description>
+    </item>
     
     <item>
       <title>8x8の2色ドットマトリクス表示機で細かい漢字を表示する</title>
