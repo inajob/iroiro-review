@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 21 Feb 2024 23:03:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 23:24:46 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>大きな7セグメントLCDモジュール</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%A4%A7%E3%81%8D%E3%81%AA7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88lcd%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Sun, 25 Feb 2024 23:24:46 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%A4%A7%E3%81%8D%E3%81%AA7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88lcd%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/大きな7セグメントLCDモジュール.jpg"&gt;One Digit Display by chris_maker_shop on Tindieから発見。画像もここから転載。
+7セグメント表示機はたくさんありますが、その多くはLEDによるものです。 この記事で紹介しているのはかなり大きなLCDの7セグメント表示機です。
+モジュール側にATmega328を搭載しており、I2Cで制御ができます。</description>
+    </item>
     
     <item>
       <title>基板を使ったセグメント表示機</title>
@@ -120,17 +131,6 @@ GPS搭載のシンプルな自転車用ナビの作例です。 指定した座�
 ボールペンのノック機構は、一度押すと引っかかり、もう一度押すと離れるという仕組みですが、これをうまく利用することで、プッシュスイッチを自作しています。
 ペンの先に2つのゼムクリップをくっつけておいて、ペン先が飛び出すことでこれら2つが導通するという仕組みです。
 まぁ、ここまでの苦労を考えると、プッシュスイッチを普通に買った方が良い気もしますが、面白いアイデアです。</description>
-    </item>
-    
-    <item>
-      <title>自作キーボードの祭典</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AE%E7%A5%AD%E5%85%B8/</link>
-      <pubDate>Wed, 07 Feb 2024 23:39:15 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AE%E7%A5%AD%E5%85%B8/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/自作キーボードの祭典.jpg"&gt;キーボードマーケット トーキョーから発見。画像もここから転載。
-自作キーボードの祭典、「キーボードマーケットトーキョー」（キーケット）が開催されるようです。 2024年3月2日（土）11:00 -16:00
-公式ページから出典サークル情報などを見ることが出来るので、気になる方はチェックしてみてください。</description>
     </item>
     
   </channel>
