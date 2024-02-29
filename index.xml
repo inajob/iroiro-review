@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 28 Feb 2024 23:50:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 23:35:12 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタと鉛筆で作った可変抵抗</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A8%E9%89%9B%E7%AD%86%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E5%8F%AF%E5%A4%89%E6%8A%B5%E6%8A%97/</link>
+      <pubDate>Thu, 29 Feb 2024 23:35:12 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A8%E9%89%9B%E7%AD%86%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E5%8F%AF%E5%A4%89%E6%8A%B5%E6%8A%97/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタと鉛筆で作った可変抵抗.jpg"&gt;A Classroom-Ready Potentiometer From Pencil And 3D Printsから発見。画像もここから転載。
+可変抵抗を簡単に自作する方法として、鉛筆で描いた線を使う方法があります。
+この記事では3Dプリンタで作ったケースの内部に鉛筆で塗りつぶした紙を貼り付け、見た目もユニークな可変抵抗を自作しています。
+仕組みを理解するうえでも有用ですし、オリジナルな形の可変抵抗を作れるという意味でも面白い作例です。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタで一発造形できるでんでん太鼓</title>
@@ -118,21 +131,6 @@ https://packages.atopile.io/ でパッケージが公開されており、これ
 マニキュアトップコートが美しいコンパクトなキーボードの作例です。
 3Dプリンタ製のキーキャップはその質感がどうしても既製品に劣ってしまいますが、この作例ではキートップにマニキュアトップコートを塗ってツヤのあるキーを実現しています。
  </description>
-    </item>
-    
-    <item>
-      <title>光ファイバーで導光した7セグ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E3%83%BC%E3%81%A7%E5%B0%8E%E5%85%89%E3%81%97%E3%81%9F7%E3%82%BB%E3%82%B0/</link>
-      <pubDate>Wed, 14 Feb 2024 23:37:22 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E3%83%BC%E3%81%A7%E5%B0%8E%E5%85%89%E3%81%97%E3%81%9F7%E3%82%BB%E3%82%B0/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/光ファイバーで導光した7セグ.jpg"&gt;デリシャス☆さんのPostから発見。画像もここから転載。
-光ファイバーで導光した7セグの作例です。
-LEDの光を光ファイバーで導光し、美しい表示機を自作しています。
-LEDは各セグメント1つずつですが、光ファイバーで光を複数のドットに導光しているので、画像のような見た目となっています。
-光ファイバー7セグ完成したー😊
-普通にけっこう見た目良くできた！ pic.twitter.com/jJQGbZERvF
-&amp;mdash; デリシャス☆ (@delicious1229) January 28, 2024  </description>
     </item>
     
   </channel>

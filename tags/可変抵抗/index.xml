@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>可変抵抗 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E5%8F%AF%E5%A4%89%E6%8A%B5%E6%8A%97/</link>
+    <description>Recent content in 可変抵抗 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Thu, 29 Feb 2024 23:35:12 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E5%8F%AF%E5%A4%89%E6%8A%B5%E6%8A%97/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタと鉛筆で作った可変抵抗</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A8%E9%89%9B%E7%AD%86%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E5%8F%AF%E5%A4%89%E6%8A%B5%E6%8A%97/</link>
+      <pubDate>Thu, 29 Feb 2024 23:35:12 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A8%E9%89%9B%E7%AD%86%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E5%8F%AF%E5%A4%89%E6%8A%B5%E6%8A%97/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタと鉛筆で作った可変抵抗.jpg"&gt;A Classroom-Ready Potentiometer From Pencil And 3D Printsから発見。画像もここから転載。
+可変抵抗を簡単に自作する方法として、鉛筆で描いた線を使う方法があります。
+この記事では3Dプリンタで作ったケースの内部に鉛筆で塗りつぶした紙を貼り付け、見た目もユニークな可変抵抗を自作しています。
+仕組みを理解するうえでも有用ですし、オリジナルな形の可変抵抗を作れるという意味でも面白い作例です。
+ </description>
+    </item>
+    
+  </channel>
+</rss>
+

@@ -5,16 +5,34 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 28 Feb 2024 23:50:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 23:35:12 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>3Dプリンタ</title>
       <link>https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
-      <pubDate>Wed, 28 Feb 2024 23:50:36 +0000</pubDate>
+      <pubDate>Thu, 29 Feb 2024 23:35:12 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>可変抵抗</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E5%8F%AF%E5%A4%89%E6%8A%B5%E6%8A%97/</link>
+      <pubDate>Thu, 29 Feb 2024 23:35:12 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E5%8F%AF%E5%A4%89%E6%8A%B5%E6%8A%97/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>自作</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E8%87%AA%E4%BD%9C/</link>
+      <pubDate>Thu, 29 Feb 2024 23:35:12 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E8%87%AA%E4%BD%9C/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
@@ -78,24 +96,6 @@
       <pubDate>Sun, 25 Feb 2024 23:24:46 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/lcd/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>基板</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E5%9F%BA%E6%9D%BF/</link>
-      <pubDate>Wed, 21 Feb 2024 23:03:05 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E5%9F%BA%E6%9D%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>表示機</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
-      <pubDate>Wed, 21 Feb 2024 23:03:05 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
