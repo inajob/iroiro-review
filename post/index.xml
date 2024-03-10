@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 07 Mar 2024 23:20:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2024 23:38:51 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタで作るバスケットボール</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%90%E3%82%B9%E3%82%B1%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Sun, 10 Mar 2024 23:38:51 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%90%E3%82%B9%E3%82%B1%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作るバスケットボール.jpg"&gt;3D Printed Basketball Could Be A Game Changerから発見。画像もここから転載。
+3Dプリンタで作るバスケットボールの作例です。
+一般的なバスケットボールとは違い、空気を入れることなく、構造により弾性を再現しているようですが、使い勝手はさほど変わらないとのことです。
+空気を入れるタイプのボールより長持ちする・・とかはあるんですかね？</description>
+    </item>
     
     <item>
       <title>16*15=240個のLEDを搭載した携帯ゲーム機</title>
@@ -122,17 +134,6 @@ LEDを立体的に配置するLEDキューブはよく見かける作例です�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ウッドフィラメントで出力時の温度を変化させて年輪を描く.jpg"&gt;Printing A Logから発見。画像もここから転載。
 ウッドフィラメントというのは、プラスチックの中に木片を混ぜ込んだフィラメントで、木目調の成果物を作ることが出来ます。 3Dプリンタのフィラメントの温度を変化させることで、このフィラメントを少し「焦がす」ことで年輪のような模様を描くテクニックを紹介しています。
  </description>
-    </item>
-    
-    <item>
-      <title>大きな7セグメントLCDモジュール</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%A4%A7%E3%81%8D%E3%81%AA7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88lcd%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</link>
-      <pubDate>Sun, 25 Feb 2024 23:24:46 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%A4%A7%E3%81%8D%E3%81%AA7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88lcd%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/大きな7セグメントLCDモジュール.jpg"&gt;One Digit Display by chris_maker_shop on Tindieから発見。画像もここから転載。
-7セグメント表示機はたくさんありますが、その多くはLEDによるものです。 この記事で紹介しているのはかなり大きなLCDの7セグメント表示機です。
-モジュール側にATmega328を搭載しており、I2Cで制御ができます。</description>
     </item>
     
   </channel>

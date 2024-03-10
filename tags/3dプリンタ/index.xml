@@ -5,9 +5,21 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 04 Mar 2024 23:24:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2024 23:38:51 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタで作るバスケットボール</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%90%E3%82%B9%E3%82%B1%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Sun, 10 Mar 2024 23:38:51 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%90%E3%82%B9%E3%82%B1%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作るバスケットボール.jpg"&gt;3D Printed Basketball Could Be A Game Changerから発見。画像もここから転載。
+3Dプリンタで作るバスケットボールの作例です。
+一般的なバスケットボールとは違い、空気を入れることなく、構造により弾性を再現しているようですが、使い勝手はさほど変わらないとのことです。
+空気を入れるタイプのボールより長持ちする・・とかはあるんですかね？</description>
+    </item>
     
     <item>
       <title>3Dプリント成果物にレジンで文字を色付けする</title>
@@ -117,19 +129,6 @@ PLAで造形した場合は何度か遊んでいると折れてしまうこと�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/かっこいいダイヤル式のキッチンタイマー.jpg"&gt;REST: Kitchen timerから発見。画像もここから転載。
 かっこいいダイヤル式のキッチンタイマーの作例です。 よく見る部品の構成ですが、何もかもかっこいい作りになっています。ぜひ動画を見てみてください。
 7セグメントLEDの駆動にはMAX7219 、コアとなるマイコンはSTM32F103 （いわゆるBluePillボード)を利用しています。
- </description>
-    </item>
-    
-    <item>
-      <title>とても小さなゲーミングマウス</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%81%A8%E3%81%A6%E3%82%82%E5%B0%8F%E3%81%95%E3%81%AA%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%A6%E3%82%B9/</link>
-      <pubDate>Mon, 29 Jan 2024 23:26:56 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%A8%E3%81%A6%E3%82%82%E5%B0%8F%E3%81%95%E3%81%AA%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%A6%E3%82%B9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/とても小さなゲーミングマウス.jpg"&gt;Tiny Gaming Mouseから発見。画像もここから転載。
-とても小さなゲーミングマウスの作例です。 コアとなるマイコンはATmega32U4、マウスセンサーとしてはPMW3389を使用しています。
-3Dプリンタで作成された、必要最低限の筐体も良い味を出しています。
-確かにこれらの部品を乗せるには、このくらいの大きさの基板で十分そうです。
  </description>
     </item>
     
