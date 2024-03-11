@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 10 Mar 2024 23:38:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 23:37:14 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ST7302メモリ液晶を2個搭載したモバイルデバイス</title>
+      <link>https://inajob.github.io/iroiro-review/post/st7302%E3%83%A1%E3%83%A2%E3%83%AA%E6%B6%B2%E6%99%B6%E3%82%922%E5%80%8B%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</link>
+      <pubDate>Mon, 11 Mar 2024 23:37:14 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/st7302%E3%83%A1%E3%83%A2%E3%83%AA%E6%B6%B2%E6%99%B6%E3%82%922%E5%80%8B%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ST7302メモリ液晶を2個搭載したモバイルデバイス.jpg"&gt;Pocket Padから発見。画像もここから転載。
+ST7302メモリ液晶を2個搭載したモバイルデバイスの作例です。 このメモリ液晶、AliExpressなどで見かけるのですが、解像度が250×122のものしかなく、やや小さいなと思っていました。
+しかしこの作例では、この液晶を2枚並べることで小さい問題をクリアしています。 下にソースコードを表示して、上で実行画面を表示するという使い方ができるようです。
+キーボード部分は既製品のコンパクトな40%キーボードを使い、コアのマイコンモジュールとしてProMicroピン互換のNRF52840搭載の開発ボードを利用しています。
+ソフトウェアはEspruinoを使ってJavaScriptで実装されており、この端末を使って、この端末で動くソフトウェアを改良することが出来ます。</description>
+    </item>
     
     <item>
       <title>3Dプリンタで作るバスケットボール</title>
@@ -122,17 +135,6 @@ PLAで造形した場合は何度か遊んでいると折れてしまうこと�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/クリアレジンの中の4*4*4のLEDキューブ.jpg"&gt;4x4x4 LED Cube Encapsulated In Epoxy Resin by Feral Makes on Tindieから発見。画像もここから転載。
 LEDを立体的に配置するLEDキューブはよく見かける作例ですが、このページで紹介しているのは、このLEDキューブを透明なレジンで固めたものです。
 シンプルなアイデアですが、とてもきれいなオブジェです。
- </description>
-    </item>
-    
-    <item>
-      <title>ウッドフィラメントで出力時の温度を変化させて年輪を描く</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%A6%E3%83%83%E3%83%89%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%81%A7%E5%87%BA%E5%8A%9B%E6%99%82%E3%81%AE%E6%B8%A9%E5%BA%A6%E3%82%92%E5%A4%89%E5%8C%96%E3%81%95%E3%81%9B%E3%81%A6%E5%B9%B4%E8%BC%AA%E3%82%92%E6%8F%8F%E3%81%8F/</link>
-      <pubDate>Mon, 26 Feb 2024 23:29:58 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%A6%E3%83%83%E3%83%89%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%81%A7%E5%87%BA%E5%8A%9B%E6%99%82%E3%81%AE%E6%B8%A9%E5%BA%A6%E3%82%92%E5%A4%89%E5%8C%96%E3%81%95%E3%81%9B%E3%81%A6%E5%B9%B4%E8%BC%AA%E3%82%92%E6%8F%8F%E3%81%8F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ウッドフィラメントで出力時の温度を変化させて年輪を描く.jpg"&gt;Printing A Logから発見。画像もここから転載。
-ウッドフィラメントというのは、プラスチックの中に木片を混ぜ込んだフィラメントで、木目調の成果物を作ることが出来ます。 3Dプリンタのフィラメントの温度を変化させることで、このフィラメントを少し「焦がす」ことで年輪のような模様を描くテクニックを紹介しています。
  </description>
     </item>
     
