@@ -5,9 +5,25 @@
     <description>Recent content in 電子ペーパー on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 04 Feb 2024 23:05:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 23:05:22 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>M5Paperを使った電子書籍ビューア</title>
+      <link>https://inajob.github.io/iroiro-review/post/m5paper%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2/</link>
+      <pubDate>Wed, 20 Mar 2024 23:05:22 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/m5paper%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/M5Paperを使った電子書籍ビューア.jpg"&gt;パスコンパスさんのPostから発見。画像もここから転載。
+M5Paperを使った電子書籍ビューアの作例です。 もともとM5Paperの出来がよいところに、このソフトウェアを搭載市ているので、非常にそれっぽい見た目になっています。
+電子書籍端末も自分で作る時代が来るかもしれませんね
+今日の有給の成果
+ここまできたらデジタルガジェットと言えそう
+今週末のの #DGで遊ぼ にも持っていきます
+後、短編とイラストを整理して追加して整えたらデータを公開してみたい#めかとろろ #M5PaperManga pic.twitter.com/h8TlULcxcO
+&amp;mdash; パスコンパス (@pscmps) February 6, 2024  </description>
+    </item>
     
     <item>
       <title>自分で作る電子ペーパー</title>
@@ -124,19 +140,6 @@ Arduinoベースで、2.9インチの電子ペーパーを搭載しています�
 基板はFusionPCB様に、ケースはDMM.make様に作って頂きました。
 表面実装部品のはんだ付け大変だった!#Arduino #電子工作 #FusionPCB #DMMmake pic.twitter.com/Njlyd36aBX
 &amp;mdash; ゆずれもん (@circleyuzulemon) March 9, 2020  </description>
-    </item>
-    
-    <item>
-      <title>今日の予定を表示してくれる電子ペーパガジェット</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E4%BB%8A%E6%97%A5%E3%81%AE%E4%BA%88%E5%AE%9A%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
-      <pubDate>Sun, 26 Mar 2023 23:42:06 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E4%BB%8A%E6%97%A5%E3%81%AE%E4%BA%88%E5%AE%9A%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/今日の予定を表示してくれる電子ペーパガジェット.jpg"&gt;The Timeframeから発見。画像もここから転載。
-今日の予定を表示してくれる電子ペーパガジェットを紹介します。
-このガジェットはLilyGo T5というものですが、ESP32と電子ペーパーモジュールがあれば似たものを作れそうです。
-仕組みとしては、サーバにある画像を表示するプログラムをESP32に仕込んでおき、スケジュールの画像はサーバで生成しているようです。（Google Clendarの画面をSeleniumでキャプチャしただけのようです）
-この方式だと、ESP32側はシンプルなプログラムでよく、かつサーバ側の実装を差し替えることで、あらゆる画像を表示できます。</description>
     </item>
     
   </channel>
