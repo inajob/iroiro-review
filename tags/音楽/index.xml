@@ -5,9 +5,22 @@
     <description>Recent content in 音楽 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 12 Mar 2024 23:19:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 23:22:53 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%9F%B3%E6%A5%BD/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>カリンバを改造した静電容量タッチMIDI楽器</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%AA%E3%83%B3%E3%83%90%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%9F%E9%9D%99%E9%9B%BB%E5%AE%B9%E9%87%8F%E3%82%BF%E3%83%83%E3%83%81midi%E6%A5%BD%E5%99%A8/</link>
+      <pubDate>Thu, 21 Mar 2024 23:22:53 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%AA%E3%83%B3%E3%83%90%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%9F%E9%9D%99%E9%9B%BB%E5%AE%B9%E9%87%8F%E3%82%BF%E3%83%83%E3%83%81midi%E6%A5%BD%E5%99%A8/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/カリンバを改造した静電容量タッチMIDI楽器.jpg"&gt;Thumbs Up To This Pico MIDI Kalimbaから発見。画像もここから転載。
+カリンバを改造した静電容量タッチMIDI楽器の紹介です。
+カリンバを改造して作られた電子楽器ですが、その仕組みはカリンバとは異なり、静電容量タッチで操作するものとなっています。
+コアはRaspberry Pi Picoを用いています。
+ </description>
+    </item>
     
     <item>
       <title>フォトインタラプタを使ってナイロン弦のピックアップを作る</title>
@@ -122,18 +135,6 @@ RP2040を使ったハードウェアシンセサイザーです。 CircuitPython
 転調しても変わらない配置のグリッド状のボタンが並ぶ電子楽器です。 ボタンは61個あり、3.6オクターブをカバーしています。
 ボタン部分はアナログ入力になっており表現力も高そうです。 ファームウェアはオープンソースになっているので、興味のある人は覗いてみてはどうでしょう？
  </description>
-    </item>
-    
-    <item>
-      <title>Midi Fighter 64という8x8のMIDIコントローラ</title>
-      <link>https://inajob.github.io/iroiro-review/post/midi-fighter-64%E3%81%A8%E3%81%84%E3%81%868x8%E3%81%AEmidi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9/</link>
-      <pubDate>Thu, 06 Apr 2023 21:24:31 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/midi-fighter-64%E3%81%A8%E3%81%84%E3%81%868x8%E3%81%AEmidi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Midi Fighter 64という8x8のMIDIコントローラ.jpg"&gt;Shawn Wasabi - Marble Soda (live mashup) - YouTubeから発見。画像もここから転載。
-Midi Fighter 64という8x8のMIDIコントローラを紹介します。
-まぁこれは演奏がうまいということなんでしょうけど、すごい欲しくなります。 どういう設定になっているんだろう？
-  </description>
     </item>
     
   </channel>

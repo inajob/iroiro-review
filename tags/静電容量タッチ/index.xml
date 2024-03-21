@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>静電容量タッチ on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E9%9D%99%E9%9B%BB%E5%AE%B9%E9%87%8F%E3%82%BF%E3%83%83%E3%83%81/</link>
+    <description>Recent content in 静電容量タッチ on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Thu, 21 Mar 2024 23:22:53 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%9D%99%E9%9B%BB%E5%AE%B9%E9%87%8F%E3%82%BF%E3%83%83%E3%83%81/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>カリンバを改造した静電容量タッチMIDI楽器</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%AA%E3%83%B3%E3%83%90%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%9F%E9%9D%99%E9%9B%BB%E5%AE%B9%E9%87%8F%E3%82%BF%E3%83%83%E3%83%81midi%E6%A5%BD%E5%99%A8/</link>
+      <pubDate>Thu, 21 Mar 2024 23:22:53 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%AA%E3%83%B3%E3%83%90%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%9F%E9%9D%99%E9%9B%BB%E5%AE%B9%E9%87%8F%E3%82%BF%E3%83%83%E3%83%81midi%E6%A5%BD%E5%99%A8/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/カリンバを改造した静電容量タッチMIDI楽器.jpg"&gt;Thumbs Up To This Pico MIDI Kalimbaから発見。画像もここから転載。
+カリンバを改造した静電容量タッチMIDI楽器の紹介です。
+カリンバを改造して作られた電子楽器ですが、その仕組みはカリンバとは異なり、静電容量タッチで操作するものとなっています。
+コアはRaspberry Pi Picoを用いています。
+ </description>
+    </item>
+    
+  </channel>
+</rss>
+

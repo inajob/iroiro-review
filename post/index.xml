@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 20 Mar 2024 23:05:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 23:22:53 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>カリンバを改造した静電容量タッチMIDI楽器</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%AA%E3%83%B3%E3%83%90%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%9F%E9%9D%99%E9%9B%BB%E5%AE%B9%E9%87%8F%E3%82%BF%E3%83%83%E3%83%81midi%E6%A5%BD%E5%99%A8/</link>
+      <pubDate>Thu, 21 Mar 2024 23:22:53 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%AA%E3%83%B3%E3%83%90%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%9F%E9%9D%99%E9%9B%BB%E5%AE%B9%E9%87%8F%E3%82%BF%E3%83%83%E3%83%81midi%E6%A5%BD%E5%99%A8/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/カリンバを改造した静電容量タッチMIDI楽器.jpg"&gt;Thumbs Up To This Pico MIDI Kalimbaから発見。画像もここから転載。
+カリンバを改造した静電容量タッチMIDI楽器の紹介です。
+カリンバを改造して作られた電子楽器ですが、その仕組みはカリンバとは異なり、静電容量タッチで操作するものとなっています。
+コアはRaspberry Pi Picoを用いています。
+ </description>
+    </item>
     
     <item>
       <title>M5Paperを使った電子書籍ビューア</title>
@@ -134,17 +147,6 @@ BTF-LIGHTING WS2812B ECO... https://t.co/u9eJn7GnHk https://t.co/NTDAm22cwO
 3分充電で20時間光るイヤリングの作例です。 バッテリーとして40Fのリチウムイオンキャパシタ(LIC)を使用しており、3分の充電で20時間動作できるようです。
 LEDは104個搭載されており、様々な点滅パターンを選択できます。 コアマイコンはATtiny1616です。
  </description>
-    </item>
-    
-    <item>
-      <title>3Dプリント成果物にレジンで文字を色付けする</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E6%88%90%E6%9E%9C%E7%89%A9%E3%81%AB%E3%83%AC%E3%82%B8%E3%83%B3%E3%81%A7%E6%96%87%E5%AD%97%E3%82%92%E8%89%B2%E4%BB%98%E3%81%91%E3%81%99%E3%82%8B/</link>
-      <pubDate>Mon, 04 Mar 2024 23:24:06 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E6%88%90%E6%9E%9C%E7%89%A9%E3%81%AB%E3%83%AC%E3%82%B8%E3%83%B3%E3%81%A7%E6%96%87%E5%AD%97%E3%82%92%E8%89%B2%E4%BB%98%E3%81%91%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリント成果物にレジンで文字を色付けする.jpg"&gt;Multicolor Resin Prints: Give It A Shotから発見。画像もここから転載。
-3Dプリント成果物にレジンで文字を色付けする手法の紹介です。 3Dプリント成果物に凹みとして文字を配置し、その凹みに色つきのレジンを流し込んで硬化させる手法です。
-レジンは少しにじんだり、表面にも塗布されたりしますが、層が薄い部分に関しては、そこまで色が目立たないので、写真のように凹み部分の文字が可視化されるようです。</description>
     </item>
     
   </channel>
