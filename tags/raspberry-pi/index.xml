@@ -5,9 +5,21 @@
     <description>Recent content in Raspberry Pi on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 15 Dec 2022 23:08:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2024 23:58:14 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/raspberry-pi/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raspberry PiによるWinamp風オーディオプレイヤー</title>
+      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi%E3%81%AB%E3%82%88%E3%82%8Bwinamp%E9%A2%A8%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC/</link>
+      <pubDate>Sun, 24 Mar 2024 23:58:14 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi%E3%81%AB%E3%82%88%E3%82%8Bwinamp%E9%A2%A8%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry PiによるWinamp風オーディオプレイヤー.jpg"&gt;Raspinamp: It Really Replicates Questionable Activities Involving Llamasから発見。画像もここから転載。
+一世を風靡したWinamp風のオーディオプレイヤーを表示する専用のデバイスをRaspberry Piで作成しています。
+実際にはQMMPというRaspberry Piで動作するオーディオ再生ソフトのスキンの1つを利用しているようです。
+やっていることは素朴にRaspberry Piに小型ディスプレイを取り付けて、このアプリを表示しているだけなので、真似するのは比較的簡単そうです。</description>
+    </item>
     
     <item>
       <title>Raspberry Piの拡張端子の名前とLEDがついたアダプタ</title>
@@ -121,18 +133,6 @@ V1,V2,V3と様々なバージョンが公開されており、継続的に開発
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/cuitepi.png"&gt;CutiePi tabletから発見。画像もここから転載。
 Raspberry Piを使ったタブレット端末のプロジェクトです。
 利用しているのはRaspberry Pi 3 Compute Moduleです。 Compute Moduleを使うことで薄型のデバイスに簡単に内蔵できる非常に良い例です。
- </description>
-    </item>
-    
-    <item>
-      <title>レトロラジオ風のRaspberryPiゲームコンソール</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%83%88%E3%83%AD%E3%83%A9%E3%82%B8%E3%82%AA%E9%A2%A8%E3%81%AEraspberrypi%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</link>
-      <pubDate>Thu, 14 May 2020 23:00:08 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%83%88%E3%83%AD%E3%83%A9%E3%82%B8%E3%82%AA%E9%A2%A8%E3%81%AEraspberrypi%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/radio-pi.jpg"&gt;1963 Pi Tourer Game Consoleから発見。画像もここから転載（CC BY-NC-SA By MisterM）
-レトロラジオとアーケードゲームをくっつけたようなユニークな形状のRaspberry Piコンソールの作例です。レトロな外観のラジオ部分は実際に古いラジオを分解して再利用しているようです。
-コントローラの内部にRaspberry Piを内蔵するアイデアは応用が利きそうです。
  </description>
     </item>
     
