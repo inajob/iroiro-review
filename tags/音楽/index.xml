@@ -5,9 +5,21 @@
     <description>Recent content in 音楽 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 24 Mar 2024 23:58:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 23:47:51 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%9F%B3%E6%A5%BD/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>デジタル版ハーディ・ガーディ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E7%89%88%E3%83%8F%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AC%E3%83%BC%E3%83%87%E3%82%A3/</link>
+      <pubDate>Tue, 26 Mar 2024 23:47:51 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E7%89%88%E3%83%8F%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AC%E3%83%BC%E3%83%87%E3%82%A3/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/デジタル版ハーディ・ガーディ.jpg"&gt;Ancient Instrument Goes Digital: The Digi-Gurdyから発見。画像もここから転載。
+デジタル版ハーディ・ガーディの作例です。 筐体はレーザーカットされた木材で構成され、中身は完全に電子部品で構成されています。
+MIDI信号を出力し、音楽を奏でることができます。
+ </description>
+    </item>
     
     <item>
       <title>Raspberry PiによるWinamp風オーディオプレイヤー</title>
@@ -123,18 +135,6 @@ ESP8266で動作するトラッカーが開発中のようです。 ターゲッ
 ESPboyはオープンソースハードウェアで、inajobも日本で利用できるESP-WROOM-02を使って作成したことがあります。
 WIP day I don&amp;#39;t know, 18 I guess. Almost done. pic.twitter.com/OdkUxfhtIZ
 &amp;mdash; shiru8bit (@shiru8bit) October 19, 2023  </description>
-    </item>
-    
-    <item>
-      <title>RP2040を使ったハードウェアシンセサイザー</title>
-      <link>https://inajob.github.io/iroiro-review/post/rp2040%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</link>
-      <pubDate>Tue, 22 Aug 2023 22:47:31 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/rp2040%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/RP2040を使ったハードウェアシンセサイザー.jpg"&gt;qtpy_synth by todbot synth toys on Tindieから発見。画像もここから転載。
-RP2040を使ったハードウェアシンセサイザーです。 CircuitPythonにはsynthioというシンセサイザー用のライブラリが標準搭載されており、それを使って音を生成しているようです。
-シンセサイザーというとC/C++言語での開発が必要かと思っていたのですがCircuitPythonでもできるなら、手軽に始められそうと感じました。
- </description>
     </item>
     
   </channel>
