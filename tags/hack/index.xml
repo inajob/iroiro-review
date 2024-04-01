@@ -5,9 +5,21 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 26 Feb 2024 23:29:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 23:31:01 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>数十円で買えるCH32V003でLinuxを動かす</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%95%B0%E5%8D%81%E5%86%86%E3%81%A7%E8%B2%B7%E3%81%88%E3%82%8Bch32v003%E3%81%A7linux%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</link>
+      <pubDate>Mon, 01 Apr 2024 23:31:01 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%95%B0%E5%8D%81%E5%86%86%E3%81%A7%E8%B2%B7%E3%81%88%E3%82%8Bch32v003%E3%81%A7linux%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/数十円で買えるCH32V003でLinuxを動かす.jpg"&gt;Bring Linux To CH32V003 Through, Yes, RISC-V Emulationから発見。画像もここから転載。
+数十円で買えるCH32V003でLinuxを動かすという事例です。 CH32V003で直接動かすのではなく、RISC-VのエミュレータをCH32V003上で動かし、その腕Linuxを実行するという仕組みのようです。
+CH32V003はRISC-VのICではありますが、RAMが小さすぎるため、エミュレータを使い外部RAMを利用するというアイデアのようです。
+なお起動には5分くらいかかるらしい</description>
+    </item>
     
     <item>
       <title>ウッドフィラメントで出力時の温度を変化させて年輪を描く</title>
@@ -117,21 +129,6 @@ Lipo バッテリーが膨らんだらタクトスイッチが押されて検出
 水中で積層式の3Dプリンタを動かす試みです。 ちょっと水につける程度かな？と思ったらマジでプールの中で動かしていて面白いです。
 ネタっぽいけどオーバーハングの問題が少し解決できるなど、意外と実用的な側面もありそうです。
  </description>
-    </item>
-    
-    <item>
-      <title>8x8の2色ドットマトリクス表示機で細かい漢字を表示する</title>
-      <link>https://inajob.github.io/iroiro-review/post/8x8%E3%81%AE2%E8%89%B2%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E8%A1%A8%E7%A4%BA%E6%A9%9F%E3%81%A7%E7%B4%B0%E3%81%8B%E3%81%84%E6%BC%A2%E5%AD%97%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B/</link>
-      <pubDate>Wed, 10 Jan 2024 23:34:24 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/8x8%E3%81%AE2%E8%89%B2%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E8%A1%A8%E7%A4%BA%E6%A9%9F%E3%81%A7%E7%B4%B0%E3%81%8B%E3%81%84%E6%BC%A2%E5%AD%97%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/8x8の2色ドットマトリクス表示機で細かい漢字を表示する.jpg"&gt;KenKenMkIISRさんのポストから発見。画像もここから転載。
-8x8の2色ドットマトリクス表示機で細かい漢字を表示する作例です。
-画像のように、8×8ドットなのに、「龍」の字が見えてくる不思議なテクニックです。
-昨年もKenLenMkIISRさんはドットマトリクスLEDを駆使して漢字を表示していたのを思い出しました。
-新年おめでとうございます。今年もよろしくお願いします。
-今年の書き初めは8x8ドットLEDマトリクスで「龍」にチャレンジしてみました。そんな無茶なって？いえいえ、ちゃんと読めるでしょ。 pic.twitter.com/ZfmxfUXOkL
-&amp;mdash; KenKenMkIISR (@KenKenMkIISR) December 31, 2023  </description>
     </item>
     
   </channel>

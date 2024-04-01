@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 31 Mar 2024 22:41:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 23:31:01 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>数十円で買えるCH32V003でLinuxを動かす</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%95%B0%E5%8D%81%E5%86%86%E3%81%A7%E8%B2%B7%E3%81%88%E3%82%8Bch32v003%E3%81%A7linux%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</link>
+      <pubDate>Mon, 01 Apr 2024 23:31:01 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%95%B0%E5%8D%81%E5%86%86%E3%81%A7%E8%B2%B7%E3%81%88%E3%82%8Bch32v003%E3%81%A7linux%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/数十円で買えるCH32V003でLinuxを動かす.jpg"&gt;Bring Linux To CH32V003 Through, Yes, RISC-V Emulationから発見。画像もここから転載。
+数十円で買えるCH32V003でLinuxを動かすという事例です。 CH32V003で直接動かすのではなく、RISC-VのエミュレータをCH32V003上で動かし、その腕Linuxを実行するという仕組みのようです。
+CH32V003はRISC-VのICではありますが、RAMが小さすぎるため、エミュレータを使い外部RAMを利用するというアイデアのようです。
+なお起動には5分くらいかかるらしい</description>
+    </item>
     
     <item>
       <title>ESP32 Lyratボードで作られたボイスアシスタント</title>
@@ -118,27 +130,6 @@ M5Paperを使った電子書籍ビューアの作例です。 もともとM5Pape
 筒状のディスプレイで遊ぶテトリスを遊ぶための装置です。
 ストリップ状のシリアル制御のフルカラーLEDが筒に巻き付けてあるというシンプルなつくりですが、左右がつながったテトリスゲームを自然な形で表現できています。
 平面ディスプレイという制約を取り払ったゲーム機というアイデアが面白いです。</description>
-    </item>
-    
-    <item>
-      <title>3Dプリント型でコンタクトラバーを自作</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%9E%8B%E3%81%A7%E3%82%B3%E3%83%B3%E3%82%BF%E3%82%AF%E3%83%88%E3%83%A9%E3%83%90%E3%83%BC%E3%82%92%E8%87%AA%E4%BD%9C/</link>
-      <pubDate>Wed, 13 Mar 2024 23:42:44 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%9E%8B%E3%81%A7%E3%82%B3%E3%83%B3%E3%82%BF%E3%82%AF%E3%83%88%E3%83%A9%E3%83%90%E3%83%BC%E3%82%92%E8%87%AA%E4%BD%9C/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリント型でコンタクトラバーを自作.jpg"&gt;wararyoさんのPostから発見。画像もここから転載。
-3Dプリント型でコンタクトラバーを自作する試みです。
-一般的なレジンのキャスティングのように3Dプリンタで型を作ってコンタクトラバーを作成しています。 ラバーと導電ゴムをどのように固定するかなど、やることはまだありますが、好きな形のコンタクトラバーが自作できるというのは興味深いです。
-やばーい！
-3Dプリンターでシリコーン製のコンタクトラバーが作れちゃった！
-PLAで型を印刷して、そこにシリコーンを流し込む
-薄さ0.4mmの部分もあるし初回は失敗するかな…と思ってたんだけど、一発目からある程度上手くいってしまって𝑯𝑨𝑷𝑷𝒀𝑯𝑨𝑷𝑷𝒀𝑯𝑨𝑷𝑷𝒀です pic.twitter.com/SjZVo1hb97
-&amp;mdash; wararyo (@wararyo) March 3, 2024  シリコーン製コンタクトラバー 先週のつづき
-今日は導電性ゴムを付けて、押しボタンとして機能させようとしました
-接着は無事に出来たんですが…
-ちゃんと導通するか確認したところ、イマイチ気持ちよく動かない…
-導電性ゴムの接着についてはもっと別のやり方を検討しないといけないっぽいです🧐 pic.twitter.com/JmhXGesxMu
-&amp;mdash; wararyo (@wararyo) March 10, 2024  </description>
     </item>
     
   </channel>
