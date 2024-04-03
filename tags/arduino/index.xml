@@ -5,9 +5,21 @@
     <description>Recent content in Arduino on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 08 Jan 2024 23:28:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 23:06:15 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>自作の大きなドット絵表示機</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E5%A4%A7%E3%81%8D%E3%81%AA%E3%83%89%E3%83%83%E3%83%88%E7%B5%B5%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
+      <pubDate>Wed, 03 Apr 2024 23:06:15 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E5%A4%A7%E3%81%8D%E3%81%AA%E3%83%89%E3%83%83%E3%83%88%E7%B5%B5%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-reviewimg/diy-16x16dot-display.jpg"&gt;Arduino powered LED Matrixから発見。画像もここから転載。 ドット絵を表示するディスプレイの作例です。
+ドット絵はいまだ人気のあるアートで、これを表示するディスプレイの製品もたくさん存在しますが、これを自作するのも意外と簡単そうです。
+この記事では Arduino Nanoとおなじみのシリアル制御フルカラーLEDであるWS2812Bのストリップを使って結構大き目のドット絵表示用ディスプレイを作っています。
+ドットの見栄えをよくするために3Dプリンタを使って格子状の部品を作っているところがポイントです。﻿</description>
+    </item>
     
     <item>
       <title>CH32用のWCH公式のArduinoサポートが登場</title>
@@ -120,21 +132,6 @@ Raspberry Pi Zeroと同じサイズ、同じピンヘッダを備えた、Arduin
 コアとなるICはATmega328PBで、普通のArduino UNOなどと同じように利用できそうです。
 ATmega328PBはATmega328Pよりも4つ多くのGPIOを持っていますが、それらも利用できるようです。
 Rarspberry Pi Zeroのケースや、HATなどの周辺機器を利用できるので、なかなか使い勝手がよさそうです。</description>
-    </item>
-    
-    <item>
-      <title>携帯できるアーケードゲームコントローラ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%90%BA%E5%B8%AF%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9/</link>
-      <pubDate>Sun, 11 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%90%BA%E5%B8%AF%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/mobile-gamepad.jpg"&gt;3D PRINTED PORTABLE ARCADE CONTROLLERから発見。画像もここから転載。
-蓋つきのケースの中に収納されたアーケードゲームゲームコントローラの作例です。
-蓋つきのケースは市販のものを利用し、コントローラは、その中に内蓋のような構造で収納されています。
-内蓋とそれを支える柱は3Dプリントされており、ここにスイッチやジョイスティック、マイコンを固定しています。そのため、PCBは不要です。
-マイコンボードとしてはArduino Pro Microを使っています。
-気軽にアーケード気分が味わいたいときにさっと持っていくことが出来る素敵なコントローラーに仕上がっています。
-</description>
     </item>
     
   </channel>

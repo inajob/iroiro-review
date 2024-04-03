@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 02 Apr 2024 23:13:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 23:06:15 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>自作の大きなドット絵表示機</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E5%A4%A7%E3%81%8D%E3%81%AA%E3%83%89%E3%83%83%E3%83%88%E7%B5%B5%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
+      <pubDate>Wed, 03 Apr 2024 23:06:15 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E5%A4%A7%E3%81%8D%E3%81%AA%E3%83%89%E3%83%83%E3%83%88%E7%B5%B5%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-reviewimg/diy-16x16dot-display.jpg"&gt;Arduino powered LED Matrixから発見。画像もここから転載。 ドット絵を表示するディスプレイの作例です。
+ドット絵はいまだ人気のあるアートで、これを表示するディスプレイの製品もたくさん存在しますが、これを自作するのも意外と簡単そうです。
+この記事では Arduino Nanoとおなじみのシリアル制御フルカラーLEDであるWS2812Bのストリップを使って結構大き目のドット絵表示用ディスプレイを作っています。
+ドットの見栄えをよくするために3Dプリンタを使って格子状の部品を作っているところがポイントです。﻿</description>
+    </item>
     
     <item>
       <title>Forthが動作する1列ピン接続が特徴的な開発ボード</title>
@@ -114,22 +126,6 @@ MIDI信号を出力し、音楽を奏でることができます。
 カリンバを改造して作られた電子楽器ですが、その仕組みはカリンバとは異なり、静電容量タッチで操作するものとなっています。
 コアはRaspberry Pi Picoを用いています。
  </description>
-    </item>
-    
-    <item>
-      <title>M5Paperを使った電子書籍ビューア</title>
-      <link>https://inajob.github.io/iroiro-review/post/m5paper%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2/</link>
-      <pubDate>Wed, 20 Mar 2024 23:05:22 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/m5paper%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/M5Paperを使った電子書籍ビューア.jpg"&gt;パスコンパスさんのPostから発見。画像もここから転載。
-M5Paperを使った電子書籍ビューアの作例です。 もともとM5Paperの出来がよいところに、このソフトウェアを搭載市ているので、非常にそれっぽい見た目になっています。
-電子書籍端末も自分で作る時代が来るかもしれませんね
-今日の有給の成果
-ここまできたらデジタルガジェットと言えそう
-今週末のの #DGで遊ぼ にも持っていきます
-後、短編とイラストを整理して追加して整えたらデータを公開してみたい#めかとろろ #M5PaperManga pic.twitter.com/h8TlULcxcO
-&amp;mdash; パスコンパス (@pscmps) February 6, 2024  </description>
     </item>
     
   </channel>
