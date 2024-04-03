@@ -15,7 +15,7 @@
       <pubDate>Wed, 03 Apr 2024 23:06:15 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E5%A4%A7%E3%81%8D%E3%81%AA%E3%83%89%E3%83%83%E3%83%88%E7%B5%B5%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-reviewimg/diy-16x16dot-display.jpg"&gt;Arduino powered LED Matrixから発見。画像もここから転載。 ドット絵を表示するディスプレイの作例です。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/diy-16x16dot-display.jpg"&gt;Arduino powered LED Matrixから発見。画像もここから転載。 ドット絵を表示するディスプレイの作例です。
 ドット絵はいまだ人気のあるアートで、これを表示するディスプレイの製品もたくさん存在しますが、これを自作するのも意外と簡単そうです。
 この記事では Arduino Nanoとおなじみのシリアル制御フルカラーLEDであるWS2812Bのストリップを使って結構大き目のドット絵表示用ディスプレイを作っています。
 ドットの見栄えをよくするために3Dプリンタを使って格子状の部品を作っているところがポイントです。﻿</description>
