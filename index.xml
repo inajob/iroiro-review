@@ -5,9 +5,18 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 03 Apr 2024 23:06:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 23:13:47 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP8266を使った小型のデジタルフォトフレーム</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp8266%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%B0%8F%E5%9E%8B%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%95%E3%82%A9%E3%83%88%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0/</link>
+      <pubDate>Thu, 04 Apr 2024 23:13:47 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp8266%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%B0%8F%E5%9E%8B%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%95%E3%82%A9%E3%83%88%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/esp-photoframe.jpg"&gt;A MINIMAL ESP8266 DIGITAL PICTURE FRAMEから発見。画像もここから転載。</description>
+    </item>
     
     <item>
       <title>自作の大きなドット絵表示機</title>
@@ -113,19 +122,6 @@ MIDI信号を出力し、音楽を奏でることができます。
 一世を風靡したWinamp風のオーディオプレイヤーを表示する専用のデバイスをRaspberry Piで作成しています。
 実際にはQMMPというRaspberry Piで動作するオーディオ再生ソフトのスキンの1つを利用しているようです。
 やっていることは素朴にRaspberry Piに小型ディスプレイを取り付けて、このアプリを表示しているだけなので、真似するのは比較的簡単そうです。</description>
-    </item>
-    
-    <item>
-      <title>カリンバを改造した静電容量タッチMIDI楽器</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%AA%E3%83%B3%E3%83%90%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%9F%E9%9D%99%E9%9B%BB%E5%AE%B9%E9%87%8F%E3%82%BF%E3%83%83%E3%83%81midi%E6%A5%BD%E5%99%A8/</link>
-      <pubDate>Thu, 21 Mar 2024 23:22:53 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%AA%E3%83%B3%E3%83%90%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%9F%E9%9D%99%E9%9B%BB%E5%AE%B9%E9%87%8F%E3%82%BF%E3%83%83%E3%83%81midi%E6%A5%BD%E5%99%A8/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/カリンバを改造した静電容量タッチMIDI楽器.jpg"&gt;Thumbs Up To This Pico MIDI Kalimbaから発見。画像もここから転載。
-カリンバを改造した静電容量タッチMIDI楽器の紹介です。
-カリンバを改造して作られた電子楽器ですが、その仕組みはカリンバとは異なり、静電容量タッチで操作するものとなっています。
-コアはRaspberry Pi Picoを用いています。
- </description>
     </item>
     
   </channel>
