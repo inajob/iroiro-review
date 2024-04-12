@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 10 Apr 2024 23:41:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 23:58:23 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MicroPython用の電子ペーパー制御モジュール</title>
+      <link>https://inajob.github.io/iroiro-review/post/micropython%E7%94%A8%E3%81%AE%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E5%88%B6%E5%BE%A1%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Thu, 11 Apr 2024 23:58:23 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/micropython%E7%94%A8%E3%81%AE%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E5%88%B6%E5%BE%A1%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/MicroPython用の電子ペーパー制御モジュール.jpg"&gt;Clever E-Ink Driver Does 32 Levels Of Grey, Avoids Update Flicker, And Moreから発見。画像もここから転載。
+MicroPython用の電子ペーパー制御モジュールを紹介します。 一般的に白黒2色の電子ペーパーでは中間色を表現するためにはディザパターンを用いますが、このライブラリでは電子ペーパー本来の仕様を超えて、中間色の表現もできる機能があるようです。
+Rendering time at 4, 8, 16, 32 colors. pic.twitter.com/KvU9BKmdoW
+&amp;mdash; antirez (@antirez) March 19, 2024  </description>
+    </item>
     
     <item>
       <title>基板パターンを技適に含めることが出来る</title>
@@ -115,17 +127,6 @@ ESP32 を搭載したLyratというボードは、Esspressifが公式に設計�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ピアノの演奏で制御するスマートホーム.jpg"&gt;2024 Home Sweet Home Automation: A Piano-Controlled Smart Homeから発見。画像もここから転載。
 ピアノの演奏で制御するスマートホームの作例です。 Raspberry Piでピアノの入力を読み取り、その入力に合わせて家電を制御しています。
 便利か？と言われると怪しいですが、楽器の演奏で家電をコントロールするのはファンタジーの世界っぽくて面白い試みです。
- </description>
-    </item>
-    
-    <item>
-      <title>カラフルに光る日本刀ガジェット</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%81%AB%E5%85%89%E3%82%8B%E6%97%A5%E6%9C%AC%E5%88%80%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
-      <pubDate>Wed, 27 Mar 2024 23:43:17 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%81%AB%E5%85%89%E3%82%8B%E6%97%A5%E6%9C%AC%E5%88%80%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/カラフルに光る日本刀ガジェット.jpg"&gt;Luminous Katanaから発見。画像もここから転載。
-カラフルに光る日本刀ガジェット 刀身にフルカラーLEDを搭載し、とてもきれいに発光します。 IMUにより動きを検出し、それに合わせて発行パターンを制御しているようです
  </description>
     </item>
     
