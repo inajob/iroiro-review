@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 15 Apr 2024 00:00:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 22:57:37 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32をコアとしたテキストエディタ搭載キーボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF%E6%90%AD%E8%BC%89%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Mon, 15 Apr 2024 22:57:37 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF%E6%90%AD%E8%BC%89%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32をコアとしたテキストエディタ搭載キーボード.jpg"&gt;ESP32 Provides Distraction-Free Writing Experienceから発見。画像もここから転載。
+ESP32をコアとしたテキストエディタ搭載キーボードの作例です。 30%キーボードの間にESP32と液晶を設置して、スタンドアローンで動作する入力端末を実現しています。
+ESP32はWiFiに接続できるので、Google Driveとデータを同期できるようになっていて、実用性も高そうです。
+自分もこういうのを作りたいのですが、日本語も扱えるように・・と考えるとなかなか作るのが大変そうです。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタでレイヤーの切れ目をスムーズにする手法</title>
@@ -116,18 +129,6 @@ Forthの実装は https://flashforth.com/ で、AVRなどでも動くものの�
 数十円で買えるCH32V003でLinuxを動かすという事例です。 CH32V003で直接動かすのではなく、RISC-VのエミュレータをCH32V003上で動かし、その腕Linuxを実行するという仕組みのようです。
 CH32V003はRISC-VのICではありますが、RAMが小さすぎるため、エミュレータを使い外部RAMを利用するというアイデアのようです。
 なお起動には5分くらいかかるらしい</description>
-    </item>
-    
-    <item>
-      <title>ESP32 Lyratボードで作られたボイスアシスタント</title>
-      <link>https://inajob.github.io/iroiro-review/post/esp32-lyrat%E3%83%9C%E3%83%BC%E3%83%89%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%83%9C%E3%82%A4%E3%82%B9%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88/</link>
-      <pubDate>Sun, 31 Mar 2024 22:41:27 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/esp32-lyrat%E3%83%9C%E3%83%BC%E3%83%89%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%83%9C%E3%82%A4%E3%82%B9%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32 Lyratボードで作られたボイスアシスタント.jpg"&gt;Your Voice Assistant Doesn’t Have To Be Cloudyから発見。画像もここから転載。
-ESP32 を搭載したLyratというボードは、Esspressifが公式に設計しているESP32を用いて音楽的な処理をすることを目的としたものです。
-このボードを使うことで、ここで紹介するようなボイスアシスタントを比較的簡単に作ることが出来るようです。
-比較的安価（$20程度？）でGoogleやAmazon、Appleに依存せずにこういう仕組みが作れるのは興味深いです。</description>
     </item>
     
   </channel>
