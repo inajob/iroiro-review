@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+    
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>
+      
+  3Dプリンタでレイヤーの切れ目をスムーズにする手法 &ndash; inajobのいろいろレビュー
+
+    </title>
+    
+    
+    <meta name="description" property="og:description" content="3Dプリンタでレイヤーの切れ目をスムーズにする手法|">
+    
+
+    <meta name="apple-mobile-web-app-title" content="inajobのいろいろレビュー">
+    
+    
+    
+    
+
+    <meta property="og:title" content="3Dプリンタでレイヤーの切れ目をスムーズにする手法 | inajobのいろいろレビュー">
+    <meta property="og:description" content="3Dプリンタでレイヤーの切れ目をスムーズにする手法|">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@ina_ani">
+    <meta name="twitter:creator" content="@ina_ani">
+    <meta name="twitter:title" content="3Dプリンタでレイヤーの切れ目をスムーズにする手法 | inajobのいろいろレビュー">
+    <meta name="twitter:description" content="3Dプリンタでレイヤーの切れ目をスムーズにする手法|">
+    
+    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/3Dプリンタでレイヤーの切れ目をスムーズにする手法.jpg">
+    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/3Dプリンタでレイヤーの切れ目をスムーズにする手法.jpg">
+    
+    
+    <meta name="google-site-verification" content="9Ec1N9kzGZO5Ot91n8zCJnpR-zwh5LsLFMddYpK-w6c" />
+
+    <link rel="stylesheet" href="/iroiro-review/assets/syntax.css">
+    <link rel="stylesheet" href="/iroiro-review/assets/primer-build.css">
+    <link rel="stylesheet" href="/iroiro-review/assets/style.css">
+    <link rel="alternate" type="application/rss+xml" href="https://inajob.github.io/iroiro-review/index.xml" title="RSS2.0" />
+    <style>
+.rect{
+  width:120px;
+  height:120px;
+  object-fit:cover;
+}
+    </style>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+         (adsbygoogle = window.adsbygoogle || []).push({
+              google_ad_client: "ca-pub-4764710583056368",
+              enable_page_level_ads: true
+         });
+    </script>
+  </head>
+
+
+  <body class="bg-gray">
+    <div id="holy" class="container-lg bg-white h-100">
+
+      <div id="header" class="px-1 bg-white">
+        
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-3635234-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-3635234-7');
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PJ1H9LBP33"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PJ1H9LBP33');
+</script>
+
+
+<nav class="UnderlineNav UnderlineNav--right px-2">
+  <a class="UnderlineNav-actions muted-link h2" href="https://inajob.github.io/iroiro-review">
+    inajobのいろいろレビュー
+  </a>
+
+  
+  
+</nav>
+
+<div class="m-3 p-1">
+電子工作・デジタルファブリケーションの海外事例を日本語で紹介するブログです。
+はてブやリツイートしてもらえるととても喜びます。
+Twitter: <a href="http://twitter.com/ina_ani">@ina_ani</a>
+
+<div>
+RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Finajob.github.io%2Firoiro-review%2Findex.xml'  target='blank'><img id='feedlyFollow' src='http://s3.feedly.com/img/follows/feedly-follow-rectangle-volume-medium_2x.png' alt='follow us in feedly' width='71' height='28'></a>
+<a href='https://inajob.github.io/iroiro-review/index.xml'  target='blank'><img src="https://inajob.github.io/iroiro-review/img/rss.png" width="28px" height="28px"></a>
+</div>
+</div>
+
+
+
+      </div>
+
+      <div role="main" id="main" class="holy-main markdown-body px-4 bg-white">
+        
+
+<div class="Subhead">
+  <div class="Subhead-heading">
+    <div class="h1 mt-3 mb-1">3Dプリンタでレイヤーの切れ目をスムーズにする手法</div>
+  </div>
+  <div class="Subhead-description">
+    
+
+
+
+
+<a href='/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">3Dプリンタ</span>
+</a>
+
+<a href='/iroiro-review/tags/hack' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">HACK</span>
+</a>
+
+
+
+    
+    <div class="float-md-right">
+      <span title="Lastmod: 2024-04-15. Published at: 2024-04-15.">
+        
+          Published: 2024-04-15
+        
+      </span>
+    </div>
+    
+  </div>
+</div>
+<article>
+  
+  <section class="pb-6 mb-3 border-bottom">
+    <img src="https://inajob.github.io/iroiro-review/img/3D%e3%83%97%e3%83%aa%e3%83%b3%e3%82%bf%e3%81%a7%e3%83%ac%e3%82%a4%e3%83%a4%e3%83%bc%e3%81%ae%e5%88%87%e3%82%8c%e7%9b%ae%e3%82%92%e3%82%b9%e3%83%a0%e3%83%bc%e3%82%ba%e3%81%ab%e3%81%99%e3%82%8b%e6%89%8b%e6%b3%95.jpg" />
+    <p><a href="https://hackaday.com/2024/03/11/reducing-seams-in-fdm-prints-with-scarf-joint-seams/">Reducing Seams In FDM Prints With Scarf Joint Seams</a>から発見。画像もここから転載。</p>
+<p>3Dプリンタでレイヤー切り替え部分は積層痕に妙な縦線が発生してしまいます。
+これを回避する方法の一つとしては、レイヤー切り替えの位置を層毎にランダムにするなどがありますが、この方法は造形速度が犠牲になります。</p>
+<p>この記事で紹介しているのはレイヤーの切れ目をスムーズにする手法を紹介しています。</p>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/vl0FT339jfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+  </section>
+
+  
+  <a href="/iroiro-review/post/micropython%E7%94%A8%E3%81%AE%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E5%88%B6%E5%BE%A1%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/">
+    <div class="box-shadow-medium mb-3 bg-blue-light border border-blue" style="height:122px;">
+        <div style="float:left;">
+          <img class="rect" src="https://inajob.github.io/iroiro-review/img/MicroPython%e7%94%a8%e3%81%ae%e9%9b%bb%e5%ad%90%e3%83%9a%e3%83%bc%e3%83%91%e3%83%bc%e5%88%b6%e5%be%a1%e3%83%a2%e3%82%b8%e3%83%a5%e3%83%bc%e3%83%ab.jpg" />
+        </div>
+
+        <div class="pb-2 pt-2 px-3" style="margin-left:122px;">
+          ← 前の記事 - MicroPython用の電子ペーパー制御モジュール
+        </div>
+    </div>
+  </a>
+  
+
+  
+
+  
+
+<h3>関連記事</h3>
+<div>
+  
+  <a href="/iroiro-review/post/%E3%82%A6%E3%83%83%E3%83%89%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%81%A7%E5%87%BA%E5%8A%9B%E6%99%82%E3%81%AE%E6%B8%A9%E5%BA%A6%E3%82%92%E5%A4%89%E5%8C%96%E3%81%95%E3%81%9B%E3%81%A6%E5%B9%B4%E8%BC%AA%E3%82%92%E6%8F%8F%E3%81%8F/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/%e3%82%a6%e3%83%83%e3%83%89%e3%83%95%e3%82%a3%e3%83%a9%e3%83%a1%e3%83%b3%e3%83%88%e3%81%a7%e5%87%ba%e5%8a%9b%e6%99%82%e3%81%ae%e6%b8%a9%e5%ba%a6%e3%82%92%e5%a4%89%e5%8c%96%e3%81%95%e3%81%9b%e3%81%a6%e5%b9%b4%e8%bc%aa%e3%82%92%e6%8f%8f%e3%81%8f.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        ウッドフィラメントで出力時の温度を変化させて年輪を描く
+      </div>
+    </div>
+  </a>
+  
+  <a href="/iroiro-review/post/45%E5%82%BE%E3%81%91%E3%81%A63d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E5%BC%B7%E5%BA%A6%E3%82%92%E5%BE%97%E3%82%8B/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/45%c2%b0%e5%82%be%e3%81%91%e3%81%a63D%e3%83%97%e3%83%aa%e3%83%b3%e3%83%88%e3%81%99%e3%82%8b%e3%81%93%e3%81%a8%e3%81%a7%e5%bc%b7%e5%ba%a6%e3%82%92%e5%be%97%e3%82%8b.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        45°傾けて3Dプリントすることで強度を得る
+      </div>
+    </div>
+  </a>
+  
+  <a href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E9%83%A8%E5%93%81%E3%82%92%E7%86%B1%E3%81%A7%E6%BA%B6%E3%81%8B%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A3%E3%81%A4%E3%81%91%E3%82%8B/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/3D%e3%83%97%e3%83%aa%e3%83%b3%e3%83%88%e9%83%a8%e5%93%81%e3%82%92%e7%86%b1%e3%81%a7%e6%ba%b6%e3%81%8b%e3%81%97%e3%81%a6%e3%81%8f%e3%81%a3%e3%81%a4%e3%81%91%e3%82%8b.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        3Dプリント部品を熱で溶かしてくっつける
+      </div>
+    </div>
+  </a>
+  
+  <a href="/iroiro-review/post/%E6%B0%B4%E4%B8%AD%E3%81%A7%E7%A9%8D%E5%B1%A4%E5%BC%8F%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99%E8%A9%A6%E3%81%BF/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/%e6%b0%b4%e4%b8%ad%e3%81%a7%e7%a9%8d%e5%b1%a4%e5%bc%8f%e3%81%ae3D%e3%83%97%e3%83%aa%e3%83%b3%e3%82%bf%e3%82%92%e5%8b%95%e3%81%8b%e3%81%99%e8%a9%a6%e3%81%bf.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        水中で積層式の3Dプリンタを動かす試み
+      </div>
+    </div>
+  </a>
+  
+  <a href="/iroiro-review/post/%E3%83%99%E3%83%83%E3%83%89%E3%81%8C%E5%B9%B3%E9%9D%A2%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E5%86%86%E6%9F%B1%E7%8A%B6%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/%e3%83%99%e3%83%83%e3%83%89%e3%81%8c%e5%b9%b3%e9%9d%a2%e3%81%a7%e3%81%af%e3%81%aa%e3%81%8f%e5%86%86%e6%9f%b1%e7%8a%b6%e3%81%ae3D%e3%83%97%e3%83%aa%e3%83%b3%e3%82%bf.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        ベッドが平面ではなく円柱状の3Dプリンタ
+      </div>
+    </div>
+  </a>
+  
+</div>
+
+
+
+  <section>
+  
+    
+    
+    
+      <div>
+        
+          <a href="https://twitter.com/intent/tweet?hashtags=inajob" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        
+
+        
+          
+          <div id="fb-root"></div>
+          <script>(function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+            fjs.parentNode.insertBefore(js, fjs);
+          }(document, 'script', 'facebook-jssdk'));</script>
+
+          <div class="fb-share-button" 
+            data-href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%81%AE%E5%88%87%E3%82%8C%E7%9B%AE%E3%82%92%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%BA%E3%81%AB%E3%81%99%E3%82%8B%E6%89%8B%E6%B3%95/" 
+            data-layout="button_count">
+          </div>
+        
+
+        
+          <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+        
+
+        
+          <a data-pocket-label="pocket" data-pocket-count="none" class="pocket-btn" data-lang="en"></a>
+          <script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+        
+
+      </div>
+    
+  
+  </section>
+  <section>
+    
+      
+    
+  </section>
+</article>
+
+
+      </div>
+
+      <div id="side" class="pr-1 bg-white">
+        <aside class="pr-3">
+          
+  
+    <div id="toc" class="Box Box--blue mb-3">
+      <b>3Dプリンタでレイヤーの切れ目をスムーズにする手法</b>
+      <nav id="TableOfContents"></nav>
+    </div>
+  
+
+  
+    
+    
+    
+      <div>
+        
+          <a href="https://twitter.com/intent/tweet?hashtags=inajob" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        
+
+        
+          <div class="fb-share-button" 
+            data-href="/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%81%AE%E5%88%87%E3%82%8C%E7%9B%AE%E3%82%92%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%BA%E3%81%AB%E3%81%99%E3%82%8B%E6%89%8B%E6%B3%95/" 
+            data-layout="button_count">
+          </div>
+        
+
+        
+          <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+        
+
+        
+          <a data-pocket-label="pocket" data-pocket-count="none" class="pocket-btn" data-lang="en"></a>
+          <script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+        
+
+      </div>
+    
+  
+
+        </aside>
+      </div>
+
+      <div id="footer" class="pt-2 pb-3 bg-white text-center">
+        
+          <span class="text-small text-gray">
+            
+Contents: ©inajob 2020 ,Theme: ©Qiushi Pan 2018.
+Generated with
+<a href="https://gohugo.io" class="link-gray-dark">Hugo</a> and
+<a href="https://github.com/qqhann/hugo-primer" class="link-gray-dark">Hugo-Primer</a> theme.
+
+          </span>
+        
+      </div>
+    </div>
+
+
+    
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    
+    <script type="text/x-mathjax-config">MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });</script>
+  </body>
+</html>
