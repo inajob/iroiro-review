@@ -5,9 +5,22 @@
     <description>Recent content in RP2040 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 09 Jan 2024 23:27:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 22:33:41 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/rp2040/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RP2040で静電容量タッチを扱う方法</title>
+      <link>https://inajob.github.io/iroiro-review/post/rp2040%E3%81%A7%E9%9D%99%E9%9B%BB%E5%AE%B9%E9%87%8F%E3%82%BF%E3%83%83%E3%83%81%E3%82%92%E6%89%B1%E3%81%86%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Tue, 16 Apr 2024 22:33:41 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/rp2040%E3%81%A7%E9%9D%99%E9%9B%BB%E5%AE%B9%E9%87%8F%E3%82%BF%E3%83%83%E3%83%81%E3%82%92%E6%89%B1%E3%81%86%E6%96%B9%E6%B3%95/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/RP2040で静電容量タッチを扱う方法.jpg"&gt;Give Your Pi Pico Captouch Inputs For All Your Music Needsから発見。画像もここから転載。
+RP2040で静電容量タッチを扱う方法を紹介する記事です。
+Raspberry Pi PicoのGPIOに大きな抵抗を取り付けて、CircuitPythonのtouchioというライブラリを使って静電容量タッチを検出しています。
+仕組みとしては、大きな抵抗を介してGNDに接続された金属の電位の変化を読み取っているようです。
+ </description>
+    </item>
     
     <item>
       <title>オープンソースのRaspberry Pi Pico互換ボード</title>
@@ -123,18 +136,6 @@ Raspberry Pi Picoとよく似たボードがAliExpressなどで販売されて�
 NisePicoと命名。変な位置に製造番号入ってるけどまあいいや、試作だし。
 コンスルーを贅沢にも4本使って検証する。 pic.twitter.com/Ak7OZTvRpX
 &amp;mdash; alg (@alg0002) September 17, 2022  </description>
-    </item>
-    
-    <item>
-      <title>物理スイッチでブートするOSを選択するデバイス</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E7%89%A9%E7%90%86%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%81%A7%E3%83%96%E3%83%BC%E3%83%88%E3%81%99%E3%82%8Bos%E3%82%92%E9%81%B8%E6%8A%9E%E3%81%99%E3%82%8B%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</link>
-      <pubDate>Tue, 31 May 2022 22:05:46 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E7%89%A9%E7%90%86%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%81%A7%E3%83%96%E3%83%BC%E3%83%88%E3%81%99%E3%82%8Bos%E3%82%92%E9%81%B8%E6%8A%9E%E3%81%99%E3%82%8B%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/物理スイッチでブートするOSを選択するデバイス.jpg"&gt;Simple Hardware Switch For OS Dualbooting, Thanks To RP2040から発見。画像もここから転載。
-この記事で紹介しているのは物理スイッチでブートするOSを選択するデバイスです。
-RP2040ボード自体が起動ディスクとして振舞い、スイッチの状態に応じてgrubの設定ファイルがさし変得ているようです。
-最近のマイクロコントローラはUSBマスストレージデバイスとして振る舞うことができるので、このようなガジェットが作りやすくなったようです。</description>
     </item>
     
   </channel>

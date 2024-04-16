@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+    
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>
+      
+  RP2040で静電容量タッチを扱う方法 &ndash; inajobのいろいろレビュー
+
+    </title>
+    
+    
+    <meta name="description" property="og:description" content="RP2040で静電容量タッチを扱う方法|">
+    
+
+    <meta name="apple-mobile-web-app-title" content="inajobのいろいろレビュー">
+    
+    
+    
+    
+
+    <meta property="og:title" content="RP2040で静電容量タッチを扱う方法 | inajobのいろいろレビュー">
+    <meta property="og:description" content="RP2040で静電容量タッチを扱う方法|">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@ina_ani">
+    <meta name="twitter:creator" content="@ina_ani">
+    <meta name="twitter:title" content="RP2040で静電容量タッチを扱う方法 | inajobのいろいろレビュー">
+    <meta name="twitter:description" content="RP2040で静電容量タッチを扱う方法|">
+    
+    <meta property="og:image" content="https://inajob.github.io/iroiro-review/img/RP2040で静電容量タッチを扱う方法.jpg">
+    <meta name="twitter:image" content="https://inajob.github.io/iroiro-review/img/RP2040で静電容量タッチを扱う方法.jpg">
+    
+    
+    <meta name="google-site-verification" content="9Ec1N9kzGZO5Ot91n8zCJnpR-zwh5LsLFMddYpK-w6c" />
+
+    <link rel="stylesheet" href="/iroiro-review/assets/syntax.css">
+    <link rel="stylesheet" href="/iroiro-review/assets/primer-build.css">
+    <link rel="stylesheet" href="/iroiro-review/assets/style.css">
+    <link rel="alternate" type="application/rss+xml" href="https://inajob.github.io/iroiro-review/index.xml" title="RSS2.0" />
+    <style>
+.rect{
+  width:120px;
+  height:120px;
+  object-fit:cover;
+}
+    </style>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+         (adsbygoogle = window.adsbygoogle || []).push({
+              google_ad_client: "ca-pub-4764710583056368",
+              enable_page_level_ads: true
+         });
+    </script>
+  </head>
+
+
+  <body class="bg-gray">
+    <div id="holy" class="container-lg bg-white h-100">
+
+      <div id="header" class="px-1 bg-white">
+        
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-3635234-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-3635234-7');
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PJ1H9LBP33"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PJ1H9LBP33');
+</script>
+
+
+<nav class="UnderlineNav UnderlineNav--right px-2">
+  <a class="UnderlineNav-actions muted-link h2" href="https://inajob.github.io/iroiro-review">
+    inajobのいろいろレビュー
+  </a>
+
+  
+  
+</nav>
+
+<div class="m-3 p-1">
+電子工作・デジタルファブリケーションの海外事例を日本語で紹介するブログです。
+はてブやリツイートしてもらえるととても喜びます。
+Twitter: <a href="http://twitter.com/ina_ani">@ina_ani</a>
+
+<div>
+RSS購読はこちら： <a href='https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Finajob.github.io%2Firoiro-review%2Findex.xml'  target='blank'><img id='feedlyFollow' src='http://s3.feedly.com/img/follows/feedly-follow-rectangle-volume-medium_2x.png' alt='follow us in feedly' width='71' height='28'></a>
+<a href='https://inajob.github.io/iroiro-review/index.xml'  target='blank'><img src="https://inajob.github.io/iroiro-review/img/rss.png" width="28px" height="28px"></a>
+</div>
+</div>
+
+
+
+      </div>
+
+      <div role="main" id="main" class="holy-main markdown-body px-4 bg-white">
+        
+
+<div class="Subhead">
+  <div class="Subhead-heading">
+    <div class="h1 mt-3 mb-1">RP2040で静電容量タッチを扱う方法</div>
+  </div>
+  <div class="Subhead-description">
+    
+
+
+
+
+<a href='/iroiro-review/tags/rp2040' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">RP2040</span>
+</a>
+
+<a href='/iroiro-review/tags/raspberry-pi-pico' class="muted-link">
+  <span class="Label" style="background-color:#0099dd;">Raspberry Pi Pico</span>
+</a>
+
+
+
+    
+    <div class="float-md-right">
+      <span title="Lastmod: 2024-04-16. Published at: 2024-04-16.">
+        
+          Published: 2024-04-16
+        
+      </span>
+    </div>
+    
+  </div>
+</div>
+<article>
+  
+  <section class="pb-6 mb-3 border-bottom">
+    <img src="https://inajob.github.io/iroiro-review/img/RP2040%e3%81%a7%e9%9d%99%e9%9b%bb%e5%ae%b9%e9%87%8f%e3%82%bf%e3%83%83%e3%83%81%e3%82%92%e6%89%b1%e3%81%86%e6%96%b9%e6%b3%95.jpg" />
+    <p><a href="https://hackaday.com/2024/03/31/give-your-pi-pico-captouch-inputs-for-all-your-music-needs/">Give Your Pi Pico Captouch Inputs For All Your Music Needs</a>から発見。画像もここから転載。</p>
+<p>RP2040で静電容量タッチを扱う方法を紹介する記事です。</p>
+<p>Raspberry Pi PicoのGPIOに大きな抵抗を取り付けて、CircuitPythonのtouchioというライブラリを使って静電容量タッチを検出しています。</p>
+<p>仕組みとしては、大きな抵抗を介してGNDに接続された金属の電位の変化を読み取っているようです。</p>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Q9i8HVx6XiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+  </section>
+
+  
+  <a href="/iroiro-review/post/esp32%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF%E6%90%AD%E8%BC%89%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/">
+    <div class="box-shadow-medium mb-3 bg-blue-light border border-blue" style="height:122px;">
+        <div style="float:left;">
+          <img class="rect" src="https://inajob.github.io/iroiro-review/img/ESP32%e3%82%92%e3%82%b3%e3%82%a2%e3%81%a8%e3%81%97%e3%81%9f%e3%83%86%e3%82%ad%e3%82%b9%e3%83%88%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e6%90%ad%e8%bc%89%e3%82%ad%e3%83%bc%e3%83%9c%e3%83%bc%e3%83%89.jpg" />
+        </div>
+
+        <div class="pb-2 pt-2 px-3" style="margin-left:122px;">
+          ← 前の記事 - ESP32をコアとしたテキストエディタ搭載キーボード
+        </div>
+    </div>
+  </a>
+  
+
+  
+
+  
+
+<h3>関連記事</h3>
+<div>
+  
+  <a href="/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AEraspberry-pi-pico%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e3%82%bd%e3%83%bc%e3%82%b9%e3%81%aeRaspberry%20Pi%20Pico%e4%ba%92%e6%8f%9b%e3%83%9c%e3%83%bc%e3%83%89.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        オープンソースのRaspberry Pi Pico互換ボード
+      </div>
+    </div>
+  </a>
+  
+  <a href="/iroiro-review/post/%E5%BE%AE%E5%A6%99%E3%81%AB%E9%81%95%E3%81%86%E3%83%94%E3%83%B3%E9%85%8D%E7%BD%AE%E3%81%AErp2040%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AE%E3%83%94%E3%83%B3%E9%85%8D%E7%BD%AE%E3%82%92%E6%AD%A3%E3%81%99%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/%e5%be%ae%e5%a6%99%e3%81%ab%e9%81%95%e3%81%86%e3%83%94%e3%83%b3%e9%85%8d%e7%bd%ae%e3%81%aeRP2040%e3%83%9c%e3%83%bc%e3%83%89%e3%81%ae%e3%83%94%e3%83%b3%e9%85%8d%e7%bd%ae%e3%82%92%e6%ad%a3%e3%81%99%e3%82%a2%e3%83%80%e3%83%97%e3%82%bf.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        微妙に違うピン配置のRP2040ボードのピン配置を正すアダプタ
+      </div>
+    </div>
+  </a>
+  
+  <a href="/iroiro-review/post/gps%E6%90%AD%E8%BC%89%E3%81%AE%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E8%87%AA%E8%BB%A2%E8%BB%8A%E7%94%A8%E3%83%8A%E3%83%93/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/GPS%e6%90%ad%e8%bc%89%e3%81%ae%e3%82%b7%e3%83%b3%e3%83%97%e3%83%ab%e3%81%aa%e8%87%aa%e8%bb%a2%e8%bb%8a%e7%94%a8%e3%83%8a%e3%83%93.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        GPS搭載のシンプルな自転車用ナビ
+      </div>
+    </div>
+  </a>
+  
+  <a href="/iroiro-review/post/pic%E3%83%A9%E3%82%A4%E3%82%BF%E3%83%BC%E3%81%A8%E3%81%97%E3%81%A6raspberry-pi-pico%E3%82%92%E4%BD%BF%E3%81%86/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/PIC%e3%83%a9%e3%82%a4%e3%82%bf%e3%83%bc%e3%81%a8%e3%81%97%e3%81%a6Raspberry%20Pi%20Pico%e3%82%92%e4%bd%bf%e3%81%86.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        PICライターとしてRaspberry Pi Picoを使う
+      </div>
+    </div>
+  </a>
+  
+  <a href="/iroiro-review/post/raspberry-pi-pico%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F8%E3%83%88%E3%83%A9%E3%83%83%E3%82%AFmidi%E3%82%B7%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%B5/">
+    <div class="box-shadow-medium mb-3 bg-green-light border border-green" style="height:122px;">
+      <div style="float:left;">
+        <img class="rect" src="https://inajob.github.io/iroiro-review/img/Raspberry%20Pi%20Pico%e3%82%92%e3%82%b3%e3%82%a2%e3%81%a8%e3%81%97%e3%81%9f8%e3%83%88%e3%83%a9%e3%83%83%e3%82%afMIDI%e3%82%b7%e3%83%bc%e3%82%b1%e3%83%b3%e3%82%b5.jpg" />
+      </div>
+      <div class="pb-2 pt-2 px-3" style="margin-left:120px;">
+        Raspberry Pi Picoをコアとした8トラックMIDIシーケンサ
+      </div>
+    </div>
+  </a>
+  
+</div>
+
+
+
+  <section>
+  
+    
+    
+    
+      <div>
+        
+          <a href="https://twitter.com/intent/tweet?hashtags=inajob" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        
+
+        
+          
+          <div id="fb-root"></div>
+          <script>(function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+            fjs.parentNode.insertBefore(js, fjs);
+          }(document, 'script', 'facebook-jssdk'));</script>
+
+          <div class="fb-share-button" 
+            data-href="/iroiro-review/post/rp2040%E3%81%A7%E9%9D%99%E9%9B%BB%E5%AE%B9%E9%87%8F%E3%82%BF%E3%83%83%E3%83%81%E3%82%92%E6%89%B1%E3%81%86%E6%96%B9%E6%B3%95/" 
+            data-layout="button_count">
+          </div>
+        
+
+        
+          <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+        
+
+        
+          <a data-pocket-label="pocket" data-pocket-count="none" class="pocket-btn" data-lang="en"></a>
+          <script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+        
+
+      </div>
+    
+  
+  </section>
+  <section>
+    
+      
+    
+  </section>
+</article>
+
+
+      </div>
+
+      <div id="side" class="pr-1 bg-white">
+        <aside class="pr-3">
+          
+  
+    <div id="toc" class="Box Box--blue mb-3">
+      <b>RP2040で静電容量タッチを扱う方法</b>
+      <nav id="TableOfContents"></nav>
+    </div>
+  
+
+  
+    
+    
+    
+      <div>
+        
+          <a href="https://twitter.com/intent/tweet?hashtags=inajob" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        
+
+        
+          <div class="fb-share-button" 
+            data-href="/iroiro-review/post/rp2040%E3%81%A7%E9%9D%99%E9%9B%BB%E5%AE%B9%E9%87%8F%E3%82%BF%E3%83%83%E3%83%81%E3%82%92%E6%89%B1%E3%81%86%E6%96%B9%E6%B3%95/" 
+            data-layout="button_count">
+          </div>
+        
+
+        
+          <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+        
+
+        
+          <a data-pocket-label="pocket" data-pocket-count="none" class="pocket-btn" data-lang="en"></a>
+          <script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+        
+
+      </div>
+    
+  
+
+        </aside>
+      </div>
+
+      <div id="footer" class="pt-2 pb-3 bg-white text-center">
+        
+          <span class="text-small text-gray">
+            
+Contents: ©inajob 2020 ,Theme: ©Qiushi Pan 2018.
+Generated with
+<a href="https://gohugo.io" class="link-gray-dark">Hugo</a> and
+<a href="https://github.com/qqhann/hugo-primer" class="link-gray-dark">Hugo-Primer</a> theme.
+
+          </span>
+        
+      </div>
+    </div>
+
+
+    
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    
+    <script type="text/x-mathjax-config">MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });</script>
+  </body>
+</html>

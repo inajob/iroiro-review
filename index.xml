@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 15 Apr 2024 22:57:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 22:33:41 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RP2040で静電容量タッチを扱う方法</title>
+      <link>https://inajob.github.io/iroiro-review/post/rp2040%E3%81%A7%E9%9D%99%E9%9B%BB%E5%AE%B9%E9%87%8F%E3%82%BF%E3%83%83%E3%83%81%E3%82%92%E6%89%B1%E3%81%86%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Tue, 16 Apr 2024 22:33:41 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/rp2040%E3%81%A7%E9%9D%99%E9%9B%BB%E5%AE%B9%E9%87%8F%E3%82%BF%E3%83%83%E3%83%81%E3%82%92%E6%89%B1%E3%81%86%E6%96%B9%E6%B3%95/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/RP2040で静電容量タッチを扱う方法.jpg"&gt;Give Your Pi Pico Captouch Inputs For All Your Music Needsから発見。画像もここから転載。
+RP2040で静電容量タッチを扱う方法を紹介する記事です。
+Raspberry Pi PicoのGPIOに大きな抵抗を取り付けて、CircuitPythonのtouchioというライブラリを使って静電容量タッチを検出しています。
+仕組みとしては、大きな抵抗を介してGNDに接続された金属の電位の変化を読み取っているようです。
+ </description>
+    </item>
     
     <item>
       <title>ESP32をコアとしたテキストエディタ搭載キーボード</title>
@@ -117,18 +130,6 @@ TWELITEを実装する親基板にアンテナパターンを形成すること�
 Forthが動作する1列ピン接続が特徴的な開発ボードです。 コアはPIC24F64GB204で、かなりパワフルです。
 Forthの実装は https://flashforth.com/ で、AVRなどでも動くもののようです。
  </description>
-    </item>
-    
-    <item>
-      <title>数十円で買えるCH32V003でLinuxを動かす</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%95%B0%E5%8D%81%E5%86%86%E3%81%A7%E8%B2%B7%E3%81%88%E3%82%8Bch32v003%E3%81%A7linux%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</link>
-      <pubDate>Mon, 01 Apr 2024 23:31:01 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%95%B0%E5%8D%81%E5%86%86%E3%81%A7%E8%B2%B7%E3%81%88%E3%82%8Bch32v003%E3%81%A7linux%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/数十円で買えるCH32V003でLinuxを動かす.jpg"&gt;Bring Linux To CH32V003 Through, Yes, RISC-V Emulationから発見。画像もここから転載。
-数十円で買えるCH32V003でLinuxを動かすという事例です。 CH32V003で直接動かすのではなく、RISC-VのエミュレータをCH32V003上で動かし、その腕Linuxを実行するという仕組みのようです。
-CH32V003はRISC-VのICではありますが、RAMが小さすぎるため、エミュレータを使い外部RAMを利用するというアイデアのようです。
-なお起動には5分くらいかかるらしい</description>
     </item>
     
   </channel>
