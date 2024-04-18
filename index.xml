@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 17 Apr 2024 23:54:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 23:57:31 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>壁に飾ることのできる600ドットのドットマトリクス表示機</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%A3%81%E3%81%AB%E9%A3%BE%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AE%E3%81%A7%E3%81%8D%E3%82%8B600%E3%83%89%E3%83%83%E3%83%88%E3%81%AE%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
+      <pubDate>Thu, 18 Apr 2024 23:57:31 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%A3%81%E3%81%AB%E9%A3%BE%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AE%E3%81%A7%E3%81%8D%E3%82%8B600%E3%83%89%E3%83%83%E3%83%88%E3%81%AE%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/壁に飾ることのできる600ドットのドットマトリクス表示機.jpg"&gt;Pixel Board 2.0から発見。画像もここから転載。
+壁に飾ることのできる600pxのドットマトリクス表示機の作例です。
+時計を表示したり、簡単なゲームを実行したりと、解像度は粗いですが、家の壁にこういう表示器があると楽しそうだなと思いました。</description>
+    </item>
     
     <item>
       <title>ドットマトリクス畳ディスプレイ</title>
@@ -120,18 +131,6 @@ TWELITEを実装する親基板にアンテナパターンを形成すること�
       
       <guid>https://inajob.github.io/iroiro-review/post/esp8266%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%B0%8F%E5%9E%8B%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%95%E3%82%A9%E3%83%88%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/esp-photoframe.jpg"&gt;A MINIMAL ESP8266 DIGITAL PICTURE FRAMEから発見。画像もここから転載。</description>
-    </item>
-    
-    <item>
-      <title>自作の大きなドット絵表示機</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E5%A4%A7%E3%81%8D%E3%81%AA%E3%83%89%E3%83%83%E3%83%88%E7%B5%B5%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
-      <pubDate>Wed, 03 Apr 2024 23:06:15 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E5%A4%A7%E3%81%8D%E3%81%AA%E3%83%89%E3%83%83%E3%83%88%E7%B5%B5%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/diy-16x16dot-display.jpg"&gt;Arduino powered LED Matrixから発見。画像もここから転載。 ドット絵を表示するディスプレイの作例です。
-ドット絵はいまだ人気のあるアートで、これを表示するディスプレイの製品もたくさん存在しますが、これを自作するのも意外と簡単そうです。
-この記事では Arduino Nanoとおなじみのシリアル制御フルカラーLEDであるWS2812Bのストリップを使って結構大き目のドット絵表示用ディスプレイを作っています。
-ドットの見栄えをよくするために3Dプリンタを使って格子状の部品を作っているところがポイントです。﻿</description>
     </item>
     
   </channel>
