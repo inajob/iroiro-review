@@ -5,9 +5,21 @@
     <description>Recent content in OLED on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 25 Sep 2023 23:33:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 23:16:28 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/oled/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OLEDを2つ搭載したESP32開発ボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/oled%E3%82%922%E3%81%A4%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fesp32%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Sun, 21 Apr 2024 23:16:28 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/oled%E3%82%922%E3%81%A4%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fesp32%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/OLEDを2つ搭載したESP32開発ボード.jpg"&gt;D-duino-32 II Dual Screen by Travis Lin on Tindieから発見。画像もここから転載。
+OLEDを2つ搭載したESP32開発ボードです。 RTCやバッテリー、SDカードなど、便利そうな機能が盛りだくさんです。
+2つのOLEDを搭載したボードはあまり見かけませんが、意外と便利そうです。
+ </description>
+    </item>
     
     <item>
       <title>0.42インチのOLEDにレンズが付いたもの</title>
@@ -127,20 +139,6 @@ Very happy about this. pic.twitter.com/1FofmKbqJP
 ということでこの記事で紹介しているのは3Dプリンタ製のマスクです。 まぁ、ウイルス防止のマスクというよりは、ゴーグル的なものですが、目の部分に透明OLEDが埋め込まれているのが特徴です。
 これによりSFのキャラクターのようなユニークな見た目を演出しています。
 コアとなるボードはESP32で、スマートフォンのアプリを使って目のアニメーションを切り替えることができます。
- </description>
-    </item>
-    
-    <item>
-      <title>128x32サイズの液晶を搭載した非常にコンパクトなゲーム機</title>
-      <link>https://inajob.github.io/iroiro-review/post/128x32%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E6%B6%B2%E6%99%B6%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E9%9D%9E%E5%B8%B8%E3%81%AB%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
-      <pubDate>Mon, 30 May 2022 22:13:43 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/128x32%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E6%B6%B2%E6%99%B6%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E9%9D%9E%E5%B8%B8%E3%81%AB%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/128x32サイズの液晶を搭載した非常にコンパクトなゲーム機.jpg"&gt;Game &amp;amp; Light Brings Video Games To Your Keychainから発見。画像もここから転載。
-128x32サイズの液晶を搭載した非常にコンパクトなゲーム機です。 コアとなるマイコンはATtiny402 で、OLEDとはI2Cで接続されています。
-電源はスーパーキャパシタを用いており、5分程度で満充電し、40分ほど遊べるようです。
-筐体は3Dプリンタで作られておりクリップ式で服のポケットに付けられるような造形が良いです。
-Tindieで販売されているようです。
  </description>
     </item>
     
