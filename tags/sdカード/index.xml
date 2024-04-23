@@ -5,9 +5,20 @@
     <description>Recent content in SDカード on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 29 Aug 2022 23:31:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 23:54:20 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/sd%E3%82%AB%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MicroSDカードサイズのFPGAモジュール</title>
+      <link>https://inajob.github.io/iroiro-review/post/microsd%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AEfpga%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Tue, 23 Apr 2024 23:54:20 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/microsd%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AEfpga%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/MicroSDカードサイズのFPGAモジュール.jpg"&gt;Signaloid’s New FPGA Board Comes in a microSD Form Factor - Electronics-Lab.comから発見。画像もここから転載。
+MicroSDカードサイズのFPGAモジュールです。 これを使って何ができるのか・・考えてみると面白そうです。
+記事によるとこのモジュールは非バイナリのデータを扱うプロセッサとして活用するために作られたようです。 （よく理解していないですが、確率分布の情報をそのまま計算に利用できる、と言ったものらしいです）</description>
+    </item>
     
     <item>
       <title>ブートディスクであるSDカードの内容を別のPCからも読み書きできるようにするアダプタ</title>
