@@ -5,9 +5,18 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 24 Apr 2024 23:49:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 23:55:18 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>表面実装</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85/</link>
+      <pubDate>Thu, 25 Apr 2024 23:55:18 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>透明OLED</title>
@@ -87,15 +96,6 @@
       <pubDate>Wed, 17 Apr 2024 23:54:57 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>Raspberry Pi Pico</title>
-      <link>https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico/</link>
-      <pubDate>Tue, 16 Apr 2024 22:33:41 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     

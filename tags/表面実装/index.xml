@@ -5,9 +5,23 @@
     <description>Recent content in 表面実装 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 15 Dec 2023 00:05:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 23:55:18 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>表面実装部品を手はんだでうまいこと実装する手法</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85%E9%83%A8%E5%93%81%E3%82%92%E6%89%8B%E3%81%AF%E3%82%93%E3%81%A0%E3%81%A7%E3%81%86%E3%81%BE%E3%81%84%E3%81%93%E3%81%A8%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B%E6%89%8B%E6%B3%95/</link>
+      <pubDate>Thu, 25 Apr 2024 23:55:18 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85%E9%83%A8%E5%93%81%E3%82%92%E6%89%8B%E3%81%AF%E3%82%93%E3%81%A0%E3%81%A7%E3%81%86%E3%81%BE%E3%81%84%E3%81%93%E3%81%A8%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B%E6%89%8B%E6%B3%95/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/表面実装部品を手はんだでうまいこと実装する手法.jpg"&gt;SMD Soldering, Without The Blobsから発見。画像もここから転載。
+表面実装部品をはんだ付けする際、リフローやホットエアーガンを使う方法が良く紹介されますが、この記事で紹介しているのは、はんだごてを使った方法です。
+まず片方のパッドにはんだを乗せて、その後部品を乗せて、まずは片足をはんだ付けして、その後反対側もはんだ付けするという手法です。
+2つ以上足のある部品でも同様に1つ目のパッドを固定し、その後、残りのピンをはんだ付けすることで、うまく実装できるようです。
+自分も少数の部品の基板では、この手法ではんだ付けしています。
+ </description>
+    </item>
     
     <item>
       <title>ポゴピンで作られた表面実装部品用テスター</title>
