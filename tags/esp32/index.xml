@@ -5,9 +5,23 @@
     <description>Recent content in ESP32 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 21 Apr 2024 23:16:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 00:04:46 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/esp32/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32を使った静電容量40%タッチキーボード付き端末</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E9%9D%99%E9%9B%BB%E5%AE%B9%E9%87%8F40%E3%82%BF%E3%83%83%E3%83%81%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8D%E7%AB%AF%E6%9C%AB/</link>
+      <pubDate>Tue, 30 Apr 2024 00:04:46 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E9%9D%99%E9%9B%BB%E5%AE%B9%E9%87%8F40%E3%82%BF%E3%83%83%E3%83%81%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8D%E7%AB%AF%E6%9C%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32を使った静電容量40%タッチキーボード付き端末.jpg"&gt;Kevin BatesさんのPostから発見。画像もここから転載。
+ESP32を使った静電容量40%タッチキーボード付き端末の作例です。 作者はArduboyの開発者であるKevinさんです。
+ESP32-S3には14個の静電容量タッチセンサーが付いているので、このように40個のキーを実現できるようです。
+まだまだ試作品ということのようですが、もしかしたらこれもArduboyのように製品になるかもしれません。
+Hello World! Esp 32, 320x172 IPS LCD SSD7789, 3x neopixel, Qwiic connector, push on hold off power switch, 40 key cap touch matrix. pic.twitter.com/kOypa3fb1k
+&amp;mdash; Kevin Bates (@bateskecom) March 13, 2024  </description>
+    </item>
     
     <item>
       <title>OLEDを2つ搭載したESP32開発ボード</title>
@@ -116,17 +130,6 @@ ESP32と大きめのタッチ機能付きLCDを搭載した格安の基板で有
 電子ペーパーを用いたフチなしの情報板の作例です。コアとなる開発ボードはESP32-S2-MINIです。
 以前薄くフチなしの筐体が印象的な電子ペーパー天気表示機 で紹介したものと非常によく似ていますが、独立した作例のようです。
 見栄えが非常に良いので、近いうちにこういう製品が出てくるのでは？と予想しています。</description>
-    </item>
-    
-    <item>
-      <title>2000年代を思い出させるオープンソースの音楽プレーヤー</title>
-      <link>https://inajob.github.io/iroiro-review/post/2000%E5%B9%B4%E4%BB%A3%E3%82%92%E6%80%9D%E3%81%84%E5%87%BA%E3%81%95%E3%81%9B%E3%82%8B%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E9%9F%B3%E6%A5%BD%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC/</link>
-      <pubDate>Tue, 24 Oct 2023 21:13:30 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/2000%E5%B9%B4%E4%BB%A3%E3%82%92%E6%80%9D%E3%81%84%E5%87%BA%E3%81%95%E3%81%9B%E3%82%8B%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E9%9F%B3%E6%A5%BD%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/2000年代を思い出させるオープンソースの音楽プレーヤー.jpg"&gt;Tangaraから発見。画像もここから転載。
-2000年代を思い出させるオープンソースの音楽プレーヤーのクラウドファンディングプロジェクトです。
-中身はESP32、DACとしてWM8523、アンプにINA1620を採用しています。 オープンソースで開発が進められているため、カスタマイズは容易そうです。</description>
     </item>
     
   </channel>
