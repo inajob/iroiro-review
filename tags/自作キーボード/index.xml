@@ -5,9 +5,21 @@
     <description>Recent content in 自作キーボード on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 15 Feb 2024 23:30:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 00:09:16 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ひらがなを同時押しで入力できるキーボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%B2%E3%82%89%E3%81%8C%E3%81%AA%E3%82%92%E5%90%8C%E6%99%82%E6%8A%BC%E3%81%97%E3%81%A7%E5%85%A5%E5%8A%9B%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Thu, 02 May 2024 00:09:16 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%B2%E3%82%89%E3%81%8C%E3%81%AA%E3%82%92%E5%90%8C%E6%99%82%E6%8A%BC%E3%81%97%E3%81%A7%E5%85%A5%E5%8A%9B%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ひらがなを同時押しで入力できるキーボード.jpg"&gt;KanaChord Is A Macro Pad For Japanese Inputから発見。画像もここから転載。
+ひらがなを同時押しで入力できるキーボードの作例です。 一般的なキーボードとは異なり、左手で子音、右手で母音を押すことでひらがなを入力できるようにしています。
+Raspberry Pi Picoを使って制御されており、日本語はUnicodeとしてOSに送られるようです。 （Unicodeから日本をを入力す方法はOSごとに色々工夫が必要そうです)
+キーキャップも半透明となっており、キーの入力状況に応じて色が光るというギミックも面白いです。</description>
+    </item>
     
     <item>
       <title>マニキュアトップコートが美しいコンパクトなキーボード</title>
@@ -120,17 +132,6 @@ Raspberry Pi Picoを使ったとても小さなキーボード。小さいけど
 しかしこれは、相当小さいですね・・
 前にも同じような構成のキーボードを紹介しました。
  </description>
-    </item>
-    
-    <item>
-      <title>SDカードに設定を保存できるマクロパッド</title>
-      <link>https://inajob.github.io/iroiro-review/post/sd%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AB%E8%A8%AD%E5%AE%9A%E3%82%92%E4%BF%9D%E5%AD%98%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%91%E3%83%83%E3%83%89/</link>
-      <pubDate>Mon, 07 Aug 2023 23:33:46 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/sd%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AB%E8%A8%AD%E5%AE%9A%E3%82%92%E4%BF%9D%E5%AD%98%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%91%E3%83%83%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/SDカードに設定を保存できるマクロパッド.jpg"&gt;Console Macropad Uses SD Cards For Stylin’ And Profilin’から発見。画像もここから転載。
-キーボードのお供として利用できるマクロパッドの作例です。 マクロパッドは、アプリケーション用にカスタマイズすることでその進化を発揮します。
-複数のアプリケーションに対応したマクロパッドの中には、ソフトに応じてキーのプリセットを変更できるものも有り、この作例もそういったマクロパッドです。 特にこのマクロパッドはSDカードに設定を記録できるという特徴を持っており、各キーの役割や点灯色、OLEDへの表示内容などをテキストファイルでSDカードに入れておくことで、プリセットを設定し、またそれらを切り替えて利用できます。</description>
     </item>
     
   </channel>

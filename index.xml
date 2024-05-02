@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 30 Apr 2024 23:51:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 00:09:16 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ひらがなを同時押しで入力できるキーボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%B2%E3%82%89%E3%81%8C%E3%81%AA%E3%82%92%E5%90%8C%E6%99%82%E6%8A%BC%E3%81%97%E3%81%A7%E5%85%A5%E5%8A%9B%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Thu, 02 May 2024 00:09:16 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%B2%E3%82%89%E3%81%8C%E3%81%AA%E3%82%92%E5%90%8C%E6%99%82%E6%8A%BC%E3%81%97%E3%81%A7%E5%85%A5%E5%8A%9B%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ひらがなを同時押しで入力できるキーボード.jpg"&gt;KanaChord Is A Macro Pad For Japanese Inputから発見。画像もここから転載。
+ひらがなを同時押しで入力できるキーボードの作例です。 一般的なキーボードとは異なり、左手で子音、右手で母音を押すことでひらがなを入力できるようにしています。
+Raspberry Pi Picoを使って制御されており、日本語はUnicodeとしてOSに送られるようです。 （Unicodeから日本をを入力す方法はOSごとに色々工夫が必要そうです)
+キーキャップも半透明となっており、キーの入力状況に応じて色が光るというギミックも面白いです。</description>
+    </item>
     
     <item>
       <title>ESP32-S3をコアとしたメモ書き専用端末</title>
@@ -119,19 +131,6 @@ OLEDを2つ搭載したESP32開発ボードです。 RTCやバッテリー、SD�
 丸い畳を回転させることで光の反射で色を変化させる、畳のディスプレイを作りました！
 モーターの動きがかなり良い感じ。6月29日からの名古屋展覧会で披露します！#慶應義塾大学理工学部杉浦裕太研究室#タタピクセル pic.twitter.com/iS7NJHq8Ft
 &amp;mdash; すごい畳 〜無断転載OK〜🇯🇵 (@japanese_floor) April 5, 2024  </description>
-    </item>
-    
-    <item>
-      <title>RP2040で静電容量タッチを扱う方法</title>
-      <link>https://inajob.github.io/iroiro-review/post/rp2040%E3%81%A7%E9%9D%99%E9%9B%BB%E5%AE%B9%E9%87%8F%E3%82%BF%E3%83%83%E3%83%81%E3%82%92%E6%89%B1%E3%81%86%E6%96%B9%E6%B3%95/</link>
-      <pubDate>Tue, 16 Apr 2024 22:33:41 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/rp2040%E3%81%A7%E9%9D%99%E9%9B%BB%E5%AE%B9%E9%87%8F%E3%82%BF%E3%83%83%E3%83%81%E3%82%92%E6%89%B1%E3%81%86%E6%96%B9%E6%B3%95/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/RP2040で静電容量タッチを扱う方法.jpg"&gt;Give Your Pi Pico Captouch Inputs For All Your Music Needsから発見。画像もここから転載。
-RP2040で静電容量タッチを扱う方法を紹介する記事です。
-Raspberry Pi PicoのGPIOに大きな抵抗を取り付けて、CircuitPythonのtouchioというライブラリを使って静電容量タッチを検出しています。
-仕組みとしては、大きな抵抗を介してGNDに接続された金属の電位の変化を読み取っているようです。
- </description>
     </item>
     
   </channel>
