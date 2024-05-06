@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 02 May 2024 00:09:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 23:43:51 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>時計の文字盤を基板として作る</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%99%82%E8%A8%88%E3%81%AE%E6%96%87%E5%AD%97%E7%9B%A4%E3%82%92%E5%9F%BA%E6%9D%BF%E3%81%A8%E3%81%97%E3%81%A6%E4%BD%9C%E3%82%8B/</link>
+      <pubDate>Mon, 06 May 2024 23:43:51 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%99%82%E8%A8%88%E3%81%AE%E6%96%87%E5%AD%97%E7%9B%A4%E3%82%92%E5%9F%BA%E6%9D%BF%E3%81%A8%E3%81%97%E3%81%A6%E4%BD%9C%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/時計の文字盤を基板として作る.jpg"&gt;Fabbing A Fab New Watch Faceから発見。画像もここから転載。
+プリント基板というのはある程度の厚さの板に銅箔パターンやモノクロ印刷したものと捉えることができ、回路だけでなくちょっと変わった名刺などの作例も見かけることがあります。
+そのような路線の作品として、この記事では時計の文字盤を基板として作成しています。
+白黒2値の印刷であればこのような用途で基板を発注するのは、場合によってはリーズナブルとなりそうです。</description>
+    </item>
     
     <item>
       <title>ひらがなを同時押しで入力できるキーボード</title>
@@ -117,20 +129,6 @@ OLEDを2つ搭載したESP32開発ボードです。 RTCやバッテリー、SD�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/壁に飾ることのできる600ドットのドットマトリクス表示機.jpg"&gt;Pixel Board 2.0から発見。画像もここから転載。
 壁に飾ることのできる600pxのドットマトリクス表示機の作例です。
 時計を表示したり、簡単なゲームを実行したりと、解像度は粗いですが、家の壁にこういう表示器があると楽しそうだなと思いました。</description>
-    </item>
-    
-    <item>
-      <title>ドットマトリクス畳ディスプレイ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E7%95%B3%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</link>
-      <pubDate>Wed, 17 Apr 2024 23:54:57 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E7%95%B3%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ドットマトリクス畳ディスプレイ.jpg"&gt;すごい畳 〜無断転載OK〜🇯🇵さんのPostから発見。画像もここから転載。
-ドットマトリクス畳ディスプレイという一見謎の装置です
-以前畳の目をうまく利用した表示装置で紹介したのと同じ原理ですが、格子状に畳を並べることで、ドットマトリクス表示機的な装置に仕上げています。
-丸い畳を回転させることで光の反射で色を変化させる、畳のディスプレイを作りました！
-モーターの動きがかなり良い感じ。6月29日からの名古屋展覧会で披露します！#慶應義塾大学理工学部杉浦裕太研究室#タタピクセル pic.twitter.com/iS7NJHq8Ft
-&amp;mdash; すごい畳 〜無断転載OK〜🇯🇵 (@japanese_floor) April 5, 2024  </description>
     </item>
     
   </channel>

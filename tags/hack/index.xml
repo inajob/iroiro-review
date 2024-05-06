@@ -5,9 +5,21 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 15 Apr 2024 00:00:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 23:43:51 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>時計の文字盤を基板として作る</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%99%82%E8%A8%88%E3%81%AE%E6%96%87%E5%AD%97%E7%9B%A4%E3%82%92%E5%9F%BA%E6%9D%BF%E3%81%A8%E3%81%97%E3%81%A6%E4%BD%9C%E3%82%8B/</link>
+      <pubDate>Mon, 06 May 2024 23:43:51 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%99%82%E8%A8%88%E3%81%AE%E6%96%87%E5%AD%97%E7%9B%A4%E3%82%92%E5%9F%BA%E6%9D%BF%E3%81%A8%E3%81%97%E3%81%A6%E4%BD%9C%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/時計の文字盤を基板として作る.jpg"&gt;Fabbing A Fab New Watch Faceから発見。画像もここから転載。
+プリント基板というのはある程度の厚さの板に銅箔パターンやモノクロ印刷したものと捉えることができ、回路だけでなくちょっと変わった名刺などの作例も見かけることがあります。
+そのような路線の作品として、この記事では時計の文字盤を基板として作成しています。
+白黒2値の印刷であればこのような用途で基板を発注するのは、場合によってはリーズナブルとなりそうです。</description>
+    </item>
     
     <item>
       <title>3Dプリンタでレイヤーの切れ目をスムーズにする手法</title>
@@ -117,19 +129,6 @@ PCBの裏面だけ文字の形に銅板をカット、表面は銅板なしで�
 マウスの中に内蔵されたコンピュータの作例です。 ディスプレイもマウスに搭載されていて、操作することで一緒に画面も動いてしまうため、使いにくそうですが面白いです。
 動画では、ほかにもキーボード一体型の物や、Intel NUCを内蔵した巨大なマウスの物などいくつかの作例も紹介されています。
  </description>
-    </item>
-    
-    <item>
-      <title>Lipoバッテリーの膨張を素朴な仕組みでチェックする</title>
-      <link>https://inajob.github.io/iroiro-review/post/lipo%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%81%AE%E8%86%A8%E5%BC%B5%E3%82%92%E7%B4%A0%E6%9C%B4%E3%81%AA%E4%BB%95%E7%B5%84%E3%81%BF%E3%81%A7%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%81%99%E3%82%8B/</link>
-      <pubDate>Wed, 24 Jan 2024 23:31:28 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/lipo%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%81%AE%E8%86%A8%E5%BC%B5%E3%82%92%E7%B4%A0%E6%9C%B4%E3%81%AA%E4%BB%95%E7%B5%84%E3%81%BF%E3%81%A7%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Lipoバッテリーの膨張を素朴な仕組みでチェックする.jpg"&gt;ジャカロープさんのPostから発見。画像もここから転載。
-リチウムイオン電池は便利ですが、危険な部品です。 品質の悪いものを使ったり、制御がうまくできてない場合、温度などにより、膨張することがあります。膨張するだけならまだしも、爆発して火災につながるケースもあると聞きます。
-そこで、この膨張を検知する仕組みを考案したのがこれです。 単にタクトスイッチをリチウムイオン電池の隣に設置するだけですが、確かにこれで膨張を検知できそうです。
-Lipo バッテリーが膨らんだらタクトスイッチが押されて検出しようという装置 pic.twitter.com/CBzjb8F7zU
-&amp;mdash; ジャ力口一プ (@jackalope_yoshi) January 14, 2024  </description>
     </item>
     
   </channel>
