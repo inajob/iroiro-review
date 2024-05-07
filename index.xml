@@ -5,9 +5,19 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 06 May 2024 23:43:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 22:40:25 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>F1C100Sを搭載したSBC</title>
+      <link>https://inajob.github.io/iroiro-review/post/f1c100s%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fsbc/</link>
+      <pubDate>Tue, 07 May 2024 22:40:25 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/f1c100s%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fsbc/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/F1C100Sを搭載したSBC.jpg"&gt;A Nifty F1C100S Dual-Board Computerから発見。画像もここから転載。
+F1C100Sを搭載したSBCです。 2枚組となっており、この2枚目を使うことでHDMI出力もサポートできるようです。</description>
+    </item>
     
     <item>
       <title>時計の文字盤を基板として作る</title>
@@ -118,17 +128,6 @@ MicroSDカードサイズのFPGAモジュールです。 これを使って何�
 OLEDを2つ搭載したESP32開発ボードです。 RTCやバッテリー、SDカードなど、便利そうな機能が盛りだくさんです。
 2つのOLEDを搭載したボードはあまり見かけませんが、意外と便利そうです。
  </description>
-    </item>
-    
-    <item>
-      <title>壁に飾ることのできる600ドットのドットマトリクス表示機</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%A3%81%E3%81%AB%E9%A3%BE%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AE%E3%81%A7%E3%81%8D%E3%82%8B600%E3%83%89%E3%83%83%E3%83%88%E3%81%AE%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
-      <pubDate>Thu, 18 Apr 2024 23:57:31 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%A3%81%E3%81%AB%E9%A3%BE%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AE%E3%81%A7%E3%81%8D%E3%82%8B600%E3%83%89%E3%83%83%E3%83%88%E3%81%AE%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/壁に飾ることのできる600ドットのドットマトリクス表示機.jpg"&gt;Pixel Board 2.0から発見。画像もここから転載。
-壁に飾ることのできる600pxのドットマトリクス表示機の作例です。
-時計を表示したり、簡単なゲームを実行したりと、解像度は粗いですが、家の壁にこういう表示器があると楽しそうだなと思いました。</description>
     </item>
     
   </channel>
