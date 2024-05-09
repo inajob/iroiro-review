@@ -5,9 +5,21 @@
     <description>Recent content in 開発ボード on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 02 Apr 2024 23:13:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 23:42:46 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>そのままUSBポートにさせるRP2040開発ボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BEusb%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AB%E3%81%95%E3%81%9B%E3%82%8Brp2040%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Thu, 09 May 2024 23:42:46 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BEusb%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AB%E3%81%95%E3%81%9B%E3%82%8Brp2040%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/そのままUSBポートにさせるRP2040開発ボード.jpg"&gt;PicoUSB- Raspberry Pi Pico Rubber Ducky by VoltMake on Tindieから発見。画像もここから転載。
+基板をUSB端子の形状にすることで、そのままUSBポートに挿入できるRP2040開発ボードです。
+端子が両面に用意されておりリバーシブルなのも面白いです。 両面に端子がある、と聞くとUSBソケットの金属により意図しないショートが発生して、うまく動作しないような気がしますが、うまいことダイオードを入れることで、この問題を解決しているようです。
+ </description>
+    </item>
     
     <item>
       <title>Forthが動作する1列ピン接続が特徴的な開発ボード</title>
@@ -115,18 +127,6 @@ USBシリアルICとしてはCH330/CH340が搭載されており、ICSPプログ
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/とてもシンプルなATmega32u4搭載開発ボード.jpg"&gt;A Mega-Tiny Arduinoから発見。画像もここから転載。
 とてもシンプルなATmega32u4搭載開発ボードです。 コンパクトで、USB Type-Cを備えており、端面スルーホールなので他の基板にコンパクトに搭載することができます。
 レギュレータを積んでいませんが、USB電源で動かす場合においてはこれも不要です。 自作キーボードなどを作る時に便利そうです。</description>
-    </item>
-    
-    <item>
-      <title>安いと噂のRISC-V ICのCH32V003搭載の開発ボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E3%81%84%E3%81%A8%E5%99%82%E3%81%AErisc-v-ic%E3%81%AEch32v003%E6%90%AD%E8%BC%89%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Mon, 27 Feb 2023 23:47:12 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E3%81%84%E3%81%A8%E5%99%82%E3%81%AErisc-v-ic%E3%81%AEch32v003%E6%90%AD%E8%BC%89%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/安いと噂のRISC-V ICのCH32V003搭載の開発ボード.jpg"&gt;nanoCH32V003 Development Board by MuseLab on Tindieから発見。画像もここから転載。
-安いと噂のRISC-V ICのCH32V003搭載の開発ボードです。
-16KBのFlash ROM、2KBのSRAMと、ちょっとした組み込みの処理には十分の性能です。 開発ボードも$1.5と安いですが、IC単品もかなり安くで入手できそうです。
-長引く半導体不足でよく利用するSTM32やAVRマイコンは品薄、価格の高騰が見られますので、この機会にRISC-Vに入門するのも有りかもしれません。</description>
     </item>
     
   </channel>

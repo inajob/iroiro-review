@@ -5,9 +5,21 @@
     <description>Recent content in RP2040 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 16 Apr 2024 22:33:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 23:42:46 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/rp2040/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>そのままUSBポートにさせるRP2040開発ボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BEusb%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AB%E3%81%95%E3%81%9B%E3%82%8Brp2040%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Thu, 09 May 2024 23:42:46 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BEusb%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AB%E3%81%95%E3%81%9B%E3%82%8Brp2040%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/そのままUSBポートにさせるRP2040開発ボード.jpg"&gt;PicoUSB- Raspberry Pi Pico Rubber Ducky by VoltMake on Tindieから発見。画像もここから転載。
+基板をUSB端子の形状にすることで、そのままUSBポートに挿入できるRP2040開発ボードです。
+端子が両面に用意されておりリバーシブルなのも面白いです。 両面に端子がある、と聞くとUSBソケットの金属により意図しないショートが発生して、うまく動作しないような気がしますが、うまいことダイオードを入れることで、この問題を解決しているようです。
+ </description>
+    </item>
     
     <item>
       <title>RP2040で静電容量タッチを扱う方法</title>
@@ -119,23 +131,6 @@ RP2040を使った携帯ゲーム機です。 この基板の裏面にRP2040 Sta
 128x64のOLEDや十字キー、A,Bボタンを搭載しArduboyのゲームを移植するためのライブラリも用意されています。
 RP2040はこの画面に対してはオーバースペックな感じはしますが、逆に言うと余裕をもってプログラムが作れるので、大作に挑戦するのも面白いかもしれません。
 ケースは付属していませんが3Dプリント用のデータが配布されているようです。</description>
-    </item>
-    
-    <item>
-      <title>微妙に違うピン配置のRP2040ボードのピン配置を正すアダプタ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%BE%AE%E5%A6%99%E3%81%AB%E9%81%95%E3%81%86%E3%83%94%E3%83%B3%E9%85%8D%E7%BD%AE%E3%81%AErp2040%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AE%E3%83%94%E3%83%B3%E9%85%8D%E7%BD%AE%E3%82%92%E6%AD%A3%E3%81%99%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF/</link>
-      <pubDate>Wed, 21 Sep 2022 22:21:25 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%BE%AE%E5%A6%99%E3%81%AB%E9%81%95%E3%81%86%E3%83%94%E3%83%B3%E9%85%8D%E7%BD%AE%E3%81%AErp2040%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AE%E3%83%94%E3%83%B3%E9%85%8D%E7%BD%AE%E3%82%92%E6%AD%A3%E3%81%99%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/微妙に違うピン配置のRP2040ボードのピン配置を正すアダプタ.jpg"&gt;algさんのTweetから発見。画像もここから転載。
-Raspberry Pi Picoとよく似たボードがAliExpressなどで販売されていますが、どうやらピン配置が微妙に異なるものがあるようです。
-このTweetでは、この微妙に異なるピン配置を正すためのアダプタボードを紹介しています。
-写真を見れば一目瞭然ですが、このアダプタを横にずらして固定することで、このピン配置が異なるボードをRaspberry Pi Picoの互換ボードとして利用できるというものです。
-このアダプタの頒布も考えられているようなので、気になる方はalgさんに聞いてみるのはいかがでしょう？
-変換基板、届いた。
-NisePicoと命名。変な位置に製造番号入ってるけどまあいいや、試作だし。
-コンスルーを贅沢にも4本使って検証する。 pic.twitter.com/Ak7OZTvRpX
-&amp;mdash; alg (@alg0002) September 17, 2022  </description>
     </item>
     
   </channel>
