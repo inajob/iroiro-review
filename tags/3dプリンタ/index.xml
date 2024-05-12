@@ -5,9 +5,20 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 08 May 2024 23:57:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 23:46:43 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>積層式3DプリントであらかじめTPUでサポートを作っておくテクニック</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%A9%8D%E5%B1%A4%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A7%E3%81%82%E3%82%89%E3%81%8B%E3%81%98%E3%82%81tpu%E3%81%A7%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%8A%E3%81%8F%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</link>
+      <pubDate>Sun, 12 May 2024 23:46:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%A9%8D%E5%B1%A4%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A7%E3%81%82%E3%82%89%E3%81%8B%E3%81%98%E3%82%81tpu%E3%81%A7%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%8A%E3%81%8F%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/積層式3DプリントであらかじめTPUでサポートを作っておくテクニック.jpg"&gt;Manual Supports For 3D Printingから発見。画像もここから転載。
+積層式3Dプリントでは、中空に造形することが出来ないので、サポート材という足場のような構造をつかい、中空に造形することを実現しますが、この記事で紹介するのは、あらかじめサポート材的な立体物をTPUで作成し、プリントの途中で、この立体物を成果物に差し込むことで、サポート材の出力をせずに、中空に造形することを実現しています。
+TPUはPLAとくっついてもはがれやすいので、成果物から剥がすのも簡単のようです。</description>
+    </item>
     
     <item>
       <title>3Dプリンタ用の仕切り付きの箱データを簡単に作れるWebサービス</title>
@@ -119,21 +130,6 @@ PLAで型を印刷して、そこにシリコーンを流し込む
 この記事では3Dプリンタで作ったケースの内部に鉛筆で塗りつぶした紙を貼り付け、見た目もユニークな可変抵抗を自作しています。
 仕組みを理解するうえでも有用ですし、オリジナルな形の可変抵抗を作れるという意味でも面白い作例です。
  </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタで一発造形できるでんでん太鼓</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%B8%80%E7%99%BA%E9%80%A0%E5%BD%A2%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%A7%E3%82%93%E3%81%A7%E3%82%93%E5%A4%AA%E9%BC%93/</link>
-      <pubDate>Wed, 28 Feb 2024 23:50:36 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%B8%80%E7%99%BA%E9%80%A0%E5%BD%A2%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%A7%E3%82%93%E3%81%A7%E3%82%93%E5%A4%AA%E9%BC%93/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで一発造形できるでんでん太鼓.jpg"&gt;大村 卓 Taku OmuraさんのTweetからから発見。画像もここから転載。
-3Dプリンタで一発造形できるでんでん太鼓の作例です。
-でんでん太鼓の「でんでん」の部分を細いプラスチックで作ることで、振り回すと音が鳴る太鼓を実現しています。
-PLAで造形した場合は何度か遊んでいると折れてしまうことがあるようで、TPUで作るのがお勧めのようです。
-一発造形するでんでん太鼓。同じ素材だが形状や厚さを変えることで、持ち手や枠の硬さ、太鼓の打面、紐の柔らかさを作れるから楽しい pic.twitter.com/xeDpF73sWa
-&amp;mdash; 大村 卓 Taku Omura (@trialanderror50) February 14, 2024  TPUで再造形。持ち手が若干柔らかい気もするが、これなら思いっきりやっても腕がちぎれないから良いな pic.twitter.com/5reMZV2yAo
-&amp;mdash; 大村 卓 Taku Omura (@trialanderror50) February 15, 2024  </description>
     </item>
     
   </channel>
