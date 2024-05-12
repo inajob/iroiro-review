@@ -17,7 +17,8 @@
       <guid>https://inajob.github.io/iroiro-review/post/%E7%A9%8D%E5%B1%A4%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A7%E3%81%82%E3%82%89%E3%81%8B%E3%81%98%E3%82%81tpu%E3%81%A7%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%8A%E3%81%8F%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/積層式3DプリントであらかじめTPUでサポートを作っておくテクニック.jpg"&gt;Manual Supports For 3D Printingから発見。画像もここから転載。
 積層式3Dプリントでは、中空に造形することが出来ないので、サポート材という足場のような構造をつかい、中空に造形することを実現しますが、この記事で紹介するのは、あらかじめサポート材的な立体物をTPUで作成し、プリントの途中で、この立体物を成果物に差し込むことで、サポート材の出力をせずに、中空に造形することを実現しています。
-TPUはPLAとくっついてもはがれやすいので、成果物から剥がすのも簡単のようです。</description>
+TPUはPLAとくっついてもはがれやすいので、成果物から剥がすのも簡単のようです。
+ </description>
     </item>
     
     <item>
