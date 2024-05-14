@@ -5,9 +5,21 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 12 May 2024 23:46:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 23:39:57 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタ製の飛び出し・元に戻るナイフ形フィジェット</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E9%A3%9B%E3%81%B3%E5%87%BA%E3%81%97%E5%85%83%E3%81%AB%E6%88%BB%E3%82%8B%E3%83%8A%E3%82%A4%E3%83%95%E5%BD%A2%E3%83%95%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
+      <pubDate>Tue, 14 May 2024 23:39:57 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E9%A3%9B%E3%81%B3%E5%87%BA%E3%81%97%E5%85%83%E3%81%AB%E6%88%BB%E3%82%8B%E3%83%8A%E3%82%A4%E3%83%95%E5%BD%A2%E3%83%95%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ製の飛び出し・元に戻るナイフ形フィジェット.jpg"&gt;3D Printed Fidget Knife Snaps Back And Forth All Day Longから発見。画像もここから転載。
+3Dプリンタ製の飛び出し・元に戻るナイフ形フィジェットの作例です。
+ナイフを出すときにも、戻すときにもバネの仕組みが作動するのが面白いです。
+ </description>
+    </item>
     
     <item>
       <title>積層式3DプリントであらかじめTPUでサポートを作っておくテクニック</title>
@@ -118,19 +130,6 @@ PLAで型を印刷して、そこにシリコーンを流し込む
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリント成果物にレジンで文字を色付けする.jpg"&gt;Multicolor Resin Prints: Give It A Shotから発見。画像もここから転載。
 3Dプリント成果物にレジンで文字を色付けする手法の紹介です。 3Dプリント成果物に凹みとして文字を配置し、その凹みに色つきのレジンを流し込んで硬化させる手法です。
 レジンは少しにじんだり、表面にも塗布されたりしますが、層が薄い部分に関しては、そこまで色が目立たないので、写真のように凹み部分の文字が可視化されるようです。</description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタと鉛筆で作った可変抵抗</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A8%E9%89%9B%E7%AD%86%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E5%8F%AF%E5%A4%89%E6%8A%B5%E6%8A%97/</link>
-      <pubDate>Thu, 29 Feb 2024 23:35:12 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A8%E9%89%9B%E7%AD%86%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E5%8F%AF%E5%A4%89%E6%8A%B5%E6%8A%97/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタと鉛筆で作った可変抵抗.jpg"&gt;A Classroom-Ready Potentiometer From Pencil And 3D Printsから発見。画像もここから転載。
-可変抵抗を簡単に自作する方法として、鉛筆で描いた線を使う方法があります。
-この記事では3Dプリンタで作ったケースの内部に鉛筆で塗りつぶした紙を貼り付け、見た目もユニークな可変抵抗を自作しています。
-仕組みを理解するうえでも有用ですし、オリジナルな形の可変抵抗を作れるという意味でも面白い作例です。
- </description>
     </item>
     
   </channel>
