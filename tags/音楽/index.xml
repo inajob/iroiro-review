@@ -5,9 +5,20 @@
     <description>Recent content in 音楽 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 26 Mar 2024 23:47:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 23:50:23 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%9F%B3%E6%A5%BD/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>水道ホースを使ったアナログなディレイ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%B0%B4%E9%81%93%E3%83%9B%E3%83%BC%E3%82%B9%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E3%81%AA%E3%83%87%E3%82%A3%E3%83%AC%E3%82%A4/</link>
+      <pubDate>Thu, 16 May 2024 23:50:23 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%B0%B4%E9%81%93%E3%83%9B%E3%83%BC%E3%82%B9%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E3%81%AA%E3%83%87%E3%82%A3%E3%83%AC%E3%82%A4/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/水道ホースを使ったアナログなディレイ.jpg"&gt;An Audio Delay, The Garden Hose Wayから発見。画像もここから転載。
+水道ホースを使ったアナログなディレイの手法を紹介します。 単純に長い水道のホースに音を通すことで、ディレイ的な効果をアナログで実現します。
+ </description>
+    </item>
     
     <item>
       <title>デジタル版ハーディ・ガーディ</title>
@@ -122,19 +133,6 @@ Raspberry Pi Picoをコアとした8ステップのMIDIシーケンサです。 
 3DCADを使って独自の弦楽器を作る方法の紹介です。 鳴らしたい音程から元の長さを計算し、3DCADで設計した後に3Dプリンタで製造しています。
 ここで作成しているのは、上から弦を弾くだけで特定のメロディが奏でられるという楽器です。 こういうオリジナルの音が出るおもちゃを作れるのは面白そうです。
  </description>
-    </item>
-    
-    <item>
-      <title>ESP8266で動作するトラッカー</title>
-      <link>https://inajob.github.io/iroiro-review/post/esp8266%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B%E3%83%88%E3%83%A9%E3%83%83%E3%82%AB%E3%83%BC/</link>
-      <pubDate>Sun, 29 Oct 2023 23:51:27 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/esp8266%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B%E3%83%88%E3%83%A9%E3%83%83%E3%82%AB%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP8266で動作するトラッカー.jpg"&gt;shiru8bitさんのPostから発見。画像もここから転載。
-ESP8266で動作するトラッカーが開発中のようです。 ターゲットは ESPboy のようで、この方はカスタム版のESPboyを利用して開発しています。
-ESPboyはオープンソースハードウェアで、inajobも日本で利用できるESP-WROOM-02を使って作成したことがあります。
-WIP day I don&amp;#39;t know, 18 I guess. Almost done. pic.twitter.com/OdkUxfhtIZ
-&amp;mdash; shiru8bit (@shiru8bit) October 19, 2023  </description>
     </item>
     
   </channel>
