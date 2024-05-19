@@ -5,9 +5,21 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 14 May 2024 23:39:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 23:52:27 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>複数のフィラメントを混ぜるテクニック</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%A4%87%E6%95%B0%E3%81%AE%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E6%B7%B7%E3%81%9C%E3%82%8B%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</link>
+      <pubDate>Sun, 19 May 2024 23:52:27 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%A4%87%E6%95%B0%E3%81%AE%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E6%B7%B7%E3%81%9C%E3%82%8B%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/複数のフィラメントを混ぜるテクニック.jpg"&gt;3D Printing In Custom PLA With A TPU Coreから発見。画像もここから転載。
+複数のフィラメントを混ぜるテクニックを紹介します。
+まず3Dプリンタを使って太めのフィラメントを作り、このフィラメントを引き延ばして標準的な細さに加工します。 このテクニックを使ってマーブル模様の造形や、PLAとTPUを組み合わせた新しい素材などを紹介しています。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタ製の飛び出し・元に戻るナイフ形フィジェット</title>
@@ -119,17 +131,6 @@ PLAで型を印刷して、そこにシリコーンを流し込む
 3Dプリンタで作るバスケットボールの作例です。
 一般的なバスケットボールとは違い、空気を入れることなく、構造により弾性を再現しているようですが、使い勝手はさほど変わらないとのことです。
 空気を入れるタイプのボールより長持ちする・・とかはあるんですかね？</description>
-    </item>
-    
-    <item>
-      <title>3Dプリント成果物にレジンで文字を色付けする</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E6%88%90%E6%9E%9C%E7%89%A9%E3%81%AB%E3%83%AC%E3%82%B8%E3%83%B3%E3%81%A7%E6%96%87%E5%AD%97%E3%82%92%E8%89%B2%E4%BB%98%E3%81%91%E3%81%99%E3%82%8B/</link>
-      <pubDate>Mon, 04 Mar 2024 23:24:06 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E6%88%90%E6%9E%9C%E7%89%A9%E3%81%AB%E3%83%AC%E3%82%B8%E3%83%B3%E3%81%A7%E6%96%87%E5%AD%97%E3%82%92%E8%89%B2%E4%BB%98%E3%81%91%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリント成果物にレジンで文字を色付けする.jpg"&gt;Multicolor Resin Prints: Give It A Shotから発見。画像もここから転載。
-3Dプリント成果物にレジンで文字を色付けする手法の紹介です。 3Dプリント成果物に凹みとして文字を配置し、その凹みに色つきのレジンを流し込んで硬化させる手法です。
-レジンは少しにじんだり、表面にも塗布されたりしますが、層が薄い部分に関しては、そこまで色が目立たないので、写真のように凹み部分の文字が可視化されるようです。</description>
     </item>
     
   </channel>

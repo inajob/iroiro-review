@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 16 May 2024 23:50:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 23:52:27 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>複数のフィラメントを混ぜるテクニック</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%A4%87%E6%95%B0%E3%81%AE%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E6%B7%B7%E3%81%9C%E3%82%8B%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</link>
+      <pubDate>Sun, 19 May 2024 23:52:27 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%A4%87%E6%95%B0%E3%81%AE%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E6%B7%B7%E3%81%9C%E3%82%8B%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/複数のフィラメントを混ぜるテクニック.jpg"&gt;3D Printing In Custom PLA With A TPU Coreから発見。画像もここから転載。
+複数のフィラメントを混ぜるテクニックを紹介します。
+まず3Dプリンタを使って太めのフィラメントを作り、このフィラメントを引き延ばして標準的な細さに加工します。 このテクニックを使ってマーブル模様の造形や、PLAとTPUを組み合わせた新しい素材などを紹介しています。
+ </description>
+    </item>
     
     <item>
       <title>水道ホースを使ったアナログなディレイ</title>
@@ -116,18 +128,6 @@ F1C100Sを搭載したSBCです。 2枚組となっており、この2枚目を�
 プリント基板というのはある程度の厚さの板に銅箔パターンやモノクロ印刷したものと捉えることができ、回路だけでなくちょっと変わった名刺などの作例も見かけることがあります。
 そのような路線の作品として、この記事では時計の文字盤を基板として作成しています。
 白黒2値の印刷であればこのような用途で基板を発注するのは、場合によってはリーズナブルとなりそうです。</description>
-    </item>
-    
-    <item>
-      <title>ひらがなを同時押しで入力できるキーボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%81%B2%E3%82%89%E3%81%8C%E3%81%AA%E3%82%92%E5%90%8C%E6%99%82%E6%8A%BC%E3%81%97%E3%81%A7%E5%85%A5%E5%8A%9B%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Thu, 02 May 2024 00:09:16 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%B2%E3%82%89%E3%81%8C%E3%81%AA%E3%82%92%E5%90%8C%E6%99%82%E6%8A%BC%E3%81%97%E3%81%A7%E5%85%A5%E5%8A%9B%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ひらがなを同時押しで入力できるキーボード.jpg"&gt;KanaChord Is A Macro Pad For Japanese Inputから発見。画像もここから転載。
-ひらがなを同時押しで入力できるキーボードの作例です。 一般的なキーボードとは異なり、左手で子音、右手で母音を押すことでひらがなを入力できるようにしています。
-Raspberry Pi Picoを使って制御されており、日本語はUnicodeとしてOSに送られるようです。 （Unicodeから日本をを入力す方法はOSごとに色々工夫が必要そうです)
-キーキャップも半透明となっており、キーの入力状況に応じて色が光るというギミックも面白いです。</description>
     </item>
     
   </channel>
