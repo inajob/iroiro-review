@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 19 May 2024 23:52:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 23:55:16 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>製氷皿を流用して大きなフルカラードットマトリクスLEDを作成する</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%A3%BD%E6%B0%B7%E7%9A%BF%E3%82%92%E6%B5%81%E7%94%A8%E3%81%97%E3%81%A6%E5%A4%A7%E3%81%8D%E3%81%AA%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B/</link>
+      <pubDate>Mon, 20 May 2024 23:55:16 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%A3%BD%E6%B0%B7%E7%9A%BF%E3%82%92%E6%B5%81%E7%94%A8%E3%81%97%E3%81%A6%E5%A4%A7%E3%81%8D%E3%81%AA%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/製氷皿を流用して大きなフルカラードットマトリクスLEDを作成する.jpg"&gt;Ping-pong ball neopixel displayから発見。画像もここから転載。
+製氷皿を流用して大きなフルカラードットマトリクスLEDを作成する手法を紹介します。 フルカラーLEDグリッド上に並べた表示機はよく見かけますが、腕の見せ所は、光をどう拡散させるかです。
+この記事では、半円状の製氷皿を利用してこれを実現する方法を紹介しています。 以前ピンポン玉を使った作例 を紹介しましたが、製氷皿の方が安くで実現できて良さそうです。
+ </description>
+    </item>
     
     <item>
       <title>複数のフィラメントを混ぜるテクニック</title>
@@ -116,18 +128,6 @@ TPUはPLAとくっついてもはがれやすいので、成果物から剥が�
       <guid>https://inajob.github.io/iroiro-review/post/f1c100s%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9Fsbc/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/F1C100Sを搭載したSBC.jpg"&gt;A Nifty F1C100S Dual-Board Computerから発見。画像もここから転載。
 F1C100Sを搭載したSBCです。 2枚組となっており、この2枚目を使うことでHDMI出力もサポートできるようです。</description>
-    </item>
-    
-    <item>
-      <title>時計の文字盤を基板として作る</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%99%82%E8%A8%88%E3%81%AE%E6%96%87%E5%AD%97%E7%9B%A4%E3%82%92%E5%9F%BA%E6%9D%BF%E3%81%A8%E3%81%97%E3%81%A6%E4%BD%9C%E3%82%8B/</link>
-      <pubDate>Mon, 06 May 2024 23:43:51 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%99%82%E8%A8%88%E3%81%AE%E6%96%87%E5%AD%97%E7%9B%A4%E3%82%92%E5%9F%BA%E6%9D%BF%E3%81%A8%E3%81%97%E3%81%A6%E4%BD%9C%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/時計の文字盤を基板として作る.jpg"&gt;Fabbing A Fab New Watch Faceから発見。画像もここから転載。
-プリント基板というのはある程度の厚さの板に銅箔パターンやモノクロ印刷したものと捉えることができ、回路だけでなくちょっと変わった名刺などの作例も見かけることがあります。
-そのような路線の作品として、この記事では時計の文字盤を基板として作成しています。
-白黒2値の印刷であればこのような用途で基板を発注するのは、場合によってはリーズナブルとなりそうです。</description>
     </item>
     
   </channel>
