@@ -5,9 +5,21 @@
     <description>Recent content in 表示機 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 20 May 2024 23:55:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 23:38:17 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E8%A1%A8%E7%A4%BA%E6%A9%9F/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>落下する砂を利用した表示機</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%90%BD%E4%B8%8B%E3%81%99%E3%82%8B%E7%A0%82%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
+      <pubDate>Tue, 21 May 2024 23:38:17 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%90%BD%E4%B8%8B%E3%81%99%E3%82%8B%E7%A0%82%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/落下する砂を利用した表示機.jpg"&gt;POV Digital Clock Is The Literal Sands Of Timeから発見。画像もここから転載。
+落下する砂を利用した表示機の作例です。
+ソレノイドで砂の出る量を調節し、フラッシュによりちょうど良い瞬間が見えるようにしています。
+ </description>
+    </item>
     
     <item>
       <title>製氷皿を流用して大きなフルカラードットマトリクスLEDを作成する</title>
@@ -125,19 +137,6 @@ PCBの裏面だけ文字の形に銅板をカット、表面は銅板なしで�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/古いビデオコントローラの出力をキャプチャしてSPI接続TFT表示を行う.jpg"&gt;Classic Video Chip Drives A Modern TFTから発見。画像もここから転載。
 古いビデオコントローラであるTMS9928Aの出力をキャプチャしてSPI接続TFTで表示を行っている作例です。
 こういうのはよくFPGAで実装されますが、この記事ではSTM32G4を使って実現しています。 今やSPI接続のTFTディスプレイはコモディティ化しているので、こういう手法があると、レトロガジェットの再実装にも役立ちそうです。</description>
-    </item>
-    
-    <item>
-      <title>液体の中を浮き上がる泡を利用したディスプレイ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%B6%B2%E4%BD%93%E3%81%AE%E4%B8%AD%E3%82%92%E6%B5%AE%E3%81%8D%E4%B8%8A%E3%81%8C%E3%82%8B%E6%B3%A1%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</link>
-      <pubDate>Thu, 12 Jan 2023 23:16:26 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%B6%B2%E4%BD%93%E3%81%AE%E4%B8%AD%E3%82%92%E6%B5%AE%E3%81%8D%E4%B8%8A%E3%81%8C%E3%82%8B%E6%B3%A1%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/液体の中を浮き上がる泡を利用したディスプレイ.jpg"&gt;Zen And Glowing Air Bubble Displaysから発見。画像もここから転載。
-液体の中を浮き上がる泡を利用したディスプレイについての記事です。
-この作者は1994年からこの泡ディスプレイのアイデアを実装していたようで、方式を改良しつつ製作を続けているようです。
-仕組みがわかっても泡の細かい制御に必要なTipsは多岐にわたり、真似して作るのはなかなか大変そうです。 ゆらゆらと上昇する泡は、デジタルなドットの表現とは対照的にゆったりとした雰囲気を与えてくれます。
- </description>
     </item>
     
   </channel>
