@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 22 May 2024 23:41:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 23:44:28 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CH32V用のuf2ブートローダー</title>
+      <link>https://inajob.github.io/iroiro-review/post/ch32v%E7%94%A8%E3%81%AEuf2%E3%83%96%E3%83%BC%E3%83%88%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC/</link>
+      <pubDate>Thu, 23 May 2024 23:44:28 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/ch32v%E7%94%A8%E3%81%AEuf2%E3%83%96%E3%83%BC%E3%83%88%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32V用のuf2ブートローダー.jpg"&gt;GitHub - ArcaneNibble/wch-uf2: CH32V UF2 bootloaderから発見。画像もここから転載。
+デバイスをUSBでパソコンに繋げると、マスストレージとして認識され、そこにファームウェアのファイルをコピーすることで書き込みを実現するuf2という仕組みがあります。
+有名なところだとRaspberry Pi Picoなどに採用されていますが、それ以外にも様々な開発ボードがこの仕組みに対応してます。 ここで紹介するのはCH32V用のuf2ブートローダーです。
+uf2サポートがあれば専用の書き込み機や書き込みソフトウェアなしにファームウェアを書き換えられるので便利です。</description>
+    </item>
     
     <item>
       <title>はんだ吸い取り線をパワーアップさせる技</title>
@@ -120,18 +132,6 @@ SolveSpaceのソルバーとOpen CASCADEカーネルを利用した3DCADです�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/積層式3DプリントであらかじめTPUでサポートを作っておくテクニック.jpg"&gt;Manual Supports For 3D Printingから発見。画像もここから転載。
 積層式3Dプリントでは、中空に造形することが出来ないので、サポート材という足場のような構造をつかい、中空に造形することを実現しますが、この記事で紹介するのは、あらかじめサポート材的な立体物をTPUで作成し、プリントの途中で、この立体物を成果物に差し込むことで、サポート材の出力をせずに、中空に造形することを実現しています。
 TPUはPLAとくっついてもはがれやすいので、成果物から剥がすのも簡単のようです。
- </description>
-    </item>
-    
-    <item>
-      <title>そのままUSBポートにさせるRP2040開発ボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BEusb%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AB%E3%81%95%E3%81%9B%E3%82%8Brp2040%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Thu, 09 May 2024 23:42:46 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BEusb%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AB%E3%81%95%E3%81%9B%E3%82%8Brp2040%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/そのままUSBポートにさせるRP2040開発ボード.jpg"&gt;PicoUSB- Raspberry Pi Pico Rubber Ducky by VoltMake on Tindieから発見。画像もここから転載。
-基板をUSB端子の形状にすることで、そのままUSBポートに挿入できるRP2040開発ボードです。
-端子が両面に用意されておりリバーシブルなのも面白いです。 両面に端子がある、と聞くとUSBソケットの金属により意図しないショートが発生して、うまく動作しないような気がしますが、うまいことダイオードを入れることで、この問題を解決しているようです。
  </description>
     </item>
     

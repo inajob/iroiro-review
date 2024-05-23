@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CH32V on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/ch32v/</link>
+    <description>Recent content in CH32V on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Thu, 23 May 2024 23:44:28 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/ch32v/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CH32V用のuf2ブートローダー</title>
+      <link>https://inajob.github.io/iroiro-review/post/ch32v%E7%94%A8%E3%81%AEuf2%E3%83%96%E3%83%BC%E3%83%88%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC/</link>
+      <pubDate>Thu, 23 May 2024 23:44:28 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/ch32v%E7%94%A8%E3%81%AEuf2%E3%83%96%E3%83%BC%E3%83%88%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32V用のuf2ブートローダー.jpg"&gt;GitHub - ArcaneNibble/wch-uf2: CH32V UF2 bootloaderから発見。画像もここから転載。
+デバイスをUSBでパソコンに繋げると、マスストレージとして認識され、そこにファームウェアのファイルをコピーすることで書き込みを実現するuf2という仕組みがあります。
+有名なところだとRaspberry Pi Picoなどに採用されていますが、それ以外にも様々な開発ボードがこの仕組みに対応してます。 ここで紹介するのはCH32V用のuf2ブートローダーです。
+uf2サポートがあれば専用の書き込み機や書き込みソフトウェアなしにファームウェアを書き換えられるので便利です。</description>
+    </item>
+    
+  </channel>
+</rss>
+
