@@ -5,9 +5,22 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 22 May 2024 23:41:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 06:51:35 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>基板とカバーをネジで圧着することではんだ付けなしを実現する</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%9F%BA%E6%9D%BF%E3%81%A8%E3%82%AB%E3%83%90%E3%83%BC%E3%82%92%E3%83%8D%E3%82%B8%E3%81%A7%E5%9C%A7%E7%9D%80%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E3%81%AA%E3%81%97%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B/</link>
+      <pubDate>Mon, 27 May 2024 06:51:35 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%9F%BA%E6%9D%BF%E3%81%A8%E3%82%AB%E3%83%90%E3%83%BC%E3%82%92%E3%83%8D%E3%82%B8%E3%81%A7%E5%9C%A7%E7%9D%80%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E3%81%AA%E3%81%97%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/基板とカバーをネジで圧着することではんだ付けなしを実現する.jpg"&gt;No Solder! Squeeze Your Parts To The PCBから発見。画像もここから転載。
+プリント基板に部品を実装する時は、はんだ付けするものですが、この記事では基板の上から部品を押し付けることで、基板と部品を導通させるテクニックを紹介しています。
+部品を基板に密着させるために部品の周りにネジ穴を開けて、ネジで締め付けることで部品を基板に固定しています。
+シンプルなAtmega328書き込み器が似たような原理で、ICを基板に接触させているのを思い出しました。
+ </description>
+    </item>
     
     <item>
       <title>はんだ吸い取り線をパワーアップさせる技</title>
@@ -116,17 +129,6 @@ Rendering time at 4, 8, 16, 32 colors. pic.twitter.com/KvU9BKmdoW
 数十円で買えるCH32V003でLinuxを動かすという事例です。 CH32V003で直接動かすのではなく、RISC-VのエミュレータをCH32V003上で動かし、その腕Linuxを実行するという仕組みのようです。
 CH32V003はRISC-VのICではありますが、RAMが小さすぎるため、エミュレータを使い外部RAMを利用するというアイデアのようです。
 なお起動には5分くらいかかるらしい</description>
-    </item>
-    
-    <item>
-      <title>ウッドフィラメントで出力時の温度を変化させて年輪を描く</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%A6%E3%83%83%E3%83%89%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%81%A7%E5%87%BA%E5%8A%9B%E6%99%82%E3%81%AE%E6%B8%A9%E5%BA%A6%E3%82%92%E5%A4%89%E5%8C%96%E3%81%95%E3%81%9B%E3%81%A6%E5%B9%B4%E8%BC%AA%E3%82%92%E6%8F%8F%E3%81%8F/</link>
-      <pubDate>Mon, 26 Feb 2024 23:29:58 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%A6%E3%83%83%E3%83%89%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%81%A7%E5%87%BA%E5%8A%9B%E6%99%82%E3%81%AE%E6%B8%A9%E5%BA%A6%E3%82%92%E5%A4%89%E5%8C%96%E3%81%95%E3%81%9B%E3%81%A6%E5%B9%B4%E8%BC%AA%E3%82%92%E6%8F%8F%E3%81%8F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ウッドフィラメントで出力時の温度を変化させて年輪を描く.jpg"&gt;Printing A Logから発見。画像もここから転載。
-ウッドフィラメントというのは、プラスチックの中に木片を混ぜ込んだフィラメントで、木目調の成果物を作ることが出来ます。 3Dプリンタのフィラメントの温度を変化させることで、このフィラメントを少し「焦がす」ことで年輪のような模様を描くテクニックを紹介しています。
- </description>
     </item>
     
   </channel>
