@@ -5,9 +5,21 @@
     <description>Recent content in 時計 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 17 Dec 2023 23:33:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jun 2024 23:45:40 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%99%82%E8%A8%88/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>磁石で鉄球を並べたデジタル時計</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%A3%81%E7%9F%B3%E3%81%A7%E9%89%84%E7%90%83%E3%82%92%E4%B8%A6%E3%81%B9%E3%81%9F%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E6%99%82%E8%A8%88/</link>
+      <pubDate>Sun, 02 Jun 2024 23:45:40 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%A3%81%E7%9F%B3%E3%81%A7%E9%89%84%E7%90%83%E3%82%92%E4%B8%A6%E3%81%B9%E3%81%9F%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E6%99%82%E8%A8%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/磁石で鉄球を並べたデジタル時計.jpg"&gt;Mechanical Clock electronically controlled , seven segment display, Arduino, servos, balls 3mm plyから発見。画像もここから転載。
+磁石で鉄球を並べる方式のデジタル時計の作例です。 うまく説明することが難しい、斬新な仕組みの表示機です。
+磁石を使うとこういう面白いギミックが作れるなと感じました、身近なあの装置、磁石と組み合わせて面白くできないかな？なんて
+ </description>
+    </item>
     
     <item>
       <title>時間によって変わる電力料金を可視化する時計</title>
@@ -131,18 +143,6 @@ Arduino Pro Miniを省エネ化する改造についても触れられており�
 この記事では、このジャンルの作品の1つですが、非常に洗練されたLED時計です。
 放射状に配置されたLEDと中央のICとの配線が非常に美しい造形となっています。
 CPUにはPIC16F84Aを用いており、バッテリーはCR2032です。
-</description>
-    </item>
-    
-    <item>
-      <title>リング状のアナログ風時計</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AA%E3%83%B3%E3%82%B0%E7%8A%B6%E3%81%AE%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E9%A2%A8%E6%99%82%E8%A8%88/</link>
-      <pubDate>Tue, 16 Nov 2021 11:00:45 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AA%E3%83%B3%E3%82%B0%E7%8A%B6%E3%81%AE%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E9%A2%A8%E6%99%82%E8%A8%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ring-clock.jpg"&gt;Desktop Ring Clockから発見。画像もここから転載(CC BY-NC-SA By andrei.erdei)。
-フルカラーLEDを内蔵したドーナツ型の時計です。リングの内部にフルカラーLEDストリップが内蔵されており、時計の秒針、長針、短針の位置が光るようになっています。
-マイコンモジュールはESP-01（ESP8266）を利用しています。
 </description>
     </item>
     
