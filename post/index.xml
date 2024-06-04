@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 02 Jun 2024 23:45:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 23:55:54 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2台のマシンと接続できる自作キーボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/2%E5%8F%B0%E3%81%AE%E3%83%9E%E3%82%B7%E3%83%B3%E3%81%A8%E6%8E%A5%E7%B6%9A%E3%81%A7%E3%81%8D%E3%82%8B%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Mon, 03 Jun 2024 23:55:54 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/2%E5%8F%B0%E3%81%AE%E3%83%9E%E3%82%B7%E3%83%B3%E3%81%A8%E6%8E%A5%E7%B6%9A%E3%81%A7%E3%81%8D%E3%82%8B%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/2台のマシンと接続できる自作キーボード.jpg"&gt;DIY Keyboard Can Handle Up To Three Host Devicesから発見。画像もここから転載。
+2台のマシンと接続できる自作キーボードです。 特定のキーストロークを打鍵することで、利用するマシンを切り替えられます。
+アナログスイッチICを利用して、CPU制御でどちらのPCに接続するかをキーボード側で切り替えています。
+ </description>
+    </item>
     
     <item>
       <title>磁石で鉄球を並べたデジタル時計</title>
@@ -119,18 +131,6 @@ uf2サポートがあれば専用の書き込み機や書き込みソフトウ�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/落下する砂を利用した表示機.jpg"&gt;POV Digital Clock Is The Literal Sands Of Timeから発見。画像もここから転載。
 落下する砂を利用した表示機の作例です。
 ソレノイドで砂の出る量を調節し、フラッシュによりちょうど良い瞬間が見えるようにしています。
- </description>
-    </item>
-    
-    <item>
-      <title>製氷皿を流用して大きなフルカラードットマトリクスLEDを作成する</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E8%A3%BD%E6%B0%B7%E7%9A%BF%E3%82%92%E6%B5%81%E7%94%A8%E3%81%97%E3%81%A6%E5%A4%A7%E3%81%8D%E3%81%AA%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B/</link>
-      <pubDate>Mon, 20 May 2024 23:55:16 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E8%A3%BD%E6%B0%B7%E7%9A%BF%E3%82%92%E6%B5%81%E7%94%A8%E3%81%97%E3%81%A6%E5%A4%A7%E3%81%8D%E3%81%AA%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/製氷皿を流用して大きなフルカラードットマトリクスLEDを作成する.jpg"&gt;Ping-pong ball neopixel displayから発見。画像もここから転載。
-製氷皿を流用して大きなフルカラードットマトリクスLEDを作成する手法を紹介します。 フルカラーLEDグリッド上に並べた表示機はよく見かけますが、腕の見せ所は、光をどう拡散させるかです。
-この記事では、半円状の製氷皿を利用してこれを実現する方法を紹介しています。 以前ピンポン玉を使った作例 を紹介しましたが、製氷皿の方が安くで実現できて良さそうです。
  </description>
     </item>
     
