@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 07 Jun 2024 00:09:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 03:31:02 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>キャラクタ液晶モジュールの配線を横取りして自由な表示を実現</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E6%B6%B2%E6%99%B6%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%81%AE%E9%85%8D%E7%B7%9A%E3%82%92%E6%A8%AA%E5%8F%96%E3%82%8A%E3%81%97%E3%81%A6%E8%87%AA%E7%94%B1%E3%81%AA%E8%A1%A8%E7%A4%BA%E3%82%92%E5%AE%9F%E7%8F%BE/</link>
+      <pubDate>Mon, 10 Jun 2024 03:31:02 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E6%B6%B2%E6%99%B6%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%81%AE%E9%85%8D%E7%B7%9A%E3%82%92%E6%A8%AA%E5%8F%96%E3%82%8A%E3%81%97%E3%81%A6%E8%87%AA%E7%94%B1%E3%81%AA%E8%A1%A8%E7%A4%BA%E3%82%92%E5%AE%9F%E7%8F%BE/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/キャラクタ液晶モジュールの配線を横取りして自由な表示を実現.jpg"&gt;Pixel Graphics From An HD44780, By Cutting Wiresから発見。画像もここから転載。
+キャラクタディスプレイは、「文字」を表示するための表示機で、それ以外のものを表示するのは想定されていない表示機です。 いくつか自由な「文字」を登録することが出来るので、その機能を駆使することで、ある程度自由な表示を実現できますが、それでも限りがあります。
+この記事で紹介するのは、そんな制限を取っ払って、キャラクタ液晶に自由なビットマップを表示する方法のようです。
+この手のディスプレイはHD44780という日立製のICの互換品が使われています。このICの信号のいくつかを乗っ取ることで任意のビットマップをディスプレイに流し込むことが出来るということのようです。
+といってもそれも簡単ではなく、既存の5*8ピクセルのフォントの横5ピクセルのラインを切り替えて任意の文字を表示するようなトリッキー手法のようです。</description>
+    </item>
     
     <item>
       <title>CH552搭載の開発ボード</title>
@@ -117,18 +130,6 @@ Etch-A-Sketchという2つのつまみで絵を描くおもちゃをESP32で自�
 部品を基板に密着させるために部品の周りにネジ穴を開けて、ネジで締め付けることで部品を基板に固定しています。
 シンプルなAtmega328書き込み器が似たような原理で、ICを基板に接触させているのを思い出しました。
  </description>
-    </item>
-    
-    <item>
-      <title>CH32V用のuf2ブートローダー</title>
-      <link>https://inajob.github.io/iroiro-review/post/ch32v%E7%94%A8%E3%81%AEuf2%E3%83%96%E3%83%BC%E3%83%88%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC/</link>
-      <pubDate>Thu, 23 May 2024 23:44:28 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/ch32v%E7%94%A8%E3%81%AEuf2%E3%83%96%E3%83%BC%E3%83%88%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32V用のuf2ブートローダー.jpg"&gt;GitHub - ArcaneNibble/wch-uf2: CH32V UF2 bootloaderから発見。画像もここから転載。
-デバイスをUSBでパソコンに繋げると、マスストレージとして認識され、そこにファームウェアのファイルをコピーすることで書き込みを実現するuf2という仕組みがあります。
-有名なところだとRaspberry Pi Picoなどに採用されていますが、それ以外にも様々な開発ボードがこの仕組みに対応してます。 ここで紹介するのはCH32V用のuf2ブートローダーです。
-uf2サポートがあれば専用の書き込み機や書き込みソフトウェアなしにファームウェアを書き換えられるので便利です。</description>
     </item>
     
   </channel>
