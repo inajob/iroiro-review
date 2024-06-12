@@ -5,9 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 12 Jun 2024 00:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 23:43:45 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>フルカラードットマトリクスディスプレイでPong Wars</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%81%A7pong-wars/</link>
+      <pubDate>Wed, 12 Jun 2024 23:43:45 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%81%A7pong-wars/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/フルカラードットマトリクスディスプレイでPong Wars.jpg"&gt;由井河あきらさんのPostから発見。画像もここから転載。
+フルカラードットマトリクスディスプレイでPong Warsというアニメーションを表示する作例です。
+Pong Wars自体はよくあるアニメーションのようですが、このようなインテリアのようなガジェットで表示するとずっと見ていられるということに気づきました。
+ドットマトリクスディスプレイにPong Wars移植した！
+ずっと見てられる～#作るV pic.twitter.com/MwbCrj5Zaf
+&amp;mdash; 由井河あきら (@Akira_Yuikawa) May 26, 2024  </description>
+    </item>
     
     <item>
       <title>ThinkPad 701cのケースを3Dプリンタで作り直す</title>
@@ -118,17 +132,6 @@ Etch-A-Sketchという2つのつまみで絵を描くおもちゃをESP32で自�
 うちの雑な設定の3Dプリンタでもここまでできた！
 データはこちらを使わせてもらいました！https://t.co/wteFau0itS pic.twitter.com/SYm5FuoBVL
 &amp;mdash; ina_ani@4歳児のパパ (@ina_ani) May 27, 2024  </description>
-    </item>
-    
-    <item>
-      <title>ジョイントしてどんどん広げることが出来る壁掛けモジュール</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B8%E3%83%A7%E3%82%A4%E3%83%B3%E3%83%88%E3%81%97%E3%81%A6%E3%81%A9%E3%82%93%E3%81%A9%E3%82%93%E5%BA%83%E3%81%92%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E5%87%BA%E6%9D%A5%E3%82%8B%E5%A3%81%E6%8E%9B%E3%81%91%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</link>
-      <pubDate>Wed, 29 May 2024 00:08:22 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B8%E3%83%A7%E3%82%A4%E3%83%B3%E3%83%88%E3%81%97%E3%81%A6%E3%81%A9%E3%82%93%E3%81%A9%E3%82%93%E5%BA%83%E3%81%92%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E5%87%BA%E6%9D%A5%E3%82%8B%E5%A3%81%E6%8E%9B%E3%81%91%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ジョイントしてどんどん広げることが出来る壁掛けモジュール.jpg"&gt;Multiboardから発見。画像もここから転載。
-ジョイントしてどんどん広げることが出来る壁掛けモジュールの作例です。 この規格を基に様々なオプションパーツが設計され
- </description>
     </item>
     
   </channel>

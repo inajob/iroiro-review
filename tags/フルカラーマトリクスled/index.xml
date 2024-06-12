@@ -5,9 +5,23 @@
     <description>Recent content in フルカラーマトリクスLED on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 08 Sep 2022 22:45:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 23:43:45 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>フルカラードットマトリクスディスプレイでPong Wars</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%81%A7pong-wars/</link>
+      <pubDate>Wed, 12 Jun 2024 23:43:45 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%81%A7pong-wars/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/フルカラードットマトリクスディスプレイでPong Wars.jpg"&gt;由井河あきらさんのPostから発見。画像もここから転載。
+フルカラードットマトリクスディスプレイでPong Warsというアニメーションを表示する作例です。
+Pong Wars自体はよくあるアニメーションのようですが、このようなインテリアのようなガジェットで表示するとずっと見ていられるということに気づきました。
+ドットマトリクスディスプレイにPong Wars移植した！
+ずっと見てられる～#作るV pic.twitter.com/MwbCrj5Zaf
+&amp;mdash; 由井河あきら (@Akira_Yuikawa) May 26, 2024  </description>
+    </item>
     
     <item>
       <title>Raspberry Pi Pico Wを使ったWebAPIを持つ小型ディスプレイ</title>
