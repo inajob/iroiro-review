@@ -5,9 +5,20 @@
     <description>Recent content in CH32V003 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 01 Apr 2024 23:31:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 00:13:05 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/ch32v003/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CH32V003をコアとしたパソコン</title>
+      <link>https://inajob.github.io/iroiro-review/post/ch32v003%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/</link>
+      <pubDate>Fri, 14 Jun 2024 00:13:05 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/ch32v003%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32V003をコアとしたパソコン.jpg"&gt;CH32V003 Makes For Dirt Cheap RISC-V Computerから発見。画像もここから転載。
+CH32V003をコアとしたシンプルなパソコンです。 画面出力、PS/2キーボード、スピーカーをサポートしており、低スペックでありながら最低限の動作はするようです。
+とはいえRAMが2Kしかないので画面は40×25文字の表示ができるという程度のものです。</description>
+    </item>
     
     <item>
       <title>数十円で買えるCH32V003でLinuxを動かす</title>
@@ -114,19 +125,6 @@ CH32V003をコアとした携帯ゲーム機の作例です。 最近はArduino 
 CH32V003といえば、安価なRISC-VのICチップです。 これを16個並べて作られた並列コンピュータの作例です。 16個合わせても$2程度のコストのようです。
 まぁ、それぞれの性能はそこまで早いものでもないので、並べたところで、そこまで大規模な計算はできませんが、それぞれに別の仕事をさせつつ、チップ同士で連携するなど、今までとは違ったアーキテクチャの組み込み機器が出来るかもしれません。
  </description>
-    </item>
-    
-    <item>
-      <title>CH32V003の開発をArduinoで行うための仕組み</title>
-      <link>https://inajob.github.io/iroiro-review/post/ch32v003%E3%81%AE%E9%96%8B%E7%99%BA%E3%82%92arduino%E3%81%A7%E8%A1%8C%E3%81%86%E3%81%9F%E3%82%81%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF/</link>
-      <pubDate>Tue, 21 Mar 2023 23:27:33 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/ch32v003%E3%81%AE%E9%96%8B%E7%99%BA%E3%82%92arduino%E3%81%A7%E8%A1%8C%E3%81%86%E3%81%9F%E3%82%81%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32V003の開発をArduinoで行うための仕組み.jpg"&gt;GitHub - AlexanderMandera/arduino-wch32v003: Arduino Core for CH32V303 RISC-V microcontrollerから発見。画像もここから転載。
-CH32V003の開発をArduinoで行うための仕組みです。
-RISC-Vの格安ICであるCH32V003ですが、ペリフェラルの操作にはSDKの独自の関数を使う必要があります。
-このプロジェクトではCH32V003向けのArduino風ラッパーを提供しています。 RISC-V用のgccは別途インストールが必要そうですが、Arduinoに慣れた人からすると嬉しそうです。
-まだシンプルなI/O命令とdelay命令くらいしかサポートされていないので、利用の際は注意が必要です。</description>
     </item>
     
   </channel>
