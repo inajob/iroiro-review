@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 18 Jun 2024 23:56:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 00:10:40 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>グルーガンのスティックを導光材として活用</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%AC%E3%83%B3%E3%81%AE%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%92%E5%B0%8E%E5%85%89%E6%9D%90%E3%81%A8%E3%81%97%E3%81%A6%E6%B4%BB%E7%94%A8/</link>
+      <pubDate>Thu, 20 Jun 2024 00:10:40 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%AC%E3%83%B3%E3%81%AE%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%92%E5%B0%8E%E5%85%89%E6%9D%90%E3%81%A8%E3%81%97%E3%81%A6%E6%B4%BB%E7%94%A8/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/グルーガンのスティックを導光材として活用.jpg"&gt;派手に光ってうっとりするBTスピーカーできたよー！ #m5stack #電子工作から発見。画像もここから転載。
+グルーガンのスティックを導光材として活用して、派手に光るBluetoothスピーカーを自作しています。 メインの部分はM5Stackとなっており、そこからフルカラーLEDを複数並べて光る部分を作成しているようです。
+簡単に手に入る材料で面白い表現ができるので、応用の効きそうなテクニックです
+ </description>
+    </item>
     
     <item>
       <title>ロースペックなCH32V003で手書きの数字の認識を行う</title>
@@ -114,18 +126,6 @@ ThinkPad 701cのケースを3Dプリンタで作り直している事例です�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH552搭載の開発ボード.jpg"&gt;Adafruit CH552 QT Py - A 8051 Powered Dev Board with RGB LED and STEMMA QT - Electronics-Lab.comから発見。画像もここから転載。
 安価な割にそこそこのスペックと言うことで有名なCH552を搭載した開発ボードがAdafruitから発売されています。
 CH552は8051ベースのマイコンと言うことで、開発環境周りが貧弱なのがネックでしたが、Adafruitが参入することで、そのあたりが整備されたり、知見が貯まると良いなと思います。</description>
-    </item>
-    
-    <item>
-      <title>カメラの写真をEtch-A-Sketchで描く装置</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%A1%E3%83%A9%E3%81%AE%E5%86%99%E7%9C%9F%E3%82%92etch-a-sketch%E3%81%A7%E6%8F%8F%E3%81%8F%E8%A3%85%E7%BD%AE/</link>
-      <pubDate>Tue, 04 Jun 2024 23:54:50 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%A1%E3%83%A9%E3%81%AE%E5%86%99%E7%9C%9F%E3%82%92etch-a-sketch%E3%81%A7%E6%8F%8F%E3%81%8F%E8%A3%85%E7%BD%AE/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/カメラの写真をEtch-A-Sketchで描く装置.jpg"&gt;Etch-A-Sketch Camera Is Open Sourceから発見。画像もここから転載。
-Etch-A-Sketchという2つのつまみで絵を描くおもちゃをESP32で自動操縦して、カメラに映った風景を描画する装置の作例です。
-写真からEtch-A-Sketch描画用のGCodeへの変換はパソコンで行い、その結果をESP32に送信しているようです。 描画速度は遅いようですが、味のある絵が魅力的です。
- </description>
     </item>
     
   </channel>
