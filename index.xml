@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 20 Jun 2024 00:10:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 23:45:04 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CLIからRaspberry Pi Picoを操作するためのOS</title>
+      <link>https://inajob.github.io/iroiro-review/post/cli%E3%81%8B%E3%82%89raspberry-pi-pico%E3%82%92%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AEos/</link>
+      <pubDate>Thu, 20 Jun 2024 23:45:04 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/cli%E3%81%8B%E3%82%89raspberry-pi-pico%E3%82%92%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AEos/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CLIからRaspberry Pi Picoを操作するためのOS.jpg"&gt;BreadboardOS, A Command Line Interface For The Picoから発見。画像もここから転載。
+CLIからRaspberry Pi Picoを操作するためのOSというのがあるようです。
+OSというと様々な定義がありますが、これはCUIベースのシェルからマイコンの様々な機能を呼び出せるというようなもののようです。
+コマンドやサービスを独自に拡張することもできるので、このOSをベースとしてオリジナルのガジェットを作ることも出来そうです
+ </description>
+    </item>
     
     <item>
       <title>グルーガンのスティックを導光材として活用</title>
@@ -115,17 +128,6 @@ ThinkPad 701cのケースを3Dプリンタで作り直している事例です�
 この記事で紹介するのは、そんな制限を取っ払って、キャラクタ液晶に自由なビットマップを表示する方法のようです。
 この手のディスプレイはHD44780という日立製のICの互換品が使われています。このICの信号のいくつかを乗っ取ることで任意のビットマップをディスプレイに流し込むことが出来るということのようです。
 といってもそれも簡単ではなく、既存の5*8ピクセルのフォントの横5ピクセルのラインを切り替えて任意の文字を表示するようなトリッキー手法のようです。</description>
-    </item>
-    
-    <item>
-      <title>CH552搭載の開発ボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/ch552%E6%90%AD%E8%BC%89%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Fri, 07 Jun 2024 00:09:17 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/ch552%E6%90%AD%E8%BC%89%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH552搭載の開発ボード.jpg"&gt;Adafruit CH552 QT Py - A 8051 Powered Dev Board with RGB LED and STEMMA QT - Electronics-Lab.comから発見。画像もここから転載。
-安価な割にそこそこのスペックと言うことで有名なCH552を搭載した開発ボードがAdafruitから発売されています。
-CH552は8051ベースのマイコンと言うことで、開発環境周りが貧弱なのがネックでしたが、Adafruitが参入することで、そのあたりが整備されたり、知見が貯まると良いなと思います。</description>
     </item>
     
   </channel>
