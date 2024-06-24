@@ -5,9 +5,19 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 23 Jun 2024 23:56:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 23:56:58 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ATmega328Pにグリッチ攻撃を仕掛けるデモ</title>
+      <link>https://inajob.github.io/iroiro-review/post/atmega328p%E3%81%AB%E3%82%B0%E3%83%AA%E3%83%83%E3%83%81%E6%94%BB%E6%92%83%E3%82%92%E4%BB%95%E6%8E%9B%E3%81%91%E3%82%8B%E3%83%87%E3%83%A2/</link>
+      <pubDate>Mon, 24 Jun 2024 23:56:58 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/atmega328p%E3%81%AB%E3%82%B0%E3%83%AA%E3%83%83%E3%83%81%E6%94%BB%E6%92%83%E3%82%92%E4%BB%95%E6%8E%9B%E3%81%91%E3%82%8B%E3%83%87%E3%83%A2/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ATmega328Pにグリッチ攻撃を仕掛けるデモ.jpg"&gt;Glitching An ATMega328P Has Never Been Simplerから発見。画像もここから転載。
+ATmega328Pにグリッチ攻撃を仕掛けるデモです マイコンの電源をOFF/ONをタイミングよく繰り替えることで誤動作を誘発し、本来であれば到達しないロジックを実行させることが出来るということのようです。</description>
+    </item>
     
     <item>
       <title>NFC名刺</title>
@@ -113,18 +123,6 @@ Pong Wars自体はよくあるアニメーションのようですが、この�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ThinkPad 701cのケースを3Dプリンタで作り直す.jpg"&gt;Printing A Replacement Case For The ThinkPad 701cから発見。画像もここから転載。
 ThinkPad 701cのケースを3Dプリンタで作り直している事例です。
 寸法を丁寧に計測して、本物と同じ形の筐体をデザインしています。 素材が違うため、同じ形で作っても、強度に難があるもののようですが、一部の割れてしまったパーツをこのデータを基に作り直すなどの用途で活用できそうとのことです。
- </description>
-    </item>
-    
-    <item>
-      <title>タコの足のような触手アーム</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%BF%E3%82%B3%E3%81%AE%E8%B6%B3%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E8%A7%A6%E6%89%8B%E3%82%A2%E3%83%BC%E3%83%A0/</link>
-      <pubDate>Mon, 10 Jun 2024 23:24:49 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%BF%E3%82%B3%E3%81%AE%E8%B6%B3%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E8%A7%A6%E6%89%8B%E3%82%A2%E3%83%BC%E3%83%A0/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/タコの足のような触手アーム.jpg"&gt;Tentacle Robot Wants To Hold You Gentlyから発見。画像もここから転載。
-タコの足のような触手アームの実験です。 1つのポンプで柔軟に物をつかむことが出来て便利そうです。
-将来のロボットの手はこのような触手になるのでしょうか？ちょっと不気味ですね。
  </description>
     </item>
     

@@ -5,9 +5,19 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 10 Jun 2024 23:24:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 23:56:58 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ATmega328Pにグリッチ攻撃を仕掛けるデモ</title>
+      <link>https://inajob.github.io/iroiro-review/post/atmega328p%E3%81%AB%E3%82%B0%E3%83%AA%E3%83%83%E3%83%81%E6%94%BB%E6%92%83%E3%82%92%E4%BB%95%E6%8E%9B%E3%81%91%E3%82%8B%E3%83%87%E3%83%A2/</link>
+      <pubDate>Mon, 24 Jun 2024 23:56:58 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/atmega328p%E3%81%AB%E3%82%B0%E3%83%AA%E3%83%83%E3%83%81%E6%94%BB%E6%92%83%E3%82%92%E4%BB%95%E6%8E%9B%E3%81%91%E3%82%8B%E3%83%87%E3%83%A2/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ATmega328Pにグリッチ攻撃を仕掛けるデモ.jpg"&gt;Glitching An ATMega328P Has Never Been Simplerから発見。画像もここから転載。
+ATmega328Pにグリッチ攻撃を仕掛けるデモです マイコンの電源をOFF/ONをタイミングよく繰り替えることで誤動作を誘発し、本来であれば到達しないロジックを実行させることが出来るということのようです。</description>
+    </item>
     
     <item>
       <title>タコの足のような触手アーム</title>
@@ -118,18 +128,6 @@
 積層式3Dプリントでは、中空に造形することが出来ないので、サポート材という足場のような構造をつかい、中空に造形することを実現しますが、この記事で紹介するのは、あらかじめサポート材的な立体物をTPUで作成し、プリントの途中で、この立体物を成果物に差し込むことで、サポート材の出力をせずに、中空に造形することを実現しています。
 TPUはPLAとくっついてもはがれやすいので、成果物から剥がすのも簡単のようです。
  </description>
-    </item>
-    
-    <item>
-      <title>時計の文字盤を基板として作る</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%99%82%E8%A8%88%E3%81%AE%E6%96%87%E5%AD%97%E7%9B%A4%E3%82%92%E5%9F%BA%E6%9D%BF%E3%81%A8%E3%81%97%E3%81%A6%E4%BD%9C%E3%82%8B/</link>
-      <pubDate>Mon, 06 May 2024 23:43:51 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%99%82%E8%A8%88%E3%81%AE%E6%96%87%E5%AD%97%E7%9B%A4%E3%82%92%E5%9F%BA%E6%9D%BF%E3%81%A8%E3%81%97%E3%81%A6%E4%BD%9C%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/時計の文字盤を基板として作る.jpg"&gt;Fabbing A Fab New Watch Faceから発見。画像もここから転載。
-プリント基板というのはある程度の厚さの板に銅箔パターンやモノクロ印刷したものと捉えることができ、回路だけでなくちょっと変わった名刺などの作例も見かけることがあります。
-そのような路線の作品として、この記事では時計の文字盤を基板として作成しています。
-白黒2値の印刷であればこのような用途で基板を発注するのは、場合によってはリーズナブルとなりそうです。</description>
     </item>
     
   </channel>

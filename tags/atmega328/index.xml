@@ -5,9 +5,19 @@
     <description>Recent content in ATmega328 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 05 Oct 2022 22:59:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 23:56:58 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/atmega328/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ATmega328Pにグリッチ攻撃を仕掛けるデモ</title>
+      <link>https://inajob.github.io/iroiro-review/post/atmega328p%E3%81%AB%E3%82%B0%E3%83%AA%E3%83%83%E3%83%81%E6%94%BB%E6%92%83%E3%82%92%E4%BB%95%E6%8E%9B%E3%81%91%E3%82%8B%E3%83%87%E3%83%A2/</link>
+      <pubDate>Mon, 24 Jun 2024 23:56:58 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/atmega328p%E3%81%AB%E3%82%B0%E3%83%AA%E3%83%83%E3%83%81%E6%94%BB%E6%92%83%E3%82%92%E4%BB%95%E6%8E%9B%E3%81%91%E3%82%8B%E3%83%87%E3%83%A2/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ATmega328Pにグリッチ攻撃を仕掛けるデモ.jpg"&gt;Glitching An ATMega328P Has Never Been Simplerから発見。画像もここから転載。
+ATmega328Pにグリッチ攻撃を仕掛けるデモです マイコンの電源をOFF/ONをタイミングよく繰り替えることで誤動作を誘発し、本来であれば到達しないロジックを実行させることが出来るということのようです。</description>
+    </item>
     
     <item>
       <title>マルバツゲームがプレイできる名刺基板</title>
@@ -120,18 +130,6 @@ Arduinoと同じAtmega328を非常に小さくまとめているボードです�
 特徴的なのはこのカセットの側に「CPU」がついているということです。
 ArduboyやGamebuinoといったゲーム機は本体に搭載されたCPUのFlash領域を書き換えることでゲームを書き換えていましたが、それはそれで書き換えが面倒だったり、Flashの書き換え回数制限など問題がいくつかあります。
 この方式だとそういうことをせずにゲームを切り替えられるということで、面白い方法だなと思いました。</description>
-    </item>
-    
-    <item>
-      <title>いい感じのLED照明キット</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%81%84%E3%81%84%E6%84%9F%E3%81%98%E3%81%AEled%E7%85%A7%E6%98%8E%E3%82%AD%E3%83%83%E3%83%88/</link>
-      <pubDate>Sat, 30 Mar 2019 23:00:10 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%84%E3%81%84%E6%84%9F%E3%81%98%E3%81%AEled%E7%85%A7%E6%98%8E%E3%82%AD%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/magiccube.jpg"&gt;MagicCube - Tap to Change Colorにて発見。画像もこちらから転載（By Rudeldi CC BY-NC-SA）
-MagicCube - tap to change colorから購入もできる。
-透明フィラメントを使って、いい感じの雰囲気を演出している。 CPUはArduinoとおなじATmega328P、加速度センサー、充電回路などを搭載している。
- </description>
     </item>
     
   </channel>
