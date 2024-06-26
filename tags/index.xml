@@ -5,9 +5,36 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 24 Jun 2024 23:56:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 00:29:39 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>モアレ</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E3%83%A2%E3%82%A2%E3%83%AC/</link>
+      <pubDate>Wed, 26 Jun 2024 00:29:39 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E3%83%A2%E3%82%A2%E3%83%AC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>時計</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E6%99%82%E8%A8%88/</link>
+      <pubDate>Wed, 26 Jun 2024 00:29:39 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E6%99%82%E8%A8%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>表示機</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
+      <pubDate>Wed, 26 Jun 2024 00:29:39 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>ATmega328</title>
@@ -69,33 +96,6 @@
       <pubDate>Thu, 20 Jun 2024 00:10:40 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%AC%E3%83%B3/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>CH32V003</title>
-      <link>https://inajob.github.io/iroiro-review/tags/ch32v003/</link>
-      <pubDate>Tue, 18 Jun 2024 23:56:37 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/ch32v003/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>CH552</title>
-      <link>https://inajob.github.io/iroiro-review/tags/ch552/</link>
-      <pubDate>Mon, 17 Jun 2024 22:52:54 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/ch552/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>RP2040</title>
-      <link>https://inajob.github.io/iroiro-review/tags/rp2040/</link>
-      <pubDate>Mon, 17 Jun 2024 00:02:59 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/rp2040/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
