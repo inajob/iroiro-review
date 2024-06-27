@@ -5,9 +5,26 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 26 Jun 2024 00:29:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 23:59:32 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RP2040をいい感じに固定する治具</title>
+      <link>https://inajob.github.io/iroiro-review/post/rp2040%E3%82%92%E3%81%84%E3%81%84%E6%84%9F%E3%81%98%E3%81%AB%E5%9B%BA%E5%AE%9A%E3%81%99%E3%82%8B%E6%B2%BB%E5%85%B7/</link>
+      <pubDate>Wed, 26 Jun 2024 23:59:32 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/rp2040%E3%82%92%E3%81%84%E3%81%84%E6%84%9F%E3%81%98%E3%81%AB%E5%9B%BA%E5%AE%9A%E3%81%99%E3%82%8B%E6%B2%BB%E5%85%B7/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/RP2040をいい感じに固定する治具.jpg"&gt;74thさんのPostから発見。画像もここから転載。
+RP2040をいい感じに固定する治具 RP2040はパワフルで比較的安価なマイコンですが、パッケージがQFN56となっており、手ではんだ付けするのはなかなか難易度が高いです。
+ここで紹介しているのは、RP2040を手ではんだ付けする時に部品をピッタリの位置に固定するための治具です。
+あらゆる位置合わせができるように穴がいっぱい空いており、対象基板にいくつかスルーホール穴を開けておくだけで利用できるようです。
+こちら から購入もできます
+RP2040の手はんだ実装の失敗をゼロにすべく、汎用位置合わせ治具を作った。
+ちょっと離れた位置にスルーホールを開けておいて、そこにピンヘッダを通して、位置合わせができる。
+今後新しいRP2040基板を作っても汎用的に使えて、なくても実装できるけど神経すり減らさなくて良くなる。 pic.twitter.com/1MrKxzbXWm
+&amp;mdash; 74th (@74th) March 12, 2024  </description>
+    </item>
     
     <item>
       <title>モアレパターンを利用して数字を表示する面白い時計</title>
@@ -109,20 +126,6 @@ Picopadという、オープンソースのRP2040ベースの携帯ゲーム機�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32V003をコアとしたパソコン.jpg"&gt;CH32V003 Makes For Dirt Cheap RISC-V Computerから発見。画像もここから転載。
 CH32V003をコアとしたシンプルなパソコンです。 画面出力、PS/2キーボード、スピーカーをサポートしており、低スペックでありながら最低限の動作はするようです。
 とはいえRAMが2Kしかないので画面は40×25文字の表示ができるという程度のものです。</description>
-    </item>
-    
-    <item>
-      <title>フルカラードットマトリクスディスプレイでPong Wars</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%81%A7pong-wars/</link>
-      <pubDate>Wed, 12 Jun 2024 23:43:45 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%81%A7pong-wars/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/フルカラードットマトリクスディスプレイでPong Wars.jpg"&gt;由井河あきらさんのPostから発見。画像もここから転載。
-フルカラードットマトリクスディスプレイでPong Warsというアニメーションを表示する作例です。
-Pong Wars自体はよくあるアニメーションのようですが、このようなインテリアのようなガジェットで表示するとずっと見ていられるということに気づきました。
-ドットマトリクスディスプレイにPong Wars移植した！
-ずっと見てられる～#作るV pic.twitter.com/MwbCrj5Zaf
-&amp;mdash; 由井河あきら (@Akira_Yuikawa) May 26, 2024  </description>
     </item>
     
   </channel>
