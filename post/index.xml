@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 26 Jun 2024 23:59:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 00:04:23 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Winamp風の画面を持つオーディオプレイヤー</title>
+      <link>https://inajob.github.io/iroiro-review/post/winamp%E9%A2%A8%E3%81%AE%E7%94%BB%E9%9D%A2%E3%82%92%E6%8C%81%E3%81%A4%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC/</link>
+      <pubDate>Fri, 28 Jun 2024 00:04:23 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/winamp%E9%A2%A8%E3%81%AE%E7%94%BB%E9%9D%A2%E3%82%92%E6%8C%81%E3%81%A4%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Winamp風の画面を持つオーディオプレイヤー.jpg"&gt;Linamp, The IRL Winampから発見。画像もここから転載。
+Winamp風の画面を持つオーディオプレイヤーです。 重厚な金属製の筐体で、前面がタッチパネル付きディスプレイになっており、そｋにWinamp風の画面を表示しています。
+Winampは、おそらく物理的なオーディオプレーヤーを模した画面設計だったと思いますが、それが一周回ってこのような携帯でリメイクされるという現象が面白いです。
+中身はRaspberry Pi 4なので、他にもいろいろなアプリケーションに擬態できそうです。</description>
+    </item>
     
     <item>
       <title>RP2040をいい感じに固定する治具</title>
@@ -115,17 +127,6 @@ Picopadという、オープンソースのRP2040ベースの携帯ゲーム機�
 ディスプレイは2インチの240*320のカラーディスプレイ、LED、スピーカー、MicroSDスロット、リチウムイオンバッテリーなどを搭載しています。
 プログラミングはCのSDKやCircuitPython、MicroPythonを利用できます。
 基板を流用したフロントパネルも遊び心満載で魅力的です。</description>
-    </item>
-    
-    <item>
-      <title>CH32V003をコアとしたパソコン</title>
-      <link>https://inajob.github.io/iroiro-review/post/ch32v003%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/</link>
-      <pubDate>Fri, 14 Jun 2024 00:13:05 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/ch32v003%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32V003をコアとしたパソコン.jpg"&gt;CH32V003 Makes For Dirt Cheap RISC-V Computerから発見。画像もここから転載。
-CH32V003をコアとしたシンプルなパソコンです。 画面出力、PS/2キーボード、スピーカーをサポートしており、低スペックでありながら最低限の動作はするようです。
-とはいえRAMが2Kしかないので画面は40×25文字の表示ができるという程度のものです。</description>
     </item>
     
   </channel>
