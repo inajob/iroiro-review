@@ -5,9 +5,21 @@
     <description>Recent content in ESP32 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 04 Jun 2024 23:54:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 00:20:39 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/esp32/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32をコアとした16キードラムマシン</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F16%E3%82%AD%E3%83%BC%E3%83%89%E3%83%A9%E3%83%A0%E3%83%9E%E3%82%B7%E3%83%B3/</link>
+      <pubDate>Tue, 02 Jul 2024 00:20:39 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F16%E3%82%AD%E3%83%BC%E3%83%89%E3%83%A9%E3%83%A0%E3%83%9E%E3%82%B7%E3%83%B3/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32をコアとした16キードラムマシン.jpg"&gt;ESP32 Powered Crunch-E Makes Beats On The Goから発見。画像もここから転載。
+ESP32をコアとした16キードラムマシンの作例です。 ESP32と16個のスイッチ、DACというシンプルな構成ですが、なかなか楽しそうな演奏が出来ています。
+シンプルな構成なのでブレッドボードなどで真似して作るのも簡単そうです。
+ </description>
+    </item>
     
     <item>
       <title>カメラの写真をEtch-A-Sketchで描く装置</title>
@@ -116,19 +128,6 @@ ESP32 を搭載したLyratというボードは、Esspressifが公式に設計�
       <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%81%AE%E5%90%84%E3%83%94%E3%83%B3%E3%81%8C%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E7%8A%B6%E6%85%8B%E5%8C%96%E3%82%92%E5%8F%AF%E8%A6%96%E5%8C%96%E3%81%99%E3%82%8B%E4%BB%95%E7%B5%84%E3%81%BF/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32の各ピンがどのような状態化を可視化する仕組み.jpg"&gt;Spying On The ESP32’s GPIOから発見。画像もここから転載。
 ESP32の各ピンがどのような状態化を可視化する仕組みです。 WiFi経由でWebサーバーとして動くというリッチなシステムですが、ESP32はWiFiを使いWebサーバを作ることが出来るのでこのような仕組みを作るにはぴったりです。</description>
-    </item>
-    
-    <item>
-      <title>ESP32をコアとしたLuaでゲームを作る環境</title>
-      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9Flua%E3%81%A7%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E4%BD%9C%E3%82%8B%E7%92%B0%E5%A2%83/</link>
-      <pubDate>Wed, 29 Nov 2023 23:46:29 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9Flua%E3%81%A7%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E4%BD%9C%E3%82%8B%E7%92%B0%E5%A2%83/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32をコアとしたLuaでゲームを作る環境.jpg"&gt;Haco3 | ProtoPediaから発見。画像もここから転載。
-ESP32をコアとしたLuaでゲームを作る環境の作例です。 ダイソーの300円テトリス筐体を流用することでモバイルゲーム機のような見た目をした筐体を実現しています。
-キーボード入力もサポートしているようで、この機能を使うことで、理論的にはこの端末とキーボードだけでゲーム開発が出来るようです。
-Lua言語は組み込みやすいので、このような環境を比較的簡単に作れて便利です。また、ESP32もパワフルなマイコンなので、思った以上に立地なゲームを動作することが出来るようです。
- </description>
     </item>
     
   </channel>
