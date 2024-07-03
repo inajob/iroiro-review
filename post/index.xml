@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 02 Jul 2024 00:20:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 00:13:30 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>お手製の摩擦電気発電機</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8A%E6%89%8B%E8%A3%BD%E3%81%AE%E6%91%A9%E6%93%A6%E9%9B%BB%E6%B0%97%E7%99%BA%E9%9B%BB%E6%A9%9F/</link>
+      <pubDate>Wed, 03 Jul 2024 00:13:30 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8A%E6%89%8B%E8%A3%BD%E3%81%AE%E6%91%A9%E6%93%A6%E9%9B%BB%E6%B0%97%E7%99%BA%E9%9B%BB%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/お手製の摩擦電気発電機.jpg"&gt;Is That A Triboelectric Generator In Your Shoe?から発見。画像もここから転載。
+お手製の摩擦電気発電機。材料としてはアルミテープと、梱包用のポリプロピレンテープで作れるようです。 靴底に仕込むとLEDをちょっと光らせるくらいのことが出来るみたいです。
+ </description>
+    </item>
     
     <item>
       <title>ESP32をコアとした16キードラムマシン</title>
@@ -117,17 +128,6 @@ OSというと様々な定義がありますが、これはCUIベースのシェ
 グルーガンのスティックを導光材として活用して、派手に光るBluetoothスピーカーを自作しています。 メインの部分はM5Stackとなっており、そこからフルカラーLEDを複数並べて光る部分を作成しているようです。
 簡単に手に入る材料で面白い表現ができるので、応用の効きそうなテクニックです
  </description>
-    </item>
-    
-    <item>
-      <title>ロースペックなCH32V003で手書きの数字の認識を行う</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AD%E3%83%BC%E3%82%B9%E3%83%9A%E3%83%83%E3%82%AF%E3%81%AAch32v003%E3%81%A7%E6%89%8B%E6%9B%B8%E3%81%8D%E3%81%AE%E6%95%B0%E5%AD%97%E3%81%AE%E8%AA%8D%E8%AD%98%E3%82%92%E8%A1%8C%E3%81%86/</link>
-      <pubDate>Tue, 18 Jun 2024 23:56:37 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AD%E3%83%BC%E3%82%B9%E3%83%9A%E3%83%83%E3%82%AF%E3%81%AAch32v003%E3%81%A7%E6%89%8B%E6%9B%B8%E3%81%8D%E3%81%AE%E6%95%B0%E5%AD%97%E3%81%AE%E8%AA%8D%E8%AD%98%E3%82%92%E8%A1%8C%E3%81%86/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ロースペックなCH32V003で手書きの数字の認識を行う.jpg"&gt;BitNetMCU Slims Down TinyML Models - Electronics-Lab.comから発見。画像もここから転載。
-CH32V003はRAM2K、ROM16Kの非常に低スペックなマイコンですが、この環境で動作するニューラルネットワークの推論ライブラリがあるようです。
-手書き文字認識などを実現するためには、そこそこのスペックが必要かと思っていましたが、案外低スペックでも動作するものなんですね。</description>
     </item>
     
   </channel>
