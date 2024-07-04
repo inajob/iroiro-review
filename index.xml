@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 04 Jul 2024 00:06:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 23:50:12 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>安価なHDMI切り替え機をホームアシスタントから制御する</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E4%BE%A1%E3%81%AAhdmi%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88%E6%A9%9F%E3%82%92%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88%E3%81%8B%E3%82%89%E5%88%B6%E5%BE%A1%E3%81%99%E3%82%8B/</link>
+      <pubDate>Thu, 04 Jul 2024 23:50:12 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E4%BE%A1%E3%81%AAhdmi%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88%E6%A9%9F%E3%82%92%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88%E3%81%8B%E3%82%89%E5%88%B6%E5%BE%A1%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/安価なHDMI切り替え機をホームアシスタントから制御する.jpg"&gt;Interfacing A Cheap HDMI Switch With Home Assistantから発見。画像もここから転載。
+安価なHDMI切り替え機をホームアシスタントから制御する手法を紹介しています。
+安価なHDMI切り替え機の中には、赤外線で入力チャンネルを切り替えられる機能を持つものがありますが、その赤外線信号をESP32から出すことで、WiFi経由でHDMI切り替えできるようにしています。
+赤外線信号を受け付ける機器をWiFi対応させるのは応用のききそうなテクニックです。</description>
+    </item>
     
     <item>
       <title>フリクションインクを使って異常に発熱している部品を可視化する</title>
@@ -118,19 +130,6 @@ ATmega328Pにグリッチ攻撃を仕掛けるデモです マイコンの電源
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/NFC名刺.jpg"&gt;PCB Business Card for Everybodyから発見。画像もここから転載。
 基板を使った名刺の作例や、その金銭的コストについて紹介している記事です。 名刺基板としてのスペックとして重要な、基板の厚さや、表面処理についても紹介があります。
 NFC対応の名刺については、NT3H1101, NT3H2111, NT3H2211といったNFCのためのICが紹介してあり、に多様な作例を作る際の参考になりそうです。</description>
-    </item>
-    
-    <item>
-      <title>CLIからRaspberry Pi Picoを操作するためのOS</title>
-      <link>https://inajob.github.io/iroiro-review/post/cli%E3%81%8B%E3%82%89raspberry-pi-pico%E3%82%92%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AEos/</link>
-      <pubDate>Thu, 20 Jun 2024 23:45:04 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/cli%E3%81%8B%E3%82%89raspberry-pi-pico%E3%82%92%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AEos/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CLIからRaspberry Pi Picoを操作するためのOS.jpg"&gt;BreadboardOS, A Command Line Interface For The Picoから発見。画像もここから転載。
-CLIからRaspberry Pi Picoを操作するためのOSというのがあるようです。
-OSというと様々な定義がありますが、これはCUIベースのシェルからマイコンの様々な機能を呼び出せるというようなもののようです。
-コマンドやサービスを独自に拡張することもできるので、このOSをベースとしてオリジナルのガジェットを作ることも出来そうです
- </description>
     </item>
     
   </channel>
