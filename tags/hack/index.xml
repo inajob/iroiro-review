@@ -5,9 +5,24 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 24 Jun 2024 23:56:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 00:06:16 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>フリクションインクを使って異常に発熱している部品を可視化する</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A4%E3%83%B3%E3%82%AF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E7%95%B0%E5%B8%B8%E3%81%AB%E7%99%BA%E7%86%B1%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E9%83%A8%E5%93%81%E3%82%92%E5%8F%AF%E8%A6%96%E5%8C%96%E3%81%99%E3%82%8B/</link>
+      <pubDate>Thu, 04 Jul 2024 00:06:16 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A4%E3%83%B3%E3%82%AF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E7%95%B0%E5%B8%B8%E3%81%AB%E7%99%BA%E7%86%B1%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E9%83%A8%E5%93%81%E3%82%92%E5%8F%AF%E8%A6%96%E5%8C%96%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/フリクションインクを使って異常に発熱している部品を可視化する.jpg"&gt;【基板アート】日本電気工学技術製作所さんのPostから発見。画像もここから転載。
+最近よく見かけるようになった、こすると消えるボールペン。通称「フリクションボールペン」ですが、このインクは温度により色が透明になるというものです。（そのため、こすると摩擦熱で消える）
+この性質を応用することで、電子部品の温度が高くなっているかどうかを簡易的に測定するマーカーを作っています。
+100円ショップで売っている丸いシールをフリクションのマーカーで塗り潰す。
+フリクションペンのインクはおおよそ65℃で色が消えるので、わずか200円ちょっとで簡易サーモラベルの出来上がり。
+気になるところにペタッと貼っておけば、発熱している部品が一目瞭然。 pic.twitter.com/tJOWyFVjlH
+&amp;mdash; 【基板アート】日本電気工学技術製作所 (@PCBart_neetf) June 24, 2024  </description>
+    </item>
     
     <item>
       <title>ATmega328Pにグリッチ攻撃を仕掛けるデモ</title>
@@ -115,18 +130,6 @@ ATmega328Pにグリッチ攻撃を仕掛けるデモです マイコンの電源
       <guid>https://inajob.github.io/iroiro-review/post/%E6%B0%B4%E9%81%93%E3%83%9B%E3%83%BC%E3%82%B9%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E3%81%AA%E3%83%87%E3%82%A3%E3%83%AC%E3%82%A4/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/水道ホースを使ったアナログなディレイ.jpg"&gt;An Audio Delay, The Garden Hose Wayから発見。画像もここから転載。
 水道ホースを使ったアナログなディレイの手法を紹介します。 単純に長い水道のホースに音を通すことで、ディレイ的な効果をアナログで実現します。
- </description>
-    </item>
-    
-    <item>
-      <title>積層式3DプリントであらかじめTPUでサポートを作っておくテクニック</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E7%A9%8D%E5%B1%A4%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A7%E3%81%82%E3%82%89%E3%81%8B%E3%81%98%E3%82%81tpu%E3%81%A7%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%8A%E3%81%8F%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</link>
-      <pubDate>Sun, 12 May 2024 23:46:43 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E7%A9%8D%E5%B1%A4%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A7%E3%81%82%E3%82%89%E3%81%8B%E3%81%98%E3%82%81tpu%E3%81%A7%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%8A%E3%81%8F%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/積層式3DプリントであらかじめTPUでサポートを作っておくテクニック.jpg"&gt;Manual Supports For 3D Printingから発見。画像もここから転載。
-積層式3Dプリントでは、中空に造形することが出来ないので、サポート材という足場のような構造をつかい、中空に造形することを実現しますが、この記事で紹介するのは、あらかじめサポート材的な立体物をTPUで作成し、プリントの途中で、この立体物を成果物に差し込むことで、サポート材の出力をせずに、中空に造形することを実現しています。
-TPUはPLAとくっついてもはがれやすいので、成果物から剥がすのも簡単のようです。
  </description>
     </item>
     

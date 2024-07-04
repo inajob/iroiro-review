@@ -5,9 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 03 Jul 2024 00:13:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 00:06:16 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>フリクションインクを使って異常に発熱している部品を可視化する</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A4%E3%83%B3%E3%82%AF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E7%95%B0%E5%B8%B8%E3%81%AB%E7%99%BA%E7%86%B1%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E9%83%A8%E5%93%81%E3%82%92%E5%8F%AF%E8%A6%96%E5%8C%96%E3%81%99%E3%82%8B/</link>
+      <pubDate>Thu, 04 Jul 2024 00:06:16 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A4%E3%83%B3%E3%82%AF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E7%95%B0%E5%B8%B8%E3%81%AB%E7%99%BA%E7%86%B1%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E9%83%A8%E5%93%81%E3%82%92%E5%8F%AF%E8%A6%96%E5%8C%96%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/フリクションインクを使って異常に発熱している部品を可視化する.jpg"&gt;【基板アート】日本電気工学技術製作所さんのPostから発見。画像もここから転載。
+最近よく見かけるようになった、こすると消えるボールペン。通称「フリクションボールペン」ですが、このインクは温度により色が透明になるというものです。（そのため、こすると摩擦熱で消える）
+この性質を応用することで、電子部品の温度が高くなっているかどうかを簡易的に測定するマーカーを作っています。
+100円ショップで売っている丸いシールをフリクションのマーカーで塗り潰す。
+フリクションペンのインクはおおよそ65℃で色が消えるので、わずか200円ちょっとで簡易サーモラベルの出来上がり。
+気になるところにペタッと貼っておけば、発熱している部品が一目瞭然。 pic.twitter.com/tJOWyFVjlH
+&amp;mdash; 【基板アート】日本電気工学技術製作所 (@PCBart_neetf) June 24, 2024  </description>
+    </item>
     
     <item>
       <title>お手製の摩擦電気発電機</title>
@@ -115,18 +130,6 @@ NFC対応の名刺については、NT3H1101, NT3H2111, NT3H2211といったNFC�
 CLIからRaspberry Pi Picoを操作するためのOSというのがあるようです。
 OSというと様々な定義がありますが、これはCUIベースのシェルからマイコンの様々な機能を呼び出せるというようなもののようです。
 コマンドやサービスを独自に拡張することもできるので、このOSをベースとしてオリジナルのガジェットを作ることも出来そうです
- </description>
-    </item>
-    
-    <item>
-      <title>グルーガンのスティックを導光材として活用</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%AC%E3%83%B3%E3%81%AE%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%92%E5%B0%8E%E5%85%89%E6%9D%90%E3%81%A8%E3%81%97%E3%81%A6%E6%B4%BB%E7%94%A8/</link>
-      <pubDate>Thu, 20 Jun 2024 00:10:40 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%AC%E3%83%B3%E3%81%AE%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%92%E5%B0%8E%E5%85%89%E6%9D%90%E3%81%A8%E3%81%97%E3%81%A6%E6%B4%BB%E7%94%A8/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/グルーガンのスティックを導光材として活用.jpg"&gt;派手に光ってうっとりするBTスピーカーできたよー！ #m5stack #電子工作から発見。画像もここから転載。
-グルーガンのスティックを導光材として活用して、派手に光るBluetoothスピーカーを自作しています。 メインの部分はM5Stackとなっており、そこからフルカラーLEDを複数並べて光る部分を作成しているようです。
-簡単に手に入る材料で面白い表現ができるので、応用の効きそうなテクニックです
  </description>
     </item>
     
