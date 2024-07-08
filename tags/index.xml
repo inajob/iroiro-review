@@ -5,9 +5,27 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 07 Jul 2024 23:54:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 23:33:12 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raspberry Pi Pico</title>
+      <link>https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico/</link>
+      <pubDate>Mon, 08 Jul 2024 23:33:12 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>携帯ゲーム機</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Mon, 08 Jul 2024 23:33:12 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>ESP32</title>
@@ -78,24 +96,6 @@
       <pubDate>Fri, 28 Jun 2024 00:04:23 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/winamp/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>RP2040</title>
-      <link>https://inajob.github.io/iroiro-review/tags/rp2040/</link>
-      <pubDate>Wed, 26 Jun 2024 23:59:32 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/rp2040/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>治具</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E6%B2%BB%E5%85%B7/</link>
-      <pubDate>Wed, 26 Jun 2024 23:59:32 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E6%B2%BB%E5%85%B7/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
