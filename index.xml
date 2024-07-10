@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 09 Jul 2024 23:54:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 23:34:11 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタ向けの頑丈だけどパチンとはめられる形状</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E5%90%91%E3%81%91%E3%81%AE%E9%A0%91%E4%B8%88%E3%81%A0%E3%81%91%E3%81%A9%E3%83%91%E3%83%81%E3%83%B3%E3%81%A8%E3%81%AF%E3%82%81%E3%82%89%E3%82%8C%E3%82%8B%E5%BD%A2%E7%8A%B6/</link>
+      <pubDate>Wed, 10 Jul 2024 23:34:11 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E5%90%91%E3%81%91%E3%81%AE%E9%A0%91%E4%B8%88%E3%81%A0%E3%81%91%E3%81%A9%E3%83%91%E3%83%81%E3%83%B3%E3%81%A8%E3%81%AF%E3%82%81%E3%82%89%E3%82%8C%E3%82%8B%E5%BD%A2%E7%8A%B6/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ向けの頑丈だけどパチンとはめられる形状.jpg"&gt;74thさんのPostから発見。画像もここから転載。
+3Dプリンタで作った2つの部品をくっつけるために良く使われるのが「スナップフィットジョイント」と呼ばれる「ツメ」と「穴」ですが、この「ツメ」の部分が折れやすいのが問題です。
+このPostでは、ツメをなくし、2つの部品の壁面全部を凹凸の形状にして、パチンと嵌められるようにしています。 素材に合った設計という感じで非常に良いアイデアだと感じました。
+3Dプリンタで作るケース、蓋の爪を作ってもポキが発生するので、もっと簡単にできないかと右側の形にしたら良さそうだった。プラスチックなので、多少寸法きつめでも入るのと、積層痕があるおかげでよく噛み合っている。 pic.twitter.com/im7LfIvNwD
+&amp;mdash; 74th (@74th) June 30, 2024  </description>
+    </item>
     
     <item>
       <title>ポケコン風Forthマシン</title>
@@ -113,23 +126,6 @@ ESP32をコアとした16キードラムマシンの作例です。 ESP32と16�
 Winamp風の画面を持つオーディオプレイヤーです。 重厚な金属製の筐体で、前面がタッチパネル付きディスプレイになっており、そｋにWinamp風の画面を表示しています。
 Winampは、おそらく物理的なオーディオプレーヤーを模した画面設計だったと思いますが、それが一周回ってこのような携帯でリメイクされるという現象が面白いです。
 中身はRaspberry Pi 4なので、他にもいろいろなアプリケーションに擬態できそうです。</description>
-    </item>
-    
-    <item>
-      <title>RP2040をいい感じに固定する治具</title>
-      <link>https://inajob.github.io/iroiro-review/post/rp2040%E3%82%92%E3%81%84%E3%81%84%E6%84%9F%E3%81%98%E3%81%AB%E5%9B%BA%E5%AE%9A%E3%81%99%E3%82%8B%E6%B2%BB%E5%85%B7/</link>
-      <pubDate>Wed, 26 Jun 2024 23:59:32 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/rp2040%E3%82%92%E3%81%84%E3%81%84%E6%84%9F%E3%81%98%E3%81%AB%E5%9B%BA%E5%AE%9A%E3%81%99%E3%82%8B%E6%B2%BB%E5%85%B7/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/RP2040をいい感じに固定する治具.jpg"&gt;74thさんのPostから発見。画像もここから転載。
-RP2040をいい感じに固定する治具 RP2040はパワフルで比較的安価なマイコンですが、パッケージがQFN56となっており、手ではんだ付けするのはなかなか難易度が高いです。
-ここで紹介しているのは、RP2040を手ではんだ付けする時に部品をピッタリの位置に固定するための治具です。
-あらゆる位置合わせができるように穴がいっぱい空いており、対象基板にいくつかスルーホール穴を開けておくだけで利用できるようです。
-こちら から購入もできます
-RP2040の手はんだ実装の失敗をゼロにすべく、汎用位置合わせ治具を作った。
-ちょっと離れた位置にスルーホールを開けておいて、そこにピンヘッダを通して、位置合わせができる。
-今後新しいRP2040基板を作っても汎用的に使えて、なくても実装できるけど神経すり減らさなくて良くなる。 pic.twitter.com/1MrKxzbXWm
-&amp;mdash; 74th (@74th) March 12, 2024  </description>
     </item>
     
   </channel>
