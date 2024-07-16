@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 11 Jul 2024 04:53:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 00:09:32 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>手のひらサイズのキーボード付き端末</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8D%E7%AB%AF%E6%9C%AB/</link>
+      <pubDate>Tue, 16 Jul 2024 00:09:32 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8D%E7%AB%AF%E6%9C%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/手のひらサイズのキーボード付き端末.jpg"&gt;LangCardから発見。画像もここから転載。
+手のひらサイズのキーボード付き端末の作例です。
+コアとなるICはRP2040で、小さいながら40キーのキーボードを備えており、所有欲をくすぐるガジェットです。</description>
+    </item>
     
     <item>
       <title>ESP32-S2で動くWindows用のディスプレイドライバ</title>
@@ -112,18 +123,6 @@ Raspberry Pi Picoをそのまま利用することで非常にシンプルな部
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32をコアとした16キードラムマシン.jpg"&gt;ESP32 Powered Crunch-E Makes Beats On The Goから発見。画像もここから転載。
 ESP32をコアとした16キードラムマシンの作例です。 ESP32と16個のスイッチ、DACというシンプルな構成ですが、なかなか楽しそうな演奏が出来ています。
 シンプルな構成なのでブレッドボードなどで真似して作るのも簡単そうです。
- </description>
-    </item>
-    
-    <item>
-      <title>8*8のLED搭載の名刺基板</title>
-      <link>https://inajob.github.io/iroiro-review/post/88%E3%81%AEled%E6%90%AD%E8%BC%89%E3%81%AE%E5%90%8D%E5%88%BA%E5%9F%BA%E6%9D%BF/</link>
-      <pubDate>Mon, 01 Jul 2024 00:16:19 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/88%E3%81%AEled%E6%90%AD%E8%BC%89%E3%81%AE%E5%90%8D%E5%88%BA%E5%9F%BA%E6%9D%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/8*8のLED搭載の名刺基板.jpg"&gt;Gamified Business Cardから発見。画像もここから転載。
-8*8のLED搭載の名刺基板の作例です。 CPUとしてはSTM32F0を使い、バッテリーはCR2032を使用しています。
-シンプルな部品で構成されているので、比較的安く、真似して作るのも簡単そうです。
  </description>
     </item>
     
