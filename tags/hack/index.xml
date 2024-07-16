@@ -5,9 +5,21 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 04 Jul 2024 00:06:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 23:38:56 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>供給直前のフィラメントを乾かす装置</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E4%BE%9B%E7%B5%A6%E7%9B%B4%E5%89%8D%E3%81%AE%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E4%B9%BE%E3%81%8B%E3%81%99%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Tue, 16 Jul 2024 23:38:56 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E4%BE%9B%E7%B5%A6%E7%9B%B4%E5%89%8D%E3%81%AE%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E4%B9%BE%E3%81%8B%E3%81%99%E8%A3%85%E7%BD%AE/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/供給直前のフィラメントを乾かす装置.jpg"&gt;Instant Filament Drying Satisfies An Immediate Needから発見。画像もここから転載。
+3Dプリンタのフィラメントは、湿気ると造形がうまくできないと言われています。 そのため、フィラメントを換装させる様々なテクニックがありますが、この記事で紹介しているのは、少し変わったアプローチです。
+供給しているフィラメントを、印刷する直前で乾かすというアイデアで、記事の中では瞬間湯沸かし器にたとえられています。 フィラメント全体を乾かしておくのではなく、今から使う分を乾かして供給するというアイデアが面白いです。
+ </description>
+    </item>
     
     <item>
       <title>フリクションインクを使って異常に発熱している部品を可視化する</title>
@@ -119,17 +131,6 @@ ATmega328Pにグリッチ攻撃を仕掛けるデモです マイコンの電源
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/複数のフィラメントを混ぜるテクニック.jpg"&gt;3D Printing In Custom PLA With A TPU Coreから発見。画像もここから転載。
 複数のフィラメントを混ぜるテクニックを紹介します。
 まず3Dプリンタを使って太めのフィラメントを作り、このフィラメントを引き延ばして標準的な細さに加工します。 このテクニックを使ってマーブル模様の造形や、PLAとTPUを組み合わせた新しい素材などを紹介しています。
- </description>
-    </item>
-    
-    <item>
-      <title>水道ホースを使ったアナログなディレイ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%B0%B4%E9%81%93%E3%83%9B%E3%83%BC%E3%82%B9%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E3%81%AA%E3%83%87%E3%82%A3%E3%83%AC%E3%82%A4/</link>
-      <pubDate>Thu, 16 May 2024 23:50:23 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%B0%B4%E9%81%93%E3%83%9B%E3%83%BC%E3%82%B9%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E3%81%AA%E3%83%87%E3%82%A3%E3%83%AC%E3%82%A4/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/水道ホースを使ったアナログなディレイ.jpg"&gt;An Audio Delay, The Garden Hose Wayから発見。画像もここから転載。
-水道ホースを使ったアナログなディレイの手法を紹介します。 単純に長い水道のホースに音を通すことで、ディレイ的な効果をアナログで実現します。
  </description>
     </item>
     

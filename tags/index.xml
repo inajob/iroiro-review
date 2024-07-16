@@ -5,9 +5,27 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 16 Jul 2024 00:09:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 23:38:56 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタ</title>
+      <link>https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
+      <pubDate>Tue, 16 Jul 2024 23:38:56 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>HACK</title>
+      <link>https://inajob.github.io/iroiro-review/tags/hack/</link>
+      <pubDate>Tue, 16 Jul 2024 23:38:56 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/hack/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>RP2040</title>
@@ -55,15 +73,6 @@
     </item>
     
     <item>
-      <title>3Dプリンタ</title>
-      <link>https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
-      <pubDate>Wed, 10 Jul 2024 23:34:11 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
       <title>Forth</title>
       <link>https://inajob.github.io/iroiro-review/tags/forth/</link>
       <pubDate>Tue, 09 Jul 2024 23:54:06 +0000</pubDate>
@@ -87,15 +96,6 @@
       <pubDate>Mon, 08 Jul 2024 23:33:12 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>携帯ゲーム機</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
-      <pubDate>Mon, 08 Jul 2024 23:33:12 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
