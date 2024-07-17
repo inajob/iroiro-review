@@ -5,9 +5,19 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 16 Jul 2024 23:38:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 23:50:55 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raspberry Pi Picoの上で動くマッキントッシュエミュレータ</title>
+      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%81%AE%E4%B8%8A%E3%81%A7%E5%8B%95%E3%81%8F%E3%83%9E%E3%83%83%E3%82%AD%E3%83%B3%E3%83%88%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF/</link>
+      <pubDate>Wed, 17 Jul 2024 23:50:55 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%81%AE%E4%B8%8A%E3%81%A7%E5%8B%95%E3%81%8F%E3%83%9E%E3%83%83%E3%82%AD%E3%83%B3%E3%83%88%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi Picoの上で動くマッキントッシュエミュレータ.jpg"&gt;Probably The Cheapest Mac Emulation Hardwareから発見。画像もここから転載。
+Raspberry Pi Picoの上で動くマッキントッシュエミュレータの作例です。 追加部品は抵抗と電源コネクタだけで、VGA出力付きのマッキントッシュエミュレータを実現できるようです。</description>
+    </item>
     
     <item>
       <title>供給直前のフィラメントを乾かす装置</title>
@@ -113,17 +123,6 @@ Raspberry Pi Picoをそのまま利用することで非常にシンプルな部
 フリクションペンのインクはおおよそ65℃で色が消えるので、わずか200円ちょっとで簡易サーモラベルの出来上がり。
 気になるところにペタッと貼っておけば、発熱している部品が一目瞭然。 pic.twitter.com/tJOWyFVjlH
 &amp;mdash; 【基板アート】日本電気工学技術製作所 (@PCBart_neetf) June 24, 2024  </description>
-    </item>
-    
-    <item>
-      <title>お手製の摩擦電気発電機</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8A%E6%89%8B%E8%A3%BD%E3%81%AE%E6%91%A9%E6%93%A6%E9%9B%BB%E6%B0%97%E7%99%BA%E9%9B%BB%E6%A9%9F/</link>
-      <pubDate>Wed, 03 Jul 2024 00:13:30 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8A%E6%89%8B%E8%A3%BD%E3%81%AE%E6%91%A9%E6%93%A6%E9%9B%BB%E6%B0%97%E7%99%BA%E9%9B%BB%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/お手製の摩擦電気発電機.jpg"&gt;Is That A Triboelectric Generator In Your Shoe?から発見。画像もここから転載。
-お手製の摩擦電気発電機。材料としてはアルミテープと、梱包用のポリプロピレンテープで作れるようです。 靴底に仕込むとLEDをちょっと光らせるくらいのことが出来るみたいです。
- </description>
     </item>
     
   </channel>
