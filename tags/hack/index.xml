@@ -5,9 +5,22 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 16 Jul 2024 23:38:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 00:06:16 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>画鋲を電極とした乾電池ケース</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%94%BB%E9%8B%B2%E3%82%92%E9%9B%BB%E6%A5%B5%E3%81%A8%E3%81%97%E3%81%9F%E4%B9%BE%E9%9B%BB%E6%B1%A0%E3%82%B1%E3%83%BC%E3%82%B9/</link>
+      <pubDate>Fri, 19 Jul 2024 00:06:16 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%94%BB%E9%8B%B2%E3%82%92%E9%9B%BB%E6%A5%B5%E3%81%A8%E3%81%97%E3%81%9F%E4%B9%BE%E9%9B%BB%E6%B1%A0%E3%82%B1%E3%83%BC%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/画鋲を電極とした乾電池ケース.jpg"&gt;じょーかー・わん！さんのPostから発見。画像もここから転載。
+3Dプリンタで乾電池ケースを作る例はいくつかありますが、電極部分については工夫が必要です。
+このPostでは画鋲を電極にするというアイデアを紹介しており、確かに平たい頭の画鋲は電極に適しているかもしれません。 （常用する場合は素直に電池ボックスを買うのが良さそうです)
+よさそう pic.twitter.com/0sAIfARXj6
+&amp;mdash; じょーかー・わん！ (@1joker141) July 12, 2024  </description>
+    </item>
     
     <item>
       <title>供給直前のフィラメントを乾かす装置</title>
@@ -119,18 +132,6 @@ ATmega328Pにグリッチ攻撃を仕掛けるデモです マイコンの電源
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/落下する砂を利用した表示機.jpg"&gt;POV Digital Clock Is The Literal Sands Of Timeから発見。画像もここから転載。
 落下する砂を利用した表示機の作例です。
 ソレノイドで砂の出る量を調節し、フラッシュによりちょうど良い瞬間が見えるようにしています。
- </description>
-    </item>
-    
-    <item>
-      <title>複数のフィラメントを混ぜるテクニック</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E8%A4%87%E6%95%B0%E3%81%AE%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E6%B7%B7%E3%81%9C%E3%82%8B%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</link>
-      <pubDate>Sun, 19 May 2024 23:52:27 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E8%A4%87%E6%95%B0%E3%81%AE%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E6%B7%B7%E3%81%9C%E3%82%8B%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/複数のフィラメントを混ぜるテクニック.jpg"&gt;3D Printing In Custom PLA With A TPU Coreから発見。画像もここから転載。
-複数のフィラメントを混ぜるテクニックを紹介します。
-まず3Dプリンタを使って太めのフィラメントを作り、このフィラメントを引き延ばして標準的な細さに加工します。 このテクニックを使ってマーブル模様の造形や、PLAとTPUを組み合わせた新しい素材などを紹介しています。
  </description>
     </item>
     
