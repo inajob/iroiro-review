@@ -5,9 +5,21 @@
     <description>Recent content in KiCAD on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 11 Apr 2023 23:32:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 00:29:43 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/kicad/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>KiCADの基板データからケースを自動生成する仕組み</title>
+      <link>https://inajob.github.io/iroiro-review/post/kicad%E3%81%AE%E5%9F%BA%E6%9D%BF%E3%83%87%E3%83%BC%E3%82%BF%E3%81%8B%E3%82%89%E3%82%B1%E3%83%BC%E3%82%B9%E3%82%92%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90%E3%81%99%E3%82%8B%E4%BB%95%E7%B5%84%E3%81%BF/</link>
+      <pubDate>Mon, 22 Jul 2024 00:29:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/kicad%E3%81%AE%E5%9F%BA%E6%9D%BF%E3%83%87%E3%83%BC%E3%82%BF%E3%81%8B%E3%82%89%E3%82%B1%E3%83%BC%E3%82%B9%E3%82%92%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90%E3%81%99%E3%82%8B%E4%BB%95%E7%B5%84%E3%81%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/KiCADの基板データからケースを自動生成する仕組み.jpg"&gt;Turbocase Generates A PCB Shell For Youから発見。画像もここから転載。
+KiCADの基板データの情報を参考にして、自動的にOpenSCAD用のケースのデータを生成するスクリプトです。
+自分も手動で似たようなことを実行し、ケースを作っているので、次からこのスクリプトを使ってみようかなと考えています。
+開口部やねじ穴なども、うまいことKiCAD側で設定をマッピングして、ケース生成のための情報として利用できるようになっています。</description>
+    </item>
     
     <item>
       <title>基板のパッドに文字を描く手法</title>
