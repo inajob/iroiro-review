@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 22 Jul 2024 00:29:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 23:46:10 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>カラー基板を利用して作られたZX Spectrumエミュレータ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%A9%E3%83%BC%E5%9F%BA%E6%9D%BF%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9Fzx-spectrum%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF/</link>
+      <pubDate>Mon, 22 Jul 2024 23:46:10 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%A9%E3%83%BC%E5%9F%BA%E6%9D%BF%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9Fzx-spectrum%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/カラー基板を利用して作られたZX Spectrumエミュレータ.jpg"&gt;ESP32 Powers Single-PCB ZX Spectrum Emulatorから発見。画像もここから転載。
+カラー基板を利用して作られたZX Spectrumエミュレータの作例です。 キーボー部分は静電容量タッチとなっており、キートップを基板へのカラー印刷で実現しており、部品点数を少なく抑えたまま、使いやすいキーボードを実現しています。
+ </description>
+    </item>
     
     <item>
       <title>KiCADの基板データからケースを自動生成する仕組み</title>
@@ -110,17 +121,6 @@ ESP32-S2とF1C200Sで動くWindows用のディスプレイドライバです。 
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi Picoをコアとする携帯ゲーム機.jpg"&gt;PicoBoy V2: The Ultimate DIY Console by HalloSpaceBoy on Tindieから発見。画像もここから転載。
 Raspberry Pi Picoをコアとする携帯ゲーム機です。 キット、組み立て済み、ケースの有り無しなどを選んで注文することが出来、自分に合った形で購入できるのも面白いです。
 Raspberry Pi Picoをそのまま利用することで非常にシンプルな部品でゲーム機を実現しています。</description>
-    </item>
-    
-    <item>
-      <title>どこでも執筆が出来るガジェット</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%81%A9%E3%81%93%E3%81%A7%E3%82%82%E5%9F%B7%E7%AD%86%E3%81%8C%E5%87%BA%E6%9D%A5%E3%82%8B%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
-      <pubDate>Sun, 07 Jul 2024 23:54:49 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%A9%E3%81%93%E3%81%A7%E3%82%82%E5%9F%B7%E7%AD%86%E3%81%8C%E5%87%BA%E6%9D%A5%E3%82%8B%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/どこでも執筆が出来るガジェット.jpg"&gt;Micro Journal Rev.6 - Vivian in New York by Un Kyu Lee on Tindieから発見。画像もここから転載。
-どこでも執筆が出来る、キーボードとディスプレイが一体型となった、ポメラ的なガジェットの作例です。 ESP32をコアとしており、データはGoogle Driveにアップロードできるようで、実用的です。
-おそらく日本語入力はできないだろうという点が残念です。</description>
     </item>
     
   </channel>
