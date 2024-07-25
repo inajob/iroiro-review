@@ -5,9 +5,22 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 24 Jul 2024 23:18:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 23:00:07 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>熱転写プリントと3Dプリンタの組み合わせで1層目の裏にカラーの絵を印刷する</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%86%B1%E8%BB%A2%E5%86%99%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%A71%E5%B1%A4%E7%9B%AE%E3%81%AE%E8%A3%8F%E3%81%AB%E3%82%AB%E3%83%A9%E3%83%BC%E3%81%AE%E7%B5%B5%E3%82%92%E5%8D%B0%E5%88%B7%E3%81%99%E3%82%8B/</link>
+      <pubDate>Thu, 25 Jul 2024 23:00:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%86%B1%E8%BB%A2%E5%86%99%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%A71%E5%B1%A4%E7%9B%AE%E3%81%AE%E8%A3%8F%E3%81%AB%E3%82%AB%E3%83%A9%E3%83%BC%E3%81%AE%E7%B5%B5%E3%82%92%E5%8D%B0%E5%88%B7%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/熱転写プリントと3Dプリンタの組み合わせで1層目の裏にカラーの絵を印刷する.jpg"&gt;3D Printing With Sublime Sublimationから発見。画像もここから転載。
+熱転写プリントと言えば、オリジナルTシャツを作る際などに耳にする技術ですが、その技術を応用して、3Dプリント成果物に模様を転写することができるようです。
+3Dプリンタのベッド部分に熱転写プリントした紙を設置することで、3Dプリント成果物の底面にその印刷を転写できます。
+3Dプリンタのベッド部分は、加熱されますし、そこに熱いフィラメントを積層していくため、十分に熱が加えられます。この熱を使い、熱転写を実現するというHACK的な仕組みです。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタでくまさんの形のきゅうりを作る</title>
@@ -119,18 +132,6 @@ ThinkPad 701cのケースを3Dプリンタで作り直している事例です�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/青い炎が円状のコースをぐるぐる回る現象.jpg"&gt;Corral Some Zippy Blue Flames Into 3D Printed Troughsから発見。画像もここから転載。
 青い炎が円状のコースをぐるぐる回る不思議な現象を使った面白い作品です。 3Dプリンタで作ったレールの溝にライター用のオイルを満たし、そこに火をつけることで、動画のような小さな青い炎がグルグルと走り出すようです。
 溝の幅や深さなどにより、炎の動きは変化するようですが、うまく造形することで、様々な面白い動作を実現しています。
- </description>
-    </item>
-    
-    <item>
-      <title>複数のフィラメントを混ぜるテクニック</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E8%A4%87%E6%95%B0%E3%81%AE%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E6%B7%B7%E3%81%9C%E3%82%8B%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</link>
-      <pubDate>Sun, 19 May 2024 23:52:27 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E8%A4%87%E6%95%B0%E3%81%AE%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E6%B7%B7%E3%81%9C%E3%82%8B%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/複数のフィラメントを混ぜるテクニック.jpg"&gt;3D Printing In Custom PLA With A TPU Coreから発見。画像もここから転載。
-複数のフィラメントを混ぜるテクニックを紹介します。
-まず3Dプリンタを使って太めのフィラメントを作り、このフィラメントを引き延ばして標準的な細さに加工します。 このテクニックを使ってマーブル模様の造形や、PLAとTPUを組み合わせた新しい素材などを紹介しています。
  </description>
     </item>
     
