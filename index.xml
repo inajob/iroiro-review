@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 28 Jul 2024 22:38:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 23:52:03 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>144×72のカラーメモリ液晶モジュール</title>
+      <link>https://inajob.github.io/iroiro-review/post/14472%E3%81%AE%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%A2%E3%83%AA%E6%B6%B2%E6%99%B6%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Mon, 29 Jul 2024 23:52:03 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/14472%E3%81%AE%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%A2%E3%83%AA%E6%B6%B2%E6%99%B6%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/144×72のカラーメモリ液晶モジュール.jpg"&gt;Ultra-Low Power JDI 0.96&amp;quot; 144x72 Color Memory LCD by Questwise Ventures on Tindieから発見。画像もここから転載。
+電力消費のすくないフルカラーメモリ液晶の紹介です。
+0.96インチで144×72と解像度は小さいですが、カラーのメモリ液晶で入手しやすいものはあまり聞いたことが無いので、省エネガジェットを作りたい人は要チェックです。
+ </description>
+    </item>
     
     <item>
       <title>アクリル板に傷をつけて作られた7セグ表示機</title>
@@ -116,17 +128,6 @@ Raspberry Pi Picoの上で動くマッキントッシュエミュレータの作
 3Dプリンタのフィラメントは、湿気ると造形がうまくできないと言われています。 そのため、フィラメントを換装させる様々なテクニックがありますが、この記事で紹介しているのは、少し変わったアプローチです。
 供給しているフィラメントを、印刷する直前で乾かすというアイデアで、記事の中では瞬間湯沸かし器にたとえられています。 フィラメント全体を乾かしておくのではなく、今から使う分を乾かして供給するというアイデアが面白いです。
  </description>
-    </item>
-    
-    <item>
-      <title>手のひらサイズのキーボード付き端末</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8D%E7%AB%AF%E6%9C%AB/</link>
-      <pubDate>Tue, 16 Jul 2024 00:09:32 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8D%E7%AB%AF%E6%9C%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/手のひらサイズのキーボード付き端末.jpg"&gt;LangCardから発見。画像もここから転載。
-手のひらサイズのキーボード付き端末の作例です。
-コアとなるICはRP2040で、小さいながら40キーのキーボードを備えており、所有欲をくすぐるガジェットです。</description>
     </item>
     
   </channel>
