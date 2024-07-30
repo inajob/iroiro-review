@@ -5,9 +5,20 @@
     <description>Recent content in 表示機 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 29 Jul 2024 23:52:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 23:30:08 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E8%A1%A8%E7%A4%BA%E6%A9%9F/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>フィラメントタイプのLEDを使った7セグメント表示機</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%BF%E3%82%A4%E3%83%97%E3%81%AEled%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
+      <pubDate>Tue, 30 Jul 2024 23:30:08 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%BF%E3%82%A4%E3%83%97%E3%81%AEled%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/フィラメントタイプのLEDを使った7セグメント表示機.jpg"&gt;LED Filament 2.5 Digit Display BETA by Eean on Tindieから発見。画像もここから転載。
+フィラメントタイプのLEDを使った7セグメント表示機の作例です。
+様々な長さのフィラメントLEDを利用すると一般的な7セグメント表示機以外にも様々な表示器を作ることができそうです。</description>
+    </item>
     
     <item>
       <title>144×72のカラーメモリ液晶モジュール</title>
@@ -120,18 +131,6 @@ PCBの裏面だけ文字の形に銅板をカット、表面は銅板なしで�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/サーボアレイを使ったマトリクス表示機.jpg"&gt;サーボアレイを用いた一軸ジンバルによるメカニカルディスプレイあるいはインスタレーション（仮称） | ProtoPediaから発見。画像もここから転載。
 サーボを使って鏡や角度によって色が違って見える板を動かすことで画素を構成するマトリクス表示機の作例です。
 特に鏡を使った作例が味があって好きです。 サーボが1列ずつ動いていく様子もかわいらしいです。
- </description>
-    </item>
-    
-    <item>
-      <title>飛行機コックピットのインジケーターを改造して作ったアニメーション装置</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E9%A3%9B%E8%A1%8C%E6%A9%9F%E3%82%B3%E3%83%83%E3%82%AF%E3%83%94%E3%83%83%E3%83%88%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B8%E3%82%B1%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E8%A3%85%E7%BD%AE/</link>
-      <pubDate>Mon, 17 Apr 2023 23:16:42 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E9%A3%9B%E8%A1%8C%E6%A9%9F%E3%82%B3%E3%83%83%E3%82%AF%E3%83%94%E3%83%83%E3%83%88%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B8%E3%82%B1%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E8%A3%85%E7%BD%AE/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/飛行機コックピットのインジケーターを改造して作ったアニメーション装置.jpg"&gt;Mechanical GIF Animates With The Power Of Magnetsから発見。画像もここから転載。
-昔の飛行機コックピットの表示機には、4つの3角柱を並べそれらを回転させることで3種類の画面を切り替える表示機があったようです。
-この記事では、この表示機を改造してオリジナルのアニメーションを表示する装置を作成しています。
  </description>
     </item>
     
