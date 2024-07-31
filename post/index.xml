@@ -5,9 +5,25 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 30 Jul 2024 23:30:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 23:26:02 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>温度で色が変わるブレッドボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%B8%A9%E5%BA%A6%E3%81%A7%E8%89%B2%E3%81%8C%E5%A4%89%E3%82%8F%E3%82%8B%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Wed, 31 Jul 2024 23:26:02 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%B8%A9%E5%BA%A6%E3%81%A7%E8%89%B2%E3%81%8C%E5%A4%89%E3%82%8F%E3%82%8B%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/温度で色が変わるブレッドボード.jpg"&gt;Tasuku SuzukiさんのPostから発見。画像もここから転載。
+温度で色が変わるブレッドボードの作例です。 以前紹介した、熱で色の変わる塗料をブレッドボードに塗るテクニックと似たものですが、実現手法が異なります。
+この事例では、温度で色が変わるフィラメントを使いブレッドボードのプラスチック部分を作ることで、温度変化の可視化を実現しています。 同じ原理でも、様々な実現方法があって面白いですね。
+温度で色が変わるブレッドボードの3Dモデルを公開してみましたhttps://t.co/KUCSPOMnMR
+フィラメントはこちらを利用しました
+「3Dプリンター感温性フィラメント PLA オレンジ イエロー PLA フィラメント」https://t.co/DdhDPAITMU #PR
+ヒヤッとしたことがある人は是非試してみてください！ https://t.co/sNAGVAmF8Y
+&amp;mdash; Tasuku Suzuki (@task_jp) June 6, 2024  </description>
+    </item>
     
     <item>
       <title>フィラメントタイプのLEDを使った7セグメント表示機</title>
@@ -117,16 +133,6 @@ KiCADの基板データの情報を参考にして、自動的にOpenSCAD用の�
 このPostでは画鋲を電極にするというアイデアを紹介しており、確かに平たい頭の画鋲は電極に適しているかもしれません。 （常用する場合は素直に電池ボックスを買うのが良さそうです)
 よさそう pic.twitter.com/0sAIfARXj6
 &amp;mdash; じょーかー・わん！ (@1joker141) July 12, 2024  </description>
-    </item>
-    
-    <item>
-      <title>Raspberry Pi Picoの上で動くマッキントッシュエミュレータ</title>
-      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%81%AE%E4%B8%8A%E3%81%A7%E5%8B%95%E3%81%8F%E3%83%9E%E3%83%83%E3%82%AD%E3%83%B3%E3%83%88%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF/</link>
-      <pubDate>Wed, 17 Jul 2024 23:50:55 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%81%AE%E4%B8%8A%E3%81%A7%E5%8B%95%E3%81%8F%E3%83%9E%E3%83%83%E3%82%AD%E3%83%B3%E3%83%88%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi Picoの上で動くマッキントッシュエミュレータ.jpg"&gt;Probably The Cheapest Mac Emulation Hardwareから発見。画像もここから転載。
-Raspberry Pi Picoの上で動くマッキントッシュエミュレータの作例です。 追加部品は抵抗と電源コネクタだけで、VGA出力付きのマッキントッシュエミュレータを実現できるようです。</description>
     </item>
     
   </channel>
