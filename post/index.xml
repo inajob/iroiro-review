@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 31 Jul 2024 23:26:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 23:55:12 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>4つのボタンを早押しするゲーム機</title>
+      <link>https://inajob.github.io/iroiro-review/post/4%E3%81%A4%E3%81%AE%E3%83%9C%E3%82%BF%E3%83%B3%E3%82%92%E6%97%A9%E6%8A%BC%E3%81%97%E3%81%99%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Mon, 05 Aug 2024 23:55:12 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/4%E3%81%A4%E3%81%AE%E3%83%9C%E3%82%BF%E3%83%B3%E3%82%92%E6%97%A9%E6%8A%BC%E3%81%97%E3%81%99%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/4つのボタンを早押しするゲーム機.jpg"&gt;2024 Tiny Games Challenge: Improving Reaction Timeから発見。画像もここから転載。
+4つのボタンを早押しするゲーム機の作例です。 単純なゲームですが専用のゲーム端末というのが印象的です。
+完成度の高い見た目の筐体ですが、PCBは使わず3Dプリンタ製の部品をうまく組み合わせて実現されており、興味深いです。
+Hackadayではこのような小粒ゲームハードウェアのコンテストを開催中のようです。</description>
+    </item>
     
     <item>
       <title>温度で色が変わるブレッドボード</title>
@@ -120,19 +132,6 @@
 KiCADの基板データの情報を参考にして、自動的にOpenSCAD用のケースのデータを生成するスクリプトです。
 自分も手動で似たようなことを実行し、ケースを作っているので、次からこのスクリプトを使ってみようかなと考えています。
 開口部やねじ穴なども、うまいことKiCAD側で設定をマッピングして、ケース生成のための情報として利用できるようになっています。</description>
-    </item>
-    
-    <item>
-      <title>画鋲を電極とした乾電池ケース</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E7%94%BB%E9%8B%B2%E3%82%92%E9%9B%BB%E6%A5%B5%E3%81%A8%E3%81%97%E3%81%9F%E4%B9%BE%E9%9B%BB%E6%B1%A0%E3%82%B1%E3%83%BC%E3%82%B9/</link>
-      <pubDate>Fri, 19 Jul 2024 00:06:16 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E7%94%BB%E9%8B%B2%E3%82%92%E9%9B%BB%E6%A5%B5%E3%81%A8%E3%81%97%E3%81%9F%E4%B9%BE%E9%9B%BB%E6%B1%A0%E3%82%B1%E3%83%BC%E3%82%B9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/画鋲を電極とした乾電池ケース.jpg"&gt;じょーかー・わん！さんのPostから発見。画像もここから転載。
-3Dプリンタで乾電池ケースを作る例はいくつかありますが、電極部分については工夫が必要です。
-このPostでは画鋲を電極にするというアイデアを紹介しており、確かに平たい頭の画鋲は電極に適しているかもしれません。 （常用する場合は素直に電池ボックスを買うのが良さそうです)
-よさそう pic.twitter.com/0sAIfARXj6
-&amp;mdash; じょーかー・わん！ (@1joker141) July 12, 2024  </description>
     </item>
     
   </channel>

@@ -5,9 +5,21 @@
     <description>Recent content in ESP32 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 22 Jul 2024 23:46:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 23:55:12 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/esp32/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>4つのボタンを早押しするゲーム機</title>
+      <link>https://inajob.github.io/iroiro-review/post/4%E3%81%A4%E3%81%AE%E3%83%9C%E3%82%BF%E3%83%B3%E3%82%92%E6%97%A9%E6%8A%BC%E3%81%97%E3%81%99%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Mon, 05 Aug 2024 23:55:12 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/4%E3%81%A4%E3%81%AE%E3%83%9C%E3%82%BF%E3%83%B3%E3%82%92%E6%97%A9%E6%8A%BC%E3%81%97%E3%81%99%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/4つのボタンを早押しするゲーム機.jpg"&gt;2024 Tiny Games Challenge: Improving Reaction Timeから発見。画像もここから転載。
+4つのボタンを早押しするゲーム機の作例です。 単純なゲームですが専用のゲーム端末というのが印象的です。
+完成度の高い見た目の筐体ですが、PCBは使わず3Dプリンタ製の部品をうまく組み合わせて実現されており、興味深いです。
+Hackadayではこのような小粒ゲームハードウェアのコンテストを開催中のようです。</description>
+    </item>
     
     <item>
       <title>カラー基板を利用して作られたZX Spectrumエミュレータ</title>
@@ -114,19 +126,6 @@ OLEDを2つ搭載したESP32開発ボードです。 RTCやバッテリー、SD�
 ESP32をコアとしたテキストエディタ搭載キーボードの作例です。 30%キーボードの間にESP32と液晶を設置して、スタンドアローンで動作する入力端末を実現しています。
 ESP32はWiFiに接続できるので、Google Driveとデータを同期できるようになっていて、実用性も高そうです。
 自分もこういうのを作りたいのですが、日本語も扱えるように・・と考えるとなかなか作るのが大変そうです。
- </description>
-    </item>
-    
-    <item>
-      <title>３つの足を持つユニークなロボット</title>
-      <link>https://inajob.github.io/iroiro-review/post/%EF%BC%93%E3%81%A4%E3%81%AE%E8%B6%B3%E3%82%92%E6%8C%81%E3%81%A4%E3%83%A6%E3%83%8B%E3%83%BC%E3%82%AF%E3%81%AA%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</link>
-      <pubDate>Sun, 07 Apr 2024 23:42:08 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%EF%BC%93%E3%81%A4%E3%81%AE%E8%B6%B3%E3%82%92%E6%8C%81%E3%81%A4%E3%83%A6%E3%83%8B%E3%83%BC%E3%82%AF%E3%81%AA%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/３つの足を持つユニークなロボット.jpg"&gt;Dodge, The Weird Tripod Robotから発見。画像もここから転載。
-３つの足を持つユニークなロボットの作例です。 ２脚で左右移動、１脚で回転という面白い構成となっています。
-左右の足に2つのサーボ。真ん中の足の上下、回転のために2つのサーボ、合わせて6つのサーボモーターが使われています。
-コアとなるモジュールはESP32CAMです。
  </description>
     </item>
     

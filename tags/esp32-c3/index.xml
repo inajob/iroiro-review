@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ESP32-C3 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/esp32-c3/</link>
+    <description>Recent content in ESP32-C3 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Mon, 05 Aug 2024 23:55:12 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/esp32-c3/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>4つのボタンを早押しするゲーム機</title>
+      <link>https://inajob.github.io/iroiro-review/post/4%E3%81%A4%E3%81%AE%E3%83%9C%E3%82%BF%E3%83%B3%E3%82%92%E6%97%A9%E6%8A%BC%E3%81%97%E3%81%99%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Mon, 05 Aug 2024 23:55:12 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/4%E3%81%A4%E3%81%AE%E3%83%9C%E3%82%BF%E3%83%B3%E3%82%92%E6%97%A9%E6%8A%BC%E3%81%97%E3%81%99%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/4つのボタンを早押しするゲーム機.jpg"&gt;2024 Tiny Games Challenge: Improving Reaction Timeから発見。画像もここから転載。
+4つのボタンを早押しするゲーム機の作例です。 単純なゲームですが専用のゲーム端末というのが印象的です。
+完成度の高い見た目の筐体ですが、PCBは使わず3Dプリンタ製の部品をうまく組み合わせて実現されており、興味深いです。
+Hackadayではこのような小粒ゲームハードウェアのコンテストを開催中のようです。</description>
+    </item>
+    
+  </channel>
+</rss>
+
