@@ -5,9 +5,22 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 31 Jul 2024 23:26:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 23:19:53 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>円筒に3Dプリンタ造形物を取り付けるために結束バンドを使う</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%86%86%E7%AD%92%E3%81%AB3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E9%80%A0%E5%BD%A2%E7%89%A9%E3%82%92%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E7%B5%90%E6%9D%9F%E3%83%90%E3%83%B3%E3%83%89%E3%82%92%E4%BD%BF%E3%81%86/</link>
+      <pubDate>Wed, 07 Aug 2024 23:19:53 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%86%86%E7%AD%92%E3%81%AB3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E9%80%A0%E5%BD%A2%E7%89%A9%E3%82%92%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E7%B5%90%E6%9D%9F%E3%83%90%E3%83%B3%E3%83%89%E3%82%92%E4%BD%BF%E3%81%86/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/円筒に3Dプリンタ造形物を取り付けるために結束バンドを使う.jpg"&gt;もぎらさんのPostから発見。画像もここから転載。
+円筒に3Dプリンタ造形物を取り付けるために結束バンドを使うテクニックの紹介です。 3Dプリンタの造形物では難しい、可変の長さで締め付けて固定する機能を埋め込むことが出来ます。
+結束バンドは安価で入手しやすいので、応用が色々出来そうな技です。
+円筒のものに3DP品を縛り付ける構造、タイラップ2つ使うこれ頭いいかもしれない。昔誰かがやってたような？ pic.twitter.com/aTjLDOxKZ3
+&amp;mdash; もぎら (@mogira_jubeat) July 25, 2024  </description>
+    </item>
     
     <item>
       <title>温度で色が変わるブレッドボード</title>
@@ -122,19 +135,6 @@ ATmega328Pにグリッチ攻撃を仕掛けるデモです マイコンの電源
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/青い炎が円状のコースをぐるぐる回る現象.jpg"&gt;Corral Some Zippy Blue Flames Into 3D Printed Troughsから発見。画像もここから転載。
 青い炎が円状のコースをぐるぐる回る不思議な現象を使った面白い作品です。 3Dプリンタで作ったレールの溝にライター用のオイルを満たし、そこに火をつけることで、動画のような小さな青い炎がグルグルと走り出すようです。
 溝の幅や深さなどにより、炎の動きは変化するようですが、うまく造形することで、様々な面白い動作を実現しています。
- </description>
-    </item>
-    
-    <item>
-      <title>基板とカバーをネジで圧着することではんだ付けなしを実現する</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%9F%BA%E6%9D%BF%E3%81%A8%E3%82%AB%E3%83%90%E3%83%BC%E3%82%92%E3%83%8D%E3%82%B8%E3%81%A7%E5%9C%A7%E7%9D%80%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E3%81%AA%E3%81%97%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B/</link>
-      <pubDate>Mon, 27 May 2024 06:51:35 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%9F%BA%E6%9D%BF%E3%81%A8%E3%82%AB%E3%83%90%E3%83%BC%E3%82%92%E3%83%8D%E3%82%B8%E3%81%A7%E5%9C%A7%E7%9D%80%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E3%81%AA%E3%81%97%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/基板とカバーをネジで圧着することではんだ付けなしを実現する.jpg"&gt;No Solder! Squeeze Your Parts To The PCBから発見。画像もここから転載。
-プリント基板に部品を実装する時は、はんだ付けするものですが、この記事では基板の上から部品を押し付けることで、基板と部品を導通させるテクニックを紹介しています。
-部品を基板に密着させるために部品の周りにネジ穴を開けて、ネジで締め付けることで部品を基板に固定しています。
-シンプルなAtmega328書き込み器が似たような原理で、ICを基板に接触させているのを思い出しました。
  </description>
     </item>
     
