@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 09 Aug 2024 00:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 23:11:05 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>電子ペーパー搭載文字入力専用端末</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E6%90%AD%E8%BC%89%E6%96%87%E5%AD%97%E5%85%A5%E5%8A%9B%E5%B0%82%E7%94%A8%E7%AB%AF%E6%9C%AB/</link>
+      <pubDate>Mon, 12 Aug 2024 23:11:05 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E6%90%AD%E8%BC%89%E6%96%87%E5%AD%97%E5%85%A5%E5%8A%9B%E5%B0%82%E7%94%A8%E7%AB%AF%E6%9C%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/電子ペーパー搭載文字入力専用端末.jpg"&gt;Zerowriter Inkから発見。画像もここから転載。
+電子ペーパー搭載文字入力専用端末です。 中身はInkplate 5ということなのでESP32がコアのようです。
+クラウドファンディングが準備中のようで、この手の文字入力専用端末が好きな人は要チェックです。 （ただしESP32であることを考えると、日本語入力に対応などは難しいように思います）
+ </description>
+    </item>
     
     <item>
       <title>マトリクスLED表示機をセンサーとしても利用する</title>
@@ -123,19 +135,6 @@ Hackadayではこのような小粒ゲームハードウェアのコンテスト
 3Dプリンタのベッド部分に熱転写プリントした紙を設置することで、3Dプリント成果物の底面にその印刷を転写できます。
 3Dプリンタのベッド部分は、加熱されますし、そこに熱いフィラメントを積層していくため、十分に熱が加えられます。この熱を使い、熱転写を実現するというHACK的な仕組みです。
  </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタでくまさんの形のきゅうりを作る</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%81%8F%E3%81%BE%E3%81%95%E3%82%93%E3%81%AE%E5%BD%A2%E3%81%AE%E3%81%8D%E3%82%85%E3%81%86%E3%82%8A%E3%82%92%E4%BD%9C%E3%82%8B/</link>
-      <pubDate>Wed, 24 Jul 2024 23:18:43 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%81%8F%E3%81%BE%E3%81%95%E3%82%93%E3%81%AE%E5%BD%A2%E3%81%AE%E3%81%8D%E3%82%85%E3%81%86%E3%82%8A%E3%82%92%E4%BD%9C%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタでくまさんの形のきゅうりを作る.jpg"&gt;むらさきさんのPostから発見。画像もここから転載。
-3Dプリンタでくまさんの形のきゅうりを作る方法です。
-きゅうりを3Dプリンタで作った「くまさん」の形をした筒の中で育てることで、くまさん型に成形しています
-3Dプリンタで型作ってシロクマきゅうり〜。型はクマ→ネコ→ウサギと作ったんだけど全部クマになったw pic.twitter.com/nPptE8UCDA
-&amp;mdash; むらさき (@interestor) July 19, 2024  </description>
     </item>
     
   </channel>
