@@ -1,0 +1,29 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Espressif on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/espressif/</link>
+    <description>Recent content in Espressif on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sun, 24 Mar 2019 23:10:17 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/espressif/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Espressifの次世代モジュール「CHIP-7」</title>
+      <link>https://inajob.github.io/iroiro-review/post/espressif%E3%81%AE%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%ABchip-7/</link>
+      <pubDate>Sun, 24 Mar 2019 23:10:17 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/espressif%E3%81%AE%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%ABchip-7/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/chip7-espressif.jpg"&gt;HACKER ABROAD: VISITING ESPRESSIF AND SURPRISING SUBWAY ADSから発見。画像もここから転載。
+この記事はHACKADAYの記者がEspressifに訪問したことについて書かれたものです。ESP8266に始まるEspressifの開発の歴史と、次世代チップである「CHIP-7」について触れられています。
+CHIP-7についてはTwitterで言及されているようです。
+それによると、、
+ ネイティブのUSB アーキテクチャはRISC-Vのものも用意される？  といったところがESP32との違いのようです。
+また今はEspressifで働くIvanさんのインタビューの内容も紹介されています（元ネタはHackadayのPodcastのようです）。
+日本人としては技適（TELEC)の認証が通っているかが気になるところです。またネイティブのUSBとなるとVID/PIDをどのように用意するか、ということもホビーユーザーとしては気になります。</description>
+    </item>
+    
+  </channel>
+</rss>
+

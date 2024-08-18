@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>タブレット on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88/</link>
+    <description>Recent content in タブレット on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 15 Jan 2020 23:00:43 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>自作のLinuxタブレットを作ろうというプロジェクト</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AElinux%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86%E3%81%A8%E3%81%84%E3%81%86%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88/</link>
+      <pubDate>Wed, 15 Jan 2020 23:00:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AElinux%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86%E3%81%A8%E3%81%84%E3%81%86%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/linux-tablet.png"&gt;DLT one - A Damn Linux Tablet!から発見。画像もここから転載。
+市販のタブレットはLinux向けに作られていないという問題意識のもと、そこそこ良い性能のLinuxタブレットを作ろうというプロジェクトのようです。
+まだPoC段階のようでそこそこ分厚い開発ボードを使っている段階で、これからタブレットの形に収めていくのかなと思われます。
+最近高性能なLinuxボードがたくさん出てきているので、今後の展開が楽しみなプロジェクトです。</description>
+    </item>
+    
+  </channel>
+</rss>
+
