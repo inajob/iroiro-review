@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 13 Aug 2024 23:17:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Aug 2024 23:03:31 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタでギターのピックをどんどん増やす実験</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%82%AE%E3%82%BF%E3%83%BC%E3%81%AE%E3%83%94%E3%83%83%E3%82%AF%E3%82%92%E3%81%A9%E3%82%93%E3%81%A9%E3%82%93%E5%A2%97%E3%82%84%E3%81%99%E5%AE%9F%E9%A8%93/</link>
+      <pubDate>Sun, 18 Aug 2024 23:03:31 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%82%AE%E3%82%BF%E3%83%BC%E3%81%AE%E3%83%94%E3%83%83%E3%82%AF%E3%82%92%E3%81%A9%E3%82%93%E3%81%A9%E3%82%93%E5%A2%97%E3%82%84%E3%81%99%E5%AE%9F%E9%A8%93/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタでギターのピックをどんどん増やす実験.jpg"&gt;1000 Picks Make For A Weird Guitarから発見。画像もここから転載。
+3Dプリンタでギターのピックをどんどん増やす実験です。 ピックの枚数に応じて、効果的な構造を検討し面白い演奏法を発明しているところが面白いです。
+最終的には、回転する円盤にピックを大量に並べて演奏する、謎の楽器に進化を遂げています。
+ </description>
+    </item>
     
     <item>
       <title>フリップドット7セグ表示機にランダムな数字を表示する機械</title>
@@ -121,19 +133,6 @@ Hackadayではこのような小粒ゲームハードウェアのコンテスト
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/144×72のカラーメモリ液晶モジュール.jpg"&gt;Ultra-Low Power JDI 0.96&amp;quot; 144x72 Color Memory LCD by Questwise Ventures on Tindieから発見。画像もここから転載。
 電力消費のすくないフルカラーメモリ液晶の紹介です。
 0.96インチで144×72と解像度は小さいですが、カラーのメモリ液晶で入手しやすいものはあまり聞いたことが無いので、省エネガジェットを作りたい人は要チェックです。
- </description>
-    </item>
-    
-    <item>
-      <title>アクリル板に傷をつけて作られた7セグ表示機</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E6%9D%BF%E3%81%AB%E5%82%B7%E3%82%92%E3%81%A4%E3%81%91%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F7%E3%82%BB%E3%82%B0%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
-      <pubDate>Sun, 28 Jul 2024 22:38:20 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E6%9D%BF%E3%81%AB%E5%82%B7%E3%82%92%E3%81%A4%E3%81%91%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F7%E3%82%BB%E3%82%B0%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/アクリル板に傷をつけて作られた7セグ表示機.jpg"&gt;An Easy Transparent Edge Lit Displayから発見。画像もここから転載。
-アクリル板に傷をつけて作られた7セグ表示機の作例です。
-傷をつけたアクリル板を重ねて、それぞれのアクリル板の端からLEDで光を照らすことでそのアクリル板の傷を浮かび上がらせるという仕組みなのですが、この作例ではセグメントの形の傷をつけるために3Dプリントしたステンシルを利用し手作業で削っているところが印象的でした。
-型を使うことで、様々な形のセグメントに対応でき、また3Dプリンタさえ持っていれば気軽に作成できるところが良いと感じました。
  </description>
     </item>
     
