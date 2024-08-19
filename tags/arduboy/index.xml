@@ -73,6 +73,18 @@ Arduboyはコンパクトでよくできた携帯ゲーム機ですが、USBキ�
     </item>
     
     <item>
+      <title>Arduboy互換のキット式のゲーム機</title>
+      <link>https://inajob.github.io/iroiro-review/post/arduboy%E4%BA%92%E6%8F%9B%E3%81%AE%E3%82%AD%E3%83%83%E3%83%88%E5%BC%8F%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Wed, 06 May 2020 23:00:39 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/arduboy%E4%BA%92%E6%8F%9B%E3%81%AE%E3%82%AD%E3%83%83%E3%83%88%E5%BC%8F%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/peanuts.jpg"&gt;Peanut Kitから発見。画像もここから転載。
+PeanutはArduboy互換のゲーム機の自作キットです。
+3枚の基板でサンドイッチにする形で構成される筐体と、射出成型されたそれっぽいアーケード風の十字キーが特徴です。
+Arduino MicroやLiPo充電ボードなど、既存のボードを組み合わせることでキットを構成しているのが安い価格の秘訣かもしれません。</description>
+    </item>
+    
+    <item>
       <title>Arduboy用のよくできたピクロスPiCross</title>
       <link>https://inajob.github.io/iroiro-review/post/arduboy%E7%94%A8%E3%81%AE%E3%82%88%E3%81%8F%E3%81%A7%E3%81%8D%E3%81%9F%E3%83%94%E3%82%AF%E3%83%AD%E3%82%B9picross/</link>
       <pubDate>Tue, 24 Sep 2019 23:00:20 +0000</pubDate>
