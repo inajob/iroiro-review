@@ -32,7 +32,7 @@ RP2040を使ったハードウェアシンセサイザーです。 CircuitPython
 一般的なCyberdeckとは違い、CircuitPythonが動作するマイコンボードで構成されています。
 USBHost用とメインコントローラ用の2つのAdafruit Adafruit ItsyBitsy M4を搭載するというある意味リッチな構成です。（USBHost用は、汎用マイコンではなくUSB HostShieldのようなものでも代替できそうです）
 Linuxの動作するSBCとは違い、フットプリントも小さく、電力消費も少なく、即座に起動もできるので、持ち運びできるコンピュータとしては使い勝手が良いかもしれません。
-</description>
+ </description>
     </item>
     
     <item>

@@ -43,7 +43,7 @@
 ロータリーエンコーダが無いけどステッピングモータはある！そんなときに使えるのがこのHACKです。
 通常ステッピングモーターは内蔵しているコイルに電流を流すことで、モーターを回転させますが、手で軸を回転させた際にコイルに生じる電力を読み取ることで、回転した角度を読み取ることができるという事のようです。
 まぁ、ロータリーエンコーダを買えば良いのでしょうけど、何かに使えそうなHACKです。
-</description>
+ </description>
     </item>
     
     <item>
@@ -57,7 +57,7 @@
 2つのステッピングモーターを使い、針金を送り出しては曲げ、を繰り返しています。
 生成される針金細工は丈夫で、大きさの制限も少なそうなので、様々な応用ができそうだなと感じました。
 Wire bending machine update - added straightening wheels. It works so much better now, the wire is not twisting any longer. Now the feeding wheel is a problem, plastic one is quite slippery. I will have to build a metal one. #bendingmachine #cnc pic.twitter.com/GnjpbGnn7R
-&amp;mdash; Jiří Praus (@jipraus) 2019年6月30日</description>
+&amp;mdash; Jiří Praus (@jipraus) 2019年6月30日  </description>
     </item>
     
   </channel>

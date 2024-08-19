@@ -40,7 +40,7 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/tft-spare-ram.jpg"&gt;Breadboard games 2020から発見。画像もここから転載。
 マイコンのRAMは限られているため、場合によっては外付けのRAMを取り付けることも珍しくありません。
 この記事で紹介しているのは、TFT液晶のコントローラのメモリの利用していない領域を汎用メモリとして利用するというテクニックです。 特に8色モードとしている場合は、各ピクセルごとに15ビットメモリが余るので、かなりの容量が確保できるようです。
-</description>
+ </description>
     </item>
     
     <item>

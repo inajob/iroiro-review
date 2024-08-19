@@ -18,7 +18,7 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/noaa.png"&gt;GET YOUR WEATHER IMAGES STRAIGHT FROM THE SATELLITEから発見。画像もここから転載。
 気象衛星のデータは、地上に送信され続けていますが、その回線は暗号化などはされておらず、設備さえあれば、誰でも受信できるようです。
 この記事では、SDRドングルで137MHzの気象衛星の電波を受信し、それをデコードするソフトに処理させることで、気象衛星からの画像を取得しています。
-</description>
+ </description>
     </item>
     
   </channel>
