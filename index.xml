@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 19 Aug 2024 23:42:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 23:03:11 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>レンチキュラーレンズを使った7セグ的な表示機</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%83%B3%E3%83%81%E3%82%AD%E3%83%A5%E3%83%A9%E3%83%BC%E3%83%AC%E3%83%B3%E3%82%BA%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F7%E3%82%BB%E3%82%B0%E7%9A%84%E3%81%AA%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
+      <pubDate>Tue, 20 Aug 2024 23:03:11 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%83%B3%E3%83%81%E3%82%AD%E3%83%A5%E3%83%A9%E3%83%BC%E3%83%AC%E3%83%B3%E3%82%BA%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F7%E3%82%BB%E3%82%B0%E7%9A%84%E3%81%AA%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/レンチキュラーレンズを使った7セグ的な表示機.jpg"&gt;A Lenticular Clock Spells Out The Hoursから発見。画像もここから転載。
+レンチキュラーレンズを使った7セグ的な表示機の作例です。
+サーボモーターを使って、5枚の画像がレンチキュラーレンズで切り替えられるような板の角度を調整することで、数字を表示する仕組みの7セグメント表示機です。
+仕組み自体は任意の画像を切り替えて表示できるので、応用の聞きそうなテクニックです。
+ </description>
+    </item>
     
     <item>
       <title>見なくても遊べるジグソーパズル</title>
@@ -121,17 +134,6 @@ Hackadayではこのような小粒ゲームハードウェアのコンテスト
 「3Dプリンター感温性フィラメント PLA オレンジ イエロー PLA フィラメント」https://t.co/DdhDPAITMU #PR
 ヒヤッとしたことがある人は是非試してみてください！ https://t.co/sNAGVAmF8Y
 &amp;mdash; Tasuku Suzuki (@task_jp) June 6, 2024  </description>
-    </item>
-    
-    <item>
-      <title>フィラメントタイプのLEDを使った7セグメント表示機</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%BF%E3%82%A4%E3%83%97%E3%81%AEled%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
-      <pubDate>Tue, 30 Jul 2024 23:30:08 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%BF%E3%82%A4%E3%83%97%E3%81%AEled%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/フィラメントタイプのLEDを使った7セグメント表示機.jpg"&gt;LED Filament 2.5 Digit Display BETA by Eean on Tindieから発見。画像もここから転載。
-フィラメントタイプのLEDを使った7セグメント表示機の作例です。
-様々な長さのフィラメントLEDを利用すると一般的な7セグメント表示機以外にも様々な表示器を作ることができそうです。</description>
     </item>
     
   </channel>
