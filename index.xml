@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 20 Aug 2024 23:03:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 23:33:52 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>棒状の3キーとジョグダイアル付きのマクロパッド</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%A3%92%E7%8A%B6%E3%81%AE3%E3%82%AD%E3%83%BC%E3%81%A8%E3%82%B8%E3%83%A7%E3%82%B0%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AB%E4%BB%98%E3%81%8D%E3%81%AE%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%91%E3%83%83%E3%83%89/</link>
+      <pubDate>Wed, 21 Aug 2024 23:33:52 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%A3%92%E7%8A%B6%E3%81%AE3%E3%82%AD%E3%83%BC%E3%81%A8%E3%82%B8%E3%83%A7%E3%82%B0%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AB%E4%BB%98%E3%81%8D%E3%81%AE%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%91%E3%83%83%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/棒状の3キーとジョグダイアル付きのマクロパッド.jpg"&gt;なかむらひできさんのPostから発見。画像もここから転載。
+棒状の3キーとジョグダイアル付きというユニークな形状のマクロパッドです。
+手のひらにすっぽり収まり、リモコンのような使い方ができそうで、異世界のコントローラという雰囲気です。</description>
+    </item>
     
     <item>
       <title>レンチキュラーレンズを使った7セグ的な表示機</title>
@@ -118,22 +129,6 @@ CH32V003に内蔵されたオペアンプを活用することで、この動作
 4つのボタンを早押しするゲーム機の作例です。 単純なゲームですが専用のゲーム端末というのが印象的です。
 完成度の高い見た目の筐体ですが、PCBは使わず3Dプリンタ製の部品をうまく組み合わせて実現されており、興味深いです。
 Hackadayではこのような小粒ゲームハードウェアのコンテストを開催中のようです。</description>
-    </item>
-    
-    <item>
-      <title>温度で色が変わるブレッドボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%B8%A9%E5%BA%A6%E3%81%A7%E8%89%B2%E3%81%8C%E5%A4%89%E3%82%8F%E3%82%8B%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Wed, 31 Jul 2024 23:26:02 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%B8%A9%E5%BA%A6%E3%81%A7%E8%89%B2%E3%81%8C%E5%A4%89%E3%82%8F%E3%82%8B%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/温度で色が変わるブレッドボード.jpg"&gt;Tasuku SuzukiさんのPostから発見。画像もここから転載。
-温度で色が変わるブレッドボードの作例です。 以前紹介した、熱で色の変わる塗料をブレッドボードに塗るテクニックと似たものですが、実現手法が異なります。
-この事例では、温度で色が変わるフィラメントを使いブレッドボードのプラスチック部分を作ることで、温度変化の可視化を実現しています。 同じ原理でも、様々な実現方法があって面白いですね。
-温度で色が変わるブレッドボードの3Dモデルを公開してみましたhttps://t.co/KUCSPOMnMR
-フィラメントはこちらを利用しました
-「3Dプリンター感温性フィラメント PLA オレンジ イエロー PLA フィラメント」https://t.co/DdhDPAITMU #PR
-ヒヤッとしたことがある人は是非試してみてください！ https://t.co/sNAGVAmF8Y
-&amp;mdash; Tasuku Suzuki (@task_jp) June 6, 2024  </description>
     </item>
     
   </channel>
