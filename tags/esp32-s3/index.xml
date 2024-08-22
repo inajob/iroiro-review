@@ -5,9 +5,20 @@
     <description>Recent content in ESP32-S3 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 22 Jul 2024 23:46:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 23:21:06 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/esp32-s3/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ワンキーと画面のみのゲーム機</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AF%E3%83%B3%E3%82%AD%E3%83%BC%E3%81%A8%E7%94%BB%E9%9D%A2%E3%81%AE%E3%81%BF%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Thu, 22 Aug 2024 23:21:06 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AF%E3%83%B3%E3%82%AD%E3%83%BC%E3%81%A8%E7%94%BB%E9%9D%A2%E3%81%AE%E3%81%BF%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ワンキーと画面のみのゲーム機.jpg"&gt;2024 Tiny Games Contest: Are You A Good Judge Of Time?から発見。画像もここから転載。
+ワンキーと画面のみのゲーム機です。 プログラミングはCircitPythonが使用されています。
+記事ではX秒ぴったりで止めることを競うゲームを紹介していますが、ほかにもいくつかのワンキーで遊べるゲームが動作するみたいです。</description>
+    </item>
     
     <item>
       <title>カラー基板を利用して作られたZX Spectrumエミュレータ</title>
