@@ -5,9 +5,20 @@
     <description>Recent content in OLED on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 21 Apr 2024 23:16:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 23:37:04 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/oled/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>128×32のOLEDを使ったゲーム機</title>
+      <link>https://inajob.github.io/iroiro-review/post/12832%E3%81%AEoled%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Mon, 26 Aug 2024 23:37:04 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/12832%E3%81%AEoled%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/128×32のOLEDを使ったゲーム機.jpg"&gt;My first PCB, an Arduino attiny85 handheldから発見。画像もここから転載。
+128×32のOLEDを使ったゲーム機の作例です。 マイコンはATtiny85を使っているようです。
+このOLEDは横向きに使われることが多いように思いますが、縦に使う発想も面白いです。</description>
+    </item>
     
     <item>
       <title>OLEDを2つ搭載したESP32開発ボード</title>
@@ -126,20 +137,6 @@ CH552もその一つです。USB Devie機能を内蔵しているにもかかわ
 プロセッサはSTM32F030F4P6 (Cortex M0, ROM:16K,RAM:　4K)、OLEDはQT1306P82という0.42インチのOLEDのようです
 Very happy about this. pic.twitter.com/1FofmKbqJP
 &amp;mdash; James Brown (@ancient_james) June 7, 2022  </description>
-    </item>
-    
-    <item>
-      <title>透過OLEDを使ったかっこいいマスク</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E9%80%8F%E9%81%8Eoled%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E3%83%9E%E3%82%B9%E3%82%AF/</link>
-      <pubDate>Mon, 13 Jun 2022 23:16:58 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E9%80%8F%E9%81%8Eoled%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E3%83%9E%E3%82%B9%E3%82%AF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/透過OLEDを使ったかっこいいマスク.jpg"&gt;Sci-Fi 3D Printed Mask With Transparent Displayから発見。画像もここから転載。
-コロナ禍で、みんなマスクをしていますが、そろそろ普通のマスクにも飽きてきますね。
-ということでこの記事で紹介しているのは3Dプリンタ製のマスクです。 まぁ、ウイルス防止のマスクというよりは、ゴーグル的なものですが、目の部分に透明OLEDが埋め込まれているのが特徴です。
-これによりSFのキャラクターのようなユニークな見た目を演出しています。
-コアとなるボードはESP32で、スマートフォンのアプリを使って目のアニメーションを切り替えることができます。
- </description>
     </item>
     
   </channel>
