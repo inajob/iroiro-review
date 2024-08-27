@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 26 Aug 2024 23:37:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 23:30:04 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32-S3をコアとしたポケコン風端末</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32-s3%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%83%9D%E3%82%B1%E3%82%B3%E3%83%B3%E9%A2%A8%E7%AB%AF%E6%9C%AB/</link>
+      <pubDate>Tue, 27 Aug 2024 23:30:04 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32-s3%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%83%9D%E3%82%B1%E3%82%B3%E3%83%B3%E9%A2%A8%E7%AB%AF%E6%9C%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32-S3をコアとしたポケコン風端末.jpg"&gt;CL-32から発見。画像もここから転載。
+ESP32-S3をコアとしたポケコン風端末の作例です。 Cyberdeckというと、Raspberry Piを搭載したLinuxの端末が多いですが、本当にそこまでの性能が必要なのでしょうか？
+この記事では、ESP32-S3を使ってシンプルな機能のポケコン風の端末を紹介しています。 キーボード用のスイッチにメタルドームスイッチを使っているのが印象的です。</description>
+    </item>
     
     <item>
       <title>128×32のOLEDを使ったゲーム機</title>
@@ -114,20 +125,6 @@ Tulip本体はMakerfabsで販売されており、さっと試したい人は購
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/電子ペーパー搭載文字入力専用端末.jpg"&gt;Zerowriter Inkから発見。画像もここから転載。
 電子ペーパー搭載文字入力専用端末です。 中身はInkplate 5ということなのでESP32がコアのようです。
 クラウドファンディングが準備中のようで、この手の文字入力専用端末が好きな人は要チェックです。 （ただしESP32であることを考えると、日本語入力に対応などは難しいように思います）
- </description>
-    </item>
-    
-    <item>
-      <title>マトリクスLED表示機をセンサーとしても利用する</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E8%A1%A8%E7%A4%BA%E6%A9%9F%E3%82%92%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%81%A8%E3%81%97%E3%81%A6%E3%82%82%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B/</link>
-      <pubDate>Fri, 09 Aug 2024 00:00:28 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E8%A1%A8%E7%A4%BA%E6%A9%9F%E3%82%92%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%81%A8%E3%81%97%E3%81%A6%E3%82%82%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/マトリクスLED表示機をセンサーとしても利用する.jpg"&gt;Programming Tiny Blinkenlight Projects With Lightから発見。画像もここから転載。
-マトリクスLED表示機をセンサーとしても利用する作例です。
-表示機として配置されたLEDを、逆に光センサーとして利用するテクニックです。 スマートフォンの画面にこの表示器を接した状態で、スマートフォンの画面を白黒に点滅させることでデータ転送を実現しています。
-CH32V003に内蔵されたオペアンプを活用することで、この動作を実現しています。
-表示機がセンサーにもなるというのは部品点数が減らせる点でも面白いです。
  </description>
     </item>
     
