@@ -1,0 +1,28 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>プラレール on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E3%83%97%E3%83%A9%E3%83%AC%E3%83%BC%E3%83%AB/</link>
+    <description>Recent content in プラレール on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Thu, 29 Aug 2024 00:03:51 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%83%97%E3%83%A9%E3%83%AC%E3%83%BC%E3%83%AB/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>プラレールのポイント切り替えを電気で行う</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%97%E3%83%A9%E3%83%AC%E3%83%BC%E3%83%AB%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88%E3%82%92%E9%9B%BB%E6%B0%97%E3%81%A7%E8%A1%8C%E3%81%86/</link>
+      <pubDate>Thu, 29 Aug 2024 00:03:51 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%97%E3%83%A9%E3%83%AC%E3%83%BC%E3%83%AB%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88%E3%82%92%E9%9B%BB%E6%B0%97%E3%81%A7%E8%A1%8C%E3%81%86/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/プラレールのポイント切り替えを電気で行う.jpg"&gt;Steve KasuyaさんのPostから発見。画像もここから転載。
+プラレールのポイント切り替えを電気で行う手法の紹介です。 小さなソレノイドを使った手法のようですが、ソレノイドが十分に小さいので、魔法のように見えるところが面白いですね。
+これを駆使したらプラレールの自動運行システムなんかが作れそうですね。
+プラレールのポイント改造して、電気で切り替えられるようにしてみました。
+サーボモーターは使ってないので見た目が変わらず、スッキリしてていい感じです😀 pic.twitter.com/9dxhUj6cLZ
+&amp;mdash; Steve Kasuya (@SteveKasuya2) August 13, 2024  </description>
+    </item>
+    
+  </channel>
+</rss>
+
