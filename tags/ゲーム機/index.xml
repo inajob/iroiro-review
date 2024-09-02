@@ -5,9 +5,22 @@
     <description>Recent content in ゲーム機 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 29 Aug 2024 22:35:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 00:05:41 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>既存の携帯ゲーム機をArduboy化する</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%97%A2%E5%AD%98%E3%81%AE%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E3%82%92arduboy%E5%8C%96%E3%81%99%E3%82%8B/</link>
+      <pubDate>Mon, 02 Sep 2024 00:05:41 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%97%A2%E5%AD%98%E3%81%AE%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E3%82%92arduboy%E5%8C%96%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/既存の携帯ゲーム機をArduboy化する.jpg"&gt;One-day project: Wibraboyから発見。画像もここから転載。
+携帯ミニゲーム機は市場に溢れており、500円以内で買うことが出来るものも多いです。
+この記事ではそんな携帯ゲーム機の筐体を流用してArduboy互換機を作成しています。
+筐体とスイッチ以外は総取り替えでガワだけ流用してるという感じです。
+ </description>
+    </item>
     
     <item>
       <title>ミニマルな2048ゲーム機</title>
@@ -111,19 +124,6 @@ Picopadという、オープンソースのRP2040ベースの携帯ゲーム機�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/1615=240個のLEDを搭載した携帯ゲーム機.jpg"&gt;LED the Games Beginから発見。画像もここから転載。
 16*15=240個のLEDを搭載した携帯ゲーム機の作例です。 IOエキスパンダなどを使わずに、マイコンの16個のピンを使いCharlieplexingで制御しているとのこと。
 コアマイコンはCH32X035で、うまいことやると23000FPSもの高速描画が出来るとのことです。
- </description>
-    </item>
-    
-    <item>
-      <title>1軸しか無いPongゲーム</title>
-      <link>https://inajob.github.io/iroiro-review/post/1%E8%BB%B8%E3%81%97%E3%81%8B%E7%84%A1%E3%81%84pong%E3%82%B2%E3%83%BC%E3%83%A0/</link>
-      <pubDate>Thu, 04 Jan 2024 23:33:33 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/1%E8%BB%B8%E3%81%97%E3%81%8B%E7%84%A1%E3%81%84pong%E3%82%B2%E3%83%BC%E3%83%A0/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/1軸しか無いPongゲーム.jpg"&gt;1D LED PONG, Arduino-Styleから発見。画像もここから転載。
-1軸しか無いPongゲームの作例です。 1列のLEDの間を光が行ったり来たりするだけのゲームです。
-タイミング良くボタンを押すことでLEDの光を打ち返す事が出来、最もゴールに近い黄色のLEDが光ったタイミングでボタンを押すことでスマッシュを打つことが出来るというルールです。
-シンプルですが、意外と戦略性がありそうなゲームで面白いです。
  </description>
     </item>
     
