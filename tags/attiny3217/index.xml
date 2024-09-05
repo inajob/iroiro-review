@@ -5,9 +5,20 @@
     <description>Recent content in attiny3217 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 11 Oct 2021 12:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 23:49:15 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/attiny3217/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DIPサイズのArduino Nanoクローン</title>
+      <link>https://inajob.github.io/iroiro-review/post/dip%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AEarduino-nano%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3/</link>
+      <pubDate>Thu, 05 Sep 2024 23:49:15 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/dip%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AEarduino-nano%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/DIPサイズのArduino Nanoクローン.jpg"&gt;An Arduino Nano Clone In A DIP-Sized Footprintから発見。画像もここから転載。
+DIPサイズのArduino Nanoクローンの開発ボードです。 ICはATtiny3217を使用しており、基板をDIPサイズに頑張って納めています。
+垂直コネクタは珍しく、ちょっと面白い見た目になっています。</description>
+    </item>
     
     <item>
       <title>DIPサイズのATTINY3217開発ボード</title>

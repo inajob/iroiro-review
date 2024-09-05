@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 04 Sep 2024 23:57:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 23:49:15 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DIPサイズのArduino Nanoクローン</title>
+      <link>https://inajob.github.io/iroiro-review/post/dip%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AEarduino-nano%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3/</link>
+      <pubDate>Thu, 05 Sep 2024 23:49:15 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/dip%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AEarduino-nano%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/DIPサイズのArduino Nanoクローン.jpg"&gt;An Arduino Nano Clone In A DIP-Sized Footprintから発見。画像もここから転載。
+DIPサイズのArduino Nanoクローンの開発ボードです。 ICはATtiny3217を使用しており、基板をDIPサイズに頑張って納めています。
+垂直コネクタは珍しく、ちょっと面白い見た目になっています。</description>
+    </item>
     
     <item>
       <title>3Dプリンタで作るシートベルトの機構</title>
@@ -120,17 +131,6 @@ MicroPythonで動作する、この手のガジェットとしては大画面の
 Tulip本体はMakerfabsで販売されており、さっと試したい人は購入すると良いでしょう。(ESP32-S3の技適マークがあるかどうか怪しい点に注意が必要です）
 オープンソースで開発が進められているので、真似して作ることもできます。
  </description>
-    </item>
-    
-    <item>
-      <title>ワンキーと画面のみのゲーム機</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AF%E3%83%B3%E3%82%AD%E3%83%BC%E3%81%A8%E7%94%BB%E9%9D%A2%E3%81%AE%E3%81%BF%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
-      <pubDate>Thu, 22 Aug 2024 23:21:06 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AF%E3%83%B3%E3%82%AD%E3%83%BC%E3%81%A8%E7%94%BB%E9%9D%A2%E3%81%AE%E3%81%BF%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ワンキーと画面のみのゲーム機.jpg"&gt;2024 Tiny Games Contest: Are You A Good Judge Of Time?から発見。画像もここから転載。
-ワンキーと画面のみのゲーム機です。 プログラミングはCircitPythonが使用されています。
-記事ではX秒ぴったりで止めることを競うゲームを紹介していますが、ほかにもいくつかのワンキーで遊べるゲームが動作するみたいです。</description>
     </item>
     
   </channel>

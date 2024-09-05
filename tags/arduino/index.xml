@@ -5,9 +5,20 @@
     <description>Recent content in Arduino on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 03 Apr 2024 23:06:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 23:49:15 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DIPサイズのArduino Nanoクローン</title>
+      <link>https://inajob.github.io/iroiro-review/post/dip%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AEarduino-nano%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3/</link>
+      <pubDate>Thu, 05 Sep 2024 23:49:15 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/dip%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AEarduino-nano%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/DIPサイズのArduino Nanoクローン.jpg"&gt;An Arduino Nano Clone In A DIP-Sized Footprintから発見。画像もここから転載。
+DIPサイズのArduino Nanoクローンの開発ボードです。 ICはATtiny3217を使用しており、基板をDIPサイズに頑張って納めています。
+垂直コネクタは珍しく、ちょっと面白い見た目になっています。</description>
+    </item>
     
     <item>
       <title>自作の大きなドット絵表示機</title>
@@ -119,19 +130,6 @@ Arduino UNOは電子工作のプロトタイピングにぴったりの開発ボ
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/AVR128DB28のArduino Nanoサイズの開発ボード.jpg"&gt;AVR128DB development board - &amp;lsquo;nano&amp;rsquo; style by ArduinoShop on Tindieから発見。画像もここから転載。
 AVR128DB28のArduino Nanoサイズの開発ボードです。
 AVR128DB28は、Flashは128KByte, RAMは16KBとリッチなメモリを搭載しています。 DIPパッケージもあるようで、趣味の電子工作で活用できそうなマイコンです。</description>
-    </item>
-    
-    <item>
-      <title>見た目はRaspberry Pi ZeroなArduino互換ボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AFraspberry-pi-zero%E3%81%AAarduino%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AFraspberry-pi-zero%E3%81%AAarduino%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/cricket-one.jpg"&gt;Cricket ONE (beta)から発見。画像もここから転載。
-Raspberry Pi Zeroと同じサイズ、同じピンヘッダを備えた、Arduinoです。
-コアとなるICはATmega328PBで、普通のArduino UNOなどと同じように利用できそうです。
-ATmega328PBはATmega328Pよりも4つ多くのGPIOを持っていますが、それらも利用できるようです。
-Rarspberry Pi Zeroのケースや、HATなどの周辺機器を利用できるので、なかなか使い勝手がよさそうです。</description>
     </item>
     
   </channel>

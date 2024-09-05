@@ -5,9 +5,36 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 04 Sep 2024 23:57:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 23:49:15 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Arduino</title>
+      <link>https://inajob.github.io/iroiro-review/tags/arduino/</link>
+      <pubDate>Thu, 05 Sep 2024 23:49:15 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/arduino/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>Arduino Nano</title>
+      <link>https://inajob.github.io/iroiro-review/tags/arduino-nano/</link>
+      <pubDate>Thu, 05 Sep 2024 23:49:15 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/arduino-nano/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>attiny3217</title>
+      <link>https://inajob.github.io/iroiro-review/tags/attiny3217/</link>
+      <pubDate>Thu, 05 Sep 2024 23:49:15 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/attiny3217/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>3Dプリンタ</title>
@@ -69,33 +96,6 @@
       <pubDate>Mon, 02 Sep 2024 00:05:41 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/arduboy/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>ゲーム機</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
-      <pubDate>Mon, 02 Sep 2024 00:05:41 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>フルカラーLED</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCled/</link>
-      <pubDate>Thu, 29 Aug 2024 22:35:17 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCled/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>おもちゃ</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83/</link>
-      <pubDate>Thu, 29 Aug 2024 00:03:51 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
