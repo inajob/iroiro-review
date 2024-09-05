@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 03 Sep 2024 23:37:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 23:57:22 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタで作るシートベルトの機構</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%82%B7%E3%83%BC%E3%83%88%E3%83%99%E3%83%AB%E3%83%88%E3%81%AE%E6%A9%9F%E6%A7%8B/</link>
+      <pubDate>Wed, 04 Sep 2024 23:57:22 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%82%B7%E3%83%BC%E3%83%88%E3%83%99%E3%83%AB%E3%83%88%E3%81%AE%E6%A9%9F%E6%A7%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作るシートベルトの機構.jpg"&gt;宇生(たかお)さんのPostから発見。画像もここから転載。
+シートベルトは、勢いよく引っ張るとロックがかかり引き出すことができなくなりますが、このPostではこの仕組みを3Dプリンタで再現しています。
+身近な仕組みですが、どうなっているか考えたことがなかったので、こういうものを見ると面白いです。
+どうやらシートベルトの機構の再発明だったらしい。 https://t.co/fZHehBxJHQ
+&amp;mdash; 宇生(たかお) (@YBB_824) January 26, 2024   </description>
+    </item>
     
     <item>
       <title>修飾キーなしで利用できる片手キーボード</title>
@@ -118,17 +131,6 @@ Tulip本体はMakerfabsで販売されており、さっと試したい人は購
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ワンキーと画面のみのゲーム機.jpg"&gt;2024 Tiny Games Contest: Are You A Good Judge Of Time?から発見。画像もここから転載。
 ワンキーと画面のみのゲーム機です。 プログラミングはCircitPythonが使用されています。
 記事ではX秒ぴったりで止めることを競うゲームを紹介していますが、ほかにもいくつかのワンキーで遊べるゲームが動作するみたいです。</description>
-    </item>
-    
-    <item>
-      <title>棒状の3キーとジョグダイアル付きのマクロパッド</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%A3%92%E7%8A%B6%E3%81%AE3%E3%82%AD%E3%83%BC%E3%81%A8%E3%82%B8%E3%83%A7%E3%82%B0%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AB%E4%BB%98%E3%81%8D%E3%81%AE%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%91%E3%83%83%E3%83%89/</link>
-      <pubDate>Wed, 21 Aug 2024 23:33:52 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%A3%92%E7%8A%B6%E3%81%AE3%E3%82%AD%E3%83%BC%E3%81%A8%E3%82%B8%E3%83%A7%E3%82%B0%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AB%E4%BB%98%E3%81%8D%E3%81%AE%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%91%E3%83%83%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/棒状の3キーとジョグダイアル付きのマクロパッド.jpg"&gt;なかむらひできさんのPostから発見。画像もここから転載。
-棒状の3キーとジョグダイアル付きというユニークな形状のマクロパッドです。
-手のひらにすっぽり収まり、リモコンのような使い方ができそうで、異世界のコントローラという雰囲気です。</description>
     </item>
     
   </channel>

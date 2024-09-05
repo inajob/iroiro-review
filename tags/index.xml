@@ -5,9 +5,36 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 03 Sep 2024 23:37:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 23:57:22 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタ</title>
+      <link>https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
+      <pubDate>Wed, 04 Sep 2024 23:57:22 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>からくり</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A/</link>
+      <pubDate>Wed, 04 Sep 2024 23:57:22 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>機構</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E6%A9%9F%E6%A7%8B/</link>
+      <pubDate>Wed, 04 Sep 2024 23:57:22 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E6%A9%9F%E6%A7%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>自作キーボード</title>
@@ -69,33 +96,6 @@
       <pubDate>Thu, 29 Aug 2024 00:03:51 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>ソレノイド</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E3%82%BD%E3%83%AC%E3%83%8E%E3%82%A4%E3%83%89/</link>
-      <pubDate>Thu, 29 Aug 2024 00:03:51 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E3%82%BD%E3%83%AC%E3%83%8E%E3%82%A4%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>プラレール</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E3%83%97%E3%83%A9%E3%83%AC%E3%83%BC%E3%83%AB/</link>
-      <pubDate>Thu, 29 Aug 2024 00:03:51 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E3%83%97%E3%83%A9%E3%83%AC%E3%83%BC%E3%83%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>ESP32-S3</title>
-      <link>https://inajob.github.io/iroiro-review/tags/esp32-s3/</link>
-      <pubDate>Tue, 27 Aug 2024 23:30:04 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/esp32-s3/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
