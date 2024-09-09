@@ -5,9 +5,27 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 08 Sep 2024 23:25:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 23:24:43 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ATtiny85</title>
+      <link>https://inajob.github.io/iroiro-review/tags/attiny85/</link>
+      <pubDate>Mon, 09 Sep 2024 23:24:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/attiny85/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>楽器</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E6%A5%BD%E5%99%A8/</link>
+      <pubDate>Mon, 09 Sep 2024 23:24:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E6%A5%BD%E5%99%A8/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>555</title>
@@ -78,24 +96,6 @@
       <pubDate>Wed, 04 Sep 2024 23:57:22 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/%E6%A9%9F%E6%A7%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>自作キーボード</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Tue, 03 Sep 2024 23:37:41 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>Cyberdeck</title>
-      <link>https://inajob.github.io/iroiro-review/tags/cyberdeck/</link>
-      <pubDate>Mon, 02 Sep 2024 23:55:59 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/cyberdeck/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     

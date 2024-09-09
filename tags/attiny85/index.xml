@@ -5,9 +5,20 @@
     <description>Recent content in ATtiny85 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 26 Aug 2024 23:37:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 23:24:43 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/attiny85/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>1立方インチサイズのMIDIコントローラ</title>
+      <link>https://inajob.github.io/iroiro-review/post/1%E7%AB%8B%E6%96%B9%E3%82%A4%E3%83%B3%E3%83%81%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AEmidi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9/</link>
+      <pubDate>Mon, 09 Sep 2024 23:24:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/1%E7%AB%8B%E6%96%B9%E3%82%A4%E3%83%B3%E3%83%81%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AEmidi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/1立方インチサイズのMIDIコントローラ.jpg"&gt;MIDI Controller In A Cubic Inchから発見。画像もここから転載。
+1立方インチサイズのMIDIコントローラの作例です。 マイコンはこういう小型の作例ではおなじみのATtiny85を採用しています。
+ </description>
+    </item>
     
     <item>
       <title>128×32のOLEDを使ったゲーム機</title>
@@ -117,18 +128,6 @@ CPUはATTiny85を使っており非常に単純な回路となっています。
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/tft-library.jpg"&gt;Tiny TFT Graphics Libraryから発見。画像もここから転載。
 ATTiny85で利用できるTFTライブラリです。 AVRのレジスタを直接操作することで、高速でかつ、小さなフットプリントでライブラリを実装しています。 また点、線、四角、文字の描画に対応しています。
 非常にシンプルに実装されているため、TFT液晶の操作を学ぶ際の教材としても有用そうです。</description>
-    </item>
-    
-    <item>
-      <title>コイン電池で動作する4×5ドットマトリクスLEDボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%82%A4%E3%83%B3%E9%9B%BB%E6%B1%A0%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B45%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Mon, 16 Dec 2019 23:00:26 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%82%A4%E3%83%B3%E9%9B%BB%E6%B1%A0%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B45%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/matrix-led-badgejpg.jpg"&gt;Wearable LED Matrix Display Badgeから発見。画像もここから転載（CC BY-NC-SA By AmalMathew）
-シンプルな4×5のドットマトリクスLEDを搭載した、いわゆる「バッジ」です。 制御はATtiny85。Charliplexingを使って、少ないピンを最大限活用しています。
-構成要素は単純ですが、何とも言えないかわいさが印象的なボードです。
- </description>
     </item>
     
   </channel>

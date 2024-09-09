@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 08 Sep 2024 23:25:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 23:24:43 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>1立方インチサイズのMIDIコントローラ</title>
+      <link>https://inajob.github.io/iroiro-review/post/1%E7%AB%8B%E6%96%B9%E3%82%A4%E3%83%B3%E3%83%81%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AEmidi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9/</link>
+      <pubDate>Mon, 09 Sep 2024 23:24:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/1%E7%AB%8B%E6%96%B9%E3%82%A4%E3%83%B3%E3%83%81%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AEmidi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/1立方インチサイズのMIDIコントローラ.jpg"&gt;MIDI Controller In A Cubic Inchから発見。画像もここから転載。
+1立方インチサイズのMIDIコントローラの作例です。 マイコンはこういう小型の作例ではおなじみのATtiny85を採用しています。
+ </description>
+    </item>
     
     <item>
       <title>静電容量タッチICと555で構成されたピアノ</title>
@@ -116,17 +127,6 @@ Raspberry Pi Zeroを使ったハンドヘルドPCの作例です。
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32-S3をコアとしたポケコン風端末.jpg"&gt;CL-32から発見。画像もここから転載。
 ESP32-S3をコアとしたポケコン風端末の作例です。 Cyberdeckというと、Raspberry Piを搭載したLinuxの端末が多いですが、本当にそこまでの性能が必要なのでしょうか？
 この記事では、ESP32-S3を使ってシンプルな機能のポケコン風の端末を紹介しています。 キーボード用のスイッチにメタルドームスイッチを使っているのが印象的です。</description>
-    </item>
-    
-    <item>
-      <title>128×32のOLEDを使ったゲーム機</title>
-      <link>https://inajob.github.io/iroiro-review/post/12832%E3%81%AEoled%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
-      <pubDate>Mon, 26 Aug 2024 23:37:04 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/12832%E3%81%AEoled%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/128×32のOLEDを使ったゲーム機.jpg"&gt;My first PCB, an Arduino attiny85 handheldから発見。画像もここから転載。
-128×32のOLEDを使ったゲーム機の作例です。 マイコンはATtiny85を使っているようです。
-このOLEDは横向きに使われることが多いように思いますが、縦に使う発想も面白いです。</description>
     </item>
     
   </channel>
