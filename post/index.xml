@@ -5,9 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 11 Sep 2024 00:07:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 23:29:41 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタで作るプラレールの拡張パーツ</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%97%E3%83%A9%E3%83%AC%E3%83%BC%E3%83%AB%E3%81%AE%E6%8B%A1%E5%BC%B5%E3%83%91%E3%83%BC%E3%83%84/</link>
+      <pubDate>Wed, 11 Sep 2024 23:29:41 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%97%E3%83%A9%E3%83%AC%E3%83%BC%E3%83%AB%E3%81%AE%E6%8B%A1%E5%BC%B5%E3%83%91%E3%83%BC%E3%83%84/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作るプラレールの拡張パーツ.jpg"&gt;まさと研究所⚡️さんのPostから発見。画像もここから転載。
+3Dプリンタで作るプラレールの拡張パーツです。 市販品でもこのようなパーツはありますが、3Dプリンタがあれば、このような部品を好きなだけ作ることができるので、プラレールの遊びの幅が広がりそうです。
+またプラレール遊びを再開ｗ
+手始めにレールジョイントを作っておく。レールジョイントは凹凹で接続できるのでいろいろな応用が出来る。
+構造はシンプルなH型。
+弾性変形でピッタリフィットするようにしてみた。 pic.twitter.com/rlScK72E2l
+&amp;mdash; まさと研究所⚡️ (@rsna6ce1) January 16, 2024  </description>
+    </item>
     
     <item>
       <title>フレキシブル基板を使った名刺サイズスピーカー</title>
@@ -114,20 +129,6 @@ Raspberry Pi Zeroを使ったハンドヘルドPCの作例です。
 ミニマルな2048ゲーム機の作例です。 2048というのは比較的新しいパズルゲームで、4×4の数字の書かれたパネルを上下左右に移動させて、なるべく大きな数字を作るというものです。
 4×4のフルカラーLEDを搭載しており、2048のゲームの各パネルの数字を色で表しています。
 2048本のゲームを知っていればなんとかプレイできそうですが、こんな素朴な表示機で2048がプレイできる発想が面白いです。</description>
-    </item>
-    
-    <item>
-      <title>プラレールのポイント切り替えを電気で行う</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%97%E3%83%A9%E3%83%AC%E3%83%BC%E3%83%AB%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88%E3%82%92%E9%9B%BB%E6%B0%97%E3%81%A7%E8%A1%8C%E3%81%86/</link>
-      <pubDate>Thu, 29 Aug 2024 00:03:51 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%97%E3%83%A9%E3%83%AC%E3%83%BC%E3%83%AB%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88%E3%82%92%E9%9B%BB%E6%B0%97%E3%81%A7%E8%A1%8C%E3%81%86/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/プラレールのポイント切り替えを電気で行う.jpg"&gt;Steve KasuyaさんのPostから発見。画像もここから転載。
-プラレールのポイント切り替えを電気で行う手法の紹介です。 小さなソレノイドを使った手法のようですが、ソレノイドが十分に小さいので、魔法のように見えるところが面白いですね。
-これを駆使したらプラレールの自動運行システムなんかが作れそうですね。
-プラレールのポイント改造して、電気で切り替えられるようにしてみました。
-サーボモーターは使ってないので見た目が変わらず、スッキリしてていい感じです😀 pic.twitter.com/9dxhUj6cLZ
-&amp;mdash; Steve Kasuya (@SteveKasuya2) August 13, 2024  </description>
     </item>
     
   </channel>
