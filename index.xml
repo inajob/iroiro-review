@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 09 Sep 2024 23:24:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 00:07:39 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>フレキシブル基板を使った名刺サイズスピーカー</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%83%AC%E3%82%AD%E3%82%B7%E3%83%96%E3%83%AB%E5%9F%BA%E6%9D%BF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%90%8D%E5%88%BA%E3%82%B5%E3%82%A4%E3%82%BA%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC/</link>
+      <pubDate>Wed, 11 Sep 2024 00:07:39 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%83%AC%E3%82%AD%E3%82%B7%E3%83%96%E3%83%AB%E5%9F%BA%E6%9D%BF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%90%8D%E5%88%BA%E3%82%B5%E3%82%A4%E3%82%BA%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/フレキシブル基板を使った名刺サイズスピーカー.jpg"&gt;2024 Business Card Challenge: CardTunes Bluetooth Speakerから発見。画像もここから転載。
+フレキシブル基板を使った名刺サイズスピーカーの作例です。 2枚のフレキシブル基板に逆向きの磁場が発生するように電気を流すことで、永久磁石なしで音を鳴らそうとしたが、結局後ろに永久磁石を配置しないと音が小さすぎるという結果になったようです。
+フレキシブル基板を使った面白い作例で、この失敗情報は、次の似たような作例を作る際の大きなヒントになりそうです。
+ </description>
+    </item>
     
     <item>
       <title>1立方インチサイズのMIDIコントローラ</title>
@@ -116,17 +128,6 @@ Raspberry Pi Zeroを使ったハンドヘルドPCの作例です。
 プラレールのポイント改造して、電気で切り替えられるようにしてみました。
 サーボモーターは使ってないので見た目が変わらず、スッキリしてていい感じです😀 pic.twitter.com/9dxhUj6cLZ
 &amp;mdash; Steve Kasuya (@SteveKasuya2) August 13, 2024  </description>
-    </item>
-    
-    <item>
-      <title>ESP32-S3をコアとしたポケコン風端末</title>
-      <link>https://inajob.github.io/iroiro-review/post/esp32-s3%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%83%9D%E3%82%B1%E3%82%B3%E3%83%B3%E9%A2%A8%E7%AB%AF%E6%9C%AB/</link>
-      <pubDate>Tue, 27 Aug 2024 23:30:04 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/esp32-s3%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%83%9D%E3%82%B1%E3%82%B3%E3%83%B3%E9%A2%A8%E7%AB%AF%E6%9C%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32-S3をコアとしたポケコン風端末.jpg"&gt;CL-32から発見。画像もここから転載。
-ESP32-S3をコアとしたポケコン風端末の作例です。 Cyberdeckというと、Raspberry Piを搭載したLinuxの端末が多いですが、本当にそこまでの性能が必要なのでしょうか？
-この記事では、ESP32-S3を使ってシンプルな機能のポケコン風の端末を紹介しています。 キーボード用のスイッチにメタルドームスイッチを使っているのが印象的です。</description>
     </item>
     
   </channel>
