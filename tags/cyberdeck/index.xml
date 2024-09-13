@@ -5,9 +5,21 @@
     <description>Recent content in Cyberdeck on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 02 Sep 2024 23:55:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 00:01:53 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/cyberdeck/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raspberry Pi Picoで作られたシリアルターミナル＋NanoPiによるハンドヘルド端末</title>
+      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%ABnanopi%E3%81%AB%E3%82%88%E3%82%8B%E3%83%8F%E3%83%B3%E3%83%89%E3%83%98%E3%83%AB%E3%83%89%E7%AB%AF%E6%9C%AB/</link>
+      <pubDate>Fri, 13 Sep 2024 00:01:53 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%ABnanopi%E3%81%AB%E3%82%88%E3%82%8B%E3%83%8F%E3%83%B3%E3%83%89%E3%83%98%E3%83%AB%E3%83%89%E7%AB%AF%E6%9C%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi Picoで作られたシリアルターミナル＋NanoPiによるハンドヘルド端末.jpg"&gt;Handheld Linux Terminal 「HaLiTerm」から発見。画像もここから転載。
+Raspberry Pi Picoで作られたシリアルターミナルと、NanoPiによるハンドヘルド端末の作例です。
+テキストベースの画面周りの処理はRaspbrry Pi Picoが担当し、NanoPiがLinuxボードとして動作するという構成です。 Raspberry Pi Picoはほかにもキーボードの読み取りも担当しています。
+Raspberry Pi Picoの部分だけ残して、NnaoPi部分をほかのボードに代えることもできるので、あらゆるシリアル入出力できる機器をモバイル化できるという点でも面白い作例です。</description>
+    </item>
     
     <item>
       <title>Raspberry Pi Zeroを使ったハンドヘルドPCプロジェクト</title>
@@ -119,20 +131,6 @@ ESP32-S3をコアとしたポケコン風端末の作例です。 Cyberdeckと�
 金属製の筐体はタカチのアルミダイキャストケースHQ-26-18-6Nという既製品です。 コンソール表示には1文字ずつHCMS-2912というドットマトリクスLEDを利用しています。
 6502を搭載したモバイルコンピュータ。キースイッチ、表示用のドットマトリクスLED、金属筐体、どれをとっても素晴らしい。
  </description>
-    </item>
-    
-    <item>
-      <title>M5Stackとコンパクトなキーボードを組み合わせたハンドヘルド端末</title>
-      <link>https://inajob.github.io/iroiro-review/post/m5stack%E3%81%A8%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E3%83%8F%E3%83%B3%E3%83%89%E3%83%98%E3%83%AB%E3%83%89%E7%AB%AF%E6%9C%AB/</link>
-      <pubDate>Wed, 25 May 2022 23:12:18 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/m5stack%E3%81%A8%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E3%83%8F%E3%83%B3%E3%83%89%E3%83%98%E3%83%AB%E3%83%89%E7%AB%AF%E6%9C%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/M5Stackとコンパクトなキーボードを組み合わせたハンドヘルド端末.jpg"&gt;n602さんのTweetから発見。画像もここから転載。
-Orange-Rogue-KB とM5Stackを組み合わせたコンパクトなハンドヘルド端末の作例です。
-Orange-Rogue-KBはI2Cで接続できる汎用的な小型キーボードで、M5StackのGrove端子に接続して利用しています。 これらを3Dプリンタで作られたぴったりのケースで結合することで、素敵な端末に仕上げています。
-しかし CP/M版Rogueばっかりやってる
-M5だと画面がちょっと小さく感じる pic.twitter.com/lIO1xUtZcD
-&amp;mdash; n602💉💉💉 (@n602_NA) April 9, 2022  </description>
     </item>
     
   </channel>
