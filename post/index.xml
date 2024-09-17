@@ -5,9 +5,19 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 13 Sep 2024 00:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 23:40:21 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>水につけると電池になる装置</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%B0%B4%E3%81%AB%E3%81%A4%E3%81%91%E3%82%8B%E3%81%A8%E9%9B%BB%E6%B1%A0%E3%81%AB%E3%81%AA%E3%82%8B%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Mon, 16 Sep 2024 23:40:21 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%B0%B4%E3%81%AB%E3%81%A4%E3%81%91%E3%82%8B%E3%81%A8%E9%9B%BB%E6%B1%A0%E3%81%AB%E3%81%AA%E3%82%8B%E8%A3%85%E7%BD%AE/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/水につけると電池になる装置.jpg"&gt;Magnesium And Copper Makes An Emergency Flashlightから発見。画像もここから転載。
+水につけると電池になる装置の作例です。 Cu-Mg電池というもののようで、一般的な乾電池に比べて電力は少ないようですが面白いです。</description>
+    </item>
     
     <item>
       <title>Raspberry Pi Picoで作られたシリアルターミナル＋NanoPiによるハンドヘルド端末</title>
@@ -115,19 +125,6 @@ DIPサイズのArduino Nanoクローンの開発ボードです。 ICはATtiny32
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi Zeroを使ったハンドヘルドPCプロジェクト.jpg"&gt;Pocket Z : Bring back the PDAs &amp;amp; UMPCsから発見。画像もここから転載。
 Raspberry Pi Zeroを使ったハンドヘルドPCの作例です。
 まだ進行中のプロジェクトのようですが、Raspberry Pi Zeroをマウントできるキーボード付きメインボードのプロトタイプが紹介されています。 とても順当なRpberry Pi Zeroを活用したポータブルPCですが、意外と今まで見かけなかったように思います。
- </description>
-    </item>
-    
-    <item>
-      <title>既存の携帯ゲーム機をArduboy化する</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%97%A2%E5%AD%98%E3%81%AE%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E3%82%92arduboy%E5%8C%96%E3%81%99%E3%82%8B/</link>
-      <pubDate>Mon, 02 Sep 2024 00:05:41 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%97%A2%E5%AD%98%E3%81%AE%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E3%82%92arduboy%E5%8C%96%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/既存の携帯ゲーム機をArduboy化する.jpg"&gt;One-day project: Wibraboyから発見。画像もここから転載。
-携帯ミニゲーム機は市場に溢れており、500円以内で買うことが出来るものも多いです。
-この記事ではそんな携帯ゲーム機の筐体を流用してArduboy互換機を作成しています。
-筐体とスイッチ以外は総取り替えでガワだけ流用してるという感じです。
  </description>
     </item>
     
