@@ -5,9 +5,21 @@
     <description>Recent content in ゲーム機 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 02 Sep 2024 00:05:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 23:21:59 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ミニマルなカートリッジ式のゲーム機</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AB%E3%81%AA%E3%82%AB%E3%83%BC%E3%83%88%E3%83%AA%E3%83%83%E3%82%B8%E5%BC%8F%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Thu, 19 Sep 2024 23:21:59 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AB%E3%81%AA%E3%82%AB%E3%83%BC%E3%83%88%E3%83%AA%E3%83%83%E3%82%B8%E5%BC%8F%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ミニマルなカートリッジ式のゲーム機.jpg"&gt;2024 Tiny Games Contest: An Epic Minimalist Entertainment System, Indeedから発見。画像もここから転載。
+ミニマルなカートリッジ式のゲーム機の作例です。 ディプレイはGPD340という5×7が2つ並んだような小型の表示器を利用し、カートリッジはATtiny10です。
+ATtiny10の4つしかないGPIOを活用して、4ボタンとディプレイの制御、スピーカーの駆動を実現しています。
+ </description>
+    </item>
     
     <item>
       <title>既存の携帯ゲーム機をArduboy化する</title>
@@ -113,18 +125,6 @@ Picopadという、オープンソースのRP2040ベースの携帯ゲーム機�
 筒状のディスプレイで遊ぶテトリスを遊ぶための装置です。
 ストリップ状のシリアル制御のフルカラーLEDが筒に巻き付けてあるというシンプルなつくりですが、左右がつながったテトリスゲームを自然な形で表現できています。
 平面ディスプレイという制約を取り払ったゲーム機というアイデアが面白いです。</description>
-    </item>
-    
-    <item>
-      <title>16*15=240個のLEDを搭載した携帯ゲーム機</title>
-      <link>https://inajob.github.io/iroiro-review/post/1615240%E5%80%8B%E3%81%AEled%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
-      <pubDate>Thu, 07 Mar 2024 23:20:56 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/1615240%E5%80%8B%E3%81%AEled%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/1615=240個のLEDを搭載した携帯ゲーム機.jpg"&gt;LED the Games Beginから発見。画像もここから転載。
-16*15=240個のLEDを搭載した携帯ゲーム機の作例です。 IOエキスパンダなどを使わずに、マイコンの16個のピンを使いCharlieplexingで制御しているとのこと。
-コアマイコンはCH32X035で、うまいことやると23000FPSもの高速描画が出来るとのことです。
- </description>
     </item>
     
   </channel>
