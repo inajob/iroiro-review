@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 19 Sep 2024 23:21:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 23:48:17 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>21セグメントの特徴的な表示機</title>
+      <link>https://inajob.github.io/iroiro-review/post/21%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AE%E7%89%B9%E5%BE%B4%E7%9A%84%E3%81%AA%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
+      <pubDate>Mon, 23 Sep 2024 23:48:17 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/21%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AE%E7%89%B9%E5%BE%B4%E7%9A%84%E3%81%AA%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/21セグメントの特徴的な表示機.jpg"&gt;Why Have Seven Segments When You Can Have 21?から発見。画像もここから転載。
+セグメント表示機といえば7セグメントの数字を表示するものが一般的ですが、この記事で紹介しているのは21セグメントの特徴的な表示機です。
+21セグメントを駆使して味のあるアルファベットを表示できます。
+ </description>
+    </item>
     
     <item>
       <title>ミニマルなカートリッジ式のゲーム機</title>
@@ -126,17 +138,6 @@ Raspberry Pi Picoの部分だけ残して、NnaoPi部分をほかのボードに
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/静電容量タッチICと555で構成されたピアノ.jpg"&gt;Touch Piano : 555 Timer Piano Modern Versionから発見。画像もここから転載。
 静電容量タッチICと555で構成された、マイコンなしの電子ピアノの作例です。 AI08Bという静電容量タッチセンサーが気になります。
  </description>
-    </item>
-    
-    <item>
-      <title>DIPサイズのArduino Nanoクローン</title>
-      <link>https://inajob.github.io/iroiro-review/post/dip%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AEarduino-nano%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3/</link>
-      <pubDate>Thu, 05 Sep 2024 23:49:15 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/dip%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AEarduino-nano%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/DIPサイズのArduino Nanoクローン.jpg"&gt;An Arduino Nano Clone In A DIP-Sized Footprintから発見。画像もここから転載。
-DIPサイズのArduino Nanoクローンの開発ボードです。 ICはATtiny3217を使用しており、基板をDIPサイズに頑張って納めています。
-垂直コネクタは珍しく、ちょっと面白い見た目になっています。</description>
     </item>
     
   </channel>
