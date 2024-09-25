@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 24 Sep 2024 22:49:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 22:49:25 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>M5Stackと接触センサーで作るオタマトーンのような楽器</title>
+      <link>https://inajob.github.io/iroiro-review/post/m5stack%E3%81%A8%E6%8E%A5%E8%A7%A6%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%81%A7%E4%BD%9C%E3%82%8B%E3%82%AA%E3%82%BF%E3%83%9E%E3%83%88%E3%83%BC%E3%83%B3%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E6%A5%BD%E5%99%A8/</link>
+      <pubDate>Wed, 25 Sep 2024 22:49:25 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/m5stack%E3%81%A8%E6%8E%A5%E8%A7%A6%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%81%A7%E4%BD%9C%E3%82%8B%E3%82%AA%E3%82%BF%E3%83%9E%E3%83%88%E3%83%BC%E3%83%B3%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E6%A5%BD%E5%99%A8/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/M5Stackと接触センサーで作るオタマトーンのような楽器.jpg"&gt;saikeさんのPostから発見。画像もここから転載。
+M5Stackと接触センサーで作るオタマトーンのような楽器です。 接触センサーもM5Stackも簡単に手に入るので、オリジナルの楽器を作り始める第一歩としてなかなか良さそうです。
+楽器できた#電子楽器 #m5stack pic.twitter.com/kllrIzG5ms
+&amp;mdash; saike (@ThruTheLG) April 1, 2023  </description>
+    </item>
     
     <item>
       <title>VS1053搭載のMIDI音源ボード</title>
@@ -128,17 +140,6 @@ Raspberry Pi Picoの部分だけ残して、NnaoPi部分をほかのボードに
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/フレキシブル基板を使った名刺サイズスピーカー.jpg"&gt;2024 Business Card Challenge: CardTunes Bluetooth Speakerから発見。画像もここから転載。
 フレキシブル基板を使った名刺サイズスピーカーの作例です。 2枚のフレキシブル基板に逆向きの磁場が発生するように電気を流すことで、永久磁石なしで音を鳴らそうとしたが、結局後ろに永久磁石を配置しないと音が小さすぎるという結果になったようです。
 フレキシブル基板を使った面白い作例で、この失敗情報は、次の似たような作例を作る際の大きなヒントになりそうです。
- </description>
-    </item>
-    
-    <item>
-      <title>1立方インチサイズのMIDIコントローラ</title>
-      <link>https://inajob.github.io/iroiro-review/post/1%E7%AB%8B%E6%96%B9%E3%82%A4%E3%83%B3%E3%83%81%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AEmidi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9/</link>
-      <pubDate>Mon, 09 Sep 2024 23:24:43 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/1%E7%AB%8B%E6%96%B9%E3%82%A4%E3%83%B3%E3%83%81%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AEmidi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/1立方インチサイズのMIDIコントローラ.jpg"&gt;MIDI Controller In A Cubic Inchから発見。画像もここから転載。
-1立方インチサイズのMIDIコントローラの作例です。 マイコンはこういう小型の作例ではおなじみのATtiny85を採用しています。
  </description>
     </item>
     

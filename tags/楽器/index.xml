@@ -5,9 +5,21 @@
     <description>Recent content in 楽器 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 09 Sep 2024 23:24:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 22:49:25 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%A5%BD%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>M5Stackと接触センサーで作るオタマトーンのような楽器</title>
+      <link>https://inajob.github.io/iroiro-review/post/m5stack%E3%81%A8%E6%8E%A5%E8%A7%A6%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%81%A7%E4%BD%9C%E3%82%8B%E3%82%AA%E3%82%BF%E3%83%9E%E3%83%88%E3%83%BC%E3%83%B3%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E6%A5%BD%E5%99%A8/</link>
+      <pubDate>Wed, 25 Sep 2024 22:49:25 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/m5stack%E3%81%A8%E6%8E%A5%E8%A7%A6%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%81%A7%E4%BD%9C%E3%82%8B%E3%82%AA%E3%82%BF%E3%83%9E%E3%83%88%E3%83%BC%E3%83%B3%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E6%A5%BD%E5%99%A8/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/M5Stackと接触センサーで作るオタマトーンのような楽器.jpg"&gt;saikeさんのPostから発見。画像もここから転載。
+M5Stackと接触センサーで作るオタマトーンのような楽器です。 接触センサーもM5Stackも簡単に手に入るので、オリジナルの楽器を作り始める第一歩としてなかなか良さそうです。
+楽器できた#電子楽器 #m5stack pic.twitter.com/kllrIzG5ms
+&amp;mdash; saike (@ThruTheLG) April 1, 2023  </description>
+    </item>
     
     <item>
       <title>1立方インチサイズのMIDIコントローラ</title>
@@ -117,21 +129,6 @@ MIDI信号を出力し、音楽を奏でることができます。
 距離センサー、光センサーを使った面白いMIDI楽器の作例です。
 距離センサーで音程を、光センサーで音量を制御します。
 音声の出力はMIDI信号により外部の音源を利用しています。
- </description>
-    </item>
-    
-    <item>
-      <title>ホイールにつけた溝に薄い板を擦り付ける音を鳴らすオルガン風の楽器</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%E3%81%AB%E3%81%A4%E3%81%91%E3%81%9F%E6%BA%9D%E3%81%AB%E8%96%84%E3%81%84%E6%9D%BF%E3%82%92%E6%93%A6%E3%82%8A%E4%BB%98%E3%81%91%E3%82%8B%E9%9F%B3%E3%82%92%E9%B3%B4%E3%82%89%E3%81%99%E3%82%AA%E3%83%AB%E3%82%AC%E3%83%B3%E9%A2%A8%E3%81%AE%E6%A5%BD%E5%99%A8/</link>
-      <pubDate>Tue, 11 Oct 2022 22:50:12 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%E3%81%AB%E3%81%A4%E3%81%91%E3%81%9F%E6%BA%9D%E3%81%AB%E8%96%84%E3%81%84%E6%9D%BF%E3%82%92%E6%93%A6%E3%82%8A%E4%BB%98%E3%81%91%E3%82%8B%E9%9F%B3%E3%82%92%E9%B3%B4%E3%82%89%E3%81%99%E3%82%AA%E3%83%AB%E3%82%AC%E3%83%B3%E9%A2%A8%E3%81%AE%E6%A5%BD%E5%99%A8/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ホイールにつけた溝に薄い板を擦り付ける音を鳴らすオルガン風の楽器.jpg"&gt;This Found-Sound Organ Was Made With Python And A Laser Cutterから発見。画像もここから転載。
-音程が作れればなんでも楽器になります。
-この記事では、回転するギザギザのついたホイールと、薄いリードが触れ合い、振動する音を利用したオルガンのような楽器を紹介しています。
-ホイールは音階ごとに用意されており、それぞれギザギザの間隔が異なっています。
-同時押しをするとその分回転軸に負荷がかかって、少し音程が低くなってしまうところは要改善ポイントのようです。
-よく似た楽器でA/C Harp というエアコンを改造したものがあるのを思い出しました。
  </description>
     </item>
     
