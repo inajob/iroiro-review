@@ -5,9 +5,21 @@
     <description>Recent content in Attiny84 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 08 Aug 2022 23:14:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 23:22:16 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/attiny84/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DIPのICパッケージを削ってゲーム機を作る</title>
+      <link>https://inajob.github.io/iroiro-review/post/dip%E3%81%AEic%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%82%92%E5%89%8A%E3%81%A3%E3%81%A6%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E3%82%92%E4%BD%9C%E3%82%8B/</link>
+      <pubDate>Thu, 26 Sep 2024 23:22:16 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/dip%E3%81%AEic%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%82%92%E5%89%8A%E3%81%A3%E3%81%A6%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E3%82%92%E4%BD%9C%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/DIPのICパッケージを削ってゲーム機を作る.jpg"&gt;2024 Tiny Games Contest: Spectacular Sub-Surface Simonから発見。画像もここから転載。
+ATtiny84のDIPパッケージのもののICの樹脂部分を少し削って、そこにLEDやスイッチを収納して、DIPサイズの超小型ゲーム機の作例です。 部品はリードフレームに直接はんだ付けしてあります。
+ここを削るのは思いつかなかったですが、面白いアイデアです。
+ </description>
+    </item>
     
     <item>
       <title>ATTiny84で作られた7セグ2つを搭載したシンプルな携帯ゲーム機</title>
