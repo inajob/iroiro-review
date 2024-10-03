@@ -5,9 +5,24 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 01 Oct 2024 23:57:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 23:43:30 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>FDM式3Dプリンタのラフト面をレジンできれいにする技</title>
+      <link>https://inajob.github.io/iroiro-review/post/fdm%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%A9%E3%83%95%E3%83%88%E9%9D%A2%E3%82%92%E3%83%AC%E3%82%B8%E3%83%B3%E3%81%A7%E3%81%8D%E3%82%8C%E3%81%84%E3%81%AB%E3%81%99%E3%82%8B%E6%8A%80/</link>
+      <pubDate>Wed, 02 Oct 2024 23:43:30 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/fdm%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%A9%E3%83%95%E3%83%88%E9%9D%A2%E3%82%92%E3%83%AC%E3%82%B8%E3%83%B3%E3%81%A7%E3%81%8D%E3%82%8C%E3%81%84%E3%81%AB%E3%81%99%E3%82%8B%E6%8A%80/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/FDM式3Dプリンタのラフト面をレジンできれいにする技.jpg"&gt;tomo makabeさんのPostから発見。画像もここから転載。
+積層式の3Dプリンタの成果物は、その手法ゆえに表面に独特な凸凹が生じてしまいます。
+このPostで紹介しているのは、3Dプリンタの底面（ラフト面）をきれいにするための手法です。 光造形のレジンを筆で塗り、紫外線ライトで硬化、紙やすりを使うことでいい感じにきれいにできるようです。
+3Dプリントのラフト面。
+手軽に綺麗に仕上げる方法の実験。光造形のレジンを筆で塗って紫外線ライトで硬化。紙ヤスリ(120→240)で仕上げ。良い感じかな。
+色を合わせやすいのも良い。 pic.twitter.com/4AAQrhLFPX
+&amp;mdash; tomo makabe (@mkbtm) June 12, 2022  </description>
+    </item>
     
     <item>
       <title>木の揺れを利用して風力発電する装置</title>
@@ -132,19 +147,6 @@ ESP32搭載の自作汎用リモコンで操作します。
 きゅうりを3Dプリンタで作った「くまさん」の形をした筒の中で育てることで、くまさん型に成形しています
 3Dプリンタで型作ってシロクマきゅうり〜。型はクマ→ネコ→ウサギと作ったんだけど全部クマになったw pic.twitter.com/nPptE8UCDA
 &amp;mdash; むらさき (@interestor) July 19, 2024  </description>
-    </item>
-    
-    <item>
-      <title>画鋲を電極とした乾電池ケース</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E7%94%BB%E9%8B%B2%E3%82%92%E9%9B%BB%E6%A5%B5%E3%81%A8%E3%81%97%E3%81%9F%E4%B9%BE%E9%9B%BB%E6%B1%A0%E3%82%B1%E3%83%BC%E3%82%B9/</link>
-      <pubDate>Fri, 19 Jul 2024 00:06:16 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E7%94%BB%E9%8B%B2%E3%82%92%E9%9B%BB%E6%A5%B5%E3%81%A8%E3%81%97%E3%81%9F%E4%B9%BE%E9%9B%BB%E6%B1%A0%E3%82%B1%E3%83%BC%E3%82%B9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/画鋲を電極とした乾電池ケース.jpg"&gt;じょーかー・わん！さんのPostから発見。画像もここから転載。
-3Dプリンタで乾電池ケースを作る例はいくつかありますが、電極部分については工夫が必要です。
-このPostでは画鋲を電極にするというアイデアを紹介しており、確かに平たい頭の画鋲は電極に適しているかもしれません。 （常用する場合は素直に電池ボックスを買うのが良さそうです)
-よさそう pic.twitter.com/0sAIfARXj6
-&amp;mdash; じょーかー・わん！ (@1joker141) July 12, 2024  </description>
     </item>
     
   </channel>
