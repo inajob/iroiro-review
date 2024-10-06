@@ -5,9 +5,19 @@
     <description>Recent content in ATtiny85 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 09 Sep 2024 23:24:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 23:05:18 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/attiny85/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ミニゲームが遊べる名刺基板</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%9F%E3%83%8B%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%8C%E9%81%8A%E3%81%B9%E3%82%8B%E5%90%8D%E5%88%BA%E5%9F%BA%E6%9D%BF/</link>
+      <pubDate>Sun, 06 Oct 2024 23:05:18 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9F%E3%83%8B%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%8C%E9%81%8A%E3%81%B9%E3%82%8B%E5%90%8D%E5%88%BA%E5%9F%BA%E6%9D%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ミニゲームが遊べる名刺基板.jpg"&gt;2024 Business Card Challenge: Integrated Game Cardから発見。画像もここから転載。
+ミニゲームが遊べる名刺基板です。ATTiny85を使ったtinyjoypad互換となっており、既存のゲームも動作しそうです。 OLEDが基板付きのモジュールではなく、直接メイン基板にはんだ付けするスタイルにより薄型を実現しているのも面白いです。</description>
+    </item>
     
     <item>
       <title>1立方インチサイズのMIDIコントローラ</title>
@@ -117,17 +127,6 @@ ATTiny85を使って作られた、SDカードに入ったWAVファイルを再�
 手で振る動作と同期するために、チルトスイッチを使っています。
 CPUはATTiny85を使っており非常に単純な回路となっています。
  </description>
-    </item>
-    
-    <item>
-      <title>省メモリで動作するTFTライブラリ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E7%9C%81%E3%83%A1%E3%83%A2%E3%83%AA%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8Btft%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA/</link>
-      <pubDate>Wed, 05 Feb 2020 23:00:13 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E7%9C%81%E3%83%A1%E3%83%A2%E3%83%AA%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8Btft%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/tft-library.jpg"&gt;Tiny TFT Graphics Libraryから発見。画像もここから転載。
-ATTiny85で利用できるTFTライブラリです。 AVRのレジスタを直接操作することで、高速でかつ、小さなフットプリントでライブラリを実装しています。 また点、線、四角、文字の描画に対応しています。
-非常にシンプルに実装されているため、TFT液晶の操作を学ぶ際の教材としても有用そうです。</description>
     </item>
     
   </channel>

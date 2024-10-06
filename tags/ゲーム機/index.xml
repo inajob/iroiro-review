@@ -5,9 +5,19 @@
     <description>Recent content in ゲーム機 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 26 Sep 2024 23:22:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 23:05:18 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ミニゲームが遊べる名刺基板</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%9F%E3%83%8B%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%8C%E9%81%8A%E3%81%B9%E3%82%8B%E5%90%8D%E5%88%BA%E5%9F%BA%E6%9D%BF/</link>
+      <pubDate>Sun, 06 Oct 2024 23:05:18 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9F%E3%83%8B%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%8C%E9%81%8A%E3%81%B9%E3%82%8B%E5%90%8D%E5%88%BA%E5%9F%BA%E6%9D%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ミニゲームが遊べる名刺基板.jpg"&gt;2024 Business Card Challenge: Integrated Game Cardから発見。画像もここから転載。
+ミニゲームが遊べる名刺基板です。ATTiny85を使ったtinyjoypad互換となっており、既存のゲームも動作しそうです。 OLEDが基板付きのモジュールではなく、直接メイン基板にはんだ付けするスタイルにより薄型を実現しているのも面白いです。</description>
+    </item>
     
     <item>
       <title>DIPのICパッケージを削ってゲーム機を作る</title>
@@ -114,17 +124,6 @@ Picopadという、オープンソースのRP2040ベースの携帯ゲーム機�
 ディスプレイは2インチの240*320のカラーディスプレイ、LED、スピーカー、MicroSDスロット、リチウムイオンバッテリーなどを搭載しています。
 プログラミングはCのSDKやCircuitPython、MicroPythonを利用できます。
 基板を流用したフロントパネルも遊び心満載で魅力的です。</description>
-    </item>
-    
-    <item>
-      <title>対戦型Pong専用機</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%AF%BE%E6%88%A6%E5%9E%8Bpong%E5%B0%82%E7%94%A8%E6%A9%9F/</link>
-      <pubDate>Mon, 25 Mar 2024 23:15:53 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%AF%BE%E6%88%A6%E5%9E%8Bpong%E5%B0%82%E7%94%A8%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/対戦型Pong専用機.jpg"&gt;DIY Pocket PONG Breaks The Mobile Spellから発見。画像もここから転載。
-対戦型Pong専用機の作例です。 操作はボリュームが2つのみ、画面は128x64のOLEDです。
-マイコンモジュールはSeeed Studio XIAO ESP32C3を利用しています。 パワフルなマイコンモジュールなので、PONG以外にもいろいろなゲームを動作させることができそうです。</description>
     </item>
     
   </channel>
