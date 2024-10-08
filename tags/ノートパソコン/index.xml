@@ -5,9 +5,20 @@
     <description>Recent content in ノートパソコン on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 21 Mar 2021 23:33:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 00:08:43 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ゲーミングノートパソコンを自作する</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%99%E3%82%8B/</link>
+      <pubDate>Tue, 08 Oct 2024 00:08:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ゲーミングノートパソコンを自作する.jpg"&gt;DIY Gaming Laptop Built Entirely With Desktop Partsから発見。画像もここから転載。
+ゲーミングノートパソコン自作の作例です。 AMD Ryzen 5 5600X と XFX Radeon RX6600をITXマザーボードに取り付けたものを、ノートパソコン風の筐体に納めています。 筐体は3Dプリントした複数のパーツを組み合わせて作成されています。
+ </description>
+    </item>
     
     <item>
       <title>オープンソースのノートパソコン「Reform」</title>
