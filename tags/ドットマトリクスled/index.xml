@@ -5,9 +5,21 @@
     <description>Recent content in ドットマトリクスLED on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 09 Aug 2024 00:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 23:45:58 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>磁石で連結して動的に表示が変化する8×8表示機</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%A3%81%E7%9F%B3%E3%81%A7%E9%80%A3%E7%B5%90%E3%81%97%E3%81%A6%E5%8B%95%E7%9A%84%E3%81%AB%E8%A1%A8%E7%A4%BA%E3%81%8C%E5%A4%89%E5%8C%96%E3%81%99%E3%82%8B88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
+      <pubDate>Mon, 14 Oct 2024 23:45:58 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%A3%81%E7%9F%B3%E3%81%A7%E9%80%A3%E7%B5%90%E3%81%97%E3%81%A6%E5%8B%95%E7%9A%84%E3%81%AB%E8%A1%A8%E7%A4%BA%E3%81%8C%E5%A4%89%E5%8C%96%E3%81%99%E3%82%8B88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/磁石で連結して動的に表示が変化する8×8表示機.jpg"&gt;Is That A Coaster? No, It’s An LED Matrix!から発見。画像もここから転載。
+磁石で連結して動的に表示が変化する8×8表示機の作例です。 中身はCH32V208で、連結部分は磁石とポゴピンで実現しています。
+間違って鏡面になった部品をひっくり返して実装するテクニックも紹介されています
+ </description>
+    </item>
     
     <item>
       <title>マトリクスLED表示機をセンサーとしても利用する</title>

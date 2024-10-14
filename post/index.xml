@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 10 Oct 2024 23:22:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 23:45:58 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>磁石で連結して動的に表示が変化する8×8表示機</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%A3%81%E7%9F%B3%E3%81%A7%E9%80%A3%E7%B5%90%E3%81%97%E3%81%A6%E5%8B%95%E7%9A%84%E3%81%AB%E8%A1%A8%E7%A4%BA%E3%81%8C%E5%A4%89%E5%8C%96%E3%81%99%E3%82%8B88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
+      <pubDate>Mon, 14 Oct 2024 23:45:58 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%A3%81%E7%9F%B3%E3%81%A7%E9%80%A3%E7%B5%90%E3%81%97%E3%81%A6%E5%8B%95%E7%9A%84%E3%81%AB%E8%A1%A8%E7%A4%BA%E3%81%8C%E5%A4%89%E5%8C%96%E3%81%99%E3%82%8B88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/磁石で連結して動的に表示が変化する8×8表示機.jpg"&gt;Is That A Coaster? No, It’s An LED Matrix!から発見。画像もここから転載。
+磁石で連結して動的に表示が変化する8×8表示機の作例です。 中身はCH32V208で、連結部分は磁石とポゴピンで実現しています。
+間違って鏡面になった部品をひっくり返して実装するテクニックも紹介されています
+ </description>
+    </item>
     
     <item>
       <title>印刷後にベッドを自動交換することで次々と印刷できる3Dプリンタ</title>
@@ -114,18 +126,6 @@
 5つのボタンのついたリズムゲーム専用機の作例です。 丸形ディスプレイを搭載しており、中心に向かってやってくるオブジェクトに合わせてタイミングよくタップするゲームに特化したゲーム機です。
 ESP32-S3で制御しているようです。
  </description>
-    </item>
-    
-    <item>
-      <title>マウスに内蔵されたPongゲーム</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%AB%E5%86%85%E8%94%B5%E3%81%95%E3%82%8C%E3%81%9Fpong%E3%82%B2%E3%83%BC%E3%83%A0/</link>
-      <pubDate>Sun, 29 Sep 2024 23:17:52 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%AB%E5%86%85%E8%94%B5%E3%81%95%E3%82%8C%E3%81%9Fpong%E3%82%B2%E3%83%BC%E3%83%A0/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/マウスに内蔵されたPongゲーム.jpg"&gt;Mouse Doesn’t Play Pong… It IS Pong!から発見。画像もここから転載。
-マウスに内蔵されたPongゲームです。 PCなどに接続するとゲームを遊ぶことができるのですが、画面の表示方法が一工夫されています。 マウスの座標を超高速に動かすことで、3つのカーソルがあるように見せ、このカーソルを使ってPongゲームを表現しています。
-この方法であれば、マウスを接続できる多くの機器で、Pongをプレイできます。
-説明が難しいのですが、紹介元のページで動画を見ると動作がわかりやすいと思います。</description>
     </item>
     
   </channel>
