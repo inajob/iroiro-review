@@ -5,9 +5,23 @@
     <description>Recent content in 自作キーボード on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 03 Sep 2024 23:37:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 22:21:21 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>グリップ型キーボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%E5%9E%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Wed, 16 Oct 2024 22:21:21 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%E5%9E%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/グリップ型キーボード.jpg"&gt;がらくたでぶさんのPostから発見。画像もここから転載。
+両手で握るタイプの変わったキーボードの作例です。 動画では日本語入力をかなりスムーズに実現できており、可能性を感じます。
+作者自身が活用しているというのが信頼できます。
+私のグリップ型キーボード。使用してる様子を実際に見た人からは、結構驚かれたり呆れられたりしています。
+輪ゴム()によるサポートで、腕をぶらぶら浮遊させた状態でも使えるギミックがあるのですが、その実演動画を簡単に撮ってみました。撮影の都合上、見下ろし視点です。#創作キーボード pic.twitter.com/tRBFj2JZTk
+&amp;mdash; がらくたでぶ (@garakuta_dev) October 9, 2024  </description>
+    </item>
     
     <item>
       <title>修飾キーなしで利用できる片手キーボード</title>
@@ -122,18 +136,6 @@ RP2040をコアとした可愛いサイズの静音キーボードの作例で�
 非常にコンパクトな自作キーボードの作例です。
 小型の自作キーボードではよく採用されるQAZ配列を採用しているのも印象的です。 写真をよく見ればわかるのですがキーボード左側のA、Zキーが存在せず、これはAlt、Shift、と共用になっています。これらのキーはなにかのキーと組み合わせてのみ利用されるので、単純に押して離されたときのみ、AやZとして認識することで使い分けることが出来るのです。
 コントローラはXIAO RP2040を使っています。</description>
-    </item>
-    
-    <item>
-      <title>1行目を入力すると続きはChatGPTが入力してくれるキーボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/1%E8%A1%8C%E7%9B%AE%E3%82%92%E5%85%A5%E5%8A%9B%E3%81%99%E3%82%8B%E3%81%A8%E7%B6%9A%E3%81%8D%E3%81%AFchatgpt%E3%81%8C%E5%85%A5%E5%8A%9B%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Thu, 26 Oct 2023 23:47:48 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/1%E8%A1%8C%E7%9B%AE%E3%82%92%E5%85%A5%E5%8A%9B%E3%81%99%E3%82%8B%E3%81%A8%E7%B6%9A%E3%81%8D%E3%81%AFchatgpt%E3%81%8C%E5%85%A5%E5%8A%9B%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/1行目を入力すると続きはChatGPTが入力してくれるキーボード.jpg"&gt;2023 Halloween Hackfest: Haunted Keyboard Is Free From Ghostingから発見。画像もここから転載。
-1行目を入力すると続きはChatGPTが入力してくれるキーボード 中身はRaspberry Pi Pico Wで、入力された文字を受け取りWiFi経由でChatGPTを呼び出すことで、この動作を実現しています。
-キーボードの層でChatGPTを呼び出すという構成が面白いです。
- </description>
     </item>
     
   </channel>
