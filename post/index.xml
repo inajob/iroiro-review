@@ -5,9 +5,19 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 18 Oct 2024 00:02:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 09:52:33 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>可愛いサイズのデジタルEtch A Sketch</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%8F%AF%E6%84%9B%E3%81%84%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%ABetch-a-sketch/</link>
+      <pubDate>Tue, 22 Oct 2024 09:52:33 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%8F%AF%E6%84%9B%E3%81%84%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%ABetch-a-sketch/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/可愛いサイズのデジタルEtch A Sketch.jpg"&gt;Etch sAo Sketchから発見。画像もここから転載。
+可愛いサイズのデジタルEtch A Sketchの作例です。 特にデジタルにして意味のあるものではないですが、コンパクトでかわいらしい見た目が印象的です。</description>
+    </item>
     
     <item>
       <title>5wayスイッチをたくさん使ったキーボード</title>
@@ -111,19 +121,6 @@
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9F%E3%83%8B%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%8C%E9%81%8A%E3%81%B9%E3%82%8B%E5%90%8D%E5%88%BA%E5%9F%BA%E6%9D%BF/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ミニゲームが遊べる名刺基板.jpg"&gt;2024 Business Card Challenge: Integrated Game Cardから発見。画像もここから転載。
 ミニゲームが遊べる名刺基板です。ATTiny85を使ったtinyjoypad互換となっており、既存のゲームも動作しそうです。 OLEDが基板付きのモジュールではなく、直接メイン基板にはんだ付けするスタイルにより薄型を実現しているのも面白いです。</description>
-    </item>
-    
-    <item>
-      <title>外部キーボードによる文字入力に特化した端末</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%A4%96%E9%83%A8%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AB%E3%82%88%E3%82%8B%E6%96%87%E5%AD%97%E5%85%A5%E5%8A%9B%E3%81%AB%E7%89%B9%E5%8C%96%E3%81%97%E3%81%9F%E7%AB%AF%E6%9C%AB/</link>
-      <pubDate>Thu, 03 Oct 2024 23:42:33 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%A4%96%E9%83%A8%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AB%E3%82%88%E3%82%8B%E6%96%87%E5%AD%97%E5%85%A5%E5%8A%9B%E3%81%AB%E7%89%B9%E5%8C%96%E3%81%97%E3%81%9F%E7%AB%AF%E6%9C%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/外部キーボードによる文字入力に特化した端末.jpg"&gt;BYOK: The Ultimate Distraction-Free Writing Toolから発見。画像もここから転載。
-外部キーボードによる文字入力に特化した端末です。 Bluetoothや有線USB接続で、キーボードを取り付けることで、メモを記録することができます。
-中身はESP32-S3で、画面はちょっと懐かしい感じのモノクロ液晶です。デモを見る限り英語のみ対応で、6行程度の内容が表示できるようです。 ESP32-S3のWiFiの機能があるので、これを使いGoogle Driveと同期する機能もあるようです。
-必要十分の機能は、デジタル機器というよりは「文房具」という雰囲気で、味のあるデバイスです。
- </description>
     </item>
     
   </channel>
