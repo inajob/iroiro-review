@@ -5,9 +5,19 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 23 Oct 2024 23:21:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 22:55:45 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>コイン電池ホルダーを電源用スライドスイッチとして活用する技</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%82%A4%E3%83%B3%E9%9B%BB%E6%B1%A0%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%82%92%E9%9B%BB%E6%BA%90%E7%94%A8%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%81%A8%E3%81%97%E3%81%A6%E6%B4%BB%E7%94%A8%E3%81%99%E3%82%8B%E6%8A%80/</link>
+      <pubDate>Thu, 24 Oct 2024 22:55:45 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%82%A4%E3%83%B3%E9%9B%BB%E6%B1%A0%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%82%92%E9%9B%BB%E6%BA%90%E7%94%A8%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%81%A8%E3%81%97%E3%81%A6%E6%B4%BB%E7%94%A8%E3%81%99%E3%82%8B%E6%8A%80/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/コイン電池ホルダーを電源用スライドスイッチとして活用する技.jpg"&gt;Your Battery Holder Is Also Your Power Switch With ToggleSlotから発見。画像もここから転載。
+一般的なコイン電池ホルダーをそのまま使って作ることができるスライドスイッチの作例を紹介です。 フットプリントを少し工夫するだけで、この仕組みを実現できるというのが面白いです。</description>
+    </item>
     
     <item>
       <title>TinyGo向けのゲームエンジン「koebiten」</title>
@@ -114,17 +124,6 @@ tinygo + koebitenを自作したGopherくん基板で動かしてみる とい�
       <guid>https://inajob.github.io/iroiro-review/post/109%E3%81%AE%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%81%AE%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/10×9のマトリクスLEDの携帯ゲーム機.jpg"&gt;2024 Tiny Games Contest: Neat PCB Business Card Was Inspired By The Arduboyから発見。画像もここから転載。
 10×9のマトリクスLEDの携帯ゲーム機の作例です。 STMG030F6で制御しており、Charlieplexingでピン数を節約して制御しています。</description>
-    </item>
-    
-    <item>
-      <title>ゲーミングノートパソコンを自作する</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%99%E3%82%8B/</link>
-      <pubDate>Tue, 08 Oct 2024 00:08:43 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ゲーミングノートパソコンを自作する.jpg"&gt;DIY Gaming Laptop Built Entirely With Desktop Partsから発見。画像もここから転載。
-ゲーミングノートパソコン自作の作例です。 AMD Ryzen 5 5600X と XFX Radeon RX6600をITXマザーボードに取り付けたものを、ノートパソコン風の筐体に納めています。 筐体は3Dプリントした複数のパーツを組み合わせて作成されています。
- </description>
     </item>
     
   </channel>
