@@ -5,9 +5,19 @@
     <description>Recent content in ドットマトリクスLED on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 14 Oct 2024 23:45:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 23:25:18 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>HDSP-2000を使った雰囲気の良い腕時計</title>
+      <link>https://inajob.github.io/iroiro-review/post/hdsp-2000%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E9%9B%B0%E5%9B%B2%E6%B0%97%E3%81%AE%E8%89%AF%E3%81%84%E8%85%95%E6%99%82%E8%A8%88/</link>
+      <pubDate>Wed, 30 Oct 2024 23:25:18 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/hdsp-2000%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E9%9B%B0%E5%9B%B2%E6%B0%97%E3%81%AE%E8%89%AF%E3%81%84%E8%85%95%E6%99%82%E8%A8%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/HDSP-2000を使った雰囲気の良い腕時計.jpg"&gt;HDSP-2000 Wrist Watchから発見。画像もここから転載。
+HDSP-2000を使った雰囲気の良い腕時計の作例です。 ビンテージパーツであるHDSP-2000というドットマトリクス表示器を利用することで、味のある表現を実現しています。 制御のコアはATTiny85となっていますが、GPIOが足りないため、アナログマルチプレクサ(CD4053)を使っています。</description>
+    </item>
     
     <item>
       <title>磁石で連結して動的に表示が変化する8×8表示機</title>
