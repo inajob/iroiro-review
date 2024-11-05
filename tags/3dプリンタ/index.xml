@@ -5,9 +5,20 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 04 Nov 2024 23:48:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 23:02:56 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>25グラムの軽量ゲーミングマウス</title>
+      <link>https://inajob.github.io/iroiro-review/post/25%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%AE%E8%BB%BD%E9%87%8F%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%A6%E3%82%B9/</link>
+      <pubDate>Tue, 05 Nov 2024 23:02:56 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/25%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%AE%E8%BB%BD%E9%87%8F%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%A6%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/25グラムの軽量ゲーミングマウス.jpg"&gt;Mouse 0 - Lightweight 25grams custom gaming mouse by OlleStore on Tindieから発見。画像もここから転載。
+ゲーミングマウスの中には軽さを謳った製品もありますが、この記事では、軽量ゲーミングマウスの自作について述べられています。
+3Dプリンタを用いて、必要最低限のフレームを構成し、25gのマウスを実現しています。</description>
+    </item>
     
     <item>
       <title>グルーガンを応用した3Dプリンタ</title>
@@ -133,16 +144,6 @@ ESP32搭載の自作汎用リモコンで操作します。
 身近な仕組みですが、どうなっているか考えたことがなかったので、こういうものを見ると面白いです。
 どうやらシートベルトの機構の再発明だったらしい。 https://t.co/fZHehBxJHQ
 &amp;mdash; 宇生(たかお) (@YBB_824) January 26, 2024   </description>
-    </item>
-    
-    <item>
-      <title>見なくても遊べるジグソーパズル</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E8%A6%8B%E3%81%AA%E3%81%8F%E3%81%A6%E3%82%82%E9%81%8A%E3%81%B9%E3%82%8B%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB/</link>
-      <pubDate>Mon, 19 Aug 2024 23:42:30 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E8%A6%8B%E3%81%AA%E3%81%8F%E3%81%A6%E3%82%82%E9%81%8A%E3%81%B9%E3%82%8B%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/見なくても遊べるジグソーパズル.jpg"&gt;A Puzzle For The Visually Impaired, Or Blindfoldedから発見。画像もここから転載。
-見なくても遊べるジグソーパズルの作例です。 表面のストライプ状のエンボスが手掛かりとなっており、手触りで接続部分がわかるようになっているようです。</description>
     </item>
     
   </channel>
