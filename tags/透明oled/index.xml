@@ -5,9 +5,26 @@
     <description>Recent content in 透明OLED on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 24 Apr 2024 23:49:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 23:28:20 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%80%8F%E6%98%8Eoled/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>透明液晶搭載ののArduboyクローン</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%80%8F%E6%98%8E%E6%B6%B2%E6%99%B6%E6%90%AD%E8%BC%89%E3%81%AE%E3%81%AEarduboy%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3/</link>
+      <pubDate>Wed, 06 Nov 2024 23:28:20 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%80%8F%E6%98%8E%E6%B6%B2%E6%99%B6%E6%90%AD%E8%BC%89%E3%81%AE%E3%81%AEarduboy%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/透明液晶搭載ののArduboyクローン.jpg"&gt;K.YamaさんのPostから発見。画像もここから転載。
+100均で販売されている携帯ゲーム機の筐体を流用し、M5Stackの透明OLEDユニットを搭載したかっこいい見た目のArduboy互換機です。
+OLEDの仕様が違うので、Arduboy用のバイナリをそのまま動かすことは出来なそうですが、少し設定を変えて再コンパイルすれば動かすことができそうです。
+#Arduboy 改めGLASSboy　一応完成～
+スピーカーのみ流用出来ず手持ちも無かったので再度注文しました。
+透過液晶の画面は幻想的な世界観やSFのゲームにぴったりな感じ。とくにSIRENEは水槽の中を観てるみたいでキレイ！
+動画はそのSIRENEとイージスアショアとかNORADっぽいSFゲーム
+作ってよかった！ pic.twitter.com/JEWUGQNOhy
+&amp;mdash; K.Yama (@USDJPY2010) October 23, 2024  </description>
+    </item>
     
     <item>
       <title>透明OLEDを利用して作られたかっこいい時計</title>

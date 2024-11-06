@@ -5,9 +5,26 @@
     <description>Recent content in ゲーム機 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 09 Oct 2024 00:08:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 23:28:20 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>透明液晶搭載ののArduboyクローン</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%80%8F%E6%98%8E%E6%B6%B2%E6%99%B6%E6%90%AD%E8%BC%89%E3%81%AE%E3%81%AEarduboy%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3/</link>
+      <pubDate>Wed, 06 Nov 2024 23:28:20 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%80%8F%E6%98%8E%E6%B6%B2%E6%99%B6%E6%90%AD%E8%BC%89%E3%81%AE%E3%81%AEarduboy%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/透明液晶搭載ののArduboyクローン.jpg"&gt;K.YamaさんのPostから発見。画像もここから転載。
+100均で販売されている携帯ゲーム機の筐体を流用し、M5Stackの透明OLEDユニットを搭載したかっこいい見た目のArduboy互換機です。
+OLEDの仕様が違うので、Arduboy用のバイナリをそのまま動かすことは出来なそうですが、少し設定を変えて再コンパイルすれば動かすことができそうです。
+#Arduboy 改めGLASSboy　一応完成～
+スピーカーのみ流用出来ず手持ちも無かったので再度注文しました。
+透過液晶の画面は幻想的な世界観やSFのゲームにぴったりな感じ。とくにSIRENEは水槽の中を観てるみたいでキレイ！
+動画はそのSIRENEとイージスアショアとかNORADっぽいSFゲーム
+作ってよかった！ pic.twitter.com/JEWUGQNOhy
+&amp;mdash; K.Yama (@USDJPY2010) October 23, 2024  </description>
+    </item>
     
     <item>
       <title>10×9のマトリクスLEDの携帯ゲーム機</title>
@@ -110,17 +127,6 @@ ATtiny10の4つしかないGPIOを活用して、4ボタンとディプレイの
 4つのボタンを早押しするゲーム機の作例です。 単純なゲームですが専用のゲーム端末というのが印象的です。
 完成度の高い見た目の筐体ですが、PCBは使わず3Dプリンタ製の部品をうまく組み合わせて実現されており、興味深いです。
 Hackadayではこのような小粒ゲームハードウェアのコンテストを開催中のようです。</description>
-    </item>
-    
-    <item>
-      <title>Raspberry Pi Picoをコアとする携帯ゲーム機</title>
-      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%99%E3%82%8B%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
-      <pubDate>Mon, 08 Jul 2024 23:33:12 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%99%E3%82%8B%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi Picoをコアとする携帯ゲーム機.jpg"&gt;PicoBoy V2: The Ultimate DIY Console by HalloSpaceBoy on Tindieから発見。画像もここから転載。
-Raspberry Pi Picoをコアとする携帯ゲーム機です。 キット、組み立て済み、ケースの有り無しなどを選んで注文することが出来、自分に合った形で購入できるのも面白いです。
-Raspberry Pi Picoをそのまま利用することで非常にシンプルな部品でゲーム機を実現しています。</description>
     </item>
     
   </channel>
