@@ -5,9 +5,21 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 05 Nov 2024 23:02:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 22:41:58 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタでブレッドボードを自作する</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%99%E3%82%8B/</link>
+      <pubDate>Thu, 07 Nov 2024 22:41:58 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタでブレッドボードを自作する.jpg"&gt;3D Printed Electronics Breadboardから発見。画像もここから転載。
+ブレッドボードといえば、電子工作のプロトタイピングに便利ですが、細かい部分が気に入らず、自分のオリジナルのものを作りたくなることがあります。
+この記事では、3Dプリンタでケースを作る方式でオリジナルのブレッドボードを作成しています。 肝心の金具の部分は、Tindieで販売している のでこれを利用しています。
+ </description>
+    </item>
     
     <item>
       <title>25グラムの軽量ゲーミングマウス</title>
@@ -131,19 +143,6 @@ ESP32搭載の自作汎用リモコンで操作します。
 構造はシンプルなH型。
 弾性変形でピッタリフィットするようにしてみた。 pic.twitter.com/rlScK72E2l
 &amp;mdash; まさと研究所⚡️ (@rsna6ce1) January 16, 2024  </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタで作るシートベルトの機構</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%82%B7%E3%83%BC%E3%83%88%E3%83%99%E3%83%AB%E3%83%88%E3%81%AE%E6%A9%9F%E6%A7%8B/</link>
-      <pubDate>Wed, 04 Sep 2024 23:57:22 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%82%B7%E3%83%BC%E3%83%88%E3%83%99%E3%83%AB%E3%83%88%E3%81%AE%E6%A9%9F%E6%A7%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作るシートベルトの機構.jpg"&gt;宇生(たかお)さんのPostから発見。画像もここから転載。
-シートベルトは、勢いよく引っ張るとロックがかかり引き出すことができなくなりますが、このPostではこの仕組みを3Dプリンタで再現しています。
-身近な仕組みですが、どうなっているか考えたことがなかったので、こういうものを見ると面白いです。
-どうやらシートベルトの機構の再発明だったらしい。 https://t.co/fZHehBxJHQ
-&amp;mdash; 宇生(たかお) (@YBB_824) January 26, 2024   </description>
     </item>
     
   </channel>

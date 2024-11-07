@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 06 Nov 2024 23:28:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 22:41:58 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタでブレッドボードを自作する</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%99%E3%82%8B/</link>
+      <pubDate>Thu, 07 Nov 2024 22:41:58 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタでブレッドボードを自作する.jpg"&gt;3D Printed Electronics Breadboardから発見。画像もここから転載。
+ブレッドボードといえば、電子工作のプロトタイピングに便利ですが、細かい部分が気に入らず、自分のオリジナルのものを作りたくなることがあります。
+この記事では、3Dプリンタでケースを作る方式でオリジナルのブレッドボードを作成しています。 肝心の金具の部分は、Tindieで販売している のでこれを利用しています。
+ </description>
+    </item>
     
     <item>
       <title>透明液晶搭載ののArduboyクローン</title>
@@ -118,16 +130,6 @@ TinyGoという組み込み開発にも利用できるGo言語ベースのコン
 tinygo + koebitenを自作したGopherくん基板で動かしてみる というような記事もあるので、参考にできそうです。
 どうだろうか。テトリス的なアレを作ってみた。回転方向が記憶と異なるので調べないと、だけど。#koebiten #tinygo #tinygo_keebhttps://t.co/JPMEVaop7n pic.twitter.com/gOzYGbet9H
 &amp;mdash; takasago (@sago35tk) September 24, 2024  </description>
-    </item>
-    
-    <item>
-      <title>可愛いサイズのデジタルEtch A Sketch</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%8F%AF%E6%84%9B%E3%81%84%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%ABetch-a-sketch/</link>
-      <pubDate>Tue, 22 Oct 2024 09:52:33 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%8F%AF%E6%84%9B%E3%81%84%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%ABetch-a-sketch/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/可愛いサイズのデジタルEtch A Sketch.jpg"&gt;Etch sAo Sketchから発見。画像もここから転載。
-可愛いサイズのデジタルEtch A Sketchの作例です。 特にデジタルにして意味のあるものではないですが、コンパクトでかわいらしい見た目が印象的です。</description>
     </item>
     
   </channel>
