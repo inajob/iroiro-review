@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 10 Nov 2024 23:15:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 22:51:54 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>キーボード配列を変更するためのRP2040を用いたドングル</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E9%85%8D%E5%88%97%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AErp2040%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E3%83%89%E3%83%B3%E3%82%B0%E3%83%AB/</link>
+      <pubDate>Mon, 11 Nov 2024 22:51:54 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E9%85%8D%E5%88%97%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AErp2040%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E3%83%89%E3%83%B3%E3%82%B0%E3%83%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/キーボード配列を変更するためのRP2040を用いたドングル.jpg"&gt;Remapping HID For Fun And… Well Funから発見。画像もここから転載。
+お気に入りのキーボードの配列を、ちょっと変更したいことはありませんか？ 自作キーボードであれば、ファームウェアを書き換えることで、キーマップを好きに定義できますが、既製品のキーボードとなると変更できないこともあります。
+この記事で紹介しているのは、RP2040を使ったキーボードの配列変換装置です。 RP2040のUSB Hostの機能で、一旦キーボードの入力を受け取って、それをパソコンに送信するというもので、送信する前に送信する内容に手を加えるという方式で、配列変換を実現しています。</description>
+    </item>
     
     <item>
       <title>マトリクスLEDを回転させる方式のボリュームディスプレイ</title>
@@ -118,16 +129,6 @@ HDSP-2000を使った雰囲気の良い腕時計の作例です。 ビンテー�
 有線ヘッドフォンのケーブルは長ければよいというものではありません。長いと様々な姿勢に対応できますが、長すぎるケーブルの取り回しが難しく、垂れ下がるケーブルは周りのものをひっかけたりして邪魔です。
 この記事では、滑車とおもりを使い、長すぎるケーブルを必要に応じて引き戻す仕組みを自作しています。 家に余っている部品で実現できそうな素朴な仕組みですが、便利そうです。
  </description>
-    </item>
-    
-    <item>
-      <title>コイン電池ホルダーを電源用スライドスイッチとして活用する技</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%82%A4%E3%83%B3%E9%9B%BB%E6%B1%A0%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%82%92%E9%9B%BB%E6%BA%90%E7%94%A8%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%81%A8%E3%81%97%E3%81%A6%E6%B4%BB%E7%94%A8%E3%81%99%E3%82%8B%E6%8A%80/</link>
-      <pubDate>Thu, 24 Oct 2024 22:55:45 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%82%A4%E3%83%B3%E9%9B%BB%E6%B1%A0%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%82%92%E9%9B%BB%E6%BA%90%E7%94%A8%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%81%A8%E3%81%97%E3%81%A6%E6%B4%BB%E7%94%A8%E3%81%99%E3%82%8B%E6%8A%80/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/コイン電池ホルダーを電源用スライドスイッチとして活用する技.jpg"&gt;Your Battery Holder Is Also Your Power Switch With ToggleSlotから発見。画像もここから転載。
-一般的なコイン電池ホルダーをそのまま使って作ることができるスライドスイッチの作例を紹介です。 フットプリントを少し工夫するだけで、この仕組みを実現できるというのが面白いです。</description>
     </item>
     
   </channel>
