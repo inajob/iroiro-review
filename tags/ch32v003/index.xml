@@ -5,9 +5,21 @@
     <description>Recent content in CH32V003 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 18 Jun 2024 23:56:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 23:30:29 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/ch32v003/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CH32V003搭載の小型キーボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/ch32v003%E6%90%AD%E8%BC%89%E3%81%AE%E5%B0%8F%E5%9E%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Tue, 12 Nov 2024 23:30:29 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/ch32v003%E6%90%AD%E8%BC%89%E3%81%AE%E5%B0%8F%E5%9E%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32V003搭載の小型キーボード.jpg"&gt;PikoKey - Mini HID USB Mechanical Keyboard by Prokyber on Tindieから発見。画像もここから転載。
+CH32V003搭載の小型キーボードの作例です。 このマイコンはハードウェアとしてはUSBの機能を持たないので、USB-HIDの機能はソフトウェアで実装されているようです。
+CH32V003は非常に安価なICなので、安くでキーボードを作りたい人にはお勧めのICです。（まぁ普通に自作キーボードを作る場合は、キーボードスイッチなどの単価が高いので、マイコンの値段は誤差ですが・・）
+ </description>
+    </item>
     
     <item>
       <title>ロースペックなCH32V003で手書きの数字の認識を行う</title>
@@ -112,18 +124,6 @@ CH32V003といえば、言わずとしれた安価なRISC-Vマイコンです。
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32V003搭載の開発ボード.jpg"&gt;CH32V003 Dev Kitから発見。画像もここから転載。
 CH32V003搭載の開発ボードの作例です。
 USB Type-Cコネクタ、3.3Vレギュレータ、USBシリアル変換、I2C温度気温センサー、I2C接続OLED、I2C汎用コネクタ、SPI NOR FLash、RGB LED、スイッチ、LED、ブザー、GPIOの引き出し線、と開発ボードに必要そうな機能がてんこ盛りです。</description>
-    </item>
-    
-    <item>
-      <title>CH32V003をコアとした携帯ゲーム機</title>
-      <link>https://inajob.github.io/iroiro-review/post/ch32v003%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
-      <pubDate>Thu, 15 Jun 2023 23:59:57 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/ch32v003%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32V003をコアとした携帯ゲーム機.jpg"&gt;CH32V003 RISC-V Mini Game Consoleから発見。画像もここから転載。
-CH32V003をコアとした携帯ゲーム機の作例です。 最近はArduino UNOのメインチップであるATmega328の価格も高騰しており、ちょっと手が出しづらくなってきています。
-そんなときに出てきたのがRISC-VコアのCH32V003です。Flashは16KでRAMは2Kと、少しメモリに不安がありますが、ミニゲームを作る程度ならこれで十分そうです。
- </description>
     </item>
     
   </channel>

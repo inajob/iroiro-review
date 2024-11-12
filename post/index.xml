@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 11 Nov 2024 22:51:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 23:30:29 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CH32V003搭載の小型キーボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/ch32v003%E6%90%AD%E8%BC%89%E3%81%AE%E5%B0%8F%E5%9E%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Tue, 12 Nov 2024 23:30:29 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/ch32v003%E6%90%AD%E8%BC%89%E3%81%AE%E5%B0%8F%E5%9E%8B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32V003搭載の小型キーボード.jpg"&gt;PikoKey - Mini HID USB Mechanical Keyboard by Prokyber on Tindieから発見。画像もここから転載。
+CH32V003搭載の小型キーボードの作例です。 このマイコンはハードウェアとしてはUSBの機能を持たないので、USB-HIDの機能はソフトウェアで実装されているようです。
+CH32V003は非常に安価なICなので、安くでキーボードを作りたい人にはお勧めのICです。（まぁ普通に自作キーボードを作る場合は、キーボードスイッチなどの単価が高いので、マイコンの値段は誤差ですが・・）
+ </description>
+    </item>
     
     <item>
       <title>キーボード配列を変更するためのRP2040を用いたドングル</title>
@@ -116,18 +128,6 @@ HDSP-2000を使った雰囲気の良い腕時計の作例です。 ビンテー�
 プリント基板を実装するためには、基板にはんだペーストを乗せて、部品を乗せて、加熱してはんだを溶かす必要があります。
 しかし、ちょっとした試作の場合はもっと簡単に実装できると迅速に動作確認できて便利そうです。 この記事では基板上に部品を並べるPick and Placeマシンに導電インクを塗布する機能を追加し、加熱なしで動作確認できる仮止めの実装ができるようにしています。
 まぁ、あくまで仮止めなので、この状態で製品に組み込むことは難しく、使いどころが難しい感はありますが、このアイデアは何かに活用できそうです。
- </description>
-    </item>
-    
-    <item>
-      <title>長いヘッドフォンケーブルをおもり付きの滑車でいい感じにする</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E9%95%B7%E3%81%84%E3%83%98%E3%83%83%E3%83%89%E3%83%95%E3%82%A9%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E3%82%92%E3%81%8A%E3%82%82%E3%82%8A%E4%BB%98%E3%81%8D%E3%81%AE%E6%BB%91%E8%BB%8A%E3%81%A7%E3%81%84%E3%81%84%E6%84%9F%E3%81%98%E3%81%AB%E3%81%99%E3%82%8B/</link>
-      <pubDate>Sun, 27 Oct 2024 23:59:02 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E9%95%B7%E3%81%84%E3%83%98%E3%83%83%E3%83%89%E3%83%95%E3%82%A9%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E3%82%92%E3%81%8A%E3%82%82%E3%82%8A%E4%BB%98%E3%81%8D%E3%81%AE%E6%BB%91%E8%BB%8A%E3%81%A7%E3%81%84%E3%81%84%E6%84%9F%E3%81%98%E3%81%AB%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/長いヘッドフォンケーブルをおもり付きの滑車でいい感じにする.jpg"&gt;Pulley System Makes Headphone Cables More Managableから発見。画像もここから転載。
-有線ヘッドフォンのケーブルは長ければよいというものではありません。長いと様々な姿勢に対応できますが、長すぎるケーブルの取り回しが難しく、垂れ下がるケーブルは周りのものをひっかけたりして邪魔です。
-この記事では、滑車とおもりを使い、長すぎるケーブルを必要に応じて引き戻す仕組みを自作しています。 家に余っている部品で実現できそうな素朴な仕組みですが、便利そうです。
  </description>
     </item>
     
