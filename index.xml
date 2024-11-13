@@ -5,9 +5,25 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 12 Nov 2024 23:30:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 23:32:27 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>コンパクトなポケコン風Raspberry Pi端末</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%83%9D%E3%82%B1%E3%82%B3%E3%83%B3%E9%A2%A8raspberry-pi%E7%AB%AF%E6%9C%AB/</link>
+      <pubDate>Wed, 13 Nov 2024 23:32:27 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%83%9D%E3%82%B1%E3%82%B3%E3%83%B3%E9%A2%A8raspberry-pi%E7%AB%AF%E6%9C%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/コンパクトなポケコン風Raspberry Pi端末.jpg"&gt;RNのまたん🍥さんのPostから発見。画像もここから転載。
+コンパクトなポケコン風Raspberry Pi端末の作例です。 中身は素朴にRaspberry Piとバッテリー、コンパクトなBluetoothキーボードで、これらを3Dプリンタ製の筐体に納めています。
+よくある作例ではありますが、作りやすさと、取り回しの良さの両方をうまく両立しているデザインのように見えます。
+両手ホールドで使える。
+1300mAのバッテリーで2時間は普通に動作してる。。
+重さはiPhone16Proより2g軽かった。 pic.twitter.com/szwby8RgFI
+&amp;mdash; RNのまたん🍥 (@nomatan373) October 10, 2024  ちなみに中を開けるとすごくシンプルかつスカスカです。 pic.twitter.com/98O3OS8uh3
+&amp;mdash; RNのまたん🍥 (@nomatan373) October 27, 2024  </description>
+    </item>
     
     <item>
       <title>CH32V003搭載の小型キーボード</title>
@@ -115,19 +131,6 @@ HDSP-2000を使った雰囲気の良い腕時計の作例です。 ビンテー�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ製の自作のiPhoneドック.jpg"&gt;Building A Stylish IPhone Standby Dockから発見。画像もここから転載。
 完成度の高い3Dプリンタ製の自作のiPhoneドックの作例です。
 もともとMagSafeで充電できるスタイリッシュなiPhoneスタンドがありましたが、さらに改良して上のボタンを押すことでiPhoneを取り外すことができるように改良しています。
- </description>
-    </item>
-    
-    <item>
-      <title>導電インクとPick and Placeマシンで作るはんだ付け不要のプロトタイプ手法</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%B0%8E%E9%9B%BB%E3%82%A4%E3%83%B3%E3%82%AF%E3%81%A8pick-and-place%E3%83%9E%E3%82%B7%E3%83%B3%E3%81%A7%E4%BD%9C%E3%82%8B%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E4%B8%8D%E8%A6%81%E3%81%AE%E3%83%97%E3%83%AD%E3%83%88%E3%82%BF%E3%82%A4%E3%83%97%E6%89%8B%E6%B3%95/</link>
-      <pubDate>Tue, 29 Oct 2024 00:42:03 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%B0%8E%E9%9B%BB%E3%82%A4%E3%83%B3%E3%82%AF%E3%81%A8pick-and-place%E3%83%9E%E3%82%B7%E3%83%B3%E3%81%A7%E4%BD%9C%E3%82%8B%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E4%B8%8D%E8%A6%81%E3%81%AE%E3%83%97%E3%83%AD%E3%83%88%E3%82%BF%E3%82%A4%E3%83%97%E6%89%8B%E6%B3%95/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/導電インクとPick and Placeマシンで作るはんだ付け不要のプロトタイプ手法.jpg"&gt;Towards Solderless PCB Prototypingから発見。画像もここから転載。
-プリント基板を実装するためには、基板にはんだペーストを乗せて、部品を乗せて、加熱してはんだを溶かす必要があります。
-しかし、ちょっとした試作の場合はもっと簡単に実装できると迅速に動作確認できて便利そうです。 この記事では基板上に部品を並べるPick and Placeマシンに導電インクを塗布する機能を追加し、加熱なしで動作確認できる仮止めの実装ができるようにしています。
-まぁ、あくまで仮止めなので、この状態で製品に組み込むことは難しく、使いどころが難しい感はありますが、このアイデアは何かに活用できそうです。
  </description>
     </item>
     

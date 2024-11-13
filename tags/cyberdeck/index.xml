@@ -5,9 +5,25 @@
     <description>Recent content in Cyberdeck on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 13 Sep 2024 00:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 23:32:27 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/cyberdeck/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>コンパクトなポケコン風Raspberry Pi端末</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%83%9D%E3%82%B1%E3%82%B3%E3%83%B3%E9%A2%A8raspberry-pi%E7%AB%AF%E6%9C%AB/</link>
+      <pubDate>Wed, 13 Nov 2024 23:32:27 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%83%9D%E3%82%B1%E3%82%B3%E3%83%B3%E9%A2%A8raspberry-pi%E7%AB%AF%E6%9C%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/コンパクトなポケコン風Raspberry Pi端末.jpg"&gt;RNのまたん🍥さんのPostから発見。画像もここから転載。
+コンパクトなポケコン風Raspberry Pi端末の作例です。 中身は素朴にRaspberry Piとバッテリー、コンパクトなBluetoothキーボードで、これらを3Dプリンタ製の筐体に納めています。
+よくある作例ではありますが、作りやすさと、取り回しの良さの両方をうまく両立しているデザインのように見えます。
+両手ホールドで使える。
+1300mAのバッテリーで2時間は普通に動作してる。。
+重さはiPhone16Proより2g軽かった。 pic.twitter.com/szwby8RgFI
+&amp;mdash; RNのまたん🍥 (@nomatan373) October 10, 2024  ちなみに中を開けるとすごくシンプルかつスカスカです。 pic.twitter.com/98O3OS8uh3
+&amp;mdash; RNのまたん🍥 (@nomatan373) October 27, 2024  </description>
+    </item>
     
     <item>
       <title>Raspberry Pi Picoで作られたシリアルターミナル＋NanoPiによるハンドヘルド端末</title>
@@ -118,19 +134,6 @@ ESP32-S3をコアとしたポケコン風端末の作例です。 Cyberdeckと�
 せっかくオリジナルのパソコンを設計するなら、普通のパソコンには搭載されないような機能をつけたいものです。
 この作例では、通常の液晶ディスプレイとは別に、電子ペーパーディスプレイを併設しています。
 液晶に比べるとキーボードの横幅が広いので幅が余ると思っていたが、これは良いアイデアかもしれません。</description>
-    </item>
-    
-    <item>
-      <title>良い雰囲気の6502を搭載したモバイルコンピュータ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E8%89%AF%E3%81%84%E9%9B%B0%E5%9B%B2%E6%B0%97%E3%81%AE6502%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF/</link>
-      <pubDate>Tue, 16 Aug 2022 23:20:07 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E8%89%AF%E3%81%84%E9%9B%B0%E5%9B%B2%E6%B0%97%E3%81%AE6502%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/良い雰囲気の6502を搭載したモバイルコンピュータ.jpg"&gt;PERSEUS-9 homemade mobile 6502 computerから発見。画像もここから転載。
-レトロコンピュータの復刻版のプロジェクトは数多くありますが、この記事で紹介する6502搭載のモバイルコンピュータは外観に非常にこだわりを感じるものです。
-金属製の筐体はタカチのアルミダイキャストケースHQ-26-18-6Nという既製品です。 コンソール表示には1文字ずつHCMS-2912というドットマトリクスLEDを利用しています。
-6502を搭載したモバイルコンピュータ。キースイッチ、表示用のドットマトリクスLED、金属筐体、どれをとっても素晴らしい。
- </description>
     </item>
     
   </channel>
