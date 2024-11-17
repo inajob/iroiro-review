@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 14 Nov 2024 23:03:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2024 23:45:36 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>カッティングプロッタのような仕組みで基板を切削する装置</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E4%BB%95%E7%B5%84%E3%81%BF%E3%81%A7%E5%9F%BA%E6%9D%BF%E3%82%92%E5%88%87%E5%89%8A%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Sun, 17 Nov 2024 23:45:36 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E4%BB%95%E7%B5%84%E3%81%BF%E3%81%A7%E5%9F%BA%E6%9D%BF%E3%82%92%E5%88%87%E5%89%8A%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/カッティングプロッタのような仕組みで基板を切削する装置.jpg"&gt;Rapid Prototyping PCBs With The Circuit Graverから発見。画像もここから転載。
+プリント基板のようなものを自作する手段の1つとして、CNCを使って生基板を削って、回路を構成する手法がありますが、この記事で紹介しているのはちょっと変わったCNCです。
+一般的なCNCは細いドリルを使い掘削を行いますが、この記事で紹介しているのはカッティングプロッタのようにカッターの刃のようなものを回転させて、生基板を削っています。
+ドリル式のCNCより騒音が少なく、電力消費も少ないのではなかと思います。
+ </description>
+    </item>
     
     <item>
       <title>薄いPLA層の上にABSを印刷することで反りを防ぐ</title>
@@ -125,16 +138,6 @@ OLEDの仕様が違うので、Arduboy用のバイナリをそのまま動かす
 グルーガンを応用した3Dプリンタの作例です。 Extruderの上部につけられた漏斗のような形の受け皿で、上からグルーガンのスティックを落とすことで材料を補給する面白い仕組みです。
 糸引きが多そうに見えますが、一応造形ができているようです。
  </description>
-    </item>
-    
-    <item>
-      <title>HDSP-2000を使った雰囲気の良い腕時計</title>
-      <link>https://inajob.github.io/iroiro-review/post/hdsp-2000%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E9%9B%B0%E5%9B%B2%E6%B0%97%E3%81%AE%E8%89%AF%E3%81%84%E8%85%95%E6%99%82%E8%A8%88/</link>
-      <pubDate>Wed, 30 Oct 2024 23:25:18 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/hdsp-2000%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E9%9B%B0%E5%9B%B2%E6%B0%97%E3%81%AE%E8%89%AF%E3%81%84%E8%85%95%E6%99%82%E8%A8%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/HDSP-2000を使った雰囲気の良い腕時計.jpg"&gt;HDSP-2000 Wrist Watchから発見。画像もここから転載。
-HDSP-2000を使った雰囲気の良い腕時計の作例です。 ビンテージパーツであるHDSP-2000というドットマトリクス表示器を利用することで、味のある表現を実現しています。 制御のコアはATTiny85となっていますが、GPIOが足りないため、アナログマルチプレクサ(CD4053)を使っています。</description>
     </item>
     
   </channel>
