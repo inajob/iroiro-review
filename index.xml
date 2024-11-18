@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 17 Nov 2024 23:45:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 23:33:20 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>電子タバコのバッテリーを連結して電動自転車を動かす</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E3%82%BF%E3%83%90%E3%82%B3%E3%81%AE%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%82%92%E9%80%A3%E7%B5%90%E3%81%97%E3%81%A6%E9%9B%BB%E5%8B%95%E8%87%AA%E8%BB%A2%E8%BB%8A%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</link>
+      <pubDate>Mon, 18 Nov 2024 23:33:20 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E3%82%BF%E3%83%90%E3%82%B3%E3%81%AE%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%82%92%E9%80%A3%E7%B5%90%E3%81%97%E3%81%A6%E9%9B%BB%E5%8B%95%E8%87%AA%E8%BB%A2%E8%BB%8A%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/電子タバコのバッテリーを連結して電動自転車を動かす.jpg"&gt;Disposable Vape Batteries Power EBikeから発見。画像もここから転載。
+使い捨て電子タバコのモジュールの中にはバッテリーが入っているものがあります。 この電子タバコはある程度利用されると捨てられてしまいますが、バッテリーはまだまだ利用できます。
+この記事では、この捨てられた電子タバコのバッテリーを集めてきて、電動自転車のバッテリーとして再利用する方法を紹介しています。
+といっても、バッテリーは扱いを間違えると発火したり爆発したりしてしまいます。 バッテリーセルの内部抵抗を測定し、なるべく値の近しいものをグループ化するなど、細かい工夫をしないと危険です。</description>
+    </item>
     
     <item>
       <title>カッティングプロッタのような仕組みで基板を切削する装置</title>
@@ -126,18 +138,6 @@ OLEDの仕様が違うので、Arduboy用のバイナリをそのまま動かす
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/25グラムの軽量ゲーミングマウス.jpg"&gt;Mouse 0 - Lightweight 25grams custom gaming mouse by OlleStore on Tindieから発見。画像もここから転載。
 ゲーミングマウスの中には軽さを謳った製品もありますが、この記事では、軽量ゲーミングマウスの自作について述べられています。
 3Dプリンタを用いて、必要最低限のフレームを構成し、25gのマウスを実現しています。</description>
-    </item>
-    
-    <item>
-      <title>グルーガンを応用した3Dプリンタ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%AC%E3%83%B3%E3%82%92%E5%BF%9C%E7%94%A8%E3%81%97%E3%81%9F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
-      <pubDate>Mon, 04 Nov 2024 23:48:42 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%AC%E3%83%B3%E3%82%92%E5%BF%9C%E7%94%A8%E3%81%97%E3%81%9F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/グルーガンを応用した3Dプリンタ.jpg"&gt;3D Printing With A Hot Glue Gunから発見。画像もここから転載。
-グルーガンを応用した3Dプリンタの作例です。 Extruderの上部につけられた漏斗のような形の受け皿で、上からグルーガンのスティックを落とすことで材料を補給する面白い仕組みです。
-糸引きが多そうに見えますが、一応造形ができているようです。
- </description>
     </item>
     
   </channel>
