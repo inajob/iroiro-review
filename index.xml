@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 20 Nov 2024 23:56:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 00:16:07 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>V-Cut入りの基板の動作チェックを一気に行う技</title>
+      <link>https://inajob.github.io/iroiro-review/post/v-cut%E5%85%A5%E3%82%8A%E3%81%AE%E5%9F%BA%E6%9D%BF%E3%81%AE%E5%8B%95%E4%BD%9C%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%82%92%E4%B8%80%E6%B0%97%E3%81%AB%E8%A1%8C%E3%81%86%E6%8A%80/</link>
+      <pubDate>Fri, 22 Nov 2024 00:16:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/v-cut%E5%85%A5%E3%82%8A%E3%81%AE%E5%9F%BA%E6%9D%BF%E3%81%AE%E5%8B%95%E4%BD%9C%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%82%92%E4%B8%80%E6%B0%97%E3%81%AB%E8%A1%8C%E3%81%86%E6%8A%80/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/V-Cut入りの基板の動作チェックを一気に行う技.jpg"&gt;V-Cut Vias Test Your Whole Panel At Onceから発見。画像もここから転載。
+小さな基板を設計し、プリント基板として発注する場合、面付けという方式が選択できます。 面付というのは小さな基板をいくつか並べて、切り取り線付きの1枚の大きな基板として製造する方式です。
+切り取り線部分はV-Cutという加工がされており、手で折り曲げることで簡単に分離することができます（キットカットのようなものです）
+この記事では、この面付された基板を一気にテストする方法を紹介しています。
+通常基板のテストは、1枚一枚動作確認する必要があります。 しかし、この記事ではV-Cutの部分にも配線することで、分離前の面付け基板の電源が、すべてつながっているような基板を実現し、この配線を使って、一気に動作テストをするという手法を試しています。</description>
+    </item>
     
     <item>
       <title>PCB基板と3Dプリンタ製のブラケットを組み合わせてうまく部品を固定できるようにした4足歩行ロボット</title>
@@ -119,18 +132,6 @@ CH32V003は非常に安価なICなので、安くでキーボードを作りた�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/マトリクスLEDを回転させる方式のボリュームディスプレイ.jpg"&gt;Small Volumetric Lamp Spins At 6000 RPMから発見。画像もここから転載。
 マトリクスLEDを回転させる方式のボリュームディスプレイの作例です。 モーターで基板を回転させるため、電源をどう供給するかという問題がありますが、この作例ではコイルによる無線給電となっています。
 ただマトリクスLEDが回転しているだけですが、非常にきれいな見た目で印象的です。
- </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタでブレッドボードを自作する</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%99%E3%82%8B/</link>
-      <pubDate>Thu, 07 Nov 2024 22:41:58 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタでブレッドボードを自作する.jpg"&gt;3D Printed Electronics Breadboardから発見。画像もここから転載。
-ブレッドボードといえば、電子工作のプロトタイピングに便利ですが、細かい部分が気に入らず、自分のオリジナルのものを作りたくなることがあります。
-この記事では、3Dプリンタでケースを作る方式でオリジナルのブレッドボードを作成しています。 肝心の金具の部分は、Tindieで販売している のでこれを利用しています。
  </description>
     </item>
     
