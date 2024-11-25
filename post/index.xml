@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 22 Nov 2024 00:16:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 00:05:27 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>蓄光テープに現在時刻を焼き付ける腕時計</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%93%84%E5%85%89%E3%83%86%E3%83%BC%E3%83%97%E3%81%AB%E7%8F%BE%E5%9C%A8%E6%99%82%E5%88%BB%E3%82%92%E7%84%BC%E3%81%8D%E4%BB%98%E3%81%91%E3%82%8B%E8%85%95%E6%99%82%E8%A8%88/</link>
+      <pubDate>Mon, 25 Nov 2024 00:05:27 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%93%84%E5%85%89%E3%83%86%E3%83%BC%E3%83%97%E3%81%AB%E7%8F%BE%E5%9C%A8%E6%99%82%E5%88%BB%E3%82%92%E7%84%BC%E3%81%8D%E4%BB%98%E3%81%91%E3%82%8B%E8%85%95%E6%99%82%E8%A8%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/蓄光テープに現在時刻を焼き付ける腕時計.jpg"&gt;Spotted At Supercon: Glowtape Wearable Displayから発見。画像もここから転載。
+蓄光テープに現在時刻を焼き付けるという、変わった仕組みの腕時計です。 UV LEDを64個並べて 蓄光テープに日時を「印刷」することで時計の機能を実現しています。
+ </description>
+    </item>
     
     <item>
       <title>V-Cut入りの基板の動作チェックを一気に行う技</title>
@@ -121,18 +132,6 @@ CH32V003は非常に安価なICなので、安くでキーボードを作りた�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/キーボード配列を変更するためのRP2040を用いたドングル.jpg"&gt;Remapping HID For Fun And… Well Funから発見。画像もここから転載。
 お気に入りのキーボードの配列を、ちょっと変更したいことはありませんか？ 自作キーボードであれば、ファームウェアを書き換えることで、キーマップを好きに定義できますが、既製品のキーボードとなると変更できないこともあります。
 この記事で紹介しているのは、RP2040を使ったキーボードの配列変換装置です。 RP2040のUSB Hostの機能で、一旦キーボードの入力を受け取って、それをパソコンに送信するというもので、送信する前に送信する内容に手を加えるという方式で、配列変換を実現しています。</description>
-    </item>
-    
-    <item>
-      <title>マトリクスLEDを回転させる方式のボリュームディスプレイ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%92%E5%9B%9E%E8%BB%A2%E3%81%95%E3%81%9B%E3%82%8B%E6%96%B9%E5%BC%8F%E3%81%AE%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%A0%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</link>
-      <pubDate>Sun, 10 Nov 2024 23:15:05 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%92%E5%9B%9E%E8%BB%A2%E3%81%95%E3%81%9B%E3%82%8B%E6%96%B9%E5%BC%8F%E3%81%AE%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%A0%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/マトリクスLEDを回転させる方式のボリュームディスプレイ.jpg"&gt;Small Volumetric Lamp Spins At 6000 RPMから発見。画像もここから転載。
-マトリクスLEDを回転させる方式のボリュームディスプレイの作例です。 モーターで基板を回転させるため、電源をどう供給するかという問題がありますが、この作例ではコイルによる無線給電となっています。
-ただマトリクスLEDが回転しているだけですが、非常にきれいな見た目で印象的です。
- </description>
     </item>
     
   </channel>
