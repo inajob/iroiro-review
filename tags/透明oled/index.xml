@@ -5,9 +5,22 @@
     <description>Recent content in 透明OLED on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 06 Nov 2024 23:28:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 23:28:21 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%80%8F%E6%98%8Eoled/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>透明OLEDを使ったかっこいい為替表示ガジェット</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%80%8F%E6%98%8Eoled%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E7%82%BA%E6%9B%BF%E8%A1%A8%E7%A4%BA%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
+      <pubDate>Wed, 27 Nov 2024 23:28:21 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%80%8F%E6%98%8Eoled%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E7%82%BA%E6%9B%BF%E8%A1%A8%E7%A4%BA%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/透明OLEDを使ったかっこいい為替表示ガジェット.jpg"&gt;そぞら@Raspberry Pi 電子工作 さんのPostから発見。画像もここから転載。
+透明OLEDを6枚使ったかっこいい為替表示ガジェットの作例です。 よく知りませんが、確かにこれ株価とか為替を表示するのにぴったりの形をしており、謎の面白さがあります。
+制御はRaspberry Pi Pico Wで行っているようです。
+Raspberry Pi Pico Wと透明OLEDを使って、株価や天気などをぐるぐるとスクロール表示させてみた。 pic.twitter.com/AqmhnBlgcG
+&amp;mdash; そぞら@Raspberry Pi 電子工作 (@sozoraemon) November 18, 2024  </description>
+    </item>
     
     <item>
       <title>透明液晶搭載ののArduboyクローン</title>
