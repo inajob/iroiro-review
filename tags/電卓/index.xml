@@ -5,9 +5,20 @@
     <description>Recent content in 電卓 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 25 Sep 2022 23:42:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 23:21:07 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%9B%BB%E5%8D%93/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>メカニカルキーとリッチなマイコン構成された電卓</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%AB%E3%83%AB%E3%82%AD%E3%83%BC%E3%81%A8%E3%83%AA%E3%83%83%E3%83%81%E3%81%AA%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3%E6%A7%8B%E6%88%90%E3%81%95%E3%82%8C%E3%81%9F%E9%9B%BB%E5%8D%93/</link>
+      <pubDate>Sun, 01 Dec 2024 23:21:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%AB%E3%83%AB%E3%82%AD%E3%83%BC%E3%81%A8%E3%83%AA%E3%83%83%E3%83%81%E3%81%AA%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3%E6%A7%8B%E6%88%90%E3%81%95%E3%82%8C%E3%81%9F%E9%9B%BB%E5%8D%93/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/メカニカルキーとリッチなマイコン構成された電卓.jpg"&gt;Mechanical Switch Sci-Calc Is Also A Macropadから発見。画像もここから転載。
+メカニカルキーとリッチなマイコン構成された電卓です。中身はESP32となっており、普通の計算や、マクロパットとしての利用、Arduboy用に開発されたゲームの実行など、様々な用途に利用できます。
+ </description>
+    </item>
     
     <item>
       <title>ESP32で作られたグラフ電卓</title>
