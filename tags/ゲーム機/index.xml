@@ -5,9 +5,20 @@
     <description>Recent content in ゲーム機 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 06 Nov 2024 23:28:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 23:31:14 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ゲーム機風のRP2040開発ボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E9%A2%A8%E3%81%AErp2040%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Tue, 03 Dec 2024 23:31:14 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E9%A2%A8%E3%81%AErp2040%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ゲーム機風のRP2040開発ボード.jpg"&gt;Akana R1 - Next Generation Development Board by MH-EDU-Electronics on Tindieから発見。画像もここから転載。
+ゲーム機風のRP2040開発ボードの作例です。 シンプルですがゲーム機としても使いやすそうですし、上に並べられた拡張端子も便利そうで、ゲーム機だけでなく様々な電子工作の実験で活用できそうです。
+ </description>
+    </item>
     
     <item>
       <title>透明液晶搭載ののArduboyクローン</title>
@@ -115,18 +126,6 @@ ATtiny10の4つしかないGPIOを活用して、4ボタンとディプレイの
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ワンキーと画面のみのゲーム機.jpg"&gt;2024 Tiny Games Contest: Are You A Good Judge Of Time?から発見。画像もここから転載。
 ワンキーと画面のみのゲーム機です。 プログラミングはCircitPythonが使用されています。
 記事ではX秒ぴったりで止めることを競うゲームを紹介していますが、ほかにもいくつかのワンキーで遊べるゲームが動作するみたいです。</description>
-    </item>
-    
-    <item>
-      <title>4つのボタンを早押しするゲーム機</title>
-      <link>https://inajob.github.io/iroiro-review/post/4%E3%81%A4%E3%81%AE%E3%83%9C%E3%82%BF%E3%83%B3%E3%82%92%E6%97%A9%E6%8A%BC%E3%81%97%E3%81%99%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
-      <pubDate>Mon, 05 Aug 2024 23:55:12 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/4%E3%81%A4%E3%81%AE%E3%83%9C%E3%82%BF%E3%83%B3%E3%82%92%E6%97%A9%E6%8A%BC%E3%81%97%E3%81%99%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/4つのボタンを早押しするゲーム機.jpg"&gt;2024 Tiny Games Challenge: Improving Reaction Timeから発見。画像もここから転載。
-4つのボタンを早押しするゲーム機の作例です。 単純なゲームですが専用のゲーム端末というのが印象的です。
-完成度の高い見た目の筐体ですが、PCBは使わず3Dプリンタ製の部品をうまく組み合わせて実現されており、興味深いです。
-Hackadayではこのような小粒ゲームハードウェアのコンテストを開催中のようです。</description>
     </item>
     
   </channel>
