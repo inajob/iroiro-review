@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 05 Dec 2024 23:27:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 23:34:17 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ドローンに変形できる4輪ラジコン</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%81%AB%E5%A4%89%E5%BD%A2%E3%81%A7%E3%81%8D%E3%82%8B4%E8%BC%AA%E3%83%A9%E3%82%B8%E3%82%B3%E3%83%B3/</link>
+      <pubDate>Sun, 08 Dec 2024 23:34:17 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%81%AB%E5%A4%89%E5%BD%A2%E3%81%A7%E3%81%8D%E3%82%8B4%E8%BC%AA%E3%83%A9%E3%82%B8%E3%82%B3%E3%83%B3/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ドローンに変形できる4輪ラジコン.jpg"&gt;Transforming Drone Drives And Fliesから発見。画像もここから転載。
+4つのプロペラ付きのドローンがキャタピラ付きのラジコンに変形できるという作例です。 プロペラガード部分を車輪として活用することで、このギミックを実現しています。
+形状をうまく活用したアイデアが面白いです。
+ </description>
+    </item>
     
     <item>
       <title>FreeCADの1.0がついにリリース</title>
@@ -108,17 +120,6 @@ Raspberry Pi Pico Wと透明OLEDを使って、株価や天気などをぐるぐ
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/非平面スライスにより3Dプリント成果物のトップ層の質感を制御する.jpg"&gt;Fuzzy Skin Finish For 3D Prints, Now On Top Layersから発見。画像もここから転載。
 積層式の3Dプリント成果物の一番上の面の質感をカスタマイズする手法の紹介です。 通常この部分は平らに造形されますが、この手法を使うことでいい感じのざらざらな質感を実現できます。
 様々なスライサの後処理のスクリプトとして動作するように設計されているようで、比較的簡単に試すことができそうです。
- </description>
-    </item>
-    
-    <item>
-      <title>蓄光テープに現在時刻を焼き付ける腕時計</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E8%93%84%E5%85%89%E3%83%86%E3%83%BC%E3%83%97%E3%81%AB%E7%8F%BE%E5%9C%A8%E6%99%82%E5%88%BB%E3%82%92%E7%84%BC%E3%81%8D%E4%BB%98%E3%81%91%E3%82%8B%E8%85%95%E6%99%82%E8%A8%88/</link>
-      <pubDate>Mon, 25 Nov 2024 00:05:27 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E8%93%84%E5%85%89%E3%83%86%E3%83%BC%E3%83%97%E3%81%AB%E7%8F%BE%E5%9C%A8%E6%99%82%E5%88%BB%E3%82%92%E7%84%BC%E3%81%8D%E4%BB%98%E3%81%91%E3%82%8B%E8%85%95%E6%99%82%E8%A8%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/蓄光テープに現在時刻を焼き付ける腕時計.jpg"&gt;Spotted At Supercon: Glowtape Wearable Displayから発見。画像もここから転載。
-蓄光テープに現在時刻を焼き付けるという、変わった仕組みの腕時計です。 UV LEDを64個並べて 蓄光テープに日時を「印刷」することで時計の機能を実現しています。
  </description>
     </item>
     
