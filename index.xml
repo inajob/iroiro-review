@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 10 Dec 2024 23:35:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 23:40:59 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CH32V003をCR2032で動作させる</title>
+      <link>https://inajob.github.io/iroiro-review/post/ch32v003%E3%82%92cr2032%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%95%E3%81%9B%E3%82%8B/</link>
+      <pubDate>Wed, 11 Dec 2024 23:40:59 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/ch32v003%E3%82%92cr2032%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%95%E3%81%9B%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32V003をCR2032で動作させる.jpg"&gt;74thさんのPostから発見。画像もここから転載。
+CH32V003は動作できる電圧の幅が広いのですが、スペックだけ見てもよくわからない・・ ということでこのPostではCR2032を使ってLチカが動作することを検証しています。
+消費電力次第ですが、CR2032で駆動するガジェットを作る際にもCH32V003は活用できそうです。</description>
+    </item>
     
     <item>
       <title>ESP32-S3のUSB Hostの機能を使って作られたテキストエディタ</title>
@@ -108,19 +119,6 @@ FreeCADの1.0がついにリリースされました。 FreeCADといえば、�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリントを一時停止して作られた面白い造形.jpg"&gt;See The “Pause-and-Attach” Technique For 3D Printing In Actionから発見。画像もここから転載。
 積層式の3Dプリントは通常下の層から順に印刷され、その間じっと待っておく必要がありますが、この記事では、あえて印刷途中で一時停止して、その間に成果物の一部をベッドから剥がして、組み立てるというプロセスを紹介しています。
 この手法を使うことで画像に示したように、一般的な3Dプリンタの成果物とは一味違った変わった造形が実現できます。</description>
-    </item>
-    
-    <item>
-      <title>透明OLEDを使ったかっこいい為替表示ガジェット</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E9%80%8F%E6%98%8Eoled%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E7%82%BA%E6%9B%BF%E8%A1%A8%E7%A4%BA%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
-      <pubDate>Wed, 27 Nov 2024 23:28:21 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E9%80%8F%E6%98%8Eoled%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E7%82%BA%E6%9B%BF%E8%A1%A8%E7%A4%BA%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/透明OLEDを使ったかっこいい為替表示ガジェット.jpg"&gt;そぞら@Raspberry Pi 電子工作 さんのPostから発見。画像もここから転載。
-透明OLEDを6枚使ったかっこいい為替表示ガジェットの作例です。 よく知りませんが、確かにこれ株価とか為替を表示するのにぴったりの形をしており、謎の面白さがあります。
-制御はRaspberry Pi Pico Wで行っているようです。
-Raspberry Pi Pico Wと透明OLEDを使って、株価や天気などをぐるぐるとスクロール表示させてみた。 pic.twitter.com/AqmhnBlgcG
-&amp;mdash; そぞら@Raspberry Pi 電子工作 (@sozoraemon) November 18, 2024  </description>
     </item>
     
   </channel>
