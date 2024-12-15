@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teensy4.0 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/teensy4.0/</link>
+    <description>Recent content in Teensy4.0 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sun, 15 Dec 2024 23:32:21 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/teensy4.0/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>オムニコードっぽい自作の電子楽器</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%A0%E3%83%8B%E3%82%B3%E3%83%BC%E3%83%89%E3%81%A3%E3%81%BD%E3%81%84%E8%87%AA%E4%BD%9C%E3%81%AE%E9%9B%BB%E5%AD%90%E6%A5%BD%E5%99%A8/</link>
+      <pubDate>Sun, 15 Dec 2024 23:32:21 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%A0%E3%83%8B%E3%82%B3%E3%83%BC%E3%83%89%E3%81%A3%E3%81%BD%E3%81%84%E8%87%AA%E4%BD%9C%E3%81%AE%E9%9B%BB%E5%AD%90%E6%A5%BD%E5%99%A8/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/オムニコードっぽい自作の電子楽器.jpg"&gt;Minichord Wants To Help You Find Rad Chord Progressionsから発見。画像もここから転載。
+オムニコードっぽい自作の電子楽器です。 キー部分で和音の選択し、タッチセンサーをなぞることで、アルペジオを奏でることができます。
+コアとなるのはTeensy 4.0です。この開発ボードはいろいろな電子楽器の作例で出てくる気がします。
+ </description>
+    </item>
+    
+  </channel>
+</rss>
+
