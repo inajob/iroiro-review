@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 16 Dec 2024 23:20:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 23:57:09 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>4軸の3Dプリンタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/4%E8%BB%B8%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
+      <pubDate>Tue, 17 Dec 2024 23:57:09 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/4%E8%BB%B8%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/4軸の3Dプリンタ.jpg"&gt;Unique 3D Printer Has A Print Head With A Twistから発見。画像もここから転載。
+4軸の3Dプリンタの作例です。 ベッドは回転するようになっており、extruderの部分がCoreXYメカニズムで横移動＋回転するということで合わせて4軸となっています。
+普通の3Dプリンタより1軸多いということで、ある種のオーバーハングなどの造形もできます。
+ </description>
+    </item>
     
     <item>
       <title>丸い穴に簡単にOLEDを取り付けるための3Dプリンタ製のアダプタ</title>
@@ -115,17 +127,6 @@ FreeCADの1.0がついにリリースされました。 FreeCADといえば、�
       <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%AB%E3%83%AB%E3%82%AD%E3%83%BC%E4%BB%98%E3%81%8Draspberry-pi%E3%83%A9%E3%83%83%E3%83%97%E3%83%88%E3%83%83%E3%83%97/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/シンプルなメカニカルキー付きRaspberry Piラップトップ.jpg"&gt;Portable Pi 80から発見。画像もここから転載。
 シンプルなメカニカルキー付きRaspberry Piラップトップの作例です。 このような作例は多くありますがこの作例はごく普通のラップトップ的な作りが印象的です。</description>
-    </item>
-    
-    <item>
-      <title>ゲーム機風のRP2040開発ボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E9%A2%A8%E3%81%AErp2040%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Tue, 03 Dec 2024 23:31:14 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E9%A2%A8%E3%81%AErp2040%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ゲーム機風のRP2040開発ボード.jpg"&gt;Akana R1 - Next Generation Development Board by MH-EDU-Electronics on Tindieから発見。画像もここから転載。
-ゲーム機風のRP2040開発ボードの作例です。 シンプルですがゲーム機としても使いやすそうですし、上に並べられた拡張端子も便利そうで、ゲーム機だけでなく様々な電子工作の実験で活用できそうです。
- </description>
     </item>
     
   </channel>

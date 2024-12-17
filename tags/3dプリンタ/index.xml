@@ -5,9 +5,21 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 16 Dec 2024 23:20:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 23:57:09 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>4軸の3Dプリンタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/4%E8%BB%B8%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
+      <pubDate>Tue, 17 Dec 2024 23:57:09 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/4%E8%BB%B8%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/4軸の3Dプリンタ.jpg"&gt;Unique 3D Printer Has A Print Head With A Twistから発見。画像もここから転載。
+4軸の3Dプリンタの作例です。 ベッドは回転するようになっており、extruderの部分がCoreXYメカニズムで横移動＋回転するということで合わせて4軸となっています。
+普通の3Dプリンタより1軸多いということで、ある種のオーバーハングなどの造形もできます。
+ </description>
+    </item>
     
     <item>
       <title>丸い穴に簡単にOLEDを取り付けるための3Dプリンタ製のアダプタ</title>
@@ -121,18 +133,6 @@ ABSとPLAは違う素材ですが、重ねてプリントするとかなりし�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/グルーガンを応用した3Dプリンタ.jpg"&gt;3D Printing With A Hot Glue Gunから発見。画像もここから転載。
 グルーガンを応用した3Dプリンタの作例です。 Extruderの上部につけられた漏斗のような形の受け皿で、上からグルーガンのスティックを落とすことで材料を補給する面白い仕組みです。
 糸引きが多そうに見えますが、一応造形ができているようです。
- </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタ製の自作のiPhoneドック</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E8%87%AA%E4%BD%9C%E3%81%AEiphone%E3%83%89%E3%83%83%E3%82%AF/</link>
-      <pubDate>Tue, 29 Oct 2024 23:44:26 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E8%87%AA%E4%BD%9C%E3%81%AEiphone%E3%83%89%E3%83%83%E3%82%AF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ製の自作のiPhoneドック.jpg"&gt;Building A Stylish IPhone Standby Dockから発見。画像もここから転載。
-完成度の高い3Dプリンタ製の自作のiPhoneドックの作例です。
-もともとMagSafeで充電できるスタイリッシュなiPhoneスタンドがありましたが、さらに改良して上のボタンを押すことでiPhoneを取り外すことができるように改良しています。
  </description>
     </item>
     
