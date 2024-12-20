@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 17 Dec 2024 23:57:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 00:01:06 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32をコアとしたモジュール式の電子工作キット</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E5%BC%8F%E3%81%AE%E9%9B%BB%E5%AD%90%E5%B7%A5%E4%BD%9C%E3%82%AD%E3%83%83%E3%83%88/</link>
+      <pubDate>Fri, 20 Dec 2024 00:01:06 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E5%BC%8F%E3%81%AE%E9%9B%BB%E5%AD%90%E5%B7%A5%E4%BD%9C%E3%82%AD%E3%83%83%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32をコアとしたモジュール式の電子工作キット.jpg"&gt;I built a plug and play platform GENESISから発見。画像もここから転載。
+ESP32をコアとしたモジュール式の電子工作キットです。 モジュールは特徴的な小さな正方形で、1枚のメインボードにこれを12個取り付けることができるみたいです。
+動画ではここにうまいことモジュールを並べて様々なデモが行われています。 乾電池もメインボードの裏にマウントできるようになっており、このボードだけで様々なプロトタイピングが出来そうです。
+ </description>
+    </item>
     
     <item>
       <title>4軸の3Dプリンタ</title>
@@ -117,16 +129,6 @@ WiFiが不安定な環境で、今現在WiFiが使えるかどうかをぱっと
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/FreeCADの1.0がついにリリース.jpg"&gt;FreeCAD Version 1.0 Releasedから発見。画像もここから転載。
 FreeCADの1.0がついにリリースされました。 FreeCADといえば、独特の操作感で、とっつきにくい印象の3DCADですが、ついに1.0となるということで、今までからすると使いやすくなっていると感じます。（それでもやはり、商用の3DCADと比べると、こなれていない感じがしますが・・）
 まぁ、この機会に使い始めてみるのもよいかなと思います。 （自分はGUIの3DCADとしてはFreeCADを使い、それ以外はプログラミングで造形するOpenSCADや、CadQueryを利用しています）</description>
-    </item>
-    
-    <item>
-      <title>シンプルなメカニカルキー付きRaspberry Piラップトップ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%AB%E3%83%AB%E3%82%AD%E3%83%BC%E4%BB%98%E3%81%8Draspberry-pi%E3%83%A9%E3%83%83%E3%83%97%E3%83%88%E3%83%83%E3%83%97/</link>
-      <pubDate>Thu, 05 Dec 2024 00:15:46 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%AB%E3%83%AB%E3%82%AD%E3%83%BC%E4%BB%98%E3%81%8Draspberry-pi%E3%83%A9%E3%83%83%E3%83%97%E3%83%88%E3%83%83%E3%83%97/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/シンプルなメカニカルキー付きRaspberry Piラップトップ.jpg"&gt;Portable Pi 80から発見。画像もここから転載。
-シンプルなメカニカルキー付きRaspberry Piラップトップの作例です。 このような作例は多くありますがこの作例はごく普通のラップトップ的な作りが印象的です。</description>
     </item>
     
   </channel>

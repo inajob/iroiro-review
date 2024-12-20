@@ -5,9 +5,18 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 17 Dec 2024 23:57:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 00:01:06 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32</title>
+      <link>https://inajob.github.io/iroiro-review/tags/esp32/</link>
+      <pubDate>Fri, 20 Dec 2024 00:01:06 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/esp32/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>3Dプリンタ</title>
@@ -87,15 +96,6 @@
       <pubDate>Tue, 10 Dec 2024 23:35:03 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/esp32-s3/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>USB Host</title>
-      <link>https://inajob.github.io/iroiro-review/tags/usb-host/</link>
-      <pubDate>Tue, 10 Dec 2024 23:35:03 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/usb-host/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
