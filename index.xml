@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 20 Dec 2024 00:01:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 23:56:48 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>片腕方式のペンプロッタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%89%87%E8%85%95%E6%96%B9%E5%BC%8F%E3%81%AE%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</link>
+      <pubDate>Sun, 22 Dec 2024 23:56:48 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%89%87%E8%85%95%E6%96%B9%E5%BC%8F%E3%81%AE%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/片腕方式のペンプロッタ.jpg"&gt;Simple Pen Plotter Rolls On The Tableから発見。画像もここから転載。
+ペンプロッタと一言に言っても様々な構成があります。 このペンプロッタは様々な点で特徴的です。
+まずX軸のレールは本当にレールだけで、必要な電子パーツは稼働するY軸レールの上にすべて乗っているというのが特徴的です。 そしてY軸が片腕になっており、片方はレールに保持されていますが、もう片方はベアリングが床に設置されています。
+部品が1か所にまとまっており、（なんとなく）製作しやすい気がしました。
+ </description>
+    </item>
     
     <item>
       <title>ESP32をコアとしたモジュール式の電子工作キット</title>
@@ -118,17 +131,6 @@ WiFiが不安定な環境で、今現在WiFiが使えるかどうかをぱっと
 4つのプロペラ付きのドローンがキャタピラ付きのラジコンに変形できるという作例です。 プロペラガード部分を車輪として活用することで、このギミックを実現しています。
 形状をうまく活用したアイデアが面白いです。
  </description>
-    </item>
-    
-    <item>
-      <title>FreeCADの1.0がついにリリース</title>
-      <link>https://inajob.github.io/iroiro-review/post/freecad%E3%81%AE1.0%E3%81%8C%E3%81%A4%E3%81%84%E3%81%AB%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/</link>
-      <pubDate>Thu, 05 Dec 2024 23:27:05 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/freecad%E3%81%AE1.0%E3%81%8C%E3%81%A4%E3%81%84%E3%81%AB%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/FreeCADの1.0がついにリリース.jpg"&gt;FreeCAD Version 1.0 Releasedから発見。画像もここから転載。
-FreeCADの1.0がついにリリースされました。 FreeCADといえば、独特の操作感で、とっつきにくい印象の3DCADですが、ついに1.0となるということで、今までからすると使いやすくなっていると感じます。（それでもやはり、商用の3DCADと比べると、こなれていない感じがしますが・・）
-まぁ、この機会に使い始めてみるのもよいかなと思います。 （自分はGUIの3DCADとしてはFreeCADを使い、それ以外はプログラミングで造形するOpenSCADや、CadQueryを利用しています）</description>
     </item>
     
   </channel>
