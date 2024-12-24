@@ -5,9 +5,19 @@
     <description>Recent content in RP2040 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 03 Dec 2024 23:31:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 23:30:43 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/rp2040/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>M.2端子に対応したRP2040ボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/m.2%E7%AB%AF%E5%AD%90%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%97%E3%81%9Frp2040%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Tue, 24 Dec 2024 23:30:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/m.2%E7%AB%AF%E5%AD%90%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%97%E3%81%9Frp2040%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/M.2端子に対応したRP2040ボード.jpg"&gt;M.2 Makes An Unusual Microcontroller Form Factorから発見。画像もここから転載。
+M.2端子に対応したRP2040ボードです。 フットプリントを合わせれば確かにそこに収納でき電源も取れますが、どういう使い方をすると便利なのかは、パッとは思いつきません。 ともかくポートが開いていたらこういうのを実装して活用案を考えるのも面白そうですね。</description>
+    </item>
     
     <item>
       <title>ゲーム機風のRP2040開発ボード</title>
@@ -118,19 +128,6 @@ Raspberry Pi PicoのGPIOに大きな抵抗を取り付けて、CircuitPythonのt
 オープンソースのRaspberry Pi Pico互換ボードの作例です。
 Raspberry Pi Picoはよくできているボードですが、その構成を見直し、同じフットプリントで、より扱いやすくしたものが、これです。
 プログラミング時に役立つRUNボタンを搭載し、Type-C端子、レギュレータは一般的な1117を使うなどが主な違いです。</description>
-    </item>
-    
-    <item>
-      <title>ジャンパー不要のブレッドボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%91%E3%83%BC%E4%B8%8D%E8%A6%81%E3%81%AE%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Tue, 19 Dec 2023 23:45:42 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%91%E3%83%BC%E4%B8%8D%E8%A6%81%E3%81%AE%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ジャンパー不要のブレッドボード.jpg"&gt;Jumperlessから発見。画像もここから転載。
-ジャンパーをソフトウェアで定義できるハイテクな製品です。
-ピン間の電圧、電流も検知することができるので、回路の状況をモニタリングしLEDで表示することもできます。
-配線の切り替えにはCH446というICをたくさん利用しています。 コントローラはRP2040となっており頻繁にファームウェアが更新されています。
- </description>
     </item>
     
   </channel>
