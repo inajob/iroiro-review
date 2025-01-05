@@ -5,9 +5,22 @@
     <description>Recent content in からくり on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 04 Sep 2024 23:57:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 23:43:07 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタ製の連射できるおもちゃの銃</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E9%80%A3%E5%B0%84%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83%E3%81%AE%E9%8A%83/</link>
+      <pubDate>Sun, 05 Jan 2025 23:43:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E9%80%A3%E5%B0%84%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83%E3%81%AE%E9%8A%83/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ製の連射できるおもちゃの銃.jpg"&gt;3D Printed Blaster Does It With Compliant Componentsから発見。画像もここから転載。
+3Dプリンタで作ることができる成果物には制約が多く、これだけでからくりを作ることは難しいです。 一般的には3Dプリンタの造形物以外にバネやベアリングなど3Dプリンタの材質や精度では造形できないものに関しては、既成のパーツを使うことが多いです。
+しかし、この作例では3Dプリンタの造形物だけで、連射できるおもちゃの銃のからくりを実現しています。
+プラスチックの柔軟性をうまく利用して、バネやラッチの機構を構成しています。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタで作るシートベルトの機構</title>
@@ -125,18 +138,6 @@
 電源を用いずに、完全にからくりだけで数字を切り替えながら表示できる装置です。
 3Dプリンタで作られており、有料ですがモデルデータをダウンロードすることが出来ます。
 ギアだらけの内部構造が見えるのもかっこよく、ギーク心をくすぐられます。</description>
-    </item>
-    
-    <item>
-      <title>からくりで関数をプロットする装置</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A%E3%81%A7%E9%96%A2%E6%95%B0%E3%82%92%E3%83%97%E3%83%AD%E3%83%83%E3%83%88%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/</link>
-      <pubDate>Mon, 09 Nov 2020 11:00:46 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A%E3%81%A7%E9%96%A2%E6%95%B0%E3%82%92%E3%83%97%E3%83%AD%E3%83%83%E3%83%88%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/harmonic-anlyzer.png"&gt;Harmonic Analyzer : Mechanical Lasercut Signal Plotterから発見。画像もここから転載。
-からくりで計算をするというのは昔からたくさんの試みがなされてきました。ここで紹介するのもそういった装置の一つで、関数のグラフをプロットするものです。
-仕組みとしては、目的の関数を様々な周期のsin,cos波の合成関数として近似し（フーリエ級数展開）、たくさんのギアの回転をからくりで組み合わせて描画しているようです。
- </description>
     </item>
     
   </channel>
