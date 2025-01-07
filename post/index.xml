@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 07 Jan 2025 00:24:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 23:30:11 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>集中して文書を書くための16bitDOS上の環境</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%9B%86%E4%B8%AD%E3%81%97%E3%81%A6%E6%96%87%E6%9B%B8%E3%82%92%E6%9B%B8%E3%81%8F%E3%81%9F%E3%82%81%E3%81%AE16bitdos%E4%B8%8A%E3%81%AE%E7%92%B0%E5%A2%83/</link>
+      <pubDate>Tue, 07 Jan 2025 23:30:11 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%86%E4%B8%AD%E3%81%97%E3%81%A6%E6%96%87%E6%9B%B8%E3%82%92%E6%9B%B8%E3%81%8F%E3%81%9F%E3%82%81%E3%81%AE16bitdos%E4%B8%8A%E3%81%AE%E7%92%B0%E5%A2%83/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/集中して文書を書くための16bitDOS上の環境.jpg"&gt;The Ultimate Distraction Free Writing Environmentから発見。画像もここから転載。
+DOSというとレトロコンピュータみたいな印象がありますが、当時はこれが現役だったわけで、用途を絞れば今でも活用できるのでは？と思ったりします。
+この記事で紹介しているのは16bit DOS上で動く、集中して文書を書くための環境です。 確かに英語の文字入力に関しては、この頃の環境でもかなり「完成」していたのでは？と思ったりします。
+日本語となると、かな漢字変換周りが貧弱で辛そうかな？と思いますが、どうなんでしょうね？</description>
+    </item>
     
     <item>
       <title>16セグメントLCDを縦向きに配置した印象的な表示装置</title>
@@ -114,19 +126,6 @@ ESP32をコアとしたモジュール式の電子工作キットです。 モ�
 4軸の3Dプリンタの作例です。 ベッドは回転するようになっており、extruderの部分がCoreXYメカニズムで横移動＋回転するということで合わせて4軸となっています。
 普通の3Dプリンタより1軸多いということで、ある種のオーバーハングなどの造形もできます。
  </description>
-    </item>
-    
-    <item>
-      <title>丸い穴に簡単にOLEDを取り付けるための3Dプリンタ製のアダプタ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E4%B8%B8%E3%81%84%E7%A9%B4%E3%81%AB%E7%B0%A1%E5%8D%98%E3%81%ABoled%E3%82%92%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF/</link>
-      <pubDate>Mon, 16 Dec 2024 23:20:07 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E4%B8%B8%E3%81%84%E7%A9%B4%E3%81%AB%E7%B0%A1%E5%8D%98%E3%81%ABoled%E3%82%92%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/丸い穴に簡単にOLEDを取り付けるための3Dプリンタ製のアダプタ.jpg"&gt;OLED Screen Mounting, Without The Painから発見。画像もここから転載。
-0.97インチのOLEDは電子工作界隈では定番のパーツで、比較的安価に入手でき、128x64とそこそこの解像度があるので重宝します。
-しかしこのOLEDを何かに取り付ける、となると一筋縄ではいかないことが多いです。 四角い窓を作り、その周りにねじの穴を4つ開けることができればよいのですが、加工が難しかったりすることもあります。
-そこでこの記事では、OLEDを取り付ける寸法がシビアな部分を3Dプリンタで造形し、筐体との取り付け部分はシンプルな丸形の穴とするアダプタを作成しています。
-これなら、OLEDを取り付けたい筐体側には丸い穴をあけるだけなので加工も簡単です。この穴の部分がちょうどピンヘッダになるように設計されているので、ここから配線を通すこともできます。</description>
     </item>
     
   </channel>
