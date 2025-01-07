@@ -5,9 +5,20 @@
     <description>Recent content in LCD on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 25 Feb 2024 23:24:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 00:24:07 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/lcd/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>16セグメントLCDを縦向きに配置した印象的な表示装置</title>
+      <link>https://inajob.github.io/iroiro-review/post/16%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88lcd%E3%82%92%E7%B8%A6%E5%90%91%E3%81%8D%E3%81%AB%E9%85%8D%E7%BD%AE%E3%81%97%E3%81%9F%E5%8D%B0%E8%B1%A1%E7%9A%84%E3%81%AA%E8%A1%A8%E7%A4%BA%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Tue, 07 Jan 2025 00:24:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/16%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88lcd%E3%82%92%E7%B8%A6%E5%90%91%E3%81%8D%E3%81%AB%E9%85%8D%E7%BD%AE%E3%81%97%E3%81%9F%E5%8D%B0%E8%B1%A1%E7%9A%84%E3%81%AA%E8%A1%A8%E7%A4%BA%E8%A3%85%E7%BD%AE/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/16セグメントLCDを縦向きに配置した印象的な表示装置.jpg"&gt;FallingWater Clock Puts New Spin On A Common LCDから発見。画像もここから転載。
+アルファベットも何とか表示できる16セグメントのLCDを縦向きに使ったユニークな表示装置です。 こういうセグメント液晶のアニメーション、昔のMDコンポとかでも見ましたね。
+ </description>
+    </item>
     
     <item>
       <title>大きな7セグメントLCDモジュール</title>

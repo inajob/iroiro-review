@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 05 Jan 2025 23:43:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 00:24:07 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>16セグメントLCDを縦向きに配置した印象的な表示装置</title>
+      <link>https://inajob.github.io/iroiro-review/post/16%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88lcd%E3%82%92%E7%B8%A6%E5%90%91%E3%81%8D%E3%81%AB%E9%85%8D%E7%BD%AE%E3%81%97%E3%81%9F%E5%8D%B0%E8%B1%A1%E7%9A%84%E3%81%AA%E8%A1%A8%E7%A4%BA%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Tue, 07 Jan 2025 00:24:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/16%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88lcd%E3%82%92%E7%B8%A6%E5%90%91%E3%81%8D%E3%81%AB%E9%85%8D%E7%BD%AE%E3%81%97%E3%81%9F%E5%8D%B0%E8%B1%A1%E7%9A%84%E3%81%AA%E8%A1%A8%E7%A4%BA%E8%A3%85%E7%BD%AE/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/16セグメントLCDを縦向きに配置した印象的な表示装置.jpg"&gt;FallingWater Clock Puts New Spin On A Common LCDから発見。画像もここから転載。
+アルファベットも何とか表示できる16セグメントのLCDを縦向きに使ったユニークな表示装置です。 こういうセグメント液晶のアニメーション、昔のMDコンポとかでも見ましたね。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタ製の連射できるおもちゃの銃</title>
@@ -116,18 +127,6 @@ ESP32をコアとしたモジュール式の電子工作キットです。 モ�
 しかしこのOLEDを何かに取り付ける、となると一筋縄ではいかないことが多いです。 四角い窓を作り、その周りにねじの穴を4つ開けることができればよいのですが、加工が難しかったりすることもあります。
 そこでこの記事では、OLEDを取り付ける寸法がシビアな部分を3Dプリンタで造形し、筐体との取り付け部分はシンプルな丸形の穴とするアダプタを作成しています。
 これなら、OLEDを取り付けたい筐体側には丸い穴をあけるだけなので加工も簡単です。この穴の部分がちょうどピンヘッダになるように設計されているので、ここから配線を通すこともできます。</description>
-    </item>
-    
-    <item>
-      <title>オムニコードっぽい自作の電子楽器</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%A0%E3%83%8B%E3%82%B3%E3%83%BC%E3%83%89%E3%81%A3%E3%81%BD%E3%81%84%E8%87%AA%E4%BD%9C%E3%81%AE%E9%9B%BB%E5%AD%90%E6%A5%BD%E5%99%A8/</link>
-      <pubDate>Sun, 15 Dec 2024 23:32:21 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%A0%E3%83%8B%E3%82%B3%E3%83%BC%E3%83%89%E3%81%A3%E3%81%BD%E3%81%84%E8%87%AA%E4%BD%9C%E3%81%AE%E9%9B%BB%E5%AD%90%E6%A5%BD%E5%99%A8/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/オムニコードっぽい自作の電子楽器.jpg"&gt;Minichord Wants To Help You Find Rad Chord Progressionsから発見。画像もここから転載。
-オムニコードっぽい自作の電子楽器です。 キー部分で和音の選択し、タッチセンサーをなぞることで、アルペジオを奏でることができます。
-コアとなるのはTeensy 4.0です。この開発ボードはいろいろな電子楽器の作例で出てくる気がします。
- </description>
     </item>
     
   </channel>
