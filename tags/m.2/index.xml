@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M.2 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/m.2/</link>
+    <description>Recent content in M.2 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 08 Jan 2025 23:59:49 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/m.2/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>M.2に装着する「ピポッ」デバイス</title>
+      <link>https://inajob.github.io/iroiro-review/post/m.2%E3%81%AB%E8%A3%85%E7%9D%80%E3%81%99%E3%82%8B%E3%83%94%E3%83%9D%E3%83%83%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</link>
+      <pubDate>Wed, 08 Jan 2025 23:59:49 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/m.2%E3%81%AB%E8%A3%85%E7%9D%80%E3%81%99%E3%82%8B%E3%83%94%E3%83%9D%E3%83%83%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/M.2に装着する「ピポッ」デバイス.jpg"&gt;PC-9800 Boot Sounds For Modern Computers!から発見。画像もここから転載。
+M.2に装着する「ピポッ」デバイス。 M.2のPCI Expressインターフェースを利用してリセットを認識しているらしい。 改造すれば任意のサウンドを鳴らせそうです。</description>
+    </item>
+    
+  </channel>
+</rss>
+

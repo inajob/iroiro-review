@@ -5,9 +5,19 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 07 Jan 2025 23:30:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 23:59:49 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>M.2に装着する「ピポッ」デバイス</title>
+      <link>https://inajob.github.io/iroiro-review/post/m.2%E3%81%AB%E8%A3%85%E7%9D%80%E3%81%99%E3%82%8B%E3%83%94%E3%83%9D%E3%83%83%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</link>
+      <pubDate>Wed, 08 Jan 2025 23:59:49 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/m.2%E3%81%AB%E8%A3%85%E7%9D%80%E3%81%99%E3%82%8B%E3%83%94%E3%83%9D%E3%83%83%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/M.2に装着する「ピポッ」デバイス.jpg"&gt;PC-9800 Boot Sounds For Modern Computers!から発見。画像もここから転載。
+M.2に装着する「ピポッ」デバイス。 M.2のPCI Expressインターフェースを利用してリセットを認識しているらしい。 改造すれば任意のサウンドを鳴らせそうです。</description>
+    </item>
     
     <item>
       <title>集中して文書を書くための16bitDOS上の環境</title>
@@ -113,18 +123,6 @@ M.2端子に対応したRP2040ボードです。 フットプリントを合わ�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32をコアとしたモジュール式の電子工作キット.jpg"&gt;I built a plug and play platform GENESISから発見。画像もここから転載。
 ESP32をコアとしたモジュール式の電子工作キットです。 モジュールは特徴的な小さな正方形で、1枚のメインボードにこれを12個取り付けることができるみたいです。
 動画ではここにうまいことモジュールを並べて様々なデモが行われています。 乾電池もメインボードの裏にマウントできるようになっており、このボードだけで様々なプロトタイピングが出来そうです。
- </description>
-    </item>
-    
-    <item>
-      <title>4軸の3Dプリンタ</title>
-      <link>https://inajob.github.io/iroiro-review/post/4%E8%BB%B8%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
-      <pubDate>Tue, 17 Dec 2024 23:57:09 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/4%E8%BB%B8%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/4軸の3Dプリンタ.jpg"&gt;Unique 3D Printer Has A Print Head With A Twistから発見。画像もここから転載。
-4軸の3Dプリンタの作例です。 ベッドは回転するようになっており、extruderの部分がCoreXYメカニズムで横移動＋回転するということで合わせて4軸となっています。
-普通の3Dプリンタより1軸多いということで、ある種のオーバーハングなどの造形もできます。
  </description>
     </item>
     
