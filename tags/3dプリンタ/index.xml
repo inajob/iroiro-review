@@ -5,9 +5,21 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 05 Jan 2025 23:43:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 23:53:03 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pixel 6 Proをラップトップ風に扱うための3Dプリンタ製のケース</title>
+      <link>https://inajob.github.io/iroiro-review/post/pixel-6-pro%E3%82%92%E3%83%A9%E3%83%83%E3%83%97%E3%83%88%E3%83%83%E3%83%97%E9%A2%A8%E3%81%AB%E6%89%B1%E3%81%86%E3%81%9F%E3%82%81%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9/</link>
+      <pubDate>Thu, 09 Jan 2025 23:53:03 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/pixel-6-pro%E3%82%92%E3%83%A9%E3%83%83%E3%83%97%E3%83%88%E3%83%83%E3%83%97%E9%A2%A8%E3%81%AB%E6%89%B1%E3%81%86%E3%81%9F%E3%82%81%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Pixel 6 Proをラップトップ風に扱うための3Dプリンタ製のケース.jpg"&gt;3D Printed Case Turns Pixel 6 Pro Into Palmtopから発見。画像もここから転載。
+手のひらサイズのキーボード付きの端末は、かつてと比べるとぐっと減ってしまいました。
+しかしこの作例では、スマートフォンと小型のBluetoothキーボードを3Dプリンタ製のケースでつなげることで、手のひらサイズのキーボード付きの端末を実現しています。
+こうなってくると、スマートフォンをキーボードで快適に利用できる環境を整備したくなりますね。（なにがあるのかな？）</description>
+    </item>
     
     <item>
       <title>3Dプリンタ製の連射できるおもちゃの銃</title>
@@ -124,17 +136,6 @@ ABSとPLAは違う素材ですが、重ねてプリントするとかなりし�
 ブレッドボードといえば、電子工作のプロトタイピングに便利ですが、細かい部分が気に入らず、自分のオリジナルのものを作りたくなることがあります。
 この記事では、3Dプリンタでケースを作る方式でオリジナルのブレッドボードを作成しています。 肝心の金具の部分は、Tindieで販売している のでこれを利用しています。
  </description>
-    </item>
-    
-    <item>
-      <title>25グラムの軽量ゲーミングマウス</title>
-      <link>https://inajob.github.io/iroiro-review/post/25%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%AE%E8%BB%BD%E9%87%8F%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%A6%E3%82%B9/</link>
-      <pubDate>Tue, 05 Nov 2024 23:02:56 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/25%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%AE%E8%BB%BD%E9%87%8F%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%A6%E3%82%B9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/25グラムの軽量ゲーミングマウス.jpg"&gt;Mouse 0 - Lightweight 25grams custom gaming mouse by OlleStore on Tindieから発見。画像もここから転載。
-ゲーミングマウスの中には軽さを謳った製品もありますが、この記事では、軽量ゲーミングマウスの自作について述べられています。
-3Dプリンタを用いて、必要最低限のフレームを構成し、25gのマウスを実現しています。</description>
     </item>
     
   </channel>
