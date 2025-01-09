@@ -19,6 +19,16 @@
 M.2に装着する「ピポッ」デバイス。 M.2のPCI Expressインターフェースを利用してリセットを認識しているらしい。 改造すれば任意のサウンドを鳴らせそうです。</description>
     </item>
     
+    <item>
+      <title>M.2端子に対応したRP2040ボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/m.2%E7%AB%AF%E5%AD%90%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%97%E3%81%9Frp2040%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Tue, 24 Dec 2024 23:30:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/m.2%E7%AB%AF%E5%AD%90%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%97%E3%81%9Frp2040%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/M.2端子に対応したRP2040ボード.jpg"&gt;M.2 Makes An Unusual Microcontroller Form Factorから発見。画像もここから転載。
+M.2端子に対応したRP2040ボードです。 フットプリントを合わせれば確かにそこに収納でき電源も取れますが、どういう使い方をすると便利なのかは、パッとは思いつきません。 ともかくポートが開いていたらこういうのを実装して活用案を考えるのも面白そうですね。</description>
+    </item>
+    
   </channel>
 </rss>
 
