@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 13 Jan 2025 23:20:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 23:36:53 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>電子部品をラベル付き小袋に入れバインダーにまとめ整理する</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E3%82%92%E3%83%A9%E3%83%99%E3%83%AB%E4%BB%98%E3%81%8D%E5%B0%8F%E8%A2%8B%E3%81%AB%E5%85%A5%E3%82%8C%E3%83%90%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC%E3%81%AB%E3%81%BE%E3%81%A8%E3%82%81%E6%95%B4%E7%90%86%E3%81%99%E3%82%8B/</link>
+      <pubDate>Tue, 14 Jan 2025 23:36:53 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E3%82%92%E3%83%A9%E3%83%99%E3%83%AB%E4%BB%98%E3%81%8D%E5%B0%8F%E8%A2%8B%E3%81%AB%E5%85%A5%E3%82%8C%E3%83%90%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC%E3%81%AB%E3%81%BE%E3%81%A8%E3%82%81%E6%95%B4%E7%90%86%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/電子部品をラベル付き小袋に入れバインダーにまとめ整理する.jpg"&gt;Organizing Components, The Easy Wayから発見。画像もここから転載。
+電子工作をしていると、細かい電子部品をどのように整理するかが悩みどころです。 この記事では、小分けの袋に決められたフォーマットでラベルをつけ、それをマジックテープでバインダーノートに貼り付けて整理する方法を紹介しています。
+ラベルがあるとぐっとわかりやすく、電子工作で試行錯誤する際にも必要十分なデータがまとめてあって良さそうです。 ラベルのデータはGitHubで公開されています
+ </description>
+    </item>
     
     <item>
       <title>ファイバーレーザーを使ってPCBを自作する</title>
@@ -112,17 +124,6 @@ ESP-WROOM-32 でニュースサイトの RSS から記事の見出しを抽出�
       <guid>https://inajob.github.io/iroiro-review/post/m.2%E7%AB%AF%E5%AD%90%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%97%E3%81%9Frp2040%E3%83%9C%E3%83%BC%E3%83%89/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/M.2端子に対応したRP2040ボード.jpg"&gt;M.2 Makes An Unusual Microcontroller Form Factorから発見。画像もここから転載。
 M.2端子に対応したRP2040ボードです。 フットプリントを合わせれば確かにそこに収納でき電源も取れますが、どういう使い方をすると便利なのかは、パッとは思いつきません。 ともかくポートが開いていたらこういうのを実装して活用案を考えるのも面白そうですね。</description>
-    </item>
-    
-    <item>
-      <title>ワイドディスプレイ搭載の自作の携帯ゲーム機</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AF%E3%82%A4%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E6%90%AD%E8%BC%89%E3%81%AE%E8%87%AA%E4%BD%9C%E3%81%AE%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
-      <pubDate>Mon, 23 Dec 2024 23:07:41 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AF%E3%82%A4%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E6%90%AD%E8%BC%89%E3%81%AE%E8%87%AA%E4%BD%9C%E3%81%AE%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ワイドディスプレイ搭載の自作の携帯ゲーム機.jpg"&gt;Ultra-Wide Gaming Handheld Channels The Nintendo DSから発見。画像もここから転載。
-ワイドディスプレイ搭載の自作の携帯ゲーム機です。 横幅が広がった部分について、ゲーム機のようなキーパッドとトラックパッドを実装しており、大きな携帯ゲーム機的な見た目となっています。
- </description>
     </item>
     
   </channel>
