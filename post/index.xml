@@ -5,9 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 14 Jan 2025 23:36:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 23:27:57 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ユニークなクリップ収納ケース</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%A6%E3%83%8B%E3%83%BC%E3%82%AF%E3%81%AA%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E5%8F%8E%E7%B4%8D%E3%82%B1%E3%83%BC%E3%82%B9/</link>
+      <pubDate>Wed, 15 Jan 2025 23:27:57 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%A6%E3%83%8B%E3%83%BC%E3%82%AF%E3%81%AA%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E5%8F%8E%E7%B4%8D%E3%82%B1%E3%83%BC%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ユニークなクリップ収納ケース.jpg"&gt;MITSUKIさんのPostから発見。画像もここから転載。
+みたまんまのユニークなクリップ収納ケースです。 こういう製品のアイデアを簡単に試作できるのが3Dプリンタの良いところですね。 磁石を内部に埋め込むというアイデアは、他にも応用ができそうです。
+クリップさん📎
+ほしい人がいるかもしれないモノを研究中...
+カワイイ×実用×3Dプリント　#BambuLab https://t.co/m1eq7kYmRI pic.twitter.com/QEAabJRrHK
+&amp;mdash; MITSUKI (@mitsuki_fab) January 6, 2025  </description>
+    </item>
     
     <item>
       <title>電子部品をラベル付き小袋に入れバインダーにまとめ整理する</title>
@@ -114,16 +128,6 @@ CH582は静電容量タッチ、USBデバイス、Bluetoothなど様々な機能
 まさにこの細長い液晶にピッタリな用途です。
 ESP-WROOM-32 でニュースサイトの RSS から記事の見出しを抽出して、マジョカアイリス液晶に表示できた。もはや何番煎じか分からないが、当初の目標はほぼ達成。 #マジョカアイリスハック pic.twitter.com/TBehsy8lR3
 &amp;mdash; OBONO (@OBONO) November 22, 2024  </description>
-    </item>
-    
-    <item>
-      <title>M.2端子に対応したRP2040ボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/m.2%E7%AB%AF%E5%AD%90%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%97%E3%81%9Frp2040%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Tue, 24 Dec 2024 23:30:43 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/m.2%E7%AB%AF%E5%AD%90%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%97%E3%81%9Frp2040%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/M.2端子に対応したRP2040ボード.jpg"&gt;M.2 Makes An Unusual Microcontroller Form Factorから発見。画像もここから転載。
-M.2端子に対応したRP2040ボードです。 フットプリントを合わせれば確かにそこに収納でき電源も取れますが、どういう使い方をすると便利なのかは、パッとは思いつきません。 ともかくポートが開いていたらこういうのを実装して活用案を考えるのも面白そうですね。</description>
     </item>
     
   </channel>

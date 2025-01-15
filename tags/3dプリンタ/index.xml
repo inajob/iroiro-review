@@ -5,9 +5,23 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 09 Jan 2025 23:53:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 23:27:57 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ユニークなクリップ収納ケース</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%A6%E3%83%8B%E3%83%BC%E3%82%AF%E3%81%AA%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E5%8F%8E%E7%B4%8D%E3%82%B1%E3%83%BC%E3%82%B9/</link>
+      <pubDate>Wed, 15 Jan 2025 23:27:57 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%A6%E3%83%8B%E3%83%BC%E3%82%AF%E3%81%AA%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E5%8F%8E%E7%B4%8D%E3%82%B1%E3%83%BC%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ユニークなクリップ収納ケース.jpg"&gt;MITSUKIさんのPostから発見。画像もここから転載。
+みたまんまのユニークなクリップ収納ケースです。 こういう製品のアイデアを簡単に試作できるのが3Dプリンタの良いところですね。 磁石を内部に埋め込むというアイデアは、他にも応用ができそうです。
+クリップさん📎
+ほしい人がいるかもしれないモノを研究中...
+カワイイ×実用×3Dプリント　#BambuLab https://t.co/m1eq7kYmRI pic.twitter.com/QEAabJRrHK
+&amp;mdash; MITSUKI (@mitsuki_fab) January 6, 2025  </description>
+    </item>
     
     <item>
       <title>Pixel 6 Proをラップトップ風に扱うための3Dプリンタ製のケース</title>
@@ -124,18 +138,6 @@ ABSとPLAは違う素材ですが、重ねてプリントするとかなりし�
 重さはiPhone16Proより2g軽かった。 pic.twitter.com/szwby8RgFI
 &amp;mdash; RNのまたん🍥 (@nomatan373) October 10, 2024  ちなみに中を開けるとすごくシンプルかつスカスカです。 pic.twitter.com/98O3OS8uh3
 &amp;mdash; RNのまたん🍥 (@nomatan373) October 27, 2024  </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタでブレッドボードを自作する</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%99%E3%82%8B/</link>
-      <pubDate>Thu, 07 Nov 2024 22:41:58 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタでブレッドボードを自作する.jpg"&gt;3D Printed Electronics Breadboardから発見。画像もここから転載。
-ブレッドボードといえば、電子工作のプロトタイピングに便利ですが、細かい部分が気に入らず、自分のオリジナルのものを作りたくなることがあります。
-この記事では、3Dプリンタでケースを作る方式でオリジナルのブレッドボードを作成しています。 肝心の金具の部分は、Tindieで販売している のでこれを利用しています。
- </description>
     </item>
     
   </channel>
