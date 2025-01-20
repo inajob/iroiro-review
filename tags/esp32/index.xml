@@ -5,9 +5,21 @@
     <description>Recent content in ESP32 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 20 Dec 2024 00:01:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 23:26:25 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/esp32/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32用のOS「Tactility」</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32%E7%94%A8%E3%81%AEostactility/</link>
+      <pubDate>Mon, 20 Jan 2025 23:26:25 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32%E7%94%A8%E3%81%AEostactility/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32用のOS「Tactility」.jpg"&gt;Tactility; The ESP32 Gets Another OSから発見。画像もここから転載。
+TactilityというのはESP32用のOSです。 ここでいうOSはタスクシステムやGUIを含んだもののようで、いくつかの画面付きESP32端末のサポートが謳われています。
+ESP32を搭載した携帯端末のようなものはいくつかありますが、アプリケーションを切り替えたりする仕組みやUIを0から作るのはなかなか大変ですが、このようなOSがあれば手軽に取り組むことが出来そうです。
+ESP32をコアとした画面付き端末の盛り上がりを感じます。</description>
+    </item>
     
     <item>
       <title>ESP32をコアとしたモジュール式の電子工作キット</title>
@@ -112,18 +124,6 @@ ESP32-S2とF1C200Sで動くWindows用のディスプレイドライバです。 
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/どこでも執筆が出来るガジェット.jpg"&gt;Micro Journal Rev.6 - Vivian in New York by Un Kyu Lee on Tindieから発見。画像もここから転載。
 どこでも執筆が出来る、キーボードとディスプレイが一体型となった、ポメラ的なガジェットの作例です。 ESP32をコアとしており、データはGoogle Driveにアップロードできるようで、実用的です。
 おそらく日本語入力はできないだろうという点が残念です。</description>
-    </item>
-    
-    <item>
-      <title>ESP32をコアとした16キードラムマシン</title>
-      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F16%E3%82%AD%E3%83%BC%E3%83%89%E3%83%A9%E3%83%A0%E3%83%9E%E3%82%B7%E3%83%B3/</link>
-      <pubDate>Tue, 02 Jul 2024 00:20:39 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F16%E3%82%AD%E3%83%BC%E3%83%89%E3%83%A9%E3%83%A0%E3%83%9E%E3%82%B7%E3%83%B3/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32をコアとした16キードラムマシン.jpg"&gt;ESP32 Powered Crunch-E Makes Beats On The Goから発見。画像もここから転載。
-ESP32をコアとした16キードラムマシンの作例です。 ESP32と16個のスイッチ、DACというシンプルな構成ですが、なかなか楽しそうな演奏が出来ています。
-シンプルな構成なのでブレッドボードなどで真似して作るのも簡単そうです。
- </description>
     </item>
     
   </channel>
