@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 20 Jan 2025 23:26:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 01:24:20 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>フィラメントLEDを使った7セグメント表示機</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88led%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
+      <pubDate>Wed, 22 Jan 2025 01:24:20 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88led%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/フィラメントLEDを使った7セグメント表示機.jpg"&gt;RetroLite by Eean on Tindieから発見。画像もここから転載。
+フィラメントLEDを使った7セグメント表示機の作例です。
+コネクタは一見USBか何かのように見えますが、一般的なエッジコネクタでSPIで信号を送る仕様のようです</description>
+    </item>
     
     <item>
       <title>ESP32用のOS「Tactility」</title>
@@ -112,17 +123,6 @@ M.2に装着する「ピポッ」デバイス。 M.2のPCI Expressインター�
 DOSというとレトロコンピュータみたいな印象がありますが、当時はこれが現役だったわけで、用途を絞れば今でも活用できるのでは？と思ったりします。
 この記事で紹介しているのは16bit DOS上で動く、集中して文書を書くための環境です。 確かに英語の文字入力に関しては、この頃の環境でもかなり「完成」していたのでは？と思ったりします。
 日本語となると、かな漢字変換周りが貧弱で辛そうかな？と思いますが、どうなんでしょうね？</description>
-    </item>
-    
-    <item>
-      <title>16セグメントLCDを縦向きに配置した印象的な表示装置</title>
-      <link>https://inajob.github.io/iroiro-review/post/16%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88lcd%E3%82%92%E7%B8%A6%E5%90%91%E3%81%8D%E3%81%AB%E9%85%8D%E7%BD%AE%E3%81%97%E3%81%9F%E5%8D%B0%E8%B1%A1%E7%9A%84%E3%81%AA%E8%A1%A8%E7%A4%BA%E8%A3%85%E7%BD%AE/</link>
-      <pubDate>Tue, 07 Jan 2025 00:24:07 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/16%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88lcd%E3%82%92%E7%B8%A6%E5%90%91%E3%81%8D%E3%81%AB%E9%85%8D%E7%BD%AE%E3%81%97%E3%81%9F%E5%8D%B0%E8%B1%A1%E7%9A%84%E3%81%AA%E8%A1%A8%E7%A4%BA%E8%A3%85%E7%BD%AE/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/16セグメントLCDを縦向きに配置した印象的な表示装置.jpg"&gt;FallingWater Clock Puts New Spin On A Common LCDから発見。画像もここから転載。
-アルファベットも何とか表示できる16セグメントのLCDを縦向きに使ったユニークな表示装置です。 こういうセグメント液晶のアニメーション、昔のMDコンポとかでも見ましたね。
- </description>
     </item>
     
   </channel>
