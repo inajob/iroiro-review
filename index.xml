@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 22 Jan 2025 23:26:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 23:27:03 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>バネを横向きに引っ張る面白い表示器</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%90%E3%83%8D%E3%82%92%E6%A8%AA%E5%90%91%E3%81%8D%E3%81%AB%E5%BC%95%E3%81%A3%E5%BC%B5%E3%82%8B%E9%9D%A2%E7%99%BD%E3%81%84%E8%A1%A8%E7%A4%BA%E5%99%A8/</link>
+      <pubDate>Thu, 23 Jan 2025 23:27:03 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%90%E3%83%8D%E3%82%92%E6%A8%AA%E5%90%91%E3%81%8D%E3%81%AB%E5%BC%95%E3%81%A3%E5%BC%B5%E3%82%8B%E9%9D%A2%E7%99%BD%E3%81%84%E8%A1%A8%E7%A4%BA%E5%99%A8/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/バネを横向きに引っ張る面白い表示器.jpg"&gt;Springs And Things Make For A Unique Timepieceから発見。画像もここから転載。
+バネを横向きに引っ張る面白い表示器の作例です。 カムを使ってゴムの位置を絶妙に調節しています。
+結果として味のある数字フォント表示が実現できており、ユニークな外見です。
+ </description>
+    </item>
     
     <item>
       <title>CoreXYの自作ペンプロッタ</title>
@@ -117,16 +129,6 @@ ESP32シリーズの中でも特に高性能を謳ったESP32-P4をコアとし�
 手のひらサイズのキーボード付きの端末は、かつてと比べるとぐっと減ってしまいました。
 しかしこの作例では、スマートフォンと小型のBluetoothキーボードを3Dプリンタ製のケースでつなげることで、手のひらサイズのキーボード付きの端末を実現しています。
 こうなってくると、スマートフォンをキーボードで快適に利用できる環境を整備したくなりますね。（なにがあるのかな？）</description>
-    </item>
-    
-    <item>
-      <title>M.2に装着する「ピポッ」デバイス</title>
-      <link>https://inajob.github.io/iroiro-review/post/m.2%E3%81%AB%E8%A3%85%E7%9D%80%E3%81%99%E3%82%8B%E3%83%94%E3%83%9D%E3%83%83%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</link>
-      <pubDate>Wed, 08 Jan 2025 23:59:49 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/m.2%E3%81%AB%E8%A3%85%E7%9D%80%E3%81%99%E3%82%8B%E3%83%94%E3%83%9D%E3%83%83%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/M.2に装着する「ピポッ」デバイス.jpg"&gt;PC-9800 Boot Sounds For Modern Computers!から発見。画像もここから転載。
-M.2に装着する「ピポッ」デバイス。 M.2のPCI Expressインターフェースを利用してリセットを認識しているらしい。 改造すれば任意のサウンドを鳴らせそうです。</description>
     </item>
     
   </channel>
