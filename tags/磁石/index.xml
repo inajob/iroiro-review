@@ -5,9 +5,20 @@
     <description>Recent content in 磁石 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 02 Jun 2024 23:45:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2025 23:18:00 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E7%A3%81%E7%9F%B3/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>磁石とボルトナットを使ったPCB固定具</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%A3%81%E7%9F%B3%E3%81%A8%E3%83%9C%E3%83%AB%E3%83%88%E3%83%8A%E3%83%83%E3%83%88%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fpcb%E5%9B%BA%E5%AE%9A%E5%85%B7/</link>
+      <pubDate>Sun, 26 Jan 2025 23:18:00 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%A3%81%E7%9F%B3%E3%81%A8%E3%83%9C%E3%83%AB%E3%83%88%E3%83%8A%E3%83%83%E3%83%88%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fpcb%E5%9B%BA%E5%AE%9A%E5%85%B7/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/磁石とボルトナットを使ったPCB固定具.jpg"&gt;Simple Hardware Store Hack Keeps Your PCBs Right Where You Want Themから発見。画像もここから転載。
+磁石とボルトとナットを使ったPCB固定具の作例です。
+単純な仕組みですが、金属板の上でPCBを固定するのには手軽でよさそうです。</description>
+    </item>
     
     <item>
       <title>磁石で鉄球を並べたデジタル時計</title>
