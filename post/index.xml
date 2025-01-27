@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 26 Jan 2025 23:18:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 21:45:56 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>コースティックにより文字盤を壁に浮かびがらせる</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%81%AB%E3%82%88%E3%82%8A%E6%96%87%E5%AD%97%E7%9B%A4%E3%82%92%E5%A3%81%E3%81%AB%E6%B5%AE%E3%81%8B%E3%81%B3%E3%81%8C%E3%82%89%E3%81%9B%E3%82%8B/</link>
+      <pubDate>Mon, 27 Jan 2025 21:45:56 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%81%AB%E3%82%88%E3%82%8A%E6%96%87%E5%AD%97%E7%9B%A4%E3%82%92%E5%A3%81%E3%81%AB%E6%B5%AE%E3%81%8B%E3%81%B3%E3%81%8C%E3%82%89%E3%81%9B%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/コースティックにより文字盤を壁に浮かびがらせる.jpg"&gt;Innovative Clock Uses Printed Caustic Lensから発見。画像もここから転載。
+波の経った水面に光が差したとき、水底にキラキラした模様が見えることがあります。
+この記事ではこの現象を利用して、壁に文字盤を投影しています。 この特殊な文字盤は光造形3Dプリンタにより作成されたある種のレンズです。
+この技術を応用すると、様々な模様を壁に当絵できるレンズを作成することが出来そうです。
+ </description>
+    </item>
     
     <item>
       <title>磁石とボルトナットを使ったPCB固定具</title>
@@ -115,18 +128,6 @@ ESP32シリーズの中でも特に高性能を謳ったESP32-P4をコアとし�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/電子部品をラベル付き小袋に入れバインダーにまとめ整理する.jpg"&gt;Organizing Components, The Easy Wayから発見。画像もここから転載。
 電子工作をしていると、細かい電子部品をどのように整理するかが悩みどころです。 この記事では、小分けの袋に決められたフォーマットでラベルをつけ、それをマジックテープでバインダーノートに貼り付けて整理する方法を紹介しています。
 ラベルがあるとぐっとわかりやすく、電子工作で試行錯誤する際にも必要十分なデータがまとめてあって良さそうです。 ラベルのデータはGitHubで公開されています
- </description>
-    </item>
-    
-    <item>
-      <title>ファイバーレーザーを使ってPCBを自作する</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E3%83%BC%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6pcb%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%99%E3%82%8B/</link>
-      <pubDate>Mon, 13 Jan 2025 23:20:46 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E3%83%BC%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6pcb%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ファイバーレーザーを使ってPCBを自作する.jpg"&gt;Perfecting 20 Minute PCBs With Laserから発見。画像もここから転載。
-ファイバーレーザーを使ってPCBを自作する方法。 まだまだ確立した方法はなさそうですが、かなり綺麗な回路が作れているように見えます。
-そもそもファイバーレーザーってのをが初耳でしたが。これでPCBが作れるということであれば興味があります。
  </description>
     </item>
     
