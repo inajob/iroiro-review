@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KVM on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/kvm/</link>
+    <description>Recent content in KVM on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Tue, 28 Jan 2025 23:39:51 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/kvm/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>小型格安のKVMデバイス</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%B0%8F%E5%9E%8B%E6%A0%BC%E5%AE%89%E3%81%AEkvm%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</link>
+      <pubDate>Tue, 28 Jan 2025 23:39:51 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%B0%8F%E5%9E%8B%E6%A0%BC%E5%AE%89%E3%81%AEkvm%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/小型格安のKVMデバイス.jpg"&gt;Compact KVM: Remote control, 4K HDMI, USB.から発見。画像もここから転載。
+小型格安のKVMデバイスです。 サーバのHDMI出力を受け取り、ネットワーク経由で操作できるようにするアダプタです。
+画面出力のループアウト機能もあるので、普段は普通に使いつつ、リモートからも操作できるようにするといったことも可能のようです。</description>
+    </item>
+    
+  </channel>
+</rss>
+
