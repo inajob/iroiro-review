@@ -5,9 +5,20 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 28 Nov 2024 23:39:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 20:54:54 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>手鏡の上に置くことでチップLEDの極性を確認する</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E9%8F%A1%E3%81%AE%E4%B8%8A%E3%81%AB%E7%BD%AE%E3%81%8F%E3%81%93%E3%81%A8%E3%81%A7%E3%83%81%E3%83%83%E3%83%97led%E3%81%AE%E6%A5%B5%E6%80%A7%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B/</link>
+      <pubDate>Wed, 29 Jan 2025 20:54:54 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E9%8F%A1%E3%81%AE%E4%B8%8A%E3%81%AB%E7%BD%AE%E3%81%8F%E3%81%93%E3%81%A8%E3%81%A7%E3%83%81%E3%83%83%E3%83%97led%E3%81%AE%E6%A5%B5%E6%80%A7%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/手鏡の上に置くことでチップLEDの極性を確認する.jpg"&gt;akita11さんのPostから発見。画像もここから転載。
+チップLEDの極性の確認はちょっと面倒です。 一般的に極性の表示はチップLEDの裏面にあるのですが、実装するときはその部分は下になっているため、もちあげて裏面を確認する必要があります。（表面にも特徴があるので、慣れれば裏返す必要はないですが・・）
+このPostでは手鏡の上に置くことでチップLEDの極性を確認する方法を紹介しています。 確かにこれなら裏面を持ち上げずに確認できそうです。</description>
+    </item>
     
     <item>
       <title>3Dプリントを一時停止して作られた面白い造形</title>
@@ -117,18 +128,6 @@ ABSとPLAは違う素材ですが、重ねてプリントするとかなりし�
 手軽に綺麗に仕上げる方法の実験。光造形のレジンを筆で塗って紫外線ライトで硬化。紙ヤスリ(120→240)で仕上げ。良い感じかな。
 色を合わせやすいのも良い。 pic.twitter.com/4AAQrhLFPX
 &amp;mdash; tomo makabe (@mkbtm) June 12, 2022  </description>
-    </item>
-    
-    <item>
-      <title>マウスに内蔵されたPongゲーム</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%AB%E5%86%85%E8%94%B5%E3%81%95%E3%82%8C%E3%81%9Fpong%E3%82%B2%E3%83%BC%E3%83%A0/</link>
-      <pubDate>Sun, 29 Sep 2024 23:17:52 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%AB%E5%86%85%E8%94%B5%E3%81%95%E3%82%8C%E3%81%9Fpong%E3%82%B2%E3%83%BC%E3%83%A0/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/マウスに内蔵されたPongゲーム.jpg"&gt;Mouse Doesn’t Play Pong… It IS Pong!から発見。画像もここから転載。
-マウスに内蔵されたPongゲームです。 PCなどに接続するとゲームを遊ぶことができるのですが、画面の表示方法が一工夫されています。 マウスの座標を超高速に動かすことで、3つのカーソルがあるように見せ、このカーソルを使ってPongゲームを表現しています。
-この方法であれば、マウスを接続できる多くの機器で、Pongをプレイできます。
-説明が難しいのですが、紹介元のページで動画を見ると動作がわかりやすいと思います。</description>
     </item>
     
   </channel>
