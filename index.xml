@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 29 Jan 2025 20:54:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 23:45:01 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>今日が何曜日か教えてくれるガジェット</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E4%BB%8A%E6%97%A5%E3%81%8C%E4%BD%95%E6%9B%9C%E6%97%A5%E3%81%8B%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
+      <pubDate>Thu, 30 Jan 2025 23:45:01 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E4%BB%8A%E6%97%A5%E3%81%8C%E4%BD%95%E6%9B%9C%E6%97%A5%E3%81%8B%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/今日が何曜日か教えてくれるガジェット.jpg"&gt;What Day Is It Again? Check The Clockから発見。画像もここから転載。
+今日が何曜日か教えてくれるガジェットです。 制御しているのはESP32-C3です。
+曜日を示すインジケーターの部分にプリント基板が使われているのが印象的です。 ソルダレジストをなしにすることで裏面からの光を見えるようにして、曜日の表示を実現しています。</description>
+    </item>
     
     <item>
       <title>手鏡の上に置くことでチップLEDの極性を確認する</title>
@@ -115,16 +126,6 @@ ESP32をコアとした画面付き端末の盛り上がりを感じます。</d
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/OlimexのRP2350搭載の開発ボード.jpg"&gt;PICO2-XL and PICO2-XXL OSHW boards are now available for ordering the shipments start January 17thから発見。画像もここから転載。
 OlimexのRP2350搭載の開発ボードです。 PSRAMの搭載の有無でPICO2-XLとPICO2-XXLと2種類の製品があります。
 RP2350ボードでPSRAM搭載のものはまだあまりないので、種類が増えるのはうれしいです。</description>
-    </item>
-    
-    <item>
-      <title>ESP32-P4をコアとしたキーボード付き手のひら端末</title>
-      <link>https://inajob.github.io/iroiro-review/post/esp32-p4%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8D%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E7%AB%AF%E6%9C%AB/</link>
-      <pubDate>Thu, 16 Jan 2025 23:06:47 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/esp32-p4%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8D%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E7%AB%AF%E6%9C%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32-P4をコアとしたキーボード付き手のひら端末.jpg"&gt;One To Watch For In 2025: Tanmatsuから発見。画像もここから転載。
-ESP32シリーズの中でも特に高性能を謳ったESP32-P4をコアとした手のひらサイズの端末です。 ESP32-P4はまだ市場に出回っていないので、コスパや開発環境など気になります。</description>
     </item>
     
   </channel>
