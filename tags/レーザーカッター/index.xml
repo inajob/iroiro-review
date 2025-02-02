@@ -5,9 +5,20 @@
     <description>Recent content in レーザーカッター on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 18 Dec 2023 23:50:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 23:35:49 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>レーザーカッターでガラスに彫刻する技</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A7%E3%82%AC%E3%83%A9%E3%82%B9%E3%81%AB%E5%BD%AB%E5%88%BB%E3%81%99%E3%82%8B%E6%8A%80/</link>
+      <pubDate>Sun, 02 Feb 2025 23:35:49 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A7%E3%82%AC%E3%83%A9%E3%82%B9%E3%81%AB%E5%BD%AB%E5%88%BB%E3%81%99%E3%82%8B%E6%8A%80/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/レーザーカッターでガラスに彫刻する技.jpg"&gt;A Little Pigment Helps With Laser Glass Engravingから発見。画像もここから転載。
+ガラスは加工が難しくCO2レーザーでも傷をつけることは難しいです。 この記事では、ガラスの表面に特殊なコーティングをすることで、ガラスに黒い色の模様を刻印する方法を紹介しています。
+ </description>
+    </item>
     
     <item>
       <title>レーザーカットならではのパーツのジョイント手法</title>
@@ -122,18 +133,6 @@ PCB基板にチップLEDを配置し、その上にアクリル板を重ねる�
 マトリクス上にアルファベットがちりばめられた見た目が特徴的なWordClockですが、この記事で紹介しているのは、ちょっと見た目が違うタイプのWordClockです。
 写真を見れば一目瞭然、櫛状のアクリル板の細いスリット部分に時刻を表す英単語がちりばめらえれているという、新しい構造のWord Clockです。
 アクリル板を櫛状に加工することで、部品点数を減らしている点が画期的だと感じました。
- </description>
-    </item>
-    
-    <item>
-      <title>からくりで関数をプロットする装置</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A%E3%81%A7%E9%96%A2%E6%95%B0%E3%82%92%E3%83%97%E3%83%AD%E3%83%83%E3%83%88%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/</link>
-      <pubDate>Mon, 09 Nov 2020 11:00:46 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A%E3%81%A7%E9%96%A2%E6%95%B0%E3%82%92%E3%83%97%E3%83%AD%E3%83%83%E3%83%88%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/harmonic-anlyzer.png"&gt;Harmonic Analyzer : Mechanical Lasercut Signal Plotterから発見。画像もここから転載。
-からくりで計算をするというのは昔からたくさんの試みがなされてきました。ここで紹介するのもそういった装置の一つで、関数のグラフをプロットするものです。
-仕組みとしては、目的の関数を様々な周期のsin,cos波の合成関数として近似し（フーリエ級数展開）、たくさんのギアの回転をからくりで組み合わせて描画しているようです。
  </description>
     </item>
     
