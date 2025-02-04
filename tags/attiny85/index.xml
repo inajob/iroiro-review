@@ -5,9 +5,22 @@
     <description>Recent content in ATtiny85 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 30 Oct 2024 23:25:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 21:17:17 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/attiny85/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>24個のLEDを搭載したアニメーション機能付きのペンダント</title>
+      <link>https://inajob.github.io/iroiro-review/post/24%E5%80%8B%E3%81%AEled%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E6%A9%9F%E8%83%BD%E4%BB%98%E3%81%8D%E3%81%AE%E3%83%9A%E3%83%B3%E3%83%80%E3%83%B3%E3%83%88/</link>
+      <pubDate>Tue, 04 Feb 2025 21:17:17 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/24%E5%80%8B%E3%81%AEled%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E6%A9%9F%E8%83%BD%E4%BB%98%E3%81%8D%E3%81%AE%E3%83%9A%E3%83%B3%E3%83%80%E3%83%B3%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/24個のLEDを搭載したアニメーション機能付きのペンダント.jpg"&gt;GIOIA - glittering fashionから発見。画像もここから転載。
+24個のLEDを搭載したアニメーション機能付きのペンダントの作例です。このくらいの解像度であればアルファベットくらいなら表示できます。
+マイコンによるアニメーションはとても魅力的です。
+部品点数もそこまで多くないので、真似して作ってみるのも面白そうです。
+ </description>
+    </item>
     
     <item>
       <title>HDSP-2000を使った雰囲気の良い腕時計</title>
@@ -110,19 +123,6 @@ ATTiny85はかなり機能が限定されたICですが、必要な機能を別I
 ATTiny85を使って作られた、SDカードに入ったWAVファイルを再生できる音楽プレーヤーです。スピーカーを内蔵しており、必要に応じてイアホンを取り付けることもできます。
 リチウムイオンバッテリーを内蔵しており、どこでも音楽を聴くことが出来ます。（ただし充電回路は貧弱なので、あまり真似しないほうがよさそうです。）
  </description>
-    </item>
-    
-    <item>
-      <title>ATtiny85ボードによる謎解きゲーム</title>
-      <link>https://inajob.github.io/iroiro-review/post/attiny85%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AB%E3%82%88%E3%82%8B%E8%AC%8E%E8%A7%A3%E3%81%8D%E3%82%B2%E3%83%BC%E3%83%A0/</link>
-      <pubDate>Mon, 05 Oct 2020 23:00:19 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/attiny85%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AB%E3%82%88%E3%82%8B%E8%AC%8E%E8%A7%A3%E3%81%8D%E3%82%B2%E3%83%BC%E3%83%A0/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/attiny-ctf.png"&gt;Capture The Flag Shitty Add-Onから発見。画像もここから転載。
-コンピュータを使った競技としてCTF（Capture The Flag）というのがあります。これはあるシステムに隠された秘密のメッセージなど（Flag）をハッキングなどを駆使して探し出すというものです。
-今回紹介するボードはそのハードウェア版です。 ボードにはATTiny85が実装されておりI2Cの端子が露出しています。まず最初の挑戦はボードに実装されているLEDを点灯させることです。
-その後はさらに難しい課題が用意されています。
-オープンソースプロジェクトなので、部品をそろえることで自分でも同じものを作ることができます。</description>
     </item>
     
   </channel>
