@@ -5,9 +5,27 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 05 Feb 2025 21:23:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 23:34:42 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OpenSCAD</title>
+      <link>https://inajob.github.io/iroiro-review/tags/openscad/</link>
+      <pubDate>Thu, 06 Feb 2025 23:34:42 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/openscad/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>ねじ</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E3%81%AD%E3%81%98/</link>
+      <pubDate>Thu, 06 Feb 2025 23:34:42 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E3%81%AD%E3%81%98/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>Arduboy</title>
@@ -78,24 +96,6 @@
       <pubDate>Sun, 02 Feb 2025 23:35:49 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>PCB</title>
-      <link>https://inajob.github.io/iroiro-review/tags/pcb/</link>
-      <pubDate>Thu, 30 Jan 2025 23:45:01 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/pcb/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>KVM</title>
-      <link>https://inajob.github.io/iroiro-review/tags/kvm/</link>
-      <pubDate>Tue, 28 Jan 2025 23:39:51 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/kvm/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     

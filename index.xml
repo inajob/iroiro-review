@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 05 Feb 2025 21:23:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 23:34:42 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>好きな大きさのボルトとナットを生成できるWebサービス</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%A5%BD%E3%81%8D%E3%81%AA%E5%A4%A7%E3%81%8D%E3%81%95%E3%81%AE%E3%83%9C%E3%83%AB%E3%83%88%E3%81%A8%E3%83%8A%E3%83%83%E3%83%88%E3%82%92%E7%94%9F%E6%88%90%E3%81%A7%E3%81%8D%E3%82%8Bweb%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/</link>
+      <pubDate>Thu, 06 Feb 2025 23:34:42 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%A5%BD%E3%81%8D%E3%81%AA%E5%A4%A7%E3%81%8D%E3%81%95%E3%81%AE%E3%83%9C%E3%83%AB%E3%83%88%E3%81%A8%E3%83%8A%E3%83%83%E3%83%88%E3%82%92%E7%94%9F%E6%88%90%E3%81%A7%E3%81%8D%E3%82%8Bweb%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/好きな大きさのボルトとナットを生成できるWebサービス.jpg"&gt;Handy Online Metric Screw, Nut, And Washer Generatorから発見。画像もここから転載。
+3Dプリンタで作るねじは、強度は微妙ですが、ぴったりの大きさに作れることが魅力です。
+この記事では好きな大きさのボルトとナットを生成できるWebサービスを紹介しています。 Maker WorldというWebサービス上で公開されており、OpenSCADのスクリプトをWebブラウザから簡単に操作できます。</description>
+    </item>
     
     <item>
       <title>市販のゲーム機をガワとして利用したArduboyクローン</title>
@@ -111,18 +122,6 @@ Arduboyは回路も公開されており、カスタム機向けのビルド環�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/磁石とボルトナットを使ったPCB固定具.jpg"&gt;Simple Hardware Store Hack Keeps Your PCBs Right Where You Want Themから発見。画像もここから転載。
 磁石とボルトとナットを使ったPCB固定具の作例です。
 単純な仕組みですが、金属板の上でPCBを固定するのには手軽でよさそうです。</description>
-    </item>
-    
-    <item>
-      <title>バネを横向きに引っ張る面白い表示器</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%90%E3%83%8D%E3%82%92%E6%A8%AA%E5%90%91%E3%81%8D%E3%81%AB%E5%BC%95%E3%81%A3%E5%BC%B5%E3%82%8B%E9%9D%A2%E7%99%BD%E3%81%84%E8%A1%A8%E7%A4%BA%E5%99%A8/</link>
-      <pubDate>Thu, 23 Jan 2025 23:27:03 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%90%E3%83%8D%E3%82%92%E6%A8%AA%E5%90%91%E3%81%8D%E3%81%AB%E5%BC%95%E3%81%A3%E5%BC%B5%E3%82%8B%E9%9D%A2%E7%99%BD%E3%81%84%E8%A1%A8%E7%A4%BA%E5%99%A8/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/バネを横向きに引っ張る面白い表示器.jpg"&gt;Springs And Things Make For A Unique Timepieceから発見。画像もここから転載。
-バネを横向きに引っ張る面白い表示器の作例です。 カムを使ってゴムの位置を絶妙に調節しています。
-結果として味のある数字フォント表示が実現できており、ユニークな外見です。
- </description>
     </item>
     
   </channel>
