@@ -5,9 +5,20 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 15 Jan 2025 23:27:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2025 20:51:27 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタのベンチマークでよく見かける「船」のライセンスに注意</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%99%E3%83%B3%E3%83%81%E3%83%9E%E3%83%BC%E3%82%AF%E3%81%A7%E3%82%88%E3%81%8F%E8%A6%8B%E3%81%8B%E3%81%91%E3%82%8B%E8%88%B9%E3%81%AE%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9%E3%81%AB%E6%B3%A8%E6%84%8F/</link>
+      <pubDate>Sun, 09 Feb 2025 20:51:27 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%99%E3%83%B3%E3%83%81%E3%83%9E%E3%83%BC%E3%82%AF%E3%81%A7%E3%82%88%E3%81%8F%E8%A6%8B%E3%81%8B%E3%81%91%E3%82%8B%E8%88%B9%E3%81%AE%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9%E3%81%AB%E6%B3%A8%E6%84%8F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタのベンチマークでよく見かける「船」のライセンスに注意.jpg"&gt;3DBenchy Starts Enforcing Its No Derivatives Licenseから発見。画像もここから転載。
+3Dプリンタの性能を確認するために、3DBenchyという船のモデルを使うことが良くありますが、この船のデータはライセンスに注意する必要があるという内容の記事です。
+このモデルのライセンスはCreative Commons BY-ND 4.0となっており、派生品を作ることは禁止されています。 そのまま印刷することは問題ないですが、再配布する際には、帰属を明記すること、改変はしないことを気を付ける必要があります。</description>
+    </item>
     
     <item>
       <title>ユニークなクリップ収納ケース</title>
@@ -122,22 +133,6 @@
 ABSとPLAは違う素材ですが、重ねてプリントするとかなりしっかりと接着するようです。
 またこの動画では、ベッドに吸着しすぎて剥がす際にベッドを破損してしまうTPUなどの素材を印刷する際も、薄いPLA層を先に印刷することで、問題を解消できることなどを紹介しています。
  </description>
-    </item>
-    
-    <item>
-      <title>コンパクトなポケコン風Raspberry Pi端末</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%83%9D%E3%82%B1%E3%82%B3%E3%83%B3%E9%A2%A8raspberry-pi%E7%AB%AF%E6%9C%AB/</link>
-      <pubDate>Wed, 13 Nov 2024 23:32:27 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%83%9D%E3%82%B1%E3%82%B3%E3%83%B3%E9%A2%A8raspberry-pi%E7%AB%AF%E6%9C%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/コンパクトなポケコン風Raspberry Pi端末.jpg"&gt;RNのまたん🍥さんのPostから発見。画像もここから転載。
-コンパクトなポケコン風Raspberry Pi端末の作例です。 中身は素朴にRaspberry Piとバッテリー、コンパクトなBluetoothキーボードで、これらを3Dプリンタ製の筐体に納めています。
-よくある作例ではありますが、作りやすさと、取り回しの良さの両方をうまく両立しているデザインのように見えます。
-両手ホールドで使える。
-1300mAのバッテリーで2時間は普通に動作してる。。
-重さはiPhone16Proより2g軽かった。 pic.twitter.com/szwby8RgFI
-&amp;mdash; RNのまたん🍥 (@nomatan373) October 10, 2024  ちなみに中を開けるとすごくシンプルかつスカスカです。 pic.twitter.com/98O3OS8uh3
-&amp;mdash; RNのまたん🍥 (@nomatan373) October 27, 2024  </description>
     </item>
     
   </channel>
