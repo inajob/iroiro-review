@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 09 Feb 2025 20:51:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 21:50:33 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AppleのLightning to HDMIアダプタでDOOMを動かす</title>
+      <link>https://inajob.github.io/iroiro-review/post/apple%E3%81%AElightning-to-hdmi%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E3%81%A7doom%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</link>
+      <pubDate>Tue, 11 Feb 2025 21:50:33 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/apple%E3%81%AElightning-to-hdmi%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E3%81%A7doom%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/AppleのLightning to HDMIアダプタでDOOMを動かす.jpg"&gt;Running Doom On An Apple Lightning To HDMI Adapterから発見。画像もここから転載。
+どんなデバイスにも移植されるFPSゲームであるDOOMですが、この記事ではAppleのLightning to HDMIアダプタでDOOMを動かしています。
+このアダプタは単なる変換ケーブルではなく、内部に汎用CPUが入っており、これをハッキングすることで任意のコードの実行を実現し、DOOMを動かしているようです。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタのベンチマークでよく見かける「船」のライセンスに注意</title>
@@ -109,19 +121,6 @@ Arduboyは回路も公開されており、カスタム機向けのビルド環�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/小型格安のKVMデバイス.jpg"&gt;Compact KVM: Remote control, 4K HDMI, USB.から発見。画像もここから転載。
 小型格安のKVMデバイスです。 サーバのHDMI出力を受け取り、ネットワーク経由で操作できるようにするアダプタです。
 画面出力のループアウト機能もあるので、普段は普通に使いつつ、リモートからも操作できるようにするといったことも可能のようです。</description>
-    </item>
-    
-    <item>
-      <title>コースティックにより文字盤を壁に浮かびがらせる</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%81%AB%E3%82%88%E3%82%8A%E6%96%87%E5%AD%97%E7%9B%A4%E3%82%92%E5%A3%81%E3%81%AB%E6%B5%AE%E3%81%8B%E3%81%B3%E3%81%8C%E3%82%89%E3%81%9B%E3%82%8B/</link>
-      <pubDate>Mon, 27 Jan 2025 21:45:56 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%81%AB%E3%82%88%E3%82%8A%E6%96%87%E5%AD%97%E7%9B%A4%E3%82%92%E5%A3%81%E3%81%AB%E6%B5%AE%E3%81%8B%E3%81%B3%E3%81%8C%E3%82%89%E3%81%9B%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/コースティックにより文字盤を壁に浮かびがらせる.jpg"&gt;Innovative Clock Uses Printed Caustic Lensから発見。画像もここから転載。
-波の経った水面に光が差したとき、水底にキラキラした模様が見えることがあります。
-この記事ではこの現象を利用して、壁に文字盤を投影しています。 この特殊な文字盤は光造形3Dプリンタにより作成されたある種のレンズです。
-この技術を応用すると、様々な模様を壁に当絵できるレンズを作成することが出来そうです。
- </description>
     </item>
     
   </channel>
