@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 11 Feb 2025 21:50:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 21:42:00 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>電子レンジで加熱して利用するはんだごて</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%A7%E5%8A%A0%E7%86%B1%E3%81%97%E3%81%A6%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B%E3%81%AF%E3%82%93%E3%81%A0%E3%81%94%E3%81%A6/</link>
+      <pubDate>Wed, 12 Feb 2025 21:42:00 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%A7%E5%8A%A0%E7%86%B1%E3%81%97%E3%81%A6%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B%E3%81%AF%E3%82%93%E3%81%A0%E3%81%94%E3%81%A6/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/電子レンジで加熱して利用するはんだごて.jpg"&gt;A Cordless Soldering Iron With A Differenceから発見。画像もここから転載。
+よくある「はんだごて」は、電気の力で小手先を温めるもので、バッテリーやコンセントを使って電気を供給する必要があります（ガス式などもあります）
+この記事では電子レンジで加熱することで、利用できるはんだごてを紹介しています。 こての内部に熱容量の大きなシリコンカーバイドを内蔵しており、この余熱ではんだづけをするという仕組みのようです。
+温度を細かく調整することは難しそうですが、電源の問題を気にせずはんだ付けを出来る面白い仕組みです。
+ </description>
+    </item>
     
     <item>
       <title>AppleのLightning to HDMIアダプタでDOOMを動かす</title>
@@ -110,17 +123,6 @@ Arduboyは回路も公開されており、カスタム機向けのビルド環�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/手鏡の上に置くことでチップLEDの極性を確認する.jpg"&gt;akita11さんのPostから発見。画像もここから転載。
 チップLEDの極性の確認はちょっと面倒です。 一般的に極性の表示はチップLEDの裏面にあるのですが、実装するときはその部分は下になっているため、もちあげて裏面を確認する必要があります。（表面にも特徴があるので、慣れれば裏返す必要はないですが・・）
 このPostでは手鏡の上に置くことでチップLEDの極性を確認する方法を紹介しています。 確かにこれなら裏面を持ち上げずに確認できそうです。</description>
-    </item>
-    
-    <item>
-      <title>小型格安のKVMデバイス</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%B0%8F%E5%9E%8B%E6%A0%BC%E5%AE%89%E3%81%AEkvm%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</link>
-      <pubDate>Tue, 28 Jan 2025 23:39:51 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%B0%8F%E5%9E%8B%E6%A0%BC%E5%AE%89%E3%81%AEkvm%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/小型格安のKVMデバイス.jpg"&gt;Compact KVM: Remote control, 4K HDMI, USB.から発見。画像もここから転載。
-小型格安のKVMデバイスです。 サーバのHDMI出力を受け取り、ネットワーク経由で操作できるようにするアダプタです。
-画面出力のループアウト機能もあるので、普段は普通に使いつつ、リモートからも操作できるようにするといったことも可能のようです。</description>
     </item>
     
   </channel>
