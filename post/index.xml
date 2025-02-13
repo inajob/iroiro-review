@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 12 Feb 2025 21:42:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 21:31:55 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>マイコンからAM波を出してラジオで聞く</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3%E3%81%8B%E3%82%89am%E6%B3%A2%E3%82%92%E5%87%BA%E3%81%97%E3%81%A6%E3%83%A9%E3%82%B8%E3%82%AA%E3%81%A7%E8%81%9E%E3%81%8F/</link>
+      <pubDate>Thu, 13 Feb 2025 21:31:55 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3%E3%81%8B%E3%82%89am%E6%B3%A2%E3%82%92%E5%87%BA%E3%81%97%E3%81%A6%E3%83%A9%E3%82%B8%E3%82%AA%E3%81%A7%E8%81%9E%E3%81%8F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/マイコンからAM波を出してラジオで聞く.jpg"&gt;@kio MIW@さんのPostから発見。画像もここから転載。
+電子機器の近くにAMラジオを近づけると、干渉を受けて変なノイズが乗ります。
+このPostではこの現象を逆手にとって、AMラジオで受信できる音楽をマイコンから発生させています。 この原理を使えば、AMラジオをスピーカーとした楽器を手軽に作ることができそうです。
+※強い電波を不用意に出すと、電波法違反になってしまうため、試す際には注意が必要です。
+ </description>
+    </item>
     
     <item>
       <title>電子レンジで加熱して利用するはんだごて</title>
@@ -112,17 +125,6 @@ Arduboyは回路も公開されており、カスタム機向けのビルド環�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/今日が何曜日か教えてくれるガジェット.jpg"&gt;What Day Is It Again? Check The Clockから発見。画像もここから転載。
 今日が何曜日か教えてくれるガジェットです。 制御しているのはESP32-C3です。
 曜日を示すインジケーターの部分にプリント基板が使われているのが印象的です。 ソルダレジストをなしにすることで裏面からの光を見えるようにして、曜日の表示を実現しています。</description>
-    </item>
-    
-    <item>
-      <title>手鏡の上に置くことでチップLEDの極性を確認する</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E9%8F%A1%E3%81%AE%E4%B8%8A%E3%81%AB%E7%BD%AE%E3%81%8F%E3%81%93%E3%81%A8%E3%81%A7%E3%83%81%E3%83%83%E3%83%97led%E3%81%AE%E6%A5%B5%E6%80%A7%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B/</link>
-      <pubDate>Wed, 29 Jan 2025 20:54:54 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E9%8F%A1%E3%81%AE%E4%B8%8A%E3%81%AB%E7%BD%AE%E3%81%8F%E3%81%93%E3%81%A8%E3%81%A7%E3%83%81%E3%83%83%E3%83%97led%E3%81%AE%E6%A5%B5%E6%80%A7%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/手鏡の上に置くことでチップLEDの極性を確認する.jpg"&gt;akita11さんのPostから発見。画像もここから転載。
-チップLEDの極性の確認はちょっと面倒です。 一般的に極性の表示はチップLEDの裏面にあるのですが、実装するときはその部分は下になっているため、もちあげて裏面を確認する必要があります。（表面にも特徴があるので、慣れれば裏返す必要はないですが・・）
-このPostでは手鏡の上に置くことでチップLEDの極性を確認する方法を紹介しています。 確かにこれなら裏面を持ち上げずに確認できそうです。</description>
     </item>
     
   </channel>

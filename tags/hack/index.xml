@@ -5,9 +5,22 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 12 Feb 2025 21:42:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 21:31:55 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>マイコンからAM波を出してラジオで聞く</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3%E3%81%8B%E3%82%89am%E6%B3%A2%E3%82%92%E5%87%BA%E3%81%97%E3%81%A6%E3%83%A9%E3%82%B8%E3%82%AA%E3%81%A7%E8%81%9E%E3%81%8F/</link>
+      <pubDate>Thu, 13 Feb 2025 21:31:55 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3%E3%81%8B%E3%82%89am%E6%B3%A2%E3%82%92%E5%87%BA%E3%81%97%E3%81%A6%E3%83%A9%E3%82%B8%E3%82%AA%E3%81%A7%E8%81%9E%E3%81%8F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/マイコンからAM波を出してラジオで聞く.jpg"&gt;@kio MIW@さんのPostから発見。画像もここから転載。
+電子機器の近くにAMラジオを近づけると、干渉を受けて変なノイズが乗ります。
+このPostではこの現象を逆手にとって、AMラジオで受信できる音楽をマイコンから発生させています。 この原理を使えば、AMラジオをスピーカーとした楽器を手軽に作ることができそうです。
+※強い電波を不用意に出すと、電波法違反になってしまうため、試す際には注意が必要です。
+ </description>
+    </item>
     
     <item>
       <title>電子レンジで加熱して利用するはんだごて</title>
@@ -114,18 +127,6 @@
 ベッドの上に薄いPLA層を作り、その上にABSで目的のものを印刷することで反りを防ぐこというアイデアです。 一番反りやすいベッド付近をPLAで造形することで、底面が反ってしまうことを防ぐということのようです。
 ABSとPLAは違う素材ですが、重ねてプリントするとかなりしっかりと接着するようです。
 またこの動画では、ベッドに吸着しすぎて剥がす際にベッドを破損してしまうTPUなどの素材を印刷する際も、薄いPLA層を先に印刷することで、問題を解消できることなどを紹介しています。
- </description>
-    </item>
-    
-    <item>
-      <title>グルーガンを応用した3Dプリンタ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%AC%E3%83%B3%E3%82%92%E5%BF%9C%E7%94%A8%E3%81%97%E3%81%9F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
-      <pubDate>Mon, 04 Nov 2024 23:48:42 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%AC%E3%83%B3%E3%82%92%E5%BF%9C%E7%94%A8%E3%81%97%E3%81%9F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/グルーガンを応用した3Dプリンタ.jpg"&gt;3D Printing With A Hot Glue Gunから発見。画像もここから転載。
-グルーガンを応用した3Dプリンタの作例です。 Extruderの上部につけられた漏斗のような形の受け皿で、上からグルーガンのスティックを落とすことで材料を補給する面白い仕組みです。
-糸引きが多そうに見えますが、一応造形ができているようです。
  </description>
     </item>
     
