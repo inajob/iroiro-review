@@ -5,9 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 18 Feb 2025 21:05:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 21:34:15 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>単三電池3本で動く携帯Linux端末</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%8D%98%E4%B8%89%E9%9B%BB%E6%B1%A03%E6%9C%AC%E3%81%A7%E5%8B%95%E3%81%8F%E6%90%BA%E5%B8%AFlinux%E7%AB%AF%E6%9C%AB/</link>
+      <pubDate>Wed, 19 Feb 2025 21:34:15 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%8D%98%E4%B8%89%E9%9B%BB%E6%B1%A03%E6%9C%AC%E3%81%A7%E5%8B%95%E3%81%8F%E6%90%BA%E5%B8%AFlinux%E7%AB%AF%E6%9C%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/単三電池3本で動く携帯Linux端末.jpg"&gt;emutyさんのPostから発見。画像もここから転載。
+単三電池3本で動く携帯Linux端末の作例です。 こういう作例だとリチウムイオンバッテリーを使うことが多いですが、乾電池3本ということで二次電池特有の難しさなどはなく、素朴な構成がよさそうです。
+アクリル板を加工して作られたぴったりのケースに納めてあり、どこでも簡単にプログラミングなどが出来そうです。
+まさか完成するとはwとか思ってる「単3電池3本(3.6V)で動くLinuxノート」ですが作って大正解でした、毎日見ながらニヤニヤしてる(笑)
+2024/12時点ではケースとか全然決めてなかったんですがアクリル板加工するの楽しかったので次も何かつくろうかなと
+思い立ったら即行動いきおい大事 :D https://t.co/wwy7EJchJ0 pic.twitter.com/qmqWxLJRRl
+&amp;mdash; emuty (@emutyworks) January 8, 2025  </description>
+    </item>
     
     <item>
       <title>Raspberry Pi Picoをコアとしたシーケンサー</title>
@@ -114,19 +129,6 @@ Forthが動くキーボード一体型ガジェットです。 キーボード�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/市販のゲーム機をガワとして利用したArduboyクローン.jpg"&gt;K.YamaさんのPostから発見。画像もここから転載。
 市販のゲーム機をガワとして利用したArduboyクローンの作例です。 透明のOLEDを利用しておりかっこいいです。
 Arduboyは回路も公開されており、カスタム機向けのビルド環境も整備されているので、比較的簡単にクローンを作ることができます。</description>
-    </item>
-    
-    <item>
-      <title>24個のLEDを搭載したアニメーション機能付きのペンダント</title>
-      <link>https://inajob.github.io/iroiro-review/post/24%E5%80%8B%E3%81%AEled%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E6%A9%9F%E8%83%BD%E4%BB%98%E3%81%8D%E3%81%AE%E3%83%9A%E3%83%B3%E3%83%80%E3%83%B3%E3%83%88/</link>
-      <pubDate>Tue, 04 Feb 2025 21:17:17 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/24%E5%80%8B%E3%81%AEled%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E6%A9%9F%E8%83%BD%E4%BB%98%E3%81%8D%E3%81%AE%E3%83%9A%E3%83%B3%E3%83%80%E3%83%B3%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/24個のLEDを搭載したアニメーション機能付きのペンダント.jpg"&gt;GIOIA - glittering fashionから発見。画像もここから転載。
-24個のLEDを搭載したアニメーション機能付きのペンダントの作例です。このくらいの解像度であればアルファベットくらいなら表示できます。
-マイコンによるアニメーションはとても魅力的です。
-部品点数もそこまで多くないので、真似して作ってみるのも面白そうです。
- </description>
     </item>
     
   </channel>
