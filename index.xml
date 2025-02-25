@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 24 Feb 2025 23:43:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 23:27:39 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>フリップ式のドットを並べたデジタルなアナログ風時計</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%83%AA%E3%83%83%E3%83%97%E5%BC%8F%E3%81%AE%E3%83%89%E3%83%83%E3%83%88%E3%82%92%E4%B8%A6%E3%81%B9%E3%81%9F%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%81%AA%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E9%A2%A8%E6%99%82%E8%A8%88/</link>
+      <pubDate>Tue, 25 Feb 2025 23:27:39 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%83%AA%E3%83%83%E3%83%97%E5%BC%8F%E3%81%AE%E3%83%89%E3%83%83%E3%83%88%E3%82%92%E4%B8%A6%E3%81%B9%E3%81%9F%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%81%AA%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E9%A2%A8%E6%99%82%E8%A8%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/フリップ式のドットを並べたデジタルなアナログ風時計.jpg"&gt;Split-Flap Clock Flutters Its Way To Displaying Time Without Numbersから発見。画像もここから転載。
+フリップドットディスプレイというと、5×8程度の文字表示のためのものを想像しますが、この記事で紹介しているのはアナログ時計です。 遠目で見るとドット絵の時計のような見た目ですが、このドットがフリップドットとなっており、実際に時計として動作したり、アニメーションを表示できたりします。
+この方式にすることで、何か便利になる、というものではありませんが、見た目がユニークで印象に残る作例です。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタで作った型に漂白剤を塗ってTシャツにプリントする</title>
@@ -120,17 +132,6 @@ Forthが動くキーボード一体型ガジェットです。 キーボード�
 どんなデバイスにも移植されるFPSゲームであるDOOMですが、この記事ではAppleのLightning to HDMIアダプタでDOOMを動かしています。
 このアダプタは単なる変換ケーブルではなく、内部に汎用CPUが入っており、これをハッキングすることで任意のコードの実行を実現し、DOOMを動かしているようです。
  </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタのベンチマークでよく見かける「船」のライセンスに注意</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%99%E3%83%B3%E3%83%81%E3%83%9E%E3%83%BC%E3%82%AF%E3%81%A7%E3%82%88%E3%81%8F%E8%A6%8B%E3%81%8B%E3%81%91%E3%82%8B%E8%88%B9%E3%81%AE%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9%E3%81%AB%E6%B3%A8%E6%84%8F/</link>
-      <pubDate>Sun, 09 Feb 2025 20:51:27 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%99%E3%83%B3%E3%83%81%E3%83%9E%E3%83%BC%E3%82%AF%E3%81%A7%E3%82%88%E3%81%8F%E8%A6%8B%E3%81%8B%E3%81%91%E3%82%8B%E8%88%B9%E3%81%AE%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9%E3%81%AB%E6%B3%A8%E6%84%8F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタのベンチマークでよく見かける「船」のライセンスに注意.jpg"&gt;3DBenchy Starts Enforcing Its No Derivatives Licenseから発見。画像もここから転載。
-3Dプリンタの性能を確認するために、3DBenchyという船のモデルを使うことが良くありますが、この船のデータはライセンスに注意する必要があるという内容の記事です。
-このモデルのライセンスはCreative Commons BY-ND 4.0となっており、派生品を作ることは禁止されています。 そのまま印刷することは問題ないですが、再配布する際には、帰属を明記すること、改変はしないことを気を付ける必要があります。</description>
     </item>
     
   </channel>
