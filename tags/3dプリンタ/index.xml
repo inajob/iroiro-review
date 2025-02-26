@@ -5,9 +5,24 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 24 Feb 2025 23:43:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2025 21:03:30 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタ成果物に着色しやすペン</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E6%88%90%E6%9E%9C%E7%89%A9%E3%81%AB%E7%9D%80%E8%89%B2%E3%81%97%E3%82%84%E3%81%99%E3%83%9A%E3%83%B3/</link>
+      <pubDate>Wed, 26 Feb 2025 21:03:30 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E6%88%90%E6%9E%9C%E7%89%A9%E3%81%AB%E7%9D%80%E8%89%B2%E3%81%97%E3%82%84%E3%81%99%E3%83%9A%E3%83%B3/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ成果物に着色しやすペン.jpg"&gt;マナカル磐田さんのPostから発見。画像もここから転載。
+積層式の3Dプリンタの成果物に色を塗ろうとすると一筋縄でいかないことが多いです。 塗料の多くが、積層跡にしも混んでしまい、変な滲み方をしてしまうからです。
+このPostでは、そのような積層式の3Dプリンタ成果物を塗るのにぴったりなペンを紹介しています。
+こちらの商品のようです。（アフィリエイトリンクです）
+3Dプリンタで印刷したカエルさんを塗り塗りしました。
+このペンは3Dプリンタ品でも滲まなくておすすめです。 pic.twitter.com/fbqIodki8i
+&amp;mdash; マナカル磐田 (@manacaliwata) February 20, 2025  </description>
+    </item>
     
     <item>
       <title>3Dプリンタで作った型に漂白剤を塗ってTシャツにプリントする</title>
@@ -117,18 +132,6 @@
 マウスと言えば、パソコンを操作するうえではデファクトスタンダードですが、この形以外のものはないのでしょうか？
 この記事ではマウスに代わる新しいポインティングデバイスを作成しています。 ジョイスティックのようなものを中心としていますが、これはゴムで固定されており、IMUを使って角度を測定しています。 バネつきのパームレストのようなものも付属しており、手のストレスが少なく直観的に操作できるように工夫されています。
 スクロール用の上下移動のノブと、ボリューム、いくつかのスイッチを搭載しており、この作者は一般的なマウスからこのデバイスに乗り換えることができたようです。
- </description>
-    </item>
-    
-    <item>
-      <title>非平面スライスにより3Dプリント成果物のトップ層の質感を制御する</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E9%9D%9E%E5%B9%B3%E9%9D%A2%E3%82%B9%E3%83%A9%E3%82%A4%E3%82%B9%E3%81%AB%E3%82%88%E3%82%8A3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E6%88%90%E6%9E%9C%E7%89%A9%E3%81%AE%E3%83%88%E3%83%83%E3%83%97%E5%B1%A4%E3%81%AE%E8%B3%AA%E6%84%9F%E3%82%92%E5%88%B6%E5%BE%A1%E3%81%99%E3%82%8B/</link>
-      <pubDate>Mon, 25 Nov 2024 23:02:35 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E9%9D%9E%E5%B9%B3%E9%9D%A2%E3%82%B9%E3%83%A9%E3%82%A4%E3%82%B9%E3%81%AB%E3%82%88%E3%82%8A3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E6%88%90%E6%9E%9C%E7%89%A9%E3%81%AE%E3%83%88%E3%83%83%E3%83%97%E5%B1%A4%E3%81%AE%E8%B3%AA%E6%84%9F%E3%82%92%E5%88%B6%E5%BE%A1%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/非平面スライスにより3Dプリント成果物のトップ層の質感を制御する.jpg"&gt;Fuzzy Skin Finish For 3D Prints, Now On Top Layersから発見。画像もここから転載。
-積層式の3Dプリント成果物の一番上の面の質感をカスタマイズする手法の紹介です。 通常この部分は平らに造形されますが、この手法を使うことでいい感じのざらざらな質感を実現できます。
-様々なスライサの後処理のスクリプトとして動作するように設計されているようで、比較的簡単に試すことができそうです。
  </description>
     </item>
     
