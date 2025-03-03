@@ -5,9 +5,45 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 27 Feb 2025 20:13:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 21:24:12 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PicoVision</title>
+      <link>https://inajob.github.io/iroiro-review/tags/picovision/</link>
+      <pubDate>Mon, 03 Mar 2025 21:24:12 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/picovision/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi Pico</title>
+      <link>https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico/</link>
+      <pubDate>Mon, 03 Mar 2025 21:24:12 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>RP2040</title>
+      <link>https://inajob.github.io/iroiro-review/tags/rp2040/</link>
+      <pubDate>Mon, 03 Mar 2025 21:24:12 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/rp2040/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>ハンドヘルドPC</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E3%83%8F%E3%83%B3%E3%83%89%E3%83%98%E3%83%AB%E3%83%89pc/</link>
+      <pubDate>Mon, 03 Mar 2025 21:24:12 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E3%83%8F%E3%83%B3%E3%83%89%E3%83%98%E3%83%AB%E3%83%89pc/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>フラップディスプレイ</title>
@@ -60,42 +96,6 @@
       <pubDate>Thu, 20 Feb 2025 23:30:42 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/hack/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>ゾートロープ</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E3%82%BE%E3%83%BC%E3%83%88%E3%83%AD%E3%83%BC%E3%83%97/</link>
-      <pubDate>Thu, 20 Feb 2025 23:30:42 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E3%82%BE%E3%83%BC%E3%83%88%E3%83%AD%E3%83%BC%E3%83%97/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>ボリュームディスプレイ</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%A0%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</link>
-      <pubDate>Thu, 20 Feb 2025 23:30:42 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%A0%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>Raspberry Pi Zero</title>
-      <link>https://inajob.github.io/iroiro-review/tags/raspberry-pi-zero/</link>
-      <pubDate>Wed, 19 Feb 2025 21:34:15 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/raspberry-pi-zero/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>PAM8403</title>
-      <link>https://inajob.github.io/iroiro-review/tags/pam8403/</link>
-      <pubDate>Tue, 18 Feb 2025 21:05:15 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/pam8403/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     

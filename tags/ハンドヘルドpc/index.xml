@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ハンドヘルドPC on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E3%83%8F%E3%83%B3%E3%83%89%E3%83%98%E3%83%AB%E3%83%89pc/</link>
+    <description>Recent content in ハンドヘルドPC on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Mon, 03 Mar 2025 21:24:12 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%83%8F%E3%83%B3%E3%83%89%E3%83%98%E3%83%AB%E3%83%89pc/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PicoVisionを使ったPDA的デバイス</title>
+      <link>https://inajob.github.io/iroiro-review/post/picovision%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fpda%E7%9A%84%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</link>
+      <pubDate>Mon, 03 Mar 2025 21:24:12 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/picovision%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fpda%E7%9A%84%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/PicoVisionを使ったPDA的デバイス.jpg"&gt;The Perfect Pi Pico Portable Computerから発見。画像もここから転載。
+手のひらサイズの情報端末をRaspberry Pi Picoを使って製作しています。 画面との接続はPicoVisionというRP2040搭載のモジュールを介してHDMIで実現されています。 つまりこの端末は、2つのRP2040を搭載し、1つはアプリケーション用、1つは画面出力用という構成になっています。
+キーボード部分も工夫があり、市販のキーボード付きのリモコンの部品を流用して、コンパクトな筐体にピッタリのキーボードを実現しています。
+ </description>
+    </item>
+    
+  </channel>
+</rss>
+

@@ -5,9 +5,21 @@
     <description>Recent content in RP2040 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 24 Dec 2024 23:30:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 21:24:12 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/rp2040/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PicoVisionを使ったPDA的デバイス</title>
+      <link>https://inajob.github.io/iroiro-review/post/picovision%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fpda%E7%9A%84%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</link>
+      <pubDate>Mon, 03 Mar 2025 21:24:12 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/picovision%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fpda%E7%9A%84%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/PicoVisionを使ったPDA的デバイス.jpg"&gt;The Perfect Pi Pico Portable Computerから発見。画像もここから転載。
+手のひらサイズの情報端末をRaspberry Pi Picoを使って製作しています。 画面との接続はPicoVisionというRP2040搭載のモジュールを介してHDMIで実現されています。 つまりこの端末は、2つのRP2040を搭載し、1つはアプリケーション用、1つは画面出力用という構成になっています。
+キーボード部分も工夫があり、市販のキーボード付きのリモコンの部品を流用して、コンパクトな筐体にピッタリのキーボードを実現しています。
+ </description>
+    </item>
     
     <item>
       <title>M.2端子に対応したRP2040ボード</title>
@@ -116,18 +128,6 @@ RP2040で静電容量タッチを扱う方法を紹介する記事です。
 Raspberry Pi PicoのGPIOに大きな抵抗を取り付けて、CircuitPythonのtouchioというライブラリを使って静電容量タッチを検出しています。
 仕組みとしては、大きな抵抗を介してGNDに接続された金属の電位の変化を読み取っているようです。
  </description>
-    </item>
-    
-    <item>
-      <title>オープンソースのRaspberry Pi Pico互換ボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AEraspberry-pi-pico%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Tue, 09 Jan 2024 23:27:32 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AEraspberry-pi-pico%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/オープンソースのRaspberry Pi Pico互換ボード.jpg"&gt;ProPico For Your Pro Pico Needsから発見。画像もここから転載。
-オープンソースのRaspberry Pi Pico互換ボードの作例です。
-Raspberry Pi Picoはよくできているボードですが、その構成を見直し、同じフットプリントで、より扱いやすくしたものが、これです。
-プログラミング時に役立つRUNボタンを搭載し、Type-C端子、レギュレータは一般的な1117を使うなどが主な違いです。</description>
     </item>
     
   </channel>
