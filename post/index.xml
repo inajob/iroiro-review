@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 03 Mar 2025 21:24:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 22:27:54 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>中指にはめ込む方式のマウス</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E4%B8%AD%E6%8C%87%E3%81%AB%E3%81%AF%E3%82%81%E8%BE%BC%E3%82%80%E6%96%B9%E5%BC%8F%E3%81%AE%E3%83%9E%E3%82%A6%E3%82%B9/</link>
+      <pubDate>Tue, 04 Mar 2025 22:27:54 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E4%B8%AD%E6%8C%87%E3%81%AB%E3%81%AF%E3%82%81%E8%BE%BC%E3%82%80%E6%96%B9%E5%BC%8F%E3%81%AE%E3%83%9E%E3%82%A6%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/中指にはめ込む方式のマウス.jpg"&gt;Tiny Mouse Ring Uses Prox Sensorsから発見。画像もここから転載。
+中指にはめ込む方式の一風変わったマウスです。 位置のセンシングには、一般的なマウスと同じ光学センサーを用いていますが、クリックの判定には近接センサーを用いています。 中指から左右に近接センサーが2つ配置されており、人差し指と、薬指の動きをセンシングして、クリックの動作を検出しているのです。
+小型のマウスのアイデアはいろいろありますが、センサーを工夫することで、ここまで小さくできるのは面白いです。
+ </description>
+    </item>
     
     <item>
       <title>PicoVisionを使ったPDA的デバイス</title>
@@ -122,17 +134,6 @@ Forthが動くキーボード一体型ガジェットです。 キーボード�
 ソフトウェアについても細かい言及はないですが、ソースコードエディタやドット絵エディタやマップエディタ、音楽作成ツールや、アセンブラ、デバッガが予定されているようです。
 現在Pre Ordre中のようなので、興味のある人は注文してみるのはどうでしょう？
  </description>
-    </item>
-    
-    <item>
-      <title>光造形3Dプリンタでレンズを作るときの後加工にサランラップが役立つ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%85%89%E9%80%A0%E5%BD%A23d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%AC%E3%83%B3%E3%82%BA%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%A8%E3%81%8D%E3%81%AE%E5%BE%8C%E5%8A%A0%E5%B7%A5%E3%81%AB%E3%82%B5%E3%83%A9%E3%83%B3%E3%83%A9%E3%83%83%E3%83%97%E3%81%8C%E5%BD%B9%E7%AB%8B%E3%81%A4/</link>
-      <pubDate>Sun, 16 Feb 2025 21:33:14 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%85%89%E9%80%A0%E5%BD%A23d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%AC%E3%83%B3%E3%82%BA%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%A8%E3%81%8D%E3%81%AE%E5%BE%8C%E5%8A%A0%E5%B7%A5%E3%81%AB%E3%82%B5%E3%83%A9%E3%83%B3%E3%83%A9%E3%83%83%E3%83%97%E3%81%8C%E5%BD%B9%E7%AB%8B%E3%81%A4/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/光造形3Dプリンタでレンズを作るときの後加工にサランラップが役立つ.jpg"&gt;The Lowest-Effort Way Yet To Make 3D Printed Lenses Clearから発見。画像もここから転載。
-光造形3Dプリンタ透明の素材を使うことでレンズも作ることができるのですが、後加工が非常に面倒です。 この記事では透明な樹脂を光造形3Dプリンタ造形物の表面に塗布して、その上にサランラップをかぶせて硬化させることで、非常に簡単にレンズを作る方法を紹介しています。
-やすりで磨くよりも簡単にレンズを作ることができる、面白い手法です。</description>
     </item>
     
   </channel>

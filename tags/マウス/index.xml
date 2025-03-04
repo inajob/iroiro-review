@@ -5,9 +5,21 @@
     <description>Recent content in マウス on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 26 Nov 2024 23:26:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 22:27:54 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%83%9E%E3%82%A6%E3%82%B9/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>中指にはめ込む方式のマウス</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E4%B8%AD%E6%8C%87%E3%81%AB%E3%81%AF%E3%82%81%E8%BE%BC%E3%82%80%E6%96%B9%E5%BC%8F%E3%81%AE%E3%83%9E%E3%82%A6%E3%82%B9/</link>
+      <pubDate>Tue, 04 Mar 2025 22:27:54 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E4%B8%AD%E6%8C%87%E3%81%AB%E3%81%AF%E3%82%81%E8%BE%BC%E3%82%80%E6%96%B9%E5%BC%8F%E3%81%AE%E3%83%9E%E3%82%A6%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/中指にはめ込む方式のマウス.jpg"&gt;Tiny Mouse Ring Uses Prox Sensorsから発見。画像もここから転載。
+中指にはめ込む方式の一風変わったマウスです。 位置のセンシングには、一般的なマウスと同じ光学センサーを用いていますが、クリックの判定には近接センサーを用いています。 中指から左右に近接センサーが2つ配置されており、人差し指と、薬指の動きをセンシングして、クリックの動作を検出しているのです。
+小型のマウスのアイデアはいろいろありますが、センサーを工夫することで、ここまで小さくできるのは面白いです。
+ </description>
+    </item>
     
     <item>
       <title>マウスに変わる新しいポインティングデバイス</title>
