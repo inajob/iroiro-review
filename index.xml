@@ -5,9 +5,19 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 06 Mar 2025 23:27:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Mar 2025 21:25:10 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raspberry Pi Picoは公称で200MHzで動かせる</title>
+      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%81%AF%E5%85%AC%E7%A7%B0%E3%81%A7200mhz%E3%81%A7%E5%8B%95%E3%81%8B%E3%81%9B%E3%82%8B/</link>
+      <pubDate>Sun, 09 Mar 2025 21:25:10 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%81%AF%E5%85%AC%E7%A7%B0%E3%81%A7200mhz%E3%81%A7%E5%8B%95%E3%81%8B%E3%81%9B%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi Picoは公称で200MHzで動かせる.jpg"&gt;Pico Gets A Speed Bumpから発見。画像もここから転載。
+Raspberry Pi Picoはここまでのところ125MHzで動くとのことでしたが、今回公称で200MHzで動かせるということが発表されました。 今まで同じソフトウェアがより早く動くようになるので、うれしい発表です。</description>
+    </item>
     
     <item>
       <title>低解像度ディスプレイむけの画面設計ツール</title>
@@ -116,21 +126,6 @@
 スマートフォンを回転させることで3Dディスプレイを実現するという技術のデモです。 いわゆるゾートロープといわれているものにスマートフォンを組み合わせたような仕組みのようです。
 単にスマートフォンを回転させつつ、画像を表示するだけでなく、ゾートロープと同じようにスリットごしに覗くような仕組みにすることで、人間の錯覚によりボリュームディスプレイを実現しているようです。
  </description>
-    </item>
-    
-    <item>
-      <title>単三電池3本で動く携帯Linux端末</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%8D%98%E4%B8%89%E9%9B%BB%E6%B1%A03%E6%9C%AC%E3%81%A7%E5%8B%95%E3%81%8F%E6%90%BA%E5%B8%AFlinux%E7%AB%AF%E6%9C%AB/</link>
-      <pubDate>Wed, 19 Feb 2025 21:34:15 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%8D%98%E4%B8%89%E9%9B%BB%E6%B1%A03%E6%9C%AC%E3%81%A7%E5%8B%95%E3%81%8F%E6%90%BA%E5%B8%AFlinux%E7%AB%AF%E6%9C%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/単三電池3本で動く携帯Linux端末.jpg"&gt;emutyさんのPostから発見。画像もここから転載。
-単三電池3本で動く携帯Linux端末の作例です。 こういう作例だとリチウムイオンバッテリーを使うことが多いですが、乾電池3本ということで二次電池特有の難しさなどはなく、素朴な構成がよさそうです。
-アクリル板を加工して作られたぴったりのケースに納めてあり、どこでも簡単にプログラミングなどが出来そうです。
-まさか完成するとはwとか思ってる「単3電池3本(3.6V)で動くLinuxノート」ですが作って大正解でした、毎日見ながらニヤニヤしてる(笑)
-2024/12時点ではケースとか全然決めてなかったんですがアクリル板加工するの楽しかったので次も何かつくろうかなと
-思い立ったら即行動いきおい大事 :D https://t.co/wwy7EJchJ0 pic.twitter.com/qmqWxLJRRl
-&amp;mdash; emuty (@emutyworks) January 8, 2025  </description>
     </item>
     
   </channel>
