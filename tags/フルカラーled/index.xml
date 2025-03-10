@@ -5,9 +5,20 @@
     <description>Recent content in フルカラーLED on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 29 Aug 2024 22:35:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2025 20:38:30 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCled/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>フルカラーLEDの動作テスト用ボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCled%E3%81%AE%E5%8B%95%E4%BD%9C%E3%83%86%E3%82%B9%E3%83%88%E7%94%A8%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Mon, 10 Mar 2025 20:38:30 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCled%E3%81%AE%E5%8B%95%E4%BD%9C%E3%83%86%E3%82%B9%E3%83%88%E7%94%A8%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/フルカラーLEDの動作テスト用ボード.jpg"&gt;To Test A (Smart) LEDから発見。画像もここから転載。
+シリアル制御できるフルカラーLEDは、よく使われる部品ですが、たまに色がおかしい個体が紛れ込んでいることがあります。 この記事で紹介しているのはフルカラーLEDの動作テスト用ボードで、フルカラーLEDを押し付けることで、簡単にテストすることができます。
+ </description>
+    </item>
     
     <item>
       <title>ミニマルな2048ゲーム機</title>
@@ -112,17 +123,6 @@
 シリアル制御のフルカラーLEDはかなり安く入手できます。 こういうLEDを7つ並べることで作られた7セグメント表示機の作例です。
 横方向に光る細長いフルカラーLEDであるSK6812を活用しうまくセグメントを表現しています。
 また、基板を拡散板として利用することで、基板だけで表示機を構成しています。</description>
-    </item>
-    
-    <item>
-      <title>フルカラーストリップLEDをいい感じに表示するワンライナー的な関数集</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%83%83%E3%83%97led%E3%82%92%E3%81%84%E3%81%84%E6%84%9F%E3%81%98%E3%81%AB%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B%E3%83%AF%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%E7%9A%84%E3%81%AA%E9%96%A2%E6%95%B0%E9%9B%86/</link>
-      <pubDate>Thu, 31 Mar 2022 23:47:39 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%83%83%E3%83%97led%E3%82%92%E3%81%84%E3%81%84%E6%84%9F%E3%81%98%E3%81%AB%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B%E3%83%AF%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%E7%9A%84%E3%81%AA%E9%96%A2%E6%95%B0%E9%9B%86/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/フルカラーストリップLEDをいい感じに表示するワンライナー的な関数集.jpg"&gt;Technoblogy - Controlling RGB LED Strips with a Single Functionから発見。画像もここから転載。
-フルカラーストリップLEDをいい感じに表示するワンライナー的な関数集の紹介記事です。 ソースコードに加えて、グラフやアニメーションgifを用いて、わかりやすく紹介されています。
-コントローラは比較的パワフルなATSAMD21を用いています。</description>
     </item>
     
   </channel>
