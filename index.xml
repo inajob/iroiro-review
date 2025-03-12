@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 11 Mar 2025 21:41:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 21:18:41 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DJをするためのモバイルコンピュータ</title>
+      <link>https://inajob.github.io/iroiro-review/post/dj%E3%82%92%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF/</link>
+      <pubDate>Wed, 12 Mar 2025 21:18:41 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/dj%E3%82%92%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/DJをするためのモバイルコンピュータ.jpg"&gt;hsgwさんのPostから発見。画像もここから転載。
+横長のディスプレイとRaspberry Pi、メカニカルキーボードをいい感じに納めたDJのためのモバイルコンピュータの作例です 横長の画面が、横向きに時系列を表示する作曲系のソフトと相性がよさそうです。
+コンパクトな筐体もほかのDTM機器と一緒に並べやすくて便利そうです。
+データも公開されています</description>
+    </item>
     
     <item>
       <title>RustでESP32の開発ができるようになった</title>
@@ -111,18 +123,6 @@ Raspberry Pi Picoはここまでのところ125MHzで動くとのことでした
 3Dプリンタで印刷したカエルさんを塗り塗りしました。
 このペンは3Dプリンタ品でも滲まなくておすすめです。 pic.twitter.com/fbqIodki8i
 &amp;mdash; マナカル磐田 (@manacaliwata) February 20, 2025  </description>
-    </item>
-    
-    <item>
-      <title>フリップ式のドットを並べたデジタルなアナログ風時計</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%83%AA%E3%83%83%E3%83%97%E5%BC%8F%E3%81%AE%E3%83%89%E3%83%83%E3%83%88%E3%82%92%E4%B8%A6%E3%81%B9%E3%81%9F%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%81%AA%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E9%A2%A8%E6%99%82%E8%A8%88/</link>
-      <pubDate>Tue, 25 Feb 2025 23:27:39 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%83%AA%E3%83%83%E3%83%97%E5%BC%8F%E3%81%AE%E3%83%89%E3%83%83%E3%83%88%E3%82%92%E4%B8%A6%E3%81%B9%E3%81%9F%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%81%AA%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E9%A2%A8%E6%99%82%E8%A8%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/フリップ式のドットを並べたデジタルなアナログ風時計.jpg"&gt;Split-Flap Clock Flutters Its Way To Displaying Time Without Numbersから発見。画像もここから転載。
-フリップドットディスプレイというと、5×8程度の文字表示のためのものを想像しますが、この記事で紹介しているのはアナログ時計です。 遠目で見るとドット絵の時計のような見た目ですが、このドットがフリップドットとなっており、実際に時計として動作したり、アニメーションを表示できたりします。
-この方式にすることで、何か便利になる、というものではありませんが、見た目がユニークで印象に残る作例です。
- </description>
     </item>
     
   </channel>
