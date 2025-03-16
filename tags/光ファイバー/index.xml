@@ -5,9 +5,21 @@
     <description>Recent content in 光ファイバー on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 14 Feb 2024 23:37:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Mar 2025 21:06:18 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>光ファイバーを使ってドットマトリクスLEDから一風変わった表示機を作る</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%81%8B%E3%82%89%E4%B8%80%E9%A2%A8%E5%A4%89%E3%82%8F%E3%81%A3%E3%81%9F%E8%A1%A8%E7%A4%BA%E6%A9%9F%E3%82%92%E4%BD%9C%E3%82%8B/</link>
+      <pubDate>Sun, 16 Mar 2025 21:06:18 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%81%8B%E3%82%89%E4%B8%80%E9%A2%A8%E5%A4%89%E3%82%8F%E3%81%A3%E3%81%9F%E8%A1%A8%E7%A4%BA%E6%A9%9F%E3%82%92%E4%BD%9C%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/光ファイバーを使ってドットマトリクスLEDから一風変わった表示機を作る.jpg"&gt;Cheap Fiber Optic Wand Toy Becomes Tiny Weird Displayから発見。画像もここから転載。
+光ファイバーを使うと、光を好きな場所に移動させることができます。 この作例では雑貨屋で買った光ファイバーを流用してドットマトリクスLEDの光を円形に寄せ集めて面白い表示機を作っています。
+テキトーに束ねた光ファイバーがドットマトリクスLEDとどう関連しているかは、カメラを使ってフィードバックを得ることで実現しています。
+ </description>
+    </item>
     
     <item>
       <title>光ファイバーで導光した7セグ</title>

@@ -5,9 +5,21 @@
     <description>Recent content in 表示機 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 23 Jan 2025 23:27:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Mar 2025 21:06:18 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E8%A1%A8%E7%A4%BA%E6%A9%9F/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>光ファイバーを使ってドットマトリクスLEDから一風変わった表示機を作る</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%81%8B%E3%82%89%E4%B8%80%E9%A2%A8%E5%A4%89%E3%82%8F%E3%81%A3%E3%81%9F%E8%A1%A8%E7%A4%BA%E6%A9%9F%E3%82%92%E4%BD%9C%E3%82%8B/</link>
+      <pubDate>Sun, 16 Mar 2025 21:06:18 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%81%8B%E3%82%89%E4%B8%80%E9%A2%A8%E5%A4%89%E3%82%8F%E3%81%A3%E3%81%9F%E8%A1%A8%E7%A4%BA%E6%A9%9F%E3%82%92%E4%BD%9C%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/光ファイバーを使ってドットマトリクスLEDから一風変わった表示機を作る.jpg"&gt;Cheap Fiber Optic Wand Toy Becomes Tiny Weird Displayから発見。画像もここから転載。
+光ファイバーを使うと、光を好きな場所に移動させることができます。 この作例では雑貨屋で買った光ファイバーを流用してドットマトリクスLEDの光を円形に寄せ集めて面白い表示機を作っています。
+テキトーに束ねた光ファイバーがドットマトリクスLEDとどう関連しているかは、カメラを使ってフィードバックを得ることで実現しています。
+ </description>
+    </item>
     
     <item>
       <title>バネを横向きに引っ張る面白い表示器</title>
@@ -113,19 +125,6 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/144×72のカラーメモリ液晶モジュール.jpg"&gt;Ultra-Low Power JDI 0.96&amp;quot; 144x72 Color Memory LCD by Questwise Ventures on Tindieから発見。画像もここから転載。
 電力消費のすくないフルカラーメモリ液晶の紹介です。
 0.96インチで144×72と解像度は小さいですが、カラーのメモリ液晶で入手しやすいものはあまり聞いたことが無いので、省エネガジェットを作りたい人は要チェックです。
- </description>
-    </item>
-    
-    <item>
-      <title>アクリル板に傷をつけて作られた7セグ表示機</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E6%9D%BF%E3%81%AB%E5%82%B7%E3%82%92%E3%81%A4%E3%81%91%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F7%E3%82%BB%E3%82%B0%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
-      <pubDate>Sun, 28 Jul 2024 22:38:20 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E6%9D%BF%E3%81%AB%E5%82%B7%E3%82%92%E3%81%A4%E3%81%91%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F7%E3%82%BB%E3%82%B0%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/アクリル板に傷をつけて作られた7セグ表示機.jpg"&gt;An Easy Transparent Edge Lit Displayから発見。画像もここから転載。
-アクリル板に傷をつけて作られた7セグ表示機の作例です。
-傷をつけたアクリル板を重ねて、それぞれのアクリル板の端からLEDで光を照らすことでそのアクリル板の傷を浮かび上がらせるという仕組みなのですが、この作例ではセグメントの形の傷をつけるために3Dプリントしたステンシルを利用し手作業で削っているところが印象的でした。
-型を使うことで、様々な形のセグメントに対応でき、また3Dプリンタさえ持っていれば気軽に作成できるところが良いと感じました。
  </description>
     </item>
     

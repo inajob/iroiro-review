@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 13 Mar 2025 23:45:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Mar 2025 21:06:18 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>光ファイバーを使ってドットマトリクスLEDから一風変わった表示機を作る</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%81%8B%E3%82%89%E4%B8%80%E9%A2%A8%E5%A4%89%E3%82%8F%E3%81%A3%E3%81%9F%E8%A1%A8%E7%A4%BA%E6%A9%9F%E3%82%92%E4%BD%9C%E3%82%8B/</link>
+      <pubDate>Sun, 16 Mar 2025 21:06:18 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%81%8B%E3%82%89%E4%B8%80%E9%A2%A8%E5%A4%89%E3%82%8F%E3%81%A3%E3%81%9F%E8%A1%A8%E7%A4%BA%E6%A9%9F%E3%82%92%E4%BD%9C%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/光ファイバーを使ってドットマトリクスLEDから一風変わった表示機を作る.jpg"&gt;Cheap Fiber Optic Wand Toy Becomes Tiny Weird Displayから発見。画像もここから転載。
+光ファイバーを使うと、光を好きな場所に移動させることができます。 この作例では雑貨屋で買った光ファイバーを流用してドットマトリクスLEDの光を円形に寄せ集めて面白い表示機を作っています。
+テキトーに束ねた光ファイバーがドットマトリクスLEDとどう関連しているかは、カメラを使ってフィードバックを得ることで実現しています。
+ </description>
+    </item>
     
     <item>
       <title>3×3のフルカラーLEDとスイッチを搭載した携帯ゲーム機</title>
@@ -107,18 +119,6 @@ Raspberry Pi Picoはここまでのところ125MHzで動くとのことでした
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/PicoVisionを使ったPDA的デバイス.jpg"&gt;The Perfect Pi Pico Portable Computerから発見。画像もここから転載。
 手のひらサイズの情報端末をRaspberry Pi Picoを使って製作しています。 画面との接続はPicoVisionというRP2040搭載のモジュールを介してHDMIで実現されています。 つまりこの端末は、2つのRP2040を搭載し、1つはアプリケーション用、1つは画面出力用という構成になっています。
 キーボード部分も工夫があり、市販のキーボード付きのリモコンの部品を流用して、コンパクトな筐体にピッタリのキーボードを実現しています。
- </description>
-    </item>
-    
-    <item>
-      <title>64種の文字を表示できるフラップディスプレイ</title>
-      <link>https://inajob.github.io/iroiro-review/post/64%E7%A8%AE%E3%81%AE%E6%96%87%E5%AD%97%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%95%E3%83%A9%E3%83%83%E3%83%97%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</link>
-      <pubDate>Thu, 27 Feb 2025 20:13:17 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/64%E7%A8%AE%E3%81%AE%E6%96%87%E5%AD%97%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%95%E3%83%A9%E3%83%83%E3%83%97%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/64種の文字を表示できるフラップディスプレイ.jpg"&gt;Split-Flap Clock Makes A Nice Side Quest In Larger Projectから発見。画像もここから転載。
-自作の64種の文字を表示できるフラップディスプレイの作例です。 CNCで木材を削り、フラップ部分をカットして、見栄えの良い表示器を作成しています。
-思ったより仕組みは難しくないので、自分独自のディスプレイを作ることもできそうです。
  </description>
     </item>
     
