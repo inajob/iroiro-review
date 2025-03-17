@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 16 Mar 2025 21:06:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 23:25:04 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>シフトレジスタの動きも学べるLEDおもちゃ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%95%E3%83%88%E3%83%AC%E3%82%B8%E3%82%B9%E3%82%BF%E3%81%AE%E5%8B%95%E3%81%8D%E3%82%82%E5%AD%A6%E3%81%B9%E3%82%8Bled%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83/</link>
+      <pubDate>Mon, 17 Mar 2025 23:25:04 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%95%E3%83%88%E3%83%AC%E3%82%B8%E3%82%B9%E3%82%BF%E3%81%AE%E5%8B%95%E3%81%8D%E3%82%82%E5%AD%A6%E3%81%B9%E3%82%8Bled%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/シフトレジスタの動きも学べるLEDおもちゃ.jpg"&gt;Shift Register Menorah Pin - Soldering Kit by Jack And Steph&amp;rsquo;s Workshop on Tindieから発見。画像もここから転載。
+マイコンを使った電子工作で、GPIOが足りないときに活躍する部品としてシフトレジスタがあります。（ほかにもいろいろ使い道がありますが、自分はこの使い方が多いです）
+この作例ではこのシフトレジスタを使って、9個のLEDを順番に点灯させるおもちゃを作っています。 シフトレジスタの動きを目で確認できるのが面白いです。
+ </description>
+    </item>
     
     <item>
       <title>光ファイバーを使ってドットマトリクスLEDから一風変わった表示機を作る</title>
@@ -107,18 +119,6 @@ Raspberry Pi Picoはここまでのところ125MHzで動くとのことでした
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/中指にはめ込む方式のマウス.jpg"&gt;Tiny Mouse Ring Uses Prox Sensorsから発見。画像もここから転載。
 中指にはめ込む方式の一風変わったマウスです。 位置のセンシングには、一般的なマウスと同じ光学センサーを用いていますが、クリックの判定には近接センサーを用いています。 中指から左右に近接センサーが2つ配置されており、人差し指と、薬指の動きをセンシングして、クリックの動作を検出しているのです。
 小型のマウスのアイデアはいろいろありますが、センサーを工夫することで、ここまで小さくできるのは面白いです。
- </description>
-    </item>
-    
-    <item>
-      <title>PicoVisionを使ったPDA的デバイス</title>
-      <link>https://inajob.github.io/iroiro-review/post/picovision%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fpda%E7%9A%84%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</link>
-      <pubDate>Mon, 03 Mar 2025 21:24:12 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/picovision%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fpda%E7%9A%84%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/PicoVisionを使ったPDA的デバイス.jpg"&gt;The Perfect Pi Pico Portable Computerから発見。画像もここから転載。
-手のひらサイズの情報端末をRaspberry Pi Picoを使って製作しています。 画面との接続はPicoVisionというRP2040搭載のモジュールを介してHDMIで実現されています。 つまりこの端末は、2つのRP2040を搭載し、1つはアプリケーション用、1つは画面出力用という構成になっています。
-キーボード部分も工夫があり、市販のキーボード付きのリモコンの部品を流用して、コンパクトな筐体にピッタリのキーボードを実現しています。
  </description>
     </item>
     

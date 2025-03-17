@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>シフトレジスタ on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E3%82%B7%E3%83%95%E3%83%88%E3%83%AC%E3%82%B8%E3%82%B9%E3%82%BF/</link>
+    <description>Recent content in シフトレジスタ on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Mon, 17 Mar 2025 23:25:04 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%82%B7%E3%83%95%E3%83%88%E3%83%AC%E3%82%B8%E3%82%B9%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>シフトレジスタの動きも学べるLEDおもちゃ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%95%E3%83%88%E3%83%AC%E3%82%B8%E3%82%B9%E3%82%BF%E3%81%AE%E5%8B%95%E3%81%8D%E3%82%82%E5%AD%A6%E3%81%B9%E3%82%8Bled%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83/</link>
+      <pubDate>Mon, 17 Mar 2025 23:25:04 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%95%E3%83%88%E3%83%AC%E3%82%B8%E3%82%B9%E3%82%BF%E3%81%AE%E5%8B%95%E3%81%8D%E3%82%82%E5%AD%A6%E3%81%B9%E3%82%8Bled%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/シフトレジスタの動きも学べるLEDおもちゃ.jpg"&gt;Shift Register Menorah Pin - Soldering Kit by Jack And Steph&amp;rsquo;s Workshop on Tindieから発見。画像もここから転載。
+マイコンを使った電子工作で、GPIOが足りないときに活躍する部品としてシフトレジスタがあります。（ほかにもいろいろ使い道がありますが、自分はこの使い方が多いです）
+この作例ではこのシフトレジスタを使って、9個のLEDを順番に点灯させるおもちゃを作っています。 シフトレジスタの動きを目で確認できるのが面白いです。
+ </description>
+    </item>
+    
+  </channel>
+</rss>
+
