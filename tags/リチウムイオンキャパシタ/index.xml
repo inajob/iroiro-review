@@ -5,9 +5,20 @@
     <description>Recent content in リチウムイオンキャパシタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 05 Mar 2024 23:21:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Mar 2025 23:42:37 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%83%AA%E3%83%81%E3%82%A6%E3%83%A0%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%AD%E3%83%A3%E3%83%91%E3%82%B7%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>太陽光で動作する電子書籍リーダー</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%A4%AA%E9%99%BD%E5%85%89%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC/</link>
+      <pubDate>Tue, 18 Mar 2025 23:42:37 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%A4%AA%E9%99%BD%E5%85%89%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/太陽光で動作する電子書籍リーダー.jpg"&gt;Solar-Powered E-Reader With No Buttonsから発見。画像もここから転載。
+市販の電子ペーパー端末には多くの機能が搭載されていますが、それゆえにバッテリーがそこまで持たないものもあります。 この記事では、ソーラーパネルで充電し、リチウムイオンキャパシタに蓄電して、その電力で動作する電子ペーパー端末を自作しています。
+電子書籍を読むための必要最小限の構成にすることで、省エネを実現しています。 また一般的にはリチウムイオンバッテリーよりリチウムイオンキャパシタのほうが長持ちするので、製品寿命も長そうです。</description>
+    </item>
     
     <item>
       <title>3分充電で20時間光るイヤリング</title>

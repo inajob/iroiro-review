@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 17 Mar 2025 23:25:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Mar 2025 23:42:37 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>太陽光で動作する電子書籍リーダー</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%A4%AA%E9%99%BD%E5%85%89%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC/</link>
+      <pubDate>Tue, 18 Mar 2025 23:42:37 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%A4%AA%E9%99%BD%E5%85%89%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/太陽光で動作する電子書籍リーダー.jpg"&gt;Solar-Powered E-Reader With No Buttonsから発見。画像もここから転載。
+市販の電子ペーパー端末には多くの機能が搭載されていますが、それゆえにバッテリーがそこまで持たないものもあります。 この記事では、ソーラーパネルで充電し、リチウムイオンキャパシタに蓄電して、その電力で動作する電子ペーパー端末を自作しています。
+電子書籍を読むための必要最小限の構成にすることで、省エネを実現しています。 また一般的にはリチウムイオンバッテリーよりリチウムイオンキャパシタのほうが長持ちするので、製品寿命も長そうです。</description>
+    </item>
     
     <item>
       <title>シフトレジスタの動きも学べるLEDおもちゃ</title>
@@ -108,18 +119,6 @@ Raspberry Pi Picoはここまでのところ125MHzで動くとのことでした
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/M5Stackをシリアル端末にする.jpg"&gt;akita11/JunichiAkitaさんのPostから発見。画像もここから転載。
 シリアル通信は、Arduinoなどを使う際にパソコンとやり取りするために多く使われていますが、これをM5Stackでも受け取れるようにした作例です。 エスケープシーケンスなどには対応していないようですが、ちょっとしたデバッグならこれでもできそうです。
 またCardKB を使った文字の入力にも対応しているようです。</description>
-    </item>
-    
-    <item>
-      <title>中指にはめ込む方式のマウス</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E4%B8%AD%E6%8C%87%E3%81%AB%E3%81%AF%E3%82%81%E8%BE%BC%E3%82%80%E6%96%B9%E5%BC%8F%E3%81%AE%E3%83%9E%E3%82%A6%E3%82%B9/</link>
-      <pubDate>Tue, 04 Mar 2025 22:27:54 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E4%B8%AD%E6%8C%87%E3%81%AB%E3%81%AF%E3%82%81%E8%BE%BC%E3%82%80%E6%96%B9%E5%BC%8F%E3%81%AE%E3%83%9E%E3%82%A6%E3%82%B9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/中指にはめ込む方式のマウス.jpg"&gt;Tiny Mouse Ring Uses Prox Sensorsから発見。画像もここから転載。
-中指にはめ込む方式の一風変わったマウスです。 位置のセンシングには、一般的なマウスと同じ光学センサーを用いていますが、クリックの判定には近接センサーを用いています。 中指から左右に近接センサーが2つ配置されており、人差し指と、薬指の動きをセンシングして、クリックの動作を検出しているのです。
-小型のマウスのアイデアはいろいろありますが、センサーを工夫することで、ここまで小さくできるのは面白いです。
- </description>
     </item>
     
   </channel>
