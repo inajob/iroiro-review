@@ -5,9 +5,21 @@
     <description>Recent content in ゲーム機 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 13 Mar 2025 23:45:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Mar 2025 23:51:19 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2キーとOLED搭載のコンパクト携帯ゲーム機</title>
+      <link>https://inajob.github.io/iroiro-review/post/2%E3%82%AD%E3%83%BC%E3%81%A8oled%E6%90%AD%E8%BC%89%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Thu, 20 Mar 2025 23:51:19 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/2%E3%82%AD%E3%83%BC%E3%81%A8oled%E6%90%AD%E8%BC%89%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/2キーとOLED搭載のコンパクト携帯ゲーム機.jpg"&gt;Handheld PONG Consoleから発見。画像もここから転載。
+2キーとOLED搭載のコンパクト携帯ゲーム機の作例です。 128x32のOLEDとXIAO ESP32を使ったシンプルな構成です。
+3Dプリンタで作ったグリップがいい感じで、いかにも「ゲーム機」という見た目が魅力的です。
+この解像度と２つのキーでどのようなゲームが作れるかというのが気になります。</description>
+    </item>
     
     <item>
       <title>3×3のフルカラーLEDとスイッチを搭載した携帯ゲーム機</title>
@@ -112,19 +124,6 @@ ATtiny84のDIPパッケージのもののICの樹脂部分を少し削って、�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ミニマルなカートリッジ式のゲーム機.jpg"&gt;2024 Tiny Games Contest: An Epic Minimalist Entertainment System, Indeedから発見。画像もここから転載。
 ミニマルなカートリッジ式のゲーム機の作例です。 ディプレイはGPD340という5×7が2つ並んだような小型の表示器を利用し、カートリッジはATtiny10です。
 ATtiny10の4つしかないGPIOを活用して、4ボタンとディプレイの制御、スピーカーの駆動を実現しています。
- </description>
-    </item>
-    
-    <item>
-      <title>既存の携帯ゲーム機をArduboy化する</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%97%A2%E5%AD%98%E3%81%AE%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E3%82%92arduboy%E5%8C%96%E3%81%99%E3%82%8B/</link>
-      <pubDate>Mon, 02 Sep 2024 00:05:41 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%97%A2%E5%AD%98%E3%81%AE%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E3%82%92arduboy%E5%8C%96%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/既存の携帯ゲーム機をArduboy化する.jpg"&gt;One-day project: Wibraboyから発見。画像もここから転載。
-携帯ミニゲーム機は市場に溢れており、500円以内で買うことが出来るものも多いです。
-この記事ではそんな携帯ゲーム機の筐体を流用してArduboy互換機を作成しています。
-筐体とスイッチ以外は総取り替えでガワだけ流用してるという感じです。
  </description>
     </item>
     
