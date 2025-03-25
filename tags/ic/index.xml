@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IC on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/ic/</link>
+    <description>Recent content in IC on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Tue, 25 Mar 2025 20:57:02 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/ic/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>1.6mm×0.86mmの小型のIC</title>
+      <link>https://inajob.github.io/iroiro-review/post/1.6mm0.86mm%E3%81%AE%E5%B0%8F%E5%9E%8B%E3%81%AEic/</link>
+      <pubDate>Tue, 25 Mar 2025 20:57:02 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/1.6mm0.86mm%E3%81%AE%E5%B0%8F%E5%9E%8B%E3%81%AEic/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/1.6mm×0.86mmの小型のIC.jpg"&gt;Ask Hackaday: What Would You Do With The World’s Smallest Microcontroller?から発見。画像もここから転載。
+1.6mm×0.86mmの小型のICです。 この手の小さなマイコンは性能もそこそこのイメージがありますが、このマイコンは24-MHz Cortex M0+ ROM15KB,RAM1KBと意外とリッチなリソースを持っています。
+ここまで小さいと実装するのも一苦労ですが、小さな作品を作りたい人は便利に使えるかもしれません。
+ </description>
+    </item>
+    
+  </channel>
+</rss>
+
