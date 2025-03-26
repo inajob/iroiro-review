@@ -5,9 +5,19 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 25 Mar 2025 20:57:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Mar 2025 21:21:14 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>F1C100s搭載のLinuxボードを自作する</title>
+      <link>https://inajob.github.io/iroiro-review/post/f1c100s%E6%90%AD%E8%BC%89%E3%81%AElinux%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%99%E3%82%8B/</link>
+      <pubDate>Wed, 26 Mar 2025 21:21:14 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/f1c100s%E6%90%AD%E8%BC%89%E3%81%AElinux%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/F1C100s搭載のLinuxボードを自作する.jpg"&gt;kokensha_tech 電子工作 YouTube! さんのPostから発見。画像もここから転載。
+F1C100sというメモリも内蔵されたSoCを搭載したLinuxボードです。 基板上の部品が役割ごとにグループ化されて、シルクに刻印されているため、構成がわかりやすいです。 ここまで複雑な基板を自分で設計できるようになると夢が広がりそうです。</description>
+    </item>
     
     <item>
       <title>1.6mm×0.86mmの小型のIC</title>
@@ -112,16 +122,6 @@
 横長のディスプレイとRaspberry Pi、メカニカルキーボードをいい感じに納めたDJのためのモバイルコンピュータの作例です 横長の画面が、横向きに時系列を表示する作曲系のソフトと相性がよさそうです。
 コンパクトな筐体もほかのDTM機器と一緒に並べやすくて便利そうです。
 データも公開されています</description>
-    </item>
-    
-    <item>
-      <title>RustでESP32の開発ができるようになった</title>
-      <link>https://inajob.github.io/iroiro-review/post/rust%E3%81%A7esp32%E3%81%AE%E9%96%8B%E7%99%BA%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F/</link>
-      <pubDate>Tue, 11 Mar 2025 21:41:04 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/rust%E3%81%A7esp32%E3%81%AE%E9%96%8B%E7%99%BA%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/RustでESP32の開発ができるようになった.jpg"&gt;Esp-hal, A Stable-API ESP32 HAL Gift For Your Rust Codeから発見。画像もここから転載。
-Rustというと今はやりのプログラミング言語です。 組み込みの世界でもRustはどんどん活躍の場を広げています。 この記事ではRustのESP32向けの環境について紹介されています。 無線系はまだ未サポートのようですが、ESP32の多くの機能をRustから利用できるようになっているとのことです。</description>
     </item>
     
   </channel>
