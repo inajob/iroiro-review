@@ -5,9 +5,20 @@
     <description>Recent content in 自作キーボード on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 26 Dec 2024 23:29:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Mar 2025 20:50:00 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>フットペダルで修飾キーにする</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%83%83%E3%83%88%E3%83%9A%E3%83%80%E3%83%AB%E3%81%A7%E4%BF%AE%E9%A3%BE%E3%82%AD%E3%83%BC%E3%81%AB%E3%81%99%E3%82%8B/</link>
+      <pubDate>Sun, 30 Mar 2025 20:50:00 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%83%83%E3%83%88%E3%83%9A%E3%83%80%E3%83%AB%E3%81%A7%E4%BF%AE%E9%A3%BE%E3%82%AD%E3%83%BC%E3%81%AB%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/フットペダルで修飾キーにする.jpg"&gt;A Foot Pedal To Supplement Your Keyboardから発見。画像もここから転載。
+キーボードのCtrlやSihift、Altといった就職キーをフットペダルとして実現している自作キーボードの作例です。 確かに足でこれらのキーが操作できると、便利なのかも・・？と思いました
+以前紹介したVimを操作するためのペダル もよく似た作例です。</description>
+    </item>
     
     <item>
       <title>CH582Mをコアとした静電容量タッチキーボード</title>
@@ -120,18 +131,6 @@ HHKBをオーソリニア化するキーキャップを作りました。 pic.tw
 ひらがなを同時押しで入力できるキーボードの作例です。 一般的なキーボードとは異なり、左手で子音、右手で母音を押すことでひらがなを入力できるようにしています。
 Raspberry Pi Picoを使って制御されており、日本語はUnicodeとしてOSに送られるようです。 （Unicodeから日本をを入力す方法はOSごとに色々工夫が必要そうです)
 キーキャップも半透明となっており、キーの入力状況に応じて色が光るというギミックも面白いです。</description>
-    </item>
-    
-    <item>
-      <title>マニキュアトップコートが美しいコンパクトなキーボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%9E%E3%83%8B%E3%82%AD%E3%83%A5%E3%82%A2%E3%83%88%E3%83%83%E3%83%97%E3%82%B3%E3%83%BC%E3%83%88%E3%81%8C%E7%BE%8E%E3%81%97%E3%81%84%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Thu, 15 Feb 2024 23:30:22 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9E%E3%83%8B%E3%82%AD%E3%83%A5%E3%82%A2%E3%83%88%E3%83%83%E3%83%97%E3%82%B3%E3%83%BC%E3%83%88%E3%81%8C%E7%BE%8E%E3%81%97%E3%81%84%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/マニキュアトップコートが美しいコンパクトなキーボード.jpg"&gt;Altoids Tin Keyboard Is A Breath Of Fresh Airから発見。画像もここから転載。
-マニキュアトップコートが美しいコンパクトなキーボードの作例です。
-3Dプリンタ製のキーキャップはその質感がどうしても既製品に劣ってしまいますが、この作例ではキートップにマニキュアトップコートを塗ってツヤのあるキーを実現しています。
- </description>
     </item>
     
   </channel>
