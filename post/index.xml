@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 30 Mar 2025 20:50:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2025 21:34:18 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>音響浮遊で中空に虫を固定して写真を撮る仕組み</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%9F%B3%E9%9F%BF%E6%B5%AE%E9%81%8A%E3%81%A7%E4%B8%AD%E7%A9%BA%E3%81%AB%E8%99%AB%E3%82%92%E5%9B%BA%E5%AE%9A%E3%81%97%E3%81%A6%E5%86%99%E7%9C%9F%E3%82%92%E6%92%AE%E3%82%8B%E4%BB%95%E7%B5%84%E3%81%BF/</link>
+      <pubDate>Mon, 31 Mar 2025 21:34:18 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%9F%B3%E9%9F%BF%E6%B5%AE%E9%81%8A%E3%81%A7%E4%B8%AD%E7%A9%BA%E3%81%AB%E8%99%AB%E3%82%92%E5%9B%BA%E5%AE%9A%E3%81%97%E3%81%A6%E5%86%99%E7%9C%9F%E3%82%92%E6%92%AE%E3%82%8B%E4%BB%95%E7%B5%84%E3%81%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/音響浮遊で中空に虫を固定して写真を撮る仕組み.jpg"&gt;Acoustic Levitation Gets Insects Ready For Their Close-Upから発見。画像もここから転載。
+超音波を使って、軽い物体を空中に固定するという技術がありますが、この技術を使って、昆虫を中空に固定して、写真撮影する研究の紹介です。
+確かに、虫のような軽いものはこの手法で浮き上がらせることができますし、この状態であれば綺麗に撮れるという写真もあるなと感じました。
+この手法自体は知っていたのですが、こんな応用例があるとは思いつきませんでした。</description>
+    </item>
     
     <item>
       <title>フットペダルで修飾キーにする</title>
@@ -108,18 +120,6 @@ F1C100sというメモリも内蔵されたSoCを搭載したLinuxボードで�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/シフトレジスタの動きも学べるLEDおもちゃ.jpg"&gt;Shift Register Menorah Pin - Soldering Kit by Jack And Steph&amp;rsquo;s Workshop on Tindieから発見。画像もここから転載。
 マイコンを使った電子工作で、GPIOが足りないときに活躍する部品としてシフトレジスタがあります。（ほかにもいろいろ使い道がありますが、自分はこの使い方が多いです）
 この作例ではこのシフトレジスタを使って、9個のLEDを順番に点灯させるおもちゃを作っています。 シフトレジスタの動きを目で確認できるのが面白いです。
- </description>
-    </item>
-    
-    <item>
-      <title>光ファイバーを使ってドットマトリクスLEDから一風変わった表示機を作る</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%81%8B%E3%82%89%E4%B8%80%E9%A2%A8%E5%A4%89%E3%82%8F%E3%81%A3%E3%81%9F%E8%A1%A8%E7%A4%BA%E6%A9%9F%E3%82%92%E4%BD%9C%E3%82%8B/</link>
-      <pubDate>Sun, 16 Mar 2025 21:06:18 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%81%8B%E3%82%89%E4%B8%80%E9%A2%A8%E5%A4%89%E3%82%8F%E3%81%A3%E3%81%9F%E8%A1%A8%E7%A4%BA%E6%A9%9F%E3%82%92%E4%BD%9C%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/光ファイバーを使ってドットマトリクスLEDから一風変わった表示機を作る.jpg"&gt;Cheap Fiber Optic Wand Toy Becomes Tiny Weird Displayから発見。画像もここから転載。
-光ファイバーを使うと、光を好きな場所に移動させることができます。 この作例では雑貨屋で買った光ファイバーを流用してドットマトリクスLEDの光を円形に寄せ集めて面白い表示機を作っています。
-テキトーに束ねた光ファイバーがドットマトリクスLEDとどう関連しているかは、カメラを使ってフィードバックを得ることで実現しています。
  </description>
     </item>
     

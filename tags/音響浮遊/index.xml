@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>音響浮遊 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E9%9F%B3%E9%9F%BF%E6%B5%AE%E9%81%8A/</link>
+    <description>Recent content in 音響浮遊 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Mon, 31 Mar 2025 21:34:18 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%9F%B3%E9%9F%BF%E6%B5%AE%E9%81%8A/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>音響浮遊で中空に虫を固定して写真を撮る仕組み</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%9F%B3%E9%9F%BF%E6%B5%AE%E9%81%8A%E3%81%A7%E4%B8%AD%E7%A9%BA%E3%81%AB%E8%99%AB%E3%82%92%E5%9B%BA%E5%AE%9A%E3%81%97%E3%81%A6%E5%86%99%E7%9C%9F%E3%82%92%E6%92%AE%E3%82%8B%E4%BB%95%E7%B5%84%E3%81%BF/</link>
+      <pubDate>Mon, 31 Mar 2025 21:34:18 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%9F%B3%E9%9F%BF%E6%B5%AE%E9%81%8A%E3%81%A7%E4%B8%AD%E7%A9%BA%E3%81%AB%E8%99%AB%E3%82%92%E5%9B%BA%E5%AE%9A%E3%81%97%E3%81%A6%E5%86%99%E7%9C%9F%E3%82%92%E6%92%AE%E3%82%8B%E4%BB%95%E7%B5%84%E3%81%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/音響浮遊で中空に虫を固定して写真を撮る仕組み.jpg"&gt;Acoustic Levitation Gets Insects Ready For Their Close-Upから発見。画像もここから転載。
+超音波を使って、軽い物体を空中に固定するという技術がありますが、この技術を使って、昆虫を中空に固定して、写真撮影する研究の紹介です。
+確かに、虫のような軽いものはこの手法で浮き上がらせることができますし、この状態であれば綺麗に撮れるという写真もあるなと感じました。
+この手法自体は知っていたのですが、こんな応用例があるとは思いつきませんでした。</description>
+    </item>
+    
+  </channel>
+</rss>
+
