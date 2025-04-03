@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 02 Apr 2025 21:31:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Apr 2025 23:50:47 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>フィラメントLEDを使った時計</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88led%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%99%82%E8%A8%88/</link>
+      <pubDate>Thu, 03 Apr 2025 23:50:47 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88led%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%99%82%E8%A8%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/フィラメントLEDを使った時計.jpg"&gt;LED Filaments Become Attractive Time Pieceから発見。画像もここから転載。
+フィラメントLEDという細長い棒状のLED部品を使って作られた、アナログ時計風のデジタル時計です。 まだ見慣れないフィラメントLEDという素材が珍しく、面白い見た目を実現しています。
+ </description>
+    </item>
     
     <item>
       <title>7セグ数字やドットのアルファベットをきれいに書くためのデザイン定規</title>
@@ -109,18 +120,6 @@ F1C100sというメモリも内蔵されたSoCを搭載したLinuxボードで�
 ピアノ鍵盤スタイルのドアベルです。鍵盤を押下するとそれに対応した音声ファイルがスピーカから演奏されるようになっています。 単にピンポンするだけでなく、メロディを奏でることができるという発想が面白いです。
 （この例は同時に1キーしか反応しないとか、いろいろ制限がありそうですが、楽器的に発展させることは比較的簡単そうです）
  </description>
-    </item>
-    
-    <item>
-      <title>2キーとOLED搭載のコンパクト携帯ゲーム機</title>
-      <link>https://inajob.github.io/iroiro-review/post/2%E3%82%AD%E3%83%BC%E3%81%A8oled%E6%90%AD%E8%BC%89%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
-      <pubDate>Thu, 20 Mar 2025 23:51:19 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/2%E3%82%AD%E3%83%BC%E3%81%A8oled%E6%90%AD%E8%BC%89%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/2キーとOLED搭載のコンパクト携帯ゲーム機.jpg"&gt;Handheld PONG Consoleから発見。画像もここから転載。
-2キーとOLED搭載のコンパクト携帯ゲーム機の作例です。 128x32のOLEDとXIAO ESP32を使ったシンプルな構成です。
-3Dプリンタで作ったグリップがいい感じで、いかにも「ゲーム機」という見た目が魅力的です。
-この解像度と２つのキーでどのようなゲームが作れるかというのが気になります。</description>
     </item>
     
   </channel>

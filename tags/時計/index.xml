@@ -5,9 +5,20 @@
     <description>Recent content in 時計 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 25 Feb 2025 23:27:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Apr 2025 23:50:47 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%99%82%E8%A8%88/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>フィラメントLEDを使った時計</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88led%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%99%82%E8%A8%88/</link>
+      <pubDate>Thu, 03 Apr 2025 23:50:47 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88led%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%99%82%E8%A8%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/フィラメントLEDを使った時計.jpg"&gt;LED Filaments Become Attractive Time Pieceから発見。画像もここから転載。
+フィラメントLEDという細長い棒状のLED部品を使って作られた、アナログ時計風のデジタル時計です。 まだ見慣れないフィラメントLEDという素材が珍しく、面白い見た目を実現しています。
+ </description>
+    </item>
     
     <item>
       <title>フリップ式のドットを並べたデジタルなアナログ風時計</title>
@@ -129,17 +140,6 @@ Arduino Pro Miniを省エネ化する改造についても触れられており�
 7セグメント状の磁石をソレノイドで駆動させて砂鉄を引き付けることで表示機にしています。
 デジタルの表示がアナログな砂で描画されるのがなんとも不思議な雰囲気で面白いです。
  </description>
-    </item>
-    
-    <item>
-      <title>16x16ドットのモノクロ表示の気象情報表示時計ガジェット</title>
-      <link>https://inajob.github.io/iroiro-review/post/16x16%E3%83%89%E3%83%83%E3%83%88%E3%81%AE%E3%83%A2%E3%83%8E%E3%82%AF%E3%83%AD%E8%A1%A8%E7%A4%BA%E3%81%AE%E6%B0%97%E8%B1%A1%E6%83%85%E5%A0%B1%E8%A1%A8%E7%A4%BA%E6%99%82%E8%A8%88%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
-      <pubDate>Tue, 01 Nov 2022 23:23:33 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/16x16%E3%83%89%E3%83%83%E3%83%88%E3%81%AE%E3%83%A2%E3%83%8E%E3%82%AF%E3%83%AD%E8%A1%A8%E7%A4%BA%E3%81%AE%E6%B0%97%E8%B1%A1%E6%83%85%E5%A0%B1%E8%A1%A8%E7%A4%BA%E6%99%82%E8%A8%88%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/16x16ドットのモノクロ表示の気象情報表示時計ガジェット.jpg"&gt;DotC - Clock, Calendar and Weather Stationから発見。画像もここから転載。
-16x16ドットの気象情報表示時計ガジェットです。 マトリクスLEDのモジュールを使わず、あえてLEDを大量に並べてマトリクスを構成しています。 無骨ですが、白色LEDが目新しいからか、妙に洗練された印象を受けます。
-マイコンボードは明記されていませんが、WiFiが利用できるようなので、おそらくESP32かESP8266でしょう。</description>
     </item>
     
   </channel>
