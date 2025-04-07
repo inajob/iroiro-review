@@ -5,9 +5,22 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 20 Feb 2025 23:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2025 22:13:36 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>くるくる回るようなLED装飾をメカで作る</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8F%E3%82%8B%E3%81%8F%E3%82%8B%E5%9B%9E%E3%82%8B%E3%82%88%E3%81%86%E3%81%AAled%E8%A3%85%E9%A3%BE%E3%82%92%E3%83%A1%E3%82%AB%E3%81%A7%E4%BD%9C%E3%82%8B/</link>
+      <pubDate>Mon, 07 Apr 2025 22:13:36 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8F%E3%82%8B%E3%81%8F%E3%82%8B%E5%9B%9E%E3%82%8B%E3%82%88%E3%81%86%E3%81%AAled%E8%A3%85%E9%A3%BE%E3%82%92%E3%83%A1%E3%82%AB%E3%81%A7%E4%BD%9C%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/くるくる回るようなLED装飾をメカで作る.jpg"&gt;Chase Light SAO Shouldn’t Have Used A 555, And Didn’tから発見。画像もここから転載。
+看板の周りをLEDの光がくるくる回るような装飾はよく見かけます。 よくあるのは、看板の周りにLEDを大量に並べて順番に点滅させる手法ですが、この記事ではからくりを使ってこの流れる光を実現しています。
+からくりによりうまいこと看板の周囲の隙間にスライドする穴を実現しており、少ない光源で、この流れる光を実現しています。
+冷静に考えれば、メカ部品のあるこの手法のほうが、LEDを大量に並べるより壊れやすい気もしますが、このアイデアは何かに応用ができそうです。
+ </description>
+    </item>
     
     <item>
       <title>スマートフォンを回転させることで3Dディスプレイを実現する</title>
@@ -115,16 +128,6 @@
 切り取り線部分はV-Cutという加工がされており、手で折り曲げることで簡単に分離することができます（キットカットのようなものです）
 この記事では、この面付された基板を一気にテストする方法を紹介しています。
 通常基板のテストは、1枚一枚動作確認する必要があります。 しかし、この記事ではV-Cutの部分にも配線することで、分離前の面付け基板の電源が、すべてつながっているような基板を実現し、この配線を使って、一気に動作テストをするという手法を試しています。</description>
-    </item>
-    
-    <item>
-      <title>5×8のマトリクスLEDをICに「おんぶ」させて接続する</title>
-      <link>https://inajob.github.io/iroiro-review/post/58%E3%81%AE%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%92ic%E3%81%AB%E3%81%8A%E3%82%93%E3%81%B6%E3%81%95%E3%81%9B%E3%81%A6%E6%8E%A5%E7%B6%9A%E3%81%99%E3%82%8B/</link>
-      <pubDate>Tue, 19 Nov 2024 23:05:43 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/58%E3%81%AE%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%92ic%E3%81%AB%E3%81%8A%E3%82%93%E3%81%B6%E3%81%95%E3%81%9B%E3%81%A6%E6%8E%A5%E7%B6%9A%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/5×8のマトリクスLEDをICに「おんぶ」させて接続する.jpg"&gt;Piggyback LEDから発見。画像もここから転載。
-電子回路といえば、部品を基板に実装するのが一般的ですが、この記事ではICにマトリクスLEDを「おんぶ」させることで回路を構成しています。 ATtiny2313のピン配置が、たまたまこういう取り付け方に対応していたということのようです。 電源もコイン電池ホルダーの2ピンをICの対角線上のピンと接触させることで、「基板なし」を実現しています。</description>
     </item>
     
   </channel>

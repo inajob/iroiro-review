@@ -5,9 +5,22 @@
     <description>Recent content in LED on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 07 Mar 2024 23:20:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2025 22:13:36 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/led/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>くるくる回るようなLED装飾をメカで作る</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8F%E3%82%8B%E3%81%8F%E3%82%8B%E5%9B%9E%E3%82%8B%E3%82%88%E3%81%86%E3%81%AAled%E8%A3%85%E9%A3%BE%E3%82%92%E3%83%A1%E3%82%AB%E3%81%A7%E4%BD%9C%E3%82%8B/</link>
+      <pubDate>Mon, 07 Apr 2025 22:13:36 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8F%E3%82%8B%E3%81%8F%E3%82%8B%E5%9B%9E%E3%82%8B%E3%82%88%E3%81%86%E3%81%AAled%E8%A3%85%E9%A3%BE%E3%82%92%E3%83%A1%E3%82%AB%E3%81%A7%E4%BD%9C%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/くるくる回るようなLED装飾をメカで作る.jpg"&gt;Chase Light SAO Shouldn’t Have Used A 555, And Didn’tから発見。画像もここから転載。
+看板の周りをLEDの光がくるくる回るような装飾はよく見かけます。 よくあるのは、看板の周りにLEDを大量に並べて順番に点滅させる手法ですが、この記事ではからくりを使ってこの流れる光を実現しています。
+からくりによりうまいこと看板の周囲の隙間にスライドする穴を実現しており、少ない光源で、この流れる光を実現しています。
+冷静に考えれば、メカ部品のあるこの手法のほうが、LEDを大量に並べるより壊れやすい気もしますが、このアイデアは何かに応用ができそうです。
+ </description>
+    </item>
     
     <item>
       <title>16*15=240個のLEDを搭載した携帯ゲーム機</title>
@@ -123,18 +136,6 @@ BTF-LIGHTING WS2812B ECO... https://t.co/u9eJn7GnHk https://t.co/NTDAm22cwO
 7セグメントLEDと言えば数字を表示することが出来る表示器ですが、この記事で紹介しているのは一風変わった使い方です。
 7セグメントLED144個を並べ、巨大なディスプレイを作成しています。各7セグメントLEDをうまく点灯させることで、遠目から見ると粗い解像度のディスプレイのように見えます。
 このような本来の用途とは違う使い方をするというのはワクワクしますね。
- </description>
-    </item>
-    
-    <item>
-      <title>LEDの点滅を利用して水滴を自由に操るガジェット</title>
-      <link>https://inajob.github.io/iroiro-review/post/led%E3%81%AE%E7%82%B9%E6%BB%85%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E6%B0%B4%E6%BB%B4%E3%82%92%E8%87%AA%E7%94%B1%E3%81%AB%E6%93%8D%E3%82%8B%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
-      <pubDate>Thu, 08 Jul 2021 12:00:23 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/led%E3%81%AE%E7%82%B9%E6%BB%85%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E6%B0%B4%E6%BB%B4%E3%82%92%E8%87%AA%E7%94%B1%E3%81%AB%E6%93%8D%E3%82%8B%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/fountain.png"&gt;GRAVITY-DEFYING WATER DROPLET FOUNTAIN GETS AN UPGRADEから発見、画像もここから転載。
-水滴に対して高速点滅するLEDを照らすことで、目の錯覚を引き起こし、本来落下している水滴を静止させたり、逆に浮き上がるような見た目を演出するガジェットの作例です。
-ポンプだけでは正確に水滴の間隔を制御できないため、水滴の落下を赤外線を使って検知して、LEDの点滅速度にフィードバックさせています。
  </description>
     </item>
     

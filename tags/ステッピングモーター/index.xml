@@ -5,9 +5,22 @@
     <description>Recent content in ステッピングモーター on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 03 Dec 2023 23:29:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2025 22:13:36 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%82%B9%E3%83%86%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>くるくる回るようなLED装飾をメカで作る</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8F%E3%82%8B%E3%81%8F%E3%82%8B%E5%9B%9E%E3%82%8B%E3%82%88%E3%81%86%E3%81%AAled%E8%A3%85%E9%A3%BE%E3%82%92%E3%83%A1%E3%82%AB%E3%81%A7%E4%BD%9C%E3%82%8B/</link>
+      <pubDate>Mon, 07 Apr 2025 22:13:36 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8F%E3%82%8B%E3%81%8F%E3%82%8B%E5%9B%9E%E3%82%8B%E3%82%88%E3%81%86%E3%81%AAled%E8%A3%85%E9%A3%BE%E3%82%92%E3%83%A1%E3%82%AB%E3%81%A7%E4%BD%9C%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/くるくる回るようなLED装飾をメカで作る.jpg"&gt;Chase Light SAO Shouldn’t Have Used A 555, And Didn’tから発見。画像もここから転載。
+看板の周りをLEDの光がくるくる回るような装飾はよく見かけます。 よくあるのは、看板の周りにLEDを大量に並べて順番に点滅させる手法ですが、この記事ではからくりを使ってこの流れる光を実現しています。
+からくりによりうまいこと看板の周囲の隙間にスライドする穴を実現しており、少ない光源で、この流れる光を実現しています。
+冷静に考えれば、メカ部品のあるこの手法のほうが、LEDを大量に並べるより壊れやすい気もしますが、このアイデアは何かに応用ができそうです。
+ </description>
+    </item>
     
     <item>
       <title>日付と曜日を時計っぽく表示する装置</title>
