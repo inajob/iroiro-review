@@ -5,9 +5,21 @@
     <description>Recent content in Wii on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 05 Dec 2022 22:55:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Apr 2025 23:24:37 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/wii/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Wiiのコントローラー用のオープンソース基板</title>
+      <link>https://inajob.github.io/iroiro-review/post/wii%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E7%94%A8%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E5%9F%BA%E6%9D%BF/</link>
+      <pubDate>Thu, 10 Apr 2025 23:24:37 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/wii%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E7%94%A8%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E5%9F%BA%E6%9D%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Wiiのコントローラー用のオープンソース基板.jpg"&gt;OpenMote: Arduino-Compatible Controller for Makersから発見。画像もここから転載。
+市販品の部品を流用するのは、DIYガジェット作成の上でもよくあるテクニックです。 この記事ではWiiコントローラのガワを利用して、独自のコントローラを作るというプロジェクトを紹介しています。
+Wiiのコントローラは広く市場に出回っており、故障したコントローラなどは二束三文で簡単に入手することができます。 コアはESP32-S3で、BluetoothやWiFiなどの機能を使って、様々な機器と連携することができます。
+使い勝手の良いコントローラを簡単に自作する手法として良さそうです。</description>
+    </item>
     
     <item>
       <title>WiiでClassic MacOSがそのまま動くHack</title>
