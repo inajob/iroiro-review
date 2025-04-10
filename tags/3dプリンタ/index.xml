@@ -5,9 +5,26 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 26 Feb 2025 21:03:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Apr 2025 00:05:59 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタで腕時計の筐体を作る</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E8%85%95%E6%99%82%E8%A8%88%E3%81%AE%E7%AD%90%E4%BD%93%E3%82%92%E4%BD%9C%E3%82%8B/</link>
+      <pubDate>Thu, 10 Apr 2025 00:05:59 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E8%85%95%E6%99%82%E8%A8%88%E3%81%AE%E7%AD%90%E4%BD%93%E3%82%92%E4%BD%9C%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで腕時計の筐体を作る.jpg"&gt;ススガ全自動PさんのPostから発見。画像もここから転載。
+3Dプリンタで作られた腕時計の筐体です。 ムーブメントやバンドは市販のものを使っているようなので、あくまで腕時計のカスタマイズという感じですが、3Dプリンタ特有の積層痕が良い味を出していて、面白い見た目となっています。
+耐久性など気になるところですが、そこは3Dプリンタなので壊れたらまた作ればよい、ということもできそうです。
+3Dプリンタで腕時計！ついにできた✨️
+まだ隙間だらけ無骨だけど動くのが作れた！
+積層型3Dプリンタでは腕時計級の精密造形難しいのです。
+自慢ポイントは、文字盤。0.4mmノズルで分まで描けたよ😎
+ムーブメントと針は既製品流用 pic.twitter.com/eLkmidnpD1
+&amp;mdash; ススガ全自動P (@sugn74) March 28, 2025  </description>
+    </item>
     
     <item>
       <title>3Dプリンタ成果物に着色しやすペン</title>
@@ -122,19 +139,6 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリントを一時停止して作られた面白い造形.jpg"&gt;See The “Pause-and-Attach” Technique For 3D Printing In Actionから発見。画像もここから転載。
 積層式の3Dプリントは通常下の層から順に印刷され、その間じっと待っておく必要がありますが、この記事では、あえて印刷途中で一時停止して、その間に成果物の一部をベッドから剥がして、組み立てるというプロセスを紹介しています。
 この手法を使うことで画像に示したように、一般的な3Dプリンタの成果物とは一味違った変わった造形が実現できます。</description>
-    </item>
-    
-    <item>
-      <title>マウスに変わる新しいポインティングデバイス</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%AB%E5%A4%89%E3%82%8F%E3%82%8B%E6%96%B0%E3%81%97%E3%81%84%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</link>
-      <pubDate>Tue, 26 Nov 2024 23:26:55 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%AB%E5%A4%89%E3%82%8F%E3%82%8B%E6%96%B0%E3%81%97%E3%81%84%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/マウスに変わる新しいポインティングデバイス.jpg"&gt;Custom Mouse Rocks Neat Thumbstick Designから発見。画像もここから転載。
-マウスと言えば、パソコンを操作するうえではデファクトスタンダードですが、この形以外のものはないのでしょうか？
-この記事ではマウスに代わる新しいポインティングデバイスを作成しています。 ジョイスティックのようなものを中心としていますが、これはゴムで固定されており、IMUを使って角度を測定しています。 バネつきのパームレストのようなものも付属しており、手のストレスが少なく直観的に操作できるように工夫されています。
-スクロール用の上下移動のノブと、ボリューム、いくつかのスイッチを搭載しており、この作者は一般的なマウスからこのデバイスに乗り換えることができたようです。
- </description>
     </item>
     
   </channel>

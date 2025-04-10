@@ -5,9 +5,26 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 08 Apr 2025 20:44:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Apr 2025 00:05:59 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタで腕時計の筐体を作る</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E8%85%95%E6%99%82%E8%A8%88%E3%81%AE%E7%AD%90%E4%BD%93%E3%82%92%E4%BD%9C%E3%82%8B/</link>
+      <pubDate>Thu, 10 Apr 2025 00:05:59 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E8%85%95%E6%99%82%E8%A8%88%E3%81%AE%E7%AD%90%E4%BD%93%E3%82%92%E4%BD%9C%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで腕時計の筐体を作る.jpg"&gt;ススガ全自動PさんのPostから発見。画像もここから転載。
+3Dプリンタで作られた腕時計の筐体です。 ムーブメントやバンドは市販のものを使っているようなので、あくまで腕時計のカスタマイズという感じですが、3Dプリンタ特有の積層痕が良い味を出していて、面白い見た目となっています。
+耐久性など気になるところですが、そこは3Dプリンタなので壊れたらまた作ればよい、ということもできそうです。
+3Dプリンタで腕時計！ついにできた✨️
+まだ隙間だらけ無骨だけど動くのが作れた！
+積層型3Dプリンタでは腕時計級の精密造形難しいのです。
+自慢ポイントは、文字盤。0.4mmノズルで分まで描けたよ😎
+ムーブメントと針は既製品流用 pic.twitter.com/eLkmidnpD1
+&amp;mdash; ススガ全自動P (@sugn74) March 28, 2025  </description>
+    </item>
     
     <item>
       <title>レーザー光の反射を受け取って音声を得る</title>
@@ -113,16 +130,6 @@
 キーボードとカラー液晶を搭載した電卓のようなRaspberry Pi Pico端末です。 Raspberry PiもRaspberry Pi 2にも対応しており、見方によってはバッテリー付きのIO拡張ボードという感じです。
 かっこいいケースやキーボードも魅力的で、マイコンボードを使って高機能ポケコンのようなものを手軽に実現できます。
 様々なデモコードが用意されており これを一通り遊ぶだけでも楽しそうです。</description>
-    </item>
-    
-    <item>
-      <title>F1C100s搭載のLinuxボードを自作する</title>
-      <link>https://inajob.github.io/iroiro-review/post/f1c100s%E6%90%AD%E8%BC%89%E3%81%AElinux%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%99%E3%82%8B/</link>
-      <pubDate>Wed, 26 Mar 2025 21:21:14 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/f1c100s%E6%90%AD%E8%BC%89%E3%81%AElinux%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/F1C100s搭載のLinuxボードを自作する.jpg"&gt;kokensha_tech 電子工作 YouTube! さんのPostから発見。画像もここから転載。
-F1C100sというメモリも内蔵されたSoCを搭載したLinuxボードです。 基板上の部品が役割ごとにグループ化されて、シルクに刻印されているため、構成がわかりやすいです。 ここまで複雑な基板を自分で設計できるようになると夢が広がりそうです。</description>
     </item>
     
   </channel>
