@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 10 Apr 2025 23:24:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 21:32:20 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>世界最小のLEDチカチカボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E4%B8%96%E7%95%8C%E6%9C%80%E5%B0%8F%E3%81%AEled%E3%83%81%E3%82%AB%E3%83%81%E3%82%AB%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Sun, 13 Apr 2025 21:32:20 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E4%B8%96%E7%95%8C%E6%9C%80%E5%B0%8F%E3%81%AEled%E3%83%81%E3%82%AB%E3%83%81%E3%82%AB%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/世界最小のLEDチカチカボード.jpg"&gt;World’s Smallest Blinky, Now Even Smallerから発見。画像もここから転載。
+世界最小のLEDチカチカボードの作例です。 3.2ｍｍ×2.5mmに収められたボードには、ATtiny20とLED、抵抗、コンデンサが搭載されています。 電源は220uFのタンタルコンデンサで、この基板はちょうどこのタンタルコンデンサのサイズになるように設計されているようです。
+実装するのも相当大変そうですが、ここまで小さな回路で、かつプログラミングできるというのは面白いです。</description>
+    </item>
     
     <item>
       <title>Wiiのコントローラー用のオープンソース基板</title>
@@ -119,17 +130,6 @@ Wiiのコントローラは広く市場に出回っており、故障したコ�
 超音波を使って、軽い物体を空中に固定するという技術がありますが、この技術を使って、昆虫を中空に固定して、写真撮影する研究の紹介です。
 確かに、虫のような軽いものはこの手法で浮き上がらせることができますし、この状態であれば綺麗に撮れるという写真もあるなと感じました。
 この手法自体は知っていたのですが、こんな応用例があるとは思いつきませんでした。</description>
-    </item>
-    
-    <item>
-      <title>フットペダルで修飾キーにする</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%83%83%E3%83%88%E3%83%9A%E3%83%80%E3%83%AB%E3%81%A7%E4%BF%AE%E9%A3%BE%E3%82%AD%E3%83%BC%E3%81%AB%E3%81%99%E3%82%8B/</link>
-      <pubDate>Sun, 30 Mar 2025 20:50:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%83%83%E3%83%88%E3%83%9A%E3%83%80%E3%83%AB%E3%81%A7%E4%BF%AE%E9%A3%BE%E3%82%AD%E3%83%BC%E3%81%AB%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/フットペダルで修飾キーにする.jpg"&gt;A Foot Pedal To Supplement Your Keyboardから発見。画像もここから転載。
-キーボードのCtrlやSihift、Altといった就職キーをフットペダルとして実現している自作キーボードの作例です。 確かに足でこれらのキーが操作できると、便利なのかも・・？と思いました
-以前紹介したVimを操作するためのペダル もよく似た作例です。</description>
     </item>
     
   </channel>
