@@ -5,9 +5,21 @@
     <description>Recent content in 音楽 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 15 Dec 2024 23:32:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 21:40:49 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%9F%B3%E6%A5%BD/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>あの音楽を簡単に演奏できるフィジェット</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%82%E3%81%AE%E9%9F%B3%E6%A5%BD%E3%82%92%E7%B0%A1%E5%8D%98%E3%81%AB%E6%BC%94%E5%A5%8F%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%95%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
+      <pubDate>Mon, 14 Apr 2025 21:40:49 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%82%E3%81%AE%E9%9F%B3%E6%A5%BD%E3%82%92%E7%B0%A1%E5%8D%98%E3%81%AB%E6%BC%94%E5%A5%8F%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%95%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/あの音楽を簡単に演奏できるフィジェット.jpg"&gt;3D Print (and Play!) The Super Mario Tune As A Fidget Toyから発見。画像もここから転載。
+あの音楽を簡単に演奏できるフィジェットの作例です
+3Dプリンタで作られた、様々な長さのツメを、スライドするピックが順番にはじいていくことで、あのゲームの名曲を演奏できるフィジェットです。 要はオルゴールと同じような仕組みですが、電源なしで音楽を奏でることができる、とても面白い作例です。
+ </description>
+    </item>
     
     <item>
       <title>オムニコードっぽい自作の電子楽器</title>
@@ -118,19 +130,6 @@ MIDI信号を出力し、音楽を奏でることができます。
 一世を風靡したWinamp風のオーディオプレイヤーを表示する専用のデバイスをRaspberry Piで作成しています。
 実際にはQMMPというRaspberry Piで動作するオーディオ再生ソフトのスキンの1つを利用しているようです。
 やっていることは素朴にRaspberry Piに小型ディスプレイを取り付けて、このアプリを表示しているだけなので、真似するのは比較的簡単そうです。</description>
-    </item>
-    
-    <item>
-      <title>カリンバを改造した静電容量タッチMIDI楽器</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%AA%E3%83%B3%E3%83%90%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%9F%E9%9D%99%E9%9B%BB%E5%AE%B9%E9%87%8F%E3%82%BF%E3%83%83%E3%83%81midi%E6%A5%BD%E5%99%A8/</link>
-      <pubDate>Thu, 21 Mar 2024 23:22:53 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%AA%E3%83%B3%E3%83%90%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%9F%E9%9D%99%E9%9B%BB%E5%AE%B9%E9%87%8F%E3%82%BF%E3%83%83%E3%83%81midi%E6%A5%BD%E5%99%A8/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/カリンバを改造した静電容量タッチMIDI楽器.jpg"&gt;Thumbs Up To This Pico MIDI Kalimbaから発見。画像もここから転載。
-カリンバを改造した静電容量タッチMIDI楽器の紹介です。
-カリンバを改造して作られた電子楽器ですが、その仕組みはカリンバとは異なり、静電容量タッチで操作するものとなっています。
-コアはRaspberry Pi Picoを用いています。
- </description>
     </item>
     
   </channel>
