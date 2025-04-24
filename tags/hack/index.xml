@@ -5,9 +5,21 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 16 Apr 2025 08:29:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Apr 2025 23:37:56 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>例の世界最小ICを試すための基板</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E4%BE%8B%E3%81%AE%E4%B8%96%E7%95%8C%E6%9C%80%E5%B0%8Fic%E3%82%92%E8%A9%A6%E3%81%99%E3%81%9F%E3%82%81%E3%81%AE%E5%9F%BA%E6%9D%BF/</link>
+      <pubDate>Thu, 24 Apr 2025 23:37:56 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E4%BE%8B%E3%81%AE%E4%B8%96%E7%95%8C%E6%9C%80%E5%B0%8Fic%E3%82%92%E8%A9%A6%E3%81%99%E3%81%9F%E3%82%81%E3%81%AE%E5%9F%BA%E6%9D%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/例の世界最小ICを試すための基板.jpg"&gt;First PCB With The Smallest MCU?から発見。画像もここから転載。
+以前紹介したとても小型のIC を試すための基板です。
+動画でははんだ付けの様子が紹介されていますが、これはなかなか細かくて大変そうです。
+ </description>
+    </item>
     
     <item>
       <title>アルミホイルを使ってドリル径を微妙に調整するテクニック</title>
@@ -115,17 +127,6 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/手鏡の上に置くことでチップLEDの極性を確認する.jpg"&gt;akita11さんのPostから発見。画像もここから転載。
 チップLEDの極性の確認はちょっと面倒です。 一般的に極性の表示はチップLEDの裏面にあるのですが、実装するときはその部分は下になっているため、もちあげて裏面を確認する必要があります。（表面にも特徴があるので、慣れれば裏返す必要はないですが・・）
 このPostでは手鏡の上に置くことでチップLEDの極性を確認する方法を紹介しています。 確かにこれなら裏面を持ち上げずに確認できそうです。</description>
-    </item>
-    
-    <item>
-      <title>3Dプリントを一時停止して作られた面白い造形</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%82%92%E4%B8%80%E6%99%82%E5%81%9C%E6%AD%A2%E3%81%97%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E9%9D%A2%E7%99%BD%E3%81%84%E9%80%A0%E5%BD%A2/</link>
-      <pubDate>Thu, 28 Nov 2024 23:39:11 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%82%92%E4%B8%80%E6%99%82%E5%81%9C%E6%AD%A2%E3%81%97%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E9%9D%A2%E7%99%BD%E3%81%84%E9%80%A0%E5%BD%A2/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリントを一時停止して作られた面白い造形.jpg"&gt;See The “Pause-and-Attach” Technique For 3D Printing In Actionから発見。画像もここから転載。
-積層式の3Dプリントは通常下の層から順に印刷され、その間じっと待っておく必要がありますが、この記事では、あえて印刷途中で一時停止して、その間に成果物の一部をベッドから剥がして、組み立てるというプロセスを紹介しています。
-この手法を使うことで画像に示したように、一般的な3Dプリンタの成果物とは一味違った変わった造形が実現できます。</description>
     </item>
     
   </channel>
