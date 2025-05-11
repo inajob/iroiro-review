@@ -5,9 +5,22 @@
     <description>Recent content in PDA on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 03 Jul 2022 23:22:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 May 2025 22:55:20 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/pda/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>コンパクトなキーボード付きメモ端末</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8D%E3%83%A1%E3%83%A2%E7%AB%AF%E6%9C%AB/</link>
+      <pubDate>Sun, 11 May 2025 22:55:20 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%AA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8D%E3%83%A1%E3%83%A2%E7%AB%AF%E6%9C%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/コンパクトなキーボード付きメモ端末.jpg"&gt;EclairM0, The Pocket Notepadから発見。画像もここから転載。
+コンパクトなキーボード付きメモ端末の作例です。 一般的なキーボードの半分のキーを搭載しているのが特徴で非常にコンパクトなサイズを実現しています。
+キーは一般的なQWERTY配列の隣り合うキー2つを1キーにまとめた構成となっており、何度かキーを押下することで、入力する文字を選ぶことができるという、いわゆるマルチタップ入力方式です。
+日本語のメモもこのくらいシンプルなデバイスでできるものが作れたら面白そうだなと感じました。（かな漢字変換があるので、なかなか厳しそうですが・・）
+ </description>
+    </item>
     
     <item>
       <title>Arduinoで作られた古き良きPDAのようなデバイス</title>
