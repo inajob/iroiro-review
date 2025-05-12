@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 11 May 2025 22:55:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 21:19:30 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>粘性の高い液体の中で積層式の3Dプリントをする技術</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%B2%98%E6%80%A7%E3%81%AE%E9%AB%98%E3%81%84%E6%B6%B2%E4%BD%93%E3%81%AE%E4%B8%AD%E3%81%A7%E7%A9%8D%E5%B1%A4%E5%BC%8F%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%82%92%E3%81%99%E3%82%8B%E6%8A%80%E8%A1%93/</link>
+      <pubDate>Mon, 12 May 2025 21:19:30 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%B2%98%E6%80%A7%E3%81%AE%E9%AB%98%E3%81%84%E6%B6%B2%E4%BD%93%E3%81%AE%E4%B8%AD%E3%81%A7%E7%A9%8D%E5%B1%A4%E5%BC%8F%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%82%92%E3%81%99%E3%82%8B%E6%8A%80%E8%A1%93/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/粘性の高い液体の中で積層式の3Dプリントをする技術.jpg"&gt;Liquid Silicone 3D Printing Is No Jokeから発見。画像もここから転載。
+粘性の高い液体の中で積層式の3Dプリントをする技術についての紹介です。
+一般的な積層式の3Dプリンタは特殊な溶液の中などではなく、いわゆる「空気」の環境でプラスチックを積層します。 この記事で紹介している実験では、粘性の高い液体の中で積層式の3Dプリントを行うことで、中空に積層するなど、従来の空気環境下では難しい印刷に挑戦しています。
+ </description>
+    </item>
     
     <item>
       <title>コンパクトなキーボード付きメモ端末</title>
@@ -113,18 +125,6 @@ LCD搭載の小さな電圧計の作例です。 TN液晶を搭載した小型�
 このタイプのOLED、寿命は2年も無いか
 久しぶりに動かしてみると殆ど見えない。 pic.twitter.com/v9AoNxV3pG
 &amp;mdash; ratna (@mobi1255) March 23, 2025  </description>
-    </item>
-    
-    <item>
-      <title>アルミホイルを使ってドリル径を微妙に調整するテクニック</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%9B%E3%82%A4%E3%83%AB%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%89%E3%83%AA%E3%83%AB%E5%BE%84%E3%82%92%E5%BE%AE%E5%A6%99%E3%81%AB%E8%AA%BF%E6%95%B4%E3%81%99%E3%82%8B%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</link>
-      <pubDate>Wed, 16 Apr 2025 08:29:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%9B%E3%82%A4%E3%83%AB%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%89%E3%83%AA%E3%83%AB%E5%BE%84%E3%82%92%E5%BE%AE%E5%A6%99%E3%81%AB%E8%AA%BF%E6%95%B4%E3%81%99%E3%82%8B%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/アルミホイルを使ってドリル径を微妙に調整するテクニック.jpg"&gt;How To Make A 13 Mm Hole With A 1/2″ Drill Bitから発見。画像もここから転載。
-手元のドリルの大きさが微妙に小さくて困ったことはありませんか？ この記事ではドリルビットにアルミホイルを巻き付けることで、やや大きめの穴をあける方法を紹介しています。
-ドリルビットに変な圧がかかりそうで、ちょっと怖いですが、どうしてもというときには役立ちそうなテクニックです。
- </description>
     </item>
     
   </channel>
