@@ -5,9 +5,22 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 23 Apr 2025 21:40:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 May 2025 21:18:00 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリントで「雨どい」を好きな方向に移動させる</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A7%E9%9B%A8%E3%81%A9%E3%81%84%E3%82%92%E5%A5%BD%E3%81%8D%E3%81%AA%E6%96%B9%E5%90%91%E3%81%AB%E7%A7%BB%E5%8B%95%E3%81%95%E3%81%9B%E3%82%8B/</link>
+      <pubDate>Sun, 18 May 2025 21:18:00 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A7%E9%9B%A8%E3%81%A9%E3%81%84%E3%82%92%E5%A5%BD%E3%81%8D%E3%81%AA%E6%96%B9%E5%90%91%E3%81%AB%E7%A7%BB%E5%8B%95%E3%81%95%E3%81%9B%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリントで「雨どい」を好きな方向に移動させる.jpg"&gt;3D Printed Downspout Makes Life Just A Little Nicerから発見。画像もここから転載。
+3Dプリントで「雨どい」を好きな方向に移動させるという作例です。
+パーツのサイズが大きいのが難点ですが、確かに雨どいを好きな方向に誘導する部品を3Dプリンタで作っています。
+もちろん市販の配管パーツを使うこともできますが、優雅なカーブの雨どいを作るのは面白そうです。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタでマスクの箱の蓋を作る</title>
@@ -128,18 +141,6 @@
 3Dプリンタで作ることができる成果物には制約が多く、これだけでからくりを作ることは難しいです。 一般的には3Dプリンタの造形物以外にバネやベアリングなど3Dプリンタの材質や精度では造形できないものに関しては、既成のパーツを使うことが多いです。
 しかし、この作例では3Dプリンタの造形物だけで、連射できるおもちゃの銃のからくりを実現しています。
 プラスチックの柔軟性をうまく利用して、バネやラッチの機構を構成しています。
- </description>
-    </item>
-    
-    <item>
-      <title>4軸の3Dプリンタ</title>
-      <link>https://inajob.github.io/iroiro-review/post/4%E8%BB%B8%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
-      <pubDate>Tue, 17 Dec 2024 23:57:09 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/4%E8%BB%B8%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/4軸の3Dプリンタ.jpg"&gt;Unique 3D Printer Has A Print Head With A Twistから発見。画像もここから転載。
-4軸の3Dプリンタの作例です。 ベッドは回転するようになっており、extruderの部分がCoreXYメカニズムで横移動＋回転するということで合わせて4軸となっています。
-普通の3Dプリンタより1軸多いということで、ある種のオーバーハングなどの造形もできます。
  </description>
     </item>
     
