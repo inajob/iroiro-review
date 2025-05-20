@@ -5,9 +5,21 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 18 May 2025 21:18:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 23:38:45 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタ製の独自の仕組みのタイプライター</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E7%8B%AC%E8%87%AA%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%81%AE%E3%82%BF%E3%82%A4%E3%83%97%E3%83%A9%E3%82%A4%E3%82%BF%E3%83%BC/</link>
+      <pubDate>Tue, 20 May 2025 23:38:45 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E7%8B%AC%E8%87%AA%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%81%AE%E3%82%BF%E3%82%A4%E3%83%97%E3%83%A9%E3%82%A4%E3%82%BF%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ製の独自の仕組みのタイプライター.jpg"&gt;A New And Weird Kind Of Typewriterから発見。画像もここから転載。
+3Dプリンタ製の独自の仕組みのタイプライターの作例です。 独自の設計で、従来のタイプライターとは全く違った構成で、一見すると何の機械かわからないです。
+カーボン紙を使い文字を印字する仕組みです。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリントで「雨どい」を好きな方向に移動させる</title>
@@ -129,19 +141,6 @@
 手のひらサイズのキーボード付きの端末は、かつてと比べるとぐっと減ってしまいました。
 しかしこの作例では、スマートフォンと小型のBluetoothキーボードを3Dプリンタ製のケースでつなげることで、手のひらサイズのキーボード付きの端末を実現しています。
 こうなってくると、スマートフォンをキーボードで快適に利用できる環境を整備したくなりますね。（なにがあるのかな？）</description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタ製の連射できるおもちゃの銃</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E9%80%A3%E5%B0%84%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83%E3%81%AE%E9%8A%83/</link>
-      <pubDate>Sun, 05 Jan 2025 23:43:07 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E9%80%A3%E5%B0%84%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83%E3%81%AE%E9%8A%83/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ製の連射できるおもちゃの銃.jpg"&gt;3D Printed Blaster Does It With Compliant Componentsから発見。画像もここから転載。
-3Dプリンタで作ることができる成果物には制約が多く、これだけでからくりを作ることは難しいです。 一般的には3Dプリンタの造形物以外にバネやベアリングなど3Dプリンタの材質や精度では造形できないものに関しては、既成のパーツを使うことが多いです。
-しかし、この作例では3Dプリンタの造形物だけで、連射できるおもちゃの銃のからくりを実現しています。
-プラスチックの柔軟性をうまく利用して、バネやラッチの機構を構成しています。
- </description>
     </item>
     
   </channel>
