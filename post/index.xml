@@ -5,9 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 20 May 2025 23:38:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 23:34:46 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>小型の3Dプリンタを改造して作ったペンプロッタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%B0%8F%E5%9E%8B%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E4%BD%9C%E3%81%A3%E3%81%9F%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</link>
+      <pubDate>Wed, 21 May 2025 23:34:46 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%B0%8F%E5%9E%8B%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E4%BD%9C%E3%81%A3%E3%81%9F%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/小型の3Dプリンタを改造して作ったペンプロッタ.jpg"&gt;ちゃーはん（CV: 木下浩之） @へっぽこラボさんのPostから発見。画像もここから転載。
+格安の小型の3Dプリンタ（EasyThreed K10）を改造して作ったペンプロッタの作例です
+1万円未満で購入できる小型の3Dプリンタを改造してペンプロッタを作っています。 ペンプロッタに改造するためのパーツの大半も3Dプリンタで作成しています。
+ペンプロッタを部品そろえて作るのは大変なので、こういう既製品を改造して作るのは良いですね。
+ペンプロッターな愛い奴の書き初め。
+30倍速でどうぞ。 https://t.co/bpkCrPBAC3 pic.twitter.com/RwEaNDvmys
+&amp;mdash; ちゃーはん（CV: 木下浩之） @へっぽこラボ (@oicchahan) April 29, 2025  </description>
+    </item>
     
     <item>
       <title>3Dプリンタ製の独自の仕組みのタイプライター</title>
@@ -114,18 +129,6 @@
       <guid>https://inajob.github.io/iroiro-review/post/lcd%E6%90%AD%E8%BC%89%E3%81%AE%E5%B0%8F%E3%81%95%E3%81%AA%E9%9B%BB%E5%9C%A7%E8%A8%88/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/LCD搭載の小さな電圧計.jpg"&gt;Mini LCD Voltmeter Kit, 0-33Vdc, Programmable by EEtackle on Tindieから発見。画像もここから転載。
 LCD搭載の小さな電圧計の作例です。 TN液晶を搭載した小型の基板で、このミニマルな感じが魅力的です。 中身はSTM8となっており、電圧系以外の用途でも活用できそうです。</description>
-    </item>
-    
-    <item>
-      <title>例の世界最小ICを試すための基板</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E4%BE%8B%E3%81%AE%E4%B8%96%E7%95%8C%E6%9C%80%E5%B0%8Fic%E3%82%92%E8%A9%A6%E3%81%99%E3%81%9F%E3%82%81%E3%81%AE%E5%9F%BA%E6%9D%BF/</link>
-      <pubDate>Thu, 24 Apr 2025 23:37:56 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E4%BE%8B%E3%81%AE%E4%B8%96%E7%95%8C%E6%9C%80%E5%B0%8Fic%E3%82%92%E8%A9%A6%E3%81%99%E3%81%9F%E3%82%81%E3%81%AE%E5%9F%BA%E6%9D%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/例の世界最小ICを試すための基板.jpg"&gt;First PCB With The Smallest MCU?から発見。画像もここから転載。
-以前紹介したとても小型のIC を試すための基板です。
-動画でははんだ付けの様子が紹介されていますが、これはなかなか細かくて大変そうです。
- </description>
     </item>
     
   </channel>

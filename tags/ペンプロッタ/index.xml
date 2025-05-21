@@ -5,9 +5,24 @@
     <description>Recent content in ペンプロッタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 22 Jan 2025 23:26:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 23:34:46 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>小型の3Dプリンタを改造して作ったペンプロッタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%B0%8F%E5%9E%8B%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E4%BD%9C%E3%81%A3%E3%81%9F%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</link>
+      <pubDate>Wed, 21 May 2025 23:34:46 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%B0%8F%E5%9E%8B%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E4%BD%9C%E3%81%A3%E3%81%9F%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/小型の3Dプリンタを改造して作ったペンプロッタ.jpg"&gt;ちゃーはん（CV: 木下浩之） @へっぽこラボさんのPostから発見。画像もここから転載。
+格安の小型の3Dプリンタ（EasyThreed K10）を改造して作ったペンプロッタの作例です
+1万円未満で購入できる小型の3Dプリンタを改造してペンプロッタを作っています。 ペンプロッタに改造するためのパーツの大半も3Dプリンタで作成しています。
+ペンプロッタを部品そろえて作るのは大変なので、こういう既製品を改造して作るのは良いですね。
+ペンプロッターな愛い奴の書き初め。
+30倍速でどうぞ。 https://t.co/bpkCrPBAC3 pic.twitter.com/RwEaNDvmys
+&amp;mdash; ちゃーはん（CV: 木下浩之） @へっぽこラボ (@oicchahan) April 29, 2025  </description>
+    </item>
     
     <item>
       <title>CoreXYの自作ペンプロッタ</title>
@@ -131,19 +146,6 @@ Plotclock改ができました。
 ペンプロッタというのは何か心にグッとくるものがあります。 機械が人間のようにペンを持ち絵を描く様子は見ていて飽きません。
 この記事で紹介しているのは手回し式のペンプロッタです。カムを使ってペンを前後左右に動かし決められた図形を描きます。
 これとよく似た仕組みのおもちゃが大人の科学にもありましたね。
-  </description>
-    </item>
-    
-    <item>
-      <title>回転式のペンプロッタ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%9B%9E%E8%BB%A2%E5%BC%8F%E3%81%AE%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</link>
-      <pubDate>Mon, 28 Jun 2021 12:00:25 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%9B%9E%E8%BB%A2%E5%BC%8F%E3%81%AE%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/eddywrite.jpg"&gt;Original Plotter &amp;ldquo;eddyWrite&amp;rdquo;から発見。画像もここから転載。
-普通のペンプロッタはX,Y軸とペンの持ち上げで動くものですが、この記事で紹介しているプロッタはペンを左右に動かすX軸はいつも通りですが、円形のステージを回転することでもう1軸を実現しています。
-2軸あるので、任意の図形を描くことが出来ますが、普通のペンプロッタと違い同心円状の軌跡になるのが面白いです。
-   この投稿をInstagramで見る         HomeMadeGarbage(@homemadegarbage)がシェアした投稿
   </description>
     </item>
     
