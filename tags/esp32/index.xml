@@ -5,9 +5,20 @@
     <description>Recent content in ESP32 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 11 Mar 2025 21:41:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 May 2025 23:42:16 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/esp32/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32をコアとしたかっこいい腕時計</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E8%85%95%E6%99%82%E8%A8%88/</link>
+      <pubDate>Tue, 27 May 2025 23:42:16 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E8%85%95%E6%99%82%E8%A8%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32をコアとしたかっこいい腕時計.jpg"&gt;CircuitMess Artemis: DIY NASA-Inspired Smartwatch Kitから発見。画像もここから転載。
+ESP32をコアとしたかっこいい腕時計です。 こういう腕時計型のデバイスを作る際は、サイズの制約が厳しい印象がありますが、この製品では思い切って横側にはみ出すデザインを採用しており、これはこれでかっこいい見た目を実現しています。
+実用性はともかく、デザインとして参考になりそうです。</description>
+    </item>
     
     <item>
       <title>RustでESP32の開発ができるようになった</title>
@@ -112,17 +123,6 @@ Hackadayではこのような小粒ゲームハードウェアのコンテスト
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/カラー基板を利用して作られたZX Spectrumエミュレータ.jpg"&gt;ESP32 Powers Single-PCB ZX Spectrum Emulatorから発見。画像もここから転載。
 カラー基板を利用して作られたZX Spectrumエミュレータの作例です。 キーボー部分は静電容量タッチとなっており、キートップを基板へのカラー印刷で実現しており、部品点数を少なく抑えたまま、使いやすいキーボードを実現しています。
  </description>
-    </item>
-    
-    <item>
-      <title>ESP32-S2で動くWindows用のディスプレイドライバ</title>
-      <link>https://inajob.github.io/iroiro-review/post/esp32-s2%E3%81%A7%E5%8B%95%E3%81%8Fwindows%E7%94%A8%E3%81%AE%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90/</link>
-      <pubDate>Thu, 11 Jul 2024 04:53:11 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/esp32-s2%E3%81%A7%E5%8B%95%E3%81%8Fwindows%E7%94%A8%E3%81%AE%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32-S2で動くWindows用のディスプレイドライバ.jpg"&gt;GitHub - chuanjinpang/windows_win10_idd_xfz1986_usb_display_drv_f1c200s: win10 idd driver for usb display. support f1c200s, esp32s2から発見。画像もここから転載。
-ESP32-S2とF1C200Sで動くWindows用のディスプレイドライバです。 USB接続で外部モニタとして認識されるようです。
-説明によると、まだバグが有り、たまに画面が崩れてしまうようですが、可能性を感じます。</description>
     </item>
     
   </channel>
