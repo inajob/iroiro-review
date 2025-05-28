@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 27 May 2025 23:42:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 23:47:32 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AtomS3を使った自作のスマートグラスA-Scouter</title>
+      <link>https://inajob.github.io/iroiro-review/post/atoms3%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E8%87%AA%E4%BD%9C%E3%81%AE%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B0%E3%83%A9%E3%82%B9a-scouter/</link>
+      <pubDate>Wed, 28 May 2025 23:47:32 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/atoms3%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E8%87%AA%E4%BD%9C%E3%81%AE%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B0%E3%83%A9%E3%82%B9a-scouter/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/AtomS3を使った自作のスマートグラスA-Scouter.jpg"&gt;A-Scouterの紹介 ～AtomS3/S3Rのスカウター化キット～から発見。画像もここから転載。
+スマートグラス、特に視界に情報をオーバーレイするようなものは魅力的なガジェットですが、なかなか決定打となる製品がありません。 となると、自分でいろいろと試してみたくなるのがMakerというものです。
+このプレゼンでは、A-ScouterというAtomS3を利用した素朴な仕組みのスカウター的なデバイスを紹介しています。 AtomS3を収納しつつ、眼鏡のツルの部分にくっつけるというアイデアは素朴ですが、可能性を感じます。</description>
+    </item>
     
     <item>
       <title>ESP32をコアとしたかっこいい腕時計</title>
@@ -119,17 +130,6 @@ Mac Miniを組み込んだポータブルコンピュータの作例です。
 レシートプリンタは比較的安価で入手できますが、モノクロで細長いレシート用紙に印刷できるものは限られており、そこまで広く活用できていないように思います。
 この作例では、余ったレシート用紙を大量に利用して、巨大なアート作品を作成しています。
  </description>
-    </item>
-    
-    <item>
-      <title>よく見かけるピンアウト図を生成するためのツール</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%88%E3%81%8F%E8%A6%8B%E3%81%8B%E3%81%91%E3%82%8B%E3%83%94%E3%83%B3%E3%82%A2%E3%82%A6%E3%83%88%E5%9B%B3%E3%82%92%E7%94%9F%E6%88%90%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%84%E3%83%BC%E3%83%AB/</link>
-      <pubDate>Wed, 14 May 2025 23:40:17 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%88%E3%81%8F%E8%A6%8B%E3%81%8B%E3%81%91%E3%82%8B%E3%83%94%E3%83%B3%E3%82%A2%E3%82%A6%E3%83%88%E5%9B%B3%E3%82%92%E7%94%9F%E6%88%90%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%84%E3%83%BC%E3%83%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/よく見かけるピンアウト図を生成するためのツール.jpg"&gt;Pinoutleaf: Simplifying Pinout Referencesから発見。画像もここから転載。
-よく見かける開発ボードやICのピンアウト図を生成するためのWebサービスです。 YAMLを書くことでSVGを得ることができるという仕組みで、簡単に見栄えの良いピンアウト図を作ることができます。
-開発ボードを自分で作っている人にはとても便利そうです。</description>
     </item>
     
   </channel>
