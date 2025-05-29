@@ -5,9 +5,21 @@
     <description>Recent content in CircuitPython on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 22 Aug 2023 22:47:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 23:13:13 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/circuitpython/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CircuiPythonで動作するポケットサイズシンセサイザー</title>
+      <link>https://inajob.github.io/iroiro-review/post/circuipython%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88%E3%82%B5%E3%82%A4%E3%82%BA%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</link>
+      <pubDate>Thu, 29 May 2025 23:13:13 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/circuipython%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88%E3%82%B5%E3%82%A4%E3%82%BA%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CircuiPythonで動作するポケットサイズシンセサイザー.jpg"&gt;Leet AI – Wireless Synthesizer Ensemble with AI-powered inspirationから発見。画像もここから転載。
+かわいいサイズのシンセサイザーです。 BASS、BOSS、DRUM、ARP、LEADと様々なバージョンが作成されており、これらはESPnow を使って無線で同期して動作します。
+プログラミングはCircuitPythonを使い、ライブラリとしてaudiocore, synthioを使っています。 デザインの試行錯誤や細かいこだわりが感じられ、とても素敵な電子楽器です。
+ </description>
+    </item>
     
     <item>
       <title>RP2040を使ったハードウェアシンセサイザー</title>
