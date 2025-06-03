@@ -5,9 +5,21 @@
     <description>Recent content in Bluetooth on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 20 Feb 2023 22:29:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 22:11:32 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/bluetooth/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>特定のBluetooth端末が近くに無いと読み取れないUSBメモリ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%89%B9%E5%AE%9A%E3%81%AEbluetooth%E7%AB%AF%E6%9C%AB%E3%81%8C%E8%BF%91%E3%81%8F%E3%81%AB%E7%84%A1%E3%81%84%E3%81%A8%E8%AA%AD%E3%81%BF%E5%8F%96%E3%82%8C%E3%81%AA%E3%81%84usb%E3%83%A1%E3%83%A2%E3%83%AA/</link>
+      <pubDate>Tue, 03 Jun 2025 22:11:32 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%89%B9%E5%AE%9A%E3%81%AEbluetooth%E7%AB%AF%E6%9C%AB%E3%81%8C%E8%BF%91%E3%81%8F%E3%81%AB%E7%84%A1%E3%81%84%E3%81%A8%E8%AA%AD%E3%81%BF%E5%8F%96%E3%82%8C%E3%81%AA%E3%81%84usb%E3%83%A1%E3%83%A2%E3%83%AA/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/特定のBluetooth端末が近くに無いと読み取れないUSBメモリ.jpg"&gt;A Presence-sensing Drive For Securely Storing Secretsから発見。画像もここから転載。
+USBメモリは便利ですが、盗難されたり紛失したりした際に内部のデータを盗み見られないかが心配です。
+この記事では特定のBluetooth端末が近くに無いと読み取れないUSBメモリを作ってこの問題に対応しています。 実証実験ということでnRF52840の開発ボードにCircuitPythonを導入したものを使いました。
+nRF52840で動作するCircuitPythonはUSBマスストレージの機能もBLEの機能も操作できるので、このような実験を行うのに向いていたようです。</description>
+    </item>
     
     <item>
       <title>MDプレーヤーにBluetooth機能を増設する</title>

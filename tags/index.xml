@@ -5,9 +5,27 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 02 Jun 2025 23:49:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 22:11:32 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bluetooth</title>
+      <link>https://inajob.github.io/iroiro-review/tags/bluetooth/</link>
+      <pubDate>Tue, 03 Jun 2025 22:11:32 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/bluetooth/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>nRF52840</title>
+      <link>https://inajob.github.io/iroiro-review/tags/nrf52840/</link>
+      <pubDate>Tue, 03 Jun 2025 22:11:32 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/nrf52840/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>3Dプリンタ</title>
@@ -78,24 +96,6 @@
       <pubDate>Wed, 28 May 2025 23:47:32 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B0%E3%83%A9%E3%82%B9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>腕時計</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E8%85%95%E6%99%82%E8%A8%88/</link>
-      <pubDate>Tue, 27 May 2025 23:42:16 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E8%85%95%E6%99%82%E8%A8%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>ESP32-S3</title>
-      <link>https://inajob.github.io/iroiro-review/tags/esp32-s3/</link>
-      <pubDate>Mon, 26 May 2025 23:42:59 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/esp32-s3/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
