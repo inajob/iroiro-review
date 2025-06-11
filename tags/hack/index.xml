@@ -5,9 +5,21 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 24 Apr 2025 23:37:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 22:43:07 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタで作るワイヤーで引っ張ることで動作する腕</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E3%81%A7%E5%BC%95%E3%81%A3%E5%BC%B5%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B%E8%85%95/</link>
+      <pubDate>Wed, 11 Jun 2025 22:43:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E3%81%A7%E5%BC%95%E3%81%A3%E5%BC%B5%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B%E8%85%95/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作るワイヤーで引っ張ることで動作する腕.jpg"&gt;3D Printed Cable-Driven Mechanisms – Some Strings Attachedから発見。画像もここから転載。
+3Dプリンタで作るワイヤーで引っ張ることで動作する腕の実験です。 単に折れ曲がるだけでなく、造形を工夫することで、特定の方向に巻きいたり、何かをつかむような動作をするなど、様々な動きを実現しています。
+生き物のような動きをシンプルな仕組みで実現できる面白い研究です。
+ </description>
+    </item>
     
     <item>
       <title>例の世界最小ICを試すための基板</title>
@@ -116,17 +128,6 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/レーザーカッターでガラスに彫刻する技.jpg"&gt;A Little Pigment Helps With Laser Glass Engravingから発見。画像もここから転載。
 ガラスは加工が難しくCO2レーザーでも傷をつけることは難しいです。 この記事では、ガラスの表面に特殊なコーティングをすることで、ガラスに黒い色の模様を刻印する方法を紹介しています。
  </description>
-    </item>
-    
-    <item>
-      <title>手鏡の上に置くことでチップLEDの極性を確認する</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E9%8F%A1%E3%81%AE%E4%B8%8A%E3%81%AB%E7%BD%AE%E3%81%8F%E3%81%93%E3%81%A8%E3%81%A7%E3%83%81%E3%83%83%E3%83%97led%E3%81%AE%E6%A5%B5%E6%80%A7%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B/</link>
-      <pubDate>Wed, 29 Jan 2025 20:54:54 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E9%8F%A1%E3%81%AE%E4%B8%8A%E3%81%AB%E7%BD%AE%E3%81%8F%E3%81%93%E3%81%A8%E3%81%A7%E3%83%81%E3%83%83%E3%83%97led%E3%81%AE%E6%A5%B5%E6%80%A7%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/手鏡の上に置くことでチップLEDの極性を確認する.jpg"&gt;akita11さんのPostから発見。画像もここから転載。
-チップLEDの極性の確認はちょっと面倒です。 一般的に極性の表示はチップLEDの裏面にあるのですが、実装するときはその部分は下になっているため、もちあげて裏面を確認する必要があります。（表面にも特徴があるので、慣れれば裏返す必要はないですが・・）
-このPostでは手鏡の上に置くことでチップLEDの極性を確認する方法を紹介しています。 確かにこれなら裏面を持ち上げずに確認できそうです。</description>
     </item>
     
   </channel>

@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 10 Jun 2025 23:37:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 22:43:07 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタで作るワイヤーで引っ張ることで動作する腕</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E3%81%A7%E5%BC%95%E3%81%A3%E5%BC%B5%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B%E8%85%95/</link>
+      <pubDate>Wed, 11 Jun 2025 22:43:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E3%81%A7%E5%BC%95%E3%81%A3%E5%BC%B5%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B%E8%85%95/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作るワイヤーで引っ張ることで動作する腕.jpg"&gt;3D Printed Cable-Driven Mechanisms – Some Strings Attachedから発見。画像もここから転載。
+3Dプリンタで作るワイヤーで引っ張ることで動作する腕の実験です。 単に折れ曲がるだけでなく、造形を工夫することで、特定の方向に巻きいたり、何かをつかむような動作をするなど、様々な動きを実現しています。
+生き物のような動きをシンプルな仕組みで実現できる面白い研究です。
+ </description>
+    </item>
     
     <item>
       <title>ストロー状の袋に空気を入れると振動する現象を使って歩行させる実験</title>
@@ -115,17 +127,6 @@ Tscircuitはそのようなツールの1つですが、TypeScriptを使いWebの
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32をコアとしたかっこいい腕時計.jpg"&gt;CircuitMess Artemis: DIY NASA-Inspired Smartwatch Kitから発見。画像もここから転載。
 ESP32をコアとしたかっこいい腕時計です。 こういう腕時計型のデバイスを作る際は、サイズの制約が厳しい印象がありますが、この製品では思い切って横側にはみ出すデザインを採用しており、これはこれでかっこいい見た目を実現しています。
 実用性はともかく、デザインとして参考になりそうです。</description>
-    </item>
-    
-    <item>
-      <title>ESP32-S3をコアとした定規型携帯ゲーム機</title>
-      <link>https://inajob.github.io/iroiro-review/post/esp32-s3%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E5%AE%9A%E8%A6%8F%E5%9E%8B%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
-      <pubDate>Mon, 26 May 2025 23:42:59 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/esp32-s3%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E5%AE%9A%E8%A6%8F%E5%9E%8B%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32-S3をコアとした定規型携帯ゲーム機.jpg"&gt;Retro-Ruler &amp;ldquo;Rethink the rule with Retro-Ruler&amp;rdquo;から発見。画像もここから転載。
-ESP32-S3をコアとした定規型携帯ゲーム機です。 横向きに長い筐体にESP32-S3とゲーム操作用のボタン、液晶が入っています。 デモではゲーム機のエミュレータを動かしていますがESP32-S3なので任意のプログラムを動かすことができそうです。
-もちろん横長の筐体を定規として利用することもできます。筆箱に1つ入れておきたいですね。</description>
     </item>
     
   </channel>
