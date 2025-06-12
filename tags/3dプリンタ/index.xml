@@ -5,9 +5,24 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 11 Jun 2025 22:43:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jun 2025 23:20:43 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>巨大3Dプリンタのベッドをランニングマシーンで無限化する</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%B7%A8%E5%A4%A73d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%99%E3%83%83%E3%83%89%E3%82%92%E3%83%A9%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%B7%E3%83%BC%E3%83%B3%E3%81%A7%E7%84%A1%E9%99%90%E5%8C%96%E3%81%99%E3%82%8B/</link>
+      <pubDate>Thu, 12 Jun 2025 23:20:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%B7%A8%E5%A4%A73d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%99%E3%83%83%E3%83%89%E3%82%92%E3%83%A9%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%B7%E3%83%BC%E3%83%B3%E3%81%A7%E7%84%A1%E9%99%90%E5%8C%96%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/巨大3Dプリンタのベッドをランニングマシーンで無限化する.jpg"&gt;Making A Treadmill Into A 3D Printerから発見。画像もここから転載。
+以前、本物サイズの3Dプリンタ製の戦車模型 で紹介したのですが、この方は非常に大きな3Dプリンタを自作して、大きな造形物をたくさん作っています。
+そんな彼の取り組みの1つとして、無限に印刷できる仕組みです。
+一般的な大きさの3Dプリンタでもこのようなベルトコンベアのような仕組みを組み合わせた無限印刷ソリューションは存在しますが、けた外れに大きな大きな3Dプリンタの場合はどうすれば良いでしょうか？
+この記事ではランニングマシーンを改造して、動くベッドを作成しています。 ランニングマシーンに定着するために、ランニングマシーンを糊でべたべたにしたりと、いろいろ苦労がうかがえます。
+何もかも大きくて、まるで小人になった気持ちになるビデオも必見です。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタで作るワイヤーで引っ張ることで動作する腕</title>
@@ -122,23 +137,6 @@ Mac Miniを組み込んだポータブルコンピュータの作例です。
 あの音楽を簡単に演奏できるフィジェットの作例です
 3Dプリンタで作られた、様々な長さのツメを、スライドするピックが順番にはじいていくことで、あのゲームの名曲を演奏できるフィジェットです。 要はオルゴールと同じような仕組みですが、電源なしで音楽を奏でることができる、とても面白い作例です。
  </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタで腕時計の筐体を作る</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E8%85%95%E6%99%82%E8%A8%88%E3%81%AE%E7%AD%90%E4%BD%93%E3%82%92%E4%BD%9C%E3%82%8B/</link>
-      <pubDate>Thu, 10 Apr 2025 00:05:59 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E8%85%95%E6%99%82%E8%A8%88%E3%81%AE%E7%AD%90%E4%BD%93%E3%82%92%E4%BD%9C%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで腕時計の筐体を作る.jpg"&gt;ススガ全自動PさんのPostから発見。画像もここから転載。
-3Dプリンタで作られた腕時計の筐体です。 ムーブメントやバンドは市販のものを使っているようなので、あくまで腕時計のカスタマイズという感じですが、3Dプリンタ特有の積層痕が良い味を出していて、面白い見た目となっています。
-耐久性など気になるところですが、そこは3Dプリンタなので壊れたらまた作ればよい、ということもできそうです。
-3Dプリンタで腕時計！ついにできた✨️
-まだ隙間だらけ無骨だけど動くのが作れた！
-積層型3Dプリンタでは腕時計級の精密造形難しいのです。
-自慢ポイントは、文字盤。0.4mmノズルで分まで描けたよ😎
-ムーブメントと針は既製品流用 pic.twitter.com/eLkmidnpD1
-&amp;mdash; ススガ全自動P (@sugn74) March 28, 2025  </description>
     </item>
     
   </channel>

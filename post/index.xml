@@ -5,9 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 11 Jun 2025 22:43:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jun 2025 23:20:43 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>巨大3Dプリンタのベッドをランニングマシーンで無限化する</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%B7%A8%E5%A4%A73d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%99%E3%83%83%E3%83%89%E3%82%92%E3%83%A9%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%B7%E3%83%BC%E3%83%B3%E3%81%A7%E7%84%A1%E9%99%90%E5%8C%96%E3%81%99%E3%82%8B/</link>
+      <pubDate>Thu, 12 Jun 2025 23:20:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%B7%A8%E5%A4%A73d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%99%E3%83%83%E3%83%89%E3%82%92%E3%83%A9%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%B7%E3%83%BC%E3%83%B3%E3%81%A7%E7%84%A1%E9%99%90%E5%8C%96%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/巨大3Dプリンタのベッドをランニングマシーンで無限化する.jpg"&gt;Making A Treadmill Into A 3D Printerから発見。画像もここから転載。
+以前、本物サイズの3Dプリンタ製の戦車模型 で紹介したのですが、この方は非常に大きな3Dプリンタを自作して、大きな造形物をたくさん作っています。
+そんな彼の取り組みの1つとして、無限に印刷できる仕組みです。
+一般的な大きさの3Dプリンタでもこのようなベルトコンベアのような仕組みを組み合わせた無限印刷ソリューションは存在しますが、けた外れに大きな大きな3Dプリンタの場合はどうすれば良いでしょうか？
+この記事ではランニングマシーンを改造して、動くベッドを作成しています。 ランニングマシーンに定着するために、ランニングマシーンを糊でべたべたにしたりと、いろいろ苦労がうかがえます。
+何もかも大きくて、まるで小人になった気持ちになるビデオも必見です。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタで作るワイヤーで引っ張ることで動作する腕</title>
@@ -116,17 +131,6 @@ Tscircuitはそのようなツールの1つですが、TypeScriptを使いWebの
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/AtomS3を使った自作のスマートグラスA-Scouter.jpg"&gt;A-Scouterの紹介 ～AtomS3/S3Rのスカウター化キット～から発見。画像もここから転載。
 スマートグラス、特に視界に情報をオーバーレイするようなものは魅力的なガジェットですが、なかなか決定打となる製品がありません。 となると、自分でいろいろと試してみたくなるのがMakerというものです。
 このプレゼンでは、A-ScouterというAtomS3を利用した素朴な仕組みのスカウター的なデバイスを紹介しています。 AtomS3を収納しつつ、眼鏡のツルの部分にくっつけるというアイデアは素朴ですが、可能性を感じます。</description>
-    </item>
-    
-    <item>
-      <title>ESP32をコアとしたかっこいい腕時計</title>
-      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E8%85%95%E6%99%82%E8%A8%88/</link>
-      <pubDate>Tue, 27 May 2025 23:42:16 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E8%85%95%E6%99%82%E8%A8%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32をコアとしたかっこいい腕時計.jpg"&gt;CircuitMess Artemis: DIY NASA-Inspired Smartwatch Kitから発見。画像もここから転載。
-ESP32をコアとしたかっこいい腕時計です。 こういう腕時計型のデバイスを作る際は、サイズの制約が厳しい印象がありますが、この製品では思い切って横側にはみ出すデザインを採用しており、これはこれでかっこいい見た目を実現しています。
-実用性はともかく、デザインとして参考になりそうです。</description>
     </item>
     
   </channel>
