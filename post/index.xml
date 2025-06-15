@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 12 Jun 2025 23:20:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Jun 2025 23:46:01 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>フィラメントLEDをSFジオラマの小道具として使う</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88led%E3%82%92sf%E3%82%B8%E3%82%AA%E3%83%A9%E3%83%9E%E3%81%AE%E5%B0%8F%E9%81%93%E5%85%B7%E3%81%A8%E3%81%97%E3%81%A6%E4%BD%BF%E3%81%86/</link>
+      <pubDate>Sun, 15 Jun 2025 23:46:01 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88led%E3%82%92sf%E3%82%B8%E3%82%AA%E3%83%A9%E3%83%9E%E3%81%AE%E5%B0%8F%E9%81%93%E5%85%B7%E3%81%A8%E3%81%97%E3%81%A6%E4%BD%BF%E3%81%86/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/フィラメントLEDをSFジオラマの小道具として使う.jpg"&gt;A Simple Tip For Gluing Those LED Filamentsから発見。画像もここから転載。
+ジオラマにLEDを組み込む作例は多くありますが、フィラメントLEDはどうでしょう？ この記事ではフィラメントLEDを宇宙を舞台としたSFのジオラマの小道具として活用しています。
+細長く発行するフィラメントLEDが映画のVFXのような効果を演出しています。
+ </description>
+    </item>
     
     <item>
       <title>巨大3Dプリンタのベッドをランニングマシーンで無限化する</title>
@@ -120,17 +132,6 @@ Tscircuitはそのようなツールの1つですが、TypeScriptを使いWebの
 かわいいサイズのシンセサイザーです。 BASS、BOSS、DRUM、ARP、LEADと様々なバージョンが作成されており、これらはESPnow を使って無線で同期して動作します。
 プログラミングはCircuitPythonを使い、ライブラリとしてaudiocore, synthioを使っています。 デザインの試行錯誤や細かいこだわりが感じられ、とても素敵な電子楽器です。
  </description>
-    </item>
-    
-    <item>
-      <title>AtomS3を使った自作のスマートグラスA-Scouter</title>
-      <link>https://inajob.github.io/iroiro-review/post/atoms3%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E8%87%AA%E4%BD%9C%E3%81%AE%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B0%E3%83%A9%E3%82%B9a-scouter/</link>
-      <pubDate>Wed, 28 May 2025 23:47:32 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/atoms3%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E8%87%AA%E4%BD%9C%E3%81%AE%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B0%E3%83%A9%E3%82%B9a-scouter/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/AtomS3を使った自作のスマートグラスA-Scouter.jpg"&gt;A-Scouterの紹介 ～AtomS3/S3Rのスカウター化キット～から発見。画像もここから転載。
-スマートグラス、特に視界に情報をオーバーレイするようなものは魅力的なガジェットですが、なかなか決定打となる製品がありません。 となると、自分でいろいろと試してみたくなるのがMakerというものです。
-このプレゼンでは、A-ScouterというAtomS3を利用した素朴な仕組みのスカウター的なデバイスを紹介しています。 AtomS3を収納しつつ、眼鏡のツルの部分にくっつけるというアイデアは素朴ですが、可能性を感じます。</description>
     </item>
     
   </channel>
