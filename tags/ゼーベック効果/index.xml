@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ゼーベック効果 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E3%82%BC%E3%83%BC%E3%83%99%E3%83%83%E3%82%AF%E5%8A%B9%E6%9E%9C/</link>
+    <description>Recent content in ゼーベック効果 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Mon, 16 Jun 2025 23:33:57 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%82%BC%E3%83%BC%E3%83%99%E3%83%83%E3%82%AF%E5%8A%B9%E6%9E%9C/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>温度差で発電してLEDを点灯させる</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%B8%A9%E5%BA%A6%E5%B7%AE%E3%81%A7%E7%99%BA%E9%9B%BB%E3%81%97%E3%81%A6led%E3%82%92%E7%82%B9%E7%81%AF%E3%81%95%E3%81%9B%E3%82%8B/</link>
+      <pubDate>Mon, 16 Jun 2025 23:33:57 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%B8%A9%E5%BA%A6%E5%B7%AE%E3%81%A7%E7%99%BA%E9%9B%BB%E3%81%97%E3%81%A6led%E3%82%92%E7%82%B9%E7%81%AF%E3%81%95%E3%81%9B%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/温度差で発電してLEDを点灯させる.jpg"&gt;A Flashlight Of Fire And Iceから発見。画像もここから転載。
+温度差で発電できることは、知識として知ってる人は多いと思いますが、おうちでこれを試したことはありますか？
+この記事では、ペルチェ素子を使ってこの現象を試す方法を紹介しています。 ゼーベック効果はペルチェ効果と表裏の関係になっているので、モーターが発電機になるのと似たような関係で、温度差による発電を行うことが出来るようです。
+温度差を得る方法としては、ろうそくの炎と氷を使っています。 得られる電位差は大したことはないようですが、LEDを点灯させるくらいは出来るみたいです。
+ </description>
+    </item>
+    
+  </channel>
+</rss>
+
