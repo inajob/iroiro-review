@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 16 Jun 2025 23:33:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jun 2025 23:33:52 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32-C6をコアとしたかわいいフィットネストラッカー</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32-c6%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%82%AB%E3%83%BC/</link>
+      <pubDate>Tue, 17 Jun 2025 23:33:52 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32-c6%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%82%AB%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32-C6をコアとしたかわいいフィットネストラッカー.jpg"&gt;Piko - Your ESP32 Powered Fitness Buddyから発見。画像もここから転載。
+ESP32-C6をコアとしたかわいいフィットネストラッカーの作例です。 このような作例はたくさんありますが、この事例で特徴的なのはたまごっちを彷彿させる、かわいいドット絵です。
+やや、ごつい大きさではありますが、その分真似して自作するには良い作例です。（オープンソースでデータが公開されています）
+ </description>
+    </item>
     
     <item>
       <title>温度差で発電してLEDを点灯させる</title>
@@ -120,19 +132,6 @@ nRF52840で動作するCircuitPythonはUSBマスストレージの機能もBLE�
       <guid>https://inajob.github.io/iroiro-review/post/google-pixel-3-xl%E3%82%92%E3%83%A9%E3%83%83%E3%83%97%E3%83%88%E3%83%83%E3%83%97%E5%8C%96%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Google Pixel 3 XLをラップトップ化するためのフレーム.jpg"&gt;NetHunter C-deckから発見。画像もここから転載。
 Google Pixel 3 XLをラップトップ化するためのフレームです。 よくある構成ですが、骨組みのような外観がとても魅力的です。</description>
-    </item>
-    
-    <item>
-      <title>JSXのような記述で回路図を作るための仕組みTscircuit</title>
-      <link>https://inajob.github.io/iroiro-review/post/jsx%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E8%A8%98%E8%BF%B0%E3%81%A7%E5%9B%9E%E8%B7%AF%E5%9B%B3%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BFtscircuit/</link>
-      <pubDate>Sun, 01 Jun 2025 21:43:40 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/jsx%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E8%A8%98%E8%BF%B0%E3%81%A7%E5%9B%9E%E8%B7%AF%E5%9B%B3%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BFtscircuit/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/JSXのような記述で回路図を作るための仕組みTscircuit.jpg"&gt;Layout A PCB With Tscircuitから発見。画像もここから転載。
-JSXのような記述で回路図を作るための仕組みである「Tscircuit」を紹介します。
-回路図を書くためには一般的にはGUIの基板CADを使いますが、プログラミングでこれを記述する方法もいくつかあります。
-Tscircuitはそのようなツールの1つですが、TypeScriptを使いWebのフロントエンドのように回路図を設計することができるようです。
- </description>
     </item>
     
   </channel>
