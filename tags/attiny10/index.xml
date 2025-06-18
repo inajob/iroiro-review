@@ -5,9 +5,21 @@
     <description>Recent content in ATtiny10 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 19 Sep 2024 23:21:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 21:48:14 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/attiny10/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>マイコン内蔵の光るMakerChip</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3%E5%86%85%E8%94%B5%E3%81%AE%E5%85%89%E3%82%8Bmakerchip/</link>
+      <pubDate>Wed, 18 Jun 2025 21:48:14 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3%E5%86%85%E8%94%B5%E3%81%AE%E5%85%89%E3%82%8Bmakerchip/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/マイコン内蔵の光るMakerChip.jpg"&gt;しまさんのPostから発見。画像もここから転載。
+先日紹介したMakerChip ですが、中にマイコンを入れてLEDを点滅するという作例を発見しました。
+MakerChipの規格を満たしつつ、ATtinyとLED、コイン電池を搭載して。LEDが点滅する仕組みを内蔵しています。
+誰もが考える仕組みですが、実際このサイズに納めるためにはかなりの工夫と手先の器用さが要求されます。</description>
+    </item>
     
     <item>
       <title>ミニマルなカートリッジ式のゲーム機</title>
