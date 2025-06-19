@@ -34,6 +34,43 @@ Arduinoに16チャンネルのサーボモーターコントローラボード�
 ESP8266をコアとして、NTP経由で時刻を取得して、サーボモーターを動かすという単純な仕組みです。</description>
     </item>
     
+    <item>
+      <title>Arduinoとサーボモーターを使った自動アルコールディスペンサー</title>
+      <link>https://inajob.github.io/iroiro-review/post/arduino%E3%81%A8%E3%82%B5%E3%83%BC%E3%83%9C%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E8%87%AA%E5%8B%95%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B9%E3%83%9A%E3%83%B3%E3%82%B5%E3%83%BC/</link>
+      <pubDate>Thu, 02 Sep 2021 10:00:34 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/arduino%E3%81%A8%E3%82%B5%E3%83%BC%E3%83%9C%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E8%87%AA%E5%8B%95%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B9%E3%83%9A%E3%83%B3%E3%82%B5%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/automatic-hand-sanitizer-dispenser.png"&gt;DIY Easy Non-Contact Automatic Hand Sanitizer Dispenser or Automatic Soap Dispenser With Arduinoから発見。画像もここから転載（CC BY-NC-SA By justbarran）。
+コロナウィルスの影響で、自動でアルコールを出してくれるディスペンサーをあちこちで見かけるようになりました。
+この記事ではArduinoとサーボモーター、超音波センサーを使ってこれを自作しています。
+サーボモーターで糸を巻き取り、その力でプッシュ式のアルコールの頭を押すことで1回分のハンドソープを出すというシンプルな仕組みです。
+ </description>
+    </item>
+    
+    <item>
+      <title>宇宙船の操縦席のようなサーボモーターのテスト装置</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%AE%87%E5%AE%99%E8%88%B9%E3%81%AE%E6%93%8D%E7%B8%A6%E5%B8%AD%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%82%B5%E3%83%BC%E3%83%9C%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AE%E3%83%86%E3%82%B9%E3%83%88%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Sat, 14 Nov 2020 23:00:29 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%AE%87%E5%AE%99%E8%88%B9%E3%81%AE%E6%93%8D%E7%B8%A6%E5%B8%AD%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%82%B5%E3%83%BC%E3%83%9C%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AE%E3%83%86%E3%82%B9%E3%83%88%E8%A3%85%E7%BD%AE/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/servo-tester.png"&gt;SPACE-SAVING SERVO TESTER CONSOLE LOOKS SPACE-WORTHYから発見。画像もここから転載。
+3Dプリンタで作られた、かっこいい見た目のサーボモータのテスト装置です。 装置の形がカッコいいというのはテンションが上がってよさそうです。
+3Dプリンタでの造形は、展開図のような部品を出力しそれを折り曲げるようにして、作成されています。オーバーハングの印刷が難しい3Dプリンタにおいて、この「折り曲げる」という手法はかなり応用ができそうです。
+ </description>
+    </item>
+    
+    <item>
+      <title>サーボモーターで制御するシンプルなロボットアーム</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B5%E3%83%BC%E3%83%9C%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%A7%E5%88%B6%E5%BE%A1%E3%81%99%E3%82%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%A2%E3%83%BC%E3%83%A0/</link>
+      <pubDate>Sun, 05 Apr 2020 23:00:02 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B5%E3%83%BC%E3%83%9C%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%A7%E5%88%B6%E5%BE%A1%E3%81%99%E3%82%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%A2%E3%83%BC%E3%83%A0/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/servo-hand.jpg"&gt;Robotic Arm Gripperから発見。画像もここから転載。
+単純そうなロボットアームの作例です。
+閉じる力は輪ゴムを利用し、開く力をサーボモーターから与えるようにしています。 こうすることで電力を使わずアームを閉じることが実現できているようです。
+似たような作品を作る際には参考になりそうです。</description>
+    </item>
+    
   </channel>
 </rss>
 

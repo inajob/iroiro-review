@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>risp-game-lib on inajobのいろいろレビュー</title>
-    <link>https://inajob.github.io/iroiro-review/tags/risp-game-lib/</link>
-    <description>Recent content in risp-game-lib on inajobのいろいろレビュー</description>
+    <title>crisp-game-lib on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/crisp-game-lib/</link>
+    <description>Recent content in crisp-game-lib on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Wed, 23 Nov 2022 23:36:14 +0000</lastBuildDate>
     
-	<atom:link href="https://inajob.github.io/iroiro-review/tags/risp-game-lib/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/crisp-game-lib/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>M5Stackで動作するワンキーゲーム</title>
