@@ -5,9 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 22 Jun 2025 23:56:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jun 2025 23:52:44 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>555を使って作られたスタイロフォン的な電子楽器</title>
+      <link>https://inajob.github.io/iroiro-review/post/555%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AD%E3%83%95%E3%82%A9%E3%83%B3%E7%9A%84%E3%81%AA%E9%9B%BB%E5%AD%90%E6%A5%BD%E5%99%A8/</link>
+      <pubDate>Mon, 23 Jun 2025 23:52:44 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/555%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AD%E3%83%95%E3%82%A9%E3%83%B3%E7%9A%84%E3%81%AA%E9%9B%BB%E5%AD%90%E6%A5%BD%E5%99%A8/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/555を使って作られたスタイロフォン的な電子楽器.jpg"&gt;Stylus Synth Should Have Used A 555– And Did!から発見。画像もここから転載。
+スタイロフォンという電子楽器をご存じでしょうか？
+基板上に配置された金属のパッドを、付属の操作用金属棒でなぞることで、音を鳴らすことが出来る楽器です。 独特の音色が特徴で、「ザ・電子楽器」というような音がするとても面白い楽器です。
+この記事で紹介しているのはそんなスタイロフォンの自作例です。音源としては555を使っており、あの印象的な音色が再現されています。 また基板の部品配置やシルクもきれいで、見た目にもかっこいい楽器として完成しています。
+動画では多重録音を使って、この楽器のみで録音した曲のデモも紹介されています。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタで作られたスケートボード</title>
@@ -117,18 +131,6 @@ ESP32-C6をコアとしたかわいいフィットネストラッカーの作例
 ストロー状の袋に空気を入れると振動する現象を使って歩行させる実験です。
 こんな仕組みで歩行が？と思えますが、動画を見ると確かに歩いたり、泳いだりできています。
 この現象自体は日常でも見ていたのですが、ここまでうまいこと制御できるものだとは考えたことがなかったです。
- </description>
-    </item>
-    
-    <item>
-      <title>SMD部品をブレッドボードなどで扱いやすくするためのモジュール式Breakoutボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/smd%E9%83%A8%E5%93%81%E3%82%92%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AA%E3%81%A9%E3%81%A7%E6%89%B1%E3%81%84%E3%82%84%E3%81%99%E3%81%8F%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E5%BC%8Fbreakout%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Thu, 05 Jun 2025 23:58:52 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/smd%E9%83%A8%E5%93%81%E3%82%92%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AA%E3%81%A9%E3%81%A7%E6%89%B1%E3%81%84%E3%82%84%E3%81%99%E3%81%8F%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E5%BC%8Fbreakout%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/SMD部品をブレッドボードなどで扱いやすくするためのモジュール式Breakoutボード.jpg"&gt;Stamp: Modular Breakout Boards For SMD Prototypingから発見。画像もここから転載。
-SMD部品をブレッドボードなどで扱いやすくするためのモジュール式Breakoutボードです。 ブレッドボードだけでなくこのボードだけでもいろいろな接続ができるように便利な回路パターンが実装されています。 ボードは10種類用意してあり、様々な作例に対応しています。
-主底面にはメインの部品を実装し、裏面にはそれを補助する抵抗やコンデンサを実装することを想定しています。
  </description>
     </item>
     
