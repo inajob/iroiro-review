@@ -5,9 +5,26 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 24 Jun 2025 22:10:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 23:36:24 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>トースター風のかわいい3Dプリンタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%88%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E9%A2%A8%E3%81%AE%E3%81%8B%E3%82%8F%E3%81%84%E3%81%843d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
+      <pubDate>Wed, 25 Jun 2025 23:36:24 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%88%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E9%A2%A8%E3%81%AE%E3%81%8B%E3%82%8F%E3%81%84%E3%81%843d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/トースター風のかわいい3Dプリンタ.jpg"&gt;さまおれさんのPostからから発見。画像もここから転載。
+「3Dプリンタを作る」という活動があります。
+3Dプリンタ普及の大きな原動力となったのは、3Dプリンタがオープンソースで公開されていたことがあります。
+その流れを汲んで今でも自分で3Dプリンタを作る活動をしている人が多くいます。 この方はFraxinusという自作の3Dプリンタの設計を基に、独自のトースター風の3Dプリンタを自作しています。
+プリントが完成したときに「チン」と音が鳴るのがかわいいです。
+荷造り前の動作テスト。
+Benchy印刷完了まで26分、レース参加ならずw#Fraxinus pic.twitter.com/PO8bxmgThK
+&amp;mdash; さまおれ (@PlasticMikan) June 13, 2025  よし、焼けた。#Fraxinus pic.twitter.com/NU7PoDpp6P
+&amp;mdash; さまおれ (@PlasticMikan) June 6, 2025  </description>
+    </item>
     
     <item>
       <title>3Dプリンタで作られた音程の高低を当てるゲーム専用機</title>
@@ -119,18 +136,6 @@ Mac Miniを組み込んだポータブルコンピュータの作例です。
 ペンプロッターな愛い奴の書き初め。
 30倍速でどうぞ。 https://t.co/bpkCrPBAC3 pic.twitter.com/RwEaNDvmys
 &amp;mdash; ちゃーはん（CV: 木下浩之） @へっぽこラボ (@oicchahan) April 29, 2025  </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタ製の独自の仕組みのタイプライター</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E7%8B%AC%E8%87%AA%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%81%AE%E3%82%BF%E3%82%A4%E3%83%97%E3%83%A9%E3%82%A4%E3%82%BF%E3%83%BC/</link>
-      <pubDate>Tue, 20 May 2025 23:38:45 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E7%8B%AC%E8%87%AA%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%81%AE%E3%82%BF%E3%82%A4%E3%83%97%E3%83%A9%E3%82%A4%E3%82%BF%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ製の独自の仕組みのタイプライター.jpg"&gt;A New And Weird Kind Of Typewriterから発見。画像もここから転載。
-3Dプリンタ製の独自の仕組みのタイプライターの作例です。 独自の設計で、従来のタイプライターとは全く違った構成で、一見すると何の機械かわからないです。
-カーボン紙を使い文字を印字する仕組みです。
- </description>
     </item>
     
   </channel>
