@@ -5,9 +5,23 @@
     <description>Recent content in ゲーム機 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 24 Jun 2025 22:10:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 23:26:35 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CH32V006をコアとしたテレビゲーム端末</title>
+      <link>https://inajob.github.io/iroiro-review/post/ch32v006%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%83%86%E3%83%AC%E3%83%93%E3%82%B2%E3%83%BC%E3%83%A0%E7%AB%AF%E6%9C%AB/</link>
+      <pubDate>Thu, 26 Jun 2025 23:26:35 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/ch32v006%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%83%86%E3%83%AC%E3%83%93%E3%82%B2%E3%83%BC%E3%83%A0%E7%AB%AF%E6%9C%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32V006をコアとしたテレビゲーム端末.jpg"&gt;Miroslav NemecekさんのPostから発見。画像もここから転載。
+CH32V006をコアとしたテレビゲーム端末の作例です。
+CH32V006というのは、激安マイコンとして有名な（？）CH32V003の性能向上版です。 Flash ROMが62KB、RAMが8KBもあり、結構な処理を詰め込むことが出来ます。
+この例では、VGAケーブルを接続してテレビゲームを作成しています。 ゲーム開発用のライブラリであるCH32LibSDK も公開されています
+#Pidipad mini-console with CH32V006E8R6: The program loader from the SD card is up and running and fully functional. There were some issues arising from the specifics of the processor, but they were finally resolved. Now it&amp;#39;s time to develop applications (games) for this console. pic.twitter.com/GxRbFxwEiN
+&amp;mdash; Miroslav Nemecek (@NemecekPanda38) June 16, 2025  Another addition to my collection of DIY small cheap VGA consoles with CH32* - this time with CH32V006E8R6, with more memory (62KB flash, 8KB RAM), crystal (for better image stability) and SD card.</description>
+    </item>
     
     <item>
       <title>3Dプリンタで作られた音程の高低を当てるゲーム専用機</title>
@@ -114,16 +128,6 @@ OLEDの仕様が違うので、Arduboy用のバイナリをそのまま動かす
       <guid>https://inajob.github.io/iroiro-review/post/109%E3%81%AE%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%81%AE%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/10×9のマトリクスLEDの携帯ゲーム機.jpg"&gt;2024 Tiny Games Contest: Neat PCB Business Card Was Inspired By The Arduboyから発見。画像もここから転載。
 10×9のマトリクスLEDの携帯ゲーム機の作例です。 STMG030F6で制御しており、Charlieplexingでピン数を節約して制御しています。</description>
-    </item>
-    
-    <item>
-      <title>ミニゲームが遊べる名刺基板</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%9F%E3%83%8B%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%8C%E9%81%8A%E3%81%B9%E3%82%8B%E5%90%8D%E5%88%BA%E5%9F%BA%E6%9D%BF/</link>
-      <pubDate>Sun, 06 Oct 2024 23:05:18 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9F%E3%83%8B%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%8C%E9%81%8A%E3%81%B9%E3%82%8B%E5%90%8D%E5%88%BA%E5%9F%BA%E6%9D%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ミニゲームが遊べる名刺基板.jpg"&gt;2024 Business Card Challenge: Integrated Game Cardから発見。画像もここから転載。
-ミニゲームが遊べる名刺基板です。ATTiny85を使ったtinyjoypad互換となっており、既存のゲームも動作しそうです。 OLEDが基板付きのモジュールではなく、直接メイン基板にはんだ付けするスタイルにより薄型を実現しているのも面白いです。</description>
     </item>
     
   </channel>
