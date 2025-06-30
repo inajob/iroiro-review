@@ -5,9 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 30 Jun 2025 00:03:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 21:33:10 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>渦巻き状のジョイントで組み立てができる部品</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%B8%A6%E5%B7%BB%E3%81%8D%E7%8A%B6%E3%81%AE%E3%82%B8%E3%83%A7%E3%82%A4%E3%83%B3%E3%83%88%E3%81%A7%E7%B5%84%E3%81%BF%E7%AB%8B%E3%81%A6%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E9%83%A8%E5%93%81/</link>
+      <pubDate>Mon, 30 Jun 2025 21:33:10 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%B8%A6%E5%B7%BB%E3%81%8D%E7%8A%B6%E3%81%AE%E3%82%B8%E3%83%A7%E3%82%A4%E3%83%B3%E3%83%88%E3%81%A7%E7%B5%84%E3%81%BF%E7%AB%8B%E3%81%A6%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E9%83%A8%E5%93%81/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/渦巻き状のジョイントで組み立てができる部品.jpg"&gt;Spiral Connector Makes Fastener-Free Assembliesから発見。画像もここから転載。
+3Dプリントの造形を設計するとき、いくつかの部品に分けて生成し、最後にそれらを組み合わせるという手法を用いることはよくあります。
+この時それらの部品をどうやってくっつけるかというのが問題となります。瞬間接着剤、ねじ、はめ込みなどいろいろ選択肢があるのですが、この記事で紹介しているのは、特徴的な形状の「はめ込み」です。
+渦巻きのような形状の部品を4つ差し込むことでしっかりとはめ込むことが出来る形状となっており、見た目にもユニークで面白いです。
+またこのような渦巻きの形状は角ばった造形に比べると3Dプリンタに適した形となっており、美観と実用性の両方を兼ねそろえた面白いアイデアです。
+渦巻き状のジョイントで組み立てができる部品
+ </description>
+    </item>
     
     <item>
       <title>ダブルラックと呼ばれるパーツを組み合わせ拡大する構造を作る</title>
@@ -120,19 +135,6 @@ MakerChipの規格を満たしつつ、ATtinyとLED、コイン電池を搭載�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32-C6をコアとしたかわいいフィットネストラッカー.jpg"&gt;Piko - Your ESP32 Powered Fitness Buddyから発見。画像もここから転載。
 ESP32-C6をコアとしたかわいいフィットネストラッカーの作例です。 このような作例はたくさんありますが、この事例で特徴的なのはたまごっちを彷彿させる、かわいいドット絵です。
 やや、ごつい大きさではありますが、その分真似して自作するには良い作例です。（オープンソースでデータが公開されています）
- </description>
-    </item>
-    
-    <item>
-      <title>温度差で発電してLEDを点灯させる</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%B8%A9%E5%BA%A6%E5%B7%AE%E3%81%A7%E7%99%BA%E9%9B%BB%E3%81%97%E3%81%A6led%E3%82%92%E7%82%B9%E7%81%AF%E3%81%95%E3%81%9B%E3%82%8B/</link>
-      <pubDate>Mon, 16 Jun 2025 23:33:57 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%B8%A9%E5%BA%A6%E5%B7%AE%E3%81%A7%E7%99%BA%E9%9B%BB%E3%81%97%E3%81%A6led%E3%82%92%E7%82%B9%E7%81%AF%E3%81%95%E3%81%9B%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/温度差で発電してLEDを点灯させる.jpg"&gt;A Flashlight Of Fire And Iceから発見。画像もここから転載。
-温度差で発電できることは、知識として知ってる人は多いと思いますが、おうちでこれを試したことはありますか？
-この記事では、ペルチェ素子を使ってこの現象を試す方法を紹介しています。 ゼーベック効果はペルチェ効果と表裏の関係になっているので、モーターが発電機になるのと似たような関係で、温度差による発電を行うことが出来るようです。
-温度差を得る方法としては、ろうそくの炎と氷を使っています。 得られる電位差は大したことはないようですが、LEDを点灯させるくらいは出来るみたいです。
  </description>
     </item>
     
