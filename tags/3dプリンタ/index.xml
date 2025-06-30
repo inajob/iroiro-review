@@ -5,9 +5,21 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 25 Jun 2025 23:36:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 00:03:22 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ダブルラックと呼ばれるパーツを組み合わせ拡大する構造を作る</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%80%E3%83%96%E3%83%AB%E3%83%A9%E3%83%83%E3%82%AF%E3%81%A8%E5%91%BC%E3%81%B0%E3%82%8C%E3%82%8B%E3%83%91%E3%83%BC%E3%83%84%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E6%8B%A1%E5%A4%A7%E3%81%99%E3%82%8B%E6%A7%8B%E9%80%A0%E3%82%92%E4%BD%9C%E3%82%8B/</link>
+      <pubDate>Mon, 30 Jun 2025 00:03:22 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%80%E3%83%96%E3%83%AB%E3%83%A9%E3%83%83%E3%82%AF%E3%81%A8%E5%91%BC%E3%81%B0%E3%82%8C%E3%82%8B%E3%83%91%E3%83%BC%E3%83%84%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E6%8B%A1%E5%A4%A7%E3%81%99%E3%82%8B%E6%A7%8B%E9%80%A0%E3%82%92%E4%BD%9C%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ダブルラックと呼ばれるパーツを組み合わせ拡大する構造を作る.jpg"&gt;Expanding Racks In The Spirit Of The Hoberman Sphereから発見。画像もここから転載。
+3Dプリンタで作られたダブルラックと呼ばれるパーツを組み合わせて、1か所を引っ張ると全体が大きくなるような面白い構造を作る方法を紹介しています。
+からくりで何かを作るときの基礎パーツとして応用例はいろいろありそうです。
+ </description>
+    </item>
     
     <item>
       <title>トースター風のかわいい3Dプリンタ</title>
@@ -121,21 +133,6 @@ Mac Miniを組み込んだポータブルコンピュータの作例です。
 「組み込んだ」と書きましたが、単にMac Miniとモニタ、キーボードをいい感じに配置するための「おぼん」を作ったという感じです。 無骨な構成ですが、案外こんなもので良いのかもしれません。
 大きな成果物を3Dプリンタで分割して出力する方法や、ヒンジ部分の造形などに工夫が見られます。
  </description>
-    </item>
-    
-    <item>
-      <title>小型の3Dプリンタを改造して作ったペンプロッタ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%B0%8F%E5%9E%8B%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E4%BD%9C%E3%81%A3%E3%81%9F%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</link>
-      <pubDate>Wed, 21 May 2025 23:34:46 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%B0%8F%E5%9E%8B%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E6%94%B9%E9%80%A0%E3%81%97%E3%81%A6%E4%BD%9C%E3%81%A3%E3%81%9F%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/小型の3Dプリンタを改造して作ったペンプロッタ.jpg"&gt;ちゃーはん（CV: 木下浩之） @へっぽこラボさんのPostから発見。画像もここから転載。
-格安の小型の3Dプリンタ（EasyThreed K10）を改造して作ったペンプロッタの作例です
-1万円未満で購入できる小型の3Dプリンタを改造してペンプロッタを作っています。 ペンプロッタに改造するためのパーツの大半も3Dプリンタで作成しています。
-ペンプロッタを部品そろえて作るのは大変なので、こういう既製品を改造して作るのは良いですね。
-ペンプロッターな愛い奴の書き初め。
-30倍速でどうぞ。 https://t.co/bpkCrPBAC3 pic.twitter.com/RwEaNDvmys
-&amp;mdash; ちゃーはん（CV: 木下浩之） @へっぽこラボ (@oicchahan) April 29, 2025  </description>
     </item>
     
   </channel>
