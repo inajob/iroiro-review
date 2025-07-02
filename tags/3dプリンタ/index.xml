@@ -5,9 +5,24 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 02 Jul 2025 21:33:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jul 2025 23:51:22 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>リンク機構を用いたヤドカリロボット</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AA%E3%83%B3%E3%82%AF%E6%A9%9F%E6%A7%8B%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E3%83%A4%E3%83%89%E3%82%AB%E3%83%AA%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</link>
+      <pubDate>Wed, 02 Jul 2025 23:51:22 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AA%E3%83%B3%E3%82%AF%E6%A9%9F%E6%A7%8B%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E3%83%A4%E3%83%89%E3%82%AB%E3%83%AA%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/リンク機構を用いたヤドカリロボット.jpg"&gt;三角コーンに擬態するヤドカリロボットを作ってみた【NT金沢】から発見。画像もここから転載。
+何の変哲もない三角コーン・・かと思いきや、カクっと向きが変わって、「シャカシャカシャカ」と歩き始める、ヤドカリロボットです
+NT金沢でお披露目されたもののようですが、そのアイデアもさることながら、3Dプリンタをフルに使った設計となっており、3Dプリンタのすごさを実感できる作例となっています。
+ブログ記事に詳細がまとまっているので、ぜひ見てみてください。
+#NT金沢　二日目！
+元気にシャカシャカしてます！ pic.twitter.com/JCw5BI5OJH
+&amp;mdash; shikky-lab (@shikky27) June 22, 2025  </description>
+    </item>
     
     <item>
       <title>リンク機構を用いたヤドカリロボット</title>
@@ -125,18 +140,6 @@ Benchy印刷完了まで26分、レース参加ならずw#Fraxinus pic.twitter.c
 一般的な大きさの3Dプリンタでもこのようなベルトコンベアのような仕組みを組み合わせた無限印刷ソリューションは存在しますが、けた外れに大きな大きな3Dプリンタの場合はどうすれば良いでしょうか？
 この記事ではランニングマシーンを改造して、動くベッドを作成しています。 ランニングマシーンに定着するために、ランニングマシーンを糊でべたべたにしたりと、いろいろ苦労がうかがえます。
 何もかも大きくて、まるで小人になった気持ちになるビデオも必見です。
- </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタで作るワイヤーで引っ張ることで動作する腕</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E3%81%A7%E5%BC%95%E3%81%A3%E5%BC%B5%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B%E8%85%95/</link>
-      <pubDate>Wed, 11 Jun 2025 22:43:07 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E3%81%A7%E5%BC%95%E3%81%A3%E5%BC%B5%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B%E8%85%95/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作るワイヤーで引っ張ることで動作する腕.jpg"&gt;3D Printed Cable-Driven Mechanisms – Some Strings Attachedから発見。画像もここから転載。
-3Dプリンタで作るワイヤーで引っ張ることで動作する腕の実験です。 単に折れ曲がるだけでなく、造形を工夫することで、特定の方向に巻きいたり、何かをつかむような動作をするなど、様々な動きを実現しています。
-生き物のような動きをシンプルな仕組みで実現できる面白い研究です。
  </description>
     </item>
     
