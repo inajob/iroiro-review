@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 02 Jul 2025 23:51:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jul 2025 23:24:31 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>温度で色が変わる塗料を使った太陽を模した時計</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%B8%A9%E5%BA%A6%E3%81%A7%E8%89%B2%E3%81%8C%E5%A4%89%E3%82%8F%E3%82%8B%E5%A1%97%E6%96%99%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%A4%AA%E9%99%BD%E3%82%92%E6%A8%A1%E3%81%97%E3%81%9F%E6%99%82%E8%A8%88/</link>
+      <pubDate>Thu, 03 Jul 2025 23:24:31 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%B8%A9%E5%BA%A6%E3%81%A7%E8%89%B2%E3%81%8C%E5%A4%89%E3%82%8F%E3%82%8B%E5%A1%97%E6%96%99%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%A4%AA%E9%99%BD%E3%82%92%E6%A8%A1%E3%81%97%E3%81%9F%E6%99%82%E8%A8%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/温度で色が変わる塗料を使った太陽を模した時計.jpg"&gt;This Thermochromic Clock Is A Ray Of Sunshineから発見。画像もここから転載。
+太陽を模したセグメントを採用した時計なのですが、このセグメント、温度で色が変化するサーモクロミック塗料が使われており、電気でここを温めることでじんわりと色が変化します。
+デジタルなセグメント表示ですが、じわじわと変化するセグメントが面白い、印象的な作例です。
+ </description>
+    </item>
     
     <item>
       <title>リンク機構を用いたヤドカリロボット</title>
@@ -132,17 +144,6 @@ Benchy印刷完了まで26分、レース参加ならずw#Fraxinus pic.twitter.c
 この記事で紹介しているのはそんなスタイロフォンの自作例です。音源としては555を使っており、あの印象的な音色が再現されています。 また基板の部品配置やシルクもきれいで、見た目にもかっこいい楽器として完成しています。
 動画では多重録音を使って、この楽器のみで録音した曲のデモも紹介されています。
  </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタで作られたスケートボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%88%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Sun, 22 Jun 2025 23:56:58 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%88%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作られたスケートボード.jpg"&gt;You Wouldn’t Download A Skateboard?から発見。画像もここから転載。
-3Dプリンタで作ったものは、何となく「脆い」、「壊れやすい」と思っていませんか？ 実は一概にそんなことは言えず、設計を工夫したり、材料や充填率を調整することでかなりの強度を実現できます。
-このページでは、3Dプリントされたスケートボードを紹介しています。基本的な設計は真似しつつ、自分好みにカスタマイズするのも簡単そうです。 自分好みのデザインでスケートボードが作れるというのは、なかなか面白い体験だと感じました。</description>
     </item>
     
   </channel>

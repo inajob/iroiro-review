@@ -5,9 +5,21 @@
     <description>Recent content in 表示機 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 19 May 2025 21:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jul 2025 23:24:31 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E8%A1%A8%E7%A4%BA%E6%A9%9F/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>温度で色が変わる塗料を使った太陽を模した時計</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%B8%A9%E5%BA%A6%E3%81%A7%E8%89%B2%E3%81%8C%E5%A4%89%E3%82%8F%E3%82%8B%E5%A1%97%E6%96%99%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%A4%AA%E9%99%BD%E3%82%92%E6%A8%A1%E3%81%97%E3%81%9F%E6%99%82%E8%A8%88/</link>
+      <pubDate>Thu, 03 Jul 2025 23:24:31 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%B8%A9%E5%BA%A6%E3%81%A7%E8%89%B2%E3%81%8C%E5%A4%89%E3%82%8F%E3%82%8B%E5%A1%97%E6%96%99%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%A4%AA%E9%99%BD%E3%82%92%E6%A8%A1%E3%81%97%E3%81%9F%E6%99%82%E8%A8%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/温度で色が変わる塗料を使った太陽を模した時計.jpg"&gt;This Thermochromic Clock Is A Ray Of Sunshineから発見。画像もここから転載。
+太陽を模したセグメントを採用した時計なのですが、このセグメント、温度で色が変化するサーモクロミック塗料が使われており、電気でここを温めることでじんわりと色が変化します。
+デジタルなセグメント表示ですが、じわじわと変化するセグメントが面白い、印象的な作例です。
+ </description>
+    </item>
     
     <item>
       <title>4面にフルカラードットマトリクスLEDを搭載したカウントダウンタイマー</title>
@@ -115,17 +127,6 @@
 通常フリップドット表示機は電磁石により同的に制御しますが、この作例では、回転する円盤の上に磁石を配置し、この円盤を開店することで表示内容を切り替えています。
 電力なしでデジタル表示の乱数を得る仕組みとしても面白いです。
  </description>
-    </item>
-    
-    <item>
-      <title>フィラメントタイプのLEDを使った7セグメント表示機</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%BF%E3%82%A4%E3%83%97%E3%81%AEled%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
-      <pubDate>Tue, 30 Jul 2024 23:30:08 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%BF%E3%82%A4%E3%83%97%E3%81%AEled%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F7%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/フィラメントタイプのLEDを使った7セグメント表示機.jpg"&gt;LED Filament 2.5 Digit Display BETA by Eean on Tindieから発見。画像もここから転載。
-フィラメントタイプのLEDを使った7セグメント表示機の作例です。
-様々な長さのフィラメントLEDを利用すると一般的な7セグメント表示機以外にも様々な表示器を作ることができそうです。</description>
     </item>
     
   </channel>
