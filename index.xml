@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 06 Jul 2025 23:37:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jul 2025 21:11:24 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリントでスライスを工夫して木製のような見た目にする</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A7%E3%82%B9%E3%83%A9%E3%82%A4%E3%82%B9%E3%82%92%E5%B7%A5%E5%A4%AB%E3%81%97%E3%81%A6%E6%9C%A8%E8%A3%BD%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AB%E3%81%99%E3%82%8B/</link>
+      <pubDate>Mon, 07 Jul 2025 21:11:24 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A7%E3%82%B9%E3%83%A9%E3%82%A4%E3%82%B9%E3%82%92%E5%B7%A5%E5%A4%AB%E3%81%97%E3%81%A6%E6%9C%A8%E8%A3%BD%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AB%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリントでスライスを工夫して木製のような見た目にする.jpg"&gt;Add Wood Grain Texture To 3D Prints – With A Model Of A Logから発見。画像もここから転載。
+3Dプリントでスライスを工夫して木製のような見た目にするテクニックです。
+印刷したいモデルに対して、丸太のモデルをモディファイアとして適用することで、本物の木製のような仕上がりを実現しています。
+ウッドフィラメントを使うとさらにそれっぽくなるようです。
+ </description>
+    </item>
     
     <item>
       <title>お古の3Dプリンタの部品でラジコンを作る</title>
@@ -131,17 +144,6 @@ CH32V006というのは、激安マイコンとして有名な（？）CH32V003�
 Benchy印刷完了まで26分、レース参加ならずw#Fraxinus pic.twitter.com/PO8bxmgThK
 &amp;mdash; さまおれ (@PlasticMikan) June 13, 2025  よし、焼けた。#Fraxinus pic.twitter.com/NU7PoDpp6P
 &amp;mdash; さまおれ (@PlasticMikan) June 6, 2025  </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタで作られた音程の高低を当てるゲーム専用機</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E9%9F%B3%E7%A8%8B%E3%81%AE%E9%AB%98%E4%BD%8E%E3%82%92%E5%BD%93%E3%81%A6%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E5%B0%82%E7%94%A8%E6%A9%9F/</link>
-      <pubDate>Tue, 24 Jun 2025 22:10:55 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E9%9F%B3%E7%A8%8B%E3%81%AE%E9%AB%98%E4%BD%8E%E3%82%92%E5%BD%93%E3%81%A6%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E5%B0%82%E7%94%A8%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作られた音程の高低を当てるゲーム専用機.jpg"&gt;Tune In To “Higher Lower”, The Minimal Handheld Electronic Gameから発見。画像もここから転載。
-3Dプリンタをフルに活用した筐体が印象的な、音程の高低を当てるゲームの専用機です。 筐体の設計はOpenSCADで行われており、ソフトウェアのプロトタイピングとして携帯ゲーム機であるArduboyを使う面白い手法を採用しています。
- </description>
     </item>
     
   </channel>

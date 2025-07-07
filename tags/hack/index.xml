@@ -5,9 +5,22 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 30 Jun 2025 21:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jul 2025 21:11:24 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリントでスライスを工夫して木製のような見た目にする</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A7%E3%82%B9%E3%83%A9%E3%82%A4%E3%82%B9%E3%82%92%E5%B7%A5%E5%A4%AB%E3%81%97%E3%81%A6%E6%9C%A8%E8%A3%BD%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AB%E3%81%99%E3%82%8B/</link>
+      <pubDate>Mon, 07 Jul 2025 21:11:24 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A7%E3%82%B9%E3%83%A9%E3%82%A4%E3%82%B9%E3%82%92%E5%B7%A5%E5%A4%AB%E3%81%97%E3%81%A6%E6%9C%A8%E8%A3%BD%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AB%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリントでスライスを工夫して木製のような見た目にする.jpg"&gt;Add Wood Grain Texture To 3D Prints – With A Model Of A Logから発見。画像もここから転載。
+3Dプリントでスライスを工夫して木製のような見た目にするテクニックです。
+印刷したいモデルに対して、丸太のモデルをモディファイアとして適用することで、本物の木製のような仕上がりを実現しています。
+ウッドフィラメントを使うとさらにそれっぽくなるようです。
+ </description>
+    </item>
     
     <item>
       <title>渦巻き状のジョイントで組み立てができる部品</title>
@@ -119,18 +132,6 @@
 よくある「はんだごて」は、電気の力で小手先を温めるもので、バッテリーやコンセントを使って電気を供給する必要があります（ガス式などもあります）
 この記事では電子レンジで加熱することで、利用できるはんだごてを紹介しています。 こての内部に熱容量の大きなシリコンカーバイドを内蔵しており、この余熱ではんだづけをするという仕組みのようです。
 温度を細かく調整することは難しそうですが、電源の問題を気にせずはんだ付けを出来る面白い仕組みです。
- </description>
-    </item>
-    
-    <item>
-      <title>AppleのLightning to HDMIアダプタでDOOMを動かす</title>
-      <link>https://inajob.github.io/iroiro-review/post/apple%E3%81%AElightning-to-hdmi%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E3%81%A7doom%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</link>
-      <pubDate>Tue, 11 Feb 2025 21:50:33 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/apple%E3%81%AElightning-to-hdmi%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E3%81%A7doom%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/AppleのLightning to HDMIアダプタでDOOMを動かす.jpg"&gt;Running Doom On An Apple Lightning To HDMI Adapterから発見。画像もここから転載。
-どんなデバイスにも移植されるFPSゲームであるDOOMですが、この記事ではAppleのLightning to HDMIアダプタでDOOMを動かしています。
-このアダプタは単なる変換ケーブルではなく、内部に汎用CPUが入っており、これをハッキングすることで任意のコードの実行を実現し、DOOMを動かしているようです。
  </description>
     </item>
     
