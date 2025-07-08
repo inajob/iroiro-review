@@ -5,9 +5,21 @@
     <description>Recent content in クラウドファンディング on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 03 Oct 2024 23:42:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Jul 2025 20:58:36 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>8x8フルカラーLED搭載の教育用ゲーム機</title>
+      <link>https://inajob.github.io/iroiro-review/post/8x8%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCled%E6%90%AD%E8%BC%89%E3%81%AE%E6%95%99%E8%82%B2%E7%94%A8%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Tue, 08 Jul 2025 20:58:36 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/8x8%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCled%E6%90%AD%E8%BC%89%E3%81%AE%E6%95%99%E8%82%B2%E7%94%A8%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/8x8フルカラーLED搭載の教育用ゲーム機.jpg"&gt;Pixo: Build Your Own Game Consoleから発見。画像もここから転載。
+8x8フルカラーLED搭載の教育用ゲーム機です。コアはATmega328で、Arduinoで開発できます。 教育用ということで、丁寧な説明書やオンラインフォーラムなどが魅力的です。
+この画面とキーがあったら何ができるかな？制約があることで生まれるゲームなどもありそうです。
+ </description>
+    </item>
     
     <item>
       <title>外部キーボードによる文字入力に特化した端末</title>
@@ -119,20 +131,6 @@ MNT Reform でPre-Orderができるようです。
 ボタンを押すだけでカウントダウンが始まり、さらに砂時計と違って、途中でリセットしてすぐさまタイマーを再設定することができます。（当たり前ですが・・） 電源ははCR2032、CPUはPIC10LF320を使っています。
 コンパクトでシンプルですが非常によくできたガジェットです。
  </description>
-    </item>
-    
-    <item>
-      <title>チョコレートで造形する3Dプリンタ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E3%81%A7%E9%80%A0%E5%BD%A2%E3%81%99%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
-      <pubDate>Tue, 24 Dec 2019 23:00:32 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E3%81%A7%E9%80%A0%E5%BD%A2%E3%81%99%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/choco-3d-printer.jpg"&gt;It’s all about Chocoから発見。画像もここから転載。
-チョコレートを材料とした3Dプリンタが登場しました。 確かにチョコレートは比較的簡単に3Dプリンタで扱うことができるように思います。
-いわゆる「フィラメント」のようなものはどのように提供されるのか？簡単に自作できるのか？ 失敗したプリントはまた材料として使うことができるのか？
-など気になることが満載です。
-まぁチョコレートだし失敗したら食べちゃうってのもありですね！
-kickstarterでのキャンペーンは無事終了し、販売を開始しているようです。</description>
     </item>
     
   </channel>
