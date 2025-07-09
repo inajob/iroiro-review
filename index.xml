@@ -5,9 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 08 Jul 2025 20:58:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 22:16:41 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ピンヘッダを簡易ブレッドボードとして使う技</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%94%E3%83%B3%E3%83%98%E3%83%83%E3%83%80%E3%82%92%E7%B0%A1%E6%98%93%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%81%A8%E3%81%97%E3%81%A6%E4%BD%BF%E3%81%86%E6%8A%80/</link>
+      <pubDate>Wed, 09 Jul 2025 22:16:41 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%94%E3%83%B3%E3%83%98%E3%83%83%E3%83%80%E3%82%92%E7%B0%A1%E6%98%93%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%81%A8%E3%81%97%E3%81%A6%E4%BD%BF%E3%81%86%E6%8A%80/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ピンヘッダを簡易ブレッドボードとして使う技.jpg"&gt;カワヅさんのPostから発見。画像もここから転載。
+ブレッドボードは便利ですが、欲しい時に手元に無かったりしませんか？（自分はよくあります） そんな時に手元の部品でブレッドボードと近いことが出来ないでしょうか？
+そこで便利そうなのが、このPostで紹介しているピンヘッダを簡易ブレッドボードとして使う技です。
+ピンヘッダはブレッドボードと比べると安価で、（きっと）大量に部品箱にもあるので、雑ではありますが、良いアイデアのように見えます。 端子がむき出しいなってしまうので、絶縁処理は気を付ける必要があります。
+まぁこの方法でもジャンパワイヤが足りなくなりそうなので、大量に買い込むか、あくまでもプロロトタイピングと割り切り、最終的にはユニバーサル基板やPCBを作るのがよさそうです。
+これが俺のブレボだーーーーー！ https://t.co/uHbQJ0pW8m pic.twitter.com/YBk0xtLiFD
+&amp;mdash; カワヅ（黄色いハゲ） (@necobut) July 4, 2025  </description>
+    </item>
     
     <item>
       <title>8x8フルカラーLED搭載の教育用ゲーム機</title>
@@ -125,20 +140,6 @@ Pruntと呼ばれる新しい3Dプリンタコントローラボードとファ�
 3Dプリンタで作られたダブルラックと呼ばれるパーツを組み合わせて、1か所を引っ張ると全体が大きくなるような面白い構造を作る方法を紹介しています。
 からくりで何かを作るときの基礎パーツとして応用例はいろいろありそうです。
  </description>
-    </item>
-    
-    <item>
-      <title>CH32V006をコアとしたテレビゲーム端末</title>
-      <link>https://inajob.github.io/iroiro-review/post/ch32v006%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%83%86%E3%83%AC%E3%83%93%E3%82%B2%E3%83%BC%E3%83%A0%E7%AB%AF%E6%9C%AB/</link>
-      <pubDate>Thu, 26 Jun 2025 23:26:35 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/ch32v006%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%83%86%E3%83%AC%E3%83%93%E3%82%B2%E3%83%BC%E3%83%A0%E7%AB%AF%E6%9C%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32V006をコアとしたテレビゲーム端末.jpg"&gt;Miroslav NemecekさんのPostから発見。画像もここから転載。
-CH32V006をコアとしたテレビゲーム端末の作例です。
-CH32V006というのは、激安マイコンとして有名な（？）CH32V003の性能向上版です。 Flash ROMが62KB、RAMが8KBもあり、結構な処理を詰め込むことが出来ます。
-この例では、VGAケーブルを接続してテレビゲームを作成しています。 ゲーム開発用のライブラリであるCH32LibSDK も公開されています
-#Pidipad mini-console with CH32V006E8R6: The program loader from the SD card is up and running and fully functional. There were some issues arising from the specifics of the processor, but they were finally resolved. Now it&amp;#39;s time to develop applications (games) for this console. pic.twitter.com/GxRbFxwEiN
-&amp;mdash; Miroslav Nemecek (@NemecekPanda38) June 16, 2025  Another addition to my collection of DIY small cheap VGA consoles with CH32* - this time with CH32V006E8R6, with more memory (62KB flash, 8KB RAM), crystal (for better image stability) and SD card.</description>
     </item>
     
   </channel>

@@ -5,9 +5,24 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 07 Jul 2025 21:11:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 22:16:41 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ピンヘッダを簡易ブレッドボードとして使う技</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%94%E3%83%B3%E3%83%98%E3%83%83%E3%83%80%E3%82%92%E7%B0%A1%E6%98%93%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%81%A8%E3%81%97%E3%81%A6%E4%BD%BF%E3%81%86%E6%8A%80/</link>
+      <pubDate>Wed, 09 Jul 2025 22:16:41 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%94%E3%83%B3%E3%83%98%E3%83%83%E3%83%80%E3%82%92%E7%B0%A1%E6%98%93%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%81%A8%E3%81%97%E3%81%A6%E4%BD%BF%E3%81%86%E6%8A%80/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ピンヘッダを簡易ブレッドボードとして使う技.jpg"&gt;カワヅさんのPostから発見。画像もここから転載。
+ブレッドボードは便利ですが、欲しい時に手元に無かったりしませんか？（自分はよくあります） そんな時に手元の部品でブレッドボードと近いことが出来ないでしょうか？
+そこで便利そうなのが、このPostで紹介しているピンヘッダを簡易ブレッドボードとして使う技です。
+ピンヘッダはブレッドボードと比べると安価で、（きっと）大量に部品箱にもあるので、雑ではありますが、良いアイデアのように見えます。 端子がむき出しいなってしまうので、絶縁処理は気を付ける必要があります。
+まぁこの方法でもジャンパワイヤが足りなくなりそうなので、大量に買い込むか、あくまでもプロロトタイピングと割り切り、最終的にはユニバーサル基板やPCBを作るのがよさそうです。
+これが俺のブレボだーーーーー！ https://t.co/uHbQJ0pW8m pic.twitter.com/YBk0xtLiFD
+&amp;mdash; カワヅ（黄色いハゲ） (@necobut) July 4, 2025  </description>
+    </item>
     
     <item>
       <title>3Dプリントでスライスを工夫して木製のような見た目にする</title>
@@ -119,19 +134,6 @@
 電子機器の近くにAMラジオを近づけると、干渉を受けて変なノイズが乗ります。
 このPostではこの現象を逆手にとって、AMラジオで受信できる音楽をマイコンから発生させています。 この原理を使えば、AMラジオをスピーカーとした楽器を手軽に作ることができそうです。
 ※強い電波を不用意に出すと、電波法違反になってしまうため、試す際には注意が必要です。
- </description>
-    </item>
-    
-    <item>
-      <title>電子レンジで加熱して利用するはんだごて</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%A7%E5%8A%A0%E7%86%B1%E3%81%97%E3%81%A6%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B%E3%81%AF%E3%82%93%E3%81%A0%E3%81%94%E3%81%A6/</link>
-      <pubDate>Wed, 12 Feb 2025 21:42:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%A7%E5%8A%A0%E7%86%B1%E3%81%97%E3%81%A6%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B%E3%81%AF%E3%82%93%E3%81%A0%E3%81%94%E3%81%A6/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/電子レンジで加熱して利用するはんだごて.jpg"&gt;A Cordless Soldering Iron With A Differenceから発見。画像もここから転載。
-よくある「はんだごて」は、電気の力で小手先を温めるもので、バッテリーやコンセントを使って電気を供給する必要があります（ガス式などもあります）
-この記事では電子レンジで加熱することで、利用できるはんだごてを紹介しています。 こての内部に熱容量の大きなシリコンカーバイドを内蔵しており、この余熱ではんだづけをするという仕組みのようです。
-温度を細かく調整することは難しそうですが、電源の問題を気にせずはんだ付けを出来る面白い仕組みです。
  </description>
     </item>
     
