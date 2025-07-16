@@ -5,9 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 15 Jul 2025 21:46:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 21:42:25 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MakerChipガチャ</title>
+      <link>https://inajob.github.io/iroiro-review/post/makerchip%E3%82%AC%E3%83%81%E3%83%A3/</link>
+      <pubDate>Wed, 16 Jul 2025 21:42:25 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/makerchip%E3%82%AC%E3%83%81%E3%83%A3/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/MakerChipガチャ.jpg"&gt;KURIOさんのPostから発見。画像もここから転載。
+MakerChipは、最近日本のMaker界隈で話題になっている、3Dプリンタ製の名刺代わりのチップですが、これを使って遊ぶことが出来る「ガチャガチャ」です。
+単なる「ガチャガチャ」ではなく、Chipを入れるとChipが出てくるという「MakerChip交換機」となっています。
+データは有償で公開されているので、興味ある人は購入してみてはどうでしょうか？ https://montblancprint.booth.pm/
+MakerChipガチャガチャ出来た！
+需要があれば何らかの形でデータ公開しようかな。 pic.twitter.com/Ojo7IzgFJb
+&amp;mdash; KURIO (@CD8pjc) June 29, 2025  </description>
+    </item>
     
     <item>
       <title>フロッピーディスクドライブを使ったもぐら叩きゲーム</title>
@@ -121,21 +136,6 @@
 太陽を模したセグメントを採用した時計なのですが、このセグメント、温度で色が変化するサーモクロミック塗料が使われており、電気でここを温めることでじんわりと色が変化します。
 デジタルなセグメント表示ですが、じわじわと変化するセグメントが面白い、印象的な作例です。
  </description>
-    </item>
-    
-    <item>
-      <title>リンク機構を用いたヤドカリロボット</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AA%E3%83%B3%E3%82%AF%E6%A9%9F%E6%A7%8B%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E3%83%A4%E3%83%89%E3%82%AB%E3%83%AA%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</link>
-      <pubDate>Wed, 02 Jul 2025 23:51:22 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AA%E3%83%B3%E3%82%AF%E6%A9%9F%E6%A7%8B%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E3%83%A4%E3%83%89%E3%82%AB%E3%83%AA%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/リンク機構を用いたヤドカリロボット.jpg"&gt;三角コーンに擬態するヤドカリロボットを作ってみた【NT金沢】から発見。画像もここから転載。
-何の変哲もない三角コーン・・かと思いきや、カクっと向きが変わって、「シャカシャカシャカ」と歩き始める、ヤドカリロボットです
-NT金沢でお披露目されたもののようですが、そのアイデアもさることながら、3Dプリンタをフルに使った設計となっており、3Dプリンタのすごさを実感できる作例となっています。
-ブログ記事に詳細がまとまっているので、ぜひ見てみてください。
-#NT金沢　二日目！
-元気にシャカシャカしてます！ pic.twitter.com/JCw5BI5OJH
-&amp;mdash; shikky-lab (@shikky27) June 22, 2025  </description>
     </item>
     
   </channel>

@@ -5,9 +5,24 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 14 Jul 2025 23:45:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 21:42:25 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MakerChipガチャ</title>
+      <link>https://inajob.github.io/iroiro-review/post/makerchip%E3%82%AC%E3%83%81%E3%83%A3/</link>
+      <pubDate>Wed, 16 Jul 2025 21:42:25 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/makerchip%E3%82%AC%E3%83%81%E3%83%A3/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/MakerChipガチャ.jpg"&gt;KURIOさんのPostから発見。画像もここから転載。
+MakerChipは、最近日本のMaker界隈で話題になっている、3Dプリンタ製の名刺代わりのチップですが、これを使って遊ぶことが出来る「ガチャガチャ」です。
+単なる「ガチャガチャ」ではなく、Chipを入れるとChipが出てくるという「MakerChip交換機」となっています。
+データは有償で公開されているので、興味ある人は購入してみてはどうでしょうか？ https://montblancprint.booth.pm/
+MakerChipガチャガチャ出来た！
+需要があれば何らかの形でデータ公開しようかな。 pic.twitter.com/Ojo7IzgFJb
+&amp;mdash; KURIO (@CD8pjc) June 29, 2025  </description>
+    </item>
     
     <item>
       <title>3DBenchyを2分で印刷する3Dプリンタ</title>
@@ -130,17 +145,6 @@ Benchy印刷完了まで26分、レース参加ならずw#Fraxinus pic.twitter.c
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作られた音程の高低を当てるゲーム専用機.jpg"&gt;Tune In To “Higher Lower”, The Minimal Handheld Electronic Gameから発見。画像もここから転載。
 3Dプリンタをフルに活用した筐体が印象的な、音程の高低を当てるゲームの専用機です。 筐体の設計はOpenSCADで行われており、ソフトウェアのプロトタイピングとして携帯ゲーム機であるArduboyを使う面白い手法を採用しています。
  </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタで作られたスケートボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%88%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Sun, 22 Jun 2025 23:56:58 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%88%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作られたスケートボード.jpg"&gt;You Wouldn’t Download A Skateboard?から発見。画像もここから転載。
-3Dプリンタで作ったものは、何となく「脆い」、「壊れやすい」と思っていませんか？ 実は一概にそんなことは言えず、設計を工夫したり、材料や充填率を調整することでかなりの強度を実現できます。
-このページでは、3Dプリントされたスケートボードを紹介しています。基本的な設計は真似しつつ、自分好みにカスタマイズするのも簡単そうです。 自分好みのデザインでスケートボードが作れるというのは、なかなか面白い体験だと感じました。</description>
     </item>
     
   </channel>
