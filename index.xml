@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 16 Jul 2025 21:42:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 21:55:45 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CH32V003をステッピングモーターのドライバとする</title>
+      <link>https://inajob.github.io/iroiro-review/post/ch32v003%E3%82%92%E3%82%B9%E3%83%86%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AE%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90%E3%81%A8%E3%81%99%E3%82%8B/</link>
+      <pubDate>Thu, 17 Jul 2025 21:55:45 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/ch32v003%E3%82%92%E3%82%B9%E3%83%86%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AE%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90%E3%81%A8%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32V003をステッピングモーターのドライバとする.jpg"&gt;Accesible Motion with Steppersから発見。画像もここから転載。
+CH32V003は安価で汎用的なマイコンです。 これを使ってステッピングモーターを制御する作例です。
+一般的なステッピングモータードライバと比べると、周辺部品が必要となりますが安くで作れるかもしれません。
+ </description>
+    </item>
     
     <item>
       <title>MakerChipガチャ</title>
@@ -123,18 +135,6 @@ MakerChipガチャガチャ出来た！
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/お古の3Dプリンタの部品でラジコンを作る.jpg"&gt;An RC Car Driven With Old 3D Printer Motorsから発見。画像もここから転載。
 古くなった3Dプリンタのステッピングモーターを活用してラジコンを作っています。 昔ながらの3Dプリンタは4つのステッピングモーター（X軸、Y軸、Z軸*2)のステッピングモーターが搭載されているので丁度4輪のラジコンを作ることが出来ます。
 3Dプリンタとしての役目を終えた後も、こうやって部品を活用できるというのは自作の3Dプリンタの良いところですね
- </description>
-    </item>
-    
-    <item>
-      <title>温度で色が変わる塗料を使った太陽を模した時計</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%B8%A9%E5%BA%A6%E3%81%A7%E8%89%B2%E3%81%8C%E5%A4%89%E3%82%8F%E3%82%8B%E5%A1%97%E6%96%99%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%A4%AA%E9%99%BD%E3%82%92%E6%A8%A1%E3%81%97%E3%81%9F%E6%99%82%E8%A8%88/</link>
-      <pubDate>Thu, 03 Jul 2025 23:24:31 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%B8%A9%E5%BA%A6%E3%81%A7%E8%89%B2%E3%81%8C%E5%A4%89%E3%82%8F%E3%82%8B%E5%A1%97%E6%96%99%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%A4%AA%E9%99%BD%E3%82%92%E6%A8%A1%E3%81%97%E3%81%9F%E6%99%82%E8%A8%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/温度で色が変わる塗料を使った太陽を模した時計.jpg"&gt;This Thermochromic Clock Is A Ray Of Sunshineから発見。画像もここから転載。
-太陽を模したセグメントを採用した時計なのですが、このセグメント、温度で色が変化するサーモクロミック塗料が使われており、電気でここを温めることでじんわりと色が変化します。
-デジタルなセグメント表示ですが、じわじわと変化するセグメントが面白い、印象的な作例です。
  </description>
     </item>
     
