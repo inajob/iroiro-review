@@ -5,9 +5,21 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 16 Jul 2025 21:42:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 21:41:40 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタで作られた手回しブロワー</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E6%89%8B%E5%9B%9E%E3%81%97%E3%83%96%E3%83%AD%E3%83%AF%E3%83%BC/</link>
+      <pubDate>Mon, 21 Jul 2025 21:41:40 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E6%89%8B%E5%9B%9E%E3%81%97%E3%83%96%E3%83%AD%E3%83%AF%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作られた手回しブロワー.jpg"&gt;Turbine Blower 3D Prints Every Part, Including Triple Planetary Gearsから発見。画像もここから転載。
+3Dプリンタで作れるからくりはいろいろありますが、このページで紹介しているのは手回し式の「ブロワー」です。 遊星ギアを内蔵し、手回しでピンポン玉を浮遊させる程度の風を起こすことが出来ます。
+すべての部品が3Dプリンタ製なので、多さを変更することも簡単です。
+ </description>
+    </item>
     
     <item>
       <title>MakerChipガチャ</title>
@@ -134,17 +146,6 @@ Pruntと呼ばれる新しい3Dプリンタコントローラボードとファ�
 Benchy印刷完了まで26分、レース参加ならずw#Fraxinus pic.twitter.com/PO8bxmgThK
 &amp;mdash; さまおれ (@PlasticMikan) June 13, 2025  よし、焼けた。#Fraxinus pic.twitter.com/NU7PoDpp6P
 &amp;mdash; さまおれ (@PlasticMikan) June 6, 2025  </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタで作られた音程の高低を当てるゲーム専用機</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E9%9F%B3%E7%A8%8B%E3%81%AE%E9%AB%98%E4%BD%8E%E3%82%92%E5%BD%93%E3%81%A6%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E5%B0%82%E7%94%A8%E6%A9%9F/</link>
-      <pubDate>Tue, 24 Jun 2025 22:10:55 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E9%9F%B3%E7%A8%8B%E3%81%AE%E9%AB%98%E4%BD%8E%E3%82%92%E5%BD%93%E3%81%A6%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E5%B0%82%E7%94%A8%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作られた音程の高低を当てるゲーム専用機.jpg"&gt;Tune In To “Higher Lower”, The Minimal Handheld Electronic Gameから発見。画像もここから転載。
-3Dプリンタをフルに活用した筐体が印象的な、音程の高低を当てるゲームの専用機です。 筐体の設計はOpenSCADで行われており、ソフトウェアのプロトタイピングとして携帯ゲーム機であるArduboyを使う面白い手法を採用しています。
- </description>
     </item>
     
   </channel>
