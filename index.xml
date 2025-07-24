@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 23 Jul 2025 22:10:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 23:39:44 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32-S3をコアとしたメディアサーバ</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32-s3%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%B5%E3%83%BC%E3%83%90/</link>
+      <pubDate>Thu, 24 Jul 2025 23:39:44 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32-s3%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%B5%E3%83%BC%E3%83%90/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32-S3をコアとしたメディアサーバ.jpg"&gt;Jcorp Nomad: ESP32-S3 Offline Media Server In A Thumbdriveから発見。画像もここから転載。
+ESP32-S3をコアとしたメディアサーバの作例です。
+ESP32-S3は普通にWiFi接続できるAPとしてふるまったり、HTTPサーバを構成したりできるので、ちょっとしたファイルを共有したり、閲覧するためのWebサービスつきのWiFiルーターを作ることが出来ます。
+まぁ、今やLTEなどで常時接続されるのが当たり前なので、そこまで需要はなさそうですが、野外などで大容量のファイルを数人で共有するような場面で便利そうです</description>
+    </item>
     
     <item>
       <title>3Dプリンタ製のアイスの棒ケース</title>
@@ -125,21 +137,6 @@ MakerChipガチャガチャ出来た！
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/はんだ付けなしでブックランプを自作してみよう.jpg"&gt;DIY Book Lamp Is A Different Take On The Illuminated Manuscriptから発見。画像もここから転載。
 ブックランプを自作してみようという動画の紹介です。 導電テープを使った回路で構成されており、はんだ付けなしで製作することが出来ます。 本の開閉によりLEDをON/OFFする仕組み自体も工作で作成ており、紙と導電テープによる回路の可能性を感じさせる作品となっています
  </description>
-    </item>
-    
-    <item>
-      <title>ピンヘッダを簡易ブレッドボードとして使う技</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%94%E3%83%B3%E3%83%98%E3%83%83%E3%83%80%E3%82%92%E7%B0%A1%E6%98%93%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%81%A8%E3%81%97%E3%81%A6%E4%BD%BF%E3%81%86%E6%8A%80/</link>
-      <pubDate>Wed, 09 Jul 2025 22:16:41 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%94%E3%83%B3%E3%83%98%E3%83%83%E3%83%80%E3%82%92%E7%B0%A1%E6%98%93%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%E3%81%A8%E3%81%97%E3%81%A6%E4%BD%BF%E3%81%86%E6%8A%80/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ピンヘッダを簡易ブレッドボードとして使う技.jpg"&gt;カワヅさんのPostから発見。画像もここから転載。
-ブレッドボードは便利ですが、欲しい時に手元に無かったりしませんか？（自分はよくあります） そんな時に手元の部品でブレッドボードと近いことが出来ないでしょうか？
-そこで便利そうなのが、このPostで紹介しているピンヘッダを簡易ブレッドボードとして使う技です。
-ピンヘッダはブレッドボードと比べると安価で、（きっと）大量に部品箱にもあるので、雑ではありますが、良いアイデアのように見えます。 端子がむき出しいなってしまうので、絶縁処理は気を付ける必要があります。
-まぁこの方法でもジャンパワイヤが足りなくなりそうなので、大量に買い込むか、あくまでもプロロトタイピングと割り切り、最終的にはユニバーサル基板やPCBを作るのがよさそうです。
-これが俺のブレボだーーーーー！ https://t.co/uHbQJ0pW8m pic.twitter.com/YBk0xtLiFD
-&amp;mdash; カワヅ（黄色いハゲ） (@necobut) July 4, 2025  </description>
     </item>
     
   </channel>
