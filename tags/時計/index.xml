@@ -5,9 +5,21 @@
     <description>Recent content in 時計 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 03 Jul 2025 23:24:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jul 2025 21:41:29 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%99%82%E8%A8%88/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>壁に投影する機能を搭載した透明アナログ時計</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%A3%81%E3%81%AB%E6%8A%95%E5%BD%B1%E3%81%99%E3%82%8B%E6%A9%9F%E8%83%BD%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E9%80%8F%E6%98%8E%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E6%99%82%E8%A8%88/</link>
+      <pubDate>Sun, 27 Jul 2025 21:41:29 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%A3%81%E3%81%AB%E6%8A%95%E5%BD%B1%E3%81%99%E3%82%8B%E6%A9%9F%E8%83%BD%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E9%80%8F%E6%98%8E%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E6%99%82%E8%A8%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/壁に投影する機能を搭載した透明アナログ時計.jpg"&gt;Shadow Clock Shows The Time On The Wallから発見。画像もここから転載。
+アナログ時計の針が空中に浮いているような作例は何度か見たことがありますが、この作例はさらにこの例を発展させ、壁に投影される機能を実装したものとなっています。
+そのまま見ることもできるし、壁に投影したものも見られるという2つの利用方法が出来て面白いです。
+ </description>
+    </item>
     
     <item>
       <title>温度で色が変わる塗料を使った太陽を模した時計</title>
@@ -127,18 +139,6 @@ DIYキットということで、多くの部品は未実装の状態ですが�
 時計が起動した後はS1ボタンでアラーム時間を設定し、S3ボタンでアラームのON/OFFを制御できます。 さらにS1ボタンを押すとタイムゾーンも設定できます。
 説明書によると更にS1ボタンを押すことで天気の情報を取得できるようでしたが、手元ではうまく動きませんでした。（これは、このガジェットが天気参照のためにアクセスしているWebサービスが停止してしまっていることが原因のようです）
 Arduinoによる動作のカスタマイズ ここまで紹介してきたように、このガジェットはインターネットで時刻合わせが行われる時計、として使えますが、USB経由でプログラムを書き換えることで自由に動作を変更出来ます。 極論を言えば時計ではなく、デジタルフォトフレームのようなものや、ゲームのようなものも動作させることが出来ます。</description>
-    </item>
-    
-    <item>
-      <title>アナログ時計をゆっくり動かすことで1年の経過を表す</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E6%99%82%E8%A8%88%E3%82%92%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8A%E5%8B%95%E3%81%8B%E3%81%99%E3%81%93%E3%81%A8%E3%81%A71%E5%B9%B4%E3%81%AE%E7%B5%8C%E9%81%8E%E3%82%92%E8%A1%A8%E3%81%99/</link>
-      <pubDate>Tue, 28 Mar 2023 23:34:54 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E6%99%82%E8%A8%88%E3%82%92%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8A%E5%8B%95%E3%81%8B%E3%81%99%E3%81%93%E3%81%A8%E3%81%A71%E5%B9%B4%E3%81%AE%E7%B5%8C%E9%81%8E%E3%82%92%E8%A1%A8%E3%81%99/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/アナログ時計をゆっくり動かすことで1年の経過を表す.jpg"&gt;Low-Power Challenge: Making An Analog Clock Into A Calendar With A 50-Year Lifeから発見。画像もここから転載。
-アナログ時計をゆっくり動かすことで1年の経過を表す時計の作例です。 単三電池1つで50年持つ計算のようです。
-水晶のパルスの代わりにArduinoからのパルスを使うことで、好きな間隔で時計を動かすことが出来るようです。
-Arduino Pro Miniを省エネ化する改造についても触れられており、参考になります。</description>
     </item>
     
   </channel>

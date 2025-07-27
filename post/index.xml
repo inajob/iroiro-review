@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 24 Jul 2025 23:39:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jul 2025 21:41:29 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>壁に投影する機能を搭載した透明アナログ時計</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%A3%81%E3%81%AB%E6%8A%95%E5%BD%B1%E3%81%99%E3%82%8B%E6%A9%9F%E8%83%BD%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E9%80%8F%E6%98%8E%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E6%99%82%E8%A8%88/</link>
+      <pubDate>Sun, 27 Jul 2025 21:41:29 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%A3%81%E3%81%AB%E6%8A%95%E5%BD%B1%E3%81%99%E3%82%8B%E6%A9%9F%E8%83%BD%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E9%80%8F%E6%98%8E%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E6%99%82%E8%A8%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/壁に投影する機能を搭載した透明アナログ時計.jpg"&gt;Shadow Clock Shows The Time On The Wallから発見。画像もここから転載。
+アナログ時計の針が空中に浮いているような作例は何度か見たことがありますが、この作例はさらにこの例を発展させ、壁に投影される機能を実装したものとなっています。
+そのまま見ることもできるし、壁に投影したものも見られるという2つの利用方法が出来て面白いです。
+ </description>
+    </item>
     
     <item>
       <title>ESP32-S3をコアとしたメディアサーバ</title>
@@ -125,17 +137,6 @@ MakerChipガチャガチャ出来た！
 大量の導線を使うときには、カット、被覆剥がし（ワイヤストリップ）を大量にやることになり苦労が多いです。
 この記事で紹介しているのは、この作業を自動化する装置です。
 こういう手作業を何とかする装置自体を作るという取り組みはモノづくりできるエンジニアならではの事例ですね。
- </description>
-    </item>
-    
-    <item>
-      <title>はんだ付けなしでブックランプを自作してみよう</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E3%81%AA%E3%81%97%E3%81%A7%E3%83%96%E3%83%83%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%97%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86/</link>
-      <pubDate>Thu, 10 Jul 2025 22:45:11 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E3%81%AA%E3%81%97%E3%81%A7%E3%83%96%E3%83%83%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%97%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/はんだ付けなしでブックランプを自作してみよう.jpg"&gt;DIY Book Lamp Is A Different Take On The Illuminated Manuscriptから発見。画像もここから転載。
-ブックランプを自作してみようという動画の紹介です。 導電テープを使った回路で構成されており、はんだ付けなしで製作することが出来ます。 本の開閉によりLEDをON/OFFする仕組み自体も工作で作成ており、紙と導電テープによる回路の可能性を感じさせる作品となっています
  </description>
     </item>
     
