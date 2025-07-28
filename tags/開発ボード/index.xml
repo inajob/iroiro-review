@@ -5,9 +5,20 @@
     <description>Recent content in 開発ボード on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 07 Jun 2024 00:09:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jul 2025 23:42:07 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RA4M1をコアとした開発ボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/ra4m1%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Mon, 28 Jul 2025 23:42:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/ra4m1%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/RA4M1をコアとした開発ボード.jpg"&gt;RA4M1 Mini Development Board with Arduino IDE Supportから発見。画像もここから転載。
+ルネサスのマイコンRA4M1をコアとした開発ボードです。 RA4M1はArduino UNO R4でも採用されているマイコンです。
+本家のArduino UNO R4と比べると安くで販売されているので、 RA4M1が気になる人は試してみてはどうでしょう？</description>
+    </item>
     
     <item>
       <title>CH552搭載の開発ボード</title>
@@ -116,17 +127,6 @@ USB端子もType-Cとなっており、かなり使いやすそうです。</des
 自分のオリジナル基板をLinuxで制御するのはなかなか大変です。ということで既製品であるRaspberry Piなどと組み合わせることが多いですが、Raspberry Piは結構かさばるという問題があります。
 この記事で紹介しているのは、切手サイズのLinuxボードです。 端面スルーホールになっており、手はんだでも実装できます。
 搭載されているICはOctavoと呼ばれるものでBGAパッケージの中にメインメモリなど全部入りとなっています。 性能はRaspberry Piには劣りますが、このコンパクトさや実装しやすさは使いやすそうです。</description>
-    </item>
-    
-    <item>
-      <title>シリアル、UPDI、ICSPをサポートした書き込み用ボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%ABupdiicsp%E3%82%92%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%97%E3%81%9F%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF%E7%94%A8%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Mon, 24 Apr 2023 23:28:41 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%AA%E3%82%A2%E3%83%ABupdiicsp%E3%82%92%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%97%E3%81%9F%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF%E7%94%A8%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/シリアル、UPDI、ICSPをサポートした書き込み用ボード.jpg"&gt;Integrated Serial Adapter (ISA)から発見。画像もここから転載。
-マイコンを使った開発をしていると、パソコンと繋げるための規格がいくつもあり、それぞれに応じた書き込みモジュールを用意する必要が出てきます。 ここで紹介するのはシリアル、CCSP、UPDIをサポートした書き込みボードの作例です。
-USBシリアルICとしてはCH330/CH340が搭載されており、ICSPプログラミング用にATTiny814が搭載されています。 基板上のスイッチで、プロトコルや電圧を選択できます。</description>
     </item>
     
   </channel>
