@@ -5,9 +5,22 @@
     <description>Recent content in Bluetooth on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 03 Jun 2025 22:11:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jul 2025 21:36:55 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/bluetooth/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>オープンソースのBluetoothスピーカー</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AEbluetooth%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC/</link>
+      <pubDate>Tue, 29 Jul 2025 21:36:55 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AEbluetooth%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/オープンソースのBluetoothスピーカー.jpg"&gt;Teufel Introduces An Open Source Bluetooth Speakerから発見。画像もここから転載。
+Bluetoothスピーカーというと、お店で大量に安価なものが売っています。
+そういったBluetoothスピーカーが壊れてしまったらどうしますか？ 多くの人が捨てて、新しいものを買いなおすでしょう。
+しかしこの記事で紹介しているのはオープンソースのBluetoothスピーカーで、壊れたら壊れた場所だけ修理することが出来ます。
+壊れたら、壊れた場所だけ直すことが出来る、というのはエコで良いなと思いました。</description>
+    </item>
     
     <item>
       <title>特定のBluetooth端末が近くに無いと読み取れないUSBメモリ</title>
