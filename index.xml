@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 29 Jul 2025 21:36:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2025 22:18:58 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2.54mmピッチのユニバーサル基板のランドを半分に切って1.27mmピッチのICを実装する</title>
+      <link>https://inajob.github.io/iroiro-review/post/2.54mm%E3%83%94%E3%83%83%E3%83%81%E3%81%AE%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB%E5%9F%BA%E6%9D%BF%E3%81%AE%E3%83%A9%E3%83%B3%E3%83%89%E3%82%92%E5%8D%8A%E5%88%86%E3%81%AB%E5%88%87%E3%81%A3%E3%81%A61.27mm%E3%83%94%E3%83%83%E3%83%81%E3%81%AEic%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B/</link>
+      <pubDate>Wed, 30 Jul 2025 22:18:58 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/2.54mm%E3%83%94%E3%83%83%E3%83%81%E3%81%AE%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB%E5%9F%BA%E6%9D%BF%E3%81%AE%E3%83%A9%E3%83%B3%E3%83%89%E3%82%92%E5%8D%8A%E5%88%86%E3%81%AB%E5%88%87%E3%81%A3%E3%81%A61.27mm%E3%83%94%E3%83%83%E3%83%81%E3%81%AEic%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/2.54mmピッチのユニバーサル基板のランドを半分に切って1.27mmピッチのICを実装する.jpg"&gt;のいしぃ@謎部品さんのPostから発見。画像もここから転載。
+1.27mmピッチの表面実装部品を2.54mmピッチのユニバーサル基板に実装する際のテクニックとして、ランドを半分に切断して、そのランドとICの足を接続するという技を紹介しています。
+ランドを半分に切るのはコツが必要そうですが、ユニバーサル基板で表面実装部品を扱う際に役立ちそうなテクニックです
+すでにありそうやけど、俺一人でこれ思いついたの、我ながら天才だと思う。(2.54mmピッチのランドを半分で切って1.27mmピッチx2にするやつ) pic.twitter.com/sIrOSYh9Gq
+&amp;mdash; のいしぃ@謎部品 (@Noicy_create) July 17, 2025  </description>
+    </item>
     
     <item>
       <title>オープンソースのBluetoothスピーカー</title>
@@ -123,18 +136,6 @@ MakerChipは、最近日本のMaker界隈で話題になっている、3Dプリ�
 MakerChipガチャガチャ出来た！
 需要があれば何らかの形でデータ公開しようかな。 pic.twitter.com/Ojo7IzgFJb
 &amp;mdash; KURIO (@CD8pjc) June 29, 2025  </description>
-    </item>
-    
-    <item>
-      <title>フロッピーディスクドライブを使ったもぐら叩きゲーム</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%83%AD%E3%83%83%E3%83%94%E3%83%BC%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%82%E3%81%90%E3%82%89%E5%8F%A9%E3%81%8D%E3%82%B2%E3%83%BC%E3%83%A0/</link>
-      <pubDate>Tue, 15 Jul 2025 21:46:13 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%83%AD%E3%83%83%E3%83%94%E3%83%BC%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%82%E3%81%90%E3%82%89%E5%8F%A9%E3%81%8D%E3%82%B2%E3%83%BC%E3%83%A0/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/フロッピーディスクドライブを使ったもぐら叩きゲーム.jpg"&gt;Whack-A-Diskから発見。画像もここから転載。
-フロッピーディスクドライブを使ったもぐら叩きゲームの作例です。
-本来の用途とは全く違いますが、本物のフロッピーディスクドライブを改造して、もぐらたたきゲームを作成しています。 フロッピーディスクドライブは中古でたくさん出回っているので、不用品の再利用という観点でもよさそうな作例です。
- </description>
     </item>
     
   </channel>

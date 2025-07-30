@@ -5,9 +5,22 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 22 Jul 2025 22:57:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2025 22:18:58 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2.54mmピッチのユニバーサル基板のランドを半分に切って1.27mmピッチのICを実装する</title>
+      <link>https://inajob.github.io/iroiro-review/post/2.54mm%E3%83%94%E3%83%83%E3%83%81%E3%81%AE%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB%E5%9F%BA%E6%9D%BF%E3%81%AE%E3%83%A9%E3%83%B3%E3%83%89%E3%82%92%E5%8D%8A%E5%88%86%E3%81%AB%E5%88%87%E3%81%A3%E3%81%A61.27mm%E3%83%94%E3%83%83%E3%83%81%E3%81%AEic%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B/</link>
+      <pubDate>Wed, 30 Jul 2025 22:18:58 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/2.54mm%E3%83%94%E3%83%83%E3%83%81%E3%81%AE%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB%E5%9F%BA%E6%9D%BF%E3%81%AE%E3%83%A9%E3%83%B3%E3%83%89%E3%82%92%E5%8D%8A%E5%88%86%E3%81%AB%E5%88%87%E3%81%A3%E3%81%A61.27mm%E3%83%94%E3%83%83%E3%83%81%E3%81%AEic%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/2.54mmピッチのユニバーサル基板のランドを半分に切って1.27mmピッチのICを実装する.jpg"&gt;のいしぃ@謎部品さんのPostから発見。画像もここから転載。
+1.27mmピッチの表面実装部品を2.54mmピッチのユニバーサル基板に実装する際のテクニックとして、ランドを半分に切断して、そのランドとICの足を接続するという技を紹介しています。
+ランドを半分に切るのはコツが必要そうですが、ユニバーサル基板で表面実装部品を扱う際に役立ちそうなテクニックです
+すでにありそうやけど、俺一人でこれ思いついたの、我ながら天才だと思う。(2.54mmピッチのランドを半分で切って1.27mmピッチx2にするやつ) pic.twitter.com/sIrOSYh9Gq
+&amp;mdash; のいしぃ@謎部品 (@Noicy_create) July 17, 2025  </description>
+    </item>
     
     <item>
       <title>映像ケーブルから発せられる電波でLoRa送信を行う</title>
@@ -120,18 +133,6 @@
 看板の周りをLEDの光がくるくる回るような装飾はよく見かけます。 よくあるのは、看板の周りにLEDを大量に並べて順番に点滅させる手法ですが、この記事ではからくりを使ってこの流れる光を実現しています。
 からくりによりうまいこと看板の周囲の隙間にスライドする穴を実現しており、少ない光源で、この流れる光を実現しています。
 冷静に考えれば、メカ部品のあるこの手法のほうが、LEDを大量に並べるより壊れやすい気もしますが、このアイデアは何かに応用ができそうです。
- </description>
-    </item>
-    
-    <item>
-      <title>スマートフォンを回転させることで3Dディスプレイを実現する</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%82%92%E5%9B%9E%E8%BB%A2%E3%81%95%E3%81%9B%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A73d%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B/</link>
-      <pubDate>Thu, 20 Feb 2025 23:30:42 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%82%92%E5%9B%9E%E8%BB%A2%E3%81%95%E3%81%9B%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A73d%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/スマートフォンを回転させることで3Dディスプレイを実現する.jpg"&gt;A Surprisingly Simple Omnidirectional Displayから発見。画像もここから転載。
-スマートフォンを回転させることで3Dディスプレイを実現するという技術のデモです。 いわゆるゾートロープといわれているものにスマートフォンを組み合わせたような仕組みのようです。
-単にスマートフォンを回転させつつ、画像を表示するだけでなく、ゾートロープと同じようにスリットごしに覗くような仕組みにすることで、人間の錯覚によりボリュームディスプレイを実現しているようです。
  </description>
     </item>
     
