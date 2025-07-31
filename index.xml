@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 30 Jul 2025 22:18:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jul 2025 22:59:51 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>安価な携帯ゲーム機向けのSDK</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E4%BE%A1%E3%81%AA%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E5%90%91%E3%81%91%E3%81%AEsdk/</link>
+      <pubDate>Thu, 31 Jul 2025 22:59:51 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E4%BE%A1%E3%81%AA%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E5%90%91%E3%81%91%E3%81%AEsdk/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/安価な携帯ゲーム機向けのSDK.jpg"&gt;Reverse Engineering A ‘Tony’ 6502-based Mini Arcade Machineから発見。画像もここから転載。
+UFOキャッチャーのプライズ品などで見かける、安価な携帯ゲーム機がありますが、あれで独自のゲームを動かしてみてたいと思いませんか？ この記事では、そういった安価な携帯ゲーム機の中身を解析して作られた、そこで動作するゲームを作るためのSDKについて紹介しています
+ゲーム機の構成によってはEEPROMを書き換えるだけでオリジナルゲームが動かせそうです。
+ </description>
+    </item>
     
     <item>
       <title>2.54mmピッチのユニバーサル基板のランドを半分に切って1.27mmピッチのICを実装する</title>
@@ -121,21 +133,6 @@ MakerStick。（アイスの棒） https://t.co/iyh9a8qF3E pic.twitter.com/P0OAU
 CH32V003は安価で汎用的なマイコンです。 これを使ってステッピングモーターを制御する作例です。
 一般的なステッピングモータードライバと比べると、周辺部品が必要となりますが安くで作れるかもしれません。
  </description>
-    </item>
-    
-    <item>
-      <title>MakerChipガチャ</title>
-      <link>https://inajob.github.io/iroiro-review/post/makerchip%E3%82%AC%E3%83%81%E3%83%A3/</link>
-      <pubDate>Wed, 16 Jul 2025 21:42:25 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/makerchip%E3%82%AC%E3%83%81%E3%83%A3/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/MakerChipガチャ.jpg"&gt;KURIOさんのPostから発見。画像もここから転載。
-MakerChipは、最近日本のMaker界隈で話題になっている、3Dプリンタ製の名刺代わりのチップですが、これを使って遊ぶことが出来る「ガチャガチャ」です。
-単なる「ガチャガチャ」ではなく、Chipを入れるとChipが出てくるという「MakerChip交換機」となっています。
-データは有償で公開されているので、興味ある人は購入してみてはどうでしょうか？ https://montblancprint.booth.pm/
-MakerChipガチャガチャ出来た！
-需要があれば何らかの形でデータ公開しようかな。 pic.twitter.com/Ojo7IzgFJb
-&amp;mdash; KURIO (@CD8pjc) June 29, 2025  </description>
     </item>
     
   </channel>

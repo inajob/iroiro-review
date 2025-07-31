@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>携帯ゲーム機 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+    <description>Recent content in 携帯ゲーム機 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Thu, 31 Jul 2025 22:59:51 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>安価な携帯ゲーム機向けのSDK</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E4%BE%A1%E3%81%AA%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E5%90%91%E3%81%91%E3%81%AEsdk/</link>
+      <pubDate>Thu, 31 Jul 2025 22:59:51 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E4%BE%A1%E3%81%AA%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E5%90%91%E3%81%91%E3%81%AEsdk/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/安価な携帯ゲーム機向けのSDK.jpg"&gt;Reverse Engineering A ‘Tony’ 6502-based Mini Arcade Machineから発見。画像もここから転載。
+UFOキャッチャーのプライズ品などで見かける、安価な携帯ゲーム機がありますが、あれで独自のゲームを動かしてみてたいと思いませんか？ この記事では、そういった安価な携帯ゲーム機の中身を解析して作られた、そこで動作するゲームを作るためのSDKについて紹介しています
+ゲーム機の構成によってはEEPROMを書き換えるだけでオリジナルゲームが動かせそうです。
+ </description>
+    </item>
+    
+  </channel>
+</rss>
+

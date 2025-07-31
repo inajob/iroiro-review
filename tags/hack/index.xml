@@ -5,9 +5,21 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 30 Jul 2025 22:18:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jul 2025 22:59:51 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>安価な携帯ゲーム機向けのSDK</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E4%BE%A1%E3%81%AA%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E5%90%91%E3%81%91%E3%81%AEsdk/</link>
+      <pubDate>Thu, 31 Jul 2025 22:59:51 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E4%BE%A1%E3%81%AA%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E5%90%91%E3%81%91%E3%81%AEsdk/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/安価な携帯ゲーム機向けのSDK.jpg"&gt;Reverse Engineering A ‘Tony’ 6502-based Mini Arcade Machineから発見。画像もここから転載。
+UFOキャッチャーのプライズ品などで見かける、安価な携帯ゲーム機がありますが、あれで独自のゲームを動かしてみてたいと思いませんか？ この記事では、そういった安価な携帯ゲーム機の中身を解析して作られた、そこで動作するゲームを作るためのSDKについて紹介しています
+ゲーム機の構成によってはEEPROMを書き換えるだけでオリジナルゲームが動かせそうです。
+ </description>
+    </item>
     
     <item>
       <title>2.54mmピッチのユニバーサル基板のランドを半分に切って1.27mmピッチのICを実装する</title>
@@ -121,19 +133,6 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/世界最小のLEDチカチカボード.jpg"&gt;World’s Smallest Blinky, Now Even Smallerから発見。画像もここから転載。
 世界最小のLEDチカチカボードの作例です。 3.2ｍｍ×2.5mmに収められたボードには、ATtiny20とLED、抵抗、コンデンサが搭載されています。 電源は220uFのタンタルコンデンサで、この基板はちょうどこのタンタルコンデンサのサイズになるように設計されているようです。
 実装するのも相当大変そうですが、ここまで小さな回路で、かつプログラミングできるというのは面白いです。</description>
-    </item>
-    
-    <item>
-      <title>くるくる回るようなLED装飾をメカで作る</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8F%E3%82%8B%E3%81%8F%E3%82%8B%E5%9B%9E%E3%82%8B%E3%82%88%E3%81%86%E3%81%AAled%E8%A3%85%E9%A3%BE%E3%82%92%E3%83%A1%E3%82%AB%E3%81%A7%E4%BD%9C%E3%82%8B/</link>
-      <pubDate>Mon, 07 Apr 2025 22:13:36 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8F%E3%82%8B%E3%81%8F%E3%82%8B%E5%9B%9E%E3%82%8B%E3%82%88%E3%81%86%E3%81%AAled%E8%A3%85%E9%A3%BE%E3%82%92%E3%83%A1%E3%82%AB%E3%81%A7%E4%BD%9C%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/くるくる回るようなLED装飾をメカで作る.jpg"&gt;Chase Light SAO Shouldn’t Have Used A 555, And Didn’tから発見。画像もここから転載。
-看板の周りをLEDの光がくるくる回るような装飾はよく見かけます。 よくあるのは、看板の周りにLEDを大量に並べて順番に点滅させる手法ですが、この記事ではからくりを使ってこの流れる光を実現しています。
-からくりによりうまいこと看板の周囲の隙間にスライドする穴を実現しており、少ない光源で、この流れる光を実現しています。
-冷静に考えれば、メカ部品のあるこの手法のほうが、LEDを大量に並べるより壊れやすい気もしますが、このアイデアは何かに応用ができそうです。
- </description>
     </item>
     
   </channel>
