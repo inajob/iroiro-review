@@ -5,9 +5,36 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 31 Jul 2025 22:59:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Aug 2025 21:52:23 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ATtiny814</title>
+      <link>https://inajob.github.io/iroiro-review/tags/attiny814/</link>
+      <pubDate>Sun, 03 Aug 2025 21:52:23 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/attiny814/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>LoRa</title>
+      <link>https://inajob.github.io/iroiro-review/tags/lora/</link>
+      <pubDate>Sun, 03 Aug 2025 21:52:23 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/lora/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>RFM95W</title>
+      <link>https://inajob.github.io/iroiro-review/tags/rfm95w/</link>
+      <pubDate>Sun, 03 Aug 2025 21:52:23 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/rfm95w/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>HACK</title>
@@ -69,33 +96,6 @@
       <pubDate>Thu, 24 Jul 2025 23:39:44 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/esp32-s3/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタ</title>
-      <link>https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
-      <pubDate>Wed, 23 Jul 2025 22:10:36 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>LoRa</title>
-      <link>https://inajob.github.io/iroiro-review/tags/lora/</link>
-      <pubDate>Tue, 22 Jul 2025 22:57:38 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/lora/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>CH32V003</title>
-      <link>https://inajob.github.io/iroiro-review/tags/ch32v003/</link>
-      <pubDate>Thu, 17 Jul 2025 21:55:45 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/ch32v003/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
