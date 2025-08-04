@@ -5,9 +5,27 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 03 Aug 2025 21:52:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Aug 2025 23:13:31 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>LoRa</title>
+      <link>https://inajob.github.io/iroiro-review/tags/lora/</link>
+      <pubDate>Mon, 04 Aug 2025 23:13:31 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/lora/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>Meshtastic</title>
+      <link>https://inajob.github.io/iroiro-review/tags/meshtastic/</link>
+      <pubDate>Mon, 04 Aug 2025 23:13:31 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/meshtastic/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>ATtiny814</title>
@@ -15,15 +33,6 @@
       <pubDate>Sun, 03 Aug 2025 21:52:23 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/attiny814/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>LoRa</title>
-      <link>https://inajob.github.io/iroiro-review/tags/lora/</link>
-      <pubDate>Sun, 03 Aug 2025 21:52:23 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/lora/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
@@ -87,15 +96,6 @@
       <pubDate>Sun, 27 Jul 2025 21:41:29 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/%E6%99%82%E8%A8%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>ESP32-S3</title>
-      <link>https://inajob.github.io/iroiro-review/tags/esp32-s3/</link>
-      <pubDate>Thu, 24 Jul 2025 23:39:44 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/esp32-s3/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
