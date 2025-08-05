@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 04 Aug 2025 23:13:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Aug 2025 23:45:28 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PIC16をコアとしたシンプルな腕時計</title>
+      <link>https://inajob.github.io/iroiro-review/post/pic16%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E8%85%95%E6%99%82%E8%A8%88/</link>
+      <pubDate>Tue, 05 Aug 2025 23:45:28 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/pic16%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E8%85%95%E6%99%82%E8%A8%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/PIC16をコアとしたシンプルな腕時計.jpg"&gt;Pair of PCB Watchesから発見。画像もここから転載。
+PIC16をコアとしたシンプルな腕時計の作例です。 いわゆる一般的なデジタル時計と同じような構成でCR1220で58日ほど動くようです。
+ホビー電子工作の知識で作ると、長持ちする腕時計の自作は難しいかと思っていましたが、58日持つなら結構実用的だなと思いました。</description>
+    </item>
     
     <item>
       <title>Meshtastic準拠のポケベル風ガジェット</title>
@@ -121,17 +132,6 @@ MakerStick愛好家の方是非刷ってください！
 &amp;mdash; ちゃーはん（CV:小清水亜美） @へっぽこラボ (@oicchahan) July 13, 2025  アイスの棒を持ち歩くなんて、何のために・・・？と思ったのですが、作例を見るとアイスの棒に素敵な絵を刻印したものが紹介されており、これはなかなかアクセサリとしても面白いのでは？と感じました。
 MakerStick。（アイスの棒） https://t.co/iyh9a8qF3E pic.twitter.com/P0OAUzXjLv
 &amp;mdash; ちゃーはん（CV:小清水亜美） @へっぽこラボ (@oicchahan) July 20, 2025  </description>
-    </item>
-    
-    <item>
-      <title>映像ケーブルから発せられる電波でLoRa送信を行う</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%98%A0%E5%83%8F%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E3%81%8B%E3%82%89%E7%99%BA%E3%81%9B%E3%82%89%E3%82%8C%E3%82%8B%E9%9B%BB%E6%B3%A2%E3%81%A7lora%E9%80%81%E4%BF%A1%E3%82%92%E8%A1%8C%E3%81%86/</link>
-      <pubDate>Tue, 22 Jul 2025 22:57:38 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%98%A0%E5%83%8F%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E3%81%8B%E3%82%89%E7%99%BA%E3%81%9B%E3%82%89%E3%82%8C%E3%82%8B%E9%9B%BB%E6%B3%A2%E3%81%A7lora%E9%80%81%E4%BF%A1%E3%82%92%E8%A1%8C%E3%81%86/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/映像ケーブルから発せられる電波でLoRa送信を行う.jpg"&gt;Video Cable Becomes Transmitter With TEMPEST-LoRaから発見。画像もここから転載。
-電気が流れるところに電磁波は発生します。 この記事では、映像ケーブルから発生する電磁波がLoRaの電波になるように工夫して、通信を行うという実験について紹介しています。
-悪さ意外に役立つシーンはあまり思いつきませんが、こういうこともできるという知識は何かの役に立ちそうです。</description>
     </item>
     
   </channel>
