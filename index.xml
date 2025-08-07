@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 06 Aug 2025 23:09:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Aug 2025 22:53:49 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>違う惑星の重力を体感できるストリップLED付きの棒</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%81%95%E3%81%86%E6%83%91%E6%98%9F%E3%81%AE%E9%87%8D%E5%8A%9B%E3%82%92%E4%BD%93%E6%84%9F%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B9%E3%83%88%E3%83%AA%E3%83%83%E3%83%97led%E4%BB%98%E3%81%8D%E3%81%AE%E6%A3%92/</link>
+      <pubDate>Thu, 07 Aug 2025 22:53:49 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%81%95%E3%81%86%E6%83%91%E6%98%9F%E3%81%AE%E9%87%8D%E5%8A%9B%E3%82%92%E4%BD%93%E6%84%9F%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B9%E3%83%88%E3%83%AA%E3%83%83%E3%83%97led%E4%BB%98%E3%81%8D%E3%81%AE%E6%A3%92/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/違う惑星の重力を体感できるストリップLED付きの棒.jpg"&gt;Experience Other Planets With The Gravity Simulatorから発見。画像もここから転載。
+違う惑星の重力を体感できるストリップLED付きの棒の作例です。
+傾けた方向にストリップLEDの光が落下するようなアニメーションを表示するという仕組みです。 設定を変えることで、ほかの惑星ではどのようにものが落下するかを体験することが出来ます。
+素朴な仕組みですが、実際にその惑星に行かなくても、重力の「雰囲気」が理解できるというのは面白いです。
+ </description>
+    </item>
     
     <item>
       <title>ATtiny85で480*320液晶に大きめの文字を表示する</title>
@@ -115,18 +128,6 @@ Bluetoothスピーカーというと、お店で大量に安価なものが売�
 アナログ時計の針が空中に浮いているような作例は何度か見たことがありますが、この作例はさらにこの例を発展させ、壁に投影される機能を実装したものとなっています。
 そのまま見ることもできるし、壁に投影したものも見られるという2つの利用方法が出来て面白いです。
  </description>
-    </item>
-    
-    <item>
-      <title>ESP32-S3をコアとしたメディアサーバ</title>
-      <link>https://inajob.github.io/iroiro-review/post/esp32-s3%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%B5%E3%83%BC%E3%83%90/</link>
-      <pubDate>Thu, 24 Jul 2025 23:39:44 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/esp32-s3%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%B5%E3%83%BC%E3%83%90/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32-S3をコアとしたメディアサーバ.jpg"&gt;Jcorp Nomad: ESP32-S3 Offline Media Server In A Thumbdriveから発見。画像もここから転載。
-ESP32-S3をコアとしたメディアサーバの作例です。
-ESP32-S3は普通にWiFi接続できるAPとしてふるまったり、HTTPサーバを構成したりできるので、ちょっとしたファイルを共有したり、閲覧するためのWebサービスつきのWiFiルーターを作ることが出来ます。
-まぁ、今やLTEなどで常時接続されるのが当たり前なので、そこまで需要はなさそうですが、野外などで大容量のファイルを数人で共有するような場面で便利そうです</description>
     </item>
     
   </channel>
