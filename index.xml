@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 07 Aug 2025 22:53:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Aug 2025 23:45:43 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>XIAO ESP32-C3とSAM2695によるMIDIシンセサイザー</title>
+      <link>https://inajob.github.io/iroiro-review/post/xiao-esp32-c3%E3%81%A8sam2695%E3%81%AB%E3%82%88%E3%82%8Bmidi%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</link>
+      <pubDate>Sun, 17 Aug 2025 23:45:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/xiao-esp32-c3%E3%81%A8sam2695%E3%81%AB%E3%82%88%E3%82%8Bmidi%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/XIAO ESP32-C3とSAM2695によるMIDIシンセサイザー.jpg"&gt;XIAO MIDI Synthesizerから発見。画像もここから転載。
+ハードウェアMIDIシンセサイザーというと、昔を思い出したりしますが、今やIC1つでMIDI音源が実現できます。 この製品はXIAO ESP32-C3をコアとして、SAM2695を使って実現されたMIDI音源です そこまで音にこだわりがなければこれを使うだけで、多彩な音色の楽器を実現することが出来ます。
+ </description>
+    </item>
     
     <item>
       <title>違う惑星の重力を体感できるストリップLED付きの棒</title>
@@ -116,18 +127,6 @@ Bluetoothスピーカーというと、お店で大量に安価なものが売�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/RA4M1をコアとした開発ボード.jpg"&gt;RA4M1 Mini Development Board with Arduino IDE Supportから発見。画像もここから転載。
 ルネサスのマイコンRA4M1をコアとした開発ボードです。 RA4M1はArduino UNO R4でも採用されているマイコンです。
 本家のArduino UNO R4と比べると安くで販売されているので、 RA4M1が気になる人は試してみてはどうでしょう？</description>
-    </item>
-    
-    <item>
-      <title>壁に投影する機能を搭載した透明アナログ時計</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%A3%81%E3%81%AB%E6%8A%95%E5%BD%B1%E3%81%99%E3%82%8B%E6%A9%9F%E8%83%BD%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E9%80%8F%E6%98%8E%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E6%99%82%E8%A8%88/</link>
-      <pubDate>Sun, 27 Jul 2025 21:41:29 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%A3%81%E3%81%AB%E6%8A%95%E5%BD%B1%E3%81%99%E3%82%8B%E6%A9%9F%E8%83%BD%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E9%80%8F%E6%98%8E%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E6%99%82%E8%A8%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/壁に投影する機能を搭載した透明アナログ時計.jpg"&gt;Shadow Clock Shows The Time On The Wallから発見。画像もここから転載。
-アナログ時計の針が空中に浮いているような作例は何度か見たことがありますが、この作例はさらにこの例を発展させ、壁に投影される機能を実装したものとなっています。
-そのまま見ることもできるし、壁に投影したものも見られるという2つの利用方法が出来て面白いです。
- </description>
     </item>
     
   </channel>

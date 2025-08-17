@@ -5,9 +5,20 @@
     <description>Recent content in ESP32-C3 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 05 Aug 2024 23:55:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Aug 2025 23:45:43 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/esp32-c3/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>XIAO ESP32-C3とSAM2695によるMIDIシンセサイザー</title>
+      <link>https://inajob.github.io/iroiro-review/post/xiao-esp32-c3%E3%81%A8sam2695%E3%81%AB%E3%82%88%E3%82%8Bmidi%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</link>
+      <pubDate>Sun, 17 Aug 2025 23:45:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/xiao-esp32-c3%E3%81%A8sam2695%E3%81%AB%E3%82%88%E3%82%8Bmidi%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/XIAO ESP32-C3とSAM2695によるMIDIシンセサイザー.jpg"&gt;XIAO MIDI Synthesizerから発見。画像もここから転載。
+ハードウェアMIDIシンセサイザーというと、昔を思い出したりしますが、今やIC1つでMIDI音源が実現できます。 この製品はXIAO ESP32-C3をコアとして、SAM2695を使って実現されたMIDI音源です そこまで音にこだわりがなければこれを使うだけで、多彩な音色の楽器を実現することが出来ます。
+ </description>
+    </item>
     
     <item>
       <title>4つのボタンを早押しするゲーム機</title>
