@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 17 Aug 2025 23:45:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 23:34:01 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Nintendo DSのカートリッジ側に高性能なCPUを搭載してPS1のソフトを動かす</title>
+      <link>https://inajob.github.io/iroiro-review/post/nintendo-ds%E3%81%AE%E3%82%AB%E3%83%BC%E3%83%88%E3%83%AA%E3%83%83%E3%82%B8%E5%81%B4%E3%81%AB%E9%AB%98%E6%80%A7%E8%83%BD%E3%81%AAcpu%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%A6ps1%E3%81%AE%E3%82%BD%E3%83%95%E3%83%88%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</link>
+      <pubDate>Mon, 18 Aug 2025 23:34:01 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/nintendo-ds%E3%81%AE%E3%82%AB%E3%83%BC%E3%83%88%E3%83%AA%E3%83%83%E3%82%B8%E5%81%B4%E3%81%AB%E9%AB%98%E6%80%A7%E8%83%BD%E3%81%AAcpu%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%A6ps1%E3%81%AE%E3%82%BD%E3%83%95%E3%83%88%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Nintendo DSのカートリッジ側に高性能なCPUを搭載してPS1のソフトを動かす.jpg"&gt;Running An Entire PS1 Emulator In A DS Cartridgeから発見。画像もここから転載。
+Nintendo DSでPS1のソフトが動いています。が、これはかなりのズルをしていて、カートリッジの中に別のCPUを入れてそちらでPS1をエミュレートしているという作例です。
+ちょっとズルい感じがしますが、本体を破壊せずに高性能なCPUを動作させるという良い方法だと感じました。
+ </description>
+    </item>
     
     <item>
       <title>XIAO ESP32-C3とSAM2695によるMIDIシンセサイザー</title>
@@ -116,17 +128,6 @@ Bluetoothスピーカーというと、お店で大量に安価なものが売�
 そういったBluetoothスピーカーが壊れてしまったらどうしますか？ 多くの人が捨てて、新しいものを買いなおすでしょう。
 しかしこの記事で紹介しているのはオープンソースのBluetoothスピーカーで、壊れたら壊れた場所だけ修理することが出来ます。
 壊れたら、壊れた場所だけ直すことが出来る、というのはエコで良いなと思いました。</description>
-    </item>
-    
-    <item>
-      <title>RA4M1をコアとした開発ボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/ra4m1%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Mon, 28 Jul 2025 23:42:07 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/ra4m1%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/RA4M1をコアとした開発ボード.jpg"&gt;RA4M1 Mini Development Board with Arduino IDE Supportから発見。画像もここから転載。
-ルネサスのマイコンRA4M1をコアとした開発ボードです。 RA4M1はArduino UNO R4でも採用されているマイコンです。
-本家のArduino UNO R4と比べると安くで販売されているので、 RA4M1が気になる人は試してみてはどうでしょう？</description>
     </item>
     
   </channel>
