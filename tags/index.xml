@@ -5,9 +5,36 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 18 Aug 2025 23:34:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 23:51:58 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>HACK</title>
+      <link>https://inajob.github.io/iroiro-review/tags/hack/</link>
+      <pubDate>Tue, 19 Aug 2025 23:51:58 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/hack/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>ゲーム機</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Tue, 19 Aug 2025 23:51:58 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>音楽</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E9%9F%B3%E6%A5%BD/</link>
+      <pubDate>Tue, 19 Aug 2025 23:51:58 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E9%9F%B3%E6%A5%BD/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>Nintendo DS</title>
@@ -69,33 +96,6 @@
       <pubDate>Wed, 06 Aug 2025 23:09:47 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/attiny85/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>PIC16</title>
-      <link>https://inajob.github.io/iroiro-review/tags/pic16/</link>
-      <pubDate>Tue, 05 Aug 2025 23:45:28 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/pic16/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>時計</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E6%99%82%E8%A8%88/</link>
-      <pubDate>Tue, 05 Aug 2025 23:45:28 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E6%99%82%E8%A8%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>LoRa</title>
-      <link>https://inajob.github.io/iroiro-review/tags/lora/</link>
-      <pubDate>Mon, 04 Aug 2025 23:13:31 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/lora/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     

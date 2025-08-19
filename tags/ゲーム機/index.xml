@@ -5,9 +5,21 @@
     <description>Recent content in ゲーム機 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 15 Jul 2025 21:46:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 23:51:58 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PSPをギター用のデジタルエフェクタにする</title>
+      <link>https://inajob.github.io/iroiro-review/post/psp%E3%82%92%E3%82%AE%E3%82%BF%E3%83%BC%E7%94%A8%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%82%BF%E3%81%AB%E3%81%99%E3%82%8B/</link>
+      <pubDate>Tue, 19 Aug 2025 23:51:58 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/psp%E3%82%92%E3%82%AE%E3%82%BF%E3%83%BC%E7%94%A8%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%82%BF%E3%81%AB%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/PSPをギター用のデジタルエフェクタにする.jpg"&gt;Running Guitar Effects On A PlayStation Portableから発見。画像もここから転載。
+PSPをギター用のデジタルエフェクタにするHACKです。 確かに音声入出力があって任意のプログラムを実行できるので、作れそうです。
+加えてポータブルで電源付きなので、案外ぴったりの活用法なのかもしれません。
+ </description>
+    </item>
     
     <item>
       <title>フロッピーディスクドライブを使ったもぐら叩きゲーム</title>
@@ -113,17 +125,6 @@ Arduboyは回路も公開されており、カスタム機向けのビルド環�
       <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AF%E3%82%A4%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E6%90%AD%E8%BC%89%E3%81%AE%E8%87%AA%E4%BD%9C%E3%81%AE%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ワイドディスプレイ搭載の自作の携帯ゲーム機.jpg"&gt;Ultra-Wide Gaming Handheld Channels The Nintendo DSから発見。画像もここから転載。
 ワイドディスプレイ搭載の自作の携帯ゲーム機です。 横幅が広がった部分について、ゲーム機のようなキーパッドとトラックパッドを実装しており、大きな携帯ゲーム機的な見た目となっています。
- </description>
-    </item>
-    
-    <item>
-      <title>ゲーム機風のRP2040開発ボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E9%A2%A8%E3%81%AErp2040%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Tue, 03 Dec 2024 23:31:14 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E9%A2%A8%E3%81%AErp2040%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ゲーム機風のRP2040開発ボード.jpg"&gt;Akana R1 - Next Generation Development Board by MH-EDU-Electronics on Tindieから発見。画像もここから転載。
-ゲーム機風のRP2040開発ボードの作例です。 シンプルですがゲーム機としても使いやすそうですし、上に並べられた拡張端子も便利そうで、ゲーム機だけでなく様々な電子工作の実験で活用できそうです。
  </description>
     </item>
     
