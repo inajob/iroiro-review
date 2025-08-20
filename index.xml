@@ -5,9 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 19 Aug 2025 23:51:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 23:32:06 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>有孔ボードとゴム栓を使ってドットを描くアイデア</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%9C%89%E5%AD%94%E3%83%9C%E3%83%BC%E3%83%89%E3%81%A8%E3%82%B4%E3%83%A0%E6%A0%93%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%89%E3%83%83%E3%83%88%E3%82%92%E6%8F%8F%E3%81%8F%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2/</link>
+      <pubDate>Wed, 20 Aug 2025 23:32:06 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%9C%89%E5%AD%94%E3%83%9C%E3%83%BC%E3%83%89%E3%81%A8%E3%82%B4%E3%83%A0%E6%A0%93%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%89%E3%83%83%E3%83%88%E3%82%92%E6%8F%8F%E3%81%8F%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/有孔ボードとゴム栓を使ってドットを描くアイデア.jpg"&gt;山下義弘 / ドケットストアの人さんのPostから発見。画像もここから転載。
+有孔ボードとゴム栓を使ってドットを描くアイデアです。 特徴的ですが、ユニバーサルな見た目で使い勝手がよさそうです。
+電子工作的な要素は全くなしで、ドットマトリクス表示を実現しており、面白いアイデアです。
+小さなゴム栓を穴にはめていくと、ドット文字が作れる看板を作ってみました
+ゴムが立体感を生み出してくれるので、デジタル表記なのにアナログな手触りがあるところがたまりません
+営業時間や定休日が変わっても、自分で変更できるのもこだわったポイントです pic.twitter.com/PeWWN1clkR
+&amp;mdash; 山下義弘 / ドケットストアの人 (@tyarinko) August 5, 2025  </description>
+    </item>
     
     <item>
       <title>PSPをギター用のデジタルエフェクタにする</title>
@@ -114,19 +129,6 @@ LoRaで通信できるガラケー風の通信端末の作例です。 携帯電
 UFOキャッチャーのプライズ品などで見かける、安価な携帯ゲーム機がありますが、あれで独自のゲームを動かしてみてたいと思いませんか？ この記事では、そういった安価な携帯ゲーム機の中身を解析して作られた、そこで動作するゲームを作るためのSDKについて紹介しています
 ゲーム機の構成によってはEEPROMを書き換えるだけでオリジナルゲームが動かせそうです。
  </description>
-    </item>
-    
-    <item>
-      <title>2.54mmピッチのユニバーサル基板のランドを半分に切って1.27mmピッチのICを実装する</title>
-      <link>https://inajob.github.io/iroiro-review/post/2.54mm%E3%83%94%E3%83%83%E3%83%81%E3%81%AE%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB%E5%9F%BA%E6%9D%BF%E3%81%AE%E3%83%A9%E3%83%B3%E3%83%89%E3%82%92%E5%8D%8A%E5%88%86%E3%81%AB%E5%88%87%E3%81%A3%E3%81%A61.27mm%E3%83%94%E3%83%83%E3%83%81%E3%81%AEic%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B/</link>
-      <pubDate>Wed, 30 Jul 2025 22:18:58 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/2.54mm%E3%83%94%E3%83%83%E3%83%81%E3%81%AE%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB%E5%9F%BA%E6%9D%BF%E3%81%AE%E3%83%A9%E3%83%B3%E3%83%89%E3%82%92%E5%8D%8A%E5%88%86%E3%81%AB%E5%88%87%E3%81%A3%E3%81%A61.27mm%E3%83%94%E3%83%83%E3%83%81%E3%81%AEic%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/2.54mmピッチのユニバーサル基板のランドを半分に切って1.27mmピッチのICを実装する.jpg"&gt;のいしぃ@謎部品さんのPostから発見。画像もここから転載。
-1.27mmピッチの表面実装部品を2.54mmピッチのユニバーサル基板に実装する際のテクニックとして、ランドを半分に切断して、そのランドとICの足を接続するという技を紹介しています。
-ランドを半分に切るのはコツが必要そうですが、ユニバーサル基板で表面実装部品を扱う際に役立ちそうなテクニックです
-すでにありそうやけど、俺一人でこれ思いついたの、我ながら天才だと思う。(2.54mmピッチのランドを半分で切って1.27mmピッチx2にするやつ) pic.twitter.com/sIrOSYh9Gq
-&amp;mdash; のいしぃ@謎部品 (@Noicy_create) July 17, 2025  </description>
     </item>
     
   </channel>
