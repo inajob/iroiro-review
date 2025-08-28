@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 26 Aug 2025 23:56:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Aug 2025 23:57:50 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>素朴だけど面白い集中線ブックマーカー</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%B4%A0%E6%9C%B4%E3%81%A0%E3%81%91%E3%81%A9%E9%9D%A2%E7%99%BD%E3%81%84%E9%9B%86%E4%B8%AD%E7%B7%9A%E3%83%96%E3%83%83%E3%82%AF%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC/</link>
+      <pubDate>Wed, 27 Aug 2025 23:57:50 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%B4%A0%E6%9C%B4%E3%81%A0%E3%81%91%E3%81%A9%E9%9D%A2%E7%99%BD%E3%81%84%E9%9B%86%E4%B8%AD%E7%B7%9A%E3%83%96%E3%83%83%E3%82%AF%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/素朴だけど面白い集中線ブックマーカー.jpg"&gt;山下義弘 / ドケットストアの人さんのPostから発見。画像もここから転載。
+漫画などでよく見かける集中線を好きな場所に重ねることができるブックマーカーの作例です。 仕組みは簡単だけど見た目のインパクトがすごいです。
+これはと思った１行を目立たせることのできる「集中線ブックマーカー」を作ってみました pic.twitter.com/GCMQJgf3O9
+&amp;mdash; 山下義弘 / ドケットストアの人 (@tyarinko) August 18, 2025  </description>
+    </item>
     
     <item>
       <title>8×8のドットマトリクスLEDでPongが遊べる名刺基板</title>
@@ -113,19 +125,6 @@ Nintendo DSでPS1のソフトが動いています。が、これはかなりの
 傾けた方向にストリップLEDの光が落下するようなアニメーションを表示するという仕組みです。 設定を変えることで、ほかの惑星ではどのようにものが落下するかを体験することが出来ます。
 素朴な仕組みですが、実際にその惑星に行かなくても、重力の「雰囲気」が理解できるというのは面白いです。
  </description>
-    </item>
-    
-    <item>
-      <title>ATtiny85で480×320液晶に大きめの文字を表示する</title>
-      <link>https://inajob.github.io/iroiro-review/post/attiny85%E3%81%A7480320%E6%B6%B2%E6%99%B6%E3%81%AB%E5%A4%A7%E3%81%8D%E3%82%81%E3%81%AE%E6%96%87%E5%AD%97%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B/</link>
-      <pubDate>Wed, 06 Aug 2025 23:09:47 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/attiny85%E3%81%A7480320%E6%B6%B2%E6%99%B6%E3%81%AB%E5%A4%A7%E3%81%8D%E3%82%81%E3%81%AE%E6%96%87%E5%AD%97%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ATtiny85で480×320液晶に大きめの文字を表示する.jpg"&gt;シャポコ🌵さんのPostから発見。画像もここから転載。
-ATtiny85で480*320液晶に大きめの文字を表示する作例です。 RAM:512byte, ROM 8KB しかないのに、うまいことフォントを圧縮・展開することで、この動作を実現しているようです。
-単に低解像度のフォントを拡大表示するだけではないようで、それゆえの特徴的なフォントが印象的です
-オレオレ形式の圧縮でかフォントと展開・描画ロジックが ATtiny85 に収まった #shapolab pic.twitter.com/tWiqYGUvha
-&amp;mdash; シャポコ🌵 (@shapoco) July 29, 2025  </description>
     </item>
     
   </channel>
