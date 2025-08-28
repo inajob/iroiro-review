@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 27 Aug 2025 23:57:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 23:38:35 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RP2040をコアとしたDOOMが動く名刺基板</title>
+      <link>https://inajob.github.io/iroiro-review/post/rp2040%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9Fdoom%E3%81%8C%E5%8B%95%E3%81%8F%E5%90%8D%E5%88%BA%E5%9F%BA%E6%9D%BF/</link>
+      <pubDate>Thu, 28 Aug 2025 23:38:35 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/rp2040%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9Fdoom%E3%81%8C%E5%8B%95%E3%81%8F%E5%90%8D%E5%88%BA%E5%9F%BA%E6%9D%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/RP2040をコアとしたDOOMが動く名刺基板.jpg"&gt;The Business Card Of DOOMから発見。画像もここから転載。
+RP2040をコアとしたDOOMが動く名刺基板の作例です。 USBキーボードも繋げることができるので、実質小さなパソコンのようでもあります。
+名刺として配るには高価すぎる気がしますが、このサイズにこの機能を納めることができると言うベンチマークとしては面白いです。
+ </description>
+    </item>
     
     <item>
       <title>素朴だけど面白い集中線ブックマーカー</title>
@@ -111,19 +123,6 @@ Nintendo DSでPS1のソフトが動いています。が、これはかなりの
       <guid>https://inajob.github.io/iroiro-review/post/xiao-esp32-c3%E3%81%A8sam2695%E3%81%AB%E3%82%88%E3%82%8Bmidi%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/XIAO ESP32-C3とSAM2695によるMIDIシンセサイザー.jpg"&gt;XIAO MIDI Synthesizerから発見。画像もここから転載。
 ハードウェアMIDIシンセサイザーというと、昔を思い出したりしますが、今やIC1つでMIDI音源が実現できます。 この製品はXIAO ESP32-C3をコアとして、SAM2695を使って実現されたMIDI音源です そこまで音にこだわりがなければこれを使うだけで、多彩な音色の楽器を実現することが出来ます。
- </description>
-    </item>
-    
-    <item>
-      <title>違う惑星の重力を体感できるストリップLED付きの棒</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E9%81%95%E3%81%86%E6%83%91%E6%98%9F%E3%81%AE%E9%87%8D%E5%8A%9B%E3%82%92%E4%BD%93%E6%84%9F%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B9%E3%83%88%E3%83%AA%E3%83%83%E3%83%97led%E4%BB%98%E3%81%8D%E3%81%AE%E6%A3%92/</link>
-      <pubDate>Thu, 07 Aug 2025 22:53:49 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E9%81%95%E3%81%86%E6%83%91%E6%98%9F%E3%81%AE%E9%87%8D%E5%8A%9B%E3%82%92%E4%BD%93%E6%84%9F%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B9%E3%83%88%E3%83%AA%E3%83%83%E3%83%97led%E4%BB%98%E3%81%8D%E3%81%AE%E6%A3%92/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/違う惑星の重力を体感できるストリップLED付きの棒.jpg"&gt;Experience Other Planets With The Gravity Simulatorから発見。画像もここから転載。
-違う惑星の重力を体感できるストリップLED付きの棒の作例です。
-傾けた方向にストリップLEDの光が落下するようなアニメーションを表示するという仕組みです。 設定を変えることで、ほかの惑星ではどのようにものが落下するかを体験することが出来ます。
-素朴な仕組みですが、実際にその惑星に行かなくても、重力の「雰囲気」が理解できるというのは面白いです。
  </description>
     </item>
     

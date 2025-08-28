@@ -5,9 +5,21 @@
     <description>Recent content in RP2040 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 03 Mar 2025 21:24:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 23:38:35 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/rp2040/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RP2040をコアとしたDOOMが動く名刺基板</title>
+      <link>https://inajob.github.io/iroiro-review/post/rp2040%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9Fdoom%E3%81%8C%E5%8B%95%E3%81%8F%E5%90%8D%E5%88%BA%E5%9F%BA%E6%9D%BF/</link>
+      <pubDate>Thu, 28 Aug 2025 23:38:35 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/rp2040%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9Fdoom%E3%81%8C%E5%8B%95%E3%81%8F%E5%90%8D%E5%88%BA%E5%9F%BA%E6%9D%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/RP2040をコアとしたDOOMが動く名刺基板.jpg"&gt;The Business Card Of DOOMから発見。画像もここから転載。
+RP2040をコアとしたDOOMが動く名刺基板の作例です。 USBキーボードも繋げることができるので、実質小さなパソコンのようでもあります。
+名刺として配るには高価すぎる気がしますが、このサイズにこの機能を納めることができると言うベンチマークとしては面白いです。
+ </description>
+    </item>
     
     <item>
       <title>PicoVisionを使ったPDA的デバイス</title>
@@ -114,19 +126,6 @@ Picopadという、オープンソースのRP2040ベースの携帯ゲーム機�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/そのままUSBポートにさせるRP2040開発ボード.jpg"&gt;PicoUSB- Raspberry Pi Pico Rubber Ducky by VoltMake on Tindieから発見。画像もここから転載。
 基板をUSB端子の形状にすることで、そのままUSBポートに挿入できるRP2040開発ボードです。
 端子が両面に用意されておりリバーシブルなのも面白いです。 両面に端子がある、と聞くとUSBソケットの金属により意図しないショートが発生して、うまく動作しないような気がしますが、うまいことダイオードを入れることで、この問題を解決しているようです。
- </description>
-    </item>
-    
-    <item>
-      <title>RP2040で静電容量タッチを扱う方法</title>
-      <link>https://inajob.github.io/iroiro-review/post/rp2040%E3%81%A7%E9%9D%99%E9%9B%BB%E5%AE%B9%E9%87%8F%E3%82%BF%E3%83%83%E3%83%81%E3%82%92%E6%89%B1%E3%81%86%E6%96%B9%E6%B3%95/</link>
-      <pubDate>Tue, 16 Apr 2024 22:33:41 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/rp2040%E3%81%A7%E9%9D%99%E9%9B%BB%E5%AE%B9%E9%87%8F%E3%82%BF%E3%83%83%E3%83%81%E3%82%92%E6%89%B1%E3%81%86%E6%96%B9%E6%B3%95/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/RP2040で静電容量タッチを扱う方法.jpg"&gt;Give Your Pi Pico Captouch Inputs For All Your Music Needsから発見。画像もここから転載。
-RP2040で静電容量タッチを扱う方法を紹介する記事です。
-Raspberry Pi PicoのGPIOに大きな抵抗を取り付けて、CircuitPythonのtouchioというライブラリを使って静電容量タッチを検出しています。
-仕組みとしては、大きな抵抗を介してGNDに接続された金属の電位の変化を読み取っているようです。
  </description>
     </item>
     
