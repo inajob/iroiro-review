@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 28 Aug 2025 23:38:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Aug 2025 23:12:22 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>レトロな4桁ディスプレイを大量に搭載した腕時計</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%83%88%E3%83%AD%E3%81%AA4%E6%A1%81%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%82%92%E5%A4%A7%E9%87%8F%E3%81%AB%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E8%85%95%E6%99%82%E8%A8%88/</link>
+      <pubDate>Sun, 31 Aug 2025 23:12:22 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%83%88%E3%83%AD%E3%81%AA4%E6%A1%81%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%82%92%E5%A4%A7%E9%87%8F%E3%81%AB%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E8%85%95%E6%99%82%E8%A8%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/レトロな4桁ディスプレイを大量に搭載した腕時計.jpg"&gt;Flex PCB Underlies The Watch Of The Futureから発見。画像もここから転載。
+レトロな4桁ディスプレイを大量に搭載した腕時計の作例です。 フレキシブル基板を活用しており、シンプルな構成になっています。
+実用性からは遠そうですが、表示器を大量に並べるアイデアは面白いです。
+ </description>
+    </item>
     
     <item>
       <title>RP2040をコアとしたDOOMが動く名刺基板</title>
@@ -112,17 +124,6 @@ PSPをギター用のデジタルエフェクタにするHACKです。 確かに
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Nintendo DSのカートリッジ側に高性能なCPUを搭載してPS1のソフトを動かす.jpg"&gt;Running An Entire PS1 Emulator In A DS Cartridgeから発見。画像もここから転載。
 Nintendo DSでPS1のソフトが動いています。が、これはかなりのズルをしていて、カートリッジの中に別のCPUを入れてそちらでPS1をエミュレートしているという作例です。
 ちょっとズルい感じがしますが、本体を破壊せずに高性能なCPUを動作させるという良い方法だと感じました。
- </description>
-    </item>
-    
-    <item>
-      <title>XIAO ESP32-C3とSAM2695によるMIDIシンセサイザー</title>
-      <link>https://inajob.github.io/iroiro-review/post/xiao-esp32-c3%E3%81%A8sam2695%E3%81%AB%E3%82%88%E3%82%8Bmidi%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</link>
-      <pubDate>Sun, 17 Aug 2025 23:45:43 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/xiao-esp32-c3%E3%81%A8sam2695%E3%81%AB%E3%82%88%E3%82%8Bmidi%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/XIAO ESP32-C3とSAM2695によるMIDIシンセサイザー.jpg"&gt;XIAO MIDI Synthesizerから発見。画像もここから転載。
-ハードウェアMIDIシンセサイザーというと、昔を思い出したりしますが、今やIC1つでMIDI音源が実現できます。 この製品はXIAO ESP32-C3をコアとして、SAM2695を使って実現されたMIDI音源です そこまで音にこだわりがなければこれを使うだけで、多彩な音色の楽器を実現することが出来ます。
  </description>
     </item>
     
