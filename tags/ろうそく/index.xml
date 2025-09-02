@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ろうそく on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E3%82%8D%E3%81%86%E3%81%9D%E3%81%8F/</link>
+    <description>Recent content in ろうそく on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Tue, 02 Sep 2025 22:45:35 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%82%8D%E3%81%86%E3%81%9D%E3%81%8F/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ろうそくを並べたときに揺らぎが一定になる現象を使った時計</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%8D%E3%81%86%E3%81%9D%E3%81%8F%E3%82%92%E4%B8%A6%E3%81%B9%E3%81%9F%E3%81%A8%E3%81%8D%E3%81%AB%E6%8F%BA%E3%82%89%E3%81%8E%E3%81%8C%E4%B8%80%E5%AE%9A%E3%81%AB%E3%81%AA%E3%82%8B%E7%8F%BE%E8%B1%A1%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%99%82%E8%A8%88/</link>
+      <pubDate>Tue, 02 Sep 2025 22:45:35 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%8D%E3%81%86%E3%81%9D%E3%81%8F%E3%82%92%E4%B8%A6%E3%81%B9%E3%81%9F%E3%81%A8%E3%81%8D%E3%81%AB%E6%8F%BA%E3%82%89%E3%81%8E%E3%81%8C%E4%B8%80%E5%AE%9A%E3%81%AB%E3%81%AA%E3%82%8B%E7%8F%BE%E8%B1%A1%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%99%82%E8%A8%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ろうそくを並べたときに揺らぎが一定になる現象を使った時計.jpg"&gt;Candle Oscillator Really Heats Things Upから発見。画像もここから転載。
+ろうそくの炎はゆらゆら揺らぎます。 1本のろうそくの揺らぎはランダムに近いですが、複数ろうそくを横に並べたときにこの揺らぎは一定の周期になることが知られているようです。
+この記事では、この一定の周期となった揺らぎを活用して時計を作っているようです。</description>
+    </item>
+    
+  </channel>
+</rss>
+
