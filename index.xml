@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 02 Sep 2025 22:45:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 23:30:13 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>M5StampS3をコアとしたMIDIキーボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/m5stamps3%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9Fmidi%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Wed, 03 Sep 2025 23:30:13 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/m5stamps3%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9Fmidi%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/M5StampS3をコアとしたMIDIキーボード.jpg"&gt;カワヅ（黄色いハゲ）さんのPostから発見。画像もここから転載。
+M5StampS3をコアとしたMIDIキーボードの作例です。 1オクターブ分のキーボードボタンと便利に使えるいくつかのボタンと、簡易的な音を鳴らすためのスピーカーが搭載されており、ちょっと音を確認したいときや、MIDI機器に入力したいときに便利そうです。
+ぼくのかんがえた超シンプルMIDIキーボード。M5StampS3、スイッチ、スピーカー駆動のみ。これでレガシーMIDIもBLE MIDIもUSB MIDIも行ける。音程確認のためのスピーカー付き。ただしDAC無いのでPWMだけ。 #ねこびっと基板 pic.twitter.com/A7SzScLtwz
+&amp;mdash; カワヅ（黄色いハゲ） (@necobut) August 3, 2025  </description>
+    </item>
     
     <item>
       <title>ろうそくを並べたときに揺らぎが一定になる現象を使った時計</title>
@@ -110,21 +122,6 @@ RP2040をコアとしたDOOMが動く名刺基板の作例です。 USBキーボ
       <guid>https://inajob.github.io/iroiro-review/post/uart%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AB%E7%AB%AF%E6%9C%AB/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/UARTミニマル端末.jpg"&gt;Minimalist terminal for UART / MCU testing by Yann Leidwanger on Tindieから発見。画像もここから転載。
 マイコンなどの簡易ディスプレイ、キーボードとなりそうな、UART専用端末の作例です。 普段はディスプレイ表示が不要なデバイスの、ちょっとしたデバッグ表示に便利そうです。</description>
-    </item>
-    
-    <item>
-      <title>有孔ボードとゴム栓を使ってドットを描くアイデア</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%9C%89%E5%AD%94%E3%83%9C%E3%83%BC%E3%83%89%E3%81%A8%E3%82%B4%E3%83%A0%E6%A0%93%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%89%E3%83%83%E3%83%88%E3%82%92%E6%8F%8F%E3%81%8F%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2/</link>
-      <pubDate>Wed, 20 Aug 2025 23:32:06 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%9C%89%E5%AD%94%E3%83%9C%E3%83%BC%E3%83%89%E3%81%A8%E3%82%B4%E3%83%A0%E6%A0%93%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%89%E3%83%83%E3%83%88%E3%82%92%E6%8F%8F%E3%81%8F%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/有孔ボードとゴム栓を使ってドットを描くアイデア.jpg"&gt;山下義弘 / ドケットストアの人さんのPostから発見。画像もここから転載。
-有孔ボードとゴム栓を使ってドットを描くアイデアです。 特徴的ですが、ユニバーサルな見た目で使い勝手がよさそうです。
-電子工作的な要素は全くなしで、ドットマトリクス表示を実現しており、面白いアイデアです。
-小さなゴム栓を穴にはめていくと、ドット文字が作れる看板を作ってみました
-ゴムが立体感を生み出してくれるので、デジタル表記なのにアナログな手触りがあるところがたまりません
-営業時間や定休日が変わっても、自分で変更できるのもこだわったポイントです pic.twitter.com/PeWWN1clkR
-&amp;mdash; 山下義弘 / ドケットストアの人 (@tyarinko) August 5, 2025  </description>
     </item>
     
   </channel>
