@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 04 Sep 2025 22:14:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Sep 2025 21:23:08 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>テキストをため込んでパソコンに一気に入力できる端末</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%92%E3%81%9F%E3%82%81%E8%BE%BC%E3%82%93%E3%81%A7%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%81%AB%E4%B8%80%E6%B0%97%E3%81%AB%E5%85%A5%E5%8A%9B%E3%81%A7%E3%81%8D%E3%82%8B%E7%AB%AF%E6%9C%AB/</link>
+      <pubDate>Sun, 07 Sep 2025 21:23:08 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%92%E3%81%9F%E3%82%81%E8%BE%BC%E3%82%93%E3%81%A7%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%81%AB%E4%B8%80%E6%B0%97%E3%81%AB%E5%85%A5%E5%8A%9B%E3%81%A7%E3%81%8D%E3%82%8B%E7%AB%AF%E6%9C%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/テキストをため込んでパソコンに一気に入力できる端末.jpg"&gt;Micro Journal Rev.4 - Captain Hook by Un Kyu Lee on Tindieから発見。画像もここから転載。
+Micro JournalシリーズのRev.4です。 このキーボードは普通のキーボードのように、パソコンに接続して使うことが出来ます。 加えて、非常に小さなディスプレイが搭載されており、モードを切り替えることで、こちらのディスプレイに文字を入力することもできます。 その後小さなディスプレイに打ち込んだ文字列を一気にパソコンに入力する機能も搭載されています。
+集中して文字を書きたいときなどに便利そうな面白いキーボードです（ただし日本語で同じようなことをしようとするとかな漢字変換をどこで実施するのかというような問題が出てきてしまいますが・・）
+スタンドアローンなメモ端末としても利用することが出来るため、モバイル文字入力端末としても活用できます。
+ </description>
+    </item>
     
     <item>
       <title>暖かい飲み物にバターを押し付けて溶かすアタッチメント</title>
@@ -113,17 +126,6 @@ RP2040をコアとしたDOOMが動く名刺基板の作例です。 USBキーボ
       <guid>https://inajob.github.io/iroiro-review/post/441%E5%80%8B%E3%81%AEled%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E6%B5%81%E4%BD%93%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%8C%E8%A1%A8%E7%A4%BA%E3%81%A7%E3%81%8D%E3%82%8B%E5%90%8D%E5%88%BA%E5%9F%BA%E6%9D%BF/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/441個のLEDを搭載した流体シミュレーションが表示できる名刺基板.jpg"&gt;LEDs That Flow: A Fluid Simulation Business Cardから発見。画像もここから転載。
 21×21=441個のLEDを搭載した流体シミュレーションが表示できる名刺基板の作例です。 見た目にはとても面白そうなのですが、実装費用が結構高くつきそうです。</description>
-    </item>
-    
-    <item>
-      <title>音が出てLEDが光る名刺基板</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E9%9F%B3%E3%81%8C%E5%87%BA%E3%81%A6led%E3%81%8C%E5%85%89%E3%82%8B%E5%90%8D%E5%88%BA%E5%9F%BA%E6%9D%BF/</link>
-      <pubDate>Sun, 24 Aug 2025 23:49:59 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E9%9F%B3%E3%81%8C%E5%87%BA%E3%81%A6led%E3%81%8C%E5%85%89%E3%82%8B%E5%90%8D%E5%88%BA%E5%9F%BA%E6%9D%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/音が出てLEDが光る名刺基板.jpg"&gt;ATtiny-Powered Business Card Plays Cracktro Hitsから発見。画像もここから転載。
-音が出てLEDが光る名刺基板の作例です。 ATtiny1616搭載で1枚当たりのコストは1.5ユーロと、比較的安価です。
- </description>
     </item>
     
   </channel>
