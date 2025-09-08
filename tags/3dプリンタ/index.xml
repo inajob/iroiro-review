@@ -5,9 +5,21 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 04 Sep 2025 22:14:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Sep 2025 23:10:22 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>水で溶ける基板</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%B0%B4%E3%81%A7%E6%BA%B6%E3%81%91%E3%82%8B%E5%9F%BA%E6%9D%BF/</link>
+      <pubDate>Mon, 08 Sep 2025 23:10:22 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%B0%B4%E3%81%A7%E6%BA%B6%E3%81%91%E3%82%8B%E5%9F%BA%E6%9D%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/水で溶ける基板.jpg"&gt;A Solderless, Soluble Circuit Boardから発見。画像もここから転載。
+水で溶ける基板の実験です。 水溶性PVAを使い3Dプリンタで溝のある基板を作成し、液体金属を流し込んで接続する方式です。
+破棄するときの手間が少なくリサイクルとも相性が良いということのようですが、個人的には3Dプリンタで回路を作ることが出来るという点に興味を持ちました。
+ </description>
+    </item>
     
     <item>
       <title>暖かい飲み物にバターを押し付けて溶かすアタッチメント</title>
@@ -132,21 +144,6 @@ NT金沢でお披露目されたもののようですが、そのアイデアも
 Pruntと呼ばれる新しい3Dプリンタコントローラボードとファームウェアです。 3Dプリンタのファームウェアと言えばMarline、そしてKlipperなどをよく聞きますが、この記事で紹介しているのは新しいファームウェアであるPruntです。
 スムーズな動作制御や、コントローラーボードの電気的な損傷の検知機能などがついているようで、後発ならではのきめ細かい機能が搭載されています。
 最近クローズドソースの3Dプリンタが流行っているような気配も感じますが、オープンソースの3Dプリンタにも頑張ってほしいと感じます。</description>
-    </item>
-    
-    <item>
-      <title>渦巻き状のジョイントで組み立てができる部品</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%B8%A6%E5%B7%BB%E3%81%8D%E7%8A%B6%E3%81%AE%E3%82%B8%E3%83%A7%E3%82%A4%E3%83%B3%E3%83%88%E3%81%A7%E7%B5%84%E3%81%BF%E7%AB%8B%E3%81%A6%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E9%83%A8%E5%93%81/</link>
-      <pubDate>Mon, 30 Jun 2025 21:33:10 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%B8%A6%E5%B7%BB%E3%81%8D%E7%8A%B6%E3%81%AE%E3%82%B8%E3%83%A7%E3%82%A4%E3%83%B3%E3%83%88%E3%81%A7%E7%B5%84%E3%81%BF%E7%AB%8B%E3%81%A6%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E9%83%A8%E5%93%81/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/渦巻き状のジョイントで組み立てができる部品.jpg"&gt;Spiral Connector Makes Fastener-Free Assembliesから発見。画像もここから転載。
-3Dプリントの造形を設計するとき、いくつかの部品に分けて生成し、最後にそれらを組み合わせるという手法を用いることはよくあります。
-この時それらの部品をどうやってくっつけるかというのが問題となります。瞬間接着剤、ねじ、はめ込みなどいろいろ選択肢があるのですが、この記事で紹介しているのは、特徴的な形状の「はめ込み」です。
-渦巻きのような形状の部品を4つ差し込むことでしっかりとはめ込むことが出来る形状となっており、見た目にもユニークで面白いです。
-またこのような渦巻きの形状は角ばった造形に比べると3Dプリンタに適した形となっており、美観と実用性の両方を兼ねそろえた面白いアイデアです。
-渦巻き状のジョイントで組み立てができる部品
- </description>
     </item>
     
   </channel>

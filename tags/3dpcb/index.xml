@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3DPCB on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/3dpcb/</link>
+    <description>Recent content in 3DPCB on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Mon, 08 Sep 2025 23:10:22 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/3dpcb/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>水で溶ける基板</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%B0%B4%E3%81%A7%E6%BA%B6%E3%81%91%E3%82%8B%E5%9F%BA%E6%9D%BF/</link>
+      <pubDate>Mon, 08 Sep 2025 23:10:22 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%B0%B4%E3%81%A7%E6%BA%B6%E3%81%91%E3%82%8B%E5%9F%BA%E6%9D%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/水で溶ける基板.jpg"&gt;A Solderless, Soluble Circuit Boardから発見。画像もここから転載。
+水で溶ける基板の実験です。 水溶性PVAを使い3Dプリンタで溝のある基板を作成し、液体金属を流し込んで接続する方式です。
+破棄するときの手間が少なくリサイクルとも相性が良いということのようですが、個人的には3Dプリンタで回路を作ることが出来るという点に興味を持ちました。
+ </description>
+    </item>
+    
+  </channel>
+</rss>
+
