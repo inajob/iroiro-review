@@ -5,9 +5,22 @@
     <description>Recent content in マウス on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 04 Mar 2025 22:27:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Sep 2025 23:50:48 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%83%9E%E3%82%A6%E3%82%B9/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>100均のマウスからセンサーを流用する</title>
+      <link>https://inajob.github.io/iroiro-review/post/100%E5%9D%87%E3%81%AE%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%8B%E3%82%89%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92%E6%B5%81%E7%94%A8%E3%81%99%E3%82%8B/</link>
+      <pubDate>Wed, 10 Sep 2025 23:50:48 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/100%E5%9D%87%E3%81%AE%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%8B%E3%82%89%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92%E6%B5%81%E7%94%A8%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/100均のマウスからセンサーを流用する.jpg"&gt;りんりんさんのPostから発見。画像もここから転載。
+100均には、「どうしてこれが100円で？！」というようなものがあります。 このマウスは100円ではなく500円のもののようですが、それでも無線光学式マウスとしてはかなり安い部類です。
+このPostでは、このマウスのセンサー部分を取り出して、Arduinoから制御する方法を紹介しています。 高額マウスのセンサーとして十分妥当な価格で、入手性もよく、おまけにマウスの筐体もついてくる、となるとお買い得な買い物だと思います。（謎の評価）
+100均のマウスセンサー動いた pic.twitter.com/uXErkgvG1a
+&amp;mdash; りんりん (@lnln_ch) August 30, 2025  </description>
+    </item>
     
     <item>
       <title>中指にはめ込む方式のマウス</title>
