@@ -5,9 +5,21 @@
     <description>Recent content in 静電容量タッチ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 26 Dec 2024 23:29:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 00:30:46 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%9D%99%E9%9B%BB%E5%AE%B9%E9%87%8F%E3%82%BF%E3%83%83%E3%83%81/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>銅箔テープを内蔵した3Dプリンタ製のタッチボタン</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%8A%85%E7%AE%94%E3%83%86%E3%83%BC%E3%83%97%E3%82%92%E5%86%85%E8%94%B5%E3%81%97%E3%81%9F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%BF%E3%83%83%E3%83%81%E3%83%9C%E3%82%BF%E3%83%B3/</link>
+      <pubDate>Wed, 17 Sep 2025 00:30:46 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%8A%85%E7%AE%94%E3%83%86%E3%83%BC%E3%83%97%E3%82%92%E5%86%85%E8%94%B5%E3%81%97%E3%81%9F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%BF%E3%83%83%E3%83%81%E3%83%9C%E3%82%BF%E3%83%B3/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/銅箔テープを内蔵した3Dプリンタ製のタッチボタン.jpg"&gt;Hide Capacitive Touch Buttons In Your Next 3D Printから発見。画像もここから転載。
+銅箔テープを内蔵した3Dプリンタ製のタッチボタンの作例です。
+3Dプリントの印刷を途中で止めて銅箔テープを貼り付けることで、3Dプリンタ造形物の内部に静電容量タッチの仕組みを構成しています。 ケースがそのままスイッチにもなるという面白い仕組みです。
+量産するにはつらいですが、ちょっとした個人向けの製作で活用できそうなテクニックです。</description>
+    </item>
     
     <item>
       <title>CH582Mをコアとした静電容量タッチキーボード</title>

@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 15 Sep 2025 22:50:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 00:30:46 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>銅箔テープを内蔵した3Dプリンタ製のタッチボタン</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%8A%85%E7%AE%94%E3%83%86%E3%83%BC%E3%83%97%E3%82%92%E5%86%85%E8%94%B5%E3%81%97%E3%81%9F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%BF%E3%83%83%E3%83%81%E3%83%9C%E3%82%BF%E3%83%B3/</link>
+      <pubDate>Wed, 17 Sep 2025 00:30:46 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%8A%85%E7%AE%94%E3%83%86%E3%83%BC%E3%83%97%E3%82%92%E5%86%85%E8%94%B5%E3%81%97%E3%81%9F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%BF%E3%83%83%E3%83%81%E3%83%9C%E3%82%BF%E3%83%B3/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/銅箔テープを内蔵した3Dプリンタ製のタッチボタン.jpg"&gt;Hide Capacitive Touch Buttons In Your Next 3D Printから発見。画像もここから転載。
+銅箔テープを内蔵した3Dプリンタ製のタッチボタンの作例です。
+3Dプリントの印刷を途中で止めて銅箔テープを貼り付けることで、3Dプリンタ造形物の内部に静電容量タッチの仕組みを構成しています。 ケースがそのままスイッチにもなるという面白い仕組みです。
+量産するにはつらいですが、ちょっとした個人向けの製作で活用できそうなテクニックです。</description>
+    </item>
     
     <item>
       <title>OLEDと静電容量タッチボタン付きの名刺基板</title>
@@ -115,19 +127,6 @@ M5StampS3をコアとしたMIDIキーボードの作例です。 1オクター�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ろうそくを並べたときに揺らぎが一定になる現象を使った時計.jpg"&gt;Candle Oscillator Really Heats Things Upから発見。画像もここから転載。
 ろうそくの炎はゆらゆら揺らぎます。 1本のろうそくの揺らぎはランダムに近いですが、複数ろうそくを横に並べたときにこの揺らぎは一定の周期になることが知られているようです。
 この記事では、この一定の周期となった揺らぎを活用して時計を作っているようです。</description>
-    </item>
-    
-    <item>
-      <title>お古のスマートフォンを自宅サーバにする</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8A%E5%8F%A4%E3%81%AE%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%82%92%E8%87%AA%E5%AE%85%E3%82%B5%E3%83%BC%E3%83%90%E3%81%AB%E3%81%99%E3%82%8B/</link>
-      <pubDate>Mon, 01 Sep 2025 23:16:31 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8A%E5%8F%A4%E3%81%AE%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%82%92%E8%87%AA%E5%AE%85%E3%82%B5%E3%83%BC%E3%83%90%E3%81%AB%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/お古のスマートフォンを自宅サーバにする.jpg"&gt;From Smartphone To A Home Serverから発見。画像もここから転載。
-お古のスマートフォンを自宅サーバにする。 この例では、postmarketOSというお古のAndroidを対象としたLinuxディストリビューションを入れていますが、単純にAndroid端末にtermuxなどをインストールしても近いことが出来そうです。
-この使い方だと常時電源に繋いで利用することになりますが、バッテリーは接続しないようにした方がよさそうです。 場合によってはバッテリー周りに改造を施す必要があるみたいです。
-この使い方なら画面が割れた中古とかでもOKなので、本当に激安でサーバを作ることが出来そうです。
- </description>
     </item>
     
   </channel>
