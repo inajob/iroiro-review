@@ -5,9 +5,21 @@
     <description>Recent content in 電子ペーパー on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 18 Mar 2025 23:42:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 23:15:05 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>オープンソースで反応速度の速い電子ペーパー</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%A7%E5%8F%8D%E5%BF%9C%E9%80%9F%E5%BA%A6%E3%81%AE%E9%80%9F%E3%81%84%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC/</link>
+      <pubDate>Wed, 17 Sep 2025 23:15:05 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%A7%E5%8F%8D%E5%BF%9C%E9%80%9F%E5%BA%A6%E3%81%AE%E9%80%9F%E3%81%84%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/オープンソースで反応速度の速い電子ペーパー.jpg"&gt;Modos Is Open Hardware, Easy On The Eyesから発見。画像もここから転載。
+オープンソースで反応速度の速い電子ペーパーの紹介です。 どうやらこの電子ペーパーは75Hzという高速な更新ができるようで、普通のディスプレイの代わりに利用できそうです。
+クラウドファンディング中のようで今なら注文できるようです。
+ </description>
+    </item>
     
     <item>
       <title>太陽光で動作する電子書籍リーダー</title>
@@ -116,18 +128,6 @@ M5Paperを使った電子書籍ビューアの作例です。 もともとM5Pape
 電子ペーパー搭載の文字書き専用端末の作例です
 内部はRaspberry Pi Zero Wで、メカニカルキーボードを搭載し、シンプルな文字入力端末を実現しています。 ケースは3Dプリンタで作られており、この設計は 3Dプリンタで作られたコンパクトな筐体のハンドヘルド端末 のものを元にしているとのことです。
 この作例では日本語入力はサポートしていないようですが、中身Raspberry Pi Zeroということなので、日本語入力対応もそこまで難しくなさそうに見えます。</description>
-    </item>
-    
-    <item>
-      <title>電子ペーパーを用いたフチなしの情報板</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E3%83%95%E3%83%81%E3%81%AA%E3%81%97%E3%81%AE%E6%83%85%E5%A0%B1%E6%9D%BF/</link>
-      <pubDate>Tue, 31 Oct 2023 23:52:27 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E3%83%95%E3%83%81%E3%81%AA%E3%81%97%E3%81%AE%E6%83%85%E5%A0%B1%E6%9D%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/電子ペーパーを用いたフチなしの情報板.jpg"&gt;Smart Dashboardから発見。画像もここから転載。
-電子ペーパーを用いたフチなしの情報板の作例です。コアとなる開発ボードはESP32-S2-MINIです。
-以前薄くフチなしの筐体が印象的な電子ペーパー天気表示機 で紹介したものと非常によく似ていますが、独立した作例のようです。
-見栄えが非常に良いので、近いうちにこういう製品が出てくるのでは？と予想しています。</description>
     </item>
     
   </channel>
