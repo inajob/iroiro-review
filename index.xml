@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 17 Sep 2025 23:15:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 23:16:09 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>物騒な見た目の目覚まし時計</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%89%A9%E9%A8%92%E3%81%AA%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AE%E7%9B%AE%E8%A6%9A%E3%81%BE%E3%81%97%E6%99%82%E8%A8%88/</link>
+      <pubDate>Thu, 18 Sep 2025 23:16:09 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%89%A9%E9%A8%92%E3%81%AA%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AE%E7%9B%AE%E8%A6%9A%E3%81%BE%E3%81%97%E6%99%82%E8%A8%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/物騒な見た目の目覚まし時計.jpg"&gt;Alarm clockから発見。画像もここから転載。
+物騒な見た目の目覚まし時計の作例です。 アラームを解除するためには正しい数字を入力する仕組みがあるというものです。
+もちろん本物の爆弾ではないですが、これは外に持って出かけられないな・・ こういう見た目のインパクトがある作品も好きです。</description>
+    </item>
     
     <item>
       <title>オープンソースで反応速度の速い電子ペーパー</title>
@@ -116,18 +127,6 @@ Micro JournalシリーズのRev.4です。 このキーボードは普通のキ�
 バターを使う前に少し解けていると都合が良いことが多いですが、冷蔵庫から取り出してすぐのバターはカチカチに固まっています。 そこで、この記事では3Dプリンタを使い暖かい飲み物にバターを押し付けるためのアタッチメントを作成しています。
 確かにだいたいバターを使う場面ではカップに入れられた暖かい飲み物が登場するので、非常に合理的なソリューションです。
  </description>
-    </item>
-    
-    <item>
-      <title>M5StampS3をコアとしたMIDIキーボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/m5stamps3%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9Fmidi%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Wed, 03 Sep 2025 23:30:13 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/m5stamps3%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9Fmidi%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/M5StampS3をコアとしたMIDIキーボード.jpg"&gt;カワヅ（黄色いハゲ）さんのPostから発見。画像もここから転載。
-M5StampS3をコアとしたMIDIキーボードの作例です。 1オクターブ分のキーボードボタンと便利に使えるいくつかのボタンと、簡易的な音を鳴らすためのスピーカーが搭載されており、ちょっと音を確認したいときや、MIDI機器に入力したいときに便利そうです。
-ぼくのかんがえた超シンプルMIDIキーボード。M5StampS3、スイッチ、スピーカー駆動のみ。これでレガシーMIDIもBLE MIDIもUSB MIDIも行ける。音程確認のためのスピーカー付き。ただしDAC無いのでPWMだけ。 #ねこびっと基板 pic.twitter.com/A7SzScLtwz
-&amp;mdash; カワヅ（黄色いハゲ） (@necobut) August 3, 2025  </description>
     </item>
     
   </channel>
