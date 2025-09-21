@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 18 Sep 2025 23:16:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Sep 2025 23:21:53 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>IKEAのランタンキットの部品を使ってメタルケースを作る</title>
+      <link>https://inajob.github.io/iroiro-review/post/ikea%E3%81%AE%E3%83%A9%E3%83%B3%E3%82%BF%E3%83%B3%E3%82%AD%E3%83%83%E3%83%88%E3%81%AE%E9%83%A8%E5%93%81%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%A1%E3%82%BF%E3%83%AB%E3%82%B1%E3%83%BC%E3%82%B9%E3%82%92%E4%BD%9C%E3%82%8B/</link>
+      <pubDate>Sun, 21 Sep 2025 23:21:53 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/ikea%E3%81%AE%E3%83%A9%E3%83%B3%E3%82%BF%E3%83%B3%E3%82%AD%E3%83%83%E3%83%88%E3%81%AE%E9%83%A8%E5%93%81%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%A1%E3%82%BF%E3%83%AB%E3%82%B1%E3%83%BC%E3%82%B9%E3%82%92%E4%BD%9C%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/IKEAのランタンキットの部品を使ってメタルケースを作る.jpg"&gt;Turning A $2 IKEA Lantern Into A Stylish Enclosureから発見。画像もここから転載。
+IKEAのランタンキットの部品を使ってメタルケースを作るというアイデアです。
+$2という安価なランタンキットで、メタルプレートを曲げることでケースを構成するといったものがあるようですが、この記事ではこのケースの部品をうまく使うことで、直方体のいい感じのケースを自作しています。
+この作例に限らず、この商品は汎用メタルプレートとして有用そうです。
+ </description>
+    </item>
     
     <item>
       <title>物騒な見た目の目覚まし時計</title>
@@ -114,18 +127,6 @@ OLEDと静電容量タッチボタン付きの名刺基板の作例です。 静
 Micro JournalシリーズのRev.4です。 このキーボードは普通のキーボードのように、パソコンに接続して使うことが出来ます。 加えて、非常に小さなディスプレイが搭載されており、モードを切り替えることで、こちらのディスプレイに文字を入力することもできます。 その後小さなディスプレイに打ち込んだ文字列を一気にパソコンに入力する機能も搭載されています。
 集中して文字を書きたいときなどに便利そうな面白いキーボードです（ただし日本語で同じようなことをしようとするとかな漢字変換をどこで実施するのかというような問題が出てきてしまいますが・・）
 スタンドアローンなメモ端末としても利用することが出来るため、モバイル文字入力端末としても活用できます。
- </description>
-    </item>
-    
-    <item>
-      <title>暖かい飲み物にバターを押し付けて溶かすアタッチメント</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%9A%96%E3%81%8B%E3%81%84%E9%A3%B2%E3%81%BF%E7%89%A9%E3%81%AB%E3%83%90%E3%82%BF%E3%83%BC%E3%82%92%E6%8A%BC%E3%81%97%E4%BB%98%E3%81%91%E3%81%A6%E6%BA%B6%E3%81%8B%E3%81%99%E3%82%A2%E3%82%BF%E3%83%83%E3%83%81%E3%83%A1%E3%83%B3%E3%83%88/</link>
-      <pubDate>Thu, 04 Sep 2025 22:14:30 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%9A%96%E3%81%8B%E3%81%84%E9%A3%B2%E3%81%BF%E7%89%A9%E3%81%AB%E3%83%90%E3%82%BF%E3%83%BC%E3%82%92%E6%8A%BC%E3%81%97%E4%BB%98%E3%81%91%E3%81%A6%E6%BA%B6%E3%81%8B%E3%81%99%E3%82%A2%E3%82%BF%E3%83%83%E3%83%81%E3%83%A1%E3%83%B3%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/暖かい飲み物にバターを押し付けて溶かすアタッチメント.jpg"&gt;Butta Melta Stops Rock-solid Butter From Tearing Your Toastから発見。画像もここから転載。
-バターを使う前に少し解けていると都合が良いことが多いですが、冷蔵庫から取り出してすぐのバターはカチカチに固まっています。 そこで、この記事では3Dプリンタを使い暖かい飲み物にバターを押し付けるためのアタッチメントを作成しています。
-確かにだいたいバターを使う場面ではカップに入れられた暖かい飲み物が登場するので、非常に合理的なソリューションです。
  </description>
     </item>
     
