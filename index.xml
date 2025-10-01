@@ -5,9 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 30 Sep 2025 22:45:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 22:54:58 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>安いCH32V003開発ボードUIAPduino</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E3%81%84ch32v003%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89uiapduino/</link>
+      <pubDate>Wed, 01 Oct 2025 22:54:58 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E3%81%84ch32v003%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89uiapduino/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/安いCH32V003開発ボードUIAPduino.jpg"&gt;スイッチサイエンスのページから発見。画像もここから転載。
+最近流行りの？CH32V003ですが、開発ボードの入手性は微妙です。
+もちろん腕に覚えのある人は自分で基板を設計すればよいのですが、そこまでは出来ないという人も多いでしょう。 そんな中で、今回紹介するのはスイッチサイエンスなどで購入できるCH32V003搭載の開発ボードです。
+初期ファームウェアにはUSB書き込みができるブートローダーが書き込まれているため、専用のライターを使う必要なく開発が出来ます。 （CH32V003にはUSB機能は搭載されていないので、この機能はソフトウェア的にUSBデバイスを実装することで実現しています）
+注意点としては、Arduino対応を謳ってはいますがCH32V003用のArduinoコアはビルド後のバイナリサイズが大きくなりがちで、複雑なことをするには向かないです。 本格的に使いたい場合はch32fun というライブラリを使うのがおすすめです。 Arduinoとは使勝手が違いますが、サンプルプログラムが充実しているので、そこまで困ることはなさそうです。
+なんといっても290円という価格が魅力です。スイッチサイエンスで何か買うときについでに何枚か買いたくなってしまいますね。
+ </description>
+    </item>
     
     <item>
       <title>関数電卓をバッテリー駆動に改造する</title>
@@ -117,18 +132,6 @@ $2という安価なランタンキットで、メタルプレートを曲げる
 オープンソースで反応速度の速い電子ペーパーの紹介です。 どうやらこの電子ペーパーは75Hzという高速な更新ができるようで、普通のディスプレイの代わりに利用できそうです。
 クラウドファンディング中のようで今なら注文できるようです。
  </description>
-    </item>
-    
-    <item>
-      <title>銅箔テープを内蔵した3Dプリンタ製のタッチボタン</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E9%8A%85%E7%AE%94%E3%83%86%E3%83%BC%E3%83%97%E3%82%92%E5%86%85%E8%94%B5%E3%81%97%E3%81%9F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%BF%E3%83%83%E3%83%81%E3%83%9C%E3%82%BF%E3%83%B3/</link>
-      <pubDate>Wed, 17 Sep 2025 00:30:46 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E9%8A%85%E7%AE%94%E3%83%86%E3%83%BC%E3%83%97%E3%82%92%E5%86%85%E8%94%B5%E3%81%97%E3%81%9F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%BF%E3%83%83%E3%83%81%E3%83%9C%E3%82%BF%E3%83%B3/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/銅箔テープを内蔵した3Dプリンタ製のタッチボタン.jpg"&gt;Hide Capacitive Touch Buttons In Your Next 3D Printから発見。画像もここから転載。
-銅箔テープを内蔵した3Dプリンタ製のタッチボタンの作例です。
-3Dプリントの印刷を途中で止めて銅箔テープを貼り付けることで、3Dプリンタ造形物の内部に静電容量タッチの仕組みを構成しています。 ケースがそのままスイッチにもなるという面白い仕組みです。
-量産するにはつらいですが、ちょっとした個人向けの製作で活用できそうなテクニックです。</description>
     </item>
     
   </channel>

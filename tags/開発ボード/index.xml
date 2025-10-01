@@ -5,9 +5,24 @@
     <description>Recent content in 開発ボード on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 28 Jul 2025 23:42:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 22:54:58 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>安いCH32V003開発ボードUIAPduino</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E3%81%84ch32v003%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89uiapduino/</link>
+      <pubDate>Wed, 01 Oct 2025 22:54:58 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E3%81%84ch32v003%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89uiapduino/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/安いCH32V003開発ボードUIAPduino.jpg"&gt;スイッチサイエンスのページから発見。画像もここから転載。
+最近流行りの？CH32V003ですが、開発ボードの入手性は微妙です。
+もちろん腕に覚えのある人は自分で基板を設計すればよいのですが、そこまでは出来ないという人も多いでしょう。 そんな中で、今回紹介するのはスイッチサイエンスなどで購入できるCH32V003搭載の開発ボードです。
+初期ファームウェアにはUSB書き込みができるブートローダーが書き込まれているため、専用のライターを使う必要なく開発が出来ます。 （CH32V003にはUSB機能は搭載されていないので、この機能はソフトウェア的にUSBデバイスを実装することで実現しています）
+注意点としては、Arduino対応を謳ってはいますがCH32V003用のArduinoコアはビルド後のバイナリサイズが大きくなりがちで、複雑なことをするには向かないです。 本格的に使いたい場合はch32fun というライブラリを使うのがおすすめです。 Arduinoとは使勝手が違いますが、サンプルプログラムが充実しているので、そこまで困ることはなさそうです。
+なんといっても290円という価格が魅力です。スイッチサイエンスで何か買うときについでに何枚か買いたくなってしまいますね。
+ </description>
+    </item>
     
     <item>
       <title>RA4M1をコアとした開発ボード</title>
@@ -115,18 +130,6 @@ ESP32-WROOMのパッケージは横幅が結構あるので、開発ボードも
 人によっては間隔を開けて2つのブレッドボードを並べるような人もいるようですが、ここで紹介している開発ボードは、一般的なBluePillボードと同じ間隔の細い形をしたものです。
 みたままですが、ESP32モジュールを開発ボードの後ろに配置することで、開発ボードの横幅を小さく保っています。
 USB端子もType-Cとなっており、かなり使いやすそうです。</description>
-    </item>
-    
-    <item>
-      <title>手ハンダで実装できるLinuxボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E3%83%8F%E3%83%B3%E3%83%80%E3%81%A7%E5%AE%9F%E8%A3%85%E3%81%A7%E3%81%8D%E3%82%8Blinux%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Tue, 06 Jun 2023 22:55:53 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%89%8B%E3%83%8F%E3%83%B3%E3%83%80%E3%81%A7%E5%AE%9F%E8%A3%85%E3%81%A7%E3%81%8D%E3%82%8Blinux%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/手ハンダで実装できるLinuxボード.jpg"&gt;BeagleStamp Makes Soldering Linux Into Your Projects Easierから発見。画像もここから転載。
-自分のオリジナル基板をLinuxで制御するのはなかなか大変です。ということで既製品であるRaspberry Piなどと組み合わせることが多いですが、Raspberry Piは結構かさばるという問題があります。
-この記事で紹介しているのは、切手サイズのLinuxボードです。 端面スルーホールになっており、手はんだでも実装できます。
-搭載されているICはOctavoと呼ばれるものでBGAパッケージの中にメインメモリなど全部入りとなっています。 性能はRaspberry Piには劣りますが、このコンパクトさや実装しやすさは使いやすそうです。</description>
     </item>
     
   </channel>
