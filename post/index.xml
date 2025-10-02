@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 01 Oct 2025 22:54:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 23:07:08 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタで作られた「からくり本」</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A%E6%9C%AC/</link>
+      <pubDate>Thu, 02 Oct 2025 23:07:08 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A%E6%9C%AC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作られた「からくり本」.jpg"&gt;3D Printed “Book” Demonstrates Mechanical Actionsから発見。画像もここから転載。
+3Dプリンタで作られたからくり本です。一番最後のページに電池とモータが取り付けられており、このモーターの軸が各ページのからくりとつながっています。
+ギアやリンク機構を用いたからくりが各ページに仕込まれており、インタラクティブに動く面白い本のおもちゃに仕上がっています。
+特に学習目的以外には役に立つものではないですが、本の形にギュッと詰め込まれたからくりには魅力を感じます。
+ </description>
+    </item>
     
     <item>
       <title>安いCH32V003開発ボードUIAPduino</title>
@@ -120,18 +133,6 @@ $2という安価なランタンキットで、メタルプレートを曲げる
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/物騒な見た目の目覚まし時計.jpg"&gt;Alarm clockから発見。画像もここから転載。
 物騒な見た目の目覚まし時計の作例です。 アラームを解除するためには正しい数字を入力する仕組みがあるというものです。
 もちろん本物の爆弾ではないですが、これは外に持って出かけられないな・・ こういう見た目のインパクトがある作品も好きです。</description>
-    </item>
-    
-    <item>
-      <title>オープンソースで反応速度の速い電子ペーパー</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%A7%E5%8F%8D%E5%BF%9C%E9%80%9F%E5%BA%A6%E3%81%AE%E9%80%9F%E3%81%84%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC/</link>
-      <pubDate>Wed, 17 Sep 2025 23:15:05 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%A7%E5%8F%8D%E5%BF%9C%E9%80%9F%E5%BA%A6%E3%81%AE%E9%80%9F%E3%81%84%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/オープンソースで反応速度の速い電子ペーパー.jpg"&gt;Modos Is Open Hardware, Easy On The Eyesから発見。画像もここから転載。
-オープンソースで反応速度の速い電子ペーパーの紹介です。 どうやらこの電子ペーパーは75Hzという高速な更新ができるようで、普通のディスプレイの代わりに利用できそうです。
-クラウドファンディング中のようで今なら注文できるようです。
- </description>
     </item>
     
   </channel>
