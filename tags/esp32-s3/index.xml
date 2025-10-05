@@ -5,9 +5,22 @@
     <description>Recent content in ESP32-S3 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 29 Sep 2025 23:37:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 23:14:46 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/esp32-s3/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>カメラ付きのロボットハンド</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%A1%E3%83%A9%E4%BB%98%E3%81%8D%E3%81%AE%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%83%8F%E3%83%B3%E3%83%89/</link>
+      <pubDate>Sun, 05 Oct 2025 23:14:46 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%A1%E3%83%A9%E4%BB%98%E3%81%8D%E3%81%AE%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%83%8F%E3%83%B3%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/カメラ付きのロボットハンド.jpg"&gt;For A Robot Claw, The Eyes Have Itから発見。画像もここから転載。
+遠隔でものをつかむことが出来るロボットハンドですが、なかなか狙いを定めるのが難しいです。 そこでこの記事で紹介されているのはカメラ付きのロボットハンドです。
+ESP32-S3がコアとなっており、ちょうどこれからつかもうとしているものをカメラを使って確認することが出来ます。
+カメラ付きのESP32-S3の開発ボードはかなり安価で入手できるので、様々なものにカメラを付けることはアイデアの1つとして面白そうです。
+ </description>
+    </item>
     
     <item>
       <title>中に人が閉じ込められているような見た目のペンダント</title>
@@ -116,17 +129,6 @@ Tulip本体はMakerfabsで販売されており、さっと試したい人は購
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ワンキーと画面のみのゲーム機.jpg"&gt;2024 Tiny Games Contest: Are You A Good Judge Of Time?から発見。画像もここから転載。
 ワンキーと画面のみのゲーム機です。 プログラミングはCircitPythonが使用されています。
 記事ではX秒ぴったりで止めることを競うゲームを紹介していますが、ほかにもいくつかのワンキーで遊べるゲームが動作するみたいです。</description>
-    </item>
-    
-    <item>
-      <title>カラー基板を利用して作られたZX Spectrumエミュレータ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%A9%E3%83%BC%E5%9F%BA%E6%9D%BF%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9Fzx-spectrum%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF/</link>
-      <pubDate>Mon, 22 Jul 2024 23:46:10 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AB%E3%83%A9%E3%83%BC%E5%9F%BA%E6%9D%BF%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9Fzx-spectrum%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/カラー基板を利用して作られたZX Spectrumエミュレータ.jpg"&gt;ESP32 Powers Single-PCB ZX Spectrum Emulatorから発見。画像もここから転載。
-カラー基板を利用して作られたZX Spectrumエミュレータの作例です。 キーボー部分は静電容量タッチとなっており、キートップを基板へのカラー印刷で実現しており、部品点数を少なく抑えたまま、使いやすいキーボードを実現しています。
- </description>
     </item>
     
   </channel>
