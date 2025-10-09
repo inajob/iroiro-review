@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 08 Oct 2025 22:11:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 23:06:40 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>箱を簡単に組み立てるための3Dプリンタ製の治具</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%AE%B1%E3%82%92%E7%B0%A1%E5%8D%98%E3%81%AB%E7%B5%84%E3%81%BF%E7%AB%8B%E3%81%A6%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E6%B2%BB%E5%85%B7/</link>
+      <pubDate>Thu, 09 Oct 2025 23:06:40 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%AE%B1%E3%82%92%E7%B0%A1%E5%8D%98%E3%81%AB%E7%B5%84%E3%81%BF%E7%AB%8B%E3%81%A6%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E6%B2%BB%E5%85%B7/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/箱を簡単に組み立てるための3Dプリンタ製の治具.jpg"&gt;Mandrel Magic: Small Box Assembly With 3D Printingから発見。画像もここから転載。
+何か製品を作ったときに、「箱」が必要となります。 大規模な工場での製作であれば、この箱を作る過程の自動化が行われていますが、個人開発となると箱の組み立ては人間が行う必要があります。
+箱の組み立て自体は単純作業ですが、何百個もの箱となると少しでも効率化したいところです。
+そこでこの記事では、3Dプリンタ製の治具を使い、折り曲げられた箱のもととなる型紙の中に差し込むことで、箱の形に立ち上げさせる素朴な治具を紹介しています。
+本当に素朴な仕組みですが、手で型紙を折り曲げてはこの形に成型する部分がいくらか楽になりそうです。</description>
+    </item>
     
     <item>
       <title>赤黒白電子ペーパーで青緑を描くテクニック</title>
@@ -119,19 +132,6 @@ ESP32-S3がコアとなっており、ちょうどこれからつかもうとし
       <guid>https://inajob.github.io/iroiro-review/post/%E3%81%AD%E3%81%98%E3%81%A7%E7%B7%A0%E3%82%81%E4%BB%98%E3%81%91%E3%82%8B%E6%96%B9%E5%BC%8F%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ねじで締め付ける方式の3Dプリンタ製のコネクタ.jpg"&gt;Give Your Twist Connections Some Strengthから発見。画像もここから転載。
 ねじで締め付ける方式の3Dプリンタ製のコネクタの作例です。ねじの形を利用して2本の導線を固定する治具を実現しています。 はんだ付けする必要なく、必要に応じて着脱できる便利そうな仕組みです。
- </description>
-    </item>
-    
-    <item>
-      <title>ESP32で動くマインクラフトサーバー</title>
-      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%81%A7%E5%8B%95%E3%81%8F%E3%83%9E%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC/</link>
-      <pubDate>Thu, 25 Sep 2025 23:03:59 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%81%A7%E5%8B%95%E3%81%8F%E3%83%9E%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32で動くマインクラフトサーバー.jpg"&gt;ESP32 Hosts Functional Minecraft Serverから発見。画像もここから転載。
-ESP32はかなりパワフルなマイコンですが、それでもPCに比べると全然性能は低いです。 そんなESP32を使ったマインクラフトサーバーを作ったというのがこの例です。
-さすがにフルスペックは難しく、様々な方法で処理の最適化や簡素化を行うことでこれを実現しているようです。
-Minecraftのプロトコルは有志により解析されているようで、これを利用することでクライアントはMincreft本家のものを使い、サーバだけこのような別の実装に取り換えることが可能なようです。
  </description>
     </item>
     
