@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>テンキー on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E3%83%86%E3%83%B3%E3%82%AD%E3%83%BC/</link>
+    <description>Recent content in テンキー on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Mon, 13 Oct 2025 22:51:56 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%83%86%E3%83%B3%E3%82%AD%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>タッチスクロール機能付きのテンキー</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%BF%E3%83%83%E3%83%81%E3%82%B9%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%AB%E6%A9%9F%E8%83%BD%E4%BB%98%E3%81%8D%E3%81%AE%E3%83%86%E3%83%B3%E3%82%AD%E3%83%BC/</link>
+      <pubDate>Mon, 13 Oct 2025 22:51:56 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%BF%E3%83%83%E3%83%81%E3%82%B9%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%AB%E6%A9%9F%E8%83%BD%E4%BB%98%E3%81%8D%E3%81%AE%E3%83%86%E3%83%B3%E3%82%AD%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/タッチスクロール機能付きのテンキー.jpg"&gt;DIY mechanical mini keyboard with touchpad scrolli by makerstore on Tindieから発見。画像もここから転載。
+タッチスクロール機能付きのテンキーの作例です。 テンキーの右側の縦長の領域がタッチセンサーとなっており、上下のスクロールを認識できます。
+あまり見たことのない機能ですが、マウスのトラックパッドなどは似た機能が実装されているので、テンキーについていても便利かもしれませんね。
+ </description>
+    </item>
+    
+  </channel>
+</rss>
+
