@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 13 Oct 2025 22:51:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 22:15:16 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>タッチセンサーを使ったMIDIコントローラー</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%BF%E3%83%83%E3%83%81%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fmidi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC/</link>
+      <pubDate>Tue, 14 Oct 2025 22:15:16 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%BF%E3%83%83%E3%83%81%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fmidi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/タッチセンサーを使ったMIDIコントローラー.jpg"&gt;MIDIKalimba, a touch-sensitive MIDI controller by MIDI IN on Tindieから発見。画像もここから転載。
+タッチセンサーを使ったMIDIコントローラーの作例です。 スケールを変えたり、ルーパーを内蔵していたり、ベロシティにも対応していたりと本格的です。 キーの並びもカリンバと同じでなかなか演奏しやすそうです。
+ </description>
+    </item>
     
     <item>
       <title>タッチスクロール機能付きのテンキー</title>
@@ -123,17 +134,6 @@ ESP32-S3がコアとなっており、ちょうどこれからつかもうとし
 本来なら乾電池を入れる部分にピッタリ収まるようにLiPoバッテリーとその電圧変換基板を入れることで、本体側の改造を少なくする工夫をしています。
 他の機器でもこのテクニックは使えそうです。
  </description>
-    </item>
-    
-    <item>
-      <title>中に人が閉じ込められているような見た目のペンダント</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E4%B8%AD%E3%81%AB%E4%BA%BA%E3%81%8C%E9%96%89%E3%81%98%E8%BE%BC%E3%82%81%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%82%88%E3%81%86%E3%81%AA%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AE%E3%83%9A%E3%83%B3%E3%83%80%E3%83%B3%E3%83%88/</link>
-      <pubDate>Mon, 29 Sep 2025 23:37:14 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E4%B8%AD%E3%81%AB%E4%BA%BA%E3%81%8C%E9%96%89%E3%81%98%E8%BE%BC%E3%82%81%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%82%88%E3%81%86%E3%81%AA%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AE%E3%83%9A%E3%83%B3%E3%83%80%E3%83%B3%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/中に人が閉じ込められているような見た目のペンダント.jpg"&gt;Trapped Soul In Time For Halloweenから発見。画像もここから転載。
-中に人が閉じ込められているような見た目のペンダントの作例です。 ドット絵のものなどは過去に見たことがありますが、この作例ではちょっとリアル目の演出が特徴となっています。
-このリッチな表現を実現するために使われているのはESP32-S3で、円形ディスプレイをうまく活用しているところも見どころです。</description>
     </item>
     
   </channel>
