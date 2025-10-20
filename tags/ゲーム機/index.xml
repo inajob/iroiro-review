@@ -5,9 +5,21 @@
     <description>Recent content in ゲーム機 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 19 Oct 2025 22:18:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 22:55:59 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>対戦型ピンボール専用機</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%AF%BE%E6%88%A6%E5%9E%8B%E3%83%94%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E5%B0%82%E7%94%A8%E6%A9%9F/</link>
+      <pubDate>Mon, 20 Oct 2025 22:55:59 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%AF%BE%E6%88%A6%E5%9E%8B%E3%83%94%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E5%B0%82%E7%94%A8%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/対戦型ピンボール専用機.jpg"&gt;Flip Puckから発見。画像もここから転載。
+対戦型ピンボール専用機の作例です。直方体のケースの側面に4つのボタンが配置されているだけのデバイスですが、2人で向かい合ってピンボールやエアーホッケーを遊ぶのにはピッタリです。
+ゲーム機としてもシンプルな外観で、凹凸が少ないので持ち運びやすそうです。 中身はRaspberry Piのようです。
+ </description>
+    </item>
     
     <item>
       <title>4択クイズ専用端末</title>
@@ -114,18 +126,6 @@ CH32V006というのは、激安マイコンとして有名な（？）CH32V003�
 2キーとOLED搭載のコンパクト携帯ゲーム機の作例です。 128x32のOLEDとXIAO ESP32を使ったシンプルな構成です。
 3Dプリンタで作ったグリップがいい感じで、いかにも「ゲーム機」という見た目が魅力的です。
 この解像度と２つのキーでどのようなゲームが作れるかというのが気になります。</description>
-    </item>
-    
-    <item>
-      <title>3×3のフルカラーLEDとスイッチを搭載した携帯ゲーム機</title>
-      <link>https://inajob.github.io/iroiro-review/post/33%E3%81%AE%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCled%E3%81%A8%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
-      <pubDate>Thu, 13 Mar 2025 23:45:21 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/33%E3%81%AE%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCled%E3%81%A8%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3×3のフルカラーLEDとスイッチを搭載した携帯ゲーム機.jpg"&gt;Wizzard - A Game Development Platform by Subsystems on Tindieから発見。画像もここから転載。
-3×3のフルカラーLEDとスイッチ、スピーカーを搭載した携帯ゲーム機の作例です。 コアとなるのはATmega328Pです。
-単純な入出力しかないですが、こういう機器で動くゲームを考えるのは面白そうです。
- </description>
     </item>
     
   </channel>
