@@ -5,9 +5,22 @@
     <description>Recent content in 自転車 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 20 Apr 2023 22:34:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 22:49:43 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E8%87%AA%E8%BB%A2%E8%BB%8A/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>自転車のチェーン部分をPLA製のギアを並べることで代用する</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E8%BB%A2%E8%BB%8A%E3%81%AE%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E9%83%A8%E5%88%86%E3%82%92pla%E8%A3%BD%E3%81%AE%E3%82%AE%E3%82%A2%E3%82%92%E4%B8%A6%E3%81%B9%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E4%BB%A3%E7%94%A8%E3%81%99%E3%82%8B/</link>
+      <pubDate>Tue, 21 Oct 2025 22:49:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E8%BB%A2%E8%BB%8A%E3%81%AE%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E9%83%A8%E5%88%86%E3%82%92pla%E8%A3%BD%E3%81%AE%E3%82%AE%E3%82%A2%E3%82%92%E4%B8%A6%E3%81%B9%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E4%BB%A3%E7%94%A8%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/自転車のチェーン部分をPLA製のギアを並べることで代用する.jpg"&gt;PLA Gears Fail To Fail In 3D Printed Bicycle Drivetrainから発見。画像もここから転載。
+自転車のチェーン部分をPLA製のギアを並べることで代用する作例です。
+自転車のチェーンと言えば、最近はゴムベルトになったりしていますが、チェーンやベルト以外でも同じような機能を実現できるという面白い例です。 力をかけると不安な音がするようですが、PLAでも強度的に案外問題なく利用できるようです。
+こんな自転車が通りかかったら思わず振り向いてしまいそうです。
+ </description>
+    </item>
     
     <item>
       <title>四角いタイヤの自転車</title>
