@@ -5,9 +5,22 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 21 Oct 2025 22:49:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 23:10:50 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>4種のフィラメントを混ぜて出力できるホットエンド</title>
+      <link>https://inajob.github.io/iroiro-review/post/4%E7%A8%AE%E3%81%AE%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E6%B7%B7%E3%81%9C%E3%81%A6%E5%87%BA%E5%8A%9B%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%9B%E3%83%83%E3%83%88%E3%82%A8%E3%83%B3%E3%83%89/</link>
+      <pubDate>Thu, 23 Oct 2025 23:10:50 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/4%E7%A8%AE%E3%81%AE%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E6%B7%B7%E3%81%9C%E3%81%A6%E5%87%BA%E5%8A%9B%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%9B%E3%83%83%E3%83%88%E3%82%A8%E3%83%B3%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/4種のフィラメントを混ぜて出力できるホットエンド.jpg"&gt;SLM Co-extruding Hotend Makes Poopless Printsから発見。画像もここから転載。
+4種のフィラメントを混ぜて出力できるホットエンドの作例です。 4つのフィラメントを混ぜ込んで出力するのですが、4方向それぞれにフィラメントがきれいに流れ込むように設計されており、見る角度に応じて違う色に見える造形を実現できるというものです。
+ホットエンドを回転させるような仕組みと組み合わせれば任意の4色のフィラメントを混色しながら造形することが出来そうです。
+マルチマテリアルの3Dプリンタの仕組みは様々あって面白いですね。
+ </description>
+    </item>
     
     <item>
       <title>自転車のチェーン部分をPLA製のギアを並べることで代用する</title>
@@ -117,18 +130,6 @@ $2という安価なランタンキットで、メタルプレートを曲げる
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/生卵をうまいこと割るための装置.jpg"&gt;Over-Engineering An Egg Cracking Machineから発見。画像もここから転載。
 生卵をうまいこと割るための装置、あなたならどうやって作りますか？ この記事では、まず卵にうっすらと切れ目を入れたのちに、2つの弾力のある手で殻を2つに割るという手法で、この装置を作成しています。
 オーバーエンジニアリングなどと言われていますが、このアイデアは意外と役立ちそうです。
- </description>
-    </item>
-    
-    <item>
-      <title>3DプリンタをXY軸からCoreXYにアップグレードする</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92xy%E8%BB%B8%E3%81%8B%E3%82%89corexy%E3%81%AB%E3%82%A2%E3%83%83%E3%83%97%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%89%E3%81%99%E3%82%8B/</link>
-      <pubDate>Tue, 09 Sep 2025 21:37:38 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92xy%E8%BB%B8%E3%81%8B%E3%82%89corexy%E3%81%AB%E3%82%A2%E3%83%83%E3%83%97%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%89%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3DプリンタをXY軸からCoreXYにアップグレードする.jpg"&gt;Does It Make Sense To Upgrade A Prusa MK4S To A Core One?から発見。画像もここから転載。
-3DプリンタをXY軸からCoreXYにアップグレードするキットの紹介で、それぞれの造形品質についてサンプルが示されています。
-私の手元のプリンタはXY軸なのですが、CoreXYの機種に買い替えるべきか、どうすべきか・・良く悩んでいます。 画像に示したようなフィギュアの造形などでは、あまり差を感じられないんですよね・・（一方、何かのエンクロージャなどで嵌め合わせが重要な場合は、CoreXYの精度がありがたいことはよくある感じなのですが・・購入に踏み切れず・・）
  </description>
     </item>
     
