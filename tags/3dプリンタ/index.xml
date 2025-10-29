@@ -5,9 +5,20 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 27 Oct 2025 00:05:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 22:43:02 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタ製のUSB-Cのケーブル保護パーツ</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AEusb-c%E3%81%AE%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E4%BF%9D%E8%AD%B7%E3%83%91%E3%83%BC%E3%83%84/</link>
+      <pubDate>Wed, 29 Oct 2025 22:43:02 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AEusb-c%E3%81%AE%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E4%BF%9D%E8%AD%B7%E3%83%91%E3%83%BC%E3%83%84/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ製のUSB-Cのケーブル保護パーツ.jpg"&gt;Save Your USB-C Plugs From Oblivionから発見。画像もここから転載。
+USB-Cのケーブルは引っ張る力により根元が断線することが良くあります。 この記事ではこの問題に対応するための3Dプリンタ製のアタッチメントを紹介しています。
+印刷しやすい形状で一般的なPLAが利用できるので、お一つ作ってみてはいかがですか？</description>
+    </item>
     
     <item>
       <title>空気圧で動作するロジック回路</title>
@@ -118,18 +129,6 @@ IKEAのランタンキットの部品を使ってメタルケースを作ると�
 $2という安価なランタンキットで、メタルプレートを曲げることでケースを構成するといったものがあるようですが、この記事ではこのケースの部品をうまく使うことで、直方体のいい感じのケースを自作しています。
 この作例に限らず、この商品は汎用メタルプレートとして有用そうです。
  </description>
-    </item>
-    
-    <item>
-      <title>銅箔テープを内蔵した3Dプリンタ製のタッチボタン</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E9%8A%85%E7%AE%94%E3%83%86%E3%83%BC%E3%83%97%E3%82%92%E5%86%85%E8%94%B5%E3%81%97%E3%81%9F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%BF%E3%83%83%E3%83%81%E3%83%9C%E3%82%BF%E3%83%B3/</link>
-      <pubDate>Wed, 17 Sep 2025 00:30:46 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E9%8A%85%E7%AE%94%E3%83%86%E3%83%BC%E3%83%97%E3%82%92%E5%86%85%E8%94%B5%E3%81%97%E3%81%9F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%BF%E3%83%83%E3%83%81%E3%83%9C%E3%82%BF%E3%83%B3/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/銅箔テープを内蔵した3Dプリンタ製のタッチボタン.jpg"&gt;Hide Capacitive Touch Buttons In Your Next 3D Printから発見。画像もここから転載。
-銅箔テープを内蔵した3Dプリンタ製のタッチボタンの作例です。
-3Dプリントの印刷を途中で止めて銅箔テープを貼り付けることで、3Dプリンタ造形物の内部に静電容量タッチの仕組みを構成しています。 ケースがそのままスイッチにもなるという面白い仕組みです。
-量産するにはつらいですが、ちょっとした個人向けの製作で活用できそうなテクニックです。</description>
     </item>
     
   </channel>
