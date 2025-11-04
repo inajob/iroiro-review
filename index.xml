@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 30 Oct 2025 22:48:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 03:13:55 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>折り畳み式の3Dプリンタ2</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%8A%98%E3%82%8A%E7%95%B3%E3%81%BF%E5%BC%8F%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF2/</link>
+      <pubDate>Tue, 04 Nov 2025 03:13:55 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%8A%98%E3%82%8A%E7%95%B3%E3%81%BF%E5%BC%8F%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF2/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/折り畳み式の3Dプリンタ2.jpg"&gt;CoreXY 3D Printer Has A Scissor-Lift Z-axis So It Folds Down!から発見。画像もここから転載。
+折り畳み式の3Dプリンタの作例です。 Z軸がそもそも折り畳みで上下する構造となっており、Z軸が一番下に下がった状態になると筐体全体が小さくなるという面白い設計です。
+以前紹介した 折り畳み式の3Dプリンタ の改良版です。同じコンセプトで時間をかけて改良されているのは素晴らしいですね</description>
+    </item>
     
     <item>
       <title>わずかな太陽光発電により一瞬だけ光るLED</title>
@@ -115,17 +126,6 @@ USB-Cのケーブルは引っ張る力により根元が断線することが良
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/対戦型ピンボール専用機.jpg"&gt;Flip Puckから発見。画像もここから転載。
 対戦型ピンボール専用機の作例です。直方体のケースの側面に4つのボタンが配置されているだけのデバイスですが、2人で向かい合ってピンボールやエアーホッケーを遊ぶのにはピッタリです。
 ゲーム機としてもシンプルな外観で、凹凸が少ないので持ち運びやすそうです。 中身はRaspberry Piのようです。
- </description>
-    </item>
-    
-    <item>
-      <title>4択クイズ専用端末</title>
-      <link>https://inajob.github.io/iroiro-review/post/4%E6%8A%9E%E3%82%AF%E3%82%A4%E3%82%BA%E5%B0%82%E7%94%A8%E7%AB%AF%E6%9C%AB/</link>
-      <pubDate>Sun, 19 Oct 2025 22:18:16 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/4%E6%8A%9E%E3%82%AF%E3%82%A4%E3%82%BA%E5%B0%82%E7%94%A8%E7%AB%AF%E6%9C%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/4択クイズ専用端末.jpg"&gt;QuasarQから発見。画像もここから転載。
-4択クイズ専用端末です。ESP32-S3-LCD-11.69というモジュールを使い、4択選択のための4つのボタンを追加で用意しています。 中に入れるコンテンツ次第で様々な展開の可能性があるデバイスだと感じました。
  </description>
     </item>
     
