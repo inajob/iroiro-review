@@ -5,9 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 04 Nov 2025 21:36:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 23:07:32 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>くりぬき形状のMakerChip</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8F%E3%82%8A%E3%81%AC%E3%81%8D%E5%BD%A2%E7%8A%B6%E3%81%AEmakerchip/</link>
+      <pubDate>Wed, 05 Nov 2025 23:07:32 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8F%E3%82%8A%E3%81%AC%E3%81%8D%E5%BD%A2%E7%8A%B6%E3%81%AEmakerchip/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/くりぬき形状のMakerChip.jpg"&gt;きたになおきのPostから発見。画像もここから転載。
+3Dプリンタ関係のイベントでよく見かけるようになってきたMakerChipですが、名刺代わりということもあり、皆さん様々な工夫を凝らして個性を出しています。 この方は、シンプル、単色、短時間出力に焦点を当てつつも、印象的な中空のMakerChipを作成しています。 さらに側面にエンボスで文字を彫り込むという工夫されているようです。
+単なる平面のデザインだけではない面白さがあり、MakerChipは深い世界です。
+上がりすぎたMakerChipの製作ハードルを下げるべく「シンプル」「単色」「短時間出力」にこだわった新デザインを考えたんですが、中空なのってOKでしたっけ？大きさや厚みは規格に沿ってます。 pic.twitter.com/7ppvaLDBGD
+&amp;mdash; きたになおき (@nkitani) October 29, 2025  いろいろ試しましたが、MakerChip側面の文字彫り込みにいいフォント見つかりました。Ku-Kuさんのフリーフォント「ニコカv2」です。「ｔ」の横棒が長くて認識しやすいのがポイント！そういえばMakerChip本体の書体もニコカv2を加工して作ったんでした（なら最初に試せよ案件）。 pic.twitter.com/XvCgMszUNW
+&amp;mdash; きたになおき (@nkitani) October 30, 2025  </description>
+    </item>
     
     <item>
       <title>マニキュアの技術でデカールを作る</title>
@@ -115,19 +129,6 @@ USB-Cのケーブルは引っ張る力により根元が断線することが良
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/接触位置センサを活用した電子楽器.jpg"&gt;A Childhood Dream, Created And Open Sourcedから発見。画像もここから転載。
 接触位置センサを活用した電子楽器の作例です。
 圧力を感知する4つのボタンと、リボン型の圧力センサーを使って、ギターのような持ち方で演奏できるというものです。 見た目もそれっぽく、試しに触ってみたくなる出来栄えです。
- </description>
-    </item>
-    
-    <item>
-      <title>自転車のチェーン部分をPLA製のギアを並べることで代用する</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E8%BB%A2%E8%BB%8A%E3%81%AE%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E9%83%A8%E5%88%86%E3%82%92pla%E8%A3%BD%E3%81%AE%E3%82%AE%E3%82%A2%E3%82%92%E4%B8%A6%E3%81%B9%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E4%BB%A3%E7%94%A8%E3%81%99%E3%82%8B/</link>
-      <pubDate>Tue, 21 Oct 2025 22:49:43 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E8%BB%A2%E8%BB%8A%E3%81%AE%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E9%83%A8%E5%88%86%E3%82%92pla%E8%A3%BD%E3%81%AE%E3%82%AE%E3%82%A2%E3%82%92%E4%B8%A6%E3%81%B9%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E4%BB%A3%E7%94%A8%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/自転車のチェーン部分をPLA製のギアを並べることで代用する.jpg"&gt;PLA Gears Fail To Fail In 3D Printed Bicycle Drivetrainから発見。画像もここから転載。
-自転車のチェーン部分をPLA製のギアを並べることで代用する作例です。
-自転車のチェーンと言えば、最近はゴムベルトになったりしていますが、チェーンやベルト以外でも同じような機能を実現できるという面白い例です。 力をかけると不安な音がするようですが、PLAでも強度的に案外問題なく利用できるようです。
-こんな自転車が通りかかったら思わず振り向いてしまいそうです。
  </description>
     </item>
     
