@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 09 Nov 2025 22:03:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 23:16:34 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>太いはんだごてで細い足の表面実装部品を実装する技</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%A4%AA%E3%81%84%E3%81%AF%E3%82%93%E3%81%A0%E3%81%94%E3%81%A6%E3%81%A7%E7%B4%B0%E3%81%84%E8%B6%B3%E3%81%AE%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85%E9%83%A8%E5%93%81%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B%E6%8A%80/</link>
+      <pubDate>Mon, 10 Nov 2025 23:16:34 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%A4%AA%E3%81%84%E3%81%AF%E3%82%93%E3%81%A0%E3%81%94%E3%81%A6%E3%81%A7%E7%B4%B0%E3%81%84%E8%B6%B3%E3%81%AE%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85%E9%83%A8%E5%93%81%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B%E6%8A%80/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/太いはんだごてで細い足の表面実装部品を実装する技.jpg"&gt;SMD Soldering With Big Ironから発見。画像もここから転載。
+表面実装部品には、ピンが細かく横に並んでいるものが多いです。 ちょっとした趣味の電子工作で使っているような太いはんだごてでどのようにこれらをはんだ付けするのが良いでしょうか？
+十分フラックスを付ければ、大半の場合は太いこて先でもうまいことはんだ付けできると、個人的には思いますが、この記事では、太いこて先に先端をヤスリがけした導線を巻き付けることで、細いこて先を作り出す方法を紹介しています。
+どうしても細いこて先が欲しい時にためsてみたいテクニックです。
+ </description>
+    </item>
     
     <item>
       <title>基板だけで作るUSB-Cコネクタ</title>
@@ -115,17 +128,6 @@ USB-Cのケーブルは引っ張る力により根元が断線することが良
 仕組みはシンプルで、ギターの単音を鳴らすとその音に応じた操作が行われるというものです。この仕組みであればギターから特別な信号をパソコンに送らずとも単にマイクでギターの音を拾うことで実現できます。
 画面にはギターのフレットを模した機能一覧が表示されるので、該当箇所を押しながら弦をはじくとその機能が実行されるというものです。
 演奏中にまず使わない1音を登録するなど、工夫すれば演奏の邪魔にならず、かつギターから手を放さずに操作ができて、便利。というもののようです。
- </description>
-    </item>
-    
-    <item>
-      <title>空気圧で動作するロジック回路</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E7%A9%BA%E6%B0%97%E5%9C%A7%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B%E3%83%AD%E3%82%B8%E3%83%83%E3%82%AF%E5%9B%9E%E8%B7%AF/</link>
-      <pubDate>Mon, 27 Oct 2025 00:05:10 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E7%A9%BA%E6%B0%97%E5%9C%A7%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B%E3%83%AD%E3%82%B8%E3%83%83%E3%82%AF%E5%9B%9E%E8%B7%AF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/空気圧で動作するロジック回路.jpg"&gt;Printing An Air-Powered Integrated Circuit For Squishy Robotsから発見。画像もここから転載。
-空気圧で動作するロジック回路の作例です。 こういう研究は理屈としては分かるのですが、なかなか真似することが難しい事例が多いのですが、この事例は3Dプリンタで片面を作り、シールのようなもので密閉することで「空気回路」を実現しており、比較的簡単に真似できそうです。
  </description>
     </item>
     

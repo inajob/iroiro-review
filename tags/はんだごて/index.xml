@@ -5,9 +5,22 @@
     <description>Recent content in はんだごて on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 12 Feb 2025 21:42:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 23:16:34 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%81%AF%E3%82%93%E3%81%A0%E3%81%94%E3%81%A6/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>太いはんだごてで細い足の表面実装部品を実装する技</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%A4%AA%E3%81%84%E3%81%AF%E3%82%93%E3%81%A0%E3%81%94%E3%81%A6%E3%81%A7%E7%B4%B0%E3%81%84%E8%B6%B3%E3%81%AE%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85%E9%83%A8%E5%93%81%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B%E6%8A%80/</link>
+      <pubDate>Mon, 10 Nov 2025 23:16:34 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%A4%AA%E3%81%84%E3%81%AF%E3%82%93%E3%81%A0%E3%81%94%E3%81%A6%E3%81%A7%E7%B4%B0%E3%81%84%E8%B6%B3%E3%81%AE%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85%E9%83%A8%E5%93%81%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B%E6%8A%80/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/太いはんだごてで細い足の表面実装部品を実装する技.jpg"&gt;SMD Soldering With Big Ironから発見。画像もここから転載。
+表面実装部品には、ピンが細かく横に並んでいるものが多いです。 ちょっとした趣味の電子工作で使っているような太いはんだごてでどのようにこれらをはんだ付けするのが良いでしょうか？
+十分フラックスを付ければ、大半の場合は太いこて先でもうまいことはんだ付けできると、個人的には思いますが、この記事では、太いこて先に先端をヤスリがけした導線を巻き付けることで、細いこて先を作り出す方法を紹介しています。
+どうしても細いこて先が欲しい時にためsてみたいテクニックです。
+ </description>
+    </item>
     
     <item>
       <title>電子レンジで加熱して利用するはんだごて</title>

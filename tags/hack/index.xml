@@ -5,9 +5,22 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 04 Nov 2025 21:36:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 23:16:34 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>太いはんだごてで細い足の表面実装部品を実装する技</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%A4%AA%E3%81%84%E3%81%AF%E3%82%93%E3%81%A0%E3%81%94%E3%81%A6%E3%81%A7%E7%B4%B0%E3%81%84%E8%B6%B3%E3%81%AE%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85%E9%83%A8%E5%93%81%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B%E6%8A%80/</link>
+      <pubDate>Mon, 10 Nov 2025 23:16:34 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%A4%AA%E3%81%84%E3%81%AF%E3%82%93%E3%81%A0%E3%81%94%E3%81%A6%E3%81%A7%E7%B4%B0%E3%81%84%E8%B6%B3%E3%81%AE%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85%E9%83%A8%E5%93%81%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B%E6%8A%80/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/太いはんだごてで細い足の表面実装部品を実装する技.jpg"&gt;SMD Soldering With Big Ironから発見。画像もここから転載。
+表面実装部品には、ピンが細かく横に並んでいるものが多いです。 ちょっとした趣味の電子工作で使っているような太いはんだごてでどのようにこれらをはんだ付けするのが良いでしょうか？
+十分フラックスを付ければ、大半の場合は太いこて先でもうまいことはんだ付けできると、個人的には思いますが、この記事では、太いこて先に先端をヤスリがけした導線を巻き付けることで、細いこて先を作り出す方法を紹介しています。
+どうしても細いこて先が欲しい時にためsてみたいテクニックです。
+ </description>
+    </item>
     
     <item>
       <title>マニキュアの技術でデカールを作る</title>
@@ -120,18 +133,6 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/暖かい飲み物にバターを押し付けて溶かすアタッチメント.jpg"&gt;Butta Melta Stops Rock-solid Butter From Tearing Your Toastから発見。画像もここから転載。
 バターを使う前に少し解けていると都合が良いことが多いですが、冷蔵庫から取り出してすぐのバターはカチカチに固まっています。 そこで、この記事では3Dプリンタを使い暖かい飲み物にバターを押し付けるためのアタッチメントを作成しています。
 確かにだいたいバターを使う場面ではカップに入れられた暖かい飲み物が登場するので、非常に合理的なソリューションです。
- </description>
-    </item>
-    
-    <item>
-      <title>PSPをギター用のデジタルエフェクタにする</title>
-      <link>https://inajob.github.io/iroiro-review/post/psp%E3%82%92%E3%82%AE%E3%82%BF%E3%83%BC%E7%94%A8%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%82%BF%E3%81%AB%E3%81%99%E3%82%8B/</link>
-      <pubDate>Tue, 19 Aug 2025 23:51:58 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/psp%E3%82%92%E3%82%AE%E3%82%BF%E3%83%BC%E7%94%A8%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%82%BF%E3%81%AB%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/PSPをギター用のデジタルエフェクタにする.jpg"&gt;Running Guitar Effects On A PlayStation Portableから発見。画像もここから転載。
-PSPをギター用のデジタルエフェクタにするHACKです。 確かに音声入出力があって任意のプログラムを実行できるので、作れそうです。
-加えてポータブルで電源付きなので、案外ぴったりの活用法なのかもしれません。
  </description>
     </item>
     
