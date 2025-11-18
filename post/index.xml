@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 17 Nov 2025 23:15:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 23:21:48 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタで作られた筒をたたく方式のピアノ</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E7%AD%92%E3%82%92%E3%81%9F%E3%81%9F%E3%81%8F%E6%96%B9%E5%BC%8F%E3%81%AE%E3%83%94%E3%82%A2%E3%83%8E/</link>
+      <pubDate>Tue, 18 Nov 2025 23:21:48 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E7%AD%92%E3%82%92%E3%81%9F%E3%81%9F%E3%81%8F%E6%96%B9%E5%BC%8F%E3%81%AE%E3%83%94%E3%82%A2%E3%83%8E/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作られた筒をたたく方式のピアノ.jpg"&gt;3D Printing A Piano Actionから発見。画像もここから転載。
+3Dプリンタで作られた筒をたたく方式のピアノの作例です。 長さの違う筒をたたくと、長さに応じて違う音が鳴る性質を利用してピアノのような楽器を作成しています。
+鍵盤がハンマーを動かして筒をたたくわけですが、筒以外の場所でも様々な関係ない音が発生するため、それらに順番に対応していき、なかなか良い感じの演奏感の楽器に仕上げています。
+ </description>
+    </item>
     
     <item>
       <title>CH32V002でMODファイルを再生する</title>
@@ -114,20 +126,6 @@ LEDを廃し、レギュレータを良いものに換装し、外部デバイ�
 上がりすぎたMakerChipの製作ハードルを下げるべく「シンプル」「単色」「短時間出力」にこだわった新デザインを考えたんですが、中空なのってOKでしたっけ？大きさや厚みは規格に沿ってます。 pic.twitter.com/7ppvaLDBGD
 &amp;mdash; きたになおき (@nkitani) October 29, 2025  いろいろ試しましたが、MakerChip側面の文字彫り込みにいいフォント見つかりました。Ku-Kuさんのフリーフォント「ニコカv2」です。「ｔ」の横棒が長くて認識しやすいのがポイント！そういえばMakerChip本体の書体もニコカv2を加工して作ったんでした（なら最初に試せよ案件）。 pic.twitter.com/XvCgMszUNW
 &amp;mdash; きたになおき (@nkitani) October 30, 2025  </description>
-    </item>
-    
-    <item>
-      <title>マニキュアの技術でデカールを作る</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%9E%E3%83%8B%E3%82%AD%E3%83%A5%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E3%81%A7%E3%83%87%E3%82%AB%E3%83%BC%E3%83%AB%E3%82%92%E4%BD%9C%E3%82%8B/</link>
-      <pubDate>Tue, 04 Nov 2025 21:36:19 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9E%E3%83%8B%E3%82%AD%E3%83%A5%E3%82%A2%E3%81%AE%E6%8A%80%E8%A1%93%E3%81%A7%E3%83%87%E3%82%AB%E3%83%BC%E3%83%AB%E3%82%92%E4%BD%9C%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/マニキュアの技術でデカールを作る.jpg"&gt;2025 Component Abuse Challenge: Nail Your Next Decalから発見。画像もここから転載。
-自作の筐体に綺麗な文字やアイコンを記すためにはどのような方法があるでしょう？
-この記事ではデカールを自作する方法を紹介しています。
-光造形の3Dプリンタを使い、デカールの型を作り、ネイルアートで用いられる材料を使ってデカールを作成し、ネイルアートと同じ要領でデカールを筐体に貼り付けています。
-ネイルアート用ということで機材は比較的簡単・安価に入手できそうなのが良いですね。
- </description>
     </item>
     
   </channel>

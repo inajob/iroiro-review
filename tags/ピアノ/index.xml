@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ピアノ on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E3%83%94%E3%82%A2%E3%83%8E/</link>
+    <description>Recent content in ピアノ on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Tue, 18 Nov 2025 23:21:48 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%83%94%E3%82%A2%E3%83%8E/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタで作られた筒をたたく方式のピアノ</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E7%AD%92%E3%82%92%E3%81%9F%E3%81%9F%E3%81%8F%E6%96%B9%E5%BC%8F%E3%81%AE%E3%83%94%E3%82%A2%E3%83%8E/</link>
+      <pubDate>Tue, 18 Nov 2025 23:21:48 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E7%AD%92%E3%82%92%E3%81%9F%E3%81%9F%E3%81%8F%E6%96%B9%E5%BC%8F%E3%81%AE%E3%83%94%E3%82%A2%E3%83%8E/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作られた筒をたたく方式のピアノ.jpg"&gt;3D Printing A Piano Actionから発見。画像もここから転載。
+3Dプリンタで作られた筒をたたく方式のピアノの作例です。 長さの違う筒をたたくと、長さに応じて違う音が鳴る性質を利用してピアノのような楽器を作成しています。
+鍵盤がハンマーを動かして筒をたたくわけですが、筒以外の場所でも様々な関係ない音が発生するため、それらに順番に対応していき、なかなか良い感じの演奏感の楽器に仕上げています。
+ </description>
+    </item>
+    
+  </channel>
+</rss>
+

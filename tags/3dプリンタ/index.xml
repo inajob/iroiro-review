@@ -5,9 +5,21 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 12 Nov 2025 22:58:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 23:21:48 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタで作られた筒をたたく方式のピアノ</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E7%AD%92%E3%82%92%E3%81%9F%E3%81%9F%E3%81%8F%E6%96%B9%E5%BC%8F%E3%81%AE%E3%83%94%E3%82%A2%E3%83%8E/</link>
+      <pubDate>Tue, 18 Nov 2025 23:21:48 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E7%AD%92%E3%82%92%E3%81%9F%E3%81%9F%E3%81%8F%E6%96%B9%E5%BC%8F%E3%81%AE%E3%83%94%E3%82%A2%E3%83%8E/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作られた筒をたたく方式のピアノ.jpg"&gt;3D Printing A Piano Actionから発見。画像もここから転載。
+3Dプリンタで作られた筒をたたく方式のピアノの作例です。 長さの違う筒をたたくと、長さに応じて違う音が鳴る性質を利用してピアノのような楽器を作成しています。
+鍵盤がハンマーを動かして筒をたたくわけですが、筒以外の場所でも様々な関係ない音が発生するため、それらに順番に対応していき、なかなか良い感じの演奏感の楽器に仕上げています。
+ </description>
+    </item>
     
     <item>
       <title>フォトフレームの3Dプリントデータ作成Webサービス</title>
@@ -113,19 +125,6 @@ USB-Cのケーブルは引っ張る力により根元が断線することが良
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタの造形物を最後にレーザーでなめらかにする技.jpg"&gt;3D Print Smoothing, With Lasersから発見。画像もここから転載。
 積層式3Dプリンタの造形物は、その仕組み上どうしても積層痕が表面に現れます。 これをどうにかする方法はいろいろと考えられていますが、この記事で紹介するのはレーザーを使って表面を滑らかにするという技です。
 3Dプリンタのヘッド部分にプラスチックを吐出するExtruderとは別にレーザー照射器を取り付け、プリントの最後にレーザーを表面に当てるという仕組みです。 レーザーの焦点が造形物の表面になるように、Z軸を滑らかに動かしつつレーザー照射を行っていようです。
- </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタで作られた「からくり本」</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A%E6%9C%AC/</link>
-      <pubDate>Thu, 02 Oct 2025 23:07:08 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A%E6%9C%AC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作られた「からくり本」.jpg"&gt;3D Printed “Book” Demonstrates Mechanical Actionsから発見。画像もここから転載。
-3Dプリンタで作られたからくり本です。一番最後のページに電池とモータが取り付けられており、このモーターの軸が各ページのからくりとつながっています。
-ギアやリンク機構を用いたからくりが各ページに仕込まれており、インタラクティブに動く面白い本のおもちゃに仕上がっています。
-特に学習目的以外には役に立つものではないですが、本の形にギュッと詰め込まれたからくりには魅力を感じます。
  </description>
     </item>
     
