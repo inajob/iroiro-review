@@ -5,9 +5,26 @@
     <description>Recent content in からくり on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 02 Oct 2025 23:07:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 21:19:35 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>透明アクリル棒を並べたドットアニメ再生デバイス</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%80%8F%E6%98%8E%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E6%A3%92%E3%82%92%E4%B8%A6%E3%81%B9%E3%81%9F%E3%83%89%E3%83%83%E3%83%88%E3%82%A2%E3%83%8B%E3%83%A1%E5%86%8D%E7%94%9F%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</link>
+      <pubDate>Wed, 19 Nov 2025 21:19:35 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%80%8F%E6%98%8E%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E6%A3%92%E3%82%92%E4%B8%A6%E3%81%B9%E3%81%9F%E3%83%89%E3%83%83%E3%83%88%E3%82%A2%E3%83%8B%E3%83%A1%E5%86%8D%E7%94%9F%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/透明アクリル棒を並べたドットアニメ再生デバイス.jpg"&gt;ドット絵工作部さんのPostから発見。画像もここから転載。
+電源なしでアニメーションをさせる方法はいろいろありますが、レンチキュラーレンズを用いたものはご存じでしょうか？ 子供向けのお菓子の付録などでもたまに見かけたりしますが、あれと似たようなものを透明アクリル棒によって作成しているのがこの事例です。
+透明アクリル棒の間隔に合わせて、用意しておいたパラパラアニメーションの画像を細切りにしたものを並べることで、レンズを横移動させたときにアニメーションとして動く仕組みを実現しています。
+身近な材料で作れますが、非常に印象的な効果を生み出す作例です。
+これは自信作なので広めてほしい👏
+虹の尾を引く流星です🌈🌟#ドット絵工作部 pic.twitter.com/ntiqp5Qq6x
+&amp;mdash; ドット絵工作部 (@DotEKousakubu) October 8, 2025  ６年前くらいに作った手動ドットアニメ再生デバイス（おおげさ）をレーザーカッターでリメイク！
+透明アクリル棒を16本並べるだけのリーズナブルな仕様です📺#ドット絵工作部 pic.twitter.com/iuynTCz5ZF
+&amp;mdash; ドット絵工作部 (@DotEKousakubu) October 8, 2025  </description>
+    </item>
     
     <item>
       <title>3Dプリンタで作られた「からくり本」</title>
@@ -123,19 +140,6 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ゴムブロックで作られた物理的なカウンタ.jpg"&gt;This Block Of Rubber Can Count To Tenから発見。画像もここから転載。
 ゴムブロックで作られた物理的なカウンタの実験です。
 ゴムの物理特性をうまく生かして、押した回数を記録する仕組みを作っています。 これを組み合わせてもっと複雑なロジックが組めるようになると面白そうと感じました。
- </description>
-    </item>
-    
-    <item>
-      <title>かっこいい機械式の16セグメント表示機</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E6%A9%9F%E6%A2%B0%E5%BC%8F%E3%81%AE16%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
-      <pubDate>Wed, 09 Nov 2022 21:58:57 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E6%A9%9F%E6%A2%B0%E5%BC%8F%E3%81%AE16%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/かっこいい機械式の16セグメント表示機.jpg"&gt;I’ll See Your Seven-Segment Mechanical Display And Raise You To 16 Segmentsから発見。画像もここから転載。
-かっこいい機械式の16セグメント表示機の作例です。
-ばねも含めて部品の大半は3Dプリンタで作成しています。
-表示内容を記録したカードを入れる仕組みが特徴的で、ガシャコンとカードを差し込むことで任意の16セグメント表示を実現しています。
  </description>
     </item>
     
