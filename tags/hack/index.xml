@@ -5,9 +5,25 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 13 Nov 2025 23:01:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 22:00:48 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ビアだけがついたPCBをレーザーで削って自前で両面基板を作る</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%93%E3%82%A2%E3%81%A0%E3%81%91%E3%81%8C%E3%81%A4%E3%81%84%E3%81%9Fpcb%E3%82%92%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%A7%E5%89%8A%E3%81%A3%E3%81%A6%E8%87%AA%E5%89%8D%E3%81%A7%E4%B8%A1%E9%9D%A2%E5%9F%BA%E6%9D%BF%E3%82%92%E4%BD%9C%E3%82%8B/</link>
+      <pubDate>Thu, 20 Nov 2025 22:00:48 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%93%E3%82%A2%E3%81%A0%E3%81%91%E3%81%8C%E3%81%A4%E3%81%84%E3%81%9Fpcb%E3%82%92%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%A7%E5%89%8A%E3%81%A3%E3%81%A6%E8%87%AA%E5%89%8D%E3%81%A7%E4%B8%A1%E9%9D%A2%E5%9F%BA%E6%9D%BF%E3%82%92%E4%BD%9C%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ビアだけがついたPCBをレーザーで削って自前で両面基板を作る.jpg"&gt;Is This The Last PCB You’ll Ever Buy?から発見。画像もここから転載。
+いまや中国の業者を使えばかなり安くでPCBを作ることが出来ますが、それでも思いついたその日のうちに手に入れるということは難しいです。
+となると家でどうやって基板を作るかという話になるわけですが、この記事では適当にビアを配置したPCBを素材として、その銅箔をレーザーで焼き切ることで両面基板を作るテクニックを紹介しています。
+レーザーで銅箔を焼き切るには、ファイバーレーザーやこの記事で利用されているDPSSレーザーが必要ですが、この機材と前述の素材となるPCBがあれば、簡単に基板を作ることが出来ます。
+以前からレーザーを使って銅箔を焼き切って回路を作る実験はありましたが、両面基板となると両面の配線を接続するための「ビア」を家庭で作るのが難しいという問題がありました。この記事の手法では、あらかじめビアを適当に配置したPCBを素材とすることでこの問題を回避しています。
+もちろんあらかじめ配置したビアを活用するためには、回路を無駄に迂回させる必要がありますが、その点を気にしなければ立派な両面基板を家庭ですぐに作ることが出来ます。
+ファイバーレーザーやDPSSレーザーさえ家にあれば・・良い方法です（自分は高すぎて買えないなぁと思っています）
+ </description>
+    </item>
     
     <item>
       <title>キノコをコンピュータのRAMとして利用する実験</title>
@@ -121,18 +137,6 @@
 指で押さえて切る人多いけど…
 消しゴムで押さえるのオススメだからやって欲しいし広まって欲しい https://t.co/F6qBkT1Q46 pic.twitter.com/pia4FrIQtp
 &amp;mdash; mass@自作キーボード tkx25ブースD-7 (@mass_0X00) September 6, 2025  </description>
-    </item>
-    
-    <item>
-      <title>水で溶ける基板</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%B0%B4%E3%81%A7%E6%BA%B6%E3%81%91%E3%82%8B%E5%9F%BA%E6%9D%BF/</link>
-      <pubDate>Mon, 08 Sep 2025 23:10:22 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%B0%B4%E3%81%A7%E6%BA%B6%E3%81%91%E3%82%8B%E5%9F%BA%E6%9D%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/水で溶ける基板.jpg"&gt;A Solderless, Soluble Circuit Boardから発見。画像もここから転載。
-水で溶ける基板の実験です。 水溶性PVAを使い3Dプリンタで溝のある基板を作成し、液体金属を流し込んで接続する方式です。
-破棄するときの手間が少なくリサイクルとも相性が良いということのようですが、個人的には3Dプリンタで回路を作ることが出来るという点に興味を持ちました。
- </description>
     </item>
     
   </channel>
