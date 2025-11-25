@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>プロジェクタ on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%82%BF/</link>
+    <description>Recent content in プロジェクタ on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Tue, 25 Nov 2025 08:53:37 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>独自のレンズを使ったドットマトリクスLEDプロジェクタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%8B%AC%E8%87%AA%E3%81%AE%E3%83%AC%E3%83%B3%E3%82%BA%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%82%BF/</link>
+      <pubDate>Tue, 25 Nov 2025 08:53:37 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%8B%AC%E8%87%AA%E3%81%AE%E3%83%AC%E3%83%B3%E3%82%BA%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/独自のレンズを使ったドットマトリクスLEDプロジェクタ.jpg"&gt;An LED Projector As A Lighting Effectから発見。画像もここから転載。
+明るいドットマトリクスLEDを使うと、解像度の低いプロジェクタなら簡単に作れるのではないか？というアイデアのプロジェクタの作例です。
+簡単、と言っても単にLEDを光らせただけでは壁に綺麗に映らないので、この作例では市販のフレネルレンズと、自作のレンズアレイを用いて綺麗なドット絵を壁に投影することを実現しています。
+自作のレンズアレイは光造形式の3Dプリンタで作ったようです。
+フレネルレンズだけでもそれなりの投影は出来そうなので、このあたりから自作してみても面白いかなと思いました。</description>
+    </item>
+    
+  </channel>
+</rss>
+
