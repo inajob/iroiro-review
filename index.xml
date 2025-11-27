@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 26 Nov 2025 03:28:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 22:58:52 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CH32V002をコアとしたRPN電卓</title>
+      <link>https://inajob.github.io/iroiro-review/post/ch32v002%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9Frpn%E9%9B%BB%E5%8D%93/</link>
+      <pubDate>Thu, 27 Nov 2025 22:58:52 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/ch32v002%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9Frpn%E9%9B%BB%E5%8D%93/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32V002をコアとしたRPN電卓.jpg"&gt;Wear This RISC V, RPN Calculator Watch For Maximum Nerd Credから発見。画像もここから転載。
+CH32V002をコアとしたRPN電卓の作例です。 CH32Vシリーズでの開発のためのSDKであるCH32LibSDKを使って作られています。
+腕時計サイズの見た目も魅力的で、ちょっと作ってみたくなる作例です。</description>
+    </item>
     
     <item>
       <title>スマート電球のマイコンでMinecraftサーバーを動かす</title>
@@ -124,17 +135,6 @@ ESP32-S3でWindows95が動くというデモが公開されています。 ESP32
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/フォトフレームの3Dプリントデータ作成Webサービス.jpg"&gt;FrameCraft | Create custom-size 3D printable photo frames instantlyから発見。画像もここから転載。
 好きなサイズのフォトフレームの3Dプリント用データを作ることが出来るWebサービスです。 パラメータを好きに設定でき、任意のサイズの写真に対応できます。
 3Dプリンタは買ったけど何を作れば・・？という人にはピッタリのサービスです。</description>
-    </item>
-    
-    <item>
-      <title>省エネなArduino Pro Mini互換ボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E7%9C%81%E3%82%A8%E3%83%8D%E3%81%AAarduino-pro-mini%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Wed, 12 Nov 2025 06:53:48 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E7%9C%81%E3%82%A8%E3%83%8D%E3%81%AAarduino-pro-mini%E4%BA%92%E6%8F%9B%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/省エネなArduino Pro Mini互換ボード.jpg"&gt;LP Mini - Low Power Dev Boardから発見。画像もここから転載。
-省エネなArduino Pro Mini互換ボードの作例です。 Arduino Pro Miniと同じマイコンですが、Atmegaのスリープ機能を活用することでかなり省エネの運用ができるように工夫されています。
-LEDを廃し、レギュレータを良いものに換装し、外部デバイス電源制御のためのMOSFET、RTCを追加することでこれを実現しています。</description>
     </item>
     
   </channel>
