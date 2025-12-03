@@ -5,9 +5,23 @@
     <description>Recent content in 日本語入力 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 23 Aug 2023 23:15:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 22:19:15 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%85%A5%E5%8A%9B/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>日本語入力をサポートしたミニマル開発ボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%85%A5%E5%8A%9B%E3%82%92%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%97%E3%81%9F%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AB%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Wed, 03 Dec 2025 22:19:15 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%85%A5%E5%8A%9B%E3%82%92%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%97%E3%81%9F%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AB%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/日本語入力をサポートしたミニマル開発ボード.jpg"&gt;Orangeputerから発見。画像もここから転載。
+マイコンの性能はどんどん良くなっており、黎明期のパソコンの性能を凌駕するほどとなっています。 これだけ性能が良ければ、かつてのパソコンで動いていたソフトウェアも動くのでは・・？ と思っています。
+しかし商業的にはそのようなことをする意味は薄く、エミュレータ以外の新しいパソコンライクな仕組みはあまり有名なものがありません。 そして、我々日本人としては、ぜひ日本語入力もサポートしてほしいものです。そうなるとさらに選択肢は狭まり・・というかそのようなもので継続的に開発されているプロジェクトは見たことがありません。
+しかし、ここにきてピコソフトが面白いガジェット「Orangeputer」を発表しました。 これはマイコン環境向けの軽量なOSやその開発環境をフルスクラッチで整備するプロジェクトのようです。
+先日このOrangeputerの第一弾としてのM5Stack CoreS3を利用したモジュールが販売されました。 これを使うことで、マイコン特有のミニマルな環境で日本語を用いたセルフプログラミングができるようです。
+最新のスマートフォンや小型のラップトップと比べると全く性能は劣りますが、電卓とパソコンの間のような不思議な立ち位置の文房具のようなガジェットが成立するのではないかと個人的に考えたりしています。</description>
+    </item>
     
     <item>
       <title>ESP32で動く単漢字変換</title>
