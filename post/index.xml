@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 03 Dec 2025 22:19:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 22:51:43 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Qi充電器から電力を盗む</title>
+      <link>https://inajob.github.io/iroiro-review/post/qi%E5%85%85%E9%9B%BB%E5%99%A8%E3%81%8B%E3%82%89%E9%9B%BB%E5%8A%9B%E3%82%92%E7%9B%97%E3%82%80/</link>
+      <pubDate>Thu, 04 Dec 2025 22:51:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/qi%E5%85%85%E9%9B%BB%E5%99%A8%E3%81%8B%E3%82%89%E9%9B%BB%E5%8A%9B%E3%82%92%E7%9B%97%E3%82%80/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Qi充電器から電力を盗む.jpg"&gt;2025 Component Abuse Challenge: Using Inductors To Steal Power From Qi Wireless Charging Base Stationから発見。画像もここから転載。
+簡単な電子部品のみでQiの無線充電器から電力を盗む方法があるようです。 といっても、しっかりネゴシエーションせずにpingのやり取りから電力を取り出すという方法で、大した電力は得られませんが・・
+ちょっとしたLEDを光らせる程度のおもちゃであれば動かすことが出来そうです。
+ </description>
+    </item>
     
     <item>
       <title>日本語入力をサポートしたミニマル開発ボード</title>
@@ -125,18 +137,6 @@ CH32V002をコアとしたRPN電卓の作例です。 CH32Vシリーズでの開
 &amp;mdash; ドット絵工作部 (@DotEKousakubu) October 8, 2025  ６年前くらいに作った手動ドットアニメ再生デバイス（おおげさ）をレーザーカッターでリメイク！
 透明アクリル棒を16本並べるだけのリーズナブルな仕様です📺#ドット絵工作部 pic.twitter.com/iuynTCz5ZF
 &amp;mdash; ドット絵工作部 (@DotEKousakubu) October 8, 2025  </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタで作られた筒をたたく方式のピアノ</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E7%AD%92%E3%82%92%E3%81%9F%E3%81%9F%E3%81%8F%E6%96%B9%E5%BC%8F%E3%81%AE%E3%83%94%E3%82%A2%E3%83%8E/</link>
-      <pubDate>Tue, 18 Nov 2025 23:21:48 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E7%AD%92%E3%82%92%E3%81%9F%E3%81%9F%E3%81%8F%E6%96%B9%E5%BC%8F%E3%81%AE%E3%83%94%E3%82%A2%E3%83%8E/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作られた筒をたたく方式のピアノ.jpg"&gt;3D Printing A Piano Actionから発見。画像もここから転載。
-3Dプリンタで作られた筒をたたく方式のピアノの作例です。 長さの違う筒をたたくと、長さに応じて違う音が鳴る性質を利用してピアノのような楽器を作成しています。
-鍵盤がハンマーを動かして筒をたたくわけですが、筒以外の場所でも様々な関係ない音が発生するため、それらに順番に対応していき、なかなか良い感じの演奏感の楽器に仕上げています。
- </description>
     </item>
     
   </channel>
