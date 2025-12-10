@@ -5,9 +5,25 @@
     <description>Recent content in MakerChip on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 05 Nov 2025 23:07:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 22:55:24 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/makerchip/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>16×8のドットマトリクス内臓のMakerChip</title>
+      <link>https://inajob.github.io/iroiro-review/post/168%E3%81%AE%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E5%86%85%E8%87%93%E3%81%AEmakerchip/</link>
+      <pubDate>Wed, 10 Dec 2025 22:55:24 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/168%E3%81%AE%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E5%86%85%E8%87%93%E3%81%AEmakerchip/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/16×8のドットマトリクス内臓のMakerChip.jpg"&gt;けしかんさんのPostから発見。画像もここから転載。
+3Dプリンタをつかって作る名刺代わりのMakerChipですが、このサイズに合わせたユニークな作例がたくさん登場しています。
+このPostで紹介されているのものその一つで、内部にマイコンとLEDを搭載したディスプレイ付きのMakerChipです。 MakerChipのサイズに納めるために1mm角のフルカラーLEDをぎっしりと敷き詰めてあります。
+MakerChipを作った。
+16x8個のカラーLED内蔵だよ！ pic.twitter.com/qitmOj9Ww2
+&amp;mdash; けしかん🐾 (@keshinomi_88pro) December 6, 2025  LEDはこれ。1mm×1mmサイズのNeoPixel互換タイプ。
+TZ-H1010-RGB/A-BU08UF-TA1305NA/W109https://t.co/WCVRE6N1M5
+&amp;mdash; けしかん🐾 (@keshinomi_88pro) December 6, 2025  </description>
+    </item>
     
     <item>
       <title>くりぬき形状のMakerChip</title>
