@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 10 Dec 2025 22:55:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 22:58:41 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>蚊の口を3Dプリンタのノズルに転用するHack</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%9A%8A%E3%81%AE%E5%8F%A3%E3%82%923d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%8E%E3%82%BA%E3%83%AB%E3%81%AB%E8%BB%A2%E7%94%A8%E3%81%99%E3%82%8Bhack/</link>
+      <pubDate>Thu, 11 Dec 2025 22:58:41 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%9A%8A%E3%81%AE%E5%8F%A3%E3%82%923d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%8E%E3%82%BA%E3%83%AB%E3%81%AB%E8%BB%A2%E7%94%A8%E3%81%99%E3%82%8Bhack/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/蚊の口を3Dプリンタのノズルに転用するHack.jpg"&gt;Necroprinting Isn’t As Bad As It Soundsから発見。画像もここから転載。
+技術は高度に進歩していますが、まだまだ人間には作れない構造というのは自然界にたくさん存在しています。 この記事では蚊の口の部分を3Dプリンタのノズルとして転用する実験を紹介しています。
+蚊の口というのはその穴の小ささの割に丈夫で、3Dプリンタのノズルとして有用なようです。 工業的に部品を製造するのではなく、既存の生き物の体の一部を転用するというのは面白い試みです。
+ </description>
+    </item>
     
     <item>
       <title>16×8のドットマトリクス内臓のMakerChip</title>
@@ -118,17 +130,6 @@ TZ-H1010-RGB/A-BU08UF-TA1305NA/W109https://t.co/WCVRE6N1M5
 RP2040はコストパフォーマンスに優れた入手性の良いマイコンです。 単純にRP2040を使いたい場合はRaspberry Pi Picoを使うのが簡単ですが、自分で作成した基板に直接RP2040を実装する場合はどうでしょう？
 RP2040はハードウェア資料も無料で公開されており、このようなマイコンボードを作る際の注意事項についても公式の情報を利用することが出来ますが、その資料は網羅的すぎて目を通すのが大変です。
 この記事ではRP2040を搭載したオリジナルのマイコンボードの作り方を丁寧に説明しています。 チュートリアル形式での紹介により、具体的な事例を通してRP2040マイコンボードづくりを簡単に理解できるように思います。</description>
-    </item>
-    
-    <item>
-      <title>CH32V002をコアとしたRPN電卓</title>
-      <link>https://inajob.github.io/iroiro-review/post/ch32v002%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9Frpn%E9%9B%BB%E5%8D%93/</link>
-      <pubDate>Thu, 27 Nov 2025 22:58:52 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/ch32v002%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9Frpn%E9%9B%BB%E5%8D%93/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32V002をコアとしたRPN電卓.jpg"&gt;Wear This RISC V, RPN Calculator Watch For Maximum Nerd Credから発見。画像もここから転載。
-CH32V002をコアとしたRPN電卓の作例です。 CH32Vシリーズでの開発のためのSDKであるCH32LibSDKを使って作られています。
-腕時計サイズの見た目も魅力的で、ちょっと作ってみたくなる作例です。</description>
     </item>
     
   </channel>
