@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 11 Dec 2025 22:58:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 22:52:08 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>フロッピーディスクドライブを9個使ったゲーム</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%83%AD%E3%83%83%E3%83%94%E3%83%BC%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%82%929%E5%80%8B%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0/</link>
+      <pubDate>Sun, 14 Dec 2025 22:52:08 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%83%AD%E3%83%83%E3%83%94%E3%83%BC%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%82%929%E5%80%8B%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/フロッピーディスクドライブを9個使ったゲーム.jpg"&gt;Diskette Game Floppy Flopper Is Certainly No Flopから発見。画像もここから転載。
+フロッピーディスクドライブを9個使ったゲームです。 指定された色のディスクを入れるという感じのルールのようです。
+実際にがガシャガシャとディスクを交換する操作がユニークで面白いです。 フロッピーディスクドライブは余っているでしょうし、比較的安く作れそうです。
+ </description>
+    </item>
     
     <item>
       <title>蚊の口を3Dプリンタのノズルに転用するHack</title>
@@ -118,18 +130,6 @@ TZ-H1010-RGB/A-BU08UF-TA1305NA/W109https://t.co/WCVRE6N1M5
 立体物を表示させる技術であるボリュームディスプレイですが、その原理は様々なものがあります。 この記事ではマトリクスLEDを素早く上下に動かすことで立体物の描画を行う仕組みでボリュームディスプレイを実現しています。
 動画ではちょっとわかりづらいので、どうにか実物を見てみたいものです。
  </description>
-    </item>
-    
-    <item>
-      <title>RP2040搭載ボードの作り方</title>
-      <link>https://inajob.github.io/iroiro-review/post/rp2040%E6%90%AD%E8%BC%89%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9/</link>
-      <pubDate>Sun, 30 Nov 2025 23:03:46 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/rp2040%E6%90%AD%E8%BC%89%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/RP2040搭載ボードの作り方.jpg"&gt;RP2040 From Scratch: Roll Your Own Dev Board Magicから発見。画像もここから転載。
-RP2040はコストパフォーマンスに優れた入手性の良いマイコンです。 単純にRP2040を使いたい場合はRaspberry Pi Picoを使うのが簡単ですが、自分で作成した基板に直接RP2040を実装する場合はどうでしょう？
-RP2040はハードウェア資料も無料で公開されており、このようなマイコンボードを作る際の注意事項についても公式の情報を利用することが出来ますが、その資料は網羅的すぎて目を通すのが大変です。
-この記事ではRP2040を搭載したオリジナルのマイコンボードの作り方を丁寧に説明しています。 チュートリアル形式での紹介により、具体的な事例を通してRP2040マイコンボードづくりを簡単に理解できるように思います。</description>
     </item>
     
   </channel>
