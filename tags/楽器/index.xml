@@ -5,9 +5,21 @@
     <description>Recent content in 楽器 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 18 Nov 2025 23:21:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 23:03:16 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%A5%BD%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ギターのフレットのような見た目のDIYシンセ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AE%E3%82%BF%E3%83%BC%E3%81%AE%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AEdiy%E3%82%B7%E3%83%B3%E3%82%BB/</link>
+      <pubDate>Thu, 18 Dec 2025 23:03:16 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AE%E3%82%BF%E3%83%BC%E3%81%AE%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AEdiy%E3%82%B7%E3%83%B3%E3%82%BB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ギターのフレットのような見た目のDIYシンセ.jpg"&gt;DIY Synth Takes Inspiration From Fretted Instrumentsから発見。画像もここから転載。
+ギターのフレットのような見た目のDIYシンセです。 MPR212を2つ用いて静電容量を測定しボタン操作を認識しています。 ボタン部分は3Dプリントされていますが、表面に銀の塗料を塗布して静電容量タッチに対応しているようです。
+サウンドの生成にはAMYというライブラリを利用しています
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタで作られた筒をたたく方式のピアノ</title>
@@ -115,18 +127,6 @@ M5StampS3をコアとしたMIDIキーボードの作例です。 1オクター�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ピアノ鍵盤スタイルのドアベル.jpg"&gt;A Piano Doorbell That Sounds Beautiful!から発見。画像もここから転載。
 ピアノ鍵盤スタイルのドアベルです。鍵盤を押下するとそれに対応した音声ファイルがスピーカから演奏されるようになっています。 単にピンポンするだけでなく、メロディを奏でることができるという発想が面白いです。
 （この例は同時に1キーしか反応しないとか、いろいろ制限がありそうですが、楽器的に発展させることは比較的簡単そうです）
- </description>
-    </item>
-    
-    <item>
-      <title>オムニコードっぽい自作の電子楽器</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%A0%E3%83%8B%E3%82%B3%E3%83%BC%E3%83%89%E3%81%A3%E3%81%BD%E3%81%84%E8%87%AA%E4%BD%9C%E3%81%AE%E9%9B%BB%E5%AD%90%E6%A5%BD%E5%99%A8/</link>
-      <pubDate>Sun, 15 Dec 2024 23:32:21 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%A0%E3%83%8B%E3%82%B3%E3%83%BC%E3%83%89%E3%81%A3%E3%81%BD%E3%81%84%E8%87%AA%E4%BD%9C%E3%81%AE%E9%9B%BB%E5%AD%90%E6%A5%BD%E5%99%A8/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/オムニコードっぽい自作の電子楽器.jpg"&gt;Minichord Wants To Help You Find Rad Chord Progressionsから発見。画像もここから転載。
-オムニコードっぽい自作の電子楽器です。 キー部分で和音の選択し、タッチセンサーをなぞることで、アルペジオを奏でることができます。
-コアとなるのはTeensy 4.0です。この開発ボードはいろいろな電子楽器の作例で出てくる気がします。
  </description>
     </item>
     
