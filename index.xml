@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 18 Dec 2025 23:03:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 22:22:44 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>安い液晶付きのESP32ボードを使ったMIDI作曲装置</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E3%81%84%E6%B6%B2%E6%99%B6%E4%BB%98%E3%81%8D%E3%81%AEesp32%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fmidi%E4%BD%9C%E6%9B%B2%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Sun, 21 Dec 2025 22:22:44 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E3%81%84%E6%B6%B2%E6%99%B6%E4%BB%98%E3%81%8D%E3%81%AEesp32%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fmidi%E4%BD%9C%E6%9B%B2%E8%A3%85%E7%BD%AE/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/安い液晶付きのESP32ボードを使ったMIDI作曲装置.jpg"&gt;A Touchscreen MIDI Controller For The DIY Setから発見。画像もここから転載。
+安い液晶付きのESP32ボードを使ったMIDI作曲装置の作例です。
+いわゆるCheap Yellow Displayと呼ばれるESP32開発ボードを使って、タッチ操作の作曲ガジェットを作成しています。
+開発ボードにこのファームウェアを書き込むだけで、簡単に同じものを作ることができるので、ぜひ試してみたいです。
+ </description>
+    </item>
     
     <item>
       <title>ギターのフレットのような見た目のDIYシンセ</title>
@@ -116,17 +129,6 @@ TZ-H1010-RGB/A-BU08UF-TA1305NA/W109https://t.co/WCVRE6N1M5
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/フォトカプラを使って物理的に1方向のみしかデータを送れない仕組み.jpg"&gt;One-Way Data Extraction For Logging On Airgapped Systemsから発見。画像もここから転載。
 とあるPCを外界から遮断して、ハッキングなどの影響を受けないようにして動作させる方法は単にネットワークに繋げないだけで実現できますが、そこから一方通行でデータを読み出したいとなるとどうするのが良いでしょう？ もちろんソフトウェアの設定をしっかり作りこんで、片方向しか通信できないようにすることは出来ますが、この記事では、物理的に片方向しか通信できないハードウェアを積活ことでこれを実現しています。
 利用するのはフォトカプラです。フォトカプラはLEDの点灯を外から光センサーで読み取るという素朴な電子部品です。この仕組みを使えば一目瞭然の片方向通信を実現できます。</description>
-    </item>
-    
-    <item>
-      <title>導電フィラメントをフューズとして利用する</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%B0%8E%E9%9B%BB%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E3%83%95%E3%83%A5%E3%83%BC%E3%82%BA%E3%81%A8%E3%81%97%E3%81%A6%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B/</link>
-      <pubDate>Sun, 07 Dec 2025 22:55:21 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%B0%8E%E9%9B%BB%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E3%83%95%E3%83%A5%E3%83%BC%E3%82%BA%E3%81%A8%E3%81%97%E3%81%A6%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/導電フィラメントをフューズとして利用する.jpg"&gt;2025 Component Abuse Challenge: Conductive Filament Makes A Meltable Fuseから発見。画像もここから転載。
-3Dプリンタのフィラメントは、通常プラスチックで電気を通しませんが、電気を通す性質を持つ、「導電フィラメント」と呼ばれる種類のものもあります。
-この記事では導電フィラメントの性質を利用して、フューズが作れないかと挑戦しています。 URL先を見てもまだ成功していないようですが、物理的な性質を利用して新しい素材で電子部品を再発明する取り組みは興味深いです。</description>
     </item>
     
   </channel>

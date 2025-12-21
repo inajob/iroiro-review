@@ -5,9 +5,22 @@
     <description>Recent content in 音楽 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 18 Nov 2025 23:21:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 22:22:44 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%9F%B3%E6%A5%BD/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>安い液晶付きのESP32ボードを使ったMIDI作曲装置</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E3%81%84%E6%B6%B2%E6%99%B6%E4%BB%98%E3%81%8D%E3%81%AEesp32%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fmidi%E4%BD%9C%E6%9B%B2%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Sun, 21 Dec 2025 22:22:44 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E3%81%84%E6%B6%B2%E6%99%B6%E4%BB%98%E3%81%8D%E3%81%AEesp32%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fmidi%E4%BD%9C%E6%9B%B2%E8%A3%85%E7%BD%AE/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/安い液晶付きのESP32ボードを使ったMIDI作曲装置.jpg"&gt;A Touchscreen MIDI Controller For The DIY Setから発見。画像もここから転載。
+安い液晶付きのESP32ボードを使ったMIDI作曲装置の作例です。
+いわゆるCheap Yellow Displayと呼ばれるESP32開発ボードを使って、タッチ操作の作曲ガジェットを作成しています。
+開発ボードにこのファームウェアを書き込むだけで、簡単に同じものを作ることができるので、ぜひ試してみたいです。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタで作られた筒をたたく方式のピアノ</title>
@@ -113,18 +126,6 @@ PSPをギター用のデジタルエフェクタにするHACKです。 確かに
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/DIYシンセサイザーのまとめページ.jpg"&gt;70 DIY Synths On One Webpageから発見。画像もここから転載。
 シンセサイザー系の電子工作は、愛好家も多く、たくさんの作例があります。 このページではそんなDIYのシンセサイザーのまとめを見ることができます。
 綺麗な画像と、動画、属性ごとの絞り込みなどの機能があり、いろいろな種類のDIYシンセサイザーを知ることができます。</description>
-    </item>
-    
-    <item>
-      <title>あの音楽を簡単に演奏できるフィジェット</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%81%82%E3%81%AE%E9%9F%B3%E6%A5%BD%E3%82%92%E7%B0%A1%E5%8D%98%E3%81%AB%E6%BC%94%E5%A5%8F%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%95%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
-      <pubDate>Mon, 14 Apr 2025 21:40:49 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%82%E3%81%AE%E9%9F%B3%E6%A5%BD%E3%82%92%E7%B0%A1%E5%8D%98%E3%81%AB%E6%BC%94%E5%A5%8F%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%95%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/あの音楽を簡単に演奏できるフィジェット.jpg"&gt;3D Print (and Play!) The Super Mario Tune As A Fidget Toyから発見。画像もここから転載。
-あの音楽を簡単に演奏できるフィジェットの作例です
-3Dプリンタで作られた、様々な長さのツメを、スライドするピックが順番にはじいていくことで、あのゲームの名曲を演奏できるフィジェットです。 要はオルゴールと同じような仕組みですが、電源なしで音楽を奏でることができる、とても面白い作例です。
- </description>
     </item>
     
   </channel>
