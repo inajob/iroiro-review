@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 22 Dec 2025 23:53:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 00:05:07 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタで作られた孫の手</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E5%AD%AB%E3%81%AE%E6%89%8B/</link>
+      <pubDate>Wed, 24 Dec 2025 00:05:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E5%AD%AB%E3%81%AE%E6%89%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作られた孫の手.jpg"&gt;Ultimate back scratcherから発見。画像もここから転載。
+3Dプリンタで作られた孫の手の作例です。 背中を掻く部分の形状はアタッチメントで付け替えることができるという仕組みになっており、最適な形状を追求することができそうです。
+ゼロベースで孫の手を設計するとしたらどのような形状になるのか・・意外な発見がありそうです。</description>
+    </item>
     
     <item>
       <title>3Dプリンタをうまいこと設定するとブリッジも印刷できる</title>
@@ -119,18 +130,6 @@ MakerChipを作った。
 &amp;mdash; けしかん🐾 (@keshinomi_88pro) December 6, 2025  LEDはこれ。1mm×1mmサイズのNeoPixel互換タイプ。
 TZ-H1010-RGB/A-BU08UF-TA1305NA/W109https://t.co/WCVRE6N1M5
 &amp;mdash; けしかん🐾 (@keshinomi_88pro) December 6, 2025  </description>
-    </item>
-    
-    <item>
-      <title>ブラウザで動く新しいCAD「BREP」</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6%E3%81%A7%E5%8B%95%E3%81%8F%E6%96%B0%E3%81%97%E3%81%84cadbrep/</link>
-      <pubDate>Tue, 09 Dec 2025 22:40:16 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6%E3%81%A7%E5%8B%95%E3%81%8F%E6%96%B0%E3%81%97%E3%81%84cadbrep/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ブラウザで動く新しいCAD「BREP」.jpg"&gt;New Browser-based CAD System Is Best Friends With Triangle Meshesから発見。画像もここから転載。
-ブラウザで動く新しい3DCADである「BREP」を紹介します。 この3DCADはManifoldというジオメトリライブラリをベースに作られており、WebUIから操作することが出来ます。 まだWebUIはこなれていませんが、Filletなども含めよくある制約ベースの3DCADでできることは大抵できるように見えます。
-この手の3DCADは古のライブラリを使っているものが多い中で、新しく開発されているということで、注目のプロジェクトです。
- </description>
     </item>
     
   </channel>
