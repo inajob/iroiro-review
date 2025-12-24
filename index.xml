@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 24 Dec 2025 00:05:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 23:56:03 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ハーフトーンパターンを使いレーザーカッターでフルカラー版画</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%8F%E3%83%BC%E3%83%95%E3%83%88%E3%83%BC%E3%83%B3%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%92%E4%BD%BF%E3%81%84%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A7%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC%E7%89%88%E7%94%BB/</link>
+      <pubDate>Wed, 24 Dec 2025 23:56:03 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%8F%E3%83%BC%E3%83%95%E3%83%88%E3%83%BC%E3%83%B3%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%92%E4%BD%BF%E3%81%84%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A7%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC%E7%89%88%E7%94%BB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ハーフトーンパターンを使いレーザーカッターでフルカラー版画.jpg"&gt;Laser Cutter Plus CYMK Spraypaint Equals Full-Color Printsから発見。画像もここから転載。
+ハーフトーンパターンを使いレーザーカッターでフルカラー版画を作成しています。 ハーフトーンカラー印刷というのはインクの三原色であるCYMKのインクをそれぞれ点描のように重ならないように描画することで、フルカラーのように見せるという印刷方法です。
+レーザーカッターでーこのハーフトーンの描画位置に穴の空いた板をインクの数だけ作成し、順番にスプレーで版画することでフルカラー印刷を実現しています。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタで作られた孫の手</title>
@@ -114,22 +126,6 @@ KiCAD回路図のオンラインリポジトリ、CircuitSnipsの紹介です。
 技術は高度に進歩していますが、まだまだ人間には作れない構造というのは自然界にたくさん存在しています。 この記事では蚊の口の部分を3Dプリンタのノズルとして転用する実験を紹介しています。
 蚊の口というのはその穴の小ささの割に丈夫で、3Dプリンタのノズルとして有用なようです。 工業的に部品を製造するのではなく、既存の生き物の体の一部を転用するというのは面白い試みです。
  </description>
-    </item>
-    
-    <item>
-      <title>16×8のドットマトリクス内臓のMakerChip</title>
-      <link>https://inajob.github.io/iroiro-review/post/168%E3%81%AE%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E5%86%85%E8%87%93%E3%81%AEmakerchip/</link>
-      <pubDate>Wed, 10 Dec 2025 22:55:24 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/168%E3%81%AE%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E5%86%85%E8%87%93%E3%81%AEmakerchip/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/16×8のドットマトリクス内臓のMakerChip.jpg"&gt;けしかんさんのPostから発見。画像もここから転載。
-3Dプリンタをつかって作る名刺代わりのMakerChipですが、このサイズに合わせたユニークな作例がたくさん登場しています。
-このPostで紹介されているのものその一つで、内部にマイコンとLEDを搭載したディスプレイ付きのMakerChipです。 MakerChipのサイズに納めるために1mm角のフルカラーLEDをぎっしりと敷き詰めてあります。
-MakerChipを作った。
-16x8個のカラーLED内蔵だよ！ pic.twitter.com/qitmOj9Ww2
-&amp;mdash; けしかん🐾 (@keshinomi_88pro) December 6, 2025  LEDはこれ。1mm×1mmサイズのNeoPixel互換タイプ。
-TZ-H1010-RGB/A-BU08UF-TA1305NA/W109https://t.co/WCVRE6N1M5
-&amp;mdash; けしかん🐾 (@keshinomi_88pro) December 6, 2025  </description>
     </item>
     
   </channel>
