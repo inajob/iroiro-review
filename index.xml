@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 24 Dec 2025 23:56:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Dec 2025 23:59:30 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタでパーツが作れるモジュラー式のラック</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%91%E3%83%BC%E3%83%84%E3%81%8C%E4%BD%9C%E3%82%8C%E3%82%8B%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%A9%E3%83%BC%E5%BC%8F%E3%81%AE%E3%83%A9%E3%83%83%E3%82%AF/</link>
+      <pubDate>Thu, 25 Dec 2025 23:59:30 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%91%E3%83%BC%E3%83%84%E3%81%8C%E4%BD%9C%E3%82%8C%E3%82%8B%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%A9%E3%83%BC%E5%BC%8F%E3%81%AE%E3%83%A9%E3%83%83%E3%82%AF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタでパーツが作れるモジュラー式のラック.jpg"&gt;Stack N’ Rack Your Hardware With The HomeRacker Projectから発見。画像もここから転載。
+3Dプリンタでパーツが作れるモジュラー式のラックの作例です。 1つのパーツは15mm角の立方体を基準としており、ロックピンを使って部品同士を固定できるように設計されています。
+この規格に対応した、さまざまなパーツが公開されており、自分にぴったりのラックを製造することができます。
+フィラメントが余ったら適当にこのモジュールを作っておくのも良さそうです。
+ </description>
+    </item>
     
     <item>
       <title>ハーフトーンパターンを使いレーザーカッターでフルカラー版画</title>
@@ -113,18 +126,6 @@ KiCAD回路図のオンラインリポジトリ、CircuitSnipsの紹介です。
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/フロッピーディスクドライブを9個使ったゲーム.jpg"&gt;Diskette Game Floppy Flopper Is Certainly No Flopから発見。画像もここから転載。
 フロッピーディスクドライブを9個使ったゲームです。 指定された色のディスクを入れるという感じのルールのようです。
 実際にがガシャガシャとディスクを交換する操作がユニークで面白いです。 フロッピーディスクドライブは余っているでしょうし、比較的安く作れそうです。
- </description>
-    </item>
-    
-    <item>
-      <title>蚊の口を3Dプリンタのノズルに転用するHack</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E8%9A%8A%E3%81%AE%E5%8F%A3%E3%82%923d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%8E%E3%82%BA%E3%83%AB%E3%81%AB%E8%BB%A2%E7%94%A8%E3%81%99%E3%82%8Bhack/</link>
-      <pubDate>Thu, 11 Dec 2025 22:58:41 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E8%9A%8A%E3%81%AE%E5%8F%A3%E3%82%923d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%83%8E%E3%82%BA%E3%83%AB%E3%81%AB%E8%BB%A2%E7%94%A8%E3%81%99%E3%82%8Bhack/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/蚊の口を3Dプリンタのノズルに転用するHack.jpg"&gt;Necroprinting Isn’t As Bad As It Soundsから発見。画像もここから転載。
-技術は高度に進歩していますが、まだまだ人間には作れない構造というのは自然界にたくさん存在しています。 この記事では蚊の口の部分を3Dプリンタのノズルとして転用する実験を紹介しています。
-蚊の口というのはその穴の小ささの割に丈夫で、3Dプリンタのノズルとして有用なようです。 工業的に部品を製造するのではなく、既存の生き物の体の一部を転用するというのは面白い試みです。
  </description>
     </item>
     
