@@ -5,9 +5,21 @@
     <description>Recent content in MIDI on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 26 Dec 2023 23:26:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 23:16:53 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/midi/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MIDI対応のパイプをたたく楽器</title>
+      <link>https://inajob.github.io/iroiro-review/post/midi%E5%AF%BE%E5%BF%9C%E3%81%AE%E3%83%91%E3%82%A4%E3%83%97%E3%82%92%E3%81%9F%E3%81%9F%E3%81%8F%E6%A5%BD%E5%99%A8/</link>
+      <pubDate>Thu, 08 Jan 2026 23:16:53 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/midi%E5%AF%BE%E5%BF%9C%E3%81%AE%E3%83%91%E3%82%A4%E3%83%97%E3%82%92%E3%81%9F%E3%81%9F%E3%81%8F%E6%A5%BD%E5%99%A8/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/MIDI対応のパイプをたたく楽器.jpg"&gt;Finally, A Pipe Slapophone With MIDIから発見。画像もここから転載。
+MIDI対応のパイプをたたく楽器の作例です。
+鍵盤を押下するとパイプの伸縮が開始され、ドラムパッドを押下することでパイプを叩くという動作を行うという癖の強い操作感の楽器となっています。
+ </description>
+    </item>
     
     <item>
       <title>USB端子サイズの小さなシンセモジュール</title>
@@ -117,17 +129,6 @@ I2CでMIDI信号を伝えるというテクニックをまとめたブログ記�
 3Dプリンタで作られた回転するドラムのくぼみに鉄球を取り付け、ホールセンサーで鉄球を検知してMIDI信号を出力する編集可能なオルゴールのような楽器です。
 目で見た鉄球の並びがそのまま音楽になるというのは非常に直感的で面白い楽器です。
  </description>
-    </item>
-    
-    <item>
-      <title>ATtinyでMIDIをCVに変換する</title>
-      <link>https://inajob.github.io/iroiro-review/post/attiny%E3%81%A7midi%E3%82%92cv%E3%81%AB%E5%A4%89%E6%8F%9B%E3%81%99%E3%82%8B/</link>
-      <pubDate>Wed, 16 Oct 2019 23:00:09 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/attiny%E3%81%A7midi%E3%82%92cv%E3%81%AB%E5%A4%89%E6%8F%9B%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/gomidi2cv.jpg"&gt;DIY GOOD OL’ MIDI TO CVから発見。画像もここから転載。
-MIDIの入力を受け付けて、CV/Gage出力することができるプログラムの紹介です。 この仕組みがあると、MIDIを出力できる高レイヤーのDTM機器と、CV/Gateで動作する低レイヤーのシンセサイザーなどを連携させることができます。
-しかもこれはATTinyを使った簡単な回路で、しかもプログラムを変更することで様々なMIDI信号に対応できます。ハードウェアDTM機器を組み合わせて使っている方には便利なユーティリティとして使うことができるでしょう。</description>
     </item>
     
   </channel>

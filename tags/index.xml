@@ -5,9 +5,36 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 07 Jan 2026 23:12:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 23:16:53 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MIDI</title>
+      <link>https://inajob.github.io/iroiro-review/tags/midi/</link>
+      <pubDate>Thu, 08 Jan 2026 23:16:53 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/midi/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>楽器</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E6%A5%BD%E5%99%A8/</link>
+      <pubDate>Thu, 08 Jan 2026 23:16:53 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E6%A5%BD%E5%99%A8/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>音楽</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E9%9F%B3%E6%A5%BD/</link>
+      <pubDate>Thu, 08 Jan 2026 23:16:53 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E9%9F%B3%E6%A5%BD/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>ペンプロッタ</title>
@@ -55,24 +82,6 @@
     </item>
     
     <item>
-      <title>楽器</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E6%A5%BD%E5%99%A8/</link>
-      <pubDate>Sun, 21 Dec 2025 22:22:44 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E6%A5%BD%E5%99%A8/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>音楽</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E9%9F%B3%E6%A5%BD/</link>
-      <pubDate>Sun, 21 Dec 2025 22:22:44 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E9%9F%B3%E6%A5%BD/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
       <title>AMY</title>
       <link>https://inajob.github.io/iroiro-review/tags/amy/</link>
       <pubDate>Thu, 18 Dec 2025 23:03:16 +0000</pubDate>
@@ -87,15 +96,6 @@
       <pubDate>Thu, 18 Dec 2025 23:03:16 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/mpr121/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>Raspberry PI Pico 2</title>
-      <link>https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico-2/</link>
-      <pubDate>Thu, 18 Dec 2025 23:03:16 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico-2/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
