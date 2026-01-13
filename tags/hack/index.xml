@@ -5,9 +5,21 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 22 Dec 2025 23:53:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 23:54:48 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>一筆書きで造形できる3Dプリンタ製のケース</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E4%B8%80%E7%AD%86%E6%9B%B8%E3%81%8D%E3%81%A7%E9%80%A0%E5%BD%A2%E3%81%A7%E3%81%8D%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9/</link>
+      <pubDate>Mon, 12 Jan 2026 23:54:48 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E4%B8%80%E7%AD%86%E6%9B%B8%E3%81%8D%E3%81%A7%E9%80%A0%E5%BD%A2%E3%81%A7%E3%81%8D%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/一筆書きで造形できる3Dプリンタ製のケース.jpg"&gt;Continuous-Path 3D Printed Case Is Clearly Superiorから発見。画像もここから転載。
+フィラメント一筆書きで造形できるケースの作例です。
+一筆書きで造形することで、フィラメントの糸引きを防ぎ、きれいな造形を実現しています。 このようなモデルを作るためには一般的なスライサーではなく、Grasshopperなどで自前でg-codeを生成する必要があり大変ですが、その甲斐あって綺麗な仕上がりとなっています。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタをうまいこと設定するとブリッジも印刷できる</title>
@@ -116,19 +128,6 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/キノコをコンピュータのRAMとして利用する実験.jpg"&gt;Mushrooms As Computer Memoryから発見。画像もここから転載。
 なんとも印象的な写真ですが、キノコがRAMとしてふるまうという実験のようです。 いつの日かキノコを由来としたコンピュータができる日が来るのでしょうか？
 家で実験できるのかは不明ですが、こういう思いもよらない材料が電子部品として活用できるというアイデアは興味深いです</description>
-    </item>
-    
-    <item>
-      <title>太いはんだごてで細い足の表面実装部品を実装する技</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%A4%AA%E3%81%84%E3%81%AF%E3%82%93%E3%81%A0%E3%81%94%E3%81%A6%E3%81%A7%E7%B4%B0%E3%81%84%E8%B6%B3%E3%81%AE%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85%E9%83%A8%E5%93%81%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B%E6%8A%80/</link>
-      <pubDate>Mon, 10 Nov 2025 23:16:34 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%A4%AA%E3%81%84%E3%81%AF%E3%82%93%E3%81%A0%E3%81%94%E3%81%A6%E3%81%A7%E7%B4%B0%E3%81%84%E8%B6%B3%E3%81%AE%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85%E9%83%A8%E5%93%81%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B%E6%8A%80/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/太いはんだごてで細い足の表面実装部品を実装する技.jpg"&gt;SMD Soldering With Big Ironから発見。画像もここから転載。
-表面実装部品には、ピンが細かく横に並んでいるものが多いです。 ちょっとした趣味の電子工作で使っているような太いはんだごてでどのようにこれらをはんだ付けするのが良いでしょうか？
-十分フラックスを付ければ、大半の場合は太いこて先でもうまいことはんだ付けできると、個人的には思いますが、この記事では、太いこて先に先端をヤスリがけした導線を巻き付けることで、細いこて先を作り出す方法を紹介しています。
-どうしても細いこて先が欲しい時にためsてみたいテクニックです。
- </description>
     </item>
     
   </channel>

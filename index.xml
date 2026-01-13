@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 08 Jan 2026 23:16:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 23:54:48 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>一筆書きで造形できる3Dプリンタ製のケース</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E4%B8%80%E7%AD%86%E6%9B%B8%E3%81%8D%E3%81%A7%E9%80%A0%E5%BD%A2%E3%81%A7%E3%81%8D%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9/</link>
+      <pubDate>Mon, 12 Jan 2026 23:54:48 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E4%B8%80%E7%AD%86%E6%9B%B8%E3%81%8D%E3%81%A7%E9%80%A0%E5%BD%A2%E3%81%A7%E3%81%8D%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/一筆書きで造形できる3Dプリンタ製のケース.jpg"&gt;Continuous-Path 3D Printed Case Is Clearly Superiorから発見。画像もここから転載。
+フィラメント一筆書きで造形できるケースの作例です。
+一筆書きで造形することで、フィラメントの糸引きを防ぎ、きれいな造形を実現しています。 このようなモデルを作るためには一般的なスライサーではなく、Grasshopperなどで自前でg-codeを生成する必要があり大変ですが、その甲斐あって綺麗な仕上がりとなっています。
+ </description>
+    </item>
     
     <item>
       <title>MIDI対応のパイプをたたく楽器</title>
@@ -116,18 +128,6 @@ MIDI対応のパイプをたたく楽器の作例です。
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/自作のPicoPad互換機.jpg"&gt;通販で部品を集めて「PicoPad」の互換機を作るから発見。画像もここから転載。
 Raspberry Pi Picoをコアとした携帯ゲーム機のPicoPad をご存知でしょうか？ このゲーム機はオープンソースで開発されており、材料を揃えれば誰でも同じものを作ることができます。
 この記事ではこのPicoPadの互換機の作り方が紹介されています。 ありものの部品を組み合わせて、うまいことコンパクトサイズの携帯ゲーム機を作り上げているのが印象的です。</description>
-    </item>
-    
-    <item>
-      <title>パラメトリックな3Dモデルを生成できるWebサービス</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%91%E3%83%A9%E3%83%A1%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%81%AA3d%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E7%94%9F%E6%88%90%E3%81%A7%E3%81%8D%E3%82%8Bweb%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/</link>
-      <pubDate>Tue, 16 Dec 2025 23:26:52 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%91%E3%83%A9%E3%83%A1%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%81%AA3d%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E7%94%9F%E6%88%90%E3%81%A7%E3%81%8D%E3%82%8Bweb%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/パラメトリックな3Dモデルを生成できるWebサービス.jpg"&gt;Iteration3D Is Parametric Python In The Cloudから発見。画像もここから転載。
-パラメトリックな3Dモデルを生成できるWebサービスであるIteration3Dの紹介です。
-たくさんのパラメトリックな3Dモデルに対して、好きなようにパラメータを設定した3Dデータをダウンロードできます。 内部的にはCadQueryとbuild123dが動いており、STLデータを生成しています。
-3Dプリンタで作りたい立体物のうちのいくらかは、このように素朴な形状の物なので、ゼロからモデリングするのではなく、既存のテンプレートにパラメータを適用するだけでデータを作ることができるのは嬉しいです。</description>
     </item>
     
   </channel>
