@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 12 Jan 2026 23:54:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 22:38:07 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>はんだ付けのために基板を固定する3Dプリンタ製の治具</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%E5%9F%BA%E6%9D%BF%E3%82%92%E5%9B%BA%E5%AE%9A%E3%81%99%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E6%B2%BB%E5%85%B7/</link>
+      <pubDate>Tue, 13 Jan 2026 22:38:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%E5%9F%BA%E6%9D%BF%E3%82%92%E5%9B%BA%E5%AE%9A%E3%81%99%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E6%B2%BB%E5%85%B7/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/はんだ付けのために基板を固定する3Dプリンタ製の治具.jpg"&gt;Print-and-Clamp: Rubber Band PCB Stand Slides Into Dutyから発見。画像もここから転載。
+はんだ付けをするときには「もう一本腕が欲しい」などと言ったりしますが、はんだ付け対象の基板をいい感じに固定できればこのストレスは多少軽減されます。
+この記事では3Dプリンタと輪ゴムを使い、簡単に基板を固定できる治具を作成しています。 シンプルな造形ですが3点でしっかりと基板を固定できそうに見えます。
+加えて、このスライドする機構部分を含めて3Dプリンタで一発で造形できるように設計されているのもポイントです。</description>
+    </item>
     
     <item>
       <title>一筆書きで造形できる3Dプリンタ製のケース</title>
@@ -117,17 +129,6 @@ MIDI対応のパイプをたたく楽器の作例です。
 ギターのフレットのような見た目のDIYシンセです。 MPR212を2つ用いて静電容量を測定しボタン操作を認識しています。 ボタン部分は3Dプリントされていますが、表面に銀の塗料を塗布して静電容量タッチに対応しているようです。
 サウンドの生成にはAMYというライブラリを利用しています
  </description>
-    </item>
-    
-    <item>
-      <title>自作のPicoPad互換機</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AEpicopad%E4%BA%92%E6%8F%9B%E6%A9%9F/</link>
-      <pubDate>Wed, 17 Dec 2025 22:43:27 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E4%BD%9C%E3%81%AEpicopad%E4%BA%92%E6%8F%9B%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/自作のPicoPad互換機.jpg"&gt;通販で部品を集めて「PicoPad」の互換機を作るから発見。画像もここから転載。
-Raspberry Pi Picoをコアとした携帯ゲーム機のPicoPad をご存知でしょうか？ このゲーム機はオープンソースで開発されており、材料を揃えれば誰でも同じものを作ることができます。
-この記事ではこのPicoPadの互換機の作り方が紹介されています。 ありものの部品を組み合わせて、うまいことコンパクトサイズの携帯ゲーム機を作り上げているのが印象的です。</description>
     </item>
     
   </channel>
