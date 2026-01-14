@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 13 Jan 2026 22:38:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 23:27:36 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ペットボトルの蓋サイズのドットマトリクス表示機</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%9A%E3%83%83%E3%83%88%E3%83%9C%E3%83%88%E3%83%AB%E3%81%AE%E8%93%8B%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
+      <pubDate>Wed, 14 Jan 2026 23:27:36 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9A%E3%83%83%E3%83%88%E3%83%9C%E3%83%88%E3%83%AB%E3%81%AE%E8%93%8B%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ペットボトルの蓋サイズのドットマトリクス表示機.jpg"&gt;uminusさんのPostから発見。画像もここから転載。
+ペットボトルの蓋サイズのドットマトリクス表示機の作例です。 この小さな容積の中にうまいこと部品を配置しているのが印象的です。 スイッチ2つとブザーも搭載しているので、簡単なゲームなども動かせそうです。
+uminusさんのPost</description>
+    </item>
     
     <item>
       <title>はんだ付けのために基板を固定する3Dプリンタ製の治具</title>
@@ -116,18 +127,6 @@ MIDI対応のパイプをたたく楽器の作例です。
 安い液晶付きのESP32ボードを使ったMIDI作曲装置の作例です。
 いわゆるCheap Yellow Displayと呼ばれるESP32開発ボードを使って、タッチ操作の作曲ガジェットを作成しています。
 開発ボードにこのファームウェアを書き込むだけで、簡単に同じものを作ることができるので、ぜひ試してみたいです。
- </description>
-    </item>
-    
-    <item>
-      <title>ギターのフレットのような見た目のDIYシンセ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AE%E3%82%BF%E3%83%BC%E3%81%AE%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AEdiy%E3%82%B7%E3%83%B3%E3%82%BB/</link>
-      <pubDate>Thu, 18 Dec 2025 23:03:16 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AE%E3%82%BF%E3%83%BC%E3%81%AE%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AEdiy%E3%82%B7%E3%83%B3%E3%82%BB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ギターのフレットのような見た目のDIYシンセ.jpg"&gt;DIY Synth Takes Inspiration From Fretted Instrumentsから発見。画像もここから転載。
-ギターのフレットのような見た目のDIYシンセです。 MPR212を2つ用いて静電容量を測定しボタン操作を認識しています。 ボタン部分は3Dプリントされていますが、表面に銀の塗料を塗布して静電容量タッチに対応しているようです。
-サウンドの生成にはAMYというライブラリを利用しています
  </description>
     </item>
     
