@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 14 Jan 2026 23:27:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 23:48:29 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ソーセージに120V通電して加熱する装置</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%BD%E3%83%BC%E3%82%BB%E3%83%BC%E3%82%B8%E3%81%AB120v%E9%80%9A%E9%9B%BB%E3%81%97%E3%81%A6%E5%8A%A0%E7%86%B1%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Thu, 15 Jan 2026 23:48:29 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%BD%E3%83%BC%E3%82%BB%E3%83%BC%E3%82%B8%E3%81%AB120v%E9%80%9A%E9%9B%BB%E3%81%97%E3%81%A6%E5%8A%A0%E7%86%B1%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ソーセージに120V通電して加熱する装置.jpg"&gt;High-Speed Pocket Hot Dog Cookerから発見。画像もここから転載。
+ホットドッグのソーセージを加熱する方法の1つとして、ホットドッグ自体に電気を流すというやり方があります。 この記事では、極限までコンパクトに設計された、ホットドッグ（のソーセージ）の加熱器を紹介しています。
+上下の極からソーセージに対して120Vで通電して加熱するというシンプルな仕組みです。
+ </description>
+    </item>
     
     <item>
       <title>ペットボトルの蓋サイズのドットマトリクス表示機</title>
@@ -114,19 +126,6 @@ MIDI対応のパイプをたたく楽器の作例です。
 一般的に積層式の3Dプリンタは中空に物を作ることができないので、作成できる立体物の形状に制限があります。 しかし、ごく限定された形状については中空でも造形することができます。
 この記事ではその極端な例として写真のような四辺の壁で支えられた平面について紹介しています。
 中空に印刷する際に、吐出するフィラメントの量を大幅に増やすことで造形品質を向上させることができるようです。 パラメータ調整がシビアそうですが、上手く再現できる条件が整えられると、造形の幅が広がりそうです。
- </description>
-    </item>
-    
-    <item>
-      <title>安い液晶付きのESP32ボードを使ったMIDI作曲装置</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E3%81%84%E6%B6%B2%E6%99%B6%E4%BB%98%E3%81%8D%E3%81%AEesp32%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fmidi%E4%BD%9C%E6%9B%B2%E8%A3%85%E7%BD%AE/</link>
-      <pubDate>Sun, 21 Dec 2025 22:22:44 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E3%81%84%E6%B6%B2%E6%99%B6%E4%BB%98%E3%81%8D%E3%81%AEesp32%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fmidi%E4%BD%9C%E6%9B%B2%E8%A3%85%E7%BD%AE/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/安い液晶付きのESP32ボードを使ったMIDI作曲装置.jpg"&gt;A Touchscreen MIDI Controller For The DIY Setから発見。画像もここから転載。
-安い液晶付きのESP32ボードを使ったMIDI作曲装置の作例です。
-いわゆるCheap Yellow Displayと呼ばれるESP32開発ボードを使って、タッチ操作の作曲ガジェットを作成しています。
-開発ボードにこのファームウェアを書き込むだけで、簡単に同じものを作ることができるので、ぜひ試してみたいです。
  </description>
     </item>
     
