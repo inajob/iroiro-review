@@ -5,9 +5,20 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 13 Jan 2026 22:38:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 00:09:50 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタで作られたLEDベゼル</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9Fled%E3%83%99%E3%82%BC%E3%83%AB/</link>
+      <pubDate>Mon, 19 Jan 2026 00:09:50 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9Fled%E3%83%99%E3%82%BC%E3%83%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作られたLEDベゼル.jpg"&gt;Print Your Next LED Bezelから発見。画像もここから転載。
+ケースに綺麗にLEDをマウントする部品として「LEDベゼル」があります。 この部品があるだけでLEDがケースに固定できるだけでなくグッとそれっぽい見た目になります。
+この記事ではこのLEDベゼルの3Dプリント用のモデルを紹介しています。 LEDベゼルはそこまで高い部品ではないですが、3Dプリンタで気軽に作れると便利そうです。</description>
+    </item>
     
     <item>
       <title>はんだ付けのために基板を固定する3Dプリンタ製の治具</title>
@@ -114,17 +125,6 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/折り畳み式の3Dプリンタ2.jpg"&gt;CoreXY 3D Printer Has A Scissor-Lift Z-axis So It Folds Down!から発見。画像もここから転載。
 折り畳み式の3Dプリンタの作例です。 Z軸がそもそも折り畳みで上下する構造となっており、Z軸が一番下に下がった状態になると筐体全体が小さくなるという面白い設計です。
 以前紹介した 折り畳み式の3Dプリンタ の改良版です。同じコンセプトで時間をかけて改良されているのは素晴らしいですね</description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタ製のUSB-Cのケーブル保護パーツ</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AEusb-c%E3%81%AE%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E4%BF%9D%E8%AD%B7%E3%83%91%E3%83%BC%E3%83%84/</link>
-      <pubDate>Wed, 29 Oct 2025 22:43:02 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AEusb-c%E3%81%AE%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E4%BF%9D%E8%AD%B7%E3%83%91%E3%83%BC%E3%83%84/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ製のUSB-Cのケーブル保護パーツ.jpg"&gt;Save Your USB-C Plugs From Oblivionから発見。画像もここから転載。
-USB-Cのケーブルは引っ張る力により根元が断線することが良くあります。 この記事ではこの問題に対応するための3Dプリンタ製のアタッチメントを紹介しています。
-印刷しやすい形状で一般的なPLAが利用できるので、お一つ作ってみてはいかがですか？</description>
     </item>
     
   </channel>
