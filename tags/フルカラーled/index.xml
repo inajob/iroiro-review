@@ -5,9 +5,21 @@
     <description>Recent content in フルカラーLED on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 07 Aug 2025 22:53:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 22:33:42 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCled/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>光を拡散する黒色のアクリル板を使って作られたLEDランタン</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%85%89%E3%82%92%E6%8B%A1%E6%95%A3%E3%81%99%E3%82%8B%E9%BB%92%E8%89%B2%E3%81%AE%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E6%9D%BF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9Fled%E3%83%A9%E3%83%B3%E3%82%BF%E3%83%B3/</link>
+      <pubDate>Mon, 19 Jan 2026 22:33:42 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%85%89%E3%82%92%E6%8B%A1%E6%95%A3%E3%81%99%E3%82%8B%E9%BB%92%E8%89%B2%E3%81%AE%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E6%9D%BF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9Fled%E3%83%A9%E3%83%B3%E3%82%BF%E3%83%B3/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/光を拡散する黒色のアクリル板を使って作られたLEDランタン.jpg"&gt;Building Beautiful LED Lanterns With Black LED Acrylicから発見。画像もここから転載。
+光を拡散する黒色のアクリル板を使うことで写真のようなきれいな見た目のLED表示機を作成できるようです。
+特にこの作例ではエッジ部分を工夫することで、あたかも色のついた立方体が並んでいるような効果を生み出しています。 ちょっとした設計の工夫で見栄えが大きく変わるという良い例だと感じました。
+ </description>
+    </item>
     
     <item>
       <title>違う惑星の重力を体感できるストリップLED付きの棒</title>
@@ -110,18 +122,6 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/8x8のフルカラーLEDによるドット絵表示装置.jpg"&gt;An Animated LED Fireplace Powered By The CH32V003から発見。画像もここから転載。
 8x8のフルカラーLEDによるドット絵表示装置です。 コアとなるマイコンはCH32V003で安く仕上げています。
 ライブラリとしてch32v003funを利用しており、静電容量タッチの制御の方法など、色々と参考になりそうです。</description>
-    </item>
-    
-    <item>
-      <title>時間によって変わる電力料金を可視化する時計</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%99%82%E9%96%93%E3%81%AB%E3%82%88%E3%81%A3%E3%81%A6%E5%A4%89%E3%82%8F%E3%82%8B%E9%9B%BB%E5%8A%9B%E6%96%99%E9%87%91%E3%82%92%E5%8F%AF%E8%A6%96%E5%8C%96%E3%81%99%E3%82%8B%E6%99%82%E8%A8%88/</link>
-      <pubDate>Sun, 17 Dec 2023 23:33:47 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%99%82%E9%96%93%E3%81%AB%E3%82%88%E3%81%A3%E3%81%A6%E5%A4%89%E3%82%8F%E3%82%8B%E9%9B%BB%E5%8A%9B%E6%96%99%E9%87%91%E3%82%92%E5%8F%AF%E8%A6%96%E5%8C%96%E3%81%99%E3%82%8B%E6%99%82%E8%A8%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/時間によって変わる電力料金を可視化する時計.jpg"&gt;Monitoring Energy Use And Saving Moneyから発見。画像もここから転載。
-時間によって変わる電力料金を可視化する時計の作例です。
-時計の周りにフルカラーLEDを並べ、時刻に応じて色で情報を掲示する機能を実現しています。
- </description>
     </item>
     
   </channel>

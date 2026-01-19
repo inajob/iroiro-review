@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 19 Jan 2026 00:09:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 22:33:42 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>光を拡散する黒色のアクリル板を使って作られたLEDランタン</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%85%89%E3%82%92%E6%8B%A1%E6%95%A3%E3%81%99%E3%82%8B%E9%BB%92%E8%89%B2%E3%81%AE%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E6%9D%BF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9Fled%E3%83%A9%E3%83%B3%E3%82%BF%E3%83%B3/</link>
+      <pubDate>Mon, 19 Jan 2026 22:33:42 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%85%89%E3%82%92%E6%8B%A1%E6%95%A3%E3%81%99%E3%82%8B%E9%BB%92%E8%89%B2%E3%81%AE%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E6%9D%BF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9Fled%E3%83%A9%E3%83%B3%E3%82%BF%E3%83%B3/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/光を拡散する黒色のアクリル板を使って作られたLEDランタン.jpg"&gt;Building Beautiful LED Lanterns With Black LED Acrylicから発見。画像もここから転載。
+光を拡散する黒色のアクリル板を使うことで写真のようなきれいな見た目のLED表示機を作成できるようです。
+特にこの作例ではエッジ部分を工夫することで、あたかも色のついた立方体が並んでいるような効果を生み出しています。 ちょっとした設計の工夫で見栄えが大きく変わるという良い例だと感じました。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタで作られたLEDベゼル</title>
@@ -114,17 +126,6 @@ MIDI対応のパイプをたたく楽器の作例です。
 ハーフトーンパターンを使いレーザーカッターでフルカラー版画を作成しています。 ハーフトーンカラー印刷というのはインクの三原色であるCYMKのインクをそれぞれ点描のように重ならないように描画することで、フルカラーのように見せるという印刷方法です。
 レーザーカッターでーこのハーフトーンの描画位置に穴の空いた板をインクの数だけ作成し、順番にスプレーで版画することでフルカラー印刷を実現しています。
  </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタで作られた孫の手</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E5%AD%AB%E3%81%AE%E6%89%8B/</link>
-      <pubDate>Wed, 24 Dec 2025 00:05:07 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E5%AD%AB%E3%81%AE%E6%89%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作られた孫の手.jpg"&gt;Ultimate back scratcherから発見。画像もここから転載。
-3Dプリンタで作られた孫の手の作例です。 背中を掻く部分の形状はアタッチメントで付け替えることができるという仕組みになっており、最適な形状を追求することができそうです。
-ゼロベースで孫の手を設計するとしたらどのような形状になるのか・・意外な発見がありそうです。</description>
     </item>
     
   </channel>
