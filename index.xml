@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 19 Jan 2026 22:33:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 22:58:54 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>オープンソースのEMRペンタブレット</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AEemr%E3%83%9A%E3%83%B3%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88/</link>
+      <pubDate>Tue, 20 Jan 2026 22:58:54 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AEemr%E3%83%9A%E3%83%B3%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/オープンソースのEMRペンタブレット.jpg"&gt;An Open Source Electromagnetic Resonance Tabletから発見。画像もここから転載。
+オープンソースのEMRペンタブレットの作例です。 ペンタブレットを自作するというと抵抗膜方式のものかな？なんて思いますが、この記事で紹介しているのはEMR方式の本格的なペンタブレットです。
+筆圧検知にも対応しており、ディスプレイの後ろにこの基板を貼り付けることで、いわゆる「液タブ」のような構成も実現できるようです。
+動画ではこれを使って本格的なお絵描きをしている様子が確認でき、実用的なもののように見えます。
+ </description>
+    </item>
     
     <item>
       <title>光を拡散する黒色のアクリル板を使って作られたLEDランタン</title>
@@ -113,18 +126,6 @@ MIDI対応のパイプをたたく楽器の作例です。
 3Dプリンタでパーツが作れるモジュラー式のラックの作例です。 1つのパーツは15mm角の立方体を基準としており、ロックピンを使って部品同士を固定できるように設計されています。
 この規格に対応した、さまざまなパーツが公開されており、自分にぴったりのラックを製造することができます。
 フィラメントが余ったら適当にこのモジュールを作っておくのも良さそうです。
- </description>
-    </item>
-    
-    <item>
-      <title>ハーフトーンパターンを使いレーザーカッターでフルカラー版画</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%8F%E3%83%BC%E3%83%95%E3%83%88%E3%83%BC%E3%83%B3%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%92%E4%BD%BF%E3%81%84%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A7%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC%E7%89%88%E7%94%BB/</link>
-      <pubDate>Wed, 24 Dec 2025 23:56:03 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%8F%E3%83%BC%E3%83%95%E3%83%88%E3%83%BC%E3%83%B3%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%92%E4%BD%BF%E3%81%84%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A7%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC%E7%89%88%E7%94%BB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ハーフトーンパターンを使いレーザーカッターでフルカラー版画.jpg"&gt;Laser Cutter Plus CYMK Spraypaint Equals Full-Color Printsから発見。画像もここから転載。
-ハーフトーンパターンを使いレーザーカッターでフルカラー版画を作成しています。 ハーフトーンカラー印刷というのはインクの三原色であるCYMKのインクをそれぞれ点描のように重ならないように描画することで、フルカラーのように見せるという印刷方法です。
-レーザーカッターでーこのハーフトーンの描画位置に穴の空いた板をインクの数だけ作成し、順番にスプレーで版画することでフルカラー印刷を実現しています。
  </description>
     </item>
     
