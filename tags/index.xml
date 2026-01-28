@@ -5,9 +5,27 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 27 Jan 2026 22:43:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 22:32:31 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raspberry Pi Pico</title>
+      <link>https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico/</link>
+      <pubDate>Wed, 28 Jan 2026 22:32:31 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>ゲーム機</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Wed, 28 Jan 2026 22:32:31 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>鏡</title>
@@ -78,24 +96,6 @@
       <pubDate>Thu, 22 Jan 2026 21:31:40 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88led/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>ペンタブレット</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E3%83%9A%E3%83%B3%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88/</link>
-      <pubDate>Tue, 20 Jan 2026 22:58:54 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E3%83%9A%E3%83%B3%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>フルカラーLED</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCled/</link>
-      <pubDate>Mon, 19 Jan 2026 22:33:42 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCled/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     

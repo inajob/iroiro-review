@@ -5,9 +5,25 @@
     <description>Recent content in Raspberry Pi Pico on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 17 Dec 2025 22:43:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 22:32:31 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>美大学生向けの電子工作入門ガジェットRabbit Pie</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%BE%8E%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%90%91%E3%81%91%E3%81%AE%E9%9B%BB%E5%AD%90%E5%B7%A5%E4%BD%9C%E5%85%A5%E9%96%80%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88rabbit-pie/</link>
+      <pubDate>Wed, 28 Jan 2026 22:32:31 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%BE%8E%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%90%91%E3%81%91%E3%81%AE%E9%9B%BB%E5%AD%90%E5%B7%A5%E4%BD%9C%E5%85%A5%E9%96%80%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88rabbit-pie/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/美大学生向けの電子工作入門ガジェットRabbit Pie.jpg"&gt;IDD-ART MICROCOMPUTER KITから発見。画像もここから転載。
+大学の授業で電子工作を交えた授業をする際、何を使って教えるか、というのは意外と難しい話です。
+このページで紹介しているRabbit Pieというのは、多摩美術大学情報デザイン学科メディア芸術コースの学生に向けて制作されたガジェットです。
+「電子工作」、と言っていますが、はんだ付けなどをするのはこのガジェットを組み立てる工程のみで、そのあとはこのガジェット用のプログラムを作成するのがメインの教材のようです。
+構成はとてもシンプルで Raspberry Pi Picoに画面とキーボードとスイッチがついているのみです。 スピーカーを搭載する代わりに3.5mmのオーディオジャックがついています。
+グラフィックはu8g2、サウンドはMozziというライブラリを使う例が示されています。
+構成は単純なので、ブレッドボードの上でも簡単に真似して作れそうです。
+ </description>
+    </item>
     
     <item>
       <title>自作のPicoPad互換機</title>
@@ -111,17 +127,6 @@ RP2040で静電容量タッチを扱う方法を紹介する記事です。
 Raspberry Pi PicoのGPIOに大きな抵抗を取り付けて、CircuitPythonのtouchioというライブラリを使って静電容量タッチを検出しています。
 仕組みとしては、大きな抵抗を介してGNDに接続された金属の電位の変化を読み取っているようです。
  </description>
-    </item>
-    
-    <item>
-      <title>GPS搭載のシンプルな自転車用ナビ</title>
-      <link>https://inajob.github.io/iroiro-review/post/gps%E6%90%AD%E8%BC%89%E3%81%AE%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E8%87%AA%E8%BB%A2%E8%BB%8A%E7%94%A8%E3%83%8A%E3%83%93/</link>
-      <pubDate>Tue, 13 Feb 2024 01:55:37 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/gps%E6%90%AD%E8%BC%89%E3%81%AE%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E8%87%AA%E8%BB%A2%E8%BB%8A%E7%94%A8%E3%83%8A%E3%83%93/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/GPS搭載のシンプルな自転車用ナビ.jpg"&gt;Navigate Burning Man With Ease With This Custom Toolから発見。画像もここから転載。
-GPS搭載のシンプルな自転車用ナビの作例です。 指定した座標への矢印を表示し続けるというシンプルな機能です。
-コアとしてはRaspberry Pi Picoを利用しています。 画面表示はLVGLを使っており、libSDLを使いPC上で画面の動作を確認する方法も紹介されています。</description>
     </item>
     
   </channel>
