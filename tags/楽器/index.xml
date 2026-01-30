@@ -5,9 +5,22 @@
     <description>Recent content in 楽器 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 08 Jan 2026 23:16:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 00:04:56 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%A5%BD%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>数式をベースに音を鳴らすスタンドアロンシンセサイザー</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%95%B0%E5%BC%8F%E3%82%92%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AB%E9%9F%B3%E3%82%92%E9%B3%B4%E3%82%89%E3%81%99%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E3%82%A2%E3%83%AD%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</link>
+      <pubDate>Fri, 30 Jan 2026 00:04:56 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%95%B0%E5%BC%8F%E3%82%92%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AB%E9%9F%B3%E3%82%92%E9%B3%B4%E3%82%89%E3%81%99%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E3%82%A2%E3%83%AD%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/数式をベースに音を鳴らすスタンドアロンシンセサイザー.jpg"&gt;BT110 by DODcircuits on Tindieから発見。画像もここから転載。
+数式のようなプログラミング言語(bytebeat)をベースに音を鳴らすスタンドアロンシンセサイザーです。
+この端末でこの言語を使ったプログラミングができるというとても面白そうです。
+bytebeatで生成されるサウンドはピコピコしているけど単調ではなくとても印象的で魅力的です。
+ </description>
+    </item>
     
     <item>
       <title>MIDI対応のパイプをたたく楽器</title>
@@ -116,20 +129,6 @@ MIDI対応のパイプをたたく楽器の作例です。
 M5StampS3をコアとしたMIDIキーボードの作例です。 1オクターブ分のキーボードボタンと便利に使えるいくつかのボタンと、簡易的な音を鳴らすためのスピーカーが搭載されており、ちょっと音を確認したいときや、MIDI機器に入力したいときに便利そうです。
 ぼくのかんがえた超シンプルMIDIキーボード。M5StampS3、スイッチ、スピーカー駆動のみ。これでレガシーMIDIもBLE MIDIもUSB MIDIも行ける。音程確認のためのスピーカー付き。ただしDAC無いのでPWMだけ。 #ねこびっと基板 pic.twitter.com/A7SzScLtwz
 &amp;mdash; カワヅ（黄色いハゲ） (@necobut) August 3, 2025  </description>
-    </item>
-    
-    <item>
-      <title>555を使って作られたスタイロフォン的な電子楽器</title>
-      <link>https://inajob.github.io/iroiro-review/post/555%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AD%E3%83%95%E3%82%A9%E3%83%B3%E7%9A%84%E3%81%AA%E9%9B%BB%E5%AD%90%E6%A5%BD%E5%99%A8/</link>
-      <pubDate>Mon, 23 Jun 2025 23:52:44 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/555%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AD%E3%83%95%E3%82%A9%E3%83%B3%E7%9A%84%E3%81%AA%E9%9B%BB%E5%AD%90%E6%A5%BD%E5%99%A8/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/555を使って作られたスタイロフォン的な電子楽器.jpg"&gt;Stylus Synth Should Have Used A 555– And Did!から発見。画像もここから転載。
-スタイロフォンという電子楽器をご存じでしょうか？
-基板上に配置された金属のパッドを、付属の操作用金属棒でなぞることで、音を鳴らすことが出来る楽器です。 独特の音色が特徴で、「ザ・電子楽器」というような音がするとても面白い楽器です。
-この記事で紹介しているのはそんなスタイロフォンの自作例です。音源としては555を使っており、あの印象的な音色が再現されています。 また基板の部品配置やシルクもきれいで、見た目にもかっこいい楽器として完成しています。
-動画では多重録音を使って、この楽器のみで録音した曲のデモも紹介されています。
- </description>
     </item>
     
   </channel>
