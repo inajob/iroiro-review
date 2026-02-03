@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 02 Feb 2026 22:40:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 21:51:05 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SDカードと同じインターフェースのNANDフラッシュチップ</title>
+      <link>https://inajob.github.io/iroiro-review/post/sd%E3%82%AB%E3%83%BC%E3%83%89%E3%81%A8%E5%90%8C%E3%81%98%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9%E3%81%AEnand%E3%83%95%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%83%81%E3%83%83%E3%83%97/</link>
+      <pubDate>Tue, 03 Feb 2026 21:51:05 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/sd%E3%82%AB%E3%83%BC%E3%83%89%E3%81%A8%E5%90%8C%E3%81%98%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9%E3%81%AEnand%E3%83%95%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%83%81%E3%83%83%E3%83%97/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/SDカードと同じインターフェースのNANDフラッシュチップ.jpg"&gt;An SD Card Of Your Own For Microcontroller Projectsから発見。画像もここから転載。
+SDカードと同じインターフェースのNANDフラッシュチップというのがあるようです。
+ガジェット内部にストレージを持たせたいけどSDカードスロットは高くつくし・・みたいな場合に役立ちそうです。 写真のようにブレッドボードから利用する場合も便利そうです。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタと銅箔テープで作る電子基板</title>
@@ -127,19 +139,6 @@ bytebeatで生成されるサウンドはピコピコしているけど単調で
 &amp;mdash; TOMOWORKS (@tomoworks_ytb) April 17, 2024  ジグも同じ3Dプリンター製です。
 ジグが溶けないようにヒートガンであっためるのがコツです。
 &amp;mdash; TOMOWORKS (@tomoworks_ytb) April 17, 2024  </description>
-    </item>
-    
-    <item>
-      <title>オープンソースのEMRペンタブレット</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AEemr%E3%83%9A%E3%83%B3%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88/</link>
-      <pubDate>Tue, 20 Jan 2026 22:58:54 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AEemr%E3%83%9A%E3%83%B3%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/オープンソースのEMRペンタブレット.jpg"&gt;An Open Source Electromagnetic Resonance Tabletから発見。画像もここから転載。
-オープンソースのEMRペンタブレットの作例です。 ペンタブレットを自作するというと抵抗膜方式のものかな？なんて思いますが、この記事で紹介しているのはEMR方式の本格的なペンタブレットです。
-筆圧検知にも対応しており、ディスプレイの後ろにこの基板を貼り付けることで、いわゆる「液タブ」のような構成も実現できるようです。
-動画ではこれを使って本格的なお絵描きをしている様子が確認でき、実用的なもののように見えます。
- </description>
     </item>
     
   </channel>
