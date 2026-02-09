@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 08 Feb 2026 21:37:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 22:24:52 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>4足歩行のかわいいロボット</title>
+      <link>https://inajob.github.io/iroiro-review/post/4%E8%B6%B3%E6%AD%A9%E8%A1%8C%E3%81%AE%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</link>
+      <pubDate>Mon, 09 Feb 2026 22:24:52 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/4%E8%B6%B3%E6%AD%A9%E8%A1%8C%E3%81%AE%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/4足歩行のかわいいロボット.jpg"&gt;Building A Little Quadruped Robotから発見。画像もここから転載。
+4足歩行のかわいいロボットの作例です。
+8つのサーボモーターと、128*64のディスプレイで顔を表示するというシンプルな構成ですが、生き物のような動きが魅力的です。 オーブンソースで公開されており、だいたい$60程度で作成できるとの事です。
+ポーズを登録するためのGUIツールなども用意されており、ロボット製作の入門として良さそうです。
+ </description>
+    </item>
     
     <item>
       <title>ESP32で作られたサイクリング用のトランシーバ</title>
@@ -126,19 +139,6 @@ bytebeatで生成されるサウンドはピコピコしているけど単調で
 大量の小さな鏡を並べたプロジェクター的な装置の作例です。
 鏡の駆動には小さなリニアアクチュエーターを用いており、このアクチュエーターは中国通販で1個50セントで購入できたようです。（安い！） こんな小さなアクチュエーター何に使うんだ・・と思いましたが、鏡の向きを変えるとなると丁度良いサイズですね。
 以前 サーボアレイを使ったマトリクス表示機 を紹介しましたが、これとアクチュエーターの種類が違う作例という感じです。
- </description>
-    </item>
-    
-    <item>
-      <title>あらかじめ印刷した部品を印刷中にはめ込む技</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%81%82%E3%82%89%E3%81%8B%E3%81%98%E3%82%81%E5%8D%B0%E5%88%B7%E3%81%97%E3%81%9F%E9%83%A8%E5%93%81%E3%82%92%E5%8D%B0%E5%88%B7%E4%B8%AD%E3%81%AB%E3%81%AF%E3%82%81%E8%BE%BC%E3%82%80%E6%8A%80/</link>
-      <pubDate>Mon, 26 Jan 2026 23:09:24 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%82%E3%82%89%E3%81%8B%E3%81%98%E3%82%81%E5%8D%B0%E5%88%B7%E3%81%97%E3%81%9F%E9%83%A8%E5%93%81%E3%82%92%E5%8D%B0%E5%88%B7%E4%B8%AD%E3%81%AB%E3%81%AF%E3%82%81%E8%BE%BC%E3%82%80%E6%8A%80/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/あらかじめ印刷した部品を印刷中にはめ込む技.jpg"&gt;Multi-material Parts The Easy Wayから発見。画像もここから転載。
-最近はマルチマテリアル対応の3Dプリンタもありますが、結構お値段が高いので、あきらめている人も多いのではないでしょうか？
-この記事では、あらかじめ作っておいた部品を3Dプリントの途中ではめ込むことで、1種類のフィラメントしか扱えない3Dプリンタでもマルチマテリアルの造形を実現する手法です。
-マルチマテリアル対応3Dプリンタでも、マテリアルを切り替える際に時間がかかる問題などもありますが、この手法ではそのような問題もありません。
  </description>
     </item>
     

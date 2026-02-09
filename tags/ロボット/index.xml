@@ -5,9 +5,22 @@
     <description>Recent content in ロボット on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 15 Oct 2025 22:01:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 22:24:52 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>4足歩行のかわいいロボット</title>
+      <link>https://inajob.github.io/iroiro-review/post/4%E8%B6%B3%E6%AD%A9%E8%A1%8C%E3%81%AE%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</link>
+      <pubDate>Mon, 09 Feb 2026 22:24:52 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/4%E8%B6%B3%E6%AD%A9%E8%A1%8C%E3%81%AE%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/4足歩行のかわいいロボット.jpg"&gt;Building A Little Quadruped Robotから発見。画像もここから転載。
+4足歩行のかわいいロボットの作例です。
+8つのサーボモーターと、128*64のディスプレイで顔を表示するというシンプルな構成ですが、生き物のような動きが魅力的です。 オーブンソースで公開されており、だいたい$60程度で作成できるとの事です。
+ポーズを登録するためのGUIツールなども用意されており、ロボット製作の入門として良さそうです。
+ </description>
+    </item>
     
     <item>
       <title>ルービックキューブを「混ぜる」ロボット</title>
@@ -117,18 +130,6 @@ PCB基板と3Dプリンタ製のブラケットを組み合わせてうまく部
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/q1lite.jpg"&gt;Q1 lite 3 Cord Kitから発見。画像もここから転載。
 クモのような見た目の4脚のロボットの作例です。4脚の足を器用に使って前進・後退・回転などができます。8個のサーボモーターと3Dプリンタで作られた部品、MT7697を搭載したマザーボード「TinyPlan97」で構成されています。
 必要最小限の部品で作られており、ミニマリズム的な美しさも感じられます。
- </description>
-    </item>
-    
-    <item>
-      <title>ピンポン球を板の上で弾ませ続けるロボット</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%94%E3%83%B3%E3%83%9D%E3%83%B3%E7%90%83%E3%82%92%E6%9D%BF%E3%81%AE%E4%B8%8A%E3%81%A7%E5%BC%BE%E3%81%BE%E3%81%9B%E7%B6%9A%E3%81%91%E3%82%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</link>
-      <pubDate>Tue, 27 Jul 2021 11:00:01 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%94%E3%83%B3%E3%83%9D%E3%83%B3%E7%90%83%E3%82%92%E6%9D%BF%E3%81%AE%E4%B8%8A%E3%81%A7%E5%BC%BE%E3%81%BE%E3%81%9B%E7%B6%9A%E3%81%91%E3%82%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/the-octo-bouncer.png"&gt;ROBOTIC BALL BOUNCER USES MACHINE VISION TO STAY ON TARGETから発見。画像もここから転載。
-ピンポン玉をラケットの上で弾ませ続ける遊びがありますが、それを実現する装置です。
-透明の板の下にはカメラが仕込まれており、画像解析によりボールの軌跡を推定し、板の角度を制御しているようです。
  </description>
     </item>
     

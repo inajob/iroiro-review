@@ -5,9 +5,22 @@
     <description>Recent content in ESP32 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 08 Feb 2026 21:37:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 22:24:52 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/esp32/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>4足歩行のかわいいロボット</title>
+      <link>https://inajob.github.io/iroiro-review/post/4%E8%B6%B3%E6%AD%A9%E8%A1%8C%E3%81%AE%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</link>
+      <pubDate>Mon, 09 Feb 2026 22:24:52 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/4%E8%B6%B3%E6%AD%A9%E8%A1%8C%E3%81%AE%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/4足歩行のかわいいロボット.jpg"&gt;Building A Little Quadruped Robotから発見。画像もここから転載。
+4足歩行のかわいいロボットの作例です。
+8つのサーボモーターと、128*64のディスプレイで顔を表示するというシンプルな構成ですが、生き物のような動きが魅力的です。 オーブンソースで公開されており、だいたい$60程度で作成できるとの事です。
+ポーズを登録するためのGUIツールなども用意されており、ロボット製作の入門として良さそうです。
+ </description>
+    </item>
     
     <item>
       <title>ESP32で作られたサイクリング用のトランシーバ</title>
@@ -115,18 +128,6 @@ M5StampS3をコアとしたMIDIキーボードの作例です。 1オクター�
       <guid>https://inajob.github.io/iroiro-review/post/xiao-esp32-c3%E3%81%A8sam2695%E3%81%AB%E3%82%88%E3%82%8Bmidi%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/XIAO ESP32-C3とSAM2695によるMIDIシンセサイザー.jpg"&gt;XIAO MIDI Synthesizerから発見。画像もここから転載。
 ハードウェアMIDIシンセサイザーというと、昔を思い出したりしますが、今やIC1つでMIDI音源が実現できます。 この製品はXIAO ESP32-C3をコアとして、SAM2695を使って実現されたMIDI音源です そこまで音にこだわりがなければこれを使うだけで、多彩な音色の楽器を実現することが出来ます。
- </description>
-    </item>
-    
-    <item>
-      <title>ESP32-C6をコアとしたかわいいフィットネストラッカー</title>
-      <link>https://inajob.github.io/iroiro-review/post/esp32-c6%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%82%AB%E3%83%BC/</link>
-      <pubDate>Tue, 17 Jun 2025 23:33:52 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/esp32-c6%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%82%AB%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32-C6をコアとしたかわいいフィットネストラッカー.jpg"&gt;Piko - Your ESP32 Powered Fitness Buddyから発見。画像もここから転載。
-ESP32-C6をコアとしたかわいいフィットネストラッカーの作例です。 このような作例はたくさんありますが、この事例で特徴的なのはたまごっちを彷彿させる、かわいいドット絵です。
-やや、ごつい大きさではありますが、その分真似して自作するには良い作例です。（オープンソースでデータが公開されています）
  </description>
     </item>
     
