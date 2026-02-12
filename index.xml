@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 11 Feb 2026 22:48:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 23:44:55 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32-S3を使ってiPhoneをBluetoothマウスにする</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32-s3%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6iphone%E3%82%92bluetooth%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%AB%E3%81%99%E3%82%8B/</link>
+      <pubDate>Thu, 12 Feb 2026 23:44:55 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32-s3%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6iphone%E3%82%92bluetooth%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%AB%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32-S3を使ってiPhoneをBluetoothマウスにする.jpg"&gt;IPhone Becomes A Bluetooth Keyboard And Mouseから発見。画像もここから転載。
+iPhoneの画面をスワイプするとPC上ではマウス操作として認識するという、ありそうで無かった作例です。
+ESP32-S3はUSBケーブルでPCと接続されマウス・キーボードとしてふるまいます。iPhoneとは専用アプリを通じてBLEで通信します。
+USBデバイスとしても、BLEサーバーとしてもふるまうことが出来るESP32-S3を活用した面白いアイデアです。
+ </description>
+    </item>
     
     <item>
       <title>カッティングプロッタと銅箔テープで回路を作る</title>
@@ -126,19 +139,6 @@ SDカードと同じインターフェースのNANDフラッシュチップと�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi Picoのクローンの注意点.jpg"&gt;Looking At A Real Fake Raspberry Pi RP2040 Boardから発見。画像もここから転載。
 Raspberry Pi Picoは、設計がオープンになっているので、クローン品も多く流通していますが、まったく同じというわけではありません。
 この記事では、そういったRaspberry Pi Picoのクローンを一つ紹介しフラッシュROMの違いや、メインICであるRP2040が、バグ入りの古いステッピングであることなどを警告しています。
- </description>
-    </item>
-    
-    <item>
-      <title>数式をベースに音を鳴らすスタンドアロンシンセサイザー</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%95%B0%E5%BC%8F%E3%82%92%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AB%E9%9F%B3%E3%82%92%E9%B3%B4%E3%82%89%E3%81%99%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E3%82%A2%E3%83%AD%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</link>
-      <pubDate>Fri, 30 Jan 2026 00:04:56 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%95%B0%E5%BC%8F%E3%82%92%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AB%E9%9F%B3%E3%82%92%E9%B3%B4%E3%82%89%E3%81%99%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E3%82%A2%E3%83%AD%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/数式をベースに音を鳴らすスタンドアロンシンセサイザー.jpg"&gt;BT110 by DODcircuits on Tindieから発見。画像もここから転載。
-数式のようなプログラミング言語(bytebeat)をベースに音を鳴らすスタンドアロンシンセサイザーです。
-この端末でこの言語を使ったプログラミングができるというとても面白そうです。
-bytebeatで生成されるサウンドはピコピコしているけど単調ではなくとても印象的で魅力的です。
  </description>
     </item>
     
