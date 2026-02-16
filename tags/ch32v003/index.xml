@@ -5,9 +5,20 @@
     <description>Recent content in CH32V003 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 28 Oct 2025 23:03:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 21:32:28 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/ch32v003/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CH32V003をコアとしたカラー液晶の携帯ゲーム機</title>
+      <link>https://inajob.github.io/iroiro-review/post/ch32v003%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%82%AB%E3%83%A9%E3%83%BC%E6%B6%B2%E6%99%B6%E3%81%AE%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Mon, 16 Feb 2026 21:32:28 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/ch32v003%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%82%AB%E3%83%A9%E3%83%BC%E6%B6%B2%E6%99%B6%E3%81%AE%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32V003をコアとしたカラー液晶の携帯ゲーム機.jpg"&gt;CH32V003 Mini Game Consoleから発見。画像もここから転載。
+CH32V003をコアとしたカラー液晶の携帯ゲーム機の作例です。 画面はフルカラーの80x160ですが、2KBしかRAMがないため画面を8*8の単位区切ったり、簡易的なスプライトの仕組みを使うことで、メモリを節約しています。
+RAMが少ないのに普通にフルカラーのゲームが30FPSで動いており、この手法はかなり有用そうです。</description>
+    </item>
     
     <item>
       <title>CH32V003で音楽を演奏する</title>
@@ -113,17 +124,6 @@ CH32V003はRISC-VのICではありますが、RAMが小さすぎるため、エ�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/8x8のフルカラーLEDによるドット絵表示装置.jpg"&gt;An Animated LED Fireplace Powered By The CH32V003から発見。画像もここから転載。
 8x8のフルカラーLEDによるドット絵表示装置です。 コアとなるマイコンはCH32V003で安く仕上げています。
 ライブラリとしてch32v003funを利用しており、静電容量タッチの制御の方法など、色々と参考になりそうです。</description>
-    </item>
-    
-    <item>
-      <title>CH32用のWCH公式のArduinoサポートが登場</title>
-      <link>https://inajob.github.io/iroiro-review/post/ch32%E7%94%A8%E3%81%AEwch%E5%85%AC%E5%BC%8F%E3%81%AEarduino%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%8C%E7%99%BB%E5%A0%B4/</link>
-      <pubDate>Mon, 08 Jan 2024 23:28:21 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/ch32%E7%94%A8%E3%81%AEwch%E5%85%AC%E5%BC%8F%E3%81%AEarduino%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%8C%E7%99%BB%E5%A0%B4/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32用のWCH公式のArduinoサポートが登場.jpg"&gt;CH32 RISC-V MCUs Get Official Arduino Supportから発見。画像もここから転載。
-CH32用のWCH公式のArduinoサポートが登場しました。 やはり使い慣れたArduino的にプログラミングできると便利なことが多いです。公式からの提供というのもありがたいです。
-試しにインストール(1.0.3)してみましたが、公式のSDKを使うもので、blinkというLEDを点滅させるコードだけで、CH32V003のROMの63%を占有してしまうのが、ちょっと気になりました。</description>
     </item>
     
   </channel>
