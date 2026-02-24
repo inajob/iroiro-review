@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 19 Feb 2026 23:05:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 00:21:37 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>古いPLAフィラメントを使った場合に起きる問題</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%8F%A4%E3%81%84pla%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%A0%B4%E5%90%88%E3%81%AB%E8%B5%B7%E3%81%8D%E3%82%8B%E5%95%8F%E9%A1%8C/</link>
+      <pubDate>Tue, 24 Feb 2026 00:21:37 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%8F%A4%E3%81%84pla%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%A0%B4%E5%90%88%E3%81%AB%E8%B5%B7%E3%81%8D%E3%82%8B%E5%95%8F%E9%A1%8C/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/古いPLAフィラメントを使った場合に起きる問題.jpg"&gt;Is That Ancient Reel Of PLA Any Good?から発見。画像もここから転載。
+古いPLAフィラメントは3Dプリントの品質に影響を及ぼすという話はよく聞きますが、実際にはどのような影響があるのでしょう？
+この記事では、倉庫に長らく眠っていた10年以上前のフィラメントを使って実験を行っています。 この例ではよく言われている糸引きは発生せず、積層間の接着力が弱いという結果となったようです。
+一見しただけでは品質の良し悪しは分からず、しかし壊れやすいというのは厄介ですね。</description>
+    </item>
     
     <item>
       <title>ディスプレイ付きESP32-S3ボードで動くUnixスタイルのシェル</title>
@@ -121,19 +133,6 @@ USBデバイスとしても、BLEサーバーとしてもふるまうことが�
 4足歩行のかわいいロボットの作例です。
 8つのサーボモーターと、128*64のディスプレイで顔を表示するというシンプルな構成ですが、生き物のような動きが魅力的です。 オーブンソースで公開されており、だいたい$60程度で作成できるとの事です。
 ポーズを登録するためのGUIツールなども用意されており、ロボット製作の入門として良さそうです。
- </description>
-    </item>
-    
-    <item>
-      <title>ESP32で作られたサイクリング用のトランシーバ</title>
-      <link>https://inajob.github.io/iroiro-review/post/esp32%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%B0%E7%94%A8%E3%81%AE%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%90/</link>
-      <pubDate>Sun, 08 Feb 2026 21:37:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/esp32%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%B0%E7%94%A8%E3%81%AE%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%90/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32で作られたサイクリング用のトランシーバ.jpg"&gt;These Ultra-Cute, Handsfree Walkie-Talkies Are Built For Cyclingから発見。画像もここから転載。
-ESP32には専用の無線P2P通信プロトコルであるESP-NOWというものがあります。 この作例では、このESP-NOWを用いて自転車用のトランシーバーを実現しています。
-音声検知機能も搭載されており、トランシーバー特有の「話すときにボタンを押す」必要はありません。
-アニメーションもかわいらしく、かなり完成度の高い作例です。
  </description>
     </item>
     

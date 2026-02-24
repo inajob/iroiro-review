@@ -5,9 +5,21 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 02 Feb 2026 22:40:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 00:21:37 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>古いPLAフィラメントを使った場合に起きる問題</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%8F%A4%E3%81%84pla%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%A0%B4%E5%90%88%E3%81%AB%E8%B5%B7%E3%81%8D%E3%82%8B%E5%95%8F%E9%A1%8C/</link>
+      <pubDate>Tue, 24 Feb 2026 00:21:37 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%8F%A4%E3%81%84pla%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%A0%B4%E5%90%88%E3%81%AB%E8%B5%B7%E3%81%8D%E3%82%8B%E5%95%8F%E9%A1%8C/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/古いPLAフィラメントを使った場合に起きる問題.jpg"&gt;Is That Ancient Reel Of PLA Any Good?から発見。画像もここから転載。
+古いPLAフィラメントは3Dプリントの品質に影響を及ぼすという話はよく聞きますが、実際にはどのような影響があるのでしょう？
+この記事では、倉庫に長らく眠っていた10年以上前のフィラメントを使って実験を行っています。 この例ではよく言われている糸引きは発生せず、積層間の接着力が弱いという結果となったようです。
+一見しただけでは品質の良し悪しは分からず、しかし壊れやすいというのは厄介ですね。</description>
+    </item>
     
     <item>
       <title>3Dプリンタと銅箔テープで作る電子基板</title>
@@ -121,18 +133,6 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/導電フィラメントをフューズとして利用する.jpg"&gt;2025 Component Abuse Challenge: Conductive Filament Makes A Meltable Fuseから発見。画像もここから転載。
 3Dプリンタのフィラメントは、通常プラスチックで電気を通しませんが、電気を通す性質を持つ、「導電フィラメント」と呼ばれる種類のものもあります。
 この記事では導電フィラメントの性質を利用して、フューズが作れないかと挑戦しています。 URL先を見てもまだ成功していないようですが、物理的な性質を利用して新しい素材で電子部品を再発明する取り組みは興味深いです。</description>
-    </item>
-    
-    <item>
-      <title>Qi充電器から電力を盗む</title>
-      <link>https://inajob.github.io/iroiro-review/post/qi%E5%85%85%E9%9B%BB%E5%99%A8%E3%81%8B%E3%82%89%E9%9B%BB%E5%8A%9B%E3%82%92%E7%9B%97%E3%82%80/</link>
-      <pubDate>Thu, 04 Dec 2025 22:51:43 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/qi%E5%85%85%E9%9B%BB%E5%99%A8%E3%81%8B%E3%82%89%E9%9B%BB%E5%8A%9B%E3%82%92%E7%9B%97%E3%82%80/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Qi充電器から電力を盗む.jpg"&gt;2025 Component Abuse Challenge: Using Inductors To Steal Power From Qi Wireless Charging Base Stationから発見。画像もここから転載。
-簡単な電子部品のみでQiの無線充電器から電力を盗む方法があるようです。 といっても、しっかりネゴシエーションせずにpingのやり取りから電力を取り出すという方法で、大した電力は得られませんが・・
-ちょっとしたLEDを光らせる程度のおもちゃであれば動かすことが出来そうです。
- </description>
     </item>
     
   </channel>
