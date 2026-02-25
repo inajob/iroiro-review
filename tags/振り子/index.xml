@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>振り子 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E6%8C%AF%E3%82%8A%E5%AD%90/</link>
+    <description>Recent content in 振り子 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 25 Feb 2026 22:55:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%8C%AF%E3%82%8A%E5%AD%90/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>振り子によるバッテリー</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%8C%AF%E3%82%8A%E5%AD%90%E3%81%AB%E3%82%88%E3%82%8B%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC/</link>
+      <pubDate>Wed, 25 Feb 2026 22:55:00 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%8C%AF%E3%82%8A%E5%AD%90%E3%81%AB%E3%82%88%E3%82%8B%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/振り子によるバッテリー.jpg"&gt;Pendulum Powered Batteryから発見。画像もここから転載。
+振り子によるバッテリーの実験です。
+原理は見たまんまで、大きくて重たい振り子の動く力を使って電力を取得するという非常に見たまんまの仕組みです。 この大きさでも大した電力は得られないようですが、何かに応用できそうな作例です。
+ </description>
+    </item>
+    
+  </channel>
+</rss>
+
