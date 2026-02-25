@@ -5,9 +5,23 @@
     <description>Recent content in Raspberry PI Pico 2 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 05 Feb 2026 22:23:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 02:59:53 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico-2/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raspberry Pi Pico 2のクローンの比較</title>
+      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico-2%E3%81%AE%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3%E3%81%AE%E6%AF%94%E8%BC%83/</link>
+      <pubDate>Wed, 25 Feb 2026 02:59:53 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico-2%E3%81%AE%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3%E3%81%AE%E6%AF%94%E8%BC%83/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi Pico 2のクローンの比較.jpg"&gt;Comparing A Clone Raspberry Pi Pico 2 With An Original Oneから発見。画像もここから転載。
+Raspberry Pi Pico 2の基板設計はオープンになっているため、誰でも似たような基板を作ることが出来ます。 AliExpressなどを見ると公式のRaspberry Pi Pico 2の互換ボードが安くでたくさん出回っているのを見ることでしょう。
+この記事では、それらのクローンと本家を比べています。
+本家はMicroUSBなのが残念なところで、その点クローン品にはUSB Type-Cのものがあります。一方でクローンはUSB周りの配線に問題があり信号精度が落ちるリスクのあるものや、DC-DCコンバータの性能が悪く本家ほど電流を供給できないものなどもあるようです。
+うまく特性を理解して使う分にはクローン品も魅力的ですが、本家もかなり安いので、そこまでケチってリスクをとる必要もないかもしれませんね。
+ </description>
+    </item>
     
     <item>
       <title>壁掛け型のサウンドビジュアライザー</title>

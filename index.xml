@@ -5,9 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 24 Feb 2026 00:21:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 02:59:53 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raspberry Pi Pico 2のクローンの比較</title>
+      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico-2%E3%81%AE%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3%E3%81%AE%E6%AF%94%E8%BC%83/</link>
+      <pubDate>Wed, 25 Feb 2026 02:59:53 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico-2%E3%81%AE%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3%E3%81%AE%E6%AF%94%E8%BC%83/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi Pico 2のクローンの比較.jpg"&gt;Comparing A Clone Raspberry Pi Pico 2 With An Original Oneから発見。画像もここから転載。
+Raspberry Pi Pico 2の基板設計はオープンになっているため、誰でも似たような基板を作ることが出来ます。 AliExpressなどを見ると公式のRaspberry Pi Pico 2の互換ボードが安くでたくさん出回っているのを見ることでしょう。
+この記事では、それらのクローンと本家を比べています。
+本家はMicroUSBなのが残念なところで、その点クローン品にはUSB Type-Cのものがあります。一方でクローンはUSB周りの配線に問題があり信号精度が落ちるリスクのあるものや、DC-DCコンバータの性能が悪く本家ほど電流を供給できないものなどもあるようです。
+うまく特性を理解して使う分にはクローン品も魅力的ですが、本家もかなり安いので、そこまでケチってリスクをとる必要もないかもしれませんね。
+ </description>
+    </item>
     
     <item>
       <title>古いPLAフィラメントを使った場合に起きる問題</title>
@@ -120,19 +134,6 @@ USBデバイスとしても、BLEサーバーとしてもふるまうことが�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリントで一体成型できるサーボ駆動のグリッパー.jpg"&gt;Print-in-Place Gripper Does It With A Single Motorから発見。画像もここから転載。
 3Dプリントで一体成型できるサーボ駆動のグリッパーの作例です。
 サーボモーター1つで4つの指の開閉を実現しており、いろいろなものをつかむことが出来るようです。 4本の指全体を1体成型できるよう設計されているため、気軽に制作できそうです。
- </description>
-    </item>
-    
-    <item>
-      <title>4足歩行のかわいいロボット</title>
-      <link>https://inajob.github.io/iroiro-review/post/4%E8%B6%B3%E6%AD%A9%E8%A1%8C%E3%81%AE%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</link>
-      <pubDate>Mon, 09 Feb 2026 22:24:52 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/4%E8%B6%B3%E6%AD%A9%E8%A1%8C%E3%81%AE%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/4足歩行のかわいいロボット.jpg"&gt;Building A Little Quadruped Robotから発見。画像もここから転載。
-4足歩行のかわいいロボットの作例です。
-8つのサーボモーターと、128*64のディスプレイで顔を表示するというシンプルな構成ですが、生き物のような動きが魅力的です。 オーブンソースで公開されており、だいたい$60程度で作成できるとの事です。
-ポーズを登録するためのGUIツールなども用意されており、ロボット製作の入門として良さそうです。
  </description>
     </item>
     
