@@ -5,9 +5,22 @@
     <description>Recent content in 3Dプリント on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 07 Jul 2025 21:11:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 22:13:39 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>銅箔テープと3DプリントPCBっぽいものを作成する</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%8A%85%E7%AE%94%E3%83%86%E3%83%BC%E3%83%97%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88pcb%E3%81%A3%E3%81%BD%E3%81%84%E3%82%82%E3%81%AE%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B/</link>
+      <pubDate>Sun, 01 Mar 2026 22:13:39 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%8A%85%E7%AE%94%E3%83%86%E3%83%BC%E3%83%97%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88pcb%E3%81%A3%E3%81%BD%E3%81%84%E3%82%82%E3%81%AE%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/銅箔テープと3DプリントPCBっぽいものを作成する.jpg"&gt;New Tool Makes 3D Printed PCBs, Fastから発見。画像もここから転載。
+電子基板（PCB）は中国の製造会社に発注すれば、安くで製作できるようになりましたが、手元に届くまでに少し時間がかかります。
+もっと気軽にPCBのようなものを作れないでしょうか？
+この記事で紹介しているのは3Dプリントで作成した「型」を使って、銅箔テープをプレスしてPCBのようなものを作成する手法です。 2つの部品で構成される「型」で銅箔テープをプレスすることで、銅箔テープに切り取るための切れ込みを生成し、あとは不要な銅箔テープを剥がし取ることでPCBのようなものが完成します。
+以前紹介した 3Dプリンタと銅箔テープで作る電子基板 のさらに精度を高めたバージョンと言えそうです。</description>
+    </item>
     
     <item>
       <title>3Dプリントでスライスを工夫して木製のような見た目にする</title>
