@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 03 Mar 2026 23:25:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 21:27:43 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>5日間の天気が確認できる電子ペーパー搭載ガジェット</title>
+      <link>https://inajob.github.io/iroiro-review/post/5%E6%97%A5%E9%96%93%E3%81%AE%E5%A4%A9%E6%B0%97%E3%81%8C%E7%A2%BA%E8%AA%8D%E3%81%A7%E3%81%8D%E3%82%8B%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E6%90%AD%E8%BC%89%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
+      <pubDate>Wed, 04 Mar 2026 21:27:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/5%E6%97%A5%E9%96%93%E3%81%AE%E5%A4%A9%E6%B0%97%E3%81%8C%E7%A2%BA%E8%AA%8D%E3%81%A7%E3%81%8D%E3%82%8B%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E6%90%AD%E8%BC%89%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/5日間の天気が確認できる電子ペーパー搭載ガジェット.jpg"&gt;きゅーこんさんのPostから発見。画像もここから転載。
+5日間の天気が確認できる電子ペーパー搭載ガジェットの作例です。
+ESP32をコアとした電子ペーパー制御ボードを使っており、WiFi経由で天気予報の情報を取得しています。 1日の間変わらないようなずっと情報を表示しっぱなしにしたい場合には、液晶ディスプレイなんかよりは電子ペーパーの方がよさそうですね。
+幼い子どもが自分で天気予報を確認できるように、12時間後までの天気を表示するシステムを作りました！☀️🌧️表示に電子ペーパーを使い、視認性と省電力に配慮。ハードウェアとしては、Elecrow社のCrowPanel ESP32 E-Paper HMI 5.79-inch Displayを使用。ソースコードはGitHub👉 https://t.co/sOZQxKKz7v pic.twitter.com/4LeT6jZNz9
+&amp;mdash; きゅーこん (@cubic9com) June 13, 2025  </description>
+    </item>
     
     <item>
       <title>基板から簡単に着脱できるUSB-Cポート</title>
@@ -120,18 +133,6 @@ Raspberry Pi Pico 2の基板設計はオープンになっているため、誰�
 3Dプリンタで作ったメカニカルカウンタの作例です。 1桁ずつもモジュールになっており横向き並べることで複数桁のカウンタを構成できます。 手回し回転の力をばねに蓄え、その力でカウンタを1つ分回転させる仕組みにより、カウンタ移動時だけ手回し部分に負荷が集中する問題を解決しているようです。
 3Dプリンタで作ったメカニカルカウンター。他に使ったのはM3ネジのみ。市販のカウンターとの違いは、連続運動(回転)を間欠運動に変えること。原理上は桁が増えても負荷が重くならず、同じユニットで桁を追加していけることです。 pic.twitter.com/iSXBr5Uwna
 &amp;mdash; シンドロノシグナルPro_MaX⚡mini (@shindorovich) February 12, 2026  </description>
-    </item>
-    
-    <item>
-      <title>とてもかっこいい電子ペーパーダッシュボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%81%A8%E3%81%A6%E3%82%82%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Tue, 17 Feb 2026 22:20:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%A8%E3%81%A6%E3%82%82%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/とてもかっこいい電子ペーパーダッシュボード.jpg"&gt;EPaper Dashboard 10.85&#39;&#39;から発見。画像もここから転載。
-電子ペーパーはかなり普及してきており、これを利用したダッシュボードのプロジェクトもたくさん紹介してきました。
-この作例は見た目が非常にかっこいいという点が特徴の電子ペーパーダッシュボードです。
-こういう作品は見た目が非常に重要だということを思い出させてくれる作例です。</description>
     </item>
     
   </channel>

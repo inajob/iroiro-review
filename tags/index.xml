@@ -5,9 +5,27 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 03 Mar 2026 23:25:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 21:27:43 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32</title>
+      <link>https://inajob.github.io/iroiro-review/tags/esp32/</link>
+      <pubDate>Wed, 04 Mar 2026 21:27:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/esp32/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>電子ペーパー</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC/</link>
+      <pubDate>Wed, 04 Mar 2026 21:27:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>USB Type-C</title>
@@ -78,24 +96,6 @@
       <pubDate>Tue, 24 Feb 2026 00:21:37 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/hack/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>ESP32-S3</title>
-      <link>https://inajob.github.io/iroiro-review/tags/esp32-s3/</link>
-      <pubDate>Thu, 19 Feb 2026 23:05:06 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/esp32-s3/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>Raspberry Pi Zero 2W</title>
-      <link>https://inajob.github.io/iroiro-review/tags/raspberry-pi-zero-2w/</link>
-      <pubDate>Tue, 17 Feb 2026 22:20:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/raspberry-pi-zero-2w/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
