@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 04 Mar 2026 21:27:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 23:41:43 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ユニークな形状の電光掲示版</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%A6%E3%83%8B%E3%83%BC%E3%82%AF%E3%81%AA%E5%BD%A2%E7%8A%B6%E3%81%AE%E9%9B%BB%E5%85%89%E6%8E%B2%E7%A4%BA%E7%89%88/</link>
+      <pubDate>Thu, 05 Mar 2026 23:41:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%A6%E3%83%8B%E3%83%BC%E3%82%AF%E3%81%AA%E5%BD%A2%E7%8A%B6%E3%81%AE%E9%9B%BB%E5%85%89%E6%8E%B2%E7%A4%BA%E7%89%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ユニークな形状の電光掲示版.jpg"&gt;Exclamation Point Indicates Worthy Notificationsから発見。画像もここから転載。
+大きな「！」マークの形をした電光掲示板です。
+一般的な電光掲示板は無骨すぎてなじまないような場所でも、このような形であれば導入しやすいかもしれないですね。 点の部分がベルになっており、通知音を鳴らせるようになっているのも面白いです。
+ </description>
+    </item>
     
     <item>
       <title>5日間の天気が確認できる電子ペーパー搭載ガジェット</title>
@@ -121,18 +133,6 @@ Raspberry Pi Pico 2の基板設計はオープンになっているため、誰�
 適切にモジュール化されていることにより、この作例とは違うモジュールで動かすことも比較的簡単そうです。 写真で紹介しているのは、画面表示も含めた作例で。高速に描画するための工夫も施されています。
 日本語ネイティブの自分としては、この端末でマルチバイト文字も表示できると嬉しいのですが・・、ちょっと改造が必要そうですね。
  </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタで作ったメカニカルカウンタ</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%AB%E3%83%AB%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BF/</link>
-      <pubDate>Wed, 18 Feb 2026 21:39:19 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%AB%E3%83%AB%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作ったメカニカルカウンタ.jpg"&gt;シンドロノシグナルPro_MaX⚡mini さんのPostから発見。画像もここから転載。
-3Dプリンタで作ったメカニカルカウンタの作例です。 1桁ずつもモジュールになっており横向き並べることで複数桁のカウンタを構成できます。 手回し回転の力をばねに蓄え、その力でカウンタを1つ分回転させる仕組みにより、カウンタ移動時だけ手回し部分に負荷が集中する問題を解決しているようです。
-3Dプリンタで作ったメカニカルカウンター。他に使ったのはM3ネジのみ。市販のカウンターとの違いは、連続運動(回転)を間欠運動に変えること。原理上は桁が増えても負荷が重くならず、同じユニットで桁を追加していけることです。 pic.twitter.com/iSXBr5Uwna
-&amp;mdash; シンドロノシグナルPro_MaX⚡mini (@shindorovich) February 12, 2026  </description>
     </item>
     
   </channel>

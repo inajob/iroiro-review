@@ -5,9 +5,21 @@
     <description>Recent content in 表示機 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 07 Aug 2025 22:53:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 23:41:43 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E8%A1%A8%E7%A4%BA%E6%A9%9F/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ユニークな形状の電光掲示版</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%A6%E3%83%8B%E3%83%BC%E3%82%AF%E3%81%AA%E5%BD%A2%E7%8A%B6%E3%81%AE%E9%9B%BB%E5%85%89%E6%8E%B2%E7%A4%BA%E7%89%88/</link>
+      <pubDate>Thu, 05 Mar 2026 23:41:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%A6%E3%83%8B%E3%83%BC%E3%82%AF%E3%81%AA%E5%BD%A2%E7%8A%B6%E3%81%AE%E9%9B%BB%E5%85%89%E6%8E%B2%E7%A4%BA%E7%89%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ユニークな形状の電光掲示版.jpg"&gt;Exclamation Point Indicates Worthy Notificationsから発見。画像もここから転載。
+大きな「！」マークの形をした電光掲示板です。
+一般的な電光掲示板は無骨すぎてなじまないような場所でも、このような形であれば導入しやすいかもしれないですね。 点の部分がベルになっており、通知音を鳴らせるようになっているのも面白いです。
+ </description>
+    </item>
     
     <item>
       <title>違う惑星の重力を体感できるストリップLED付きの棒</title>
@@ -113,19 +125,6 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/21セグメントの特徴的な表示機.jpg"&gt;Why Have Seven Segments When You Can Have 21?から発見。画像もここから転載。
 セグメント表示機といえば7セグメントの数字を表示するものが一般的ですが、この記事で紹介しているのは21セグメントの特徴的な表示機です。
 21セグメントを駆使して味のあるアルファベットを表示できます。
- </description>
-    </item>
-    
-    <item>
-      <title>レンチキュラーレンズを使った7セグ的な表示機</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%83%B3%E3%83%81%E3%82%AD%E3%83%A5%E3%83%A9%E3%83%BC%E3%83%AC%E3%83%B3%E3%82%BA%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F7%E3%82%BB%E3%82%B0%E7%9A%84%E3%81%AA%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
-      <pubDate>Tue, 20 Aug 2024 23:03:11 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%83%B3%E3%83%81%E3%82%AD%E3%83%A5%E3%83%A9%E3%83%BC%E3%83%AC%E3%83%B3%E3%82%BA%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F7%E3%82%BB%E3%82%B0%E7%9A%84%E3%81%AA%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/レンチキュラーレンズを使った7セグ的な表示機.jpg"&gt;A Lenticular Clock Spells Out The Hoursから発見。画像もここから転載。
-レンチキュラーレンズを使った7セグ的な表示機の作例です。
-サーボモーターを使って、5枚の画像がレンチキュラーレンズで切り替えられるような板の角度を調整することで、数字を表示する仕組みの7セグメント表示機です。
-仕組み自体は任意の画像を切り替えて表示できるので、応用の聞きそうなテクニックです。
  </description>
     </item>
     
