@@ -5,9 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 08 Mar 2026 22:21:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 23:54:46 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>人力で隙間にぴったりはまる部品を作成する手法</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E4%BA%BA%E5%8A%9B%E3%81%A7%E9%9A%99%E9%96%93%E3%81%AB%E3%81%B4%E3%81%A3%E3%81%9F%E3%82%8A%E3%81%AF%E3%81%BE%E3%82%8B%E9%83%A8%E5%93%81%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B%E6%89%8B%E6%B3%95/</link>
+      <pubDate>Mon, 09 Mar 2026 23:54:46 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E4%BA%BA%E5%8A%9B%E3%81%A7%E9%9A%99%E9%96%93%E3%81%AB%E3%81%B4%E3%81%A3%E3%81%9F%E3%82%8A%E3%81%AF%E3%81%BE%E3%82%8B%E9%83%A8%E5%93%81%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B%E6%89%8B%E6%B3%95/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/人力で隙間にぴったりはまる部品を作成する手法.jpg"&gt;Have You Ever Used A Tick Stick?から発見。画像もここから転載。
+複雑な形状にピッタリ当てはまる部品を作りたいとき、どのようにその形状を定義するのが良いでしょう？
+最近の方法だと3Dスキャンなどがありますが、この記事で紹介しているのはとても古典的な方法です。
+用意するのは特徴的な形状の木の破片です。これを使って複雑な形状の内側の輪郭を写しとっています。
+ちょっと言葉で説明するのは大変なので、ぜひ動画を見てみてください。
+このような手法が必要となることはかなり稀だとは思いますが、それでも人生で1度はある気がするので頭のどこかで覚えておきたいです。
+ </description>
+    </item>
     
     <item>
       <title>プログラムから制御できるブレッドボード</title>
@@ -120,18 +135,6 @@ Raspberry Pi Pico 2の基板設計はオープンになっているため、誰�
 本家はMicroUSBなのが残念なところで、その点クローン品にはUSB Type-Cのものがあります。一方でクローンはUSB周りの配線に問題があり信号精度が落ちるリスクのあるものや、DC-DCコンバータの性能が悪く本家ほど電流を供給できないものなどもあるようです。
 うまく特性を理解して使う分にはクローン品も魅力的ですが、本家もかなり安いので、そこまでケチってリスクをとる必要もないかもしれませんね。
  </description>
-    </item>
-    
-    <item>
-      <title>古いPLAフィラメントを使った場合に起きる問題</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%8F%A4%E3%81%84pla%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%A0%B4%E5%90%88%E3%81%AB%E8%B5%B7%E3%81%8D%E3%82%8B%E5%95%8F%E9%A1%8C/</link>
-      <pubDate>Tue, 24 Feb 2026 00:21:37 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%8F%A4%E3%81%84pla%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%A0%B4%E5%90%88%E3%81%AB%E8%B5%B7%E3%81%8D%E3%82%8B%E5%95%8F%E9%A1%8C/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/古いPLAフィラメントを使った場合に起きる問題.jpg"&gt;Is That Ancient Reel Of PLA Any Good?から発見。画像もここから転載。
-古いPLAフィラメントは3Dプリントの品質に影響を及ぼすという話はよく聞きますが、実際にはどのような影響があるのでしょう？
-この記事では、倉庫に長らく眠っていた10年以上前のフィラメントを使って実験を行っています。 この例ではよく言われている糸引きは発生せず、積層間の接着力が弱いという結果となったようです。
-一見しただけでは品質の良し悪しは分からず、しかし壊れやすいというのは厄介ですね。</description>
     </item>
     
   </channel>
