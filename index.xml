@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 09 Mar 2026 23:54:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 22:27:13 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raspberry Piのピンを5V対応するためのレベルシフター</title>
+      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi%E3%81%AE%E3%83%94%E3%83%B3%E3%82%925v%E5%AF%BE%E5%BF%9C%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%AC%E3%83%99%E3%83%AB%E3%82%B7%E3%83%95%E3%82%BF%E3%83%BC/</link>
+      <pubDate>Tue, 10 Mar 2026 22:27:13 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi%E3%81%AE%E3%83%94%E3%83%B3%E3%82%925v%E5%AF%BE%E5%BF%9C%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%AC%E3%83%99%E3%83%AB%E3%82%B7%E3%83%95%E3%82%BF%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Piのピンを5V対応するためのレベルシフター.jpg"&gt;bPiShift – An Open-Source 28-PIN Bidirectional Logic Level Shifter For Raspberry Piから発見。画像もここから転載。
+Raspberry Piのピンを5V対応するためのレベルシフターです。
+Raspberry PiのGPIOピンは3.3Vの信号レベルとなっており、5Vの信号を扱うためにはレベルシフター回路が必要です。 この記事で紹介しているのは、見たまんまわかりやすくRaspberry PiのすべてのGPIOをレベルシフトするちょっと背の高いピンヘッダのような部品です。</description>
+    </item>
     
     <item>
       <title>人力で隙間にぴったりはまる部品を作成する手法</title>
@@ -120,20 +131,6 @@ ESP32というと、WiFiやBluetoothといった無線機能を搭載した格�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/振り子によるバッテリー.jpg"&gt;Pendulum Powered Batteryから発見。画像もここから転載。
 振り子によるバッテリーの実験です。
 原理は見たまんまで、大きくて重たい振り子の動く力を使って電力を取得するという非常に見たまんまの仕組みです。 この大きさでも大した電力は得られないようですが、何かに応用できそうな作例です。
- </description>
-    </item>
-    
-    <item>
-      <title>Raspberry Pi Pico 2のクローンの比較</title>
-      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico-2%E3%81%AE%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3%E3%81%AE%E6%AF%94%E8%BC%83/</link>
-      <pubDate>Wed, 25 Feb 2026 02:59:53 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico-2%E3%81%AE%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3%E3%81%AE%E6%AF%94%E8%BC%83/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi Pico 2のクローンの比較.jpg"&gt;Comparing A Clone Raspberry Pi Pico 2 With An Original Oneから発見。画像もここから転載。
-Raspberry Pi Pico 2の基板設計はオープンになっているため、誰でも似たような基板を作ることが出来ます。 AliExpressなどを見ると公式のRaspberry Pi Pico 2の互換ボードが安くでたくさん出回っているのを見ることでしょう。
-この記事では、それらのクローンと本家を比べています。
-本家はMicroUSBなのが残念なところで、その点クローン品にはUSB Type-Cのものがあります。一方でクローンはUSB周りの配線に問題があり信号精度が落ちるリスクのあるものや、DC-DCコンバータの性能が悪く本家ほど電流を供給できないものなどもあるようです。
-うまく特性を理解して使う分にはクローン品も魅力的ですが、本家もかなり安いので、そこまでケチってリスクをとる必要もないかもしれませんね。
  </description>
     </item>
     
