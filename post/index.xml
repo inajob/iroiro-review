@@ -5,9 +5,26 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 10 Mar 2026 22:27:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 23:23:01 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタ用の引き出し型サポート台</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E7%94%A8%E3%81%AE%E5%BC%95%E3%81%8D%E5%87%BA%E3%81%97%E5%9E%8B%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E5%8F%B0/</link>
+      <pubDate>Wed, 11 Mar 2026 23:23:01 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E7%94%A8%E3%81%AE%E5%BC%95%E3%81%8D%E5%87%BA%E3%81%97%E5%9E%8B%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E5%8F%B0/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ用の引き出し型サポート台.jpg"&gt;渡邊恵太研究室/Watanabe Keita Laboratory さんのPostから発見。画像もここから転載。
+積層式の3Dプリンタは、台（ベッド）の上にプラスチックを重ねていくことで造形します。そのために、ベッドに対して角度が水平に近い面を造形するためには工夫が必要です。
+通常は、この問題に対処するために「サポート」と呼ばれる「足」のようなパーツを出力し、その上に本当に造形したいパーツを出力します。 しかし、この方法は無駄にプラスチックを吐出するため、時間も素材も余計にかかってしまうという問題があります。
+このPostでは、この問題に対応するために、3Dプリンタの横に引き出し式のサポート台を用意し、これを3Dプリンタ自身が引っ張り出すことで、サポートの代わりとしています。
+3Dプリンタのヘッドが印刷以外の用途で利用するというアイデアはとても面白く、またサポートを使う際の問題を鮮やかに解決していてとても良いアイデアです。
+#インタラクション2026 にて、「DynaPin」を学部3年、一井がデモ発表します。
+3Dプリンタのヘッドを用いてピンアレイを引き出し、サポートを構築します。
+ユーザの介入を必要とすることなく、オブジェクトを制御してフィラメント使用量と造形時間を削減します。 pic.twitter.com/h3nHHnZHoG
+&amp;mdash; 渡邊恵太研究室/Watanabe Keita Laboratory (@keita_lab) March 5, 2026  </description>
+    </item>
     
     <item>
       <title>Raspberry Piのピンを5V対応するためのレベルシフター</title>
@@ -120,18 +137,6 @@ ESP32というと、WiFiやBluetoothといった無線機能を搭載した格�
 この例では工具が入っていますが、ちょっとしたカード類や小銭など、日常的に持ち歩きたいものをここに収納できると便利そうです
 ふへへ pic.twitter.com/ynUqDbvG71
 &amp;mdash; K.$uzuki (@BellTreeNursing) January 18, 2026  </description>
-    </item>
-    
-    <item>
-      <title>振り子によるバッテリー</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%8C%AF%E3%82%8A%E5%AD%90%E3%81%AB%E3%82%88%E3%82%8B%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC/</link>
-      <pubDate>Wed, 25 Feb 2026 22:55:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%8C%AF%E3%82%8A%E5%AD%90%E3%81%AB%E3%82%88%E3%82%8B%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/振り子によるバッテリー.jpg"&gt;Pendulum Powered Batteryから発見。画像もここから転載。
-振り子によるバッテリーの実験です。
-原理は見たまんまで、大きくて重たい振り子の動く力を使って電力を取得するという非常に見たまんまの仕組みです。 この大きさでも大した電力は得られないようですが、何かに応用できそうな作例です。
- </description>
     </item>
     
   </channel>
