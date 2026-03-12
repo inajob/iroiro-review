@@ -5,9 +5,21 @@
     <description>Recent content in Webサービス on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 16 Dec 2025 23:26:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 22:25:42 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PCB写真に配線をアノテーションするツール</title>
+      <link>https://inajob.github.io/iroiro-review/post/pcb%E5%86%99%E7%9C%9F%E3%81%AB%E9%85%8D%E7%B7%9A%E3%82%92%E3%82%A2%E3%83%8E%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%99%E3%82%8B%E3%83%84%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Thu, 12 Mar 2026 22:25:42 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/pcb%E5%86%99%E7%9C%9F%E3%81%AB%E9%85%8D%E7%B7%9A%E3%82%92%E3%82%A2%E3%83%8E%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%99%E3%82%8B%E3%83%84%E3%83%BC%E3%83%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/PCB写真に配線をアノテーションするツール.jpg"&gt;X-Ray A PCB Virtuallyから発見。画像もここから転載。
+表と裏の両方の基板の写真を読み込んで、その配線をなぞることで、回路を分析するためのツールです。 表と裏のレイヤーをうまいこと半透明に重ねることで、2層基板のトレースを簡単に追跡することが出来ます。
+作業自体はペイントツールでもできるものですが、回路をトレースする専用の機能がついており便利そうです。 課金が必要ですがAIによる部品推定や、回路図の書き出しの機能もあるようです。
+ </description>
+    </item>
     
     <item>
       <title>パラメトリックな3Dモデルを生成できるWebサービス</title>
