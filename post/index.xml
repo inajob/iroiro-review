@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 12 Mar 2026 22:25:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 23:21:45 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32-P4搭載のFeatherボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32-p4%E6%90%AD%E8%BC%89%E3%81%AEfeather%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Sun, 15 Mar 2026 23:21:45 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32-p4%E6%90%AD%E8%BC%89%E3%81%AEfeather%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32-P4搭載のFeatherボード.jpg"&gt;Technoblogyから発見。画像もここから転載。
+ESP32-P4搭載のFeatherボードの作例です。 ESP32-P4は400MHzでデュアルコアのマイコンです。
+さすがに基板は4層必要で、周辺部品も0402にしないと収まりきらなかったようです。 ESP32-P4自体も104ピンQFNパッケージということで、なかなか手はんだするのは厳しいようです。
+ということで、自分で設計し実装するにはなかなかにハードルが高そうですが、一応ESP32-P4の基板はこれを真似すれば作ることが出来そうです。</description>
+    </item>
     
     <item>
       <title>PCB写真に配線をアノテーションするツール</title>
@@ -123,19 +135,6 @@ USBポートの付いた機器はよくありますが、そのほとんどは�
 ESP32というと、WiFiやBluetoothといった無線機能を搭載した格安のマイコンを思い浮べる方が多いと思いますが、ここで紹介するのはESP32-P4というESP32シリーズの中でも異色なハイパフォーマンスで、無線機能を搭載していないマイコンをコアとする開発ボードです。
 有線LANポートやUSBポート、HDMIポートなど一般的なSBCにありがちなインターフェースがずらりと並んでいますが、Linuxは動作しません（無理に動かすことはできるかもですが、あまり想定されていなそうです）。
 400MHzが2コアと32MBのPSRAMという、絶妙なスペックですが、PC並のインターフェースが活用でき、かつ一瞬で起動できるので、デジタル文房具的なものづくりのコンポーネントとしては適役かもしれません。</description>
-    </item>
-    
-    <item>
-      <title>銅箔テープと3DプリントPCBっぽいものを作成する</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E9%8A%85%E7%AE%94%E3%83%86%E3%83%BC%E3%83%97%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88pcb%E3%81%A3%E3%81%BD%E3%81%84%E3%82%82%E3%81%AE%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B/</link>
-      <pubDate>Sun, 01 Mar 2026 22:13:39 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E9%8A%85%E7%AE%94%E3%83%86%E3%83%BC%E3%83%97%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88pcb%E3%81%A3%E3%81%BD%E3%81%84%E3%82%82%E3%81%AE%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/銅箔テープと3DプリントPCBっぽいものを作成する.jpg"&gt;New Tool Makes 3D Printed PCBs, Fastから発見。画像もここから転載。
-電子基板（PCB）は中国の製造会社に発注すれば、安くで製作できるようになりましたが、手元に届くまでに少し時間がかかります。
-もっと気軽にPCBのようなものを作れないでしょうか？
-この記事で紹介しているのは3Dプリントで作成した「型」を使って、銅箔テープをプレスしてPCBのようなものを作成する手法です。 2つの部品で構成される「型」で銅箔テープをプレスすることで、銅箔テープに切り取るための切れ込みを生成し、あとは不要な銅箔テープを剥がし取ることでPCBのようなものが完成します。
-以前紹介した 3Dプリンタと銅箔テープで作る電子基板 のさらに精度を高めたバージョンと言えそうです。</description>
     </item>
     
   </channel>
