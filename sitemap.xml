@@ -3,27 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://inajob.github.io/iroiro-review/</loc>
+    <lastmod>2026-03-16T23:20:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/post/</loc>
+    <lastmod>2026-03-16T23:20:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/tags/</loc>
+    <lastmod>2026-03-16T23:20:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%83%BC%E3%83%A0%E3%81%A7%E9%89%84%E7%90%83%E3%82%92%E4%B8%A6%E3%81%B9%E3%82%8B%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AE%E3%83%9E%E3%83%BC%E3%83%96%E3%83%AB%E6%99%82%E8%A8%88/</loc>
+    <lastmod>2026-03-16T23:20:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/tags/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</loc>
+    <lastmod>2026-03-16T23:20:59+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://inajob.github.io/iroiro-review/tags/esp32-p4/</loc>
     <lastmod>2026-03-15T23:21:45+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://inajob.github.io/iroiro-review/post/esp32-p4%E6%90%AD%E8%BC%89%E3%81%AEfeather%E3%83%9C%E3%83%BC%E3%83%89/</loc>
-    <lastmod>2026-03-15T23:21:45+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://inajob.github.io/iroiro-review/</loc>
-    <lastmod>2026-03-15T23:21:45+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://inajob.github.io/iroiro-review/post/</loc>
-    <lastmod>2026-03-15T23:21:45+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://inajob.github.io/iroiro-review/tags/</loc>
     <lastmod>2026-03-15T23:21:45+00:00</lastmod>
   </url>
   
@@ -249,11 +259,6 @@
   
   <url>
     <loc>https://inajob.github.io/iroiro-review/tags/%E3%82%B5%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC/</loc>
-    <lastmod>2026-02-09T22:24:52+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://inajob.github.io/iroiro-review/tags/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</loc>
     <lastmod>2026-02-09T22:24:52+00:00</lastmod>
   </url>
   
