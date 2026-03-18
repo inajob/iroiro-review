@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 17 Mar 2026 22:41:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 22:57:37 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリントのトップ面を滑らかにするアイロンがけ以外の方法</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E3%83%88%E3%83%83%E3%83%97%E9%9D%A2%E3%82%92%E6%BB%91%E3%82%89%E3%81%8B%E3%81%AB%E3%81%99%E3%82%8B%E3%82%A2%E3%82%A4%E3%83%AD%E3%83%B3%E3%81%8C%E3%81%91%E4%BB%A5%E5%A4%96%E3%81%AE%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Wed, 18 Mar 2026 22:57:37 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E3%83%88%E3%83%83%E3%83%97%E9%9D%A2%E3%82%92%E6%BB%91%E3%82%89%E3%81%8B%E3%81%AB%E3%81%99%E3%82%8B%E3%82%A2%E3%82%A4%E3%83%AD%E3%83%B3%E3%81%8C%E3%81%91%E4%BB%A5%E5%A4%96%E3%81%AE%E6%96%B9%E6%B3%95/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリントのトップ面を滑らかにするアイロンがけ以外の方法.jpg"&gt;Stop Ironing 3D Printsから発見。画像もここから転載。
+積層式の3Dプリンタの最上面の造形品質を上げるための手法として「アイロンがけ」（ironing)があります。 これは熱した3Dプリンタのノズルを使って、3Dプリント成果物の最上面を「均す」というテクニックです。
+しかし、こんな強引な方法をせずとも、吐出量や印刷速度を工夫すればアイロンがけと同等かそれ以上の効果が得られるようです。
+ </description>
+    </item>
     
     <item>
       <title>ほぼオープンソースのRISC-VチップBaochip-1x</title>
@@ -120,19 +132,6 @@ Raspberry PiのGPIOピンは3.3Vの信号レベルとなっており、5Vの信�
 大きな「！」マークの形をした電光掲示板です。
 一般的な電光掲示板は無骨すぎてなじまないような場所でも、このような形であれば導入しやすいかもしれないですね。 点の部分がベルになっており、通知音を鳴らせるようになっているのも面白いです。
  </description>
-    </item>
-    
-    <item>
-      <title>5日間の天気が確認できる電子ペーパー搭載ガジェット</title>
-      <link>https://inajob.github.io/iroiro-review/post/5%E6%97%A5%E9%96%93%E3%81%AE%E5%A4%A9%E6%B0%97%E3%81%8C%E7%A2%BA%E8%AA%8D%E3%81%A7%E3%81%8D%E3%82%8B%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E6%90%AD%E8%BC%89%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
-      <pubDate>Wed, 04 Mar 2026 21:27:43 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/5%E6%97%A5%E9%96%93%E3%81%AE%E5%A4%A9%E6%B0%97%E3%81%8C%E7%A2%BA%E8%AA%8D%E3%81%A7%E3%81%8D%E3%82%8B%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E6%90%AD%E8%BC%89%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/5日間の天気が確認できる電子ペーパー搭載ガジェット.jpg"&gt;きゅーこんさんのPostから発見。画像もここから転載。
-5日間の天気が確認できる電子ペーパー搭載ガジェットの作例です。
-ESP32をコアとした電子ペーパー制御ボードを使っており、WiFi経由で天気予報の情報を取得しています。 1日の間変わらないようなずっと情報を表示しっぱなしにしたい場合には、液晶ディスプレイなんかよりは電子ペーパーの方がよさそうですね。
-幼い子どもが自分で天気予報を確認できるように、12時間後までの天気を表示するシステムを作りました！☀️🌧️表示に電子ペーパーを使い、視認性と省電力に配慮。ハードウェアとしては、Elecrow社のCrowPanel ESP32 E-Paper HMI 5.79-inch Displayを使用。ソースコードはGitHub👉 https://t.co/sOZQxKKz7v pic.twitter.com/4LeT6jZNz9
-&amp;mdash; きゅーこん (@cubic9com) June 13, 2025  </description>
     </item>
     
   </channel>
