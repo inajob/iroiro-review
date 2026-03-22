@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 18 Mar 2026 22:57:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 22:19:37 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタのアイロンがけテクニックで表面に模様を付ける</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%82%A2%E3%82%A4%E3%83%AD%E3%83%B3%E3%81%8C%E3%81%91%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF%E3%81%A7%E8%A1%A8%E9%9D%A2%E3%81%AB%E6%A8%A1%E6%A7%98%E3%82%92%E4%BB%98%E3%81%91%E3%82%8B/</link>
+      <pubDate>Sun, 22 Mar 2026 22:19:37 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%82%A2%E3%82%A4%E3%83%AD%E3%83%B3%E3%81%8C%E3%81%91%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF%E3%81%A7%E8%A1%A8%E9%9D%A2%E3%81%AB%E6%A8%A1%E6%A7%98%E3%82%92%E4%BB%98%E3%81%91%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタのアイロンがけテクニックで表面に模様を付ける.jpg"&gt;Selective Ironing Adds Designs To 3D Printsから発見。画像もここから転載。
+積層式の3Dプリンタの最上面の造形品質を上げるための手法として「アイロンがけ」（ironing)があります。 これは熱した3Dプリンタのノズルを使って、3Dプリント成果物の最上面を「均す」というテクニックです。
+この記事では、この「アイロンがけ」の手法を使って模様を描画する方法を紹介しています。
+下手に真っ平を目指すより、このように模様にしたほうが、アラが目立ちにくいという効果もありそうです。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリントのトップ面を滑らかにするアイロンがけ以外の方法</title>
@@ -120,18 +133,6 @@ Raspberry PiのGPIOピンは3.3Vの信号レベルとなっており、5Vの信�
 ブレッドボードは、部品を突き刺すだけで、はんだ付け不要で電子回路を構成することが出来、便利ですが、ジャンパ線だらけになってしまう問題があります。
 そこでこの記事で紹介している作例では、アナログマルチプレクサ（MT8816）を用いて、プログラムでジャンパ線の代わりを実現しています。 制御用のマイコンボードとしてはTeensy 4.1を用いています
 過去に紹介したよく似た作例である ジャンパー不要のブレッドボード の小さいバージョンという感じです。</description>
-    </item>
-    
-    <item>
-      <title>ユニークな形状の電光掲示版</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%A6%E3%83%8B%E3%83%BC%E3%82%AF%E3%81%AA%E5%BD%A2%E7%8A%B6%E3%81%AE%E9%9B%BB%E5%85%89%E6%8E%B2%E7%A4%BA%E7%89%88/</link>
-      <pubDate>Thu, 05 Mar 2026 23:41:43 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%A6%E3%83%8B%E3%83%BC%E3%82%AF%E3%81%AA%E5%BD%A2%E7%8A%B6%E3%81%AE%E9%9B%BB%E5%85%89%E6%8E%B2%E7%A4%BA%E7%89%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ユニークな形状の電光掲示版.jpg"&gt;Exclamation Point Indicates Worthy Notificationsから発見。画像もここから転載。
-大きな「！」マークの形をした電光掲示板です。
-一般的な電光掲示板は無骨すぎてなじまないような場所でも、このような形であれば導入しやすいかもしれないですね。 点の部分がベルになっており、通知音を鳴らせるようになっているのも面白いです。
- </description>
     </item>
     
   </channel>
