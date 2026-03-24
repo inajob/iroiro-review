@@ -5,9 +5,22 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 22 Mar 2026 22:19:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 23:32:02 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Arduinoでバイナリファイルと一緒にソースコードもマイコンに保存する技</title>
+      <link>https://inajob.github.io/iroiro-review/post/arduino%E3%81%A7%E3%83%90%E3%82%A4%E3%83%8A%E3%83%AA%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%A8%E4%B8%80%E7%B7%92%E3%81%AB%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E3%82%82%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3%E3%81%AB%E4%BF%9D%E5%AD%98%E3%81%99%E3%82%8B%E6%8A%80/</link>
+      <pubDate>Tue, 24 Mar 2026 23:32:02 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/arduino%E3%81%A7%E3%83%90%E3%82%A4%E3%83%8A%E3%83%AA%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%A8%E4%B8%80%E7%B7%92%E3%81%AB%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E3%82%82%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3%E3%81%AB%E4%BF%9D%E5%AD%98%E3%81%99%E3%82%8B%E6%8A%80/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Arduinoでバイナリファイルと一緒にソースコードもマイコンに保存する技.jpg"&gt;Forgetfulino Puts Back Up Of Source Inside The Binaryから発見。画像もここから転載。
+Arduinoを用いた開発ではマイコンにプログラムを書き込むことで、意図した動作を実現します。 このプログラムはバイナリ形式となっており、ソースコードとは異なるものです。
+月日が経って、プログラムの書きこまれたマイコンだけが残った場合、そのソースコードを探すことが困難になるという問題があります。
+この記事では、この問題の解決策として、ソースコードの内容もマイコンのROMに書き込む方法を紹介しています。
+マイコンのメモリは限りがありますが、もし単純なプログラムでマイコンの容量に空きがあるなら、このような手法も便利そうです。</description>
+    </item>
     
     <item>
       <title>3Dプリンタのアイロンがけテクニックで表面に模様を付ける</title>
@@ -130,18 +143,6 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ソーセージに120V通電して加熱する装置.jpg"&gt;High-Speed Pocket Hot Dog Cookerから発見。画像もここから転載。
 ホットドッグのソーセージを加熱する方法の1つとして、ホットドッグ自体に電気を流すというやり方があります。 この記事では、極限までコンパクトに設計された、ホットドッグ（のソーセージ）の加熱器を紹介しています。
 上下の極からソーセージに対して120Vで通電して加熱するというシンプルな仕組みです。
- </description>
-    </item>
-    
-    <item>
-      <title>一筆書きで造形できる3Dプリンタ製のケース</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E4%B8%80%E7%AD%86%E6%9B%B8%E3%81%8D%E3%81%A7%E9%80%A0%E5%BD%A2%E3%81%A7%E3%81%8D%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9/</link>
-      <pubDate>Mon, 12 Jan 2026 23:54:48 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E4%B8%80%E7%AD%86%E6%9B%B8%E3%81%8D%E3%81%A7%E9%80%A0%E5%BD%A2%E3%81%A7%E3%81%8D%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/一筆書きで造形できる3Dプリンタ製のケース.jpg"&gt;Continuous-Path 3D Printed Case Is Clearly Superiorから発見。画像もここから転載。
-フィラメント一筆書きで造形できるケースの作例です。
-一筆書きで造形することで、フィラメントの糸引きを防ぎ、きれいな造形を実現しています。 このようなモデルを作るためには一般的なスライサーではなく、Grasshopperなどで自前でg-codeを生成する必要があり大変ですが、その甲斐あって綺麗な仕上がりとなっています。
  </description>
     </item>
     

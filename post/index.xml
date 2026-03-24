@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 23 Mar 2026 23:22:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 23:32:02 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Arduinoでバイナリファイルと一緒にソースコードもマイコンに保存する技</title>
+      <link>https://inajob.github.io/iroiro-review/post/arduino%E3%81%A7%E3%83%90%E3%82%A4%E3%83%8A%E3%83%AA%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%A8%E4%B8%80%E7%B7%92%E3%81%AB%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E3%82%82%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3%E3%81%AB%E4%BF%9D%E5%AD%98%E3%81%99%E3%82%8B%E6%8A%80/</link>
+      <pubDate>Tue, 24 Mar 2026 23:32:02 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/arduino%E3%81%A7%E3%83%90%E3%82%A4%E3%83%8A%E3%83%AA%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%A8%E4%B8%80%E7%B7%92%E3%81%AB%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E3%82%82%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3%E3%81%AB%E4%BF%9D%E5%AD%98%E3%81%99%E3%82%8B%E6%8A%80/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Arduinoでバイナリファイルと一緒にソースコードもマイコンに保存する技.jpg"&gt;Forgetfulino Puts Back Up Of Source Inside The Binaryから発見。画像もここから転載。
+Arduinoを用いた開発ではマイコンにプログラムを書き込むことで、意図した動作を実現します。 このプログラムはバイナリ形式となっており、ソースコードとは異なるものです。
+月日が経って、プログラムの書きこまれたマイコンだけが残った場合、そのソースコードを探すことが困難になるという問題があります。
+この記事では、この問題の解決策として、ソースコードの内容もマイコンのROMに書き込む方法を紹介しています。
+マイコンのメモリは限りがありますが、もし単純なプログラムでマイコンの容量に空きがあるなら、このような手法も便利そうです。</description>
+    </item>
     
     <item>
       <title>3Dプリンタ製のPicopadケース</title>
@@ -117,21 +130,6 @@ ESP32-P4搭載のFeatherボードの作例です。 ESP32-P4は400MHzでデュ�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Piのピンを5V対応するためのレベルシフター.jpg"&gt;bPiShift – An Open-Source 28-PIN Bidirectional Logic Level Shifter For Raspberry Piから発見。画像もここから転載。
 Raspberry Piのピンを5V対応するためのレベルシフターです。
 Raspberry PiのGPIOピンは3.3Vの信号レベルとなっており、5Vの信号を扱うためにはレベルシフター回路が必要です。 この記事で紹介しているのは、見たまんまわかりやすくRaspberry PiのすべてのGPIOをレベルシフトするちょっと背の高いピンヘッダのような部品です。</description>
-    </item>
-    
-    <item>
-      <title>人力で隙間にぴったりはまる部品を作成する手法</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E4%BA%BA%E5%8A%9B%E3%81%A7%E9%9A%99%E9%96%93%E3%81%AB%E3%81%B4%E3%81%A3%E3%81%9F%E3%82%8A%E3%81%AF%E3%81%BE%E3%82%8B%E9%83%A8%E5%93%81%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B%E6%89%8B%E6%B3%95/</link>
-      <pubDate>Mon, 09 Mar 2026 23:54:46 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E4%BA%BA%E5%8A%9B%E3%81%A7%E9%9A%99%E9%96%93%E3%81%AB%E3%81%B4%E3%81%A3%E3%81%9F%E3%82%8A%E3%81%AF%E3%81%BE%E3%82%8B%E9%83%A8%E5%93%81%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B%E6%89%8B%E6%B3%95/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/人力で隙間にぴったりはまる部品を作成する手法.jpg"&gt;Have You Ever Used A Tick Stick?から発見。画像もここから転載。
-複雑な形状にピッタリ当てはまる部品を作りたいとき、どのようにその形状を定義するのが良いでしょう？
-最近の方法だと3Dスキャンなどがありますが、この記事で紹介しているのはとても古典的な方法です。
-用意するのは特徴的な形状の木の破片です。これを使って複雑な形状の内側の輪郭を写しとっています。
-ちょっと言葉で説明するのは大変なので、ぜひ動画を見てみてください。
-このような手法が必要となることはかなり稀だとは思いますが、それでも人生で1度はある気がするので頭のどこかで覚えておきたいです。
- </description>
     </item>
     
   </channel>
