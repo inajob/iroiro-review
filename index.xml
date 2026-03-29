@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 26 Mar 2026 22:35:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 22:22:09 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタでファスナーの金具を自作する</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%95%E3%82%A1%E3%82%B9%E3%83%8A%E3%83%BC%E3%81%AE%E9%87%91%E5%85%B7%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%99%E3%82%8B/</link>
+      <pubDate>Sun, 29 Mar 2026 22:22:09 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%95%E3%82%A1%E3%82%B9%E3%83%8A%E3%83%BC%E3%81%AE%E9%87%91%E5%85%B7%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタでファスナーの金具を自作する.jpg"&gt;This Printed Zipper Repair Requires No Unsewingから発見。画像もここから転載。
+ファスナーの金具を3Dプリンタで自作しています。 部品が分割されており、壊れたファスナーを取り換えるなどの際にも簡単に取り付けられます。
+強度などが気になりますが、ファッションとしてもカラフルで面白いです。</description>
+    </item>
     
     <item>
       <title>デジタルお守り「サイバータリスマン」</title>
@@ -117,18 +128,6 @@ Raspberry Pi PicoなどのRP2040搭載ボードをターゲットとしたゲー
 ESP32-P4搭載のFeatherボードの作例です。 ESP32-P4は400MHzでデュアルコアのマイコンです。
 さすがに基板は4層必要で、周辺部品も0402にしないと収まりきらなかったようです。 ESP32-P4自体も104ピンQFNパッケージということで、なかなか手はんだするのは厳しいようです。
 ということで、自分で設計し実装するにはなかなかにハードルが高そうですが、一応ESP32-P4の基板はこれを真似すれば作ることが出来そうです。</description>
-    </item>
-    
-    <item>
-      <title>PCB写真に配線をアノテーションするツール</title>
-      <link>https://inajob.github.io/iroiro-review/post/pcb%E5%86%99%E7%9C%9F%E3%81%AB%E9%85%8D%E7%B7%9A%E3%82%92%E3%82%A2%E3%83%8E%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%99%E3%82%8B%E3%83%84%E3%83%BC%E3%83%AB/</link>
-      <pubDate>Thu, 12 Mar 2026 22:25:42 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/pcb%E5%86%99%E7%9C%9F%E3%81%AB%E9%85%8D%E7%B7%9A%E3%82%92%E3%82%A2%E3%83%8E%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%99%E3%82%8B%E3%83%84%E3%83%BC%E3%83%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/PCB写真に配線をアノテーションするツール.jpg"&gt;X-Ray A PCB Virtuallyから発見。画像もここから転載。
-表と裏の両方の基板の写真を読み込んで、その配線をなぞることで、回路を分析するためのツールです。 表と裏のレイヤーをうまいこと半透明に重ねることで、2層基板のトレースを簡単に追跡することが出来ます。
-作業自体はペイントツールでもできるものですが、回路をトレースする専用の機能がついており便利そうです。 課金が必要ですがAIによる部品推定や、回路図の書き出しの機能もあるようです。
- </description>
     </item>
     
   </channel>
