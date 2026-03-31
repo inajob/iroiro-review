@@ -5,9 +5,20 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 29 Mar 2026 22:22:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 00:01:46 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタでマイクロスイッチを自作</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%82%92%E8%87%AA%E4%BD%9C/</link>
+      <pubDate>Tue, 31 Mar 2026 00:01:46 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%82%92%E8%87%AA%E4%BD%9C/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタでマイクロスイッチを自作.jpg"&gt;Opensource 3D Printed Electronic Componentsから発見。画像もここから転載。
+3Dプリンタの部品のなるべく多くを3Dプリンタで作る試みです。
+写真に写っているのは3Dプリンタのリミットスイッチとして用いられるマイクロスイッチです。 たしかにこのくらいであれば3Dプリンタで作ることができそうです。 どこまでを3Dプリント製にするのか、品質はどの程度を目指すかなど、いろいろ考えることがあって面白そうな取り組みです。</description>
+    </item>
     
     <item>
       <title>3Dプリンタでファスナーの金具を自作する</title>
@@ -126,19 +137,6 @@
 &amp;mdash; らいど🦀 (@ridride1) January 23, 2026  ガムテープ固定してて恥ずかしいけど、中身はこんな感じ
 コインは転がしてフォトリフレクタで判別してます、紙幣は1000円札専用、食券はサーボで箱から落としています pic.twitter.com/FPScZYvQYB
 &amp;mdash; らいど🦀 (@ridride1) January 24, 2026  </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタと銅箔テープで作る電子基板</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A8%E9%8A%85%E7%AE%94%E3%83%86%E3%83%BC%E3%83%97%E3%81%A7%E4%BD%9C%E3%82%8B%E9%9B%BB%E5%AD%90%E5%9F%BA%E6%9D%BF/</link>
-      <pubDate>Mon, 02 Feb 2026 22:40:16 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A8%E9%8A%85%E7%AE%94%E3%83%86%E3%83%BC%E3%83%97%E3%81%A7%E4%BD%9C%E3%82%8B%E9%9B%BB%E5%AD%90%E5%9F%BA%E6%9D%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタと銅箔テープで作る電子基板.jpg"&gt;Using 3D Printing And Copper Tape To Make PCBsから発見。画像もここから転載。
-3Dプリンタでエンボス上の基板パターンを造形して、それに銅箔テープを貼り、エンボスに沿ってカッターで切り取ることで、手動でプリント基板のようなものを作成するテクニックです
-カッターで銅箔テープを切るところは手間ですが、ユニバーサル基板に手で導線をはんだ付けするよりは簡単で、安定したものになるように思います。
-3Dプリンタで基板を作る話といえば、以前紹介した PCB基板を使わないユニークな配線の3Dプリンタ製の携帯ゲーム機 も似た作例だと感じました（こちらは銅箔テープではなく導線を使いますが・・）
- </description>
     </item>
     
   </channel>

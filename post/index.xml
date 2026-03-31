@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 29 Mar 2026 22:22:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 00:01:46 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタでマイクロスイッチを自作</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%82%92%E8%87%AA%E4%BD%9C/</link>
+      <pubDate>Tue, 31 Mar 2026 00:01:46 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%82%92%E8%87%AA%E4%BD%9C/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタでマイクロスイッチを自作.jpg"&gt;Opensource 3D Printed Electronic Componentsから発見。画像もここから転載。
+3Dプリンタの部品のなるべく多くを3Dプリンタで作る試みです。
+写真に写っているのは3Dプリンタのリミットスイッチとして用いられるマイクロスイッチです。 たしかにこのくらいであれば3Dプリンタで作ることができそうです。 どこまでを3Dプリント製にするのか、品質はどの程度を目指すかなど、いろいろ考えることがあって面白そうな取り組みです。</description>
+    </item>
     
     <item>
       <title>3Dプリンタでファスナーの金具を自作する</title>
@@ -116,18 +127,6 @@ Raspberry Pi PicoなどのRP2040搭載ボードをターゲットとしたゲー
 アームで鉄球を並べるスタイルのマーブル時計の作例です。
 格安サーボモーターであるSG90を使い$23以下でこの作品を製作しています。 ロボットアームが淡々と鉄球を並べている様子を見るのは見ていて飽きません。
  </description>
-    </item>
-    
-    <item>
-      <title>ESP32-P4搭載のFeatherボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/esp32-p4%E6%90%AD%E8%BC%89%E3%81%AEfeather%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Sun, 15 Mar 2026 23:21:45 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/esp32-p4%E6%90%AD%E8%BC%89%E3%81%AEfeather%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32-P4搭載のFeatherボード.jpg"&gt;Technoblogyから発見。画像もここから転載。
-ESP32-P4搭載のFeatherボードの作例です。 ESP32-P4は400MHzでデュアルコアのマイコンです。
-さすがに基板は4層必要で、周辺部品も0402にしないと収まりきらなかったようです。 ESP32-P4自体も104ピンQFNパッケージということで、なかなか手はんだするのは厳しいようです。
-ということで、自分で設計し実装するにはなかなかにハードルが高そうですが、一応ESP32-P4の基板はこれを真似すれば作ることが出来そうです。</description>
     </item>
     
   </channel>
