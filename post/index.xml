@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 31 Mar 2026 00:01:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 00:27:41 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32-P4は同じ型番で仕様の異なるものが混じっている</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32-p4%E3%81%AF%E5%90%8C%E3%81%98%E5%9E%8B%E7%95%AA%E3%81%A7%E4%BB%95%E6%A7%98%E3%81%AE%E7%95%B0%E3%81%AA%E3%82%8B%E3%82%82%E3%81%AE%E3%81%8C%E6%B7%B7%E3%81%98%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B/</link>
+      <pubDate>Wed, 01 Apr 2026 00:27:41 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32-p4%E3%81%AF%E5%90%8C%E3%81%98%E5%9E%8B%E7%95%AA%E3%81%A7%E4%BB%95%E6%A7%98%E3%81%AE%E7%95%B0%E3%81%AA%E3%82%8B%E3%82%82%E3%81%AE%E3%81%8C%E6%B7%B7%E3%81%98%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32-P4は同じ型番で仕様の異なるものが混じっている.jpg"&gt;ESP32: When Is A P4 A P4, But Not The P4 You Thought It Wasから発見。画像もここから転載。
+ESP32-P4は、まだあまり見かけませんが、安価でパワフルなプロセッサです。 しかし、このESP32-P4、同じ型番で仕様の異なるものが混じっているようなのです・・
+ちょっとした違いならまだ良いのですが、電源ピンに関係する変更が入っているようで 配線に変更が必要のようです。 ESP32-P4を単体で利用することは稀でしょうが、怪しい開発ボードなんかはこういう問題を踏んでいるかもしれません・・</description>
+    </item>
     
     <item>
       <title>3Dプリンタでマイクロスイッチを自作</title>
@@ -115,18 +126,6 @@ Raspberry Pi PicoなどのRP2040搭載ボードをターゲットとしたゲー
       <guid>https://inajob.github.io/iroiro-review/post/%E3%81%BB%E3%81%BC%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AErisc-v%E3%83%81%E3%83%83%E3%83%97baochip-1x/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ほぼオープンソースのRISC-VチップBaochip-1x.jpg"&gt;Baochip-1x: A Mostly-Open, 22nm SoC for High Assurance Applications « bunnie&amp;rsquo;s blogから発見。画像もここから転載。
 「ハードウェアハッカー」という書籍の著者としても有名なbunnieの作っているRISC-Vチップの紹介です。 このスペックには珍しくMMUが搭載されている点が特徴的との事です。</description>
-    </item>
-    
-    <item>
-      <title>アームで鉄球を並べるスタイルのマーブル時計</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%83%BC%E3%83%A0%E3%81%A7%E9%89%84%E7%90%83%E3%82%92%E4%B8%A6%E3%81%B9%E3%82%8B%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AE%E3%83%9E%E3%83%BC%E3%83%96%E3%83%AB%E6%99%82%E8%A8%88/</link>
-      <pubDate>Mon, 16 Mar 2026 23:20:59 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%83%BC%E3%83%A0%E3%81%A7%E9%89%84%E7%90%83%E3%82%92%E4%B8%A6%E3%81%B9%E3%82%8B%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AE%E3%83%9E%E3%83%BC%E3%83%96%E3%83%AB%E6%99%82%E8%A8%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/アームで鉄球を並べるスタイルのマーブル時計.jpg"&gt;The World’s Smallest Marble Clock With Pick And Place Armから発見。画像もここから転載。
-アームで鉄球を並べるスタイルのマーブル時計の作例です。
-格安サーボモーターであるSG90を使い$23以下でこの作品を製作しています。 ロボットアームが淡々と鉄球を並べている様子を見るのは見ていて飽きません。
- </description>
     </item>
     
   </channel>
