@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 01 Apr 2026 22:37:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 23:02:20 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>シンプルな電子ペーパー搭載の文字入力専用機</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E6%90%AD%E8%BC%89%E3%81%AE%E6%96%87%E5%AD%97%E5%85%A5%E5%8A%9B%E5%B0%82%E7%94%A8%E6%A9%9F/</link>
+      <pubDate>Thu, 02 Apr 2026 23:02:20 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E6%90%AD%E8%BC%89%E3%81%AE%E6%96%87%E5%AD%97%E5%85%A5%E5%8A%9B%E5%B0%82%E7%94%A8%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/シンプルな電子ペーパー搭載の文字入力専用機.jpg"&gt;etyperから発見。画像もここから転載。
+シンプルな電子ペーパー搭載の文字入力専用機の作例です。 Orange Pi Zero 2Wと4.2インチ電子ペーパーを単に組み合わせただけのシンプルな構成です。 シンプルゆえに、これに筐体をつけてキーボードを内蔵したり、小さなタブレット端末のように扱ったりと、さまざまな応用ができそうです。
+中身は普通のLinuxなので、日本語入力に対応させることもそこまで難しくはなさそうです。</description>
+    </item>
     
     <item>
       <title>キー入力を乗っ取って電卓液晶を制御する技</title>
@@ -118,18 +129,6 @@ Raspberry Pi PicoなどのRP2040搭載ボードをターゲットとしたゲー
 積層式の3Dプリンタの最上面の造形品質を上げるための手法として「アイロンがけ」（ironing)があります。 これは熱した3Dプリンタのノズルを使って、3Dプリント成果物の最上面を「均す」というテクニックです。
 この記事では、この「アイロンがけ」の手法を使って模様を描画する方法を紹介しています。
 下手に真っ平を目指すより、このように模様にしたほうが、アラが目立ちにくいという効果もありそうです。
- </description>
-    </item>
-    
-    <item>
-      <title>3Dプリントのトップ面を滑らかにするアイロンがけ以外の方法</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E3%83%88%E3%83%83%E3%83%97%E9%9D%A2%E3%82%92%E6%BB%91%E3%82%89%E3%81%8B%E3%81%AB%E3%81%99%E3%82%8B%E3%82%A2%E3%82%A4%E3%83%AD%E3%83%B3%E3%81%8C%E3%81%91%E4%BB%A5%E5%A4%96%E3%81%AE%E6%96%B9%E6%B3%95/</link>
-      <pubDate>Wed, 18 Mar 2026 22:57:37 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E3%83%88%E3%83%83%E3%83%97%E9%9D%A2%E3%82%92%E6%BB%91%E3%82%89%E3%81%8B%E3%81%AB%E3%81%99%E3%82%8B%E3%82%A2%E3%82%A4%E3%83%AD%E3%83%B3%E3%81%8C%E3%81%91%E4%BB%A5%E5%A4%96%E3%81%AE%E6%96%B9%E6%B3%95/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリントのトップ面を滑らかにするアイロンがけ以外の方法.jpg"&gt;Stop Ironing 3D Printsから発見。画像もここから転載。
-積層式の3Dプリンタの最上面の造形品質を上げるための手法として「アイロンがけ」（ironing)があります。 これは熱した3Dプリンタのノズルを使って、3Dプリント成果物の最上面を「均す」というテクニックです。
-しかし、こんな強引な方法をせずとも、吐出量や印刷速度を工夫すればアイロンがけと同等かそれ以上の効果が得られるようです。
  </description>
     </item>
     

@@ -5,9 +5,20 @@
     <description>Recent content in 電子ペーパー on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 04 Mar 2026 21:27:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 23:02:20 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>シンプルな電子ペーパー搭載の文字入力専用機</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E6%90%AD%E8%BC%89%E3%81%AE%E6%96%87%E5%AD%97%E5%85%A5%E5%8A%9B%E5%B0%82%E7%94%A8%E6%A9%9F/</link>
+      <pubDate>Thu, 02 Apr 2026 23:02:20 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E6%90%AD%E8%BC%89%E3%81%AE%E6%96%87%E5%AD%97%E5%85%A5%E5%8A%9B%E5%B0%82%E7%94%A8%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/シンプルな電子ペーパー搭載の文字入力専用機.jpg"&gt;etyperから発見。画像もここから転載。
+シンプルな電子ペーパー搭載の文字入力専用機の作例です。 Orange Pi Zero 2Wと4.2インチ電子ペーパーを単に組み合わせただけのシンプルな構成です。 シンプルゆえに、これに筐体をつけてキーボードを内蔵したり、小さなタブレット端末のように扱ったりと、さまざまな応用ができそうです。
+中身は普通のLinuxなので、日本語入力に対応させることもそこまで難しくはなさそうです。</description>
+    </item>
     
     <item>
       <title>5日間の天気が確認できる電子ペーパー搭載ガジェット</title>
@@ -117,17 +128,6 @@ M5Paperを使った電子書籍ビューアの作例です。 もともとM5Pape
 今週末のの #DGで遊ぼ にも持っていきます
 後、短編とイラストを整理して追加して整えたらデータを公開してみたい#めかとろろ #M5PaperManga pic.twitter.com/h8TlULcxcO
 &amp;mdash; パスコンパス (@pscmps) February 6, 2024  </description>
-    </item>
-    
-    <item>
-      <title>自分で作る電子ペーパー</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E5%88%86%E3%81%A7%E4%BD%9C%E3%82%8B%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC/</link>
-      <pubDate>Sun, 04 Feb 2024 23:05:07 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E8%87%AA%E5%88%86%E3%81%A7%E4%BD%9C%E3%82%8B%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/自分で作る電子ペーパー.jpg"&gt;Solid State Tank - Eink wrist watchから発見。画像もここから転載。
-自分で作る電子ペーパーの作例です。 え、電子ペーパーって自分で作れるの、と思いましたが、自作しているのは電極部分で、それ以外の部分は既存の製品を分解して取り出したもののようです。
-それにしても、自分の好きな形のセグメントの電子ペーパーを作るというのは面白い試みです。 （ただし記事の情報量が少ないので、真似して作るのは少し難しそうです）</description>
     </item>
     
   </channel>
