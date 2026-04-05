@@ -5,9 +5,20 @@
     <description>Recent content in 表示器 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 27 Feb 2025 20:13:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 23:51:23 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E8%A1%A8%E7%A4%BA%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>かっこいいLED付きボタンによるライフゲーム機</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84led%E4%BB%98%E3%81%8D%E3%83%9C%E3%82%BF%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Sun, 05 Apr 2026 23:51:23 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84led%E4%BB%98%E3%81%8D%E3%83%9C%E3%82%BF%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/かっこいいLED付きボタンによるライフゲーム機.jpg"&gt;Conway’s Game Of Life With Physical Buttonsから発見。画像もここから転載。
+かっこいいLED付きボタンによるライフゲーム機の作例です。
+構想を練って、大体の価格を決めた後に、それを10倍して、あえて豪華な構成で作るという面白いアプローチで設計されています。 かっこいいLIED付きのスイッチは並べるだけで壮観ですね</description>
+    </item>
     
     <item>
       <title>64種の文字を表示できるフラップディスプレイ</title>
