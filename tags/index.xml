@@ -5,9 +5,27 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 05 Apr 2026 23:51:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 22:54:51 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CYD</title>
+      <link>https://inajob.github.io/iroiro-review/tags/cyd/</link>
+      <pubDate>Mon, 06 Apr 2026 22:54:51 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/cyd/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>ESP32</title>
+      <link>https://inajob.github.io/iroiro-review/tags/esp32/</link>
+      <pubDate>Mon, 06 Apr 2026 22:54:51 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/esp32/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>表示器</title>
@@ -78,24 +96,6 @@
       <pubDate>Wed, 25 Mar 2026 23:47:35 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico-2-w/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>Arduino</title>
-      <link>https://inajob.github.io/iroiro-review/tags/arduino/</link>
-      <pubDate>Tue, 24 Mar 2026 23:32:02 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/arduino/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>Picopad</title>
-      <link>https://inajob.github.io/iroiro-review/tags/picopad/</link>
-      <pubDate>Mon, 23 Mar 2026 23:22:39 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/picopad/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
