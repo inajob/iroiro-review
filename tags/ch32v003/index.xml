@@ -5,9 +5,24 @@
     <description>Recent content in CH32V003 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 16 Feb 2026 21:32:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 22:00:31 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/ch32v003/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>UIAPduinoをコアとした携帯ゲーム機</title>
+      <link>https://inajob.github.io/iroiro-review/post/uiapduino%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Thu, 09 Apr 2026 22:00:31 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/uiapduino%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/UIAPduinoをコアとした携帯ゲーム機.jpg"&gt;gangi-manさんのPostから発見。画像もここから転載。
+UIAPduinoというCH32V003をコアとした開発ボードを使ったフリスクケースサイズの携帯ゲーム機の作例です。
+CH32V003のROMが少ないため、既存のArduino用のOLEDのライブラリを使わず、I2Cで直接制御するコードを書いているようです。
+自分で携帯ゲーム機が作れるというのは、ゲームボーイ世代の人にとっては特別ワクワクする体験なのではないでしょうか？ 部品も簡単に入手できるものばかりなので、電子工作の1つの目標として掲げてみるのも良いのではないでしょうか？
+290円のマイコン UIAPduinoを使ってゲームを作ってみました。
+フラッシュメモリが16kBしかないのでなかなか苦しい#UIAPduino #DIY #Arduino #ch32v003 pic.twitter.com/s7wxYhaxk2
+&amp;mdash; gangi-man (@gangi_man) March 31, 2026   </description>
+    </item>
     
     <item>
       <title>CH32V003をコアとしたカラー液晶の携帯ゲーム機</title>
@@ -113,17 +128,6 @@ CH32V003をコアとしたシンプルなパソコンです。 画面出力、PS
 数十円で買えるCH32V003でLinuxを動かすという事例です。 CH32V003で直接動かすのではなく、RISC-VのエミュレータをCH32V003上で動かし、その腕Linuxを実行するという仕組みのようです。
 CH32V003はRISC-VのICではありますが、RAMが小さすぎるため、エミュレータを使い外部RAMを利用するというアイデアのようです。
 なお起動には5分くらいかかるらしい</description>
-    </item>
-    
-    <item>
-      <title>8x8のフルカラーLEDによるドット絵表示装置</title>
-      <link>https://inajob.github.io/iroiro-review/post/8x8%E3%81%AE%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCled%E3%81%AB%E3%82%88%E3%82%8B%E3%83%89%E3%83%83%E3%83%88%E7%B5%B5%E8%A1%A8%E7%A4%BA%E8%A3%85%E7%BD%AE/</link>
-      <pubDate>Wed, 17 Jan 2024 23:42:28 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/8x8%E3%81%AE%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCled%E3%81%AB%E3%82%88%E3%82%8B%E3%83%89%E3%83%83%E3%83%88%E7%B5%B5%E8%A1%A8%E7%A4%BA%E8%A3%85%E7%BD%AE/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/8x8のフルカラーLEDによるドット絵表示装置.jpg"&gt;An Animated LED Fireplace Powered By The CH32V003から発見。画像もここから転載。
-8x8のフルカラーLEDによるドット絵表示装置です。 コアとなるマイコンはCH32V003で安く仕上げています。
-ライブラリとしてch32v003funを利用しており、静電容量タッチの制御の方法など、色々と参考になりそうです。</description>
     </item>
     
   </channel>

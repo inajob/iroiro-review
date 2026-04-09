@@ -1,0 +1,29 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UIAPduino on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/uiapduino/</link>
+    <description>Recent content in UIAPduino on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Thu, 09 Apr 2026 22:00:31 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/uiapduino/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>UIAPduinoをコアとした携帯ゲーム機</title>
+      <link>https://inajob.github.io/iroiro-review/post/uiapduino%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Thu, 09 Apr 2026 22:00:31 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/uiapduino%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/UIAPduinoをコアとした携帯ゲーム機.jpg"&gt;gangi-manさんのPostから発見。画像もここから転載。
+UIAPduinoというCH32V003をコアとした開発ボードを使ったフリスクケースサイズの携帯ゲーム機の作例です。
+CH32V003のROMが少ないため、既存のArduino用のOLEDのライブラリを使わず、I2Cで直接制御するコードを書いているようです。
+自分で携帯ゲーム機が作れるというのは、ゲームボーイ世代の人にとっては特別ワクワクする体験なのではないでしょうか？ 部品も簡単に入手できるものばかりなので、電子工作の1つの目標として掲げてみるのも良いのではないでしょうか？
+290円のマイコン UIAPduinoを使ってゲームを作ってみました。
+フラッシュメモリが16kBしかないのでなかなか苦しい#UIAPduino #DIY #Arduino #ch32v003 pic.twitter.com/s7wxYhaxk2
+&amp;mdash; gangi-man (@gangi_man) March 31, 2026   </description>
+    </item>
+    
+  </channel>
+</rss>
+

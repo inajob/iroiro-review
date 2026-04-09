@@ -5,9 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 08 Apr 2026 23:08:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 22:00:31 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>UIAPduinoをコアとした携帯ゲーム機</title>
+      <link>https://inajob.github.io/iroiro-review/post/uiapduino%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Thu, 09 Apr 2026 22:00:31 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/uiapduino%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/UIAPduinoをコアとした携帯ゲーム機.jpg"&gt;gangi-manさんのPostから発見。画像もここから転載。
+UIAPduinoというCH32V003をコアとした開発ボードを使ったフリスクケースサイズの携帯ゲーム機の作例です。
+CH32V003のROMが少ないため、既存のArduino用のOLEDのライブラリを使わず、I2Cで直接制御するコードを書いているようです。
+自分で携帯ゲーム機が作れるというのは、ゲームボーイ世代の人にとっては特別ワクワクする体験なのではないでしょうか？ 部品も簡単に入手できるものばかりなので、電子工作の1つの目標として掲げてみるのも良いのではないでしょうか？
+290円のマイコン UIAPduinoを使ってゲームを作ってみました。
+フラッシュメモリが16kBしかないのでなかなか苦しい#UIAPduino #DIY #Arduino #ch32v003 pic.twitter.com/s7wxYhaxk2
+&amp;mdash; gangi-man (@gangi_man) March 31, 2026   </description>
+    </item>
     
     <item>
       <title>ESP32をコアとしたMIDI信号で動作するサンプラー</title>
@@ -113,17 +128,6 @@ ESP32-P4は、まだあまり見かけませんが、安価でパワフルなプ
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタでファスナーの金具を自作する.jpg"&gt;This Printed Zipper Repair Requires No Unsewingから発見。画像もここから転載。
 ファスナーの金具を3Dプリンタで自作しています。 部品が分割されており、壊れたファスナーを取り換えるなどの際にも簡単に取り付けられます。
 強度などが気になりますが、ファッションとしてもカラフルで面白いです。</description>
-    </item>
-    
-    <item>
-      <title>デジタルお守り「サイバータリスマン」</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%81%8A%E5%AE%88%E3%82%8A%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BF%E3%83%AA%E3%82%B9%E3%83%9E%E3%83%B3/</link>
-      <pubDate>Thu, 26 Mar 2026 22:35:50 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%81%8A%E5%AE%88%E3%82%8A%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BF%E3%83%AA%E3%82%B9%E3%83%9E%E3%83%B3/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/デジタルお守り「サイバータリスマン」.jpg"&gt;DSTIKE Cyber-Talisman by Travis Lin on Tindieから発見。画像もここから転載。
-車はどんどんハイテクに進化していますが、「お守り」はどうでしょう？
-この記事で紹介しているのはそんなハイテクな車にピッタリなデジタルお守り「サイバータリスマン」の作例です。 詳しい構造は書かれていませんが、マイコンと1.3インチの液晶の組み合わせで、様々な模様を表示することが出来るガジェットのようです。</description>
     </item>
     
   </channel>
