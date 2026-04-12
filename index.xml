@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 09 Apr 2026 22:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 23:41:04 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ねじなしボールねじという面白い直動機構</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%AD%E3%81%98%E3%81%AA%E3%81%97%E3%83%9C%E3%83%BC%E3%83%AB%E3%81%AD%E3%81%98%E3%81%A8%E3%81%84%E3%81%86%E9%9D%A2%E7%99%BD%E3%81%84%E7%9B%B4%E5%8B%95%E6%A9%9F%E6%A7%8B/</link>
+      <pubDate>Sun, 12 Apr 2026 23:41:04 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%AD%E3%81%98%E3%81%AA%E3%81%97%E3%83%9C%E3%83%BC%E3%83%AB%E3%81%AD%E3%81%98%E3%81%A8%E3%81%84%E3%81%86%E9%9D%A2%E7%99%BD%E3%81%84%E7%9B%B4%E5%8B%95%E6%A9%9F%E6%A7%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ねじなしボールねじという面白い直動機構.jpg"&gt;The Threadless Ball Screw Never Took Off, But Don’t Write It Offから発見。画像もここから転載。
+3DプリンタのZ軸によく使われているのは「ねじ付きロッド（リードスクリュー）」ですが、どうやらこの部品は昔は入手が難しかったようです。 そんな時に考えられたのが「ねじなしボールねじ」という機構のようです。
+ネジのないロッドにベアリングを3つ、斜めに取り付けることで、回転運動を直線運動に変換することが出来るようです。 しかし、この仕組みは「ずれ」が大きく、結局3Dプリンタ向けの用途ではあまり使われていないとの事です。
+こういったアイアイデアはふとした時になにか役立つ気がするので、覚えておきたいと思いました。
+ </description>
+    </item>
     
     <item>
       <title>UIAPduinoをコアとした携帯ゲーム機</title>
@@ -117,17 +130,6 @@ ESP32-P4は、まだあまり見かけませんが、安価でパワフルなプ
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタでマイクロスイッチを自作.jpg"&gt;Opensource 3D Printed Electronic Componentsから発見。画像もここから転載。
 3Dプリンタの部品のなるべく多くを3Dプリンタで作る試みです。
 写真に写っているのは3Dプリンタのリミットスイッチとして用いられるマイクロスイッチです。 たしかにこのくらいであれば3Dプリンタで作ることができそうです。 どこまでを3Dプリント製にするのか、品質はどの程度を目指すかなど、いろいろ考えることがあって面白そうな取り組みです。</description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタでファスナーの金具を自作する</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%95%E3%82%A1%E3%82%B9%E3%83%8A%E3%83%BC%E3%81%AE%E9%87%91%E5%85%B7%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%99%E3%82%8B/</link>
-      <pubDate>Sun, 29 Mar 2026 22:22:09 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%95%E3%82%A1%E3%82%B9%E3%83%8A%E3%83%BC%E3%81%AE%E9%87%91%E5%85%B7%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタでファスナーの金具を自作する.jpg"&gt;This Printed Zipper Repair Requires No Unsewingから発見。画像もここから転載。
-ファスナーの金具を3Dプリンタで自作しています。 部品が分割されており、壊れたファスナーを取り換えるなどの際にも簡単に取り付けられます。
-強度などが気になりますが、ファッションとしてもカラフルで面白いです。</description>
     </item>
     
   </channel>
