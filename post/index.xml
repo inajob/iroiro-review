@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 13 Apr 2026 22:35:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 23:22:44 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>8051用のArduinoコア</title>
+      <link>https://inajob.github.io/iroiro-review/post/8051%E7%94%A8%E3%81%AEarduino%E3%82%B3%E3%82%A2/</link>
+      <pubDate>Tue, 14 Apr 2026 23:22:44 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/8051%E7%94%A8%E3%81%AEarduino%E3%82%B3%E3%82%A2/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/8051用のArduinoコア.jpg"&gt;Arduino Code? On My 8051? It’s More Likely Than You Thinkから発見。画像もここから転載。
+8051用のためのArduinoコアの実装です。 といっても、8051用のコードを直接実装するのではなく、8051用のRISC-Vエミュレータを実装し、そのうえでRISC-V用のArduinoコアを実行しています。
+当然実行速度は遅くなりますが、どうしても8051でArduino風の開発が行いたい場合には役立つかもしれません。</description>
+    </item>
     
     <item>
       <title>ニューラルネットによる簡単な音声認識を搭載した名刺基板</title>
@@ -119,17 +130,6 @@ MIDIコマンドでサウンドをトリガーして演奏できる 簡易的な
 シリアルで数字を送れるが、表示は1文字40msとあまり速くない #電子工作 pic.twitter.com/HgxsqbN892
 &amp;mdash; いわんご (@iwango_system) March 25, 2026  一見ただ信号を入力してるだけだが、実はマイコンと電卓は電源線を共有せず、Lowとハイインピーダンスを同時に繰り返す2つのポートだけを接続している。このことで、マイコン側のGND経由で双方向のアナログスイッチが構成されていると思われる。 https://t.co/dOx03ttmkT pic.twitter.com/pJcBnRgMuz
 &amp;mdash; いわんご (@iwango_system) March 23, 2026  </description>
-    </item>
-    
-    <item>
-      <title>ESP32-P4は同じ型番で仕様の異なるものが混じっている</title>
-      <link>https://inajob.github.io/iroiro-review/post/esp32-p4%E3%81%AF%E5%90%8C%E3%81%98%E5%9E%8B%E7%95%AA%E3%81%A7%E4%BB%95%E6%A7%98%E3%81%AE%E7%95%B0%E3%81%AA%E3%82%8B%E3%82%82%E3%81%AE%E3%81%8C%E6%B7%B7%E3%81%98%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B/</link>
-      <pubDate>Wed, 01 Apr 2026 00:27:41 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/esp32-p4%E3%81%AF%E5%90%8C%E3%81%98%E5%9E%8B%E7%95%AA%E3%81%A7%E4%BB%95%E6%A7%98%E3%81%AE%E7%95%B0%E3%81%AA%E3%82%8B%E3%82%82%E3%81%AE%E3%81%8C%E6%B7%B7%E3%81%98%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32-P4は同じ型番で仕様の異なるものが混じっている.jpg"&gt;ESP32: When Is A P4 A P4, But Not The P4 You Thought It Wasから発見。画像もここから転載。
-ESP32-P4は、まだあまり見かけませんが、安価でパワフルなプロセッサです。 しかし、このESP32-P4、同じ型番で仕様の異なるものが混じっているようなのです・・
-ちょっとした違いならまだ良いのですが、電源ピンに関係する変更が入っているようで 配線に変更が必要のようです。 ESP32-P4を単体で利用することは稀でしょうが、怪しい開発ボードなんかはこういう問題を踏んでいるかもしれません・・</description>
     </item>
     
   </channel>
