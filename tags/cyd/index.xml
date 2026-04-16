@@ -5,9 +5,20 @@
     <description>Recent content in CYD on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 06 Apr 2026 22:54:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 22:31:10 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/cyd/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>安価なESP32ボード使ったMacintoshエミュレータ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E4%BE%A1%E3%81%AAesp32%E3%83%9C%E3%83%BC%E3%83%89%E4%BD%BF%E3%81%A3%E3%81%9Fmacintosh%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF/</link>
+      <pubDate>Thu, 16 Apr 2026 22:31:10 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E4%BE%A1%E3%81%AAesp32%E3%83%9C%E3%83%BC%E3%83%89%E4%BD%BF%E3%81%A3%E3%81%9Fmacintosh%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/安価なESP32ボード使ったMacintoshエミュレータ.jpg"&gt;Cydintoshから発見。画像もここから転載。
+安価なESP32ボード（Cheap Yello Display）使ったMacintoshエミュレータの作例です。 縦長のディスプレイにMachintoshの画面が表示されているのがとても新鮮です。
+Machintoshのデザインを踏襲した 3Dプリンタ製のケースも魅力的です。</description>
+    </item>
     
     <item>
       <title>サイバー感あふれる電気クラゲ表示機</title>
