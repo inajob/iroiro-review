@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 16 Apr 2026 22:31:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 23:08:52 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>フィラメントLEDを曲げることでアニメーションを実現</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88led%E3%82%92%E6%9B%B2%E3%81%92%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E5%AE%9F%E7%8F%BE/</link>
+      <pubDate>Sun, 19 Apr 2026 23:08:52 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88led%E3%82%92%E6%9B%B2%E3%81%92%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E5%AE%9F%E7%8F%BE/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/フィラメントLEDを曲げることでアニメーションを実現.jpg"&gt;Bending Faux-Neon LEDs Make For Animations Glass Tubes Can’t Matchから発見。画像もここから転載。
+ふにゃふにゃ曲げることが出来るフィラメントLEDを使って、ネオンサインのような表示機を作ることが出来ますが、この作例では、これをさらに応用して一風変わったアニメーションを実現しています。
+ガラス管であるネオン管では実現できなかった変わった見た目が印象的です。
+新しい部品により、新しい表現が生まれるのは面白いですね。</description>
+    </item>
     
     <item>
       <title>安価なESP32ボード使ったMacintoshエミュレータ</title>
@@ -123,17 +135,6 @@ MIDIコマンドでサウンドをトリガーして演奏できる 簡易的な
 サイバー感あふれる電気クラゲ表示機の作例です。 ワイヤーフレームで描かれたクラゲがアニメーションをするという、ただそれだけのガジェットです。
 めちゃめちゃかっこいいガジェットですが、メインのパーツは激安のESP32ボードです（いわゆるCheap Yellow Displayというやつ）
 ソフトウェアの作りこみ次第でこんなにかっこいい作品に仕上げられるという良い例です。</description>
-    </item>
-    
-    <item>
-      <title>かっこいいLED付きボタンによるライフゲーム機</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84led%E4%BB%98%E3%81%8D%E3%83%9C%E3%82%BF%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
-      <pubDate>Sun, 05 Apr 2026 23:51:23 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84led%E4%BB%98%E3%81%8D%E3%83%9C%E3%82%BF%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/かっこいいLED付きボタンによるライフゲーム機.jpg"&gt;Conway’s Game Of Life With Physical Buttonsから発見。画像もここから転載。
-かっこいいLED付きボタンによるライフゲーム機の作例です。
-構想を練って、大体の価格を決めた後に、それを10倍して、あえて豪華な構成で作るという面白いアプローチで設計されています。 かっこいいLIED付きのスイッチは並べるだけで壮観ですね</description>
     </item>
     
   </channel>
