@@ -5,9 +5,21 @@
     <description>Recent content in Cyberdeck on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 07 Sep 2025 21:23:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 00:11:45 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/cyberdeck/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raspberry Pi Zero 2Wを搭載した文章入力専用端末</title>
+      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-zero-2w%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E6%96%87%E7%AB%A0%E5%85%A5%E5%8A%9B%E5%B0%82%E7%94%A8%E7%AB%AF%E6%9C%AB/</link>
+      <pubDate>Tue, 21 Apr 2026 00:11:45 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-zero-2w%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E6%96%87%E7%AB%A0%E5%85%A5%E5%8A%9B%E5%B0%82%E7%94%A8%E7%AB%AF%E6%9C%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi Zero 2Wを搭載した文章入力専用端末.jpg"&gt;We’re All Abuzz About The Bee Write Back Writerdeckから発見。画像もここから転載。
+スタイリッシュな文章入力専用端末の作例です。 コアはRaspberry Pi Zero 2Wで、5.5インチのディスプレイ、コンパクトなキーボードと携帯して文章を打ち込むには十分な構成となっています。
+こういうケースを作ろうとすると、小型の3Dプリンタだと絶妙に横幅が足らないのが、自作を難しくしている要因だと思ったりします。（大きめの3Dプリンタがほしいなぁ・・）
+ </description>
+    </item>
     
     <item>
       <title>テキストをため込んでパソコンに一気に入力できる端末</title>
@@ -114,18 +126,6 @@ ESP32シリーズの中でも特に高性能を謳ったESP32-P4をコアとし�
 Raspberry Pi Picoで作られたシリアルターミナルと、NanoPiによるハンドヘルド端末の作例です。
 テキストベースの画面周りの処理はRaspbrry Pi Picoが担当し、NanoPiがLinuxボードとして動作するという構成です。 Raspberry Pi Picoはほかにもキーボードの読み取りも担当しています。
 Raspberry Pi Picoの部分だけ残して、NnaoPi部分をほかのボードに代えることもできるので、あらゆるシリアル入出力できる機器をモバイル化できるという点でも面白い作例です。</description>
-    </item>
-    
-    <item>
-      <title>Raspberry Pi Zeroを使ったハンドヘルドPCプロジェクト</title>
-      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-zero%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%8F%E3%83%B3%E3%83%89%E3%83%98%E3%83%AB%E3%83%89pc%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88/</link>
-      <pubDate>Mon, 02 Sep 2024 23:55:59 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-zero%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%8F%E3%83%B3%E3%83%89%E3%83%98%E3%83%AB%E3%83%89pc%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi Zeroを使ったハンドヘルドPCプロジェクト.jpg"&gt;Pocket Z : Bring back the PDAs &amp;amp; UMPCsから発見。画像もここから転載。
-Raspberry Pi Zeroを使ったハンドヘルドPCの作例です。
-まだ進行中のプロジェクトのようですが、Raspberry Pi Zeroをマウントできるキーボード付きメインボードのプロトタイプが紹介されています。 とても順当なRpberry Pi Zeroを活用したポータブルPCですが、意外と今まで見かけなかったように思います。
- </description>
     </item>
     
   </channel>

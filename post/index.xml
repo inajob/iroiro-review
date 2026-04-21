@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 19 Apr 2026 23:08:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 00:11:45 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raspberry Pi Zero 2Wを搭載した文章入力専用端末</title>
+      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-zero-2w%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E6%96%87%E7%AB%A0%E5%85%A5%E5%8A%9B%E5%B0%82%E7%94%A8%E7%AB%AF%E6%9C%AB/</link>
+      <pubDate>Tue, 21 Apr 2026 00:11:45 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-zero-2w%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E6%96%87%E7%AB%A0%E5%85%A5%E5%8A%9B%E5%B0%82%E7%94%A8%E7%AB%AF%E6%9C%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi Zero 2Wを搭載した文章入力専用端末.jpg"&gt;We’re All Abuzz About The Bee Write Back Writerdeckから発見。画像もここから転載。
+スタイリッシュな文章入力専用端末の作例です。 コアはRaspberry Pi Zero 2Wで、5.5インチのディスプレイ、コンパクトなキーボードと携帯して文章を打ち込むには十分な構成となっています。
+こういうケースを作ろうとすると、小型の3Dプリンタだと絶妙に横幅が足らないのが、自作を難しくしている要因だと思ったりします。（大きめの3Dプリンタがほしいなぁ・・）
+ </description>
+    </item>
     
     <item>
       <title>フィラメントLEDを曲げることでアニメーションを実現</title>
@@ -123,18 +135,6 @@ MIDIコマンドでサウンドをトリガーして演奏できる 簡易的な
 コアは555となっており、非常に単純な部品の組み合わせで構成されています。 フォトレジスタにより指を認識し、微妙な音程の変化を生み出すことができます。
 電子タバコの筐体の中に気圧センサーが入っているのは知らなかったです。
  </description>
-    </item>
-    
-    <item>
-      <title>サイバー感あふれる電気クラゲ表示機</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%84%9F%E3%81%82%E3%81%B5%E3%82%8C%E3%82%8B%E9%9B%BB%E6%B0%97%E3%82%AF%E3%83%A9%E3%82%B2%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
-      <pubDate>Mon, 06 Apr 2026 22:54:51 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%84%9F%E3%81%82%E3%81%B5%E3%82%8C%E3%82%8B%E9%9B%BB%E6%B0%97%E3%82%AF%E3%83%A9%E3%82%B2%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/サイバー感あふれる電気クラゲ表示機.jpg"&gt;An Electric Jellyfish For Androidsから発見。画像もここから転載。
-サイバー感あふれる電気クラゲ表示機の作例です。 ワイヤーフレームで描かれたクラゲがアニメーションをするという、ただそれだけのガジェットです。
-めちゃめちゃかっこいいガジェットですが、メインのパーツは激安のESP32ボードです（いわゆるCheap Yellow Displayというやつ）
-ソフトウェアの作りこみ次第でこんなにかっこいい作品に仕上げられるという良い例です。</description>
     </item>
     
   </channel>
