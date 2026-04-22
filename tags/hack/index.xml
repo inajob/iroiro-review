@@ -5,9 +5,23 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 01 Apr 2026 22:37:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 21:49:46 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタでポケットホール</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Wed, 22 Apr 2026 21:49:46 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタでポケットホール.jpg"&gt;CMA- さんのPostから発見。画像もここから転載。
+ネジを斜めに刺して、ねじの頭が隠れるまで深く刺さるようなねじの穴を「ポケットホール」というようです。
+このPostでは3Dプリンタでポケットホールの形状を造形し、複数の部品を結合するのに活用する方法を紹介しています。
+3Dプリンタは最大造形サイズが決まっているので、このように複数の部品を組み合わせて1つの構造を作ることも多く、このようなでっぱり部分の飛び出さない結合方法は使い勝手がよさそうです。 またこの方式を実現するためには、側面に斜めに穴をあけるだけというのもモデリングが簡単で良さそうだと感じました。
+この締結方法自分で考えたけど、３Ｄプリンタらしくて気に入ってる pic.twitter.com/yDOY6yHsku
+&amp;mdash; CMA- (@coredmotor) April 2, 2026  </description>
+    </item>
     
     <item>
       <title>キー入力を乗っ取って電卓液晶を制御する技</title>
@@ -130,23 +144,6 @@ Arduinoを用いた開発ではマイコンにプログラムを書き込むこ�
 この記事では、あらかじめ作っておいた部品を3Dプリントの途中ではめ込むことで、1種類のフィラメントしか扱えない3Dプリンタでもマルチマテリアルの造形を実現する手法です。
 マルチマテリアル対応3Dプリンタでも、マテリアルを切り替える際に時間がかかる問題などもありますが、この手法ではそのような問題もありません。
  </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタ成果物をヒートガンで熱して二次加工する</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E6%88%90%E6%9E%9C%E7%89%A9%E3%82%92%E3%83%92%E3%83%BC%E3%83%88%E3%82%AC%E3%83%B3%E3%81%A7%E7%86%B1%E3%81%97%E3%81%A6%E4%BA%8C%E6%AC%A1%E5%8A%A0%E5%B7%A5%E3%81%99%E3%82%8B/</link>
-      <pubDate>Wed, 21 Jan 2026 23:36:31 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E6%88%90%E6%9E%9C%E7%89%A9%E3%82%92%E3%83%92%E3%83%BC%E3%83%88%E3%82%AC%E3%83%B3%E3%81%A7%E7%86%B1%E3%81%97%E3%81%A6%E4%BA%8C%E6%AC%A1%E5%8A%A0%E5%B7%A5%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ成果物をヒートガンで熱して二次加工する.jpg"&gt;TOMOWORKSさんのPostから発見。画像もここから転載。
-3Dプリンタは比較的好きな形が造形できますが、苦手な形状もあります。
-このPostでは、3Dプリントした平面的な成果物を、ヒートガンで熱したのちに、型を使って二次加工しています。 この型自体も3Dプリンタで作られており、比較的簡単に真似できそうです。
-3Dプリンタだけでは実現が難しい曲面の生成もこの手法で実現できそうです。（一般的な3Dプリンタでも曲面の生成は出来るにはできますが、この手法の方がきれいで丈夫なものができるように思います）
-やばい。想像以上に上手くいった。
-3Dプリンターで出力した板状のパーツをヒートガンで熱してから治具に固定して押し込むことで成型出来るぞ。 pic.twitter.com/hPr6OFvyvc
-&amp;mdash; TOMOWORKS (@tomoworks_ytb) April 17, 2024  ジグも同じ3Dプリンター製です。
-ジグが溶けないようにヒートガンであっためるのがコツです。
-&amp;mdash; TOMOWORKS (@tomoworks_ytb) April 17, 2024  </description>
     </item>
     
   </channel>

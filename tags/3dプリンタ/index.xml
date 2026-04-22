@@ -5,9 +5,23 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 31 Mar 2026 00:01:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 21:49:46 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタでポケットホール</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Wed, 22 Apr 2026 21:49:46 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタでポケットホール.jpg"&gt;CMA- さんのPostから発見。画像もここから転載。
+ネジを斜めに刺して、ねじの頭が隠れるまで深く刺さるようなねじの穴を「ポケットホール」というようです。
+このPostでは3Dプリンタでポケットホールの形状を造形し、複数の部品を結合するのに活用する方法を紹介しています。
+3Dプリンタは最大造形サイズが決まっているので、このように複数の部品を組み合わせて1つの構造を作ることも多く、このようなでっぱり部分の飛び出さない結合方法は使い勝手がよさそうです。 またこの方式を実現するためには、側面に斜めに穴をあけるだけというのもモデリングが簡単で良さそうだと感じました。
+この締結方法自分で考えたけど、３Ｄプリンタらしくて気に入ってる pic.twitter.com/yDOY6yHsku
+&amp;mdash; CMA- (@coredmotor) April 2, 2026  </description>
+    </item>
     
     <item>
       <title>3Dプリンタでマイクロスイッチを自作</title>
@@ -121,22 +135,6 @@
 8つのサーボモーターと、128*64のディスプレイで顔を表示するというシンプルな構成ですが、生き物のような動きが魅力的です。 オーブンソースで公開されており、だいたい$60程度で作成できるとの事です。
 ポーズを登録するためのGUIツールなども用意されており、ロボット製作の入門として良さそうです。
  </description>
-    </item>
-    
-    <item>
-      <title>食券機を自作する</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E9%A3%9F%E5%88%B8%E6%A9%9F%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%99%E3%82%8B/</link>
-      <pubDate>Wed, 04 Feb 2026 22:10:11 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E9%A3%9F%E5%88%B8%E6%A9%9F%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/食券機を自作する.jpg"&gt;らいど🦀さんのPostから発見。画像もここから転載。
-外見がかなりそれっぽい、自作の食券機です。 中身を見るとコイン識別の仕組みなども実装されており、大変な力作です。
-3Dプリンタと100均の箱を併用するなど、既存のものは流用しつつ、ここぞという個所に3Dプリンタを使うというところにセンスを感じます。
-旦那リクエストの朝食用食券機できた☀
-外装は百均の箱を使ってるので、柔らかくて凹んじゃうけども pic.twitter.com/iG32VfwkSb
-&amp;mdash; らいど🦀 (@ridride1) January 23, 2026  ガムテープ固定してて恥ずかしいけど、中身はこんな感じ
-コインは転がしてフォトリフレクタで判別してます、紙幣は1000円札専用、食券はサーボで箱から落としています pic.twitter.com/FPScZYvQYB
-&amp;mdash; らいど🦀 (@ridride1) January 24, 2026  </description>
     </item>
     
   </channel>
