@@ -5,9 +5,22 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 22 Apr 2026 21:49:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 22:32:31 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリント成果物の中に部品を埋め込む際の工夫</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E6%88%90%E6%9E%9C%E7%89%A9%E3%81%AE%E4%B8%AD%E3%81%AB%E9%83%A8%E5%93%81%E3%82%92%E5%9F%8B%E3%82%81%E8%BE%BC%E3%82%80%E9%9A%9B%E3%81%AE%E5%B7%A5%E5%A4%AB/</link>
+      <pubDate>Mon, 11 May 2026 22:32:31 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E6%88%90%E6%9E%9C%E7%89%A9%E3%81%AE%E4%B8%AD%E3%81%AB%E9%83%A8%E5%93%81%E3%82%92%E5%9F%8B%E3%82%81%E8%BE%BC%E3%82%80%E9%9A%9B%E3%81%AE%E5%B7%A5%E5%A4%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリント成果物の中に部品を埋め込む際の工夫.jpg"&gt;Use A Gap-Cap To Embed Hardware In Your Next 3D Printから発見。画像もここから転載。
+3Dプリントを造形の途中で停止し、中に何かを入れたのちに、造形を再開することで、成果物の中に部品を埋め込むという技法があります。
+この記事ではその技法を行う際に「Gap-Cap」と呼ばれる専用の「蓋」の部品を使う方法を紹介しています。
+この例ではストリップLEDを埋め込んでいますが、この部品を入れ込んだ後に、造形を再開したときに、部品の隙間にフィラメントが落ちてしまったり、そもそも部品とフィラメントがうまく接着しないといった問題があります。 Gap-Capはこの問題を解決するためのもので、要は3Dプリンタで作られた部品挿入部分の「蓋」です。
+Gap-Capがあることで、部品挿入後の造形をより確実に行うことが出来ます。 単純なテクニックですが、非常に効果的だと感じました。</description>
+    </item>
     
     <item>
       <title>3Dプリンタでポケットホール</title>
@@ -121,19 +134,6 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリントで一体成型できるサーボ駆動のグリッパー.jpg"&gt;Print-in-Place Gripper Does It With A Single Motorから発見。画像もここから転載。
 3Dプリントで一体成型できるサーボ駆動のグリッパーの作例です。
 サーボモーター1つで4つの指の開閉を実現しており、いろいろなものをつかむことが出来るようです。 4本の指全体を1体成型できるよう設計されているため、気軽に制作できそうです。
- </description>
-    </item>
-    
-    <item>
-      <title>4足歩行のかわいいロボット</title>
-      <link>https://inajob.github.io/iroiro-review/post/4%E8%B6%B3%E6%AD%A9%E8%A1%8C%E3%81%AE%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</link>
-      <pubDate>Mon, 09 Feb 2026 22:24:52 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/4%E8%B6%B3%E6%AD%A9%E8%A1%8C%E3%81%AE%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/4足歩行のかわいいロボット.jpg"&gt;Building A Little Quadruped Robotから発見。画像もここから転載。
-4足歩行のかわいいロボットの作例です。
-8つのサーボモーターと、128*64のディスプレイで顔を表示するというシンプルな構成ですが、生き物のような動きが魅力的です。 オーブンソースで公開されており、だいたい$60程度で作成できるとの事です。
-ポーズを登録するためのGUIツールなども用意されており、ロボット製作の入門として良さそうです。
  </description>
     </item>
     
