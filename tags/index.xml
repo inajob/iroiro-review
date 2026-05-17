@@ -5,9 +5,27 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 11 May 2026 22:32:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 21:20:32 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RP2350</title>
+      <link>https://inajob.github.io/iroiro-review/tags/rp2350/</link>
+      <pubDate>Sun, 17 May 2026 21:20:32 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/rp2350/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>開発ボード</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Sun, 17 May 2026 21:20:32 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>3Dプリンタ</title>
@@ -78,24 +96,6 @@
       <pubDate>Tue, 21 Apr 2026 00:11:45 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/cyberdeck/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>Raspberry Pi Zero 2W</title>
-      <link>https://inajob.github.io/iroiro-review/tags/raspberry-pi-zero-2w/</link>
-      <pubDate>Tue, 21 Apr 2026 00:11:45 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/raspberry-pi-zero-2w/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>フィラメントLED</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88led/</link>
-      <pubDate>Sun, 19 Apr 2026 23:08:52 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88led/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
