@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 17 May 2026 21:20:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 21:46:51 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタで作った対戦型ピンボールマシン</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E5%AF%BE%E6%88%A6%E5%9E%8B%E3%83%94%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%9E%E3%82%B7%E3%83%B3/</link>
+      <pubDate>Mon, 18 May 2026 21:46:51 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E5%AF%BE%E6%88%A6%E5%9E%8B%E3%83%94%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%9E%E3%82%B7%E3%83%B3/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作った対戦型ピンボールマシン.jpg"&gt;Can You 3D Print A Pinball Machine That’s Fun To Play?から発見。画像もここから転載。
+3Dプリンタで作った対戦型ピンボールマシンの作例です。 この作例自体はkickstarterのキャンペーンであり、モデルデータは有料ですが、似たような作例はいくつもあります。
+本物のピンボールマシンと比べるとどうしても迫力に欠けてしまいますが、鉄球× 3Dプリンタ というのはいろいろなおもちゃを作る題材として面白そうです。
+そういえば「バトルドーム 」なんておもちゃもありましたね。（最近復刻したらしいです）
+ </description>
+    </item>
     
     <item>
       <title>RP2354B搭載の開発ボード</title>
@@ -117,25 +130,6 @@ Cheap Yellow Displayとして知られる格安のESP32の開発ボードを使�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/安価なESP32ボード使ったMacintoshエミュレータ.jpg"&gt;Cydintoshから発見。画像もここから転載。
 安価なESP32ボード（Cheap Yello Display）使ったMacintoshエミュレータの作例です。 縦長のディスプレイにMachintoshの画面が表示されているのがとても新鮮です。
 Machintoshのデザインを踏襲した 3Dプリンタ製のケースも魅力的です。</description>
-    </item>
-    
-    <item>
-      <title>UIAPduinoのみで作られた超シンプルなゲーム</title>
-      <link>https://inajob.github.io/iroiro-review/post/uiapduino%E3%81%AE%E3%81%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E8%B6%85%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E3%82%B2%E3%83%BC%E3%83%A0/</link>
-      <pubDate>Wed, 15 Apr 2026 21:36:53 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/uiapduino%E3%81%AE%E3%81%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E8%B6%85%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E3%82%B2%E3%83%BC%E3%83%A0/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/UIAPduinoのみで作られた超シンプルなゲーム.jpg"&gt;FloatPinLaboJPさんのPostから発見。画像もここから転載。
-UIAPduinoのみで作られた超シンプルなゲームの作例です。 追加部品は無しで、マイコンボード上のピンに触れることで操作し、オンボードLEDによりゲームの状態を表示します。
-かなり想像力の必要な「テニスゲーム」ですが、このシンプルさは面白いです。
-#UIAPduino で世界最小構成のゲーム作りました
-なんせ外部部品ゼロ！
-単体で動作！
-テニスゲームです。ボールが近づくとLEDが明るくなります
-うまくタイミング合わせて接点を触ると打ち返します
-失敗するとLEDは消えてしまいます
-接点を素手でさわるので設計思想は酷いw pic.twitter.com/7r0urKEjWH
-&amp;mdash; FloatPinLaboJP (@ponkotsuLabo758) April 3, 2026  </description>
     </item>
     
   </channel>
