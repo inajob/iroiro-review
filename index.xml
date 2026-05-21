@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 20 May 2026 22:50:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 20:28:07 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>チャージ機能を持たず緊急時に利用するためのバッテリー</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B8%E6%A9%9F%E8%83%BD%E3%82%92%E6%8C%81%E3%81%9F%E3%81%9A%E7%B7%8A%E6%80%A5%E6%99%82%E3%81%AB%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC/</link>
+      <pubDate>Thu, 21 May 2026 20:28:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B8%E6%A9%9F%E8%83%BD%E3%82%92%E6%8C%81%E3%81%9F%E3%81%9A%E7%B7%8A%E6%80%A5%E6%99%82%E3%81%AB%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/チャージ機能を持たず緊急時に利用するためのバッテリー.jpg"&gt;Teardown: ChargeTab Emergency Phone Chargerから発見。画像もここから転載。
+チャージ機能を持たず緊急時に利用するためのバッテリーというのが販売されているようです。 これは「いざ」というときのもので、一度利用してしまうと再度充電することは出来ません。（この製品には無料の回収ラベルが添付されており、使い捨てた製品は返送され再利用するという仕組みのようです） この記事では、そのバッテリーを分解してその内部の構造を紹介しています。
+内部にはHT4928Sというモバイルバッテリー用のICが搭載されており、実はこのICにはリチウムイオンバッテリーの充電機能が搭載されているのです。 さらにこの記事ではこの本来「充電できない」バッテリーに特殊なUSBケーブルをつなげることで、このICの機能をうまく使い充電できることを確かめています。
+充電機能あるICを採用しながら、あえて充電できない製品として販売していることも興味深いですし、この昇圧・バッテリー保護機能を内蔵した充放電ICも便利そうです。</description>
+    </item>
     
     <item>
       <title>JLCPCBの部品番号からKiCADのデータを作るWebサービス</title>
@@ -122,18 +134,6 @@ Cheap Yellow Displayとして知られる格安のESP32の開発ボードを使�
 よく聞く7セグメント表示機は、LEDのものが多いですが、ここで紹介するのは、空気圧で生じる凹凸を用いた7セグメント表示機です。
 写真を見たまんまですが、薄い膜を空気圧で膨らませたり、収縮させたりして7セグメント表示を実現しています。
 この構造全体も3Dプリンタで造形したり、3Dプリンタ型でシリコンを成形するなど、3Dプリンタを活用して作られているのも印象的です。
- </description>
-    </item>
-    
-    <item>
-      <title>Raspberry Pi Zero 2Wを搭載した文章入力専用端末</title>
-      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-zero-2w%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E6%96%87%E7%AB%A0%E5%85%A5%E5%8A%9B%E5%B0%82%E7%94%A8%E7%AB%AF%E6%9C%AB/</link>
-      <pubDate>Tue, 21 Apr 2026 00:11:45 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-zero-2w%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E6%96%87%E7%AB%A0%E5%85%A5%E5%8A%9B%E5%B0%82%E7%94%A8%E7%AB%AF%E6%9C%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi Zero 2Wを搭載した文章入力専用端末.jpg"&gt;We’re All Abuzz About The Bee Write Back Writerdeckから発見。画像もここから転載。
-スタイリッシュな文章入力専用端末の作例です。 コアはRaspberry Pi Zero 2Wで、5.5インチのディスプレイ、コンパクトなキーボードと携帯して文章を打ち込むには十分な構成となっています。
-こういうケースを作ろうとすると、小型の3Dプリンタだと絶妙に横幅が足らないのが、自作を難しくしている要因だと思ったりします。（大きめの3Dプリンタがほしいなぁ・・）
  </description>
     </item>
     
