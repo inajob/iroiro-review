@@ -5,9 +5,25 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 19 May 2026 21:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 21:44:20 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタ製のオルゴール</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%AA%E3%83%AB%E3%82%B4%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Thu, 28 May 2026 21:44:20 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%AA%E3%83%AB%E3%82%B4%E3%83%BC%E3%83%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ製のオルゴール.jpg"&gt;もえ屋さんのPostから発見。画像もここから転載。
+3Dプリンタ製のオルゴールの作例です。
+プラスチックをはじいた時に鳴る音を利用しているため、普通の金属製のオルゴールとは全く違う音色ですが、これはこれでおもちゃっぽくていい味を出しています。
+メロディはシートで交換できるようになっているため、簡単にオリジナル曲のオルゴールを作ることが出来て面白そうです。
+Canon in G
+パッフェルベルのカノン弾いてみました。
+ぜひ音ありでどうぞ pic.twitter.com/qxfwS3b4nR
+&amp;mdash; もえ屋 (@moeya_2020) April 4, 2026  </description>
+    </item>
     
     <item>
       <title>90°のオーバーハングを印刷できるようにするスライサー</title>
@@ -126,18 +142,6 @@ Gap-Capがあることで、部品挿入後の造形をより確実に行うこ�
 この例では工具が入っていますが、ちょっとしたカード類や小銭など、日常的に持ち歩きたいものをここに収納できると便利そうです
 ふへへ pic.twitter.com/ynUqDbvG71
 &amp;mdash; K.$uzuki (@BellTreeNursing) January 18, 2026  </description>
-    </item>
-    
-    <item>
-      <title>古いPLAフィラメントを使った場合に起きる問題</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%8F%A4%E3%81%84pla%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%A0%B4%E5%90%88%E3%81%AB%E8%B5%B7%E3%81%8D%E3%82%8B%E5%95%8F%E9%A1%8C/</link>
-      <pubDate>Tue, 24 Feb 2026 00:21:37 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%8F%A4%E3%81%84pla%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%A0%B4%E5%90%88%E3%81%AB%E8%B5%B7%E3%81%8D%E3%82%8B%E5%95%8F%E9%A1%8C/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/古いPLAフィラメントを使った場合に起きる問題.jpg"&gt;Is That Ancient Reel Of PLA Any Good?から発見。画像もここから転載。
-古いPLAフィラメントは3Dプリントの品質に影響を及ぼすという話はよく聞きますが、実際にはどのような影響があるのでしょう？
-この記事では、倉庫に長らく眠っていた10年以上前のフィラメントを使って実験を行っています。 この例ではよく言われている糸引きは発生せず、積層間の接着力が弱いという結果となったようです。
-一見しただけでは品質の良し悪しは分からず、しかし壊れやすいというのは厄介ですね。</description>
     </item>
     
   </channel>
