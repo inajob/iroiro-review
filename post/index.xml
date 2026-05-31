@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 28 May 2026 21:44:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 23:26:59 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>激安ESP32ボードを使ったTracker</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%BF%80%E5%AE%89esp32%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Ftracker/</link>
+      <pubDate>Sun, 31 May 2026 23:26:59 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%BF%80%E5%AE%89esp32%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Ftracker/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/激安ESP32ボードを使ったTracker.jpg"&gt;Win95-Tracker-CYD Is A Cheap Yellow Mod Tracker With I2Sから発見。画像もここから転載。
+激安ESP32ボードであるCheap Yellow Display(CYD)で動作するTrackerの作例です。
+Trackerというのは昔よく使われたMODという形式の音楽ファイルを再生、編集するソフトウェアの総称です。 MOD形式は、MIDIのように音階を記録しつつ、MIDIとは違い音源のデータも格納されているというものです。
+この作例ではこのMOD形式のファイルの中身を表示しながら再生するというもので、編集はできないようですが、少し改造すれば作曲機能も実装できそうに見えます。
+安価なESP32ボード、いろいろな作例があるのでいくつか欲しくなりますね</description>
+    </item>
     
     <item>
       <title>3Dプリンタ製のオルゴール</title>
@@ -125,19 +138,6 @@ JLCPCB(EasyEDA)のパーツからKiCadのパーツを生成するWebUI、ここ�
 https://www.electronics-lab.com/clintech-pico-packs-48-gpios-in-raspberry-pi-rp2354b-board/ Raspberry Pi Picoに採用されているマイコンであるRP2040の後継マイコンの1つであるRP2354Bには、48個のGPIOが搭載されています。
 この開発ボードは、Raspberry Pi Pico 2と同様のフォームファクタでありながら、追加のパッドを用意し、48個のGPIOを比較的簡単に利用できるように設計されています。
 RP2354は2MBのFlash ROMを内蔵しているので、それらが別のチップとなっているRaspberry Pi Pico/Pico2 と比べるとシンプルな開発ボードに見えます。</description>
-    </item>
-    
-    <item>
-      <title>3Dプリント成果物の中に部品を埋め込む際の工夫</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E6%88%90%E6%9E%9C%E7%89%A9%E3%81%AE%E4%B8%AD%E3%81%AB%E9%83%A8%E5%93%81%E3%82%92%E5%9F%8B%E3%82%81%E8%BE%BC%E3%82%80%E9%9A%9B%E3%81%AE%E5%B7%A5%E5%A4%AB/</link>
-      <pubDate>Mon, 11 May 2026 22:32:31 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E6%88%90%E6%9E%9C%E7%89%A9%E3%81%AE%E4%B8%AD%E3%81%AB%E9%83%A8%E5%93%81%E3%82%92%E5%9F%8B%E3%82%81%E8%BE%BC%E3%82%80%E9%9A%9B%E3%81%AE%E5%B7%A5%E5%A4%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリント成果物の中に部品を埋め込む際の工夫.jpg"&gt;Use A Gap-Cap To Embed Hardware In Your Next 3D Printから発見。画像もここから転載。
-3Dプリントを造形の途中で停止し、中に何かを入れたのちに、造形を再開することで、成果物の中に部品を埋め込むという技法があります。
-この記事ではその技法を行う際に「Gap-Cap」と呼ばれる専用の「蓋」の部品を使う方法を紹介しています。
-この例ではストリップLEDを埋め込んでいますが、この部品を入れ込んだ後に、造形を再開したときに、部品の隙間にフィラメントが落ちてしまったり、そもそも部品とフィラメントがうまく接着しないといった問題があります。 Gap-Capはこの問題を解決するためのもので、要は3Dプリンタで作られた部品挿入部分の「蓋」です。
-Gap-Capがあることで、部品挿入後の造形をより確実に行うことが出来ます。 単純なテクニックですが、非常に効果的だと感じました。</description>
     </item>
     
   </channel>

@@ -5,9 +5,22 @@
     <description>Recent content in ESP32 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 07 May 2026 22:22:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 23:26:59 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/esp32/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>激安ESP32ボードを使ったTracker</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%BF%80%E5%AE%89esp32%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Ftracker/</link>
+      <pubDate>Sun, 31 May 2026 23:26:59 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%BF%80%E5%AE%89esp32%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Ftracker/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/激安ESP32ボードを使ったTracker.jpg"&gt;Win95-Tracker-CYD Is A Cheap Yellow Mod Tracker With I2Sから発見。画像もここから転載。
+激安ESP32ボードであるCheap Yellow Display(CYD)で動作するTrackerの作例です。
+Trackerというのは昔よく使われたMODという形式の音楽ファイルを再生、編集するソフトウェアの総称です。 MOD形式は、MIDIのように音階を記録しつつ、MIDIとは違い音源のデータも格納されているというものです。
+この作例ではこのMOD形式のファイルの中身を表示しながら再生するというもので、編集はできないようですが、少し改造すれば作曲機能も実装できそうに見えます。
+安価なESP32ボード、いろいろな作例があるのでいくつか欲しくなりますね</description>
+    </item>
     
     <item>
       <title>ESP32-S3で動作するオープンソースの関数電卓</title>
@@ -115,19 +128,6 @@ ESP32には専用の無線P2P通信プロトコルであるESP-NOWというも�
 複数のモニタに1つのHDMIを出力する機器をつなげる際に利用できる、HDMI切り替え機の作例です。 ESP32-C3をコアとしており、WiFi経由できりかえができるようです（このパッケージは技適未取得と思われるので、日本で利用する際には工夫が必要そうです）
 信号の切り替えには マルチプレクサ TS3DV642を使用しています。
 この手の仕組みはいろいろな製品がありますが、WiFi対応しているものはあまりなさそうなので、欲しい人もいるのではないでしょうか？</description>
-    </item>
-    
-    <item>
-      <title>安い液晶付きのESP32ボードを使ったMIDI作曲装置</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E3%81%84%E6%B6%B2%E6%99%B6%E4%BB%98%E3%81%8D%E3%81%AEesp32%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fmidi%E4%BD%9C%E6%9B%B2%E8%A3%85%E7%BD%AE/</link>
-      <pubDate>Sun, 21 Dec 2025 22:22:44 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E3%81%84%E6%B6%B2%E6%99%B6%E4%BB%98%E3%81%8D%E3%81%AEesp32%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fmidi%E4%BD%9C%E6%9B%B2%E8%A3%85%E7%BD%AE/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/安い液晶付きのESP32ボードを使ったMIDI作曲装置.jpg"&gt;A Touchscreen MIDI Controller For The DIY Setから発見。画像もここから転載。
-安い液晶付きのESP32ボードを使ったMIDI作曲装置の作例です。
-いわゆるCheap Yellow Displayと呼ばれるESP32開発ボードを使って、タッチ操作の作曲ガジェットを作成しています。
-開発ボードにこのファームウェアを書き込むだけで、簡単に同じものを作ることができるので、ぜひ試してみたいです。
- </description>
     </item>
     
   </channel>
