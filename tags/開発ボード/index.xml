@@ -38,7 +38,7 @@ RP2354は2MBのFlash ROMを内蔵しているので、それらが別のチッ�
       <pubDate>Thu, 16 Oct 2025 23:07:26 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/post/esp32-s3%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%A61024600%E3%81%AE%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32-S3をコアとして1024*600のディスプレイを搭載した開発ボード.jpg"&gt;ESP32-S3 7inch Display Development Board Type B, ESP32 With Display, 1024×600, Optional For Touch Function, 32-bit LX7 Dual-core Processor, Up to 240MHz Frequency, Supports WiFi &amp;amp; Bluetooth, With Onboard Antenna | ESP32-S3-Touch-LCD-7Bから発見。画像もここから転載。
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32-S3をコアとして1024×600のディスプレイを搭載した開発ボード.jpg"&gt;ESP32-S3 7inch Display Development Board Type B, ESP32 With Display, 1024×600, Optional For Touch Function, 32-bit LX7 Dual-core Processor, Up to 240MHz Frequency, Supports WiFi &amp;amp; Bluetooth, With Onboard Antenna | ESP32-S3-Touch-LCD-7Bから発見。画像もここから転載。
 ESP32-S3は組み込みのMCUとしてかなりパワフルで、しかも安価です。 メモリ（RAM）もPSRAMを使うことで組み込みとしては非常に広大な8MBを利用することもできます。
 こうなってくると、大きなディスプレイを使った作品を作りたくなってきますが、自分でディスプレイを調達するとなると、面倒なことが多いです。
 Weaveshareはディスプレイ付きのESP32-S3開発ボードを数多く販売していますが、その中には1024*600というかなりの高解像度のディスプレイを搭載したものもあります。
