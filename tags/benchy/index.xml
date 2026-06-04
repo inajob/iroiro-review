@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Benchy on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/benchy/</link>
+    <description>Recent content in Benchy on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Thu, 04 Jun 2026 22:59:41 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/benchy/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Benchyを60秒以内に出力する3Dプリンタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/benchy%E3%82%9260%E7%A7%92%E4%BB%A5%E5%86%85%E3%81%AB%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
+      <pubDate>Thu, 04 Jun 2026 22:59:41 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/benchy%E3%82%9260%E7%A7%92%E4%BB%A5%E5%86%85%E3%81%AB%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Benchyを60秒以内に出力する3Dプリンタ.jpg"&gt;The Final Steps To A Sub-Minute Benchyから発見。画像もここから転載。
+3Dプリンタの性能を測るためによく使われるモデルに「Benchy」という船があります。
+この記事では、このBenchyを60秒以内に出力するという驚異の速度の3Dプリンタを紹介しています。 この速度で出力するためには、溶けたプラスチックを大量に押し出す仕組みや、出力したプラスチックの冷却、ヘッドの高速移動など様々な工夫が必要です。
+出来栄えはお世辞にも高品質とは言えませんが、60秒以内でここまでできるとは驚きです。
+ </description>
+    </item>
+    
+  </channel>
+</rss>
+
