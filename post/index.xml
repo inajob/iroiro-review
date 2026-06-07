@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 04 Jun 2026 22:59:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 22:44:43 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CheapYellowDisplay用のOS「ESP-Osito」</title>
+      <link>https://inajob.github.io/iroiro-review/post/cheapyellowdisplay%E7%94%A8%E3%81%AEosesp-osito/</link>
+      <pubDate>Sun, 07 Jun 2026 22:44:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/cheapyellowdisplay%E7%94%A8%E3%81%AEosesp-osito/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CheapYellowDisplay用のOS「ESP-Osito」.jpg"&gt;ESP-Osito Eschews Retrocomputing For Modern Code On Modern, Equivalent Hardwareから発見。画像もここから転載。
+通常、ESP32のプログラムはコンパイル時にバイナリへと変換され、Flashメモリ上に固定的に焼き付けられることで電源投入と同時に実行されます。そのため、実行時に動的にプログラムを読み込んで動作を切り替えるという動きを実現するためには工夫が必要です。
+この記事で紹介されているESP-OstioではSDカード内に保存された個別のアプリケーションファイルを、実行時にメモリ上の固定アドレスへ直接ロードし、プログラムカウンタをその先頭へジャンプさせるという、いわばベアメタルに近いローダーを自作しています。ファイルシステムから読み取ったバイナリをそのまま実行可能なコードとしてメモリへ配置する手法は、複雑な抽象化を省いた非常に軽量な仕組みです。
+限られたメモリ空間でプログラムを入れ替えるために、OSのローダー機能をシンプルに自作してSDカードを「ストレージ付きの実行媒体」のように扱っている点が興味深く、応用範囲が広い技術だと思います。</description>
+    </item>
     
     <item>
       <title>Benchyを60秒以内に出力する3Dプリンタ</title>
@@ -124,20 +136,6 @@ JLCPCBの部品番号からKiCADのデータを作るWebサービスです。 JL
 基板CAD用のフットプリントを0から作るのは結構面倒なので、こういう変換ツールがあると非常に助かります。
 JLCPCB(EasyEDA)のパーツからKiCadのパーツを生成するWebUI、ここで一旦完成としますhttps://t.co/mby9xApB94
 &amp;mdash; tomorrow56 (@tomorrow56) May 14, 2026  </description>
-    </item>
-    
-    <item>
-      <title>90°のオーバーハングを印刷できるようにするスライサー</title>
-      <link>https://inajob.github.io/iroiro-review/post/90%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%8F%E3%83%B3%E3%82%B0%E3%82%92%E5%8D%B0%E5%88%B7%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%99%E3%82%8B%E3%82%B9%E3%83%A9%E3%82%A4%E3%82%B5%E3%83%BC/</link>
-      <pubDate>Tue, 19 May 2026 21:50:04 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/90%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%8F%E3%83%B3%E3%82%B0%E3%82%92%E5%8D%B0%E5%88%B7%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%99%E3%82%8B%E3%82%B9%E3%83%A9%E3%82%A4%E3%82%B5%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/90°のオーバーハングを印刷できるようにするスライサー.jpg"&gt;New Slicer Enables Horizontal Overhangs Without Supportから発見。画像もここから転載。
-積層式の3Dプリンタは、造形が苦手な形状というのがあり、典型的なものとして「オーバーハング」があります。
-これは積層面に対して、並行やそれに近い角度の面のことで、一般的にはこのような構造を印刷する際は「サポート材」という後から取り外すことが出来る支えのような構造を付けることで印刷します。
-しかし、この記事で紹介しているスライサーを使うと、このようなオーバーハングの形状をサポート材なしで造形することが出来るようです。
-説明を見る限り、扇形のような形状でじわじわと平面の造形を広げることで、中空に面を造形するというテクニックのようです。 言われてみれば確かにできそうですが、溶けたプラスチックが垂れないようにするためには、細かいパラメータの調整が必要そうです。
- </description>
     </item>
     
   </channel>
