@@ -5,9 +5,22 @@
     <description>Recent content in カッティングプロッタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 11 Feb 2026 22:48:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 22:40:48 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%82%AB%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>お古の3Dプリンタをカッティングプロッタに改造する</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8A%E5%8F%A4%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E3%82%AB%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF%E3%81%AB%E6%94%B9%E9%80%A0%E3%81%99%E3%82%8B/</link>
+      <pubDate>Thu, 11 Jun 2026 22:40:48 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8A%E5%8F%A4%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E3%82%AB%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF%E3%81%AB%E6%94%B9%E9%80%A0%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/お古の3Dプリンタをカッティングプロッタに改造する.jpg"&gt;Turning An Old 3D Printer Into A Vinyl Cutter For Cheapから発見。画像もここから転載。
+3Dプリンタは、XY軸の駆動機構、ヘッドの昇降制御、そして指定したパスをなぞる制御ソフトウェアという、カッティングプロッターを構成するために必要な要素をすでに備えています。
+この記事では、不要になったFDM方式の3Dプリンタを流用して、低コストでビニールカッターを作る手法が紹介されています。具体的には、エクストルーダーを市販のドラッグナイフホルダーに換装し、SVGファイルから適切なGコードを生成するプロジェクト「Polycut」を活用することで、既存のフレームを有効活用しています。
+専用機を購入せずに既存の資産を別の目的に転用するという発想は、非常に合理的で面白い試みだと感じました。
+ </description>
+    </item>
     
     <item>
       <title>カッティングプロッタと銅箔テープで回路を作る</title>
