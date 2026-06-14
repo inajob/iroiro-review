@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 11 Jun 2026 22:40:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 22:08:06 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>蛇腹をモーター5つで成形する装置</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E8%9B%87%E8%85%B9%E3%82%92%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC5%E3%81%A4%E3%81%A7%E6%88%90%E5%BD%A2%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Sun, 14 Jun 2026 22:08:06 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E8%9B%87%E8%85%B9%E3%82%92%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC5%E3%81%A4%E3%81%A7%E6%88%90%E5%BD%A2%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/蛇腹をモーター5つで成形する装置.jpg"&gt;Like A Wire Bender, But For Pop Tubesから発見。画像もここから転載。
+ストローの蛇腹の部分がもっと長くなったようなポッピングチューブを任意の形状に変形させる装置を紹介します。
+このプロジェクトは、ポッピングチューブを自動で曲げ加工するための専用マシンを製作するもので、ステッピングモーターと3Dプリントパーツを駆使することで、手作業では難しい正確な角度での曲げや、複雑な形状の再現を可能にしています。
+人間とは違う動作で蛇腹を変形させる仕組みが興味深く、見ていて飽きない動作です。
+ </description>
+    </item>
     
     <item>
       <title>お古の3Dプリンタをカッティングプロッタに改造する</title>
@@ -124,19 +137,6 @@ Canon in G
 パッフェルベルのカノン弾いてみました。
 ぜひ音ありでどうぞ pic.twitter.com/qxfwS3b4nR
 &amp;mdash; もえ屋 (@moeya_2020) April 4, 2026  </description>
-    </item>
-    
-    <item>
-      <title>フィラメントLEDをたくさん使った光りながら変形する照明</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88led%E3%82%92%E3%81%9F%E3%81%8F%E3%81%95%E3%82%93%E4%BD%BF%E3%81%A3%E3%81%9F%E5%85%89%E3%82%8A%E3%81%AA%E3%81%8C%E3%82%89%E5%A4%89%E5%BD%A2%E3%81%99%E3%82%8B%E7%85%A7%E6%98%8E/</link>
-      <pubDate>Wed, 27 May 2026 08:35:16 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88led%E3%82%92%E3%81%9F%E3%81%8F%E3%81%95%E3%82%93%E4%BD%BF%E3%81%A3%E3%81%9F%E5%85%89%E3%82%8A%E3%81%AA%E3%81%8C%E3%82%89%E5%A4%89%E5%BD%A2%E3%81%99%E3%82%8B%E7%85%A7%E6%98%8E/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/フィラメントLEDをたくさん使った光りながら変形する照明.jpg"&gt;Transforming Lamp Built With LED Filamentsから発見。画像もここから転載。
-フィラメントLEDをたくさん使った光りながら変形する照明の作例です。
-積み重ねられた基板が少しずれながら回転する様子は非常に印象的です。
-フィラメントLEDは比較的新しい部品で、このような今まで見たこともないような見た目を実現するアイデアがまだまだ隠れてそうです
- </description>
     </item>
     
   </channel>
