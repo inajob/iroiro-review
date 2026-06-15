@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 14 Jun 2026 22:08:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 22:15:00 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raspberry Pi PicoをコアとするVGAモニターで遊べるゲーム機</title>
+      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%99%E3%82%8Bvga%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%81%A7%E9%81%8A%E3%81%B9%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Mon, 15 Jun 2026 22:15:00 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%99%E3%82%8Bvga%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%81%A7%E9%81%8A%E3%81%B9%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi PicoをコアとするVGAモニターで遊べるゲーム機.jpg"&gt;Pico VGA BLASTERから発見。画像もここから転載。
+Raspberry Pi PicoのPIOは、プログラマブルI/Oとして周辺機器との通信をCPUから独立して高速かつ正確に制御できる機能で、この機能を使えば、CPUの負荷を抑えつつ安定した描画タイミングを維持できるため、多くのVGA出力プロジェクトで活用されています。
+Pico VGA Blasterは、このRaspberry Pi Picoの能力を活用し、レトロなゲームをVGAモニターで遊べるようにしたプロジェクトです。専用ボードには、Picoのデジタル信号をVGA規格に適した電圧へ調整する抵抗ネットワークやD-SUB15ピンコネクタ、電源レギュレータが実装されており、これに3Dプリントした筐体と操作用ボタンを組み合わせることで、本格的なアーケードゲーム機のような外観と操作性を再現しています。
+マイコン1つで信号のタイミング生成からゲームの演算処理までを完結させ、アナログディスプレイで映像を出力してしまうという、ハードウェアの限界を引き出すような構成が面白いです。
+ </description>
+    </item>
     
     <item>
       <title>蛇腹をモーター5つで成形する装置</title>
@@ -121,22 +134,6 @@ POVディスプレイというのは、回転するLEDの残像現象を利用�
 Trackerというのは昔よく使われたMODという形式の音楽ファイルを再生、編集するソフトウェアの総称です。 MOD形式は、MIDIのように音階を記録しつつ、MIDIとは違い音源のデータも格納されているというものです。
 この作例ではこのMOD形式のファイルの中身を表示しながら再生するというもので、編集はできないようですが、少し改造すれば作曲機能も実装できそうに見えます。
 安価なESP32ボード、いろいろな作例があるのでいくつか欲しくなりますね</description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタ製のオルゴール</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%AA%E3%83%AB%E3%82%B4%E3%83%BC%E3%83%AB/</link>
-      <pubDate>Thu, 28 May 2026 21:44:20 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%82%AA%E3%83%AB%E3%82%B4%E3%83%BC%E3%83%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ製のオルゴール.jpg"&gt;もえ屋さんのPostから発見。画像もここから転載。
-3Dプリンタ製のオルゴールの作例です。
-プラスチックをはじいた時に鳴る音を利用しているため、普通の金属製のオルゴールとは全く違う音色ですが、これはこれでおもちゃっぽくていい味を出しています。
-メロディはシートで交換できるようになっているため、簡単にオリジナル曲のオルゴールを作ることが出来て面白そうです。
-Canon in G
-パッフェルベルのカノン弾いてみました。
-ぜひ音ありでどうぞ pic.twitter.com/qxfwS3b4nR
-&amp;mdash; もえ屋 (@moeya_2020) April 4, 2026  </description>
     </item>
     
   </channel>
