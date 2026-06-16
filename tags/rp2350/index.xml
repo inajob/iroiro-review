@@ -5,9 +5,22 @@
     <description>Recent content in RP2350 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 24 May 2026 22:17:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 21:54:30 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/rp2350/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RP2350をフル活用したメガデモ</title>
+      <link>https://inajob.github.io/iroiro-review/post/rp2350%E3%82%92%E3%83%95%E3%83%AB%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E3%83%A1%E3%82%AC%E3%83%87%E3%83%A2/</link>
+      <pubDate>Tue, 16 Jun 2026 21:54:30 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/rp2350%E3%82%92%E3%83%95%E3%83%AB%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E3%83%A1%E3%82%AC%E3%83%87%E3%83%A2/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/RP2350をフル活用したメガデモ.jpg"&gt;Pi Pico Demos, Therefore It Isから発見。画像もここから転載。
+メガデモメガデモというのは、限られたハードウェアリソースを極限まで使い切り、プログラミング技術のみで視覚・聴覚的な表現を追求した作品です。
+この記事では、Raspberry Pi PicoのRP2350が持つPIO機能に着目し、小型マイコン単体でのリッチなメガデモを作成した事例を紹介しています。 限られた演算能力とメモリの中で、PIOによる高速なデータ転送とプログラミングの工夫を組み合わせ、往年のメガデモを彷彿とさせるような密度で表示デバイスを制御する手法が示されています。
+ハードウェアの特性を理解した上で、あえて制約を突き詰めることで未知の表現を引き出すという試みは、非常に興味深いです。
+ </description>
+    </item>
     
     <item>
       <title>UARTブートに特化したRP2350開発ボード</title>
