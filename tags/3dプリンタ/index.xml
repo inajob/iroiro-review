@@ -5,9 +5,25 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 11 Jun 2026 22:40:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 23:41:07 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタを一時停止して透明な板を埋め込む技</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E4%B8%80%E6%99%82%E5%81%9C%E6%AD%A2%E3%81%97%E3%81%A6%E9%80%8F%E6%98%8E%E3%81%AA%E6%9D%BF%E3%82%92%E5%9F%8B%E3%82%81%E8%BE%BC%E3%82%80%E6%8A%80/</link>
+      <pubDate>Wed, 17 Jun 2026 23:41:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E4%B8%80%E6%99%82%E5%81%9C%E6%AD%A2%E3%81%97%E3%81%A6%E9%80%8F%E6%98%8E%E3%81%AA%E6%9D%BF%E3%82%92%E5%9F%8B%E3%82%81%E8%BE%BC%E3%82%80%E6%8A%80/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタを一時停止して透明な板を埋め込む技.jpg"&gt;tomo makabeさんのPostから発見。画像もここから転載。
+積層式の3Dプリンタでは、途中で出力を一時停止して、ナットや磁石を埋め込むテクニックがありますが、このPostではこの仕組みを応用して透明なアクリルパネルを埋め込む手法を紹介しています。
+出力を一時停止してナットや磁石を埋め込むテクニックがありますがそれの応用。透明な板を埋めてみました。後で接着する必要が無く簡単です。
+透明に限らず広い平面を素早く出力したい時にも使えるかも。 pic.twitter.com/pY5wMrIhjc
+&amp;mdash; tomo makabe (@mkbtm) June 9, 2026  また、この作例にインスパイヤされ、Xenoahさんは六角格子のパネルを埋め込んでいます。
+早速テストしてみた。
+面白い表現出来るぞ!!!!! https://t.co/efglIYT1GP pic.twitter.com/snrYNhqnOp
+&amp;mdash; Xenoah (@shuminchuuu) June 9, 2026  制約の多い積層式の3Dプリントですが、こういうテクニックを駆使することで、設計の自由度を高められるのは面白いです。</description>
+    </item>
     
     <item>
       <title>お古の3Dプリンタをカッティングプロッタに改造する</title>
@@ -125,19 +141,6 @@ Gap-Capがあることで、部品挿入後の造形をより確実に行うこ�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタでファスナーの金具を自作する.jpg"&gt;This Printed Zipper Repair Requires No Unsewingから発見。画像もここから転載。
 ファスナーの金具を3Dプリンタで自作しています。 部品が分割されており、壊れたファスナーを取り換えるなどの際にも簡単に取り付けられます。
 強度などが気になりますが、ファッションとしてもカラフルで面白いです。</description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタのアイロンがけテクニックで表面に模様を付ける</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%82%A2%E3%82%A4%E3%83%AD%E3%83%B3%E3%81%8C%E3%81%91%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF%E3%81%A7%E8%A1%A8%E9%9D%A2%E3%81%AB%E6%A8%A1%E6%A7%98%E3%82%92%E4%BB%98%E3%81%91%E3%82%8B/</link>
-      <pubDate>Sun, 22 Mar 2026 22:19:37 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AE%E3%82%A2%E3%82%A4%E3%83%AD%E3%83%B3%E3%81%8C%E3%81%91%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF%E3%81%A7%E8%A1%A8%E9%9D%A2%E3%81%AB%E6%A8%A1%E6%A7%98%E3%82%92%E4%BB%98%E3%81%91%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタのアイロンがけテクニックで表面に模様を付ける.jpg"&gt;Selective Ironing Adds Designs To 3D Printsから発見。画像もここから転載。
-積層式の3Dプリンタの最上面の造形品質を上げるための手法として「アイロンがけ」（ironing)があります。 これは熱した3Dプリンタのノズルを使って、3Dプリント成果物の最上面を「均す」というテクニックです。
-この記事では、この「アイロンがけ」の手法を使って模様を描画する方法を紹介しています。
-下手に真っ平を目指すより、このように模様にしたほうが、アラが目立ちにくいという効果もありそうです。
- </description>
     </item>
     
   </channel>

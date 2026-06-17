@@ -5,9 +5,25 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 16 Jun 2026 21:54:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 23:41:07 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタを一時停止して透明な板を埋め込む技</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E4%B8%80%E6%99%82%E5%81%9C%E6%AD%A2%E3%81%97%E3%81%A6%E9%80%8F%E6%98%8E%E3%81%AA%E6%9D%BF%E3%82%92%E5%9F%8B%E3%82%81%E8%BE%BC%E3%82%80%E6%8A%80/</link>
+      <pubDate>Wed, 17 Jun 2026 23:41:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E4%B8%80%E6%99%82%E5%81%9C%E6%AD%A2%E3%81%97%E3%81%A6%E9%80%8F%E6%98%8E%E3%81%AA%E6%9D%BF%E3%82%92%E5%9F%8B%E3%82%81%E8%BE%BC%E3%82%80%E6%8A%80/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタを一時停止して透明な板を埋め込む技.jpg"&gt;tomo makabeさんのPostから発見。画像もここから転載。
+積層式の3Dプリンタでは、途中で出力を一時停止して、ナットや磁石を埋め込むテクニックがありますが、このPostではこの仕組みを応用して透明なアクリルパネルを埋め込む手法を紹介しています。
+出力を一時停止してナットや磁石を埋め込むテクニックがありますがそれの応用。透明な板を埋めてみました。後で接着する必要が無く簡単です。
+透明に限らず広い平面を素早く出力したい時にも使えるかも。 pic.twitter.com/pY5wMrIhjc
+&amp;mdash; tomo makabe (@mkbtm) June 9, 2026  また、この作例にインスパイヤされ、Xenoahさんは六角格子のパネルを埋め込んでいます。
+早速テストしてみた。
+面白い表現出来るぞ!!!!! https://t.co/efglIYT1GP pic.twitter.com/snrYNhqnOp
+&amp;mdash; Xenoah (@shuminchuuu) June 9, 2026  制約の多い積層式の3Dプリントですが、こういうテクニックを駆使することで、設計の自由度を高められるのは面白いです。</description>
+    </item>
     
     <item>
       <title>RP2350をフル活用したメガデモ</title>
@@ -121,18 +137,6 @@ POVディスプレイというのは、回転するLEDの残像現象を利用�
 3Dプリンタの性能を測るためによく使われるモデルに「Benchy」という船があります。
 この記事では、このBenchyを60秒以内に出力するという驚異の速度の3Dプリンタを紹介しています。 この速度で出力するためには、溶けたプラスチックを大量に押し出す仕組みや、出力したプラスチックの冷却、ヘッドの高速移動など様々な工夫が必要です。
 出来栄えはお世辞にも高品質とは言えませんが、60秒以内でここまでできるとは驚きです。
- </description>
-    </item>
-    
-    <item>
-      <title>段ボールでPCケースを作る</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%AE%B5%E3%83%9C%E3%83%BC%E3%83%AB%E3%81%A7pc%E3%82%B1%E3%83%BC%E3%82%B9%E3%82%92%E4%BD%9C%E3%82%8B/</link>
-      <pubDate>Thu, 04 Jun 2026 00:06:31 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%AE%B5%E3%83%9C%E3%83%BC%E3%83%AB%E3%81%A7pc%E3%82%B1%E3%83%BC%E3%82%B9%E3%82%92%E4%BD%9C%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/段ボールでPCケースを作る.jpg"&gt;Why Using Cardboard For A PC Case Is A Choreから発見。画像もここから転載。
-段ボールでPCケースを作るというアイデアは、よくあるものですが、この記事で紹介されているのはCADで設計し、CNCで段ボールをカットして製作された本格的な段ボール製のPCケースです。
-段ボールは追加工がやりやすそうで、ドリルで好きなところに名をあけてスイッチを取り付けているのが印象的です。 このような段ボールケースは自作の電子ガジェットのケースとして優秀かもしれません
  </description>
     </item>
     
