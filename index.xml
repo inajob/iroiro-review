@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 17 Jun 2026 23:41:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 21:36:11 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>なるべく3Dプリント部品で設計した小型のCoreXY 3Dプリンタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%AA%E3%82%8B%E3%81%B9%E3%81%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E9%83%A8%E5%93%81%E3%81%A7%E8%A8%AD%E8%A8%88%E3%81%97%E3%81%9F%E5%B0%8F%E5%9E%8B%E3%81%AEcorexy-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
+      <pubDate>Thu, 18 Jun 2026 21:36:11 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%AA%E3%82%8B%E3%81%B9%E3%81%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E9%83%A8%E5%93%81%E3%81%A7%E8%A8%AD%E8%A8%88%E3%81%97%E3%81%9F%E5%B0%8F%E5%9E%8B%E3%81%AEcorexy-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/なるべく3Dプリント部品で設計した小型のCoreXY 3Dプリンタ.jpg"&gt;3D Printing A Miniature CoreXY Printerから発見。画像もここから転載。
+なるべく3Dプリント部品で設計された小型のCoreXY 3Dプリンタ3Dプリンタの作例です。
+この記事では、標準的なCoreXY機構を極限まで小型化した3Dプリンタの製作事例を紹介しています。 筐体サイズを最小化するためにステッピングモーターを本体底面に配置し、そこから複雑なベルト経路を構成してヘッドを駆動させています。主要な構造部品として、モーターマウントやベルトテンショナー、およびプーリーを保持するための精密なジョイントパーツが自作の3Dプリント品として採用されており、限られた容積で高い剛性を確保する工夫がなされています。
+自作に必要な専用パーツを、一般的な3Dプリンタの造形範囲である225mm以内というサイズに収まるよう設計し、既存の機体でも出力できるように工夫されている点が面白いと感じました。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタを一時停止して透明な板を埋め込む技</title>
@@ -125,19 +138,6 @@ POVディスプレイというのは、回転するLEDの残像現象を利用�
 通常、ESP32のプログラムはコンパイル時にバイナリへと変換され、Flashメモリ上に固定的に焼き付けられることで電源投入と同時に実行されます。そのため、実行時に動的にプログラムを読み込んで動作を切り替えるという動きを実現するためには工夫が必要です。
 この記事で紹介されているESP-OstioではSDカード内に保存された個別のアプリケーションファイルを、実行時にメモリ上の固定アドレスへ直接ロードし、プログラムカウンタをその先頭へジャンプさせるという、いわばベアメタルに近いローダーを自作しています。ファイルシステムから読み取ったバイナリをそのまま実行可能なコードとしてメモリへ配置する手法は、複雑な抽象化を省いた非常に軽量な仕組みです。
 限られたメモリ空間でプログラムを入れ替えるために、OSのローダー機能をシンプルに自作してSDカードを「ストレージ付きの実行媒体」のように扱っている点が興味深く、応用範囲が広い技術だと思います。</description>
-    </item>
-    
-    <item>
-      <title>Benchyを60秒以内に出力する3Dプリンタ</title>
-      <link>https://inajob.github.io/iroiro-review/post/benchy%E3%82%9260%E7%A7%92%E4%BB%A5%E5%86%85%E3%81%AB%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
-      <pubDate>Thu, 04 Jun 2026 22:59:41 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/benchy%E3%82%9260%E7%A7%92%E4%BB%A5%E5%86%85%E3%81%AB%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Benchyを60秒以内に出力する3Dプリンタ.jpg"&gt;The Final Steps To A Sub-Minute Benchyから発見。画像もここから転載。
-3Dプリンタの性能を測るためによく使われるモデルに「Benchy」という船があります。
-この記事では、このBenchyを60秒以内に出力するという驚異の速度の3Dプリンタを紹介しています。 この速度で出力するためには、溶けたプラスチックを大量に押し出す仕組みや、出力したプラスチックの冷却、ヘッドの高速移動など様々な工夫が必要です。
-出来栄えはお世辞にも高品質とは言えませんが、60秒以内でここまでできるとは驚きです。
- </description>
     </item>
     
   </channel>

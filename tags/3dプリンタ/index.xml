@@ -5,9 +5,22 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 17 Jun 2026 23:41:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 21:36:11 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>なるべく3Dプリント部品で設計した小型のCoreXY 3Dプリンタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%AA%E3%82%8B%E3%81%B9%E3%81%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E9%83%A8%E5%93%81%E3%81%A7%E8%A8%AD%E8%A8%88%E3%81%97%E3%81%9F%E5%B0%8F%E5%9E%8B%E3%81%AEcorexy-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
+      <pubDate>Thu, 18 Jun 2026 21:36:11 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%AA%E3%82%8B%E3%81%B9%E3%81%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E9%83%A8%E5%93%81%E3%81%A7%E8%A8%AD%E8%A8%88%E3%81%97%E3%81%9F%E5%B0%8F%E5%9E%8B%E3%81%AEcorexy-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/なるべく3Dプリント部品で設計した小型のCoreXY 3Dプリンタ.jpg"&gt;3D Printing A Miniature CoreXY Printerから発見。画像もここから転載。
+なるべく3Dプリント部品で設計された小型のCoreXY 3Dプリンタ3Dプリンタの作例です。
+この記事では、標準的なCoreXY機構を極限まで小型化した3Dプリンタの製作事例を紹介しています。 筐体サイズを最小化するためにステッピングモーターを本体底面に配置し、そこから複雑なベルト経路を構成してヘッドを駆動させています。主要な構造部品として、モーターマウントやベルトテンショナー、およびプーリーを保持するための精密なジョイントパーツが自作の3Dプリント品として採用されており、限られた容積で高い剛性を確保する工夫がなされています。
+自作に必要な専用パーツを、一般的な3Dプリンタの造形範囲である225mm以内というサイズに収まるよう設計し、既存の機体でも出力できるように工夫されている点が面白いと感じました。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタを一時停止して透明な板を埋め込む技</title>
@@ -130,17 +143,6 @@ Gap-Capがあることで、部品挿入後の造形をより確実に行うこ�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタでマイクロスイッチを自作.jpg"&gt;Opensource 3D Printed Electronic Componentsから発見。画像もここから転載。
 3Dプリンタの部品のなるべく多くを3Dプリンタで作る試みです。
 写真に写っているのは3Dプリンタのリミットスイッチとして用いられるマイクロスイッチです。 たしかにこのくらいであれば3Dプリンタで作ることができそうです。 どこまでを3Dプリント製にするのか、品質はどの程度を目指すかなど、いろいろ考えることがあって面白そうな取り組みです。</description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタでファスナーの金具を自作する</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%95%E3%82%A1%E3%82%B9%E3%83%8A%E3%83%BC%E3%81%AE%E9%87%91%E5%85%B7%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%99%E3%82%8B/</link>
-      <pubDate>Sun, 29 Mar 2026 22:22:09 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%95%E3%82%A1%E3%82%B9%E3%83%8A%E3%83%BC%E3%81%AE%E9%87%91%E5%85%B7%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタでファスナーの金具を自作する.jpg"&gt;This Printed Zipper Repair Requires No Unsewingから発見。画像もここから転載。
-ファスナーの金具を3Dプリンタで自作しています。 部品が分割されており、壊れたファスナーを取り換えるなどの際にも簡単に取り付けられます。
-強度などが気になりますが、ファッションとしてもカラフルで面白いです。</description>
     </item>
     
   </channel>
