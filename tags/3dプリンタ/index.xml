@@ -5,9 +5,21 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 18 Jun 2026 21:36:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 22:29:57 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>接着剤で固定するスタイルの3Dプリンタ用ヒンジ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%8E%A5%E7%9D%80%E5%89%A4%E3%81%A7%E5%9B%BA%E5%AE%9A%E3%81%99%E3%82%8B%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E7%94%A8%E3%83%92%E3%83%B3%E3%82%B8/</link>
+      <pubDate>Sun, 21 Jun 2026 22:29:57 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%8E%A5%E7%9D%80%E5%89%A4%E3%81%A7%E5%9B%BA%E5%AE%9A%E3%81%99%E3%82%8B%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E7%94%A8%E3%83%92%E3%83%B3%E3%82%B8/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/接着剤で固定するスタイルの3Dプリンタ用ヒンジ.jpg"&gt;Glue-in Hinge Design Tries Something Differentから発見。画像もここから転載。
+3Dプリンタにおける「プリントインプレース（造形中の一体成形）」というのは、可動部を含む機構を分解することなく一度のプリントで完成させる技法です。しかし、この方式では造形の向きが制限され、本来の強度や精度を確保することが難しくなる場合があります。
+この記事では、ヒンジの一部を別パーツとしてプリントし、後から接着する手法を紹介しています。 ヒンジの軸となるフィラメントも組み立て後に固定される構造となっており、特定の向きでプリントし直す手間を省きつつ、設計の柔軟性を高める工夫がなされています。
+別パーツ化によって機構部分だけを何度も作り直せる点は、複雑なメカを設計する際に非常に効率的だと感じました。</description>
+    </item>
     
     <item>
       <title>なるべく3Dプリント部品で設計した小型のCoreXY 3Dプリンタ</title>
@@ -132,17 +144,6 @@ Gap-Capがあることで、部品挿入後の造形をより確実に行うこ�
 3Dプリンタは最大造形サイズが決まっているので、このように複数の部品を組み合わせて1つの構造を作ることも多く、このようなでっぱり部分の飛び出さない結合方法は使い勝手がよさそうです。 またこの方式を実現するためには、側面に斜めに穴をあけるだけというのもモデリングが簡単で良さそうだと感じました。
 この締結方法自分で考えたけど、３Ｄプリンタらしくて気に入ってる pic.twitter.com/yDOY6yHsku
 &amp;mdash; CMA- (@coredmotor) April 2, 2026  </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタでマイクロスイッチを自作</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%82%92%E8%87%AA%E4%BD%9C/</link>
-      <pubDate>Tue, 31 Mar 2026 00:01:46 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%82%92%E8%87%AA%E4%BD%9C/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタでマイクロスイッチを自作.jpg"&gt;Opensource 3D Printed Electronic Componentsから発見。画像もここから転載。
-3Dプリンタの部品のなるべく多くを3Dプリンタで作る試みです。
-写真に写っているのは3Dプリンタのリミットスイッチとして用いられるマイクロスイッチです。 たしかにこのくらいであれば3Dプリンタで作ることができそうです。 どこまでを3Dプリント製にするのか、品質はどの程度を目指すかなど、いろいろ考えることがあって面白そうな取り組みです。</description>
     </item>
     
   </channel>

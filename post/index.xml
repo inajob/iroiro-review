@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 18 Jun 2026 21:36:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 22:29:57 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>接着剤で固定するスタイルの3Dプリンタ用ヒンジ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%8E%A5%E7%9D%80%E5%89%A4%E3%81%A7%E5%9B%BA%E5%AE%9A%E3%81%99%E3%82%8B%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E7%94%A8%E3%83%92%E3%83%B3%E3%82%B8/</link>
+      <pubDate>Sun, 21 Jun 2026 22:29:57 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%8E%A5%E7%9D%80%E5%89%A4%E3%81%A7%E5%9B%BA%E5%AE%9A%E3%81%99%E3%82%8B%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E7%94%A8%E3%83%92%E3%83%B3%E3%82%B8/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/接着剤で固定するスタイルの3Dプリンタ用ヒンジ.jpg"&gt;Glue-in Hinge Design Tries Something Differentから発見。画像もここから転載。
+3Dプリンタにおける「プリントインプレース（造形中の一体成形）」というのは、可動部を含む機構を分解することなく一度のプリントで完成させる技法です。しかし、この方式では造形の向きが制限され、本来の強度や精度を確保することが難しくなる場合があります。
+この記事では、ヒンジの一部を別パーツとしてプリントし、後から接着する手法を紹介しています。 ヒンジの軸となるフィラメントも組み立て後に固定される構造となっており、特定の向きでプリントし直す手間を省きつつ、設計の柔軟性を高める工夫がなされています。
+別パーツ化によって機構部分だけを何度も作り直せる点は、複雑なメカを設計する際に非常に効率的だと感じました。</description>
+    </item>
     
     <item>
       <title>なるべく3Dプリント部品で設計した小型のCoreXY 3Dプリンタ</title>
@@ -126,18 +138,6 @@ POVディスプレイというのは、回転するLEDの残像現象を利用�
 サイコロというのは均等に目が出ることが一般的には求められますが、確率の偏りがあえて発生するようなサイコロというのはどうでしょう？
 この記事では、ボード上に配置された20個のLEDで出目を示す、電子ダイス（d20）の事例を紹介します。このダイスは単なる乱数生成機ではなく、ATtiny84マイコンを使用して出目の傾向を記憶し、不運な出目が続くと意図的に低い出目を出やすくするなど、ダイス自体が感情を持っているかのように振る舞う点がユニークです。
 限られたマイコンのピンで多数のLEDを制御するCharieplexingを活用している点も面白いです。</description>
-    </item>
-    
-    <item>
-      <title>CheapYellowDisplay用のOS「ESP-Osito」</title>
-      <link>https://inajob.github.io/iroiro-review/post/cheapyellowdisplay%E7%94%A8%E3%81%AEosesp-osito/</link>
-      <pubDate>Sun, 07 Jun 2026 22:44:43 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/cheapyellowdisplay%E7%94%A8%E3%81%AEosesp-osito/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CheapYellowDisplay用のOS「ESP-Osito」.jpg"&gt;ESP-Osito Eschews Retrocomputing For Modern Code On Modern, Equivalent Hardwareから発見。画像もここから転載。
-通常、ESP32のプログラムはコンパイル時にバイナリへと変換され、Flashメモリ上に固定的に焼き付けられることで電源投入と同時に実行されます。そのため、実行時に動的にプログラムを読み込んで動作を切り替えるという動きを実現するためには工夫が必要です。
-この記事で紹介されているESP-OstioではSDカード内に保存された個別のアプリケーションファイルを、実行時にメモリ上の固定アドレスへ直接ロードし、プログラムカウンタをその先頭へジャンプさせるという、いわばベアメタルに近いローダーを自作しています。ファイルシステムから読み取ったバイナリをそのまま実行可能なコードとしてメモリへ配置する手法は、複雑な抽象化を省いた非常に軽量な仕組みです。
-限られたメモリ空間でプログラムを入れ替えるために、OSのローダー機能をシンプルに自作してSDカードを「ストレージ付きの実行媒体」のように扱っている点が興味深く、応用範囲が広い技術だと思います。</description>
     </item>
     
   </channel>
