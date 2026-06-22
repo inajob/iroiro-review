@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>薄膜干渉 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E8%96%84%E8%86%9C%E5%B9%B2%E6%B8%89/</link>
+    <description>Recent content in 薄膜干渉 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Mon, 22 Jun 2026 22:31:35 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E8%96%84%E8%86%9C%E5%B9%B2%E6%B8%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>石鹸の膜を投影するプロジェクター</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%9F%B3%E9%B9%B8%E3%81%AE%E8%86%9C%E3%82%92%E6%8A%95%E5%BD%B1%E3%81%99%E3%82%8B%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%82%BF%E3%83%BC/</link>
+      <pubDate>Mon, 22 Jun 2026 22:31:35 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%9F%B3%E9%B9%B8%E3%81%AE%E8%86%9C%E3%82%92%E6%8A%95%E5%BD%B1%E3%81%99%E3%82%8B%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%82%BF%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/石鹸の膜を投影するプロジェクター.jpg"&gt;Creating Beautiful Light Shows With Soapから発見。画像もここから転載。
+薄膜干渉というのは、シャボン玉や水面の油膜に見られるように、光が極めて薄い透明な膜の表面と裏面で反射する際に、光の波が重なり合って特定の波長が強まったり弱まったりする現象です。
+この記事では、電子部品を使わずに美しい調光エフェクトを作り出す「Maelstrom Lamp」を紹介しています。強力なフラッシュライトと光学レンズを組み合わせ、器具内の開口部に張られた薄い石鹸膜に光を投射することで、膜の厚みの変化によるサイケデリックな色彩変化を投影する仕組みになっており、ガスケットの形状工夫など鮮明な効果を出すための設計の詳細が元記事で解説されています。
+ディスプレイやマイコンによる制御に頼らず、物理的な流体と光学系の工夫だけで動的なビジュアルを作り出すアプローチが面白いです</description>
+    </item>
+    
+  </channel>
+</rss>
+

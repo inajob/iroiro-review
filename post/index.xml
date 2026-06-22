@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 21 Jun 2026 22:29:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 22:31:35 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>石鹸の膜を投影するプロジェクター</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%9F%B3%E9%B9%B8%E3%81%AE%E8%86%9C%E3%82%92%E6%8A%95%E5%BD%B1%E3%81%99%E3%82%8B%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%82%BF%E3%83%BC/</link>
+      <pubDate>Mon, 22 Jun 2026 22:31:35 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%9F%B3%E9%B9%B8%E3%81%AE%E8%86%9C%E3%82%92%E6%8A%95%E5%BD%B1%E3%81%99%E3%82%8B%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%82%BF%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/石鹸の膜を投影するプロジェクター.jpg"&gt;Creating Beautiful Light Shows With Soapから発見。画像もここから転載。
+薄膜干渉というのは、シャボン玉や水面の油膜に見られるように、光が極めて薄い透明な膜の表面と裏面で反射する際に、光の波が重なり合って特定の波長が強まったり弱まったりする現象です。
+この記事では、電子部品を使わずに美しい調光エフェクトを作り出す「Maelstrom Lamp」を紹介しています。強力なフラッシュライトと光学レンズを組み合わせ、器具内の開口部に張られた薄い石鹸膜に光を投射することで、膜の厚みの変化によるサイケデリックな色彩変化を投影する仕組みになっており、ガスケットの形状工夫など鮮明な効果を出すための設計の詳細が元記事で解説されています。
+ディスプレイやマイコンによる制御に頼らず、物理的な流体と光学系の工夫だけで動的なビジュアルを作り出すアプローチが面白いです</description>
+    </item>
     
     <item>
       <title>接着剤で固定するスタイルの3Dプリンタ用ヒンジ</title>
@@ -126,18 +138,6 @@ POVディスプレイというのは、回転するLEDの残像現象を利用�
 この記事ではそんなPOVディスプレイにタッチ操作の機能を実現した作例を紹介しています。 アームの一方にLED、もう一方に静電容量式タッチセンサを搭載することで、空中にあるボタンを直接触って操作するという新しい体験を可能にしています。
 ディスプレイを回転させて実現しているから、センサーも回転させて実現するという発想が興味深いです
  </description>
-    </item>
-    
-    <item>
-      <title>好調と不調の波がある20面ダイスガジェット</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%A5%BD%E8%AA%BF%E3%81%A8%E4%B8%8D%E8%AA%BF%E3%81%AE%E6%B3%A2%E3%81%8C%E3%81%82%E3%82%8B20%E9%9D%A2%E3%83%80%E3%82%A4%E3%82%B9%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
-      <pubDate>Mon, 08 Jun 2026 22:15:30 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%A5%BD%E8%AA%BF%E3%81%A8%E4%B8%8D%E8%AA%BF%E3%81%AE%E6%B3%A2%E3%81%8C%E3%81%82%E3%82%8B20%E9%9D%A2%E3%83%80%E3%82%A4%E3%82%B9%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/好調と不調の波がある20面ダイスガジェット.jpg"&gt;Slightly Sentient D20 Might Subtly Shift Your Rollsから発見。画像もここから転載。
-サイコロというのは均等に目が出ることが一般的には求められますが、確率の偏りがあえて発生するようなサイコロというのはどうでしょう？
-この記事では、ボード上に配置された20個のLEDで出目を示す、電子ダイス（d20）の事例を紹介します。このダイスは単なる乱数生成機ではなく、ATtiny84マイコンを使用して出目の傾向を記憶し、不運な出目が続くと意図的に低い出目を出やすくするなど、ダイス自体が感情を持っているかのように振る舞う点がユニークです。
-限られたマイコンのピンで多数のLEDを制御するCharieplexingを活用している点も面白いです。</description>
     </item>
     
   </channel>
