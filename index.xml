@@ -5,9 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 22 Jun 2026 22:31:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 22:04:11 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>クレーン型のお片付けロボット</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E5%9E%8B%E3%81%AE%E3%81%8A%E7%89%87%E4%BB%98%E3%81%91%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</link>
+      <pubDate>Tue, 23 Jun 2026 22:04:11 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E5%9E%8B%E3%81%AE%E3%81%8A%E7%89%87%E4%BB%98%E3%81%91%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/クレーン型のお片付けロボット.jpg"&gt;Building A Ceiling-Based Crane Robot To Keep A Room Cleanから発見。画像もここから転載。
+天井にUFOキャッチャーのような仕掛けで掃除が出来ると面白いなぁという想像をしたことはありますか？
+この記事では、散らかった部屋の片付けを自動化するために、天井の動くクレーンロボットを開発した事例を紹介しています。
+LeRobotベースのオープンソースファームウェアと機械学習による物体認識を組み合わせ、ロボットがターゲットを見つけて回収ボックスへと運ぶシステムとなっており、ハードウェアのビルドガイドやGitHubでのコード公開、さらにキット販売の展開まで行われている点がユニークです。
+機械学習を用いた認識部分と、部屋のデッドスペースである天井を活用した大がかりなクレーン機構が組み合わさっている点が面白いと感じました。
+ </description>
+    </item>
     
     <item>
       <title>石鹸の膜を投影するプロジェクター</title>
@@ -125,19 +139,6 @@ UIAPduinoとは、CH32V003という安価かつ低スペックなマイコンを
 ここで紹介するUIAPrubyというのは、UIAPduinoのメモリ容量の少なさを補うため、SDカード上のプログラムを逐一読み込んで実行する仕組みや、Ruby公式パーサーであるPrismをブラウザ上で動かし、Ruby風のDSLを抽象構文木（AST）へと変換して軽量バイトコード化する手法などを採用した開発環境です。
 PC側に複雑な開発環境をインストールすることなく、ブラウザのみでコードの解析からマイコンへの書き込み、実行までを完結させる新しい開発体験を提示しています。
 ブラウザのJavaScript環境で公式の解析器を利用し、Rubyの構文を模した独自のDSLを安価なマイコンで動かす仕組みは、メモリ制約がある環境でも高水準なコード記述を可能にする応用範囲の広い技術だと感じました。</description>
-    </item>
-    
-    <item>
-      <title>タッチセンサー付きのPOVディスプレイ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%BF%E3%83%83%E3%83%81%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E4%BB%98%E3%81%8D%E3%81%AEpov%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</link>
-      <pubDate>Tue, 09 Jun 2026 22:09:09 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%BF%E3%83%83%E3%83%81%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E4%BB%98%E3%81%8D%E3%81%AEpov%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/タッチセンサー付きのPOVディスプレイ.jpg"&gt;Touchable POV Display Blooms In Mid Airから発見。画像もここから転載。
-POVディスプレイというのは、回転するLEDの残像現象を利用して空間に映像を浮かび上がらせるものです。
-この記事ではそんなPOVディスプレイにタッチ操作の機能を実現した作例を紹介しています。 アームの一方にLED、もう一方に静電容量式タッチセンサを搭載することで、空中にあるボタンを直接触って操作するという新しい体験を可能にしています。
-ディスプレイを回転させて実現しているから、センサーも回転させて実現するという発想が興味深いです
- </description>
     </item>
     
   </channel>

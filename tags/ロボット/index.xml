@@ -5,9 +5,23 @@
     <description>Recent content in ロボット on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 16 Mar 2026 23:20:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 22:04:11 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>クレーン型のお片付けロボット</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E5%9E%8B%E3%81%AE%E3%81%8A%E7%89%87%E4%BB%98%E3%81%91%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</link>
+      <pubDate>Tue, 23 Jun 2026 22:04:11 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E5%9E%8B%E3%81%AE%E3%81%8A%E7%89%87%E4%BB%98%E3%81%91%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/クレーン型のお片付けロボット.jpg"&gt;Building A Ceiling-Based Crane Robot To Keep A Room Cleanから発見。画像もここから転載。
+天井にUFOキャッチャーのような仕掛けで掃除が出来ると面白いなぁという想像をしたことはありますか？
+この記事では、散らかった部屋の片付けを自動化するために、天井の動くクレーンロボットを開発した事例を紹介しています。
+LeRobotベースのオープンソースファームウェアと機械学習による物体認識を組み合わせ、ロボットがターゲットを見つけて回収ボックスへと運ぶシステムとなっており、ハードウェアのビルドガイドやGitHubでのコード公開、さらにキット販売の展開まで行われている点がユニークです。
+機械学習を用いた認識部分と、部屋のデッドスペースである天井を活用した大がかりなクレーン機構が組み合わさっている点が面白いと感じました。
+ </description>
+    </item>
     
     <item>
       <title>アームで鉄球を並べるスタイルのマーブル時計</title>
@@ -119,17 +133,6 @@ PCB基板と3Dプリンタ製のブラケットを組み合わせてうまく部
 スマートフォンはそのまま置いてあるだけで、Bluetooth経由で2足の脚を制御しています。
 スマートフォン側で動くプログラムが画像認識したり、音声認識をしたりと複雑な制御を実現しています。
 複雑な処理をスマートフォンに丸投げするというのはなかなか良いアプローチのように思いました。
- </description>
-    </item>
-    
-    <item>
-      <title>バキュームで「掴む」ロボットアーム</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%90%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%A0%E3%81%A7%E6%8E%B4%E3%82%80%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%A2%E3%83%BC%E3%83%A0/</link>
-      <pubDate>Mon, 08 Nov 2021 11:00:02 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%90%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%A0%E3%81%A7%E6%8E%B4%E3%82%80%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%A2%E3%83%BC%E3%83%A0/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/vacuum-arm.jpg"&gt;ROBOT ARM SUCKS IN A GOOD WAYから発見。画像もここから転載。
-ロボットアームの難しいところはどうやって対象物を「掴む」かです。この作例ではアームの先端にバキューム装置を取り付け、空気の力で対象物を「掴む」ことを実現しています。
  </description>
     </item>
     
