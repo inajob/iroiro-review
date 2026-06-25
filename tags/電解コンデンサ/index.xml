@@ -1,0 +1,28 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>電解コンデンサ on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E9%9B%BB%E8%A7%A3%E3%82%B3%E3%83%B3%E3%83%87%E3%83%B3%E3%82%B5/</link>
+    <description>Recent content in 電解コンデンサ on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Thu, 25 Jun 2026 22:17:21 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%9B%BB%E8%A7%A3%E3%82%B3%E3%83%B3%E3%83%87%E3%83%B3%E3%82%B5/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>電解コンデンサに逆電圧をかけて爆発させる目覚まし時計</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E8%A7%A3%E3%82%B3%E3%83%B3%E3%83%87%E3%83%B3%E3%82%B5%E3%81%AB%E9%80%86%E9%9B%BB%E5%9C%A7%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E7%88%86%E7%99%BA%E3%81%95%E3%81%9B%E3%82%8B%E7%9B%AE%E8%A6%9A%E3%81%BE%E3%81%97%E6%99%82%E8%A8%88/</link>
+      <pubDate>Thu, 25 Jun 2026 22:17:21 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E8%A7%A3%E3%82%B3%E3%83%B3%E3%83%87%E3%83%B3%E3%82%B5%E3%81%AB%E9%80%86%E9%9B%BB%E5%9C%A7%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E7%88%86%E7%99%BA%E3%81%95%E3%81%9B%E3%82%8B%E7%9B%AE%E8%A6%9A%E3%81%BE%E3%81%97%E6%99%82%E8%A8%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/電解コンデンサに逆電圧をかけて爆発させる目覚まし時計.jpg"&gt;This Alarm Clock Has The Capacity To Wake Youから発見。画像もここから転載。
+電解コンデンサへの逆電圧をかけると、絶縁破壊を起こして内部の電解液が急激に沸騰し、最悪の場合は爆発や発煙を引き起こすことがあります。
+この記事では、アラームの作動に合わせてソケットに挿した低耐圧の電解コンデンサに逆電圧をかけ、あえて破裂させることで持ち主を強制的に起こす目覚まし時計を紹介しています。
+制御にはESP32とリレーが使われており、安全性の観点から決して真似をしてはいけないジョーク系ハードウェアハックですが、コンデンサの構造を意識させるユニークなアイデアの概要がまとめられています。
+あえて部品を破壊するという、電子工作のタブーをそのまま機能に変えてしまう発想が面白いと感じました。
+ </description>
+    </item>
+    
+  </channel>
+</rss>
+

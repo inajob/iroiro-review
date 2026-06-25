@@ -5,9 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 24 Jun 2026 23:09:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 22:17:21 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>電解コンデンサに逆電圧をかけて爆発させる目覚まし時計</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E8%A7%A3%E3%82%B3%E3%83%B3%E3%83%87%E3%83%B3%E3%82%B5%E3%81%AB%E9%80%86%E9%9B%BB%E5%9C%A7%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E7%88%86%E7%99%BA%E3%81%95%E3%81%9B%E3%82%8B%E7%9B%AE%E8%A6%9A%E3%81%BE%E3%81%97%E6%99%82%E8%A8%88/</link>
+      <pubDate>Thu, 25 Jun 2026 22:17:21 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E8%A7%A3%E3%82%B3%E3%83%B3%E3%83%87%E3%83%B3%E3%82%B5%E3%81%AB%E9%80%86%E9%9B%BB%E5%9C%A7%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E7%88%86%E7%99%BA%E3%81%95%E3%81%9B%E3%82%8B%E7%9B%AE%E8%A6%9A%E3%81%BE%E3%81%97%E6%99%82%E8%A8%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/電解コンデンサに逆電圧をかけて爆発させる目覚まし時計.jpg"&gt;This Alarm Clock Has The Capacity To Wake Youから発見。画像もここから転載。
+電解コンデンサへの逆電圧をかけると、絶縁破壊を起こして内部の電解液が急激に沸騰し、最悪の場合は爆発や発煙を引き起こすことがあります。
+この記事では、アラームの作動に合わせてソケットに挿した低耐圧の電解コンデンサに逆電圧をかけ、あえて破裂させることで持ち主を強制的に起こす目覚まし時計を紹介しています。
+制御にはESP32とリレーが使われており、安全性の観点から決して真似をしてはいけないジョーク系ハードウェアハックですが、コンデンサの構造を意識させるユニークなアイデアの概要がまとめられています。
+あえて部品を破壊するという、電子工作のタブーをそのまま機能に変えてしまう発想が面白いと感じました。
+ </description>
+    </item>
     
     <item>
       <title>3Dプリンタでシルクスクリーンを自作する</title>
@@ -123,19 +137,6 @@ Pico VGA Blasterは、このRaspberry Pi Picoの能力を活用し、レトロ�
 ストローの蛇腹の部分がもっと長くなったようなポッピングチューブを任意の形状に変形させる装置を紹介します。
 このプロジェクトは、ポッピングチューブを自動で曲げ加工するための専用マシンを製作するもので、ステッピングモーターと3Dプリントパーツを駆使することで、手作業では難しい正確な角度での曲げや、複雑な形状の再現を可能にしています。
 人間とは違う動作で蛇腹を変形させる仕組みが興味深く、見ていて飽きない動作です。
- </description>
-    </item>
-    
-    <item>
-      <title>お古の3Dプリンタをカッティングプロッタに改造する</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8A%E5%8F%A4%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E3%82%AB%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF%E3%81%AB%E6%94%B9%E9%80%A0%E3%81%99%E3%82%8B/</link>
-      <pubDate>Thu, 11 Jun 2026 22:40:48 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8A%E5%8F%A4%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E3%82%AB%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF%E3%81%AB%E6%94%B9%E9%80%A0%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/お古の3Dプリンタをカッティングプロッタに改造する.jpg"&gt;Turning An Old 3D Printer Into A Vinyl Cutter For Cheapから発見。画像もここから転載。
-3Dプリンタは、XY軸の駆動機構、ヘッドの昇降制御、そして指定したパスをなぞる制御ソフトウェアという、カッティングプロッターを構成するために必要な要素をすでに備えています。
-この記事では、不要になったFDM方式の3Dプリンタを流用して、低コストでビニールカッターを作る手法が紹介されています。具体的には、エクストルーダーを市販のドラッグナイフホルダーに換装し、SVGファイルから適切なGコードを生成するプロジェクト「Polycut」を活用することで、既存のフレームを有効活用しています。
-専用機を購入せずに既存の資産を別の目的に転用するという発想は、非常に合理的で面白い試みだと感じました。
  </description>
     </item>
     
