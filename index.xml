@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 25 Jun 2026 22:17:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 22:45:10 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>BluetoothキーボードをI2C対応させるためのデバイス</title>
+      <link>https://inajob.github.io/iroiro-review/post/bluetooth%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92i2c%E5%AF%BE%E5%BF%9C%E3%81%95%E3%81%9B%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</link>
+      <pubDate>Sun, 28 Jun 2026 22:45:10 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/bluetooth%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92i2c%E5%AF%BE%E5%BF%9C%E3%81%95%E3%81%9B%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/BluetoothキーボードをI2C対応させるためのデバイス.jpg"&gt;Pi Pico Puts Bluetooth Keyboards On The I2C Busから発見。画像もここから転載。
+Bluetoothのキーボードは市販品の種類が豊富で入手しやすい反面、マイコン側で直接その入力を受け取るには、Bluetoothプロトコルスタックの制御やHIDプロファイルの解析など、リソースの限られた環境では実装の難易度が高いという相性の悪さがあります。
+この記事では、Raspberry Pi Pico Wを中継器として使い、市販のBluetoothキーボードからの入力を、既存のBlackBerry用I2Cキーボードの信号に模してI2Cバス上に流すプロジェクトを紹介しています。
+複雑な無線処理をすべてPico W側に任せられるため、メインのマイコンからはシンプルなI2Cデバイスとして容易に市販キーボードを扱える仕組みになっています。
+こういう仕組みがあると、自作のポータブル端末を作る際に、お気に入りの無線キーボードをわずかな配線でシステムに組み込めますね！</description>
+    </item>
     
     <item>
       <title>電解コンデンサに逆電圧をかけて爆発させる目覚まし時計</title>
@@ -124,19 +137,6 @@ LeRobotベースのオープンソースファームウェアと機械学習に�
 Raspberry Pi PicoのPIOは、プログラマブルI/Oとして周辺機器との通信をCPUから独立して高速かつ正確に制御できる機能で、この機能を使えば、CPUの負荷を抑えつつ安定した描画タイミングを維持できるため、多くのVGA出力プロジェクトで活用されています。
 Pico VGA Blasterは、このRaspberry Pi Picoの能力を活用し、レトロなゲームをVGAモニターで遊べるようにしたプロジェクトです。専用ボードには、Picoのデジタル信号をVGA規格に適した電圧へ調整する抵抗ネットワークやD-SUB15ピンコネクタ、電源レギュレータが実装されており、これに3Dプリントした筐体と操作用ボタンを組み合わせることで、本格的なアーケードゲーム機のような外観と操作性を再現しています。
 マイコン1つで信号のタイミング生成からゲームの演算処理までを完結させ、アナログディスプレイで映像を出力してしまうという、ハードウェアの限界を引き出すような構成が面白いです。
- </description>
-    </item>
-    
-    <item>
-      <title>蛇腹をモーター5つで成形する装置</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E8%9B%87%E8%85%B9%E3%82%92%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC5%E3%81%A4%E3%81%A7%E6%88%90%E5%BD%A2%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/</link>
-      <pubDate>Sun, 14 Jun 2026 22:08:06 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E8%9B%87%E8%85%B9%E3%82%92%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC5%E3%81%A4%E3%81%A7%E6%88%90%E5%BD%A2%E3%81%99%E3%82%8B%E8%A3%85%E7%BD%AE/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/蛇腹をモーター5つで成形する装置.jpg"&gt;Like A Wire Bender, But For Pop Tubesから発見。画像もここから転載。
-ストローの蛇腹の部分がもっと長くなったようなポッピングチューブを任意の形状に変形させる装置を紹介します。
-このプロジェクトは、ポッピングチューブを自動で曲げ加工するための専用マシンを製作するもので、ステッピングモーターと3Dプリントパーツを駆使することで、手作業では難しい正確な角度での曲げや、複雑な形状の再現を可能にしています。
-人間とは違う動作で蛇腹を変形させる仕組みが興味深く、見ていて飽きない動作です。
  </description>
     </item>
     
