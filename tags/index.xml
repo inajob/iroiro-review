@@ -5,9 +5,18 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 28 Jun 2026 22:45:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 22:30:02 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32-C6</title>
+      <link>https://inajob.github.io/iroiro-review/tags/esp32-c6/</link>
+      <pubDate>Mon, 29 Jun 2026 22:30:02 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/esp32-c6/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>Bluetooth</title>
@@ -87,15 +96,6 @@
       <pubDate>Mon, 22 Jun 2026 22:31:35 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/%E8%96%84%E8%86%9C%E5%B9%B2%E6%B8%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>CoreXY</title>
-      <link>https://inajob.github.io/iroiro-review/tags/corexy/</link>
-      <pubDate>Thu, 18 Jun 2026 21:36:11 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/corexy/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     

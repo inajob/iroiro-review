@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://inajob.github.io/iroiro-review/tags/esp32-c6/</loc>
+    <lastmod>2026-06-29T22:30:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/</loc>
+    <lastmod>2026-06-29T22:30:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/post/</loc>
+    <lastmod>2026-06-29T22:30:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/tags/</loc>
+    <lastmod>2026-06-29T22:30:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E6%92%83%E6%AE%BA%E8%99%AB%E5%99%A8%E3%81%A7%E8%99%AB%E3%82%92%E9%80%80%E6%B2%BB%E3%81%97%E3%81%9F%E6%95%B0%E3%82%92%E6%95%B0%E3%81%88%E3%82%8B%E8%A3%85%E7%BD%AE/</loc>
+    <lastmod>2026-06-29T22:30:02+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://inajob.github.io/iroiro-review/tags/bluetooth/</loc>
     <lastmod>2026-06-28T22:45:10+00:00</lastmod>
   </url>
@@ -14,21 +39,6 @@
   
   <url>
     <loc>https://inajob.github.io/iroiro-review/tags/i2c/</loc>
-    <lastmod>2026-06-28T22:45:10+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://inajob.github.io/iroiro-review/</loc>
-    <lastmod>2026-06-28T22:45:10+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://inajob.github.io/iroiro-review/post/</loc>
-    <lastmod>2026-06-28T22:45:10+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://inajob.github.io/iroiro-review/tags/</loc>
     <lastmod>2026-06-28T22:45:10+00:00</lastmod>
   </url>
   
@@ -1925,11 +1935,6 @@
   <url>
     <loc>https://inajob.github.io/iroiro-review/post/%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3%E5%86%85%E8%94%B5%E3%81%AE%E5%85%89%E3%82%8Bmakerchip/</loc>
     <lastmod>2025-06-18T21:48:14+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://inajob.github.io/iroiro-review/tags/esp32-c6/</loc>
-    <lastmod>2025-06-17T23:33:52+00:00</lastmod>
   </url>
   
   <url>

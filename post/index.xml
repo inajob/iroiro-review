@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 28 Jun 2026 22:45:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 22:30:02 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>電撃殺虫器で虫を退治した数を数える装置</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E6%92%83%E6%AE%BA%E8%99%AB%E5%99%A8%E3%81%A7%E8%99%AB%E3%82%92%E9%80%80%E6%B2%BB%E3%81%97%E3%81%9F%E6%95%B0%E3%82%92%E6%95%B0%E3%81%88%E3%82%8B%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Mon, 29 Jun 2026 22:30:02 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E6%92%83%E6%AE%BA%E8%99%AB%E5%99%A8%E3%81%A7%E8%99%AB%E3%82%92%E9%80%80%E6%B2%BB%E3%81%97%E3%81%9F%E6%95%B0%E3%82%92%E6%95%B0%E3%81%88%E3%82%8B%E8%A3%85%E7%BD%AE/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/電撃殺虫器で虫を退治した数を数える装置.jpg"&gt;Passive Bug Zapper Tracks Its Kill Countから発見。画像もここから転載。
+電気を使って虫をパチッと退治する「電撃殺虫器（コバエ取り器）」、コンビニの入り口や夏のベランダなどでよく見かけますよね。あの独特の青い光につられてやってきた虫が、高電圧の格子に触れた瞬間に火花が散る仕組みです。
+この記事では、その電磁パルスを筐体の裏に取り付けた小さなループアンテナで受信し、マイコンのESP32-C6を使って電圧のスパイクを検知することで、電撃殺虫器の撃破数を自動でカウントしてダッシュボードに可視化する試みを紹介しています。
+電撃殺虫器で退治した虫の数を数える、という発想からして面白い作品です</description>
+    </item>
     
     <item>
       <title>BluetoothキーボードをI2C対応させるためのデバイス</title>
@@ -124,19 +136,6 @@ LeRobotベースのオープンソースファームウェアと機械学習に�
 メガデモメガデモというのは、限られたハードウェアリソースを極限まで使い切り、プログラミング技術のみで視覚・聴覚的な表現を追求した作品です。
 この記事では、Raspberry Pi PicoのRP2350が持つPIO機能に着目し、小型マイコン単体でのリッチなメガデモを作成した事例を紹介しています。 限られた演算能力とメモリの中で、PIOによる高速なデータ転送とプログラミングの工夫を組み合わせ、往年のメガデモを彷彿とさせるような密度で表示デバイスを制御する手法が示されています。
 ハードウェアの特性を理解した上で、あえて制約を突き詰めることで未知の表現を引き出すという試みは、非常に興味深いです。
- </description>
-    </item>
-    
-    <item>
-      <title>Raspberry Pi PicoをコアとするVGAモニターで遊べるゲーム機</title>
-      <link>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%99%E3%82%8Bvga%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%81%A7%E9%81%8A%E3%81%B9%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
-      <pubDate>Mon, 15 Jun 2026 22:15:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%99%E3%82%8Bvga%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%81%A7%E9%81%8A%E3%81%B9%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi PicoをコアとするVGAモニターで遊べるゲーム機.jpg"&gt;Pico VGA BLASTERから発見。画像もここから転載。
-Raspberry Pi PicoのPIOは、プログラマブルI/Oとして周辺機器との通信をCPUから独立して高速かつ正確に制御できる機能で、この機能を使えば、CPUの負荷を抑えつつ安定した描画タイミングを維持できるため、多くのVGA出力プロジェクトで活用されています。
-Pico VGA Blasterは、このRaspberry Pi Picoの能力を活用し、レトロなゲームをVGAモニターで遊べるようにしたプロジェクトです。専用ボードには、Picoのデジタル信号をVGA規格に適した電圧へ調整する抵抗ネットワークやD-SUB15ピンコネクタ、電源レギュレータが実装されており、これに3Dプリントした筐体と操作用ボタンを組み合わせることで、本格的なアーケードゲーム機のような外観と操作性を再現しています。
-マイコン1つで信号のタイミング生成からゲームの演算処理までを完結させ、アナログディスプレイで映像を出力してしまうという、ハードウェアの限界を引き出すような構成が面白いです。
  </description>
     </item>
     
