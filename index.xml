@@ -5,9 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 29 Jun 2026 22:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 21:55:00 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>体にまとうタイプの電気殺虫器</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E4%BD%93%E3%81%AB%E3%81%BE%E3%81%A8%E3%81%86%E3%82%BF%E3%82%A4%E3%83%97%E3%81%AE%E9%9B%BB%E6%B0%97%E6%AE%BA%E8%99%AB%E5%99%A8/</link>
+      <pubDate>Tue, 30 Jun 2026 21:55:00 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E4%BD%93%E3%81%AB%E3%81%BE%E3%81%A8%E3%81%86%E3%82%BF%E3%82%A4%E3%83%97%E3%81%AE%E9%9B%BB%E6%B0%97%E6%AE%BA%E8%99%AB%E5%99%A8/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/体にまとうタイプの電気殺虫器.jpg"&gt;Defeat Blood-Sucking Mosquitoes By Becoming The Bug Zapperから発見。画像もここから転載。
+電撃殺虫器というのは、高電圧を印加した電極に虫を接触させることで、そのショックにより駆除を行う機器のことです。
+この記事では、電撃殺虫器の仕組みを身にまとって蚊を退治するために、スタンガンの内部モジュールと金属メッシュ、熱曲げ加工したPVCプレートを組み合わせて人間が着用できる防護服型のデバイスを自作した事例を紹介しています。
+外側の二層のメッシュ構造や構造材の隙間の設計など、高電圧のリークを防ぎつつ実用的な形状に落とし込むなど、様々な工夫があるようです。
+蚊を撃退するためとはいえ、最終的に全身をメッシュと配線で覆われた非常に滑稽な見た目の装備になってしまっている点が面白いと感じました。
+ </description>
+    </item>
     
     <item>
       <title>電撃殺虫器で虫を退治した数を数える装置</title>
@@ -124,19 +138,6 @@ LeRobotベースのオープンソースファームウェアと機械学習に�
 早速テストしてみた。
 面白い表現出来るぞ!!!!! https://t.co/efglIYT1GP pic.twitter.com/snrYNhqnOp
 &amp;mdash; Xenoah (@shuminchuuu) June 9, 2026  制約の多い積層式の3Dプリントですが、こういうテクニックを駆使することで、設計の自由度を高められるのは面白いです。</description>
-    </item>
-    
-    <item>
-      <title>RP2350をフル活用したメガデモ</title>
-      <link>https://inajob.github.io/iroiro-review/post/rp2350%E3%82%92%E3%83%95%E3%83%AB%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E3%83%A1%E3%82%AC%E3%83%87%E3%83%A2/</link>
-      <pubDate>Tue, 16 Jun 2026 21:54:30 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/rp2350%E3%82%92%E3%83%95%E3%83%AB%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E3%83%A1%E3%82%AC%E3%83%87%E3%83%A2/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/RP2350をフル活用したメガデモ.jpg"&gt;Pi Pico Demos, Therefore It Isから発見。画像もここから転載。
-メガデモメガデモというのは、限られたハードウェアリソースを極限まで使い切り、プログラミング技術のみで視覚・聴覚的な表現を追求した作品です。
-この記事では、Raspberry Pi PicoのRP2350が持つPIO機能に着目し、小型マイコン単体でのリッチなメガデモを作成した事例を紹介しています。 限られた演算能力とメモリの中で、PIOによる高速なデータ転送とプログラミングの工夫を組み合わせ、往年のメガデモを彷彿とさせるような密度で表示デバイスを制御する手法が示されています。
-ハードウェアの特性を理解した上で、あえて制約を突き詰めることで未知の表現を引き出すという試みは、非常に興味深いです。
- </description>
     </item>
     
   </channel>
