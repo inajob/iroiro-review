@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 30 Jun 2026 21:55:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 00:25:48 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>絵を描くとそれが3Dプリントされる装置</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%B5%B5%E3%82%92%E6%8F%8F%E3%81%8F%E3%81%A8%E3%81%9D%E3%82%8C%E3%81%8C3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%95%E3%82%8C%E3%82%8B%E8%A3%85%E7%BD%AE/</link>
+      <pubDate>Thu, 02 Jul 2026 00:25:48 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%B5%B5%E3%82%92%E6%8F%8F%E3%81%8F%E3%81%A8%E3%81%9D%E3%82%8C%E3%81%8C3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%95%E3%82%8C%E3%82%8B%E8%A3%85%E7%BD%AE/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/絵を描くとそれが3Dプリントされる装置.jpg"&gt;JRRF2026出展した感想＆マインドプリンターの話から発見。画像もここから転載。
+3Dプリンタで造形するためには、まずはデータが無ければいけません。このデータを作る部分について、3DCADの操作や、3Dプリンタ固有の作れない形など難しさが多くあります。
+この記事では、ユーザーが描いた絵を3Dプリンタ用のデータに変換し、即座に印刷できるというシステムである「マインドプリンター」というものを紹介しています。
+専門的なモデリングの知識がなくても造形データへアプローチできる仕組みは、3Dプリンタの利用層を広げる応用範囲の広い技術だと感じました。</description>
+    </item>
     
     <item>
       <title>体にまとうタイプの電気殺虫器</title>
@@ -122,22 +134,6 @@ LeRobotベースのオープンソースファームウェアと機械学習に�
 この記事では、標準的なCoreXY機構を極限まで小型化した3Dプリンタの製作事例を紹介しています。 筐体サイズを最小化するためにステッピングモーターを本体底面に配置し、そこから複雑なベルト経路を構成してヘッドを駆動させています。主要な構造部品として、モーターマウントやベルトテンショナー、およびプーリーを保持するための精密なジョイントパーツが自作の3Dプリント品として採用されており、限られた容積で高い剛性を確保する工夫がなされています。
 自作に必要な専用パーツを、一般的な3Dプリンタの造形範囲である225mm以内というサイズに収まるよう設計し、既存の機体でも出力できるように工夫されている点が面白いと感じました。
  </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタを一時停止して透明な板を埋め込む技</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E4%B8%80%E6%99%82%E5%81%9C%E6%AD%A2%E3%81%97%E3%81%A6%E9%80%8F%E6%98%8E%E3%81%AA%E6%9D%BF%E3%82%92%E5%9F%8B%E3%82%81%E8%BE%BC%E3%82%80%E6%8A%80/</link>
-      <pubDate>Wed, 17 Jun 2026 23:41:07 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E4%B8%80%E6%99%82%E5%81%9C%E6%AD%A2%E3%81%97%E3%81%A6%E9%80%8F%E6%98%8E%E3%81%AA%E6%9D%BF%E3%82%92%E5%9F%8B%E3%82%81%E8%BE%BC%E3%82%80%E6%8A%80/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタを一時停止して透明な板を埋め込む技.jpg"&gt;tomo makabeさんのPostから発見。画像もここから転載。
-積層式の3Dプリンタでは、途中で出力を一時停止して、ナットや磁石を埋め込むテクニックがありますが、このPostではこの仕組みを応用して透明なアクリルパネルを埋め込む手法を紹介しています。
-出力を一時停止してナットや磁石を埋め込むテクニックがありますがそれの応用。透明な板を埋めてみました。後で接着する必要が無く簡単です。
-透明に限らず広い平面を素早く出力したい時にも使えるかも。 pic.twitter.com/pY5wMrIhjc
-&amp;mdash; tomo makabe (@mkbtm) June 9, 2026  また、この作例にインスパイヤされ、Xenoahさんは六角格子のパネルを埋め込んでいます。
-早速テストしてみた。
-面白い表現出来るぞ!!!!! https://t.co/efglIYT1GP pic.twitter.com/snrYNhqnOp
-&amp;mdash; Xenoah (@shuminchuuu) June 9, 2026  制約の多い積層式の3Dプリントですが、こういうテクニックを駆使することで、設計の自由度を高められるのは面白いです。</description>
     </item>
     
   </channel>
