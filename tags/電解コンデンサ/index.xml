@@ -5,9 +5,23 @@
     <description>Recent content in 電解コンデンサ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 25 Jun 2026 22:17:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 23:40:02 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%9B%BB%E8%A7%A3%E3%82%B3%E3%83%B3%E3%83%87%E3%83%B3%E3%82%B5/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>電解コンデンサを64個並べて8バイトのDRAMを作る</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E8%A7%A3%E3%82%B3%E3%83%B3%E3%83%87%E3%83%B3%E3%82%B5%E3%82%9264%E5%80%8B%E4%B8%A6%E3%81%B9%E3%81%A68%E3%83%90%E3%82%A4%E3%83%88%E3%81%AEdram%E3%82%92%E4%BD%9C%E3%82%8B/</link>
+      <pubDate>Sun, 05 Jul 2026 23:40:02 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E8%A7%A3%E3%82%B3%E3%83%B3%E3%83%87%E3%83%B3%E3%82%B5%E3%82%9264%E5%80%8B%E4%B8%A6%E3%81%B9%E3%81%A68%E3%83%90%E3%82%A4%E3%83%88%E3%81%AEdram%E3%82%92%E4%BD%9C%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/電解コンデンサを64個並べて8バイトのDRAMを作る.jpg"&gt;Dynamic RAM From First Principlesから発見。画像もここから転載。
+DRAMというのは、コンデンサに蓄えた電荷の有無で1と0の情報を記憶する仕組みですが、時間が経つと電気が漏れてデータが消えてしまうため、定期的にデータを再書き込みするリフレッシュ動作が必要となるメモリのことです。
+この記事では、市販のメモリを使わず、電解コンデンサやダイオード、トランジスタといった個別のディスクリート部品のみを組み合わせて、合計8バイト（64ビット）のDRAMを原理から完全自作したプロジェクトを紹介しています。
+現代のICチップ内では目に見えないほど微細なコンデンサが使われますが、ここではあえて巨大な電解コンデンサを使用することで、リフレッシュが必要になる電荷の蓄積プロセスやアドレッシングの仕組みを物理的な回路として可視化しています。
+集積回路のブラックボックスをあえてディスクリート部品に分解して再現するアプローチは、仕組みの根本的な理解につながる点が面白いと感じました。
+ </description>
+    </item>
     
     <item>
       <title>電解コンデンサに逆電圧をかけて爆発させる目覚まし時計</title>

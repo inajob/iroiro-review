@@ -5,9 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 02 Jul 2026 00:25:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 23:40:02 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>電解コンデンサを64個並べて8バイトのDRAMを作る</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E8%A7%A3%E3%82%B3%E3%83%B3%E3%83%87%E3%83%B3%E3%82%B5%E3%82%9264%E5%80%8B%E4%B8%A6%E3%81%B9%E3%81%A68%E3%83%90%E3%82%A4%E3%83%88%E3%81%AEdram%E3%82%92%E4%BD%9C%E3%82%8B/</link>
+      <pubDate>Sun, 05 Jul 2026 23:40:02 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E8%A7%A3%E3%82%B3%E3%83%B3%E3%83%87%E3%83%B3%E3%82%B5%E3%82%9264%E5%80%8B%E4%B8%A6%E3%81%B9%E3%81%A68%E3%83%90%E3%82%A4%E3%83%88%E3%81%AEdram%E3%82%92%E4%BD%9C%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/電解コンデンサを64個並べて8バイトのDRAMを作る.jpg"&gt;Dynamic RAM From First Principlesから発見。画像もここから転載。
+DRAMというのは、コンデンサに蓄えた電荷の有無で1と0の情報を記憶する仕組みですが、時間が経つと電気が漏れてデータが消えてしまうため、定期的にデータを再書き込みするリフレッシュ動作が必要となるメモリのことです。
+この記事では、市販のメモリを使わず、電解コンデンサやダイオード、トランジスタといった個別のディスクリート部品のみを組み合わせて、合計8バイト（64ビット）のDRAMを原理から完全自作したプロジェクトを紹介しています。
+現代のICチップ内では目に見えないほど微細なコンデンサが使われますが、ここではあえて巨大な電解コンデンサを使用することで、リフレッシュが必要になる電荷の蓄積プロセスやアドレッシングの仕組みを物理的な回路として可視化しています。
+集積回路のブラックボックスをあえてディスクリート部品に分解して再現するアプローチは、仕組みの根本的な理解につながる点が面白いと感じました。
+ </description>
+    </item>
     
     <item>
       <title>絵を描くとそれが3Dプリントされる装置</title>
@@ -121,19 +135,6 @@ LeRobotベースのオープンソースファームウェアと機械学習に�
 3Dプリンタにおける「プリントインプレース（造形中の一体成形）」というのは、可動部を含む機構を分解することなく一度のプリントで完成させる技法です。しかし、この方式では造形の向きが制限され、本来の強度や精度を確保することが難しくなる場合があります。
 この記事では、ヒンジの一部を別パーツとしてプリントし、後から接着する手法を紹介しています。 ヒンジの軸となるフィラメントも組み立て後に固定される構造となっており、特定の向きでプリントし直す手間を省きつつ、設計の柔軟性を高める工夫がなされています。
 別パーツ化によって機構部分だけを何度も作り直せる点は、複雑なメカを設計する際に非常に効率的だと感じました。</description>
-    </item>
-    
-    <item>
-      <title>なるべく3Dプリント部品で設計した小型のCoreXY 3Dプリンタ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%81%AA%E3%82%8B%E3%81%B9%E3%81%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E9%83%A8%E5%93%81%E3%81%A7%E8%A8%AD%E8%A8%88%E3%81%97%E3%81%9F%E5%B0%8F%E5%9E%8B%E3%81%AEcorexy-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
-      <pubDate>Thu, 18 Jun 2026 21:36:11 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%AA%E3%82%8B%E3%81%B9%E3%81%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E9%83%A8%E5%93%81%E3%81%A7%E8%A8%AD%E8%A8%88%E3%81%97%E3%81%9F%E5%B0%8F%E5%9E%8B%E3%81%AEcorexy-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/なるべく3Dプリント部品で設計した小型のCoreXY 3Dプリンタ.jpg"&gt;3D Printing A Miniature CoreXY Printerから発見。画像もここから転載。
-なるべく3Dプリント部品で設計された小型のCoreXY 3Dプリンタ3Dプリンタの作例です。
-この記事では、標準的なCoreXY機構を極限まで小型化した3Dプリンタの製作事例を紹介しています。 筐体サイズを最小化するためにステッピングモーターを本体底面に配置し、そこから複雑なベルト経路を構成してヘッドを駆動させています。主要な構造部品として、モーターマウントやベルトテンショナー、およびプーリーを保持するための精密なジョイントパーツが自作の3Dプリント品として採用されており、限られた容積で高い剛性を確保する工夫がなされています。
-自作に必要な専用パーツを、一般的な3Dプリンタの造形範囲である225mm以内というサイズに収まるよう設計し、既存の機体でも出力できるように工夫されている点が面白いと感じました。
- </description>
     </item>
     
   </channel>
