@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 05 Jul 2026 23:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 20:59:49 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>電子ペーパーに2か国語でニュースを表示する</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E3%81%AB2%E3%81%8B%E5%9B%BD%E8%AA%9E%E3%81%A7%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B/</link>
+      <pubDate>Mon, 06 Jul 2026 20:59:49 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E3%81%AB2%E3%81%8B%E5%9B%BD%E8%AA%9E%E3%81%A7%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/電子ペーパーに2か国語でニュースを表示する.jpg"&gt;Bilingual E-paper News Feed Helps Brush Up Language Skillsから発見。画像もここから転載。
+多言語学習において、生活空間の中で日常的に原文と対訳がセットで表示され続ける環境は、自然なインプットを促すために有効なアプローチです。
+この記事では、Raspberry Pi Pico Wと4.2インチの電子ペーパー、そして3Dプリントしたスタンドを組み合わせ、数時間おきに自動で起動してイタリア語のRSSフィードとその英語翻訳を上下に対訳表示する卓上端末が紹介されています。
+フォント表示の割り切りなどを含め、手元にあるパーツの制約の中で実用的な情報表示のバランスを取っている点が面白いと感じました。</description>
+    </item>
     
     <item>
       <title>電解コンデンサを64個並べて8バイトのDRAMを作る</title>
@@ -123,18 +135,6 @@ LeRobotベースのオープンソースファームウェアと機械学習に�
 薄膜干渉というのは、シャボン玉や水面の油膜に見られるように、光が極めて薄い透明な膜の表面と裏面で反射する際に、光の波が重なり合って特定の波長が強まったり弱まったりする現象です。
 この記事では、電子部品を使わずに美しい調光エフェクトを作り出す「Maelstrom Lamp」を紹介しています。強力なフラッシュライトと光学レンズを組み合わせ、器具内の開口部に張られた薄い石鹸膜に光を投射することで、膜の厚みの変化によるサイケデリックな色彩変化を投影する仕組みになっており、ガスケットの形状工夫など鮮明な効果を出すための設計の詳細が元記事で解説されています。
 ディスプレイやマイコンによる制御に頼らず、物理的な流体と光学系の工夫だけで動的なビジュアルを作り出すアプローチが面白いです</description>
-    </item>
-    
-    <item>
-      <title>接着剤で固定するスタイルの3Dプリンタ用ヒンジ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%8E%A5%E7%9D%80%E5%89%A4%E3%81%A7%E5%9B%BA%E5%AE%9A%E3%81%99%E3%82%8B%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E7%94%A8%E3%83%92%E3%83%B3%E3%82%B8/</link>
-      <pubDate>Sun, 21 Jun 2026 22:29:57 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%8E%A5%E7%9D%80%E5%89%A4%E3%81%A7%E5%9B%BA%E5%AE%9A%E3%81%99%E3%82%8B%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E7%94%A8%E3%83%92%E3%83%B3%E3%82%B8/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/接着剤で固定するスタイルの3Dプリンタ用ヒンジ.jpg"&gt;Glue-in Hinge Design Tries Something Differentから発見。画像もここから転載。
-3Dプリンタにおける「プリントインプレース（造形中の一体成形）」というのは、可動部を含む機構を分解することなく一度のプリントで完成させる技法です。しかし、この方式では造形の向きが制限され、本来の強度や精度を確保することが難しくなる場合があります。
-この記事では、ヒンジの一部を別パーツとしてプリントし、後から接着する手法を紹介しています。 ヒンジの軸となるフィラメントも組み立て後に固定される構造となっており、特定の向きでプリントし直す手間を省きつつ、設計の柔軟性を高める工夫がなされています。
-別パーツ化によって機構部分だけを何度も作り直せる点は、複雑なメカを設計する際に非常に効率的だと感じました。</description>
     </item>
     
   </channel>
