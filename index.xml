@@ -5,9 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 06 Jul 2026 20:59:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 23:10:35 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>64bitコアメモリ搭載のUSBドライブ</title>
+      <link>https://inajob.github.io/iroiro-review/post/64bit%E3%82%B3%E3%82%A2%E3%83%A1%E3%83%A2%E3%83%AA%E6%90%AD%E8%BC%89%E3%81%AEusb%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96/</link>
+      <pubDate>Tue, 07 Jul 2026 23:10:35 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/64bit%E3%82%B3%E3%82%A2%E3%83%A1%E3%83%A2%E3%83%AA%E6%90%AD%E8%BC%89%E3%81%AEusb%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/64bitコアメモリ搭載のUSBドライブ.jpg"&gt;Making A Magnetic Core Memory USB Driveから発見。画像もここから転載。
+64bitコアメモリ搭載のUSBドライブ磁気コアメモリというのは、ドーナツ状の小さなフェライトコアにワイヤーを通し、電流による磁化の向きでデータを保持する記憶装置です。
+この技術はデータを読み出す際にセルの磁化状態が反転してデータが消失する破壊読み出しという現象が起きるため、読み出し直後に再び同じデータを書き戻すための複雑な周辺回路や制御ロジックを必要とします。
+この記事では、この懐かしい64ビットの磁気コアメモリをあえて現代のUSBドライブとして復活させた自作プロジェクトを紹介しています。
+製作者は小型のCNCルーターで削り出した基板にフェライトコアを並べ、極細のワイヤーを1本ずつ手配線で通してメモリを自作したほか、安定したビット反転を行うために筐体内部をシリコンオイルで満たすというユニークな工夫を施しています。
+このようなレトロな技術で作られたストレージを手配線で組み上げ、USBを介して現代のPCで実際にデータを読み書きできている点が面白いと感じました。
+ </description>
+    </item>
     
     <item>
       <title>電子ペーパーに2か国語でニュースを表示する</title>
@@ -123,18 +138,6 @@ Bluetoothのキーボードは市販品の種類が豊富で入手しやすい�
 LeRobotベースのオープンソースファームウェアと機械学習による物体認識を組み合わせ、ロボットがターゲットを見つけて回収ボックスへと運ぶシステムとなっており、ハードウェアのビルドガイドやGitHubでのコード公開、さらにキット販売の展開まで行われている点がユニークです。
 機械学習を用いた認識部分と、部屋のデッドスペースである天井を活用した大がかりなクレーン機構が組み合わさっている点が面白いと感じました。
  </description>
-    </item>
-    
-    <item>
-      <title>石鹸の膜を投影するプロジェクター</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E7%9F%B3%E9%B9%B8%E3%81%AE%E8%86%9C%E3%82%92%E6%8A%95%E5%BD%B1%E3%81%99%E3%82%8B%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%82%BF%E3%83%BC/</link>
-      <pubDate>Mon, 22 Jun 2026 22:31:35 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E7%9F%B3%E9%B9%B8%E3%81%AE%E8%86%9C%E3%82%92%E6%8A%95%E5%BD%B1%E3%81%99%E3%82%8B%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%82%BF%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/石鹸の膜を投影するプロジェクター.jpg"&gt;Creating Beautiful Light Shows With Soapから発見。画像もここから転載。
-薄膜干渉というのは、シャボン玉や水面の油膜に見られるように、光が極めて薄い透明な膜の表面と裏面で反射する際に、光の波が重なり合って特定の波長が強まったり弱まったりする現象です。
-この記事では、電子部品を使わずに美しい調光エフェクトを作り出す「Maelstrom Lamp」を紹介しています。強力なフラッシュライトと光学レンズを組み合わせ、器具内の開口部に張られた薄い石鹸膜に光を投射することで、膜の厚みの変化によるサイケデリックな色彩変化を投影する仕組みになっており、ガスケットの形状工夫など鮮明な効果を出すための設計の詳細が元記事で解説されています。
-ディスプレイやマイコンによる制御に頼らず、物理的な流体と光学系の工夫だけで動的なビジュアルを作り出すアプローチが面白いです</description>
     </item>
     
   </channel>
