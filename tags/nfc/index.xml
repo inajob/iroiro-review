@@ -5,9 +5,21 @@
     <description>Recent content in NFC on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 23 Jun 2024 23:56:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 22:13:55 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/nfc/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>NFCから電源を得るLEDコイルを自作する</title>
+      <link>https://inajob.github.io/iroiro-review/post/nfc%E3%81%8B%E3%82%89%E9%9B%BB%E6%BA%90%E3%82%92%E5%BE%97%E3%82%8Bled%E3%82%B3%E3%82%A4%E3%83%AB%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%99%E3%82%8B/</link>
+      <pubDate>Wed, 08 Jul 2026 22:13:55 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/nfc%E3%81%8B%E3%82%89%E9%9B%BB%E6%BA%90%E3%82%92%E5%BE%97%E3%82%8Bled%E3%82%B3%E3%82%A4%E3%83%AB%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/NFCから電源を得るLEDコイルを自作する.jpg"&gt;スマホにかざすと光るNFC LEDコイルを自作する | kame404 blogから発見。画像もここから転載。
+LC共振回路というのは、コイルとコンデンサを組み合わせて特定の周波数の電波を効率よくキャッチできるようにする仕組みです。
+この記事では、スマートフォンのNFC電波を利用してバッテリーなしで光るLEDコイルを、1個あたり十円程度の材料費で自作する方法が紹介されています。直径3センチメートルのポリウレタン銅線に1206サイズのチップコンデンサとチップLEDを組み合わせる設計や、細かなパーツを固定してはんだ付けする大まかな手順が解説されています。
+身近なパーツの組み合わせだけで、意外と簡単に無線給電ができる点が面白いと感じました。</description>
+    </item>
     
     <item>
       <title>NFC名刺</title>
