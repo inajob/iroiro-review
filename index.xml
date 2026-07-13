@@ -5,9 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 09 Jul 2026 23:54:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 22:27:47 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>アクリル棒を並べた光る地図</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E6%A3%92%E3%82%92%E4%B8%A6%E3%81%B9%E3%81%9F%E5%85%89%E3%82%8B%E5%9C%B0%E5%9B%B3/</link>
+      <pubDate>Mon, 13 Jul 2026 22:27:47 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E6%A3%92%E3%82%92%E4%B8%A6%E3%81%B9%E3%81%9F%E5%85%89%E3%82%8B%E5%9C%B0%E5%9B%B3/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/アクリル棒を並べた光る地図.jpg"&gt;A Light-Up Map Of Monacoから発見。画像もここから転載。
+ローレゾな見た目が面白いです画面の向こう側のピクセルとして情報を眺めるのと、実体のある「モノ」として目の前に存在するのでは、人間の受けるインパクトや説得力はまるで違います。
+この記事では、モナコの地形と建物の高さを表現した、バックライト付きの立体アートマップが紹介されています。
+地理情報システム（QGIS）のデータと標高APIから得た数値を基に、異なる長さに加工した179本のアクリルブロックをグリッド状に配置し、底面から個別制御のLEDで照らす構造になっており、iPadの画面から都市データや天気を切り替えて表示できるというものです。
+ローレゾな見た目が逆に印象的です。
+ </description>
+    </item>
     
     <item>
       <title>ゲームボーイカラーでYouTubeを閲覧する</title>
@@ -125,20 +139,6 @@ Bluetoothのキーボードは市販品の種類が豊富で入手しやすい�
 この記事では、Raspberry Pi Pico Wを中継器として使い、市販のBluetoothキーボードからの入力を、既存のBlackBerry用I2Cキーボードの信号に模してI2Cバス上に流すプロジェクトを紹介しています。
 複雑な無線処理をすべてPico W側に任せられるため、メインのマイコンからはシンプルなI2Cデバイスとして容易に市販キーボードを扱える仕組みになっています。
 こういう仕組みがあると、自作のポータブル端末を作る際に、お気に入りの無線キーボードをわずかな配線でシステムに組み込めますね！</description>
-    </item>
-    
-    <item>
-      <title>電解コンデンサに逆電圧をかけて爆発させる目覚まし時計</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E8%A7%A3%E3%82%B3%E3%83%B3%E3%83%87%E3%83%B3%E3%82%B5%E3%81%AB%E9%80%86%E9%9B%BB%E5%9C%A7%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E7%88%86%E7%99%BA%E3%81%95%E3%81%9B%E3%82%8B%E7%9B%AE%E8%A6%9A%E3%81%BE%E3%81%97%E6%99%82%E8%A8%88/</link>
-      <pubDate>Thu, 25 Jun 2026 22:17:21 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E8%A7%A3%E3%82%B3%E3%83%B3%E3%83%87%E3%83%B3%E3%82%B5%E3%81%AB%E9%80%86%E9%9B%BB%E5%9C%A7%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E7%88%86%E7%99%BA%E3%81%95%E3%81%9B%E3%82%8B%E7%9B%AE%E8%A6%9A%E3%81%BE%E3%81%97%E6%99%82%E8%A8%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/電解コンデンサに逆電圧をかけて爆発させる目覚まし時計.jpg"&gt;This Alarm Clock Has The Capacity To Wake Youから発見。画像もここから転載。
-電解コンデンサへの逆電圧をかけると、絶縁破壊を起こして内部の電解液が急激に沸騰し、最悪の場合は爆発や発煙を引き起こすことがあります。
-この記事では、アラームの作動に合わせてソケットに挿した低耐圧の電解コンデンサに逆電圧をかけ、あえて破裂させることで持ち主を強制的に起こす目覚まし時計を紹介しています。
-制御にはESP32とリレーが使われており、安全性の観点から決して真似をしてはいけないジョーク系ハードウェアハックですが、コンデンサの構造を意識させるユニークなアイデアの概要がまとめられています。
-あえて部品を破壊するという、電子工作のタブーをそのまま機能に変えてしまう発想が面白いと感じました。
- </description>
     </item>
     
   </channel>
