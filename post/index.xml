@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 16 Jul 2026 20:29:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 21:17:43 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ミニチュアアーケードスタイルのArduboy</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%9F%E3%83%8B%E3%83%81%E3%83%A5%E3%82%A2%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AEarduboy/</link>
+      <pubDate>Mon, 20 Jul 2026 21:17:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9F%E3%83%8B%E3%83%81%E3%83%A5%E3%82%A2%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AEarduboy/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ミニチュアアーケードスタイルのArduboy.jpg"&gt;DIY Mini Retro Arcade Machine with Arduboy Firmwar by Tipflow Design on Tindieから発見。画像もここから転載。
+Arduboyは128x64ドットのモノクロ有機ELディスプレイとArduino互換のマイコンを組み合わせた、オープンソースのカード型8bitゲームハードウェアです。
+この記事では、そのArduboyのファームウェアと互換性を持ち、超小型の筐体に本格的なアーケード筐体のデザインを落とし込んだDIYキット「DIY Mini Retro Arcade Machine」を紹介しています。3Dプリントされた外装パーツと専用の基板、アクリルパネルを組み合わせることで、手のひらサイズでありながら、ジョイスティックやコインスロット風のLEDなど、実物のアーケードゲーム機のディテールを精密に再現している点が特徴です。
+本家のArduboyはクレジットカードサイズの印象的な筐体ですが、この作例はまた違った魅力があります。</description>
+    </item>
     
     <item>
       <title>スマートフォンの使用時間を制限できるスマホスタンド</title>
@@ -128,18 +140,6 @@ DRAMというのは、コンデンサに蓄えた電荷の有無で1と0の情�
 現代のICチップ内では目に見えないほど微細なコンデンサが使われますが、ここではあえて巨大な電解コンデンサを使用することで、リフレッシュが必要になる電荷の蓄積プロセスやアドレッシングの仕組みを物理的な回路として可視化しています。
 集積回路のブラックボックスをあえてディスクリート部品に分解して再現するアプローチは、仕組みの根本的な理解につながる点が面白いと感じました。
  </description>
-    </item>
-    
-    <item>
-      <title>絵を描くとそれが3Dプリントされる装置</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E7%B5%B5%E3%82%92%E6%8F%8F%E3%81%8F%E3%81%A8%E3%81%9D%E3%82%8C%E3%81%8C3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%95%E3%82%8C%E3%82%8B%E8%A3%85%E7%BD%AE/</link>
-      <pubDate>Thu, 02 Jul 2026 00:25:48 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E7%B5%B5%E3%82%92%E6%8F%8F%E3%81%8F%E3%81%A8%E3%81%9D%E3%82%8C%E3%81%8C3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%95%E3%82%8C%E3%82%8B%E8%A3%85%E7%BD%AE/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/絵を描くとそれが3Dプリントされる装置.jpg"&gt;JRRF2026出展した感想＆マインドプリンターの話から発見。画像もここから転載。
-3Dプリンタで造形するためには、まずはデータが無ければいけません。このデータを作る部分について、3DCADの操作や、3Dプリンタ固有の作れない形など難しさが多くあります。
-この記事では、ユーザーが描いた絵を3Dプリンタ用のデータに変換し、即座に印刷できるというシステムである「マインドプリンター」というものを紹介しています。
-専門的なモデリングの知識がなくても造形データへアプローチできる仕組みは、3Dプリンタの利用層を広げる応用範囲の広い技術だと感じました。</description>
     </item>
     
   </channel>

@@ -5,9 +5,21 @@
     <description>Recent content in Arduboy on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 05 Feb 2025 21:23:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 21:17:43 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/arduboy/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ミニチュアアーケードスタイルのArduboy</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%9F%E3%83%8B%E3%83%81%E3%83%A5%E3%82%A2%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AEarduboy/</link>
+      <pubDate>Mon, 20 Jul 2026 21:17:43 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9F%E3%83%8B%E3%83%81%E3%83%A5%E3%82%A2%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AEarduboy/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ミニチュアアーケードスタイルのArduboy.jpg"&gt;DIY Mini Retro Arcade Machine with Arduboy Firmwar by Tipflow Design on Tindieから発見。画像もここから転載。
+Arduboyは128x64ドットのモノクロ有機ELディスプレイとArduino互換のマイコンを組み合わせた、オープンソースのカード型8bitゲームハードウェアです。
+この記事では、そのArduboyのファームウェアと互換性を持ち、超小型の筐体に本格的なアーケード筐体のデザインを落とし込んだDIYキット「DIY Mini Retro Arcade Machine」を紹介しています。3Dプリントされた外装パーツと専用の基板、アクリルパネルを組み合わせることで、手のひらサイズでありながら、ジョイスティックやコインスロット風のLEDなど、実物のアーケードゲーム機のディテールを精密に再現している点が特徴です。
+本家のArduboyはクレジットカードサイズの印象的な筐体ですが、この作例はまた違った魅力があります。</description>
+    </item>
     
     <item>
       <title>市販のゲーム機をガワとして利用したArduboyクローン</title>
@@ -123,19 +135,6 @@ Arduboyはコンパクトでよくできた携帯ゲーム機ですが、USBキ�
 PeanutはArduboy互換のゲーム機の自作キットです。
 3枚の基板でサンドイッチにする形で構成される筐体と、射出成型されたそれっぽいアーケード風の十字キーが特徴です。
 Arduino MicroやLiPo充電ボードなど、既存のボードを組み合わせることでキットを構成しているのが安い価格の秘訣かもしれません。</description>
-    </item>
-    
-    <item>
-      <title>Arduboy用のよくできたピクロスPiCross</title>
-      <link>https://inajob.github.io/iroiro-review/post/arduboy%E7%94%A8%E3%81%AE%E3%82%88%E3%81%8F%E3%81%A7%E3%81%8D%E3%81%9F%E3%83%94%E3%82%AF%E3%83%AD%E3%82%B9picross/</link>
-      <pubDate>Tue, 24 Sep 2019 23:00:20 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/arduboy%E7%94%A8%E3%81%AE%E3%82%88%E3%81%8F%E3%81%A7%E3%81%8D%E3%81%9F%E3%83%94%E3%82%AF%E3%83%AD%E3%82%B9picross/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/picross.png"&gt;PiCross 1.0から発見。画像もここから転載。
-Arduboy用に作られた非常にできの良いピクロスゲームPiCrossを紹介します。
-Arduboyの画面は128x64と小さいですが、このピクロスゲームは、スクロールによりその狭さを感じさせないつくりになっています。レベルもかなりたくさん用意されているので一通り遊び終わるにはかなりの時間がかかりそうです。
-（このゲームは容量節約のためUSBブートローダーが入っていないので、別のゲームに切り替えるときは、まず「↓」ボタンを押しながら起動してから、書き込む必要があります。）
-元記事にはブラウザで動作するエミュレータ”ProjectABE”へのリンクもありますので、Arduboyを持っていない人も遊ぶことができます。</description>
     </item>
     
   </channel>
