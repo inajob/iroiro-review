@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 27 Jul 2026 21:56:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 22:18:59 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>オープンソースのロボット掃除機</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E6%8E%83%E9%99%A4%E6%A9%9F/</link>
+      <pubDate>Tue, 28 Jul 2026 22:18:59 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E6%8E%83%E9%99%A4%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/オープンソースのロボット掃除機.jpg"&gt;Open Source Vacuum Avoids Cloudから発見。画像もここから転載。
+ロボット掃除機がコモディティ化し安価に入手できるようになる一方で、メーカーのクラウドサービス終了によって製品が使えなくなったり、勝手にサブスクリプション化されたりするリスクが顕在化してきています。
+この記事では、外部のクラウドサービスを一切使わずに、ハードウェアとソフトウェアのすべてをオープンソースで開発しているロボット掃除機「OOMWOO」が紹介されています。主要パーツを3Dプリンタで出力し、Raspberry Pi上でROS 2を動かすことで、部屋のマッピングやHome Assistantとの連携をローカル環境だけで完結させています。</description>
+    </item>
     
     <item>
       <title>SAMD11をコアとした超小型のArduino互換ボード</title>
@@ -122,20 +133,6 @@ PCとスマートフォンの両方に同時に繋ぐといった、既存のマ
 この記事では、モナコの地形と建物の高さを表現した、バックライト付きの立体アートマップが紹介されています。
 地理情報システム（QGIS）のデータと標高APIから得た数値を基に、異なる長さに加工した179本のアクリルブロックをグリッド状に配置し、底面から個別制御のLEDで照らす構造になっており、iPadの画面から都市データや天気を切り替えて表示できるというものです。
 ローレゾな見た目が逆に印象的です。
- </description>
-    </item>
-    
-    <item>
-      <title>ゲームボーイカラーでYouTubeを閲覧する</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4%E3%82%AB%E3%83%A9%E3%83%BC%E3%81%A7youtube%E3%82%92%E9%96%B2%E8%A6%A7%E3%81%99%E3%82%8B/</link>
-      <pubDate>Thu, 09 Jul 2026 23:54:12 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4%E3%82%AB%E3%83%A9%E3%83%BC%E3%81%A7youtube%E3%82%92%E9%96%B2%E8%A6%A7%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ゲームボーイカラーでYouTubeを閲覧する.jpg"&gt;Watch YouTube On A Game Boy Color With A Special Cartridgeから発見。画像もここから転載。
-ゲームボーイカラーというのは、160×144ピクセルの限定された液晶画面を持ちながらも、カートリッジバスを介して外部ハードウェアを直接接続できる仕様から、現代でも自作のオリジナルカートリッジを作って機能を拡張する事例を見かけます。
-この記事では、Wi-Fi通信用のESP32-C6とメイン制御を担うRP2350Bを搭載した自作カートリッジを使い、ゲームボーイカラーでYouTube動画をストリーミング再生する試みを紹介しています。
-ホストPC側で動画のダウンロードと変換を行い、マイコンを経由してゲームボーイカラーの画面へデータを送り出す構成になっており、詳細なシステム構成や実際の動作デモが気になる方は本文を読むことをお勧めします。
-レトロゲーム機の厳しいハードウェア制限に対して、外部のマイコンとPCによる処理を組み合わせて力技で解決するアプローチが面白いと感じました。
  </description>
     </item>
     
