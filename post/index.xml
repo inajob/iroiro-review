@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 28 Jul 2026 22:18:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 00:12:14 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタで作成されたリング状の蝶番</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%95%E3%82%8C%E3%81%9F%E3%83%AA%E3%83%B3%E3%82%B0%E7%8A%B6%E3%81%AE%E8%9D%B6%E7%95%AA/</link>
+      <pubDate>Fri, 31 Jul 2026 00:12:14 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%95%E3%82%8C%E3%81%9F%E3%83%AA%E3%83%B3%E3%82%B0%E7%8A%B6%E3%81%AE%E8%9D%B6%E7%95%AA/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作成されたリング状の蝶番.jpg"&gt;【ポン付け簡単組み立て】話題のリング状蝶番 (Snap-Fit Ring Hinge)から発見。画像もここから転載。
+Xでリング状の蝶番のPostが話題となっていましたが、このMakerWorldのページでは3Dプリンタでその構造を再現したモデルを公開されています。
+3Dプリンタでヒンジを作る方法はいくつか見たことがありますが、この方法は見た目も良くシンプルでかつ機能的だと感じました。</description>
+    </item>
     
     <item>
       <title>オープンソースのロボット掃除機</title>
@@ -120,20 +131,6 @@ RP2350は通常のハードウェアUSBコントローラとは別に、PIO（�
 この記事で紹介されている「Waveshare RP2350-USB-C」は、RP2350マイコンを搭載し、基板の両端に2つの独立したUSB Type-Cポートを備えたユニークな開発ボードです。
 片方のポートは通常のプログラム書き込みや給電をおこなうハードウェアUSBに割り当てられ、もう片方のポートはPIO-USB専用のGPIOピンおよび抵抗回路に直結されており、キーボードの割り込み接続（パススルー）や、1つのデバイスをPCとスマホの両方に同時に繋ぐといった変則的なハードウェア構成をスマートに実現しています。
 PCとスマートフォンの両方に同時に繋ぐといった、既存のマイコンボードでは周辺回路を自作しなければならなかった複雑なUSBハックを手軽に試せる、応用範囲の広いボードだと思います。</description>
-    </item>
-    
-    <item>
-      <title>アクリル棒を並べた光る地図</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E6%A3%92%E3%82%92%E4%B8%A6%E3%81%B9%E3%81%9F%E5%85%89%E3%82%8B%E5%9C%B0%E5%9B%B3/</link>
-      <pubDate>Mon, 13 Jul 2026 22:27:47 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E6%A3%92%E3%82%92%E4%B8%A6%E3%81%B9%E3%81%9F%E5%85%89%E3%82%8B%E5%9C%B0%E5%9B%B3/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/アクリル棒を並べた光る地図.jpg"&gt;A Light-Up Map Of Monacoから発見。画像もここから転載。
-ローレゾな見た目が面白いです画面の向こう側のピクセルとして情報を眺めるのと、実体のある「モノ」として目の前に存在するのでは、人間の受けるインパクトや説得力はまるで違います。
-この記事では、モナコの地形と建物の高さを表現した、バックライト付きの立体アートマップが紹介されています。
-地理情報システム（QGIS）のデータと標高APIから得た数値を基に、異なる長さに加工した179本のアクリルブロックをグリッド状に配置し、底面から個別制御のLEDで照らす構造になっており、iPadの画面から都市データや天気を切り替えて表示できるというものです。
-ローレゾな見た目が逆に印象的です。
- </description>
     </item>
     
   </channel>

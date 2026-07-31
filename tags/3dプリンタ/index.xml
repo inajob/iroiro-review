@@ -5,9 +5,20 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 15 Jul 2026 22:15:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 00:12:14 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタで作成されたリング状の蝶番</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%95%E3%82%8C%E3%81%9F%E3%83%AA%E3%83%B3%E3%82%B0%E7%8A%B6%E3%81%AE%E8%9D%B6%E7%95%AA/</link>
+      <pubDate>Fri, 31 Jul 2026 00:12:14 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%95%E3%82%8C%E3%81%9F%E3%83%AA%E3%83%B3%E3%82%B0%E7%8A%B6%E3%81%AE%E8%9D%B6%E7%95%AA/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作成されたリング状の蝶番.jpg"&gt;【ポン付け簡単組み立て】話題のリング状蝶番 (Snap-Fit Ring Hinge)から発見。画像もここから転載。
+Xでリング状の蝶番のPostが話題となっていましたが、このMakerWorldのページでは3Dプリンタでその構造を再現したモデルを公開されています。
+3Dプリンタでヒンジを作る方法はいくつか見たことがありますが、この方法は見た目も良くシンプルでかつ機能的だと感じました。</description>
+    </item>
     
     <item>
       <title>3Dプリンタで作られたベイブレードのようなおもちゃ</title>
@@ -126,20 +137,6 @@ Canon in G
 パッフェルベルのカノン弾いてみました。
 ぜひ音ありでどうぞ pic.twitter.com/qxfwS3b4nR
 &amp;mdash; もえ屋 (@moeya_2020) April 4, 2026  </description>
-    </item>
-    
-    <item>
-      <title>90°のオーバーハングを印刷できるようにするスライサー</title>
-      <link>https://inajob.github.io/iroiro-review/post/90%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%8F%E3%83%B3%E3%82%B0%E3%82%92%E5%8D%B0%E5%88%B7%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%99%E3%82%8B%E3%82%B9%E3%83%A9%E3%82%A4%E3%82%B5%E3%83%BC/</link>
-      <pubDate>Tue, 19 May 2026 21:50:04 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/90%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%8F%E3%83%B3%E3%82%B0%E3%82%92%E5%8D%B0%E5%88%B7%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%99%E3%82%8B%E3%82%B9%E3%83%A9%E3%82%A4%E3%82%B5%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/90°のオーバーハングを印刷できるようにするスライサー.jpg"&gt;New Slicer Enables Horizontal Overhangs Without Supportから発見。画像もここから転載。
-積層式の3Dプリンタは、造形が苦手な形状というのがあり、典型的なものとして「オーバーハング」があります。
-これは積層面に対して、並行やそれに近い角度の面のことで、一般的にはこのような構造を印刷する際は「サポート材」という後から取り外すことが出来る支えのような構造を付けることで印刷します。
-しかし、この記事で紹介しているスライサーを使うと、このようなオーバーハングの形状をサポート材なしで造形することが出来るようです。
-説明を見る限り、扇形のような形状でじわじわと平面の造形を広げることで、中空に面を造形するというテクニックのようです。 言われてみれば確かにできそうですが、溶けたプラスチックが垂れないようにするためには、細かいパラメータの調整が必要そうです。
- </description>
     </item>
     
   </channel>
