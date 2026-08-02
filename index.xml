@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 31 Jul 2026 00:12:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 22:02:07 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>古いSSDをゲームカートリッジにする技</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%8F%A4%E3%81%84ssd%E3%82%92%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%AB%E3%83%BC%E3%83%88%E3%83%AA%E3%83%83%E3%82%B8%E3%81%AB%E3%81%99%E3%82%8B%E6%8A%80/</link>
+      <pubDate>Sun, 02 Aug 2026 22:02:07 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%8F%A4%E3%81%84ssd%E3%82%92%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%AB%E3%83%BC%E3%83%88%E3%83%AA%E3%83%83%E3%82%B8%E3%81%AB%E3%81%99%E3%82%8B%E6%8A%80/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/古いSSDをゲームカートリッジにする技.jpg"&gt;Old SSDs Find New Life As Game Cartridgesから発見。画像もここから転載。
+要領の少ないSSDはあまり活用方法がなく、引き出しの奥の方に余っていたりしませんか？
+この記事では、LewdMeat氏が制作した、余剰となった2.5インチSATA SSDをレトロゲームのカセットのように見立てて活用するプロジェクトを紹介しています。3Dプリンタで制作したカケースにSSDを収め、USB 3.0-SATA変換アダプタを搭載したドックに挿入することで、PC側で自動的にスクリプトが検証されゲームが起動する仕組みになっています。
+余ったストレージの物理的な抜き差し動作を、ソフトウェアの起動トリガーとして直接結びつけるアイデアが面白いと感じました。</description>
+    </item>
     
     <item>
       <title>3Dプリンタで作成されたリング状の蝶番</title>
@@ -118,19 +130,6 @@ Arduboyは128x64ドットのモノクロ有機ELディスプレイとArduino互�
 この記事で紹介されている「Rubber Powered Spinning Top」は、3Dプリントしたパーツに市販の輪ゴムを組み合わせることで、プラスチック特有のヘタれを回避したゼンマイ式のコマ玩具です。エネルギーを蓄えるバネ部分をPLAで無理に作るのではなく、入手が容易で交換も簡単な輪ゴムに任せる設計になっており、トリガーによるリリース機構などの大まかな構造が紹介されています。
 3Dプリンタ造形物に輪ゴムをスマートに組み込んで耐久性と実用性を両立させる設計アプローチが面白いと感じました。
  </description>
-    </item>
-    
-    <item>
-      <title>USBポートを2つ備えたRP2350開発ボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/usb%E3%83%9D%E3%83%BC%E3%83%88%E3%82%922%E3%81%A4%E5%82%99%E3%81%88%E3%81%9Frp2350%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Tue, 14 Jul 2026 21:56:29 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/usb%E3%83%9D%E3%83%BC%E3%83%88%E3%82%922%E3%81%A4%E5%82%99%E3%81%88%E3%81%9Frp2350%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/USBポートを2つ備えたRP2350開発ボード.jpg"&gt;Waveshare RP2350-USB-C – A Compact Dev Board with Dual USB-C Portsから発見。画像もここから転載。
-RP2350は通常のハードウェアUSBコントローラとは別に、PIO（プログラマブルI/O）を駆使することで、専用回路のないピンからでもソフトウェア制御によってUSBのホストやデバイスの機能を力づくで実装（ビットバング）することが出来ます。
-この記事で紹介されている「Waveshare RP2350-USB-C」は、RP2350マイコンを搭載し、基板の両端に2つの独立したUSB Type-Cポートを備えたユニークな開発ボードです。
-片方のポートは通常のプログラム書き込みや給電をおこなうハードウェアUSBに割り当てられ、もう片方のポートはPIO-USB専用のGPIOピンおよび抵抗回路に直結されており、キーボードの割り込み接続（パススルー）や、1つのデバイスをPCとスマホの両方に同時に繋ぐといった変則的なハードウェア構成をスマートに実現しています。
-PCとスマートフォンの両方に同時に繋ぐといった、既存のマイコンボードでは周辺回路を自作しなければならなかった複雑なUSBハックを手軽に試せる、応用範囲の広いボードだと思います。</description>
     </item>
     
   </channel>
