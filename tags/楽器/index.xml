@@ -5,9 +5,21 @@
     <description>Recent content in 楽器 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 07 Apr 2026 21:53:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 22:55:04 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%A5%BD%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>M5Stack Cardputer-ADVに独自のカバーを付けることで構成されるグルーブボックス</title>
+      <link>https://inajob.github.io/iroiro-review/post/m5stack-cardputer-adv%E3%81%AB%E7%8B%AC%E8%87%AA%E3%81%AE%E3%82%AB%E3%83%90%E3%83%BC%E3%82%92%E4%BB%98%E3%81%91%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E6%A7%8B%E6%88%90%E3%81%95%E3%82%8C%E3%82%8B%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%96%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/</link>
+      <pubDate>Mon, 03 Aug 2026 22:55:04 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/m5stack-cardputer-adv%E3%81%AB%E7%8B%AC%E8%87%AA%E3%81%AE%E3%82%AB%E3%83%90%E3%83%BC%E3%82%92%E4%BB%98%E3%81%91%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E6%A7%8B%E6%88%90%E3%81%95%E3%82%8C%E3%82%8B%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%96%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/M5Stack Cardputer-ADVに独自のカバーを付けることで構成されるグルーブボックス.jpg"&gt;Microgroove — DIY groovebox in your pocketから発見。画像もここから転載。
+M5Stack Cardputer ADVというのは、カードサイズのマイコン端末であるM5Stack Cardputerに、バッテリー容量の拡張やマイク性能の向上、基板レイアウトの改善などのマイナーチェンジを施したマイコン組み込み開発向けデバイスです。
+この記事では、このM5Stack Cardputer ADVに専用ファームウェアを焼き込み、3Dプリンタで出力したキーキャップやケースを組み合わせることで、4トラックのアシッド系グルーヴボックス「Microgroove」を仕立て上げるDIY事例が紹介されています。シンセ音源やサンプラー、シーケンサー機能を取り込み、1キー1機能に割り当てた操作性をハードとソフトの両面から完結させています。
+専用の基板を一から設計するのではなく、既存の完成されたマイコンボードをベースに選び、3Dプリントケースとソフトウェアの組み合わせによってひとつの独立した楽器製品として完成させている点が面白いと感じました。</description>
+    </item>
     
     <item>
       <title>使い捨て電子タバコを使ったオカリナのような楽器</title>
@@ -118,17 +130,6 @@ MIDI対応のパイプをたたく楽器の作例です。
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/接触位置センサを活用した電子楽器.jpg"&gt;A Childhood Dream, Created And Open Sourcedから発見。画像もここから転載。
 接触位置センサを活用した電子楽器の作例です。
 圧力を感知する4つのボタンと、リボン型の圧力センサーを使って、ギターのような持ち方で演奏できるというものです。 見た目もそれっぽく、試しに触ってみたくなる出来栄えです。
- </description>
-    </item>
-    
-    <item>
-      <title>タッチセンサーを使ったMIDIコントローラー</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%BF%E3%83%83%E3%83%81%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fmidi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC/</link>
-      <pubDate>Tue, 14 Oct 2025 22:15:16 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%BF%E3%83%83%E3%83%81%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fmidi%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/タッチセンサーを使ったMIDIコントローラー.jpg"&gt;MIDIKalimba, a touch-sensitive MIDI controller by MIDI IN on Tindieから発見。画像もここから転載。
-タッチセンサーを使ったMIDIコントローラーの作例です。 スケールを変えたり、ルーパーを内蔵していたり、ベロシティにも対応していたりと本格的です。 キーの並びもカリンバと同じでなかなか演奏しやすそうです。
  </description>
     </item>
     

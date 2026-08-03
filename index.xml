@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 02 Aug 2026 22:02:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 22:55:04 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>M5Stack Cardputer-ADVに独自のカバーを付けることで構成されるグルーブボックス</title>
+      <link>https://inajob.github.io/iroiro-review/post/m5stack-cardputer-adv%E3%81%AB%E7%8B%AC%E8%87%AA%E3%81%AE%E3%82%AB%E3%83%90%E3%83%BC%E3%82%92%E4%BB%98%E3%81%91%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E6%A7%8B%E6%88%90%E3%81%95%E3%82%8C%E3%82%8B%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%96%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/</link>
+      <pubDate>Mon, 03 Aug 2026 22:55:04 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/m5stack-cardputer-adv%E3%81%AB%E7%8B%AC%E8%87%AA%E3%81%AE%E3%82%AB%E3%83%90%E3%83%BC%E3%82%92%E4%BB%98%E3%81%91%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E6%A7%8B%E6%88%90%E3%81%95%E3%82%8C%E3%82%8B%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%96%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/M5Stack Cardputer-ADVに独自のカバーを付けることで構成されるグルーブボックス.jpg"&gt;Microgroove — DIY groovebox in your pocketから発見。画像もここから転載。
+M5Stack Cardputer ADVというのは、カードサイズのマイコン端末であるM5Stack Cardputerに、バッテリー容量の拡張やマイク性能の向上、基板レイアウトの改善などのマイナーチェンジを施したマイコン組み込み開発向けデバイスです。
+この記事では、このM5Stack Cardputer ADVに専用ファームウェアを焼き込み、3Dプリンタで出力したキーキャップやケースを組み合わせることで、4トラックのアシッド系グルーヴボックス「Microgroove」を仕立て上げるDIY事例が紹介されています。シンセ音源やサンプラー、シーケンサー機能を取り込み、1キー1機能に割り当てた操作性をハードとソフトの両面から完結させています。
+専用の基板を一から設計するのではなく、既存の完成されたマイコンボードをベースに選び、3Dプリントケースとソフトウェアの組み合わせによってひとつの独立した楽器製品として完成させている点が面白いと感じました。</description>
+    </item>
     
     <item>
       <title>古いSSDをゲームカートリッジにする技</title>
@@ -116,19 +128,6 @@ Arduboyは128x64ドットのモノクロ有機ELディスプレイとArduino互�
 この記事では、スマートフォンの置き場所となる3Dプリント製のスタンドにタクトスイッチとESP32-S3を組み込み、スマホを置いている時間を「集中時間」として記録するガジェットを紹介しています。
 スマホを持ち上げるとOLEDディスプレイで5秒のカウントダウンが始まり、時間内に戻さないと記録がリセットされる仕組みや、本体のWebサーバーから生産性のヒートマップを確認できる機能など、心理的なアプローチをハードウェアで実装する概要がまとめられています。
 スマートフォンの台の部分で使用時間を推定するというアイデアは素朴ですが、コロンブスの卵的な発想で面白いです。
- </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタで作られたベイブレードのようなおもちゃ</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%83%99%E3%82%A4%E3%83%96%E3%83%AC%E3%83%BC%E3%83%89%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83/</link>
-      <pubDate>Wed, 15 Jul 2026 22:15:02 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%83%99%E3%82%A4%E3%83%96%E3%83%AC%E3%83%BC%E3%83%89%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作られたベイブレードのようなおもちゃ.jpg"&gt;Shintaro NakajimaさんのPostから発見。画像もここから転載。
-からくり的な仕組みを持つ3Dプリンタ製の作品は 単なる模型とは違った面白さがあります。
-この記事で紹介されている「Rubber Powered Spinning Top」は、3Dプリントしたパーツに市販の輪ゴムを組み合わせることで、プラスチック特有のヘタれを回避したゼンマイ式のコマ玩具です。エネルギーを蓄えるバネ部分をPLAで無理に作るのではなく、入手が容易で交換も簡単な輪ゴムに任せる設計になっており、トリガーによるリリース機構などの大まかな構造が紹介されています。
-3Dプリンタ造形物に輪ゴムをスマートに組み込んで耐久性と実用性を両立させる設計アプローチが面白いと感じました。
  </description>
     </item>
     
