@@ -5,9 +5,21 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 30 Jun 2026 21:55:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 21:41:11 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタでクッキーを焼く挑戦</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%82%AF%E3%83%83%E3%82%AD%E3%83%BC%E3%82%92%E7%84%BC%E3%81%8F%E6%8C%91%E6%88%A6/</link>
+      <pubDate>Tue, 04 Aug 2026 21:41:11 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%82%AF%E3%83%83%E3%82%AD%E3%83%BC%E3%82%92%E7%84%BC%E3%81%8F%E6%8C%91%E6%88%A6/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタでクッキーを焼く挑戦.jpg"&gt;Cookies, Baked The 3D Printer Wayから発見。画像もここから転載。
+3Dプリンタのベッドは、100度程度まで加熱でき、また密閉型の3Dプリンタは、ある程度の保温性能を備えています。
+この記事ではそんな3Dプリンタの特徴を「オーブン」ととらえてクッキーを焼く実験を紹介しています。衛生面や機材への影響から推奨はされていませんが、プリンタの熱を調理に利用するという発想は面白いです
+ </description>
+    </item>
     
     <item>
       <title>体にまとうタイプの電気殺虫器</title>
@@ -129,23 +141,6 @@ Arduinoを用いた開発ではマイコンにプログラムを書き込むこ�
 積層式の3Dプリンタの最上面の造形品質を上げるための手法として「アイロンがけ」（ironing)があります。 これは熱した3Dプリンタのノズルを使って、3Dプリント成果物の最上面を「均す」というテクニックです。
 しかし、こんな強引な方法をせずとも、吐出量や印刷速度を工夫すればアイロンがけと同等かそれ以上の効果が得られるようです。
  </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタ用の引き出し型サポート台</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E7%94%A8%E3%81%AE%E5%BC%95%E3%81%8D%E5%87%BA%E3%81%97%E5%9E%8B%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E5%8F%B0/</link>
-      <pubDate>Wed, 11 Mar 2026 23:23:01 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E7%94%A8%E3%81%AE%E5%BC%95%E3%81%8D%E5%87%BA%E3%81%97%E5%9E%8B%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E5%8F%B0/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ用の引き出し型サポート台.jpg"&gt;渡邊恵太研究室/Watanabe Keita Laboratory さんのPostから発見。画像もここから転載。
-積層式の3Dプリンタは、台（ベッド）の上にプラスチックを重ねていくことで造形します。そのために、ベッドに対して角度が水平に近い面を造形するためには工夫が必要です。
-通常は、この問題に対処するために「サポート」と呼ばれる「足」のようなパーツを出力し、その上に本当に造形したいパーツを出力します。 しかし、この方法は無駄にプラスチックを吐出するため、時間も素材も余計にかかってしまうという問題があります。
-このPostでは、この問題に対応するために、3Dプリンタの横に引き出し式のサポート台を用意し、これを3Dプリンタ自身が引っ張り出すことで、サポートの代わりとしています。
-3Dプリンタのヘッドが印刷以外の用途で利用するというアイデアはとても面白く、またサポートを使う際の問題を鮮やかに解決していてとても良いアイデアです。
-#インタラクション2026 にて、「DynaPin」を学部3年、一井がデモ発表します。
-3Dプリンタのヘッドを用いてピンアレイを引き出し、サポートを構築します。
-ユーザの介入を必要とすることなく、オブジェクトを制御してフィラメント使用量と造形時間を削減します。 pic.twitter.com/h3nHHnZHoG
-&amp;mdash; 渡邊恵太研究室/Watanabe Keita Laboratory (@keita_lab) March 5, 2026  </description>
     </item>
     
   </channel>

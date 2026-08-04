@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 03 Aug 2026 22:55:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 21:41:11 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタでクッキーを焼く挑戦</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%82%AF%E3%83%83%E3%82%AD%E3%83%BC%E3%82%92%E7%84%BC%E3%81%8F%E6%8C%91%E6%88%A6/</link>
+      <pubDate>Tue, 04 Aug 2026 21:41:11 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%82%AF%E3%83%83%E3%82%AD%E3%83%BC%E3%82%92%E7%84%BC%E3%81%8F%E6%8C%91%E6%88%A6/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタでクッキーを焼く挑戦.jpg"&gt;Cookies, Baked The 3D Printer Wayから発見。画像もここから転載。
+3Dプリンタのベッドは、100度程度まで加熱でき、また密閉型の3Dプリンタは、ある程度の保温性能を備えています。
+この記事ではそんな3Dプリンタの特徴を「オーブン」ととらえてクッキーを焼く実験を紹介しています。衛生面や機材への影響から推奨はされていませんが、プリンタの熱を調理に利用するという発想は面白いです
+ </description>
+    </item>
     
     <item>
       <title>M5Stack Cardputer-ADVに独自のカバーを付けることで構成されるグルーブボックス</title>
@@ -115,20 +127,6 @@ QWERTYキーボードを搭載した小型のテキスト入力端末という�
 Arduboyは128x64ドットのモノクロ有機ELディスプレイとArduino互換のマイコンを組み合わせた、オープンソースのカード型8bitゲームハードウェアです。
 この記事では、そのArduboyのファームウェアと互換性を持ち、超小型の筐体に本格的なアーケード筐体のデザインを落とし込んだDIYキット「DIY Mini Retro Arcade Machine」を紹介しています。3Dプリントされた外装パーツと専用の基板、アクリルパネルを組み合わせることで、手のひらサイズでありながら、ジョイスティックやコインスロット風のLEDなど、実物のアーケードゲーム機のディテールを精密に再現している点が特徴です。
 本家のArduboyはクレジットカードサイズの印象的な筐体ですが、この作例はまた違った魅力があります。</description>
-    </item>
-    
-    <item>
-      <title>スマートフォンの使用時間を制限できるスマホスタンド</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%81%AE%E4%BD%BF%E7%94%A8%E6%99%82%E9%96%93%E3%82%92%E5%88%B6%E9%99%90%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89/</link>
-      <pubDate>Thu, 16 Jul 2026 20:29:42 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%81%AE%E4%BD%BF%E7%94%A8%E6%99%82%E9%96%93%E3%82%92%E5%88%B6%E9%99%90%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/スマートフォンの使用時間を制限できるスマホスタンド.jpg"&gt;Phone Stand Aims To Fight Addictionから発見。画像もここから転載。
-スマートフォンは便利ですが、ついつい見てしまい「スマホ中毒」と呼ばれるような状態になってしまう問題は社会現象にもなっています。
-この記事では、スマートフォンの置き場所となる3Dプリント製のスタンドにタクトスイッチとESP32-S3を組み込み、スマホを置いている時間を「集中時間」として記録するガジェットを紹介しています。
-スマホを持ち上げるとOLEDディスプレイで5秒のカウントダウンが始まり、時間内に戻さないと記録がリセットされる仕組みや、本体のWebサーバーから生産性のヒートマップを確認できる機能など、心理的なアプローチをハードウェアで実装する概要がまとめられています。
-スマートフォンの台の部分で使用時間を推定するというアイデアは素朴ですが、コロンブスの卵的な発想で面白いです。
- </description>
     </item>
     
   </channel>
