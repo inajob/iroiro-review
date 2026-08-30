@@ -5,9 +5,22 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 26 Aug 2026 22:22:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 23:31:13 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>水平オーバーハングを印刷するための技</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%B0%B4%E5%B9%B3%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%8F%E3%83%B3%E3%82%B0%E3%82%92%E5%8D%B0%E5%88%B7%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E6%8A%80/</link>
+      <pubDate>Sun, 30 Aug 2026 23:31:13 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%B0%B4%E5%B9%B3%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%8F%E3%83%B3%E3%82%B0%E3%82%92%E5%8D%B0%E5%88%B7%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E6%8A%80/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/水平オーバーハングを印刷するための技.jpg"&gt;More On Wave Overhangs For 3D Printingから発見。画像もここから転載。
+積層型3Dプリンタにおいて、オーバーハングとは下層のサポートなしに空中に張り出した形状を造形しようとすると、溶けたフィラメントが垂れ落ちてしまい正常に印刷できない現象のことです。
+この記事では、サポート材を使わずに水平なオーバーハングを印刷するための手法として、ノズルの走査線を水面の波紋（ウェーブ）のような軌道にして端から成長させていくウェーブオーバーハング（Wave Overhangs）という技術が紹介されています。従来の弧状（Arc）パス で発生していた中央部のくぼみを防げる一方で、反り（ワーピング）の発生といった課題もあり、現在はOrca Slicerのフォーク版などでオープンソースコミュニティによる検証が進められています。
+スライサーのパス生成アルゴリズムの工夫だけで、物理的なサポートなしに水平面の造形精度をどこまで向上できるかという点が面白いと感じました。
+ </description>
+    </item>
     
     <item>
       <title>ナットを埋め込むための3Dプリントの造形テクニック</title>
@@ -117,22 +130,6 @@ Xでリング状の蝶番のPostが話題となっていましたが、このMak
 この記事では、標準的なCoreXY機構を極限まで小型化した3Dプリンタの製作事例を紹介しています。 筐体サイズを最小化するためにステッピングモーターを本体底面に配置し、そこから複雑なベルト経路を構成してヘッドを駆動させています。主要な構造部品として、モーターマウントやベルトテンショナー、およびプーリーを保持するための精密なジョイントパーツが自作の3Dプリント品として採用されており、限られた容積で高い剛性を確保する工夫がなされています。
 自作に必要な専用パーツを、一般的な3Dプリンタの造形範囲である225mm以内というサイズに収まるよう設計し、既存の機体でも出力できるように工夫されている点が面白いと感じました。
  </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタを一時停止して透明な板を埋め込む技</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E4%B8%80%E6%99%82%E5%81%9C%E6%AD%A2%E3%81%97%E3%81%A6%E9%80%8F%E6%98%8E%E3%81%AA%E6%9D%BF%E3%82%92%E5%9F%8B%E3%82%81%E8%BE%BC%E3%82%80%E6%8A%80/</link>
-      <pubDate>Wed, 17 Jun 2026 23:41:07 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E4%B8%80%E6%99%82%E5%81%9C%E6%AD%A2%E3%81%97%E3%81%A6%E9%80%8F%E6%98%8E%E3%81%AA%E6%9D%BF%E3%82%92%E5%9F%8B%E3%82%81%E8%BE%BC%E3%82%80%E6%8A%80/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタを一時停止して透明な板を埋め込む技.jpg"&gt;tomo makabeさんのPostから発見。画像もここから転載。
-積層式の3Dプリンタでは、途中で出力を一時停止して、ナットや磁石を埋め込むテクニックがありますが、このPostではこの仕組みを応用して透明なアクリルパネルを埋め込む手法を紹介しています。
-出力を一時停止してナットや磁石を埋め込むテクニックがありますがそれの応用。透明な板を埋めてみました。後で接着する必要が無く簡単です。
-透明に限らず広い平面を素早く出力したい時にも使えるかも。 pic.twitter.com/pY5wMrIhjc
-&amp;mdash; tomo makabe (@mkbtm) June 9, 2026  また、この作例にインスパイヤされ、Xenoahさんは六角格子のパネルを埋め込んでいます。
-早速テストしてみた。
-面白い表現出来るぞ!!!!! https://t.co/efglIYT1GP pic.twitter.com/snrYNhqnOp
-&amp;mdash; Xenoah (@shuminchuuu) June 9, 2026  制約の多い積層式の3Dプリントですが、こういうテクニックを駆使することで、設計の自由度を高められるのは面白いです。</description>
     </item>
     
   </channel>

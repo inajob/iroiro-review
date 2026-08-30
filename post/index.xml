@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 27 Aug 2026 21:31:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 23:31:13 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>水平オーバーハングを印刷するための技</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%B0%B4%E5%B9%B3%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%8F%E3%83%B3%E3%82%B0%E3%82%92%E5%8D%B0%E5%88%B7%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E6%8A%80/</link>
+      <pubDate>Sun, 30 Aug 2026 23:31:13 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%B0%B4%E5%B9%B3%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%8F%E3%83%B3%E3%82%B0%E3%82%92%E5%8D%B0%E5%88%B7%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E6%8A%80/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/水平オーバーハングを印刷するための技.jpg"&gt;More On Wave Overhangs For 3D Printingから発見。画像もここから転載。
+積層型3Dプリンタにおいて、オーバーハングとは下層のサポートなしに空中に張り出した形状を造形しようとすると、溶けたフィラメントが垂れ落ちてしまい正常に印刷できない現象のことです。
+この記事では、サポート材を使わずに水平なオーバーハングを印刷するための手法として、ノズルの走査線を水面の波紋（ウェーブ）のような軌道にして端から成長させていくウェーブオーバーハング（Wave Overhangs）という技術が紹介されています。従来の弧状（Arc）パス で発生していた中央部のくぼみを防げる一方で、反り（ワーピング）の発生といった課題もあり、現在はOrca Slicerのフォーク版などでオープンソースコミュニティによる検証が進められています。
+スライサーのパス生成アルゴリズムの工夫だけで、物理的なサポートなしに水平面の造形精度をどこまで向上できるかという点が面白いと感じました。
+ </description>
+    </item>
     
     <item>
       <title>残像効果を利用したポケットサイズの動画再生装置</title>
@@ -120,17 +133,6 @@ M5Stack Cardputer ADVというのは、カードサイズのマイコン端末�
 要領の少ないSSDはあまり活用方法がなく、引き出しの奥の方に余っていたりしませんか？
 この記事では、LewdMeat氏が制作した、余剰となった2.5インチSATA SSDをレトロゲームのカセットのように見立てて活用するプロジェクトを紹介しています。3Dプリンタで制作したカケースにSSDを収め、USB 3.0-SATA変換アダプタを搭載したドックに挿入することで、PC側で自動的にスクリプトが検証されゲームが起動する仕組みになっています。
 余ったストレージの物理的な抜き差し動作を、ソフトウェアの起動トリガーとして直接結びつけるアイデアが面白いと感じました。</description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタで作成されたリング状の蝶番</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%95%E3%82%8C%E3%81%9F%E3%83%AA%E3%83%B3%E3%82%B0%E7%8A%B6%E3%81%AE%E8%9D%B6%E7%95%AA/</link>
-      <pubDate>Fri, 31 Jul 2026 00:12:14 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%95%E3%82%8C%E3%81%9F%E3%83%AA%E3%83%B3%E3%82%B0%E7%8A%B6%E3%81%AE%E8%9D%B6%E7%95%AA/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作成されたリング状の蝶番.jpg"&gt;【ポン付け簡単組み立て】話題のリング状蝶番 (Snap-Fit Ring Hinge)から発見。画像もここから転載。
-Xでリング状の蝶番のPostが話題となっていましたが、このMakerWorldのページでは3Dプリンタでその構造を再現したモデルを公開されています。
-3Dプリンタでヒンジを作る方法はいくつか見たことがありますが、この方法は見た目も良くシンプルでかつ機能的だと感じました。</description>
     </item>
     
   </channel>
