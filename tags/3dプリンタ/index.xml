@@ -5,9 +5,22 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 30 Aug 2026 23:31:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 21:47:27 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタで作られた風船バンジョー</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E9%A2%A8%E8%88%B9%E3%83%90%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%BC/</link>
+      <pubDate>Mon, 31 Aug 2026 21:47:27 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E9%A2%A8%E8%88%B9%E3%83%90%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作られた風船バンジョー.jpg"&gt;May This Balloon Banjo Resonate With Youから発見。画像もここから転載。
+ほとんどの弦楽器の音を大きくするための「響き胴」は、構造や容量が固定されているため音響特性を変更できません。
+この記事では、響き胴に風船を採用することで、空気圧や膜の張り具合によって音の響きを可変にした「バルーンバンジョー」というDIY楽器が紹介されています。金属部品を使わず3Dプリントパーツで組める設計になっており、風船の膨らませ方やテグスの張力を変えるだけで音が変化する仕組みです。
+身近な風船を題材にしつつ、風船の空気圧をそのまま可変の音増幅機構として組み込む発想が面白いと感じました。
+ </description>
+    </item>
     
     <item>
       <title>水平オーバーハングを印刷するための技</title>
@@ -117,19 +130,6 @@ Xでリング状の蝶番のPostが話題となっていましたが、このMak
 3Dプリンタにおける「プリントインプレース（造形中の一体成形）」というのは、可動部を含む機構を分解することなく一度のプリントで完成させる技法です。しかし、この方式では造形の向きが制限され、本来の強度や精度を確保することが難しくなる場合があります。
 この記事では、ヒンジの一部を別パーツとしてプリントし、後から接着する手法を紹介しています。 ヒンジの軸となるフィラメントも組み立て後に固定される構造となっており、特定の向きでプリントし直す手間を省きつつ、設計の柔軟性を高める工夫がなされています。
 別パーツ化によって機構部分だけを何度も作り直せる点は、複雑なメカを設計する際に非常に効率的だと感じました。</description>
-    </item>
-    
-    <item>
-      <title>なるべく3Dプリント部品で設計した小型のCoreXY 3Dプリンタ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%81%AA%E3%82%8B%E3%81%B9%E3%81%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E9%83%A8%E5%93%81%E3%81%A7%E8%A8%AD%E8%A8%88%E3%81%97%E3%81%9F%E5%B0%8F%E5%9E%8B%E3%81%AEcorexy-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
-      <pubDate>Thu, 18 Jun 2026 21:36:11 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%AA%E3%82%8B%E3%81%B9%E3%81%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E9%83%A8%E5%93%81%E3%81%A7%E8%A8%AD%E8%A8%88%E3%81%97%E3%81%9F%E5%B0%8F%E5%9E%8B%E3%81%AEcorexy-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/なるべく3Dプリント部品で設計した小型のCoreXY 3Dプリンタ.jpg"&gt;3D Printing A Miniature CoreXY Printerから発見。画像もここから転載。
-なるべく3Dプリント部品で設計された小型のCoreXY 3Dプリンタ3Dプリンタの作例です。
-この記事では、標準的なCoreXY機構を極限まで小型化した3Dプリンタの製作事例を紹介しています。 筐体サイズを最小化するためにステッピングモーターを本体底面に配置し、そこから複雑なベルト経路を構成してヘッドを駆動させています。主要な構造部品として、モーターマウントやベルトテンショナー、およびプーリーを保持するための精密なジョイントパーツが自作の3Dプリント品として採用されており、限られた容積で高い剛性を確保する工夫がなされています。
-自作に必要な専用パーツを、一般的な3Dプリンタの造形範囲である225mm以内というサイズに収まるよう設計し、既存の機体でも出力できるように工夫されている点が面白いと感じました。
- </description>
     </item>
     
   </channel>

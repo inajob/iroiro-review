@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 30 Aug 2026 23:31:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 21:47:27 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタで作られた風船バンジョー</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E9%A2%A8%E8%88%B9%E3%83%90%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%BC/</link>
+      <pubDate>Mon, 31 Aug 2026 21:47:27 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E9%A2%A8%E8%88%B9%E3%83%90%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作られた風船バンジョー.jpg"&gt;May This Balloon Banjo Resonate With Youから発見。画像もここから転載。
+ほとんどの弦楽器の音を大きくするための「響き胴」は、構造や容量が固定されているため音響特性を変更できません。
+この記事では、響き胴に風船を採用することで、空気圧や膜の張り具合によって音の響きを可変にした「バルーンバンジョー」というDIY楽器が紹介されています。金属部品を使わず3Dプリントパーツで組める設計になっており、風船の膨らませ方やテグスの張力を変えるだけで音が変化する仕組みです。
+身近な風船を題材にしつつ、風船の空気圧をそのまま可変の音増幅機構として組み込む発想が面白いと感じました。
+ </description>
+    </item>
     
     <item>
       <title>水平オーバーハングを印刷するための技</title>
@@ -121,18 +134,6 @@ ESP32-P4はかなりパワフルなマイコンなので、今までの組み込
 M5Stack Cardputer ADVというのは、カードサイズのマイコン端末であるM5Stack Cardputerに、バッテリー容量の拡張やマイク性能の向上、基板レイアウトの改善などのマイナーチェンジを施したマイコン組み込み開発向けデバイスです。
 この記事では、このM5Stack Cardputer ADVに専用ファームウェアを焼き込み、3Dプリンタで出力したキーキャップやケースを組み合わせることで、4トラックのアシッド系グルーヴボックス「Microgroove」を仕立て上げるDIY事例が紹介されています。シンセ音源やサンプラー、シーケンサー機能を取り込み、1キー1機能に割り当てた操作性をハードとソフトの両面から完結させています。
 専用の基板を一から設計するのではなく、既存の完成されたマイコンボードをベースに選び、3Dプリントケースとソフトウェアの組み合わせによってひとつの独立した楽器製品として完成させている点が面白いと感じました。</description>
-    </item>
-    
-    <item>
-      <title>古いSSDをゲームカートリッジにする技</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%8F%A4%E3%81%84ssd%E3%82%92%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%AB%E3%83%BC%E3%83%88%E3%83%AA%E3%83%83%E3%82%B8%E3%81%AB%E3%81%99%E3%82%8B%E6%8A%80/</link>
-      <pubDate>Sun, 02 Aug 2026 22:02:07 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%8F%A4%E3%81%84ssd%E3%82%92%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%AB%E3%83%BC%E3%83%88%E3%83%AA%E3%83%83%E3%82%B8%E3%81%AB%E3%81%99%E3%82%8B%E6%8A%80/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/古いSSDをゲームカートリッジにする技.jpg"&gt;Old SSDs Find New Life As Game Cartridgesから発見。画像もここから転載。
-要領の少ないSSDはあまり活用方法がなく、引き出しの奥の方に余っていたりしませんか？
-この記事では、LewdMeat氏が制作した、余剰となった2.5インチSATA SSDをレトロゲームのカセットのように見立てて活用するプロジェクトを紹介しています。3Dプリンタで制作したカケースにSSDを収め、USB 3.0-SATA変換アダプタを搭載したドックに挿入することで、PC側で自動的にスクリプトが検証されゲームが起動する仕組みになっています。
-余ったストレージの物理的な抜き差し動作を、ソフトウェアの起動トリガーとして直接結びつけるアイデアが面白いと感じました。</description>
     </item>
     
   </channel>

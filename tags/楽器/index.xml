@@ -5,9 +5,22 @@
     <description>Recent content in 楽器 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 03 Aug 2026 22:55:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 21:47:27 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%A5%BD%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタで作られた風船バンジョー</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E9%A2%A8%E8%88%B9%E3%83%90%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%BC/</link>
+      <pubDate>Mon, 31 Aug 2026 21:47:27 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E9%A2%A8%E8%88%B9%E3%83%90%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作られた風船バンジョー.jpg"&gt;May This Balloon Banjo Resonate With Youから発見。画像もここから転載。
+ほとんどの弦楽器の音を大きくするための「響き胴」は、構造や容量が固定されているため音響特性を変更できません。
+この記事では、響き胴に風船を採用することで、空気圧や膜の張り具合によって音の響きを可変にした「バルーンバンジョー」というDIY楽器が紹介されています。金属部品を使わず3Dプリントパーツで組める設計になっており、風船の膨らませ方やテグスの張力を変えるだけで音が変化する仕組みです。
+身近な風船を題材にしつつ、風船の空気圧をそのまま可変の音増幅機構として組み込む発想が面白いと感じました。
+ </description>
+    </item>
     
     <item>
       <title>M5Stack Cardputer-ADVに独自のカバーを付けることで構成されるグルーブボックス</title>
@@ -118,18 +131,6 @@ MIDI対応のパイプをたたく楽器の作例です。
 仕組みはシンプルで、ギターの単音を鳴らすとその音に応じた操作が行われるというものです。この仕組みであればギターから特別な信号をパソコンに送らずとも単にマイクでギターの音を拾うことで実現できます。
 画面にはギターのフレットを模した機能一覧が表示されるので、該当箇所を押しながら弦をはじくとその機能が実行されるというものです。
 演奏中にまず使わない1音を登録するなど、工夫すれば演奏の邪魔にならず、かつギターから手を放さずに操作ができて、便利。というもののようです。
- </description>
-    </item>
-    
-    <item>
-      <title>接触位置センサを活用した電子楽器</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%8E%A5%E8%A7%A6%E4%BD%8D%E7%BD%AE%E3%82%BB%E3%83%B3%E3%82%B5%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E9%9B%BB%E5%AD%90%E6%A5%BD%E5%99%A8/</link>
-      <pubDate>Thu, 23 Oct 2025 00:53:59 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%8E%A5%E8%A7%A6%E4%BD%8D%E7%BD%AE%E3%82%BB%E3%83%B3%E3%82%B5%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E9%9B%BB%E5%AD%90%E6%A5%BD%E5%99%A8/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/接触位置センサを活用した電子楽器.jpg"&gt;A Childhood Dream, Created And Open Sourcedから発見。画像もここから転載。
-接触位置センサを活用した電子楽器の作例です。
-圧力を感知する4つのボタンと、リボン型の圧力センサーを使って、ギターのような持ち方で演奏できるというものです。 見た目もそれっぽく、試しに触ってみたくなる出来栄えです。
  </description>
     </item>
     
