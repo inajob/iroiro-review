@@ -5,9 +5,23 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 31 Aug 2026 21:47:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 21:27:02 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CH32X035をコアとした携帯ゲーム機</title>
+      <link>https://inajob.github.io/iroiro-review/post/ch32x035%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Tue, 01 Sep 2026 21:27:02 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/ch32x035%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32X035をコアとした携帯ゲーム機.jpg"&gt;CHGame — the lowest cost game system. $39.から発見。画像もここから転載。
+あのArduboy の作者が手掛ける、新しい携帯ゲーム機のプロトタイプです。
+コアとなるマイコンはCH32X035G8U6で 128*128のカラー液晶ディスプレイを搭載しています。 初回のプロトタイプが販売されており、$39で購入できます（送料は+$5かかるように見えます）
+最終的にはかっこいいケースに収められた携帯ゲーム機を作ることが計画されているようです。 この新しいゲーム機を応援するためにもぜひ、購入してみてはどうでしょうか？
+ Lowest cost game system plays doomhttps://t.co/smekIHZLEM pic.twitter.com/DvaFCxBDTv
+&amp;mdash; Kevin Bates (@bateskecom) August 31, 2026  </description>
+    </item>
     
     <item>
       <title>3Dプリンタで作られた風船バンジョー</title>
@@ -122,18 +136,6 @@ ESP32-P4はかなりパワフルなマイコンなので、今までの組み込
 3Dプリンタのベッドは、100度程度まで加熱でき、また密閉型の3Dプリンタは、ある程度の保温性能を備えています。
 この記事ではそんな3Dプリンタの特徴を「オーブン」ととらえてクッキーを焼く実験を紹介しています。衛生面や機材への影響から推奨はされていませんが、プリンタの熱を調理に利用するという発想は面白いです
  </description>
-    </item>
-    
-    <item>
-      <title>M5Stack Cardputer-ADVに独自のカバーを付けることで構成されるグルーブボックス</title>
-      <link>https://inajob.github.io/iroiro-review/post/m5stack-cardputer-adv%E3%81%AB%E7%8B%AC%E8%87%AA%E3%81%AE%E3%82%AB%E3%83%90%E3%83%BC%E3%82%92%E4%BB%98%E3%81%91%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E6%A7%8B%E6%88%90%E3%81%95%E3%82%8C%E3%82%8B%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%96%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/</link>
-      <pubDate>Mon, 03 Aug 2026 22:55:04 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/m5stack-cardputer-adv%E3%81%AB%E7%8B%AC%E8%87%AA%E3%81%AE%E3%82%AB%E3%83%90%E3%83%BC%E3%82%92%E4%BB%98%E3%81%91%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E6%A7%8B%E6%88%90%E3%81%95%E3%82%8C%E3%82%8B%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%96%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/M5Stack Cardputer-ADVに独自のカバーを付けることで構成されるグルーブボックス.jpg"&gt;Microgroove — DIY groovebox in your pocketから発見。画像もここから転載。
-M5Stack Cardputer ADVというのは、カードサイズのマイコン端末であるM5Stack Cardputerに、バッテリー容量の拡張やマイク性能の向上、基板レイアウトの改善などのマイナーチェンジを施したマイコン組み込み開発向けデバイスです。
-この記事では、このM5Stack Cardputer ADVに専用ファームウェアを焼き込み、3Dプリンタで出力したキーキャップやケースを組み合わせることで、4トラックのアシッド系グルーヴボックス「Microgroove」を仕立て上げるDIY事例が紹介されています。シンセ音源やサンプラー、シーケンサー機能を取り込み、1キー1機能に割り当てた操作性をハードとソフトの両面から完結させています。
-専用の基板を一から設計するのではなく、既存の完成されたマイコンボードをベースに選び、3Dプリントケースとソフトウェアの組み合わせによってひとつの独立した楽器製品として完成させている点が面白いと感じました。</description>
     </item>
     
   </channel>

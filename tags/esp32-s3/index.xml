@@ -5,9 +5,23 @@
     <description>Recent content in ESP32-S3 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 21 Jul 2026 22:44:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 21:27:02 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/esp32-s3/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CH32X035をコアとした携帯ゲーム機</title>
+      <link>https://inajob.github.io/iroiro-review/post/ch32x035%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Tue, 01 Sep 2026 21:27:02 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/ch32x035%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32X035をコアとした携帯ゲーム機.jpg"&gt;CHGame — the lowest cost game system. $39.から発見。画像もここから転載。
+あのArduboy の作者が手掛ける、新しい携帯ゲーム機のプロトタイプです。
+コアとなるマイコンはCH32X035G8U6で 128*128のカラー液晶ディスプレイを搭載しています。 初回のプロトタイプが販売されており、$39で購入できます（送料は+$5かかるように見えます）
+最終的にはかっこいいケースに収められた携帯ゲーム機を作ることが計画されているようです。 この新しいゲーム機を応援するためにもぜひ、購入してみてはどうでしょうか？
+ Lowest cost game system plays doomhttps://t.co/smekIHZLEM pic.twitter.com/DvaFCxBDTv
+&amp;mdash; Kevin Bates (@bateskecom) August 31, 2026  </description>
+    </item>
     
     <item>
       <title>反射型LCDとESP32-S3で作られたハンドヘルド端末</title>
@@ -121,17 +135,6 @@ USBデバイスとしても、BLEサーバーとしてもふるまうことが�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32-S3でWindows95が動く.jpg"&gt;Tiny386 On An Espressif ESP32-S3から発見。画像もここから転載。
 ESP32-S3でWindows95が動くというデモが公開されています。 ESP32-S3上で80386エミュレータを動かしそのうえで動かしているようです。ややたどたどしい動作ではあるものの、Windows95が動いています。
 デモの動画を見るとインターネット接続もできるようで、あと少し性能が良いマイコンがあれば、実用的にWindows95を利用できそうです。 当時はこれで事足りる仕事もあったわけで、$30程度のマイコンボードを使い、パソコンよりも安価な事務端末のようなものが再び生まれたりしないかな？と思ったりしています。
- </description>
-    </item>
-    
-    <item>
-      <title>4択クイズ専用端末</title>
-      <link>https://inajob.github.io/iroiro-review/post/4%E6%8A%9E%E3%82%AF%E3%82%A4%E3%82%BA%E5%B0%82%E7%94%A8%E7%AB%AF%E6%9C%AB/</link>
-      <pubDate>Sun, 19 Oct 2025 22:18:16 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/4%E6%8A%9E%E3%82%AF%E3%82%A4%E3%82%BA%E5%B0%82%E7%94%A8%E7%AB%AF%E6%9C%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/4択クイズ専用端末.jpg"&gt;QuasarQから発見。画像もここから転載。
-4択クイズ専用端末です。ESP32-S3-LCD-11.69というモジュールを使い、4択選択のための4つのボタンを追加で用意しています。 中に入れるコンテンツ次第で様々な展開の可能性があるデバイスだと感じました。
  </description>
     </item>
     

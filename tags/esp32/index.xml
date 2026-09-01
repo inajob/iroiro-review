@@ -5,9 +5,23 @@
     <description>Recent content in ESP32 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 07 Jul 2026 23:10:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 21:27:02 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/esp32/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CH32X035をコアとした携帯ゲーム機</title>
+      <link>https://inajob.github.io/iroiro-review/post/ch32x035%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Tue, 01 Sep 2026 21:27:02 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/ch32x035%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32X035をコアとした携帯ゲーム機.jpg"&gt;CHGame — the lowest cost game system. $39.から発見。画像もここから転載。
+あのArduboy の作者が手掛ける、新しい携帯ゲーム機のプロトタイプです。
+コアとなるマイコンはCH32X035G8U6で 128*128のカラー液晶ディスプレイを搭載しています。 初回のプロトタイプが販売されており、$39で購入できます（送料は+$5かかるように見えます）
+最終的にはかっこいいケースに収められた携帯ゲーム機を作ることが計画されているようです。 この新しいゲーム機を応援するためにもぜひ、購入してみてはどうでしょうか？
+ Lowest cost game system plays doomhttps://t.co/smekIHZLEM pic.twitter.com/DvaFCxBDTv
+&amp;mdash; Kevin Bates (@bateskecom) August 31, 2026  </description>
+    </item>
     
     <item>
       <title>64bitコアメモリ搭載のUSBドライブ</title>
@@ -117,19 +131,6 @@ MIDIコマンドでサウンドをトリガーして演奏できる 簡易的な
 ESP32をコアとした電子ペーパー制御ボードを使っており、WiFi経由で天気予報の情報を取得しています。 1日の間変わらないようなずっと情報を表示しっぱなしにしたい場合には、液晶ディスプレイなんかよりは電子ペーパーの方がよさそうですね。
 幼い子どもが自分で天気予報を確認できるように、12時間後までの天気を表示するシステムを作りました！☀️🌧️表示に電子ペーパーを使い、視認性と省電力に配慮。ハードウェアとしては、Elecrow社のCrowPanel ESP32 E-Paper HMI 5.79-inch Displayを使用。ソースコードはGitHub👉 https://t.co/sOZQxKKz7v pic.twitter.com/4LeT6jZNz9
 &amp;mdash; きゅーこん (@cubic9com) June 13, 2025  </description>
-    </item>
-    
-    <item>
-      <title>4足歩行のかわいいロボット</title>
-      <link>https://inajob.github.io/iroiro-review/post/4%E8%B6%B3%E6%AD%A9%E8%A1%8C%E3%81%AE%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</link>
-      <pubDate>Mon, 09 Feb 2026 22:24:52 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/4%E8%B6%B3%E6%AD%A9%E8%A1%8C%E3%81%AE%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/4足歩行のかわいいロボット.jpg"&gt;Building A Little Quadruped Robotから発見。画像もここから転載。
-4足歩行のかわいいロボットの作例です。
-8つのサーボモーターと、128*64のディスプレイで顔を表示するというシンプルな構成ですが、生き物のような動きが魅力的です。 オーブンソースで公開されており、だいたい$60程度で作成できるとの事です。
-ポーズを登録するためのGUIツールなども用意されており、ロボット製作の入門として良さそうです。
- </description>
     </item>
     
   </channel>
