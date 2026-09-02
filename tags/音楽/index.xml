@@ -5,9 +5,21 @@
     <description>Recent content in 音楽 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 03 Aug 2026 22:55:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 22:04:56 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%9F%B3%E6%A5%BD/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32用のシンセサイザーライブラリ「ESP32Synth」</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32%E7%94%A8%E3%81%AE%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AAesp32synth/</link>
+      <pubDate>Wed, 02 Sep 2026 22:04:56 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32%E7%94%A8%E3%81%AE%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AAesp32synth/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32用のシンセサイザーライブラリ「ESP32Synth」.jpg"&gt;ESP32Synth : An Audio Synthesis Library For The ESP32から発見。画像もここから転載。
+ESP32ほどの性能があれば簡単な音を出すシステムを作る自体は難しくないものの、リアルタイム処理の最適化やマルチコアの使い分けまで考慮すると、自作で手を出すには少しハードルが高い領域でもあります。
+この記事では、計算パスから浮動小数点処理や割算を完全に排除し、固定小数点演算とルックアップテーブルで最適化したESP32用合成ライブラリ「ESP32Synth」が紹介されています。 音声出力タスクを片方のコアに固定してI2S DACへ流し込むことで、もう一方のコアをメイン制御に丸ごと空ける構成をとっています。
+こういうライブラリを利用することで、ESP32やESP32-S3をコアとした電子楽器デバイスなどを簡単に作ることが出来そうです。</description>
+    </item>
     
     <item>
       <title>M5Stack Cardputer-ADVに独自のカバーを付けることで構成されるグルーブボックス</title>
@@ -116,18 +128,6 @@ CH32V002でMODファイルを再生する作例です。 MODファイルとい�
       <guid>https://inajob.github.io/iroiro-review/post/ch32v003%E3%81%A7%E9%9F%B3%E6%A5%BD%E3%82%92%E6%BC%94%E5%A5%8F%E3%81%99%E3%82%8B/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32V003で音楽を演奏する.jpg"&gt;10 Cent Microcontroller Makes Musicから発見。画像もここから転載。
 安価だけど実用的な性能を持つ汎用のICとして有名なCH32V003を使って音を鳴らす作例です。 リポジトリ を見ると8音の和音や簡単な英語の音声合成のデモなども用意されています
- </description>
-    </item>
-    
-    <item>
-      <title>接触位置センサを活用した電子楽器</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%8E%A5%E8%A7%A6%E4%BD%8D%E7%BD%AE%E3%82%BB%E3%83%B3%E3%82%B5%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E9%9B%BB%E5%AD%90%E6%A5%BD%E5%99%A8/</link>
-      <pubDate>Thu, 23 Oct 2025 00:53:59 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%8E%A5%E8%A7%A6%E4%BD%8D%E7%BD%AE%E3%82%BB%E3%83%B3%E3%82%B5%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E9%9B%BB%E5%AD%90%E6%A5%BD%E5%99%A8/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/接触位置センサを活用した電子楽器.jpg"&gt;A Childhood Dream, Created And Open Sourcedから発見。画像もここから転載。
-接触位置センサを活用した電子楽器の作例です。
-圧力を感知する4つのボタンと、リボン型の圧力センサーを使って、ギターのような持ち方で演奏できるというものです。 見た目もそれっぽく、試しに触ってみたくなる出来栄えです。
  </description>
     </item>
     

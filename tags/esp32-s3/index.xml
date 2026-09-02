@@ -5,9 +5,21 @@
     <description>Recent content in ESP32-S3 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 21 Jul 2026 22:44:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 22:04:56 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/esp32-s3/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32用のシンセサイザーライブラリ「ESP32Synth」</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32%E7%94%A8%E3%81%AE%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AAesp32synth/</link>
+      <pubDate>Wed, 02 Sep 2026 22:04:56 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32%E7%94%A8%E3%81%AE%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AAesp32synth/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32用のシンセサイザーライブラリ「ESP32Synth」.jpg"&gt;ESP32Synth : An Audio Synthesis Library For The ESP32から発見。画像もここから転載。
+ESP32ほどの性能があれば簡単な音を出すシステムを作る自体は難しくないものの、リアルタイム処理の最適化やマルチコアの使い分けまで考慮すると、自作で手を出すには少しハードルが高い領域でもあります。
+この記事では、計算パスから浮動小数点処理や割算を完全に排除し、固定小数点演算とルックアップテーブルで最適化したESP32用合成ライブラリ「ESP32Synth」が紹介されています。 音声出力タスクを片方のコアに固定してI2S DACへ流し込むことで、もう一方のコアをメイン制御に丸ごと空ける構成をとっています。
+こういうライブラリを利用することで、ESP32やESP32-S3をコアとした電子楽器デバイスなどを簡単に作ることが出来そうです。</description>
+    </item>
     
     <item>
       <title>反射型LCDとESP32-S3で作られたハンドヘルド端末</title>
@@ -121,17 +133,6 @@ USBデバイスとしても、BLEサーバーとしてもふるまうことが�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32-S3でWindows95が動く.jpg"&gt;Tiny386 On An Espressif ESP32-S3から発見。画像もここから転載。
 ESP32-S3でWindows95が動くというデモが公開されています。 ESP32-S3上で80386エミュレータを動かしそのうえで動かしているようです。ややたどたどしい動作ではあるものの、Windows95が動いています。
 デモの動画を見るとインターネット接続もできるようで、あと少し性能が良いマイコンがあれば、実用的にWindows95を利用できそうです。 当時はこれで事足りる仕事もあったわけで、$30程度のマイコンボードを使い、パソコンよりも安価な事務端末のようなものが再び生まれたりしないかな？と思ったりしています。
- </description>
-    </item>
-    
-    <item>
-      <title>4択クイズ専用端末</title>
-      <link>https://inajob.github.io/iroiro-review/post/4%E6%8A%9E%E3%82%AF%E3%82%A4%E3%82%BA%E5%B0%82%E7%94%A8%E7%AB%AF%E6%9C%AB/</link>
-      <pubDate>Sun, 19 Oct 2025 22:18:16 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/4%E6%8A%9E%E3%82%AF%E3%82%A4%E3%82%BA%E5%B0%82%E7%94%A8%E7%AB%AF%E6%9C%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/4択クイズ専用端末.jpg"&gt;QuasarQから発見。画像もここから転載。
-4択クイズ専用端末です。ESP32-S3-LCD-11.69というモジュールを使い、4択選択のための4つのボタンを追加で用意しています。 中に入れるコンテンツ次第で様々な展開の可能性があるデバイスだと感じました。
  </description>
     </item>
     
