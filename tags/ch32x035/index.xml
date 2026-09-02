@@ -1,0 +1,28 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CH32X035 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/ch32x035/</link>
+    <description>Recent content in CH32X035 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Tue, 01 Sep 2026 21:27:02 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/ch32x035/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CH32X035をコアとした携帯ゲーム機</title>
+      <link>https://inajob.github.io/iroiro-review/post/ch32x035%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Tue, 01 Sep 2026 21:27:02 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/ch32x035%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32X035をコアとした携帯ゲーム機.jpg"&gt;CHGame — the lowest cost game system. $39.から発見。画像もここから転載。
+あのArduboy の作者が手掛ける、新しい携帯ゲーム機のプロトタイプです。
+コアとなるマイコンはCH32X035G8U6で 128*128のカラー液晶ディスプレイを搭載しています。 初回のプロトタイプが販売されており、$39で購入できます（送料は+$5かかるように見えます）
+最終的にはかっこいいケースに収められた携帯ゲーム機を作ることが計画されているようです。 この新しいゲーム機を応援するためにもぜひ、購入してみてはどうでしょうか？
+ Lowest cost game system plays doomhttps://t.co/smekIHZLEM pic.twitter.com/DvaFCxBDTv
+&amp;mdash; Kevin Bates (@bateskecom) August 31, 2026  </description>
+    </item>
+    
+  </channel>
+</rss>
+
