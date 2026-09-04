@@ -5,9 +5,21 @@
     <description>Recent content in 開発ボード on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 24 May 2026 22:17:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 20:45:11 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>USBポートサイズのCH32V203開発ボード</title>
+      <link>https://inajob.github.io/iroiro-review/post/usb%E3%83%9D%E3%83%BC%E3%83%88%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AEch32v203%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <pubDate>Thu, 03 Sep 2026 20:45:11 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/usb%E3%83%9D%E3%83%BC%E3%83%88%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AEch32v203%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/USBポートサイズのCH32V203開発ボード.jpg"&gt;Comu: Tiny CH32V203 in your USB port by Icy Electronics on Tindieから発見。画像もここから転載。
+USB Type-A端子の中に基板全体をそのまま差し込んで格納する形態の開発ボードは、様々なマイコンで実装例があります。
+この記事で紹介されている「Comu」は、CH32V203を搭載し、USB-Aポートの内部スペースにそのまま収まる13×9.4mmの超小型開発ボードです。ポートに挿した状態でも邪魔にならず、側面の端面スルーホールを利用したタッチボタンやLED、裏面のテストパッドからGPIOを引き出せる構成になっています。
+物理的なサイズ制約を極限まで詰めることで、USBポート自体をケース兼設置場所として活用している点が面白いと感じました。</description>
+    </item>
     
     <item>
       <title>UARTブートに特化したRP2350開発ボード</title>
@@ -116,19 +128,6 @@ Forthの実装は https://flashforth.com/ で、AVRなどでも動くものの�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32V003搭載の開発ボード.jpg"&gt;CH32V003 Dev Kitから発見。画像もここから転載。
 CH32V003搭載の開発ボードの作例です。
 USB Type-Cコネクタ、3.3Vレギュレータ、USBシリアル変換、I2C温度気温センサー、I2C接続OLED、I2C汎用コネクタ、SPI NOR FLash、RGB LED、スイッチ、LED、ブザー、GPIOの引き出し線、と開発ボードに必要そうな機能がてんこ盛りです。</description>
-    </item>
-    
-    <item>
-      <title>プロトタイピングに使えそうなフレキシブル基板の開発ボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%97%E3%83%AD%E3%83%88%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0%E3%81%AB%E4%BD%BF%E3%81%88%E3%81%9D%E3%81%86%E3%81%AA%E3%83%95%E3%83%AC%E3%82%AD%E3%82%B7%E3%83%96%E3%83%AB%E5%9F%BA%E6%9D%BF%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Wed, 08 Nov 2023 23:38:15 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%97%E3%83%AD%E3%83%88%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0%E3%81%AB%E4%BD%BF%E3%81%88%E3%81%9D%E3%81%86%E3%81%AA%E3%83%95%E3%83%AC%E3%82%AD%E3%82%B7%E3%83%96%E3%83%AB%E5%9F%BA%E6%9D%BF%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/プロトタイピングに使えそうなフレキシブル基板の開発ボード.jpg"&gt;堀洋祐 Yosuke Hori / ｶｻﾈﾀﾘｳﾑ さんのPostからから発見。画像もここから転載。
-プロトタイピングに使えそうなフレキシブル基板の開発ボードです。 正式名称は「折り紙式メディアデバイスORIME」のようです。
-ウェアラブルなガジェットの試作や、人工筋肉を使って基板自体を駆動させたり、基板自体を折り紙のように折り曲げるようなデモも紹介されています。
-Maker Faire Tokyo 2023 では折り紙のように折り曲げたり、ハサミで切ったりすることで自由な形を作ることができ、身の回りの物をメディア化するデバイス「ORIME」を展示します！ https://t.co/fX7Y4ZRMYF#MFTokyo2023 #今作ってます pic.twitter.com/maWMmf2p2P
-&amp;mdash; 堀洋祐 Yosuke Hori / ｶｻﾈﾀﾘｳﾑ (@kasanetarium) October 4, 2023   </description>
     </item>
     
   </channel>
