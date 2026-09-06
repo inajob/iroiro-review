@@ -5,9 +5,21 @@
     <description>Recent content in 腕時計 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 31 Aug 2025 23:12:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 21:41:56 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E8%85%95%E6%99%82%E8%A8%88/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>普通の腕時計にNFC決済機能を搭載する技</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%99%AE%E9%80%9A%E3%81%AE%E8%85%95%E6%99%82%E8%A8%88%E3%81%ABnfc%E6%B1%BA%E6%B8%88%E6%A9%9F%E8%83%BD%E3%82%92%E6%90%AD%E8%BC%89%E3%81%99%E3%82%8B%E6%8A%80/</link>
+      <pubDate>Sun, 06 Sep 2026 21:41:56 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%99%AE%E9%80%9A%E3%81%AE%E8%85%95%E6%99%82%E8%A8%88%E3%81%ABnfc%E6%B1%BA%E6%B8%88%E6%A9%9F%E8%83%BD%E3%82%92%E6%90%AD%E8%BC%89%E3%81%99%E3%82%8B%E6%8A%80/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/普通の腕時計にNFC決済機能を搭載する技.jpg"&gt;The Casio F-91W As A Contactless Payment Device.から発見。画像もここから転載。
+タッチ決済は便利ですが、お気に入りの腕時計にその機能が無い場合は、どうすればよいでしょう？
+この記事では、名機カシオ F-91W のディスプレイ前面に3Dプリンタで制作したフロントフェイスを重ね、自作のアンテナコイルと分解したカードのNFCチップを組み込むことで、腕時計をタッチ決済端末として改造した事例を紹介しています。
+小さな筐体内にRFパーツを納めるためのアンテナ共振の調整プロセスが実用的だと感じました。</description>
+    </item>
     
     <item>
       <title>レトロな4桁ディスプレイを大量に搭載した腕時計</title>
@@ -118,17 +130,6 @@ ATSAMD20を用いた、アナログ風のデジタル時計の作例です。か
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/megatimewatch.jpg"&gt;Mega Tiny Time Watchから発見。画像もここから転載。
 ATTiny414を使ったミニマルな腕時計です。ATTiny414にはRTCが内蔵されているため、ワンチップでこのような時計を作る事ができるようです。
 LEDを常時つけっぱなしにすると電池の消費が激しいため、スイッチを押したときだけ時刻を表示するという仕様のようです。</description>
-    </item>
-    
-    <item>
-      <title>Arduinoで動く腕時計</title>
-      <link>https://inajob.github.io/iroiro-review/post/arduino%E3%81%A7%E5%8B%95%E3%81%8F%E8%85%95%E6%99%82%E8%A8%88/</link>
-      <pubDate>Wed, 17 Feb 2021 12:00:20 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/arduino%E3%81%A7%E5%8B%95%E3%81%8F%E8%85%95%E6%99%82%E8%A8%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/arduino-watch.jpg"&gt;ARDUINO WRISTWATCH HAS LED HANDSから発見。画像もここから転載。
-12個のLEDを搭載したArduinoで動く腕時計です。CR2032で動作し、RTCとATMegaのICが搭載されています。
-電池を無駄に消費しないように、ボタンを押したときのみLEDが点灯するようです。 Arduino互換なので、自分の好きなようにロジックを変更できるところが面白そうです。</description>
     </item>
     
   </channel>

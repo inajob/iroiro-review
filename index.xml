@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 03 Sep 2026 20:45:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 21:41:56 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>普通の腕時計にNFC決済機能を搭載する技</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%99%AE%E9%80%9A%E3%81%AE%E8%85%95%E6%99%82%E8%A8%88%E3%81%ABnfc%E6%B1%BA%E6%B8%88%E6%A9%9F%E8%83%BD%E3%82%92%E6%90%AD%E8%BC%89%E3%81%99%E3%82%8B%E6%8A%80/</link>
+      <pubDate>Sun, 06 Sep 2026 21:41:56 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%99%AE%E9%80%9A%E3%81%AE%E8%85%95%E6%99%82%E8%A8%88%E3%81%ABnfc%E6%B1%BA%E6%B8%88%E6%A9%9F%E8%83%BD%E3%82%92%E6%90%AD%E8%BC%89%E3%81%99%E3%82%8B%E6%8A%80/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/普通の腕時計にNFC決済機能を搭載する技.jpg"&gt;The Casio F-91W As A Contactless Payment Device.から発見。画像もここから転載。
+タッチ決済は便利ですが、お気に入りの腕時計にその機能が無い場合は、どうすればよいでしょう？
+この記事では、名機カシオ F-91W のディスプレイ前面に3Dプリンタで制作したフロントフェイスを重ね、自作のアンテナコイルと分解したカードのNFCチップを組み込むことで、腕時計をタッチ決済端末として改造した事例を紹介しています。
+小さな筐体内にRFパーツを納めるためのアンテナ共振の調整プロセスが実用的だと感じました。</description>
+    </item>
     
     <item>
       <title>USBポートサイズのCH32V203開発ボード</title>
@@ -123,18 +135,6 @@ ESP32ほどの性能があれば簡単な音を出すシステムを作る自体
 この記事では、モーターを使わず自転車のペダルを漕ぐ力でシュレッダーの刃を回し、プリント廃材を粉砕する自作装置を紹介しています。
 電気を用いた粉砕機ではなく、自転車をこぐ力を利用している点がエコでかつ面白いと感じました。
  </description>
-    </item>
-    
-    <item>
-      <title>安価なESP32ボードをASCIIアート水槽にする</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E4%BE%A1%E3%81%AAesp32%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92ascii%E3%82%A2%E3%83%BC%E3%83%88%E6%B0%B4%E6%A7%BD%E3%81%AB%E3%81%99%E3%82%8B/</link>
-      <pubDate>Tue, 18 Aug 2026 21:53:06 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E4%BE%A1%E3%81%AAesp32%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92ascii%E3%82%A2%E3%83%BC%E3%83%88%E6%B0%B4%E6%A7%BD%E3%81%AB%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/安価なESP32ボードをASCIIアート水槽にする.jpg"&gt;Adorable ASCII Aquarium Lives On Your Deskから発見。画像もここから転載。
-おなじみ安価なESP32搭載の開発ボードであるCheap Yellow Display(CYD)を用いたプロジェクトです
-この記事で紹介しているのは、ASCIIアートという文字だけで描かれた海の生き物たちがアニメーションするサイネージ的なもので、3Dプリンタでそれっぽいケースも作っています。
-CYDは安価ですが、かなりパワフルな開発ボードです、とはいえ最新のパソコンやスマートフォンには全く及ばないこのガジェットをどう活用するか、Makerの腕試しにちょうどよさそうです</description>
     </item>
     
   </channel>
