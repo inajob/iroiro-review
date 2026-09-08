@@ -5,9 +5,21 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 31 Aug 2026 21:47:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 22:33:56 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>はんだスプールをおもりにした基板固定ツール</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%AF%E3%82%93%E3%81%A0%E3%82%B9%E3%83%97%E3%83%BC%E3%83%AB%E3%82%92%E3%81%8A%E3%82%82%E3%82%8A%E3%81%AB%E3%81%97%E3%81%9F%E5%9F%BA%E6%9D%BF%E5%9B%BA%E5%AE%9A%E3%83%84%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Tue, 08 Sep 2026 22:33:56 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%AF%E3%82%93%E3%81%A0%E3%82%B9%E3%83%97%E3%83%BC%E3%83%AB%E3%82%92%E3%81%8A%E3%82%82%E3%82%8A%E3%81%AB%E3%81%97%E3%81%9F%E5%9F%BA%E6%9D%BF%E5%9B%BA%E5%AE%9A%E3%83%84%E3%83%BC%E3%83%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/はんだスプールをおもりにした基板固定ツール.jpg"&gt;Compact PCB Vise Uses Up That Leftover Filamentから発見。画像もここから転載。
+3Dプリントで基板固定台の作例は様々ありますが、自重が軽く、基板にはんだ付けの熱やテンションを加えた際に作業台の上で動いてしまいやすい課題があります。
+この記事では、70g未満のフィラメントで出力できるコンパクトなPCBバイスでありながら、はんだリール自体をカウンターウェイトとしてセットすることで安定性を補う設計が紹介されています。
+身近な消耗品を作業台の重しとして機構の一部に組み込む発想が合理的で面白いです。</description>
+    </item>
     
     <item>
       <title>3Dプリンタで作られた風船バンジョー</title>
@@ -118,18 +130,6 @@ Xでリング状の蝶番のPostが話題となっていましたが、このMak
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタでシルクスクリーンを自作する.jpg"&gt;洋裁師アン✂創作研究家さんのPostから発見。画像もここから転載。
 積層式の3Dプリンタの成果物の中に、別の素材を挟み込む作例はいろいろありますが、この記事ではチュールメッシュを挟み込んで、Tシャツにプリントするためのシルクスクリーンを自作しています。
 シルクスクリーンの自作というと、レーザーカッターでの作例が思い浮かびますが、3Dプリンタでもこんな良い方法があるんですね。</description>
-    </item>
-    
-    <item>
-      <title>接着剤で固定するスタイルの3Dプリンタ用ヒンジ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%8E%A5%E7%9D%80%E5%89%A4%E3%81%A7%E5%9B%BA%E5%AE%9A%E3%81%99%E3%82%8B%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E7%94%A8%E3%83%92%E3%83%B3%E3%82%B8/</link>
-      <pubDate>Sun, 21 Jun 2026 22:29:57 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%8E%A5%E7%9D%80%E5%89%A4%E3%81%A7%E5%9B%BA%E5%AE%9A%E3%81%99%E3%82%8B%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E7%94%A8%E3%83%92%E3%83%B3%E3%82%B8/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/接着剤で固定するスタイルの3Dプリンタ用ヒンジ.jpg"&gt;Glue-in Hinge Design Tries Something Differentから発見。画像もここから転載。
-3Dプリンタにおける「プリントインプレース（造形中の一体成形）」というのは、可動部を含む機構を分解することなく一度のプリントで完成させる技法です。しかし、この方式では造形の向きが制限され、本来の強度や精度を確保することが難しくなる場合があります。
-この記事では、ヒンジの一部を別パーツとしてプリントし、後から接着する手法を紹介しています。 ヒンジの軸となるフィラメントも組み立て後に固定される構造となっており、特定の向きでプリントし直す手間を省きつつ、設計の柔軟性を高める工夫がなされています。
-別パーツ化によって機構部分だけを何度も作り直せる点は、複雑なメカを設計する際に非常に効率的だと感じました。</description>
     </item>
     
   </channel>

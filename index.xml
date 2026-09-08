@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 07 Sep 2026 22:46:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 22:33:56 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>はんだスプールをおもりにした基板固定ツール</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%AF%E3%82%93%E3%81%A0%E3%82%B9%E3%83%97%E3%83%BC%E3%83%AB%E3%82%92%E3%81%8A%E3%82%82%E3%82%8A%E3%81%AB%E3%81%97%E3%81%9F%E5%9F%BA%E6%9D%BF%E5%9B%BA%E5%AE%9A%E3%83%84%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Tue, 08 Sep 2026 22:33:56 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%AF%E3%82%93%E3%81%A0%E3%82%B9%E3%83%97%E3%83%BC%E3%83%AB%E3%82%92%E3%81%8A%E3%82%82%E3%82%8A%E3%81%AB%E3%81%97%E3%81%9F%E5%9F%BA%E6%9D%BF%E5%9B%BA%E5%AE%9A%E3%83%84%E3%83%BC%E3%83%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/はんだスプールをおもりにした基板固定ツール.jpg"&gt;Compact PCB Vise Uses Up That Leftover Filamentから発見。画像もここから転載。
+3Dプリントで基板固定台の作例は様々ありますが、自重が軽く、基板にはんだ付けの熱やテンションを加えた際に作業台の上で動いてしまいやすい課題があります。
+この記事では、70g未満のフィラメントで出力できるコンパクトなPCBバイスでありながら、はんだリール自体をカウンターウェイトとしてセットすることで安定性を補う設計が紹介されています。
+身近な消耗品を作業台の重しとして機構の一部に組み込む発想が合理的で面白いです。</description>
+    </item>
     
     <item>
       <title>安価なESP32ボードでWikipediaを閲覧する</title>
@@ -121,19 +133,6 @@ ESP32ほどの性能があれば簡単な音を出すシステムを作る自体
 3Dプリンタ出力品に金属ねじ（ナット）を組み込む手法としては、はんだごてなどで熱を加えて埋め込む「熱インサート（インサートナット）」が一般的かつ強度的にも確実です。
 一方で、ポストにあるような「ナット埋め込み造形は、事前にCADで精度よくクリアランスや保持構造をデータ化しておく必要があり、設計の手間がかかりますが、一般的なナットを利用できるという点はメリットと言えます。
 細かい造形を工夫することで、ナットをうまく保持できる構造を実現しており、3Dプリンタならではの造形と言えます。</description>
-    </item>
-    
-    <item>
-      <title>ヘルメットに搭載する剪定装置</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%98%E3%83%AB%E3%83%A1%E3%83%83%E3%83%88%E3%81%AB%E6%90%AD%E8%BC%89%E3%81%99%E3%82%8B%E5%89%AA%E5%AE%9A%E8%A3%85%E7%BD%AE/</link>
-      <pubDate>Tue, 25 Aug 2026 21:33:48 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%98%E3%83%AB%E3%83%A1%E3%83%83%E3%83%88%E3%81%AB%E6%90%AD%E8%BC%89%E3%81%99%E3%82%8B%E5%89%AA%E5%AE%9A%E8%A3%85%E7%BD%AE/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ヘルメットに搭載する剪定装置.jpg"&gt;Use Your Head While Trimming Treesから発見。画像もここから転載。
-自転車で自然あふれる道を走っていると、道の方に張り出した枝葉が邪魔になることがあります
-この記事では、自転車道に伸び切った街路樹の枝葉に悩まされたメイカーが、ヘルメットに草刈り機のナイロンコードカッターをアタッチメントとして取り付け、走行しながら頭の動きで枝を剪定する仕組みのDIYを紹介しています。
-安全面の考慮や法律上の是非は別として、日常の不便を過剰とも言えるDIYアプローチで力技により解決しようとする発想が面白いと感じました。
- </description>
     </item>
     
   </channel>
