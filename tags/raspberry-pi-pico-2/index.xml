@@ -5,9 +5,21 @@
     <description>Recent content in Raspberry PI Pico 2 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 25 Feb 2026 02:59:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 23:51:47 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico-2/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PicoCalc上で動作する日本語OS KotoOS</title>
+      <link>https://inajob.github.io/iroiro-review/post/picocalc%E4%B8%8A%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B%E6%97%A5%E6%9C%AC%E8%AA%9Eos-kotoos/</link>
+      <pubDate>Wed, 09 Sep 2026 23:51:47 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/picocalc%E4%B8%8A%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B%E6%97%A5%E6%9C%AC%E8%AA%9Eos-kotoos/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/PicoCalc上で動作する日本語OS KotoOS.jpg"&gt;手のひらサイズの自作OS「KotoOS」を公開しました — PicoCalcで動く日本語PDA環境をRustでつくった話から発見。画像もここから転載。
+ミニマルなマイコン端末用をPDA的に扱うことが出来るファームウェアは数多くありますが、そのミニマルさゆえに日本語に非対応なものがほとんどです。
+この記事では、物理キーボード付き小型端末PicoCalc向けに開発された自作PDA環境「KotoOS」を紹介しており、帯状の分割描画やPSRAMからの8KiBストリーミング実行といった工夫によって、264KiBの制約下でSKK方式の日本語IMEや自作VM上のゲーム動作を実現したプロセスが解説されています。
+その後バージョンアップして、RP2350A搭載のRaspberry Pi Pico 2 Wにも対応されており、さらに機能が追加されています。</description>
+    </item>
     
     <item>
       <title>Raspberry Pi Pico 2のクローンの比較</title>

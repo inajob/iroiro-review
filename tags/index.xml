@@ -5,9 +5,36 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 08 Sep 2026 22:33:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 23:51:47 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PicoCalc</title>
+      <link>https://inajob.github.io/iroiro-review/tags/picocalc/</link>
+      <pubDate>Wed, 09 Sep 2026 23:51:47 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/picocalc/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi Pico</title>
+      <link>https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico/</link>
+      <pubDate>Wed, 09 Sep 2026 23:51:47 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>Raspberry PI Pico 2</title>
+      <link>https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico-2/</link>
+      <pubDate>Wed, 09 Sep 2026 23:51:47 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico-2/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>3Dプリンタ</title>
@@ -69,33 +96,6 @@
       <pubDate>Thu, 03 Sep 2026 20:45:11 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/ch32v203/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>開発ボード</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Thu, 03 Sep 2026 20:45:11 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>ESP32-S3</title>
-      <link>https://inajob.github.io/iroiro-review/tags/esp32-s3/</link>
-      <pubDate>Wed, 02 Sep 2026 22:04:56 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/esp32-s3/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>音楽</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E9%9F%B3%E6%A5%BD/</link>
-      <pubDate>Wed, 02 Sep 2026 22:04:56 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E9%9F%B3%E6%A5%BD/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
