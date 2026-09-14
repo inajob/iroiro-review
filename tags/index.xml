@@ -5,9 +5,36 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 09 Sep 2026 23:51:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 23:44:26 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタ</title>
+      <link>https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
+      <pubDate>Thu, 10 Sep 2026 23:44:26 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>HACK</title>
+      <link>https://inajob.github.io/iroiro-review/tags/hack/</link>
+      <pubDate>Thu, 10 Sep 2026 23:44:26 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/hack/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>レーザー</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC/</link>
+      <pubDate>Thu, 10 Sep 2026 23:44:26 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>PicoCalc</title>
@@ -33,15 +60,6 @@
       <pubDate>Wed, 09 Sep 2026 23:51:47 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico-2/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタ</title>
-      <link>https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
-      <pubDate>Tue, 08 Sep 2026 22:33:56 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
@@ -78,24 +96,6 @@
       <pubDate>Sun, 06 Sep 2026 21:41:56 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/nfc/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>腕時計</title>
-      <link>https://inajob.github.io/iroiro-review/tags/%E8%85%95%E6%99%82%E8%A8%88/</link>
-      <pubDate>Sun, 06 Sep 2026 21:41:56 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/%E8%85%95%E6%99%82%E8%A8%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>CH32V203</title>
-      <link>https://inajob.github.io/iroiro-review/tags/ch32v203/</link>
-      <pubDate>Thu, 03 Sep 2026 20:45:11 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/ch32v203/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     

@@ -5,9 +5,22 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 08 Sep 2026 22:33:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 23:44:26 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>レーザー加工で3Dプリントの表面を滑らかにする</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E5%8A%A0%E5%B7%A5%E3%81%A73d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E8%A1%A8%E9%9D%A2%E3%82%92%E6%BB%91%E3%82%89%E3%81%8B%E3%81%AB%E3%81%99%E3%82%8B/</link>
+      <pubDate>Thu, 10 Sep 2026 23:44:26 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E5%8A%A0%E5%B7%A5%E3%81%A73d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E8%A1%A8%E9%9D%A2%E3%82%92%E6%BB%91%E3%82%89%E3%81%8B%E3%81%AB%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/レーザー加工で3Dプリントの表面を滑らかにする.jpg"&gt;Laser Your Way To Smoother FDM 3D Printsから発見。画像もここから転載。
+3Dプリント成果物の表面は特徴的なデコボコが形成されてしまい、場合によってはそれが問題になることもあります。
+この記事では、ダイオードレーザーで表面を微少に再融解させて積層痕を削る手法を紹介しています。積層痕を消すためにプリントヘッド周辺にレーザーを後付けし、上面や側面のなめらかさをどこまで出せるかを検証するユニークな発想ですが、パラメータ調整や壁面への照射角度の制御など課題も多い点が提示されています。
+レーザーの熱エネルギーで樹脂表面の凹凸をコントロールする発想が面白く、後処理のプロセス自体をプリント動作と一体化させるアプローチに大きな可能性を感じました。
+ </description>
+    </item>
     
     <item>
       <title>はんだスプールをおもりにした基板固定ツール</title>
@@ -119,17 +132,6 @@ Xでリング状の蝶番のPostが話題となっていましたが、このMak
 3Dプリンタで造形するためには、まずはデータが無ければいけません。このデータを作る部分について、3DCADの操作や、3Dプリンタ固有の作れない形など難しさが多くあります。
 この記事では、ユーザーが描いた絵を3Dプリンタ用のデータに変換し、即座に印刷できるというシステムである「マインドプリンター」というものを紹介しています。
 専門的なモデリングの知識がなくても造形データへアプローチできる仕組みは、3Dプリンタの利用層を広げる応用範囲の広い技術だと感じました。</description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタでシルクスクリーンを自作する</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%82%B7%E3%83%AB%E3%82%AF%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%99%E3%82%8B/</link>
-      <pubDate>Wed, 24 Jun 2026 23:09:56 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%82%B7%E3%83%AB%E3%82%AF%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタでシルクスクリーンを自作する.jpg"&gt;洋裁師アン✂創作研究家さんのPostから発見。画像もここから転載。
-積層式の3Dプリンタの成果物の中に、別の素材を挟み込む作例はいろいろありますが、この記事ではチュールメッシュを挟み込んで、Tシャツにプリントするためのシルクスクリーンを自作しています。
-シルクスクリーンの自作というと、レーザーカッターでの作例が思い浮かびますが、3Dプリンタでもこんな良い方法があるんですね。</description>
     </item>
     
   </channel>
