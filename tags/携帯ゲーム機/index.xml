@@ -5,9 +5,25 @@
     <description>Recent content in 携帯ゲーム機 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 31 Jul 2025 22:59:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 23:52:56 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>携帯ゲーム機で日本語入力をする</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E3%81%A7%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%85%A5%E5%8A%9B%E3%82%92%E3%81%99%E3%82%8B/</link>
+      <pubDate>Wed, 16 Sep 2026 23:52:56 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E3%81%A7%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%85%A5%E5%8A%9B%E3%82%92%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/携帯ゲーム機で日本語入力をする.jpg"&gt;msonrm（なるなる）さんのPostから発見。画像もここから転載。
+小型のガジェットの事例は数多くありますが、日本語に対応したものというのはほんのわずかです。
+このPostでは、（おそらく）Linuxの動作する携帯ゲーム機を使い日本語入力を実現する仕組みを紹介しています。 このゲーム機は多数のボタンがありそれらを駆使して、日本語を入力しているようです。
+携帯端末と言えばフリック入力を思いつきますが、それ以外の選択肢も成熟すれば、日本語が扱えるガジェットが増えて楽しそうです。
+携帯ゲーム機テキストエディタ、の開発進捗。
+編集モードを追加した。文はオブジェクトである、ということで、文を自動認識し、左アナログスティックで文の選択をし、十字キーで文単位で移動。
+セレクトボタンで「文単位」を「文節単位」に切り替え。文節はmozcで自動認識し、十字キーで文内で移動。 pic.twitter.com/RUxpiqd3Kx
+&amp;mdash; msonrm（なるなる） (@msonrm) September 14, 2026  </description>
+    </item>
     
     <item>
       <title>安価な携帯ゲーム機向けのSDK</title>
