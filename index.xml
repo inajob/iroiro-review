@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 16 Sep 2026 23:52:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 00:11:54 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリントで角が浮き上がらなくなる工夫</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A7%E8%A7%92%E3%81%8C%E6%B5%AE%E3%81%8D%E4%B8%8A%E3%81%8C%E3%82%89%E3%81%AA%E3%81%8F%E3%81%AA%E3%82%8B%E5%B7%A5%E5%A4%AB/</link>
+      <pubDate>Fri, 18 Sep 2026 00:11:54 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A7%E8%A7%92%E3%81%8C%E6%B5%AE%E3%81%8D%E4%B8%8A%E3%81%8C%E3%82%89%E3%81%AA%E3%81%8F%E3%81%AA%E3%82%8B%E5%B7%A5%E5%A4%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリントで角が浮き上がらなくなる工夫.jpg"&gt;Corners Lifting On 3D Prints? Guide Gives Prevention Tipsから発見。画像もここから転載。
+積層式の3Dプリントにおける反りというのは、ノズルから出た樹脂が冷えて固まる際にわずかに縮み、底面の角が浮き上がってしまう現象です。
+この記事では、底面が広いモデルの接触面を浅いグリッドパターンで分割し、樹脂が縮む力を分散させることで反りを防ぐ設計手法が紹介されています。モデルの壁厚やインフィル設定の変更、ブリムの追加といったスライサー側の調整だけでなく、CAD設計の段階からプリント特性を考慮するアプローチの大まかな概要がまとめられており、具体的なグリッド幅や詳細なパラメータが気になる方は原文の確認をお勧めします。
+スライサーの力に頼るだけでなく、モデルの形状自体を工夫してプリント失敗を防ぐという点が面白いと感じました。</description>
+    </item>
     
     <item>
       <title>携帯ゲーム機で日本語入力をする</title>
@@ -122,20 +134,6 @@ USB Type-A端子の中に基板全体をそのまま差し込んで格納する�
 ESP32ほどの性能があれば簡単な音を出すシステムを作る自体は難しくないものの、リアルタイム処理の最適化やマルチコアの使い分けまで考慮すると、自作で手を出すには少しハードルが高い領域でもあります。
 この記事では、計算パスから浮動小数点処理や割算を完全に排除し、固定小数点演算とルックアップテーブルで最適化したESP32用合成ライブラリ「ESP32Synth」が紹介されています。 音声出力タスクを片方のコアに固定してI2S DACへ流し込むことで、もう一方のコアをメイン制御に丸ごと空ける構成をとっています。
 こういうライブラリを利用することで、ESP32やESP32-S3をコアとした電子楽器デバイスなどを簡単に作ることが出来そうです。</description>
-    </item>
-    
-    <item>
-      <title>CH32X035をコアとした携帯ゲーム機</title>
-      <link>https://inajob.github.io/iroiro-review/post/ch32x035%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
-      <pubDate>Tue, 01 Sep 2026 21:27:02 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/ch32x035%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32X035をコアとした携帯ゲーム機.jpg"&gt;CHGame — the lowest cost game system. $39.から発見。画像もここから転載。
-あのArduboy の作者が手掛ける、新しい携帯ゲーム機のプロトタイプです。
-コアとなるマイコンはCH32X035G8U6で 128*128のカラー液晶ディスプレイを搭載しています。 初回のプロトタイプが販売されており、$39で購入できます（送料は+$5かかるように見えます）
-最終的にはかっこいいケースに収められた携帯ゲーム機を作ることが計画されているようです。 この新しいゲーム機を応援するためにもぜひ、購入してみてはどうでしょうか？
- Lowest cost game system plays doomhttps://t.co/smekIHZLEM pic.twitter.com/DvaFCxBDTv
-&amp;mdash; Kevin Bates (@bateskecom) August 31, 2026  </description>
     </item>
     
   </channel>

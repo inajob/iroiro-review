@@ -5,9 +5,21 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 10 Sep 2026 23:44:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 00:11:54 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリントで角が浮き上がらなくなる工夫</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A7%E8%A7%92%E3%81%8C%E6%B5%AE%E3%81%8D%E4%B8%8A%E3%81%8C%E3%82%89%E3%81%AA%E3%81%8F%E3%81%AA%E3%82%8B%E5%B7%A5%E5%A4%AB/</link>
+      <pubDate>Fri, 18 Sep 2026 00:11:54 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A7%E8%A7%92%E3%81%8C%E6%B5%AE%E3%81%8D%E4%B8%8A%E3%81%8C%E3%82%89%E3%81%AA%E3%81%8F%E3%81%AA%E3%82%8B%E5%B7%A5%E5%A4%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリントで角が浮き上がらなくなる工夫.jpg"&gt;Corners Lifting On 3D Prints? Guide Gives Prevention Tipsから発見。画像もここから転載。
+積層式の3Dプリントにおける反りというのは、ノズルから出た樹脂が冷えて固まる際にわずかに縮み、底面の角が浮き上がってしまう現象です。
+この記事では、底面が広いモデルの接触面を浅いグリッドパターンで分割し、樹脂が縮む力を分散させることで反りを防ぐ設計手法が紹介されています。モデルの壁厚やインフィル設定の変更、ブリムの追加といったスライサー側の調整だけでなく、CAD設計の段階からプリント特性を考慮するアプローチの大まかな概要がまとめられており、具体的なグリッド幅や詳細なパラメータが気になる方は原文の確認をお勧めします。
+スライサーの力に頼るだけでなく、モデルの形状自体を工夫してプリント失敗を防ぐという点が面白いと感じました。</description>
+    </item>
     
     <item>
       <title>レーザー加工で3Dプリントの表面を滑らかにする</title>
@@ -120,18 +132,6 @@ Xでリング状の蝶番のPostが話題となっていましたが、このMak
 この記事で紹介されている「Rubber Powered Spinning Top」は、3Dプリントしたパーツに市販の輪ゴムを組み合わせることで、プラスチック特有のヘタれを回避したゼンマイ式のコマ玩具です。エネルギーを蓄えるバネ部分をPLAで無理に作るのではなく、入手が容易で交換も簡単な輪ゴムに任せる設計になっており、トリガーによるリリース機構などの大まかな構造が紹介されています。
 3Dプリンタ造形物に輪ゴムをスマートに組み込んで耐久性と実用性を両立させる設計アプローチが面白いと感じました。
  </description>
-    </item>
-    
-    <item>
-      <title>絵を描くとそれが3Dプリントされる装置</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E7%B5%B5%E3%82%92%E6%8F%8F%E3%81%8F%E3%81%A8%E3%81%9D%E3%82%8C%E3%81%8C3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%95%E3%82%8C%E3%82%8B%E8%A3%85%E7%BD%AE/</link>
-      <pubDate>Thu, 02 Jul 2026 00:25:48 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E7%B5%B5%E3%82%92%E6%8F%8F%E3%81%8F%E3%81%A8%E3%81%9D%E3%82%8C%E3%81%8C3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%95%E3%82%8C%E3%82%8B%E8%A3%85%E7%BD%AE/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/絵を描くとそれが3Dプリントされる装置.jpg"&gt;JRRF2026出展した感想＆マインドプリンターの話から発見。画像もここから転載。
-3Dプリンタで造形するためには、まずはデータが無ければいけません。このデータを作る部分について、3DCADの操作や、3Dプリンタ固有の作れない形など難しさが多くあります。
-この記事では、ユーザーが描いた絵を3Dプリンタ用のデータに変換し、即座に印刷できるというシステムである「マインドプリンター」というものを紹介しています。
-専門的なモデリングの知識がなくても造形データへアプローチできる仕組みは、3Dプリンタの利用層を広げる応用範囲の広い技術だと感じました。</description>
     </item>
     
   </channel>

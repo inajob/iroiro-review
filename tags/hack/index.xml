@@ -5,9 +5,21 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 10 Sep 2026 23:44:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 00:11:54 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリントで角が浮き上がらなくなる工夫</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A7%E8%A7%92%E3%81%8C%E6%B5%AE%E3%81%8D%E4%B8%8A%E3%81%8C%E3%82%89%E3%81%AA%E3%81%8F%E3%81%AA%E3%82%8B%E5%B7%A5%E5%A4%AB/</link>
+      <pubDate>Fri, 18 Sep 2026 00:11:54 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A7%E8%A7%92%E3%81%8C%E6%B5%AE%E3%81%8D%E4%B8%8A%E3%81%8C%E3%82%89%E3%81%AA%E3%81%8F%E3%81%AA%E3%82%8B%E5%B7%A5%E5%A4%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリントで角が浮き上がらなくなる工夫.jpg"&gt;Corners Lifting On 3D Prints? Guide Gives Prevention Tipsから発見。画像もここから転載。
+積層式の3Dプリントにおける反りというのは、ノズルから出た樹脂が冷えて固まる際にわずかに縮み、底面の角が浮き上がってしまう現象です。
+この記事では、底面が広いモデルの接触面を浅いグリッドパターンで分割し、樹脂が縮む力を分散させることで反りを防ぐ設計手法が紹介されています。モデルの壁厚やインフィル設定の変更、ブリムの追加といったスライサー側の調整だけでなく、CAD設計の段階からプリント特性を考慮するアプローチの大まかな概要がまとめられており、具体的なグリッド幅や詳細なパラメータが気になる方は原文の確認をお勧めします。
+スライサーの力に頼るだけでなく、モデルの形状自体を工夫してプリント失敗を防ぐという点が面白いと感じました。</description>
+    </item>
     
     <item>
       <title>レーザー加工で3Dプリントの表面を滑らかにする</title>
@@ -126,20 +138,6 @@
 この記事ではその技法を行う際に「Gap-Cap」と呼ばれる専用の「蓋」の部品を使う方法を紹介しています。
 この例ではストリップLEDを埋め込んでいますが、この部品を入れ込んだ後に、造形を再開したときに、部品の隙間にフィラメントが落ちてしまったり、そもそも部品とフィラメントがうまく接着しないといった問題があります。 Gap-Capはこの問題を解決するためのもので、要は3Dプリンタで作られた部品挿入部分の「蓋」です。
 Gap-Capがあることで、部品挿入後の造形をより確実に行うことが出来ます。 単純なテクニックですが、非常に効果的だと感じました。</description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタでポケットホール</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB/</link>
-      <pubDate>Wed, 22 Apr 2026 21:49:46 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタでポケットホール.jpg"&gt;CMA- さんのPostから発見。画像もここから転載。
-ネジを斜めに刺して、ねじの頭が隠れるまで深く刺さるようなねじの穴を「ポケットホール」というようです。
-このPostでは3Dプリンタでポケットホールの形状を造形し、複数の部品を結合するのに活用する方法を紹介しています。
-3Dプリンタは最大造形サイズが決まっているので、このように複数の部品を組み合わせて1つの構造を作ることも多く、このようなでっぱり部分の飛び出さない結合方法は使い勝手がよさそうです。 またこの方式を実現するためには、側面に斜めに穴をあけるだけというのもモデリングが簡単で良さそうだと感じました。
-この締結方法自分で考えたけど、３Ｄプリンタらしくて気に入ってる pic.twitter.com/yDOY6yHsku
-&amp;mdash; CMA- (@coredmotor) April 2, 2026  </description>
     </item>
     
   </channel>
