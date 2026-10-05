@@ -5,9 +5,21 @@
     <description>Recent content in Raspberry Pi on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 28 Jul 2026 22:18:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 22:30:42 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/raspberry-pi/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>64×64の画面を持つRaspberry Pi端末</title>
+      <link>https://inajob.github.io/iroiro-review/post/6464%E3%81%AE%E7%94%BB%E9%9D%A2%E3%82%92%E6%8C%81%E3%81%A4raspberry-pi%E7%AB%AF%E6%9C%AB/</link>
+      <pubDate>Mon, 05 Oct 2026 22:30:42 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/6464%E3%81%AE%E7%94%BB%E9%9D%A2%E3%82%92%E6%8C%81%E3%81%A4raspberry-pi%E7%AB%AF%E6%9C%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/64×64の画面を持つRaspberry Pi端末.jpg"&gt;Parchment Paper Paired With 3D-Printed Grid Gives A Nice Glowから発見。画像もここから転載。
+マトリクス状に並べたLEDの光を拡散させる拡散板（ディフューザー）は、身近な材料で均一な発光面を作ろうとすると透過率やムラの調整が難しく、市販の専用アクリル板やフィルムに頼りがちになる素材です。
+この記事では、64×64のRGB LEDマトリクスパネルのセル間の光漏れを防ぐ遮光格子をCADを使わずスライサーのインフィル設定（トップ・ボトムレイヤー0）のみで出力し、その表面にクッキングペーパー（クッキングシート）と透明プラスチック板を重ねることで、手軽かつ綺麗なドット表示を作るハックが紹介されています。
+CADで細かな格子を描く手間を省き、スライサーのインフィル生成機能をそのまま利用して物理的な隔壁を作る発想が面白いと感じました。</description>
+    </item>
     
     <item>
       <title>オープンソースのロボット掃除機</title>
@@ -118,18 +130,6 @@ Raspberry Piは小型で省電力のLinuxボードなので、小型の端末を
 ミニマルな構成の手のひらサイズのRaspberry Piデバイスを紹介します。
 3Dプリンタで作られた最小限の筐体、親指タイプを想定した自作のキーボードと、非常に洗練された作例です。
 このキーボードのもとになったMiryoku という、36キーのキーボードも興味深いです。</description>
-    </item>
-    
-    <item>
-      <title>RaspberryPiを内蔵したジュークボックス</title>
-      <link>https://inajob.github.io/iroiro-review/post/raspberrypi%E3%82%92%E5%86%85%E8%94%B5%E3%81%97%E3%81%9F%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%AF%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/</link>
-      <pubDate>Mon, 26 Sep 2022 23:39:47 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/raspberrypi%E3%82%92%E5%86%85%E8%94%B5%E3%81%97%E3%81%9F%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%AF%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/RaspberryPiを内蔵したジュークボックス.jpg"&gt;Get Your Raspberry Pi Jamming With MuPiBoxから発見。画像もここから転載。
-RaspberryPiを内蔵したジュークボックスの作例です。 こういうガジェットは、小型化、薄型化、する作例をよく見ますが、この記事で紹介している筐体は、そこそこ大きな、ラジカセサイズなのが印象的です。
-ただ大きいだけでなく、ラジカセのように持ち運ぶことも簡単で、見た目もカッコいいです。
- </description>
     </item>
     
   </channel>

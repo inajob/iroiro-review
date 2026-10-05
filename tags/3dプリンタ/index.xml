@@ -5,9 +5,21 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 18 Sep 2026 00:11:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 22:30:42 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>64×64の画面を持つRaspberry Pi端末</title>
+      <link>https://inajob.github.io/iroiro-review/post/6464%E3%81%AE%E7%94%BB%E9%9D%A2%E3%82%92%E6%8C%81%E3%81%A4raspberry-pi%E7%AB%AF%E6%9C%AB/</link>
+      <pubDate>Mon, 05 Oct 2026 22:30:42 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/6464%E3%81%AE%E7%94%BB%E9%9D%A2%E3%82%92%E6%8C%81%E3%81%A4raspberry-pi%E7%AB%AF%E6%9C%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/64×64の画面を持つRaspberry Pi端末.jpg"&gt;Parchment Paper Paired With 3D-Printed Grid Gives A Nice Glowから発見。画像もここから転載。
+マトリクス状に並べたLEDの光を拡散させる拡散板（ディフューザー）は、身近な材料で均一な発光面を作ろうとすると透過率やムラの調整が難しく、市販の専用アクリル板やフィルムに頼りがちになる素材です。
+この記事では、64×64のRGB LEDマトリクスパネルのセル間の光漏れを防ぐ遮光格子をCADを使わずスライサーのインフィル設定（トップ・ボトムレイヤー0）のみで出力し、その表面にクッキングペーパー（クッキングシート）と透明プラスチック板を重ねることで、手軽かつ綺麗なドット表示を作るハックが紹介されています。
+CADで細かな格子を描く手間を省き、スライサーのインフィル生成機能をそのまま利用して物理的な隔壁を作る発想が面白いと感じました。</description>
+    </item>
     
     <item>
       <title>3Dプリントで角が浮き上がらなくなる工夫</title>
@@ -119,19 +131,6 @@
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作成されたリング状の蝶番.jpg"&gt;【ポン付け簡単組み立て】話題のリング状蝶番 (Snap-Fit Ring Hinge)から発見。画像もここから転載。
 Xでリング状の蝶番のPostが話題となっていましたが、このMakerWorldのページでは3Dプリンタでその構造を再現したモデルを公開されています。
 3Dプリンタでヒンジを作る方法はいくつか見たことがありますが、この方法は見た目も良くシンプルでかつ機能的だと感じました。</description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタで作られたベイブレードのようなおもちゃ</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%83%99%E3%82%A4%E3%83%96%E3%83%AC%E3%83%BC%E3%83%89%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83/</link>
-      <pubDate>Wed, 15 Jul 2026 22:15:02 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%83%99%E3%82%A4%E3%83%96%E3%83%AC%E3%83%BC%E3%83%89%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作られたベイブレードのようなおもちゃ.jpg"&gt;Shintaro NakajimaさんのPostから発見。画像もここから転載。
-からくり的な仕組みを持つ3Dプリンタ製の作品は 単なる模型とは違った面白さがあります。
-この記事で紹介されている「Rubber Powered Spinning Top」は、3Dプリントしたパーツに市販の輪ゴムを組み合わせることで、プラスチック特有のヘタれを回避したゼンマイ式のコマ玩具です。エネルギーを蓄えるバネ部分をPLAで無理に作るのではなく、入手が容易で交換も簡単な輪ゴムに任せる設計になっており、トリガーによるリリース機構などの大まかな構造が紹介されています。
-3Dプリンタ造形物に輪ゴムをスマートに組み込んで耐久性と実用性を両立させる設計アプローチが面白いと感じました。
- </description>
     </item>
     
   </channel>
