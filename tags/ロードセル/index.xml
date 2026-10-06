@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ロードセル on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E3%83%AD%E3%83%BC%E3%83%89%E3%82%BB%E3%83%AB/</link>
+    <description>Recent content in ロードセル on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Tue, 06 Oct 2026 22:14:58 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%83%AD%E3%83%BC%E3%83%89%E3%82%BB%E3%83%AB/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>電子コンサーティーナ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%83%8A/</link>
+      <pubDate>Tue, 06 Oct 2026 22:14:58 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%83%8A/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/電子コンサーティーナ.jpg"&gt;The Concertina Goes Electronicから発見。画像もここから転載。
+ロードセルは、加わった力や荷重の大きさを電気信号に変換して測定するためのセンサーです。
+この記事では、アイリッシュ音楽などで使われるアコーディオンに似た楽器「コンサーティーナ」を電子化した自作プロジェクトが紹介されています。 可動する蛇腹を取り除き、代わりに左右の筐体を固定してロードセルを配置することで、押し引きする手の圧力を感知してリアルタイムに音量を変化させる設計となっています。 制御にはTeensy 4.0を用い、メカニカルキーボード用のスイッチを採用しています。
+蛇腹の伸縮運動そのものをなくし、圧力測定だけで演奏感を再現しようとした発想が面白いと感じました。
+ </description>
+    </item>
+    
+  </channel>
+</rss>
+
