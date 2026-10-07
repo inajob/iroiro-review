@@ -5,9 +5,25 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 06 Oct 2026 22:14:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 23:07:23 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>かわいいサイズのペンプロッタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</link>
+      <pubDate>Wed, 07 Oct 2026 23:07:23 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/かわいいサイズのペンプロッタ.jpg"&gt;宇佐まり2 さんのPostから発見。画像もここから転載。
+かわいいサイズのペンプロッタの作例です。 100mmのリニアレールを使い非常にコンパクトに仕上げられており、フィラメントの色も相まって非常にかわいらしい出来栄えとなっています。
+このサイズのリニアレールは結構安くで手に入るので、そこそこ安くで作れそうなところも魅力的です。
+ペンプロッタ、半泣きでライセンスまわりの文章を書き上げたので、一旦GitHubで世界中に大公開してみました。
+Pyon Plotter と名付けました。
+2絵柄まで対応してます。
+まだ若干ミスってると思いますが、少なくとも致命的ではないはずです。これから頑張ります。https://t.co/a108jzqGLx https://t.co/cUwjUOeVvg
+&amp;mdash; 宇佐まり2 (@8_senkou2) October 2, 2026  </description>
+    </item>
     
     <item>
       <title>電子コンサーティーナ</title>
@@ -123,18 +139,6 @@ CADで細かな格子を描く手間を省き、スライサーのインフィ�
 Wikipediaは自由にアクセスできる便利なWebサービスですが、オフラインだとアクセスできないという点は不便です。
 この記事では、安価な液晶付きのESP32ボードである「Cheap Yellow Display（CYD）」を使い、SDカードに保存したWikipediaのオフラインデータを単体で閲覧できるようにした事例を紹介しています。 Kiwixのデータをマイコン用のカスタム形式に変換することで、ネットワークに依存せず大量の記事や画像を小型デバイスで探索できるシステムを実現しており、リソースの限られたマイコン上でWebブラウザと同等の描画処理を行う発想が特徴です。
 ネットワークが完全に遮断された環境で巨大な知のアーカイブをポケットに入れて持ち運べる点は、オフライン用途でのハードウェア活用として応用範囲が広い技術だと感じました。</description>
-    </item>
-    
-    <item>
-      <title>普通の腕時計にNFC決済機能を搭載する技</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%99%AE%E9%80%9A%E3%81%AE%E8%85%95%E6%99%82%E8%A8%88%E3%81%ABnfc%E6%B1%BA%E6%B8%88%E6%A9%9F%E8%83%BD%E3%82%92%E6%90%AD%E8%BC%89%E3%81%99%E3%82%8B%E6%8A%80/</link>
-      <pubDate>Sun, 06 Sep 2026 21:41:56 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%99%AE%E9%80%9A%E3%81%AE%E8%85%95%E6%99%82%E8%A8%88%E3%81%ABnfc%E6%B1%BA%E6%B8%88%E6%A9%9F%E8%83%BD%E3%82%92%E6%90%AD%E8%BC%89%E3%81%99%E3%82%8B%E6%8A%80/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/普通の腕時計にNFC決済機能を搭載する技.jpg"&gt;The Casio F-91W As A Contactless Payment Device.から発見。画像もここから転載。
-タッチ決済は便利ですが、お気に入りの腕時計にその機能が無い場合は、どうすればよいでしょう？
-この記事では、名機カシオ F-91W のディスプレイ前面に3Dプリンタで制作したフロントフェイスを重ね、自作のアンテナコイルと分解したカードのNFCチップを組み込むことで、腕時計をタッチ決済端末として改造した事例を紹介しています。
-小さな筐体内にRFパーツを納めるためのアンテナ共振の調整プロセスが実用的だと感じました。</description>
     </item>
     
   </channel>
