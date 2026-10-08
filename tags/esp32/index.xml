@@ -5,9 +5,21 @@
     <description>Recent content in ESP32 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 07 Sep 2026 22:46:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 22:30:49 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/esp32/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32用のJavaScript OS 「KryonOS」</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32%E7%94%A8%E3%81%AEjavascript-os-kryonos/</link>
+      <pubDate>Thu, 08 Oct 2026 22:30:49 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32%E7%94%A8%E3%81%AEjavascript-os-kryonos/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32用のJavaScript OS 「KryonOS」.jpg"&gt;A JavaScript OS For The ESP32から発見。画像もここから転載。
+ESP32はパワフルなマイコンで、この上でOSのようなものを動かす試みは数多くあります。
+この記事では、ESP32上で動作するグラフィックGUIを備えたJavaScriptベースのOS「KryonOS」が紹介されています。DuktapeをコアにしたJavaScript実行環境と独自描画ライブラリを統合し、タッチパネル付き液晶を搭載した各種ESP32ボード上で、アプリの動的ダウンロードや実行を可能にしています。
+C++のツールチェーンを用意せずにJavaScriptだけで画面UIや周辺機器制御をまとめられるアプローチは手軽で面白いと感じました。</description>
+    </item>
     
     <item>
       <title>安価なESP32ボードでWikipediaを閲覧する</title>
@@ -116,18 +128,6 @@ Machintoshのデザインを踏襲した 3Dプリンタ製のケースも魅力�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32をコアとしたMIDI信号で動作するサンプラー.jpg"&gt;Simple MIDI Sample Player Runs On ESP32から発見。画像もここから転載。
 MIDIコマンドでサウンドをトリガーして演奏できる 簡易的なハードウェアシンセサイザーの作例です。
 サンプルデータはSDカードに格納されており、ES8388によりオーディオ出力されます。 OLEDによる画面もシンプルでかっこいいです。</description>
-    </item>
-    
-    <item>
-      <title>サイバー感あふれる電気クラゲ表示機</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%84%9F%E3%81%82%E3%81%B5%E3%82%8C%E3%82%8B%E9%9B%BB%E6%B0%97%E3%82%AF%E3%83%A9%E3%82%B2%E8%A1%A8%E7%A4%BA%E6%A9%9F/</link>
-      <pubDate>Mon, 06 Apr 2026 22:54:51 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%84%9F%E3%81%82%E3%81%B5%E3%82%8C%E3%82%8B%E9%9B%BB%E6%B0%97%E3%82%AF%E3%83%A9%E3%82%B2%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/サイバー感あふれる電気クラゲ表示機.jpg"&gt;An Electric Jellyfish For Androidsから発見。画像もここから転載。
-サイバー感あふれる電気クラゲ表示機の作例です。 ワイヤーフレームで描かれたクラゲがアニメーションをするという、ただそれだけのガジェットです。
-めちゃめちゃかっこいいガジェットですが、メインのパーツは激安のESP32ボードです（いわゆるCheap Yellow Displayというやつ）
-ソフトウェアの作りこみ次第でこんなにかっこいい作品に仕上げられるという良い例です。</description>
     </item>
     
   </channel>
