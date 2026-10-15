@@ -5,9 +5,21 @@
     <description>Recent content in 3Dプリンタ on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 05 Oct 2026 22:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 00:18:40 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3Dプリンタ製の「くさび」でロックできるスナップフィット</title>
+      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%81%8F%E3%81%95%E3%81%B3%E3%81%A7%E3%83%AD%E3%83%83%E3%82%AF%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B9%E3%83%8A%E3%83%83%E3%83%97%E3%83%95%E3%82%A3%E3%83%83%E3%83%88/</link>
+      <pubDate>Thu, 15 Oct 2026 00:18:40 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%A3%BD%E3%81%AE%E3%81%8F%E3%81%95%E3%81%B3%E3%81%A7%E3%83%AD%E3%83%83%E3%82%AF%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B9%E3%83%8A%E3%83%83%E3%83%97%E3%83%95%E3%82%A3%E3%83%83%E3%83%88/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタ製の「くさび」でロックできるスナップフィット.jpg"&gt;massさんのPostから発見。画像もここから転載。
+3Dプリンタでは複雑な形状を作成できるため、単なるケースにとどまらない面白いギミックを作ることが出来ます。
+スナップフィットジョイントもその一つです。複数の造形物を組み合わせる場合に、接着剤やねじ止めではなく、プラスチックの柔軟性を利用した構造により「パチン」と嵌る形状を作り出します。 （3Dプリンタに限らず、この構造はポシェットとかの留め具でも見かけますね）
+この作例では、さらにこのスナップフィットジョイントに「くさび」パーツを組み合わせることで、ロックできるようにしています。 3Dプリンタだけで組付けまでできてしまうというこの手法には、こだわりを感じます。</description>
+    </item>
     
     <item>
       <title>64×64の画面を持つRaspberry Pi端末</title>
@@ -120,17 +132,6 @@ CADで細かな格子を描く手間を省き、スライサーのインフィ�
 3Dプリンタのベッドは、100度程度まで加熱でき、また密閉型の3Dプリンタは、ある程度の保温性能を備えています。
 この記事ではそんな3Dプリンタの特徴を「オーブン」ととらえてクッキーを焼く実験を紹介しています。衛生面や機材への影響から推奨はされていませんが、プリンタの熱を調理に利用するという発想は面白いです
  </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタで作成されたリング状の蝶番</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%95%E3%82%8C%E3%81%9F%E3%83%AA%E3%83%B3%E3%82%B0%E7%8A%B6%E3%81%AE%E8%9D%B6%E7%95%AA/</link>
-      <pubDate>Fri, 31 Jul 2026 00:12:14 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%95%E3%82%8C%E3%81%9F%E3%83%AA%E3%83%B3%E3%82%B0%E7%8A%B6%E3%81%AE%E8%9D%B6%E7%95%AA/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作成されたリング状の蝶番.jpg"&gt;【ポン付け簡単組み立て】話題のリング状蝶番 (Snap-Fit Ring Hinge)から発見。画像もここから転載。
-Xでリング状の蝶番のPostが話題となっていましたが、このMakerWorldのページでは3Dプリンタでその構造を再現したモデルを公開されています。
-3Dプリンタでヒンジを作る方法はいくつか見たことがありますが、この方法は見た目も良くシンプルでかつ機能的だと感じました。</description>
     </item>
     
   </channel>
