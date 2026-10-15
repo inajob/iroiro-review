@@ -5,9 +5,21 @@
     <description>Recent content in CYD on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 08 Oct 2026 22:30:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 21:54:28 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/cyd/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>安価なESP32ボードをPDA化するソフトウェア</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E4%BE%A1%E3%81%AAesp32%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92pda%E5%8C%96%E3%81%99%E3%82%8B%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2/</link>
+      <pubDate>Thu, 15 Oct 2026 21:54:28 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E4%BE%A1%E3%81%AAesp32%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92pda%E5%8C%96%E3%81%99%E3%82%8B%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/安価なESP32ボードをPDA化するソフトウェア.jpg"&gt;Cheap Yellow Display Dreams Of PDAから発見。画像もここから転載。
+PDA（Personal Digital Assistant）というのは、スマートフォンが普及する以前にスケジュール管理や住所録などを持ち歩くために使われていた小型の携帯情報端末のことです。
+この記事では、安価なESP32搭載ディスプレイモジュール「Cheap Yellow Display（CYD）」をPDA化するファームウェアプロジェクトが紹介されています。Palm OSの完全な移植ではなく、GopherブラウザやRSSリーダー、BASICインタプリタ、電卓などレトロな機能をESP32上に独自実装しており、Webベースのフラッシャーを使って短時間で試せる点が特徴です。
+手軽に入手できるハードウェアで往年のレトロ端末の雰囲気を再現しているのが面白いと感じました。</description>
+    </item>
     
     <item>
       <title>ESP32用のJavaScript OS 「KryonOS」</title>
@@ -116,19 +128,6 @@ Machintoshのデザインを踏襲した 3Dプリンタ製のケースも魅力�
 いわゆるCheap Yellow Displayと呼ばれるESP32開発ボードを使って、タッチ操作の作曲ガジェットを作成しています。
 開発ボードにこのファームウェアを書き込むだけで、簡単に同じものを作ることができるので、ぜひ試してみたいです。
  </description>
-    </item>
-    
-    <item>
-      <title>例の格安の黄色いESP32基板について解析ドキュメント</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E4%BE%8B%E3%81%AE%E6%A0%BC%E5%AE%89%E3%81%AE%E9%BB%84%E8%89%B2%E3%81%84esp32%E5%9F%BA%E6%9D%BF%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%A7%A3%E6%9E%90%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/</link>
-      <pubDate>Mon, 06 Nov 2023 23:39:36 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E4%BE%8B%E3%81%AE%E6%A0%BC%E5%AE%89%E3%81%AE%E9%BB%84%E8%89%B2%E3%81%84esp32%E5%9F%BA%E6%9D%BF%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%A7%A3%E6%9E%90%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/例の格安の黄色いESP32基板について解析ドキュメント.jpg"&gt;“Cheap Yellow Display” Builds Community Through Hardwareから発見。画像もここから転載。
-ESP32と大きめのタッチ機能付きLCDを搭載した格安の基板で有名な、「黄色いボード」についての分析記事です。 型番でいうと「ESP32-2432S028R」というこの基板、AliExpressなどで格安で販売されています。
-この記事ではこれをCheap-Yello-Display(CYD) と名付けています。
-実はこの分野（？）の分析、日本でも結構頑張っている方が居ます。いつもお世話になっています。
- Lang-ship - 黄色いESP32液晶ボードシリーズまとめ macsbug - ESP32-2432S028   </description>
     </item>
     
   </channel>
