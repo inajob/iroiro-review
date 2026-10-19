@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 18 Oct 2026 22:17:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 22:01:27 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>映像にに情報をオーバーレイするOSDチップをESP32から制御する</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%98%A0%E5%83%8F%E3%81%AB%E3%81%AB%E6%83%85%E5%A0%B1%E3%82%92%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AC%E3%82%A4%E3%81%99%E3%82%8Bosd%E3%83%81%E3%83%83%E3%83%97%E3%82%92esp32%E3%81%8B%E3%82%89%E5%88%B6%E5%BE%A1%E3%81%99%E3%82%8B/</link>
+      <pubDate>Mon, 19 Oct 2026 22:01:27 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%98%A0%E5%83%8F%E3%81%AB%E3%81%AB%E6%83%85%E5%A0%B1%E3%82%92%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AC%E3%82%A4%E3%81%99%E3%82%8Bosd%E3%83%81%E3%83%83%E3%83%97%E3%82%92esp32%E3%81%8B%E3%82%89%E5%88%B6%E5%BE%A1%E3%81%99%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/映像にに情報をオーバーレイするOSDチップをESP32から制御する.jpg"&gt;Own The OSD Chip In Your Cheap Composite Monitorから発見。画像もここから転載。
+OSD（On Screen Display）チップとは、画面上にメニューや文字情報をオーバーレイ表示するための専用プロセッサのことです。
+この記事では、安価な車載バックモニター等に使われているAMT630Aという制御チップのOSD機能を、外部のマイコンから直接制御するリバースエンジニアリングの試みが紹介されています。元のファームウェアを無理に書き換えるのではなく、基板上のテストパッドからI2C経由で内部レジスタを直接叩くことで、ESP32から任意のグラフィックやセンサー情報をオーバーレイ表示させるライブラリが公開されています。
+映像に文字をオーバーレイする機能が安価で手に入るとしたら・・・これは何かに使えそうです。
+ </description>
+    </item>
     
     <item>
       <title>プログラマブルな目覚まし時計</title>
@@ -122,22 +135,6 @@ CADで細かな格子を描く手間を省き、スライサーのインフィ�
 積層式の3Dプリントにおける反りというのは、ノズルから出た樹脂が冷えて固まる際にわずかに縮み、底面の角が浮き上がってしまう現象です。
 この記事では、底面が広いモデルの接触面を浅いグリッドパターンで分割し、樹脂が縮む力を分散させることで反りを防ぐ設計手法が紹介されています。モデルの壁厚やインフィル設定の変更、ブリムの追加といったスライサー側の調整だけでなく、CAD設計の段階からプリント特性を考慮するアプローチの大まかな概要がまとめられており、具体的なグリッド幅や詳細なパラメータが気になる方は原文の確認をお勧めします。
 スライサーの力に頼るだけでなく、モデルの形状自体を工夫してプリント失敗を防ぐという点が面白いと感じました。</description>
-    </item>
-    
-    <item>
-      <title>携帯ゲーム機で日本語入力をする</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E3%81%A7%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%85%A5%E5%8A%9B%E3%82%92%E3%81%99%E3%82%8B/</link>
-      <pubDate>Wed, 16 Sep 2026 23:52:56 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E3%81%A7%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%85%A5%E5%8A%9B%E3%82%92%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/携帯ゲーム機で日本語入力をする.jpg"&gt;msonrm（なるなる）さんのPostから発見。画像もここから転載。
-小型のガジェットの事例は数多くありますが、日本語に対応したものというのはほんのわずかです。
-このPostでは、（おそらく）Linuxの動作する携帯ゲーム機を使い日本語入力を実現する仕組みを紹介しています。 このゲーム機は多数のボタンがありそれらを駆使して、日本語を入力しているようです。
-携帯端末と言えばフリック入力を思いつきますが、それ以外の選択肢も成熟すれば、日本語が扱えるガジェットが増えて楽しそうです。
-携帯ゲーム機テキストエディタ、の開発進捗。
-編集モードを追加した。文はオブジェクトである、ということで、文を自動認識し、左アナログスティックで文の選択をし、十字キーで文単位で移動。
-セレクトボタンで「文単位」を「文節単位」に切り替え。文節はmozcで自動認識し、十字キーで文内で移動。 pic.twitter.com/RUxpiqd3Kx
-&amp;mdash; msonrm（なるなる） (@msonrm) September 14, 2026  </description>
     </item>
     
   </channel>
