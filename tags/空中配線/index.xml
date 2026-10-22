@@ -1,0 +1,28 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>空中配線 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E7%A9%BA%E4%B8%AD%E9%85%8D%E7%B7%9A/</link>
+    <description>Recent content in 空中配線 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 21 Oct 2026 15:51:56 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E7%A9%BA%E4%B8%AD%E9%85%8D%E7%B7%9A/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>空中配線でRaspberry Pi Picoを作る</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%A9%BA%E4%B8%AD%E9%85%8D%E7%B7%9A%E3%81%A7raspberry-pi-pico%E3%82%92%E4%BD%9C%E3%82%8B/</link>
+      <pubDate>Wed, 21 Oct 2026 15:51:56 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%A9%BA%E4%B8%AD%E9%85%8D%E7%B7%9A%E3%81%A7raspberry-pi-pico%E3%82%92%E4%BD%9C%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/空中配線でRaspberry Pi Picoを作る.jpg"&gt;EMakerDragonさんのPostから発見。画像もここから転載。
+通常電子回路は「基板」にパターンを印刷して構成します。 試作の場合には基板に導線を配線して構成することもありますが、このPostでは基板を用いず直接部品間に導線をはんだ付けすることで回路を構成する「空中配線」の手法を使い RP2040が最低限動作する回路を作成しています。
+もちろん、実際的なアプリケーションを動かすためには不安定すぎますが、これでも一応フルカラーLEDが制御できているのが興味深いです。
+空中配線でRaspberry Pi Pico作ってみた
+こんなでも一応動きます(分かりにくいですがWS2812を駆動できてます) pic.twitter.com/kQflbVWsD3
+&amp;mdash; ElMaDragon (@EMakerDragon) October 10, 2026  </description>
+    </item>
+    
+  </channel>
+</rss>
+

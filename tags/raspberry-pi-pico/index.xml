@@ -5,9 +5,23 @@
     <description>Recent content in Raspberry Pi Pico on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 09 Sep 2026 23:51:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 15:51:56 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/raspberry-pi-pico/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>空中配線でRaspberry Pi Picoを作る</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%A9%BA%E4%B8%AD%E9%85%8D%E7%B7%9A%E3%81%A7raspberry-pi-pico%E3%82%92%E4%BD%9C%E3%82%8B/</link>
+      <pubDate>Wed, 21 Oct 2026 15:51:56 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%A9%BA%E4%B8%AD%E9%85%8D%E7%B7%9A%E3%81%A7raspberry-pi-pico%E3%82%92%E4%BD%9C%E3%82%8B/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/空中配線でRaspberry Pi Picoを作る.jpg"&gt;EMakerDragonさんのPostから発見。画像もここから転載。
+通常電子回路は「基板」にパターンを印刷して構成します。 試作の場合には基板に導線を配線して構成することもありますが、このPostでは基板を用いず直接部品間に導線をはんだ付けすることで回路を構成する「空中配線」の手法を使い RP2040が最低限動作する回路を作成しています。
+もちろん、実際的なアプリケーションを動かすためには不安定すぎますが、これでも一応フルカラーLEDが制御できているのが興味深いです。
+空中配線でRaspberry Pi Pico作ってみた
+こんなでも一応動きます(分かりにくいですがWS2812を駆動できてます) pic.twitter.com/kQflbVWsD3
+&amp;mdash; ElMaDragon (@EMakerDragon) October 10, 2026  </description>
+    </item>
     
     <item>
       <title>PicoCalc上で動作する日本語OS KotoOS</title>
@@ -117,18 +131,6 @@ Raspberry Pi Picoをコアとした携帯ゲーム機のPicoPad をご存知で�
       <guid>https://inajob.github.io/iroiro-review/post/raspberry-pi-pico%E3%81%AF%E5%85%AC%E7%A7%B0%E3%81%A7200mhz%E3%81%A7%E5%8B%95%E3%81%8B%E3%81%9B%E3%82%8B/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/Raspberry Pi Picoは公称で200MHzで動かせる.jpg"&gt;Pico Gets A Speed Bumpから発見。画像もここから転載。
 Raspberry Pi Picoはここまでのところ125MHzで動くとのことでしたが、今回公称で200MHzで動かせるということが発表されました。 今まで同じソフトウェアがより早く動くようになるので、うれしい発表です。</description>
-    </item>
-    
-    <item>
-      <title>PicoVisionを使ったPDA的デバイス</title>
-      <link>https://inajob.github.io/iroiro-review/post/picovision%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fpda%E7%9A%84%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</link>
-      <pubDate>Mon, 03 Mar 2025 21:24:12 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/picovision%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fpda%E7%9A%84%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/PicoVisionを使ったPDA的デバイス.jpg"&gt;The Perfect Pi Pico Portable Computerから発見。画像もここから転載。
-手のひらサイズの情報端末をRaspberry Pi Picoを使って製作しています。 画面との接続はPicoVisionというRP2040搭載のモジュールを介してHDMIで実現されています。 つまりこの端末は、2つのRP2040を搭載し、1つはアプリケーション用、1つは画面出力用という構成になっています。
-キーボード部分も工夫があり、市販のキーボード付きのリモコンの部品を流用して、コンパクトな筐体にピッタリのキーボードを実現しています。
- </description>
     </item>
     
   </channel>
