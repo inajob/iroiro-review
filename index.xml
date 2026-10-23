@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 21 Oct 2026 15:51:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 00:29:17 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>六角形グリッドで効率的に配線する技</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%85%AD%E8%A7%92%E5%BD%A2%E3%82%B0%E3%83%AA%E3%83%83%E3%83%89%E3%81%A7%E5%8A%B9%E7%8E%87%E7%9A%84%E3%81%AB%E9%85%8D%E7%B7%9A%E3%81%99%E3%82%8B%E6%8A%80/</link>
+      <pubDate>Fri, 23 Oct 2026 00:29:17 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%85%AD%E8%A7%92%E5%BD%A2%E3%82%B0%E3%83%AA%E3%83%83%E3%83%89%E3%81%A7%E5%8A%B9%E7%8E%87%E7%9A%84%E3%81%AB%E9%85%8D%E7%B7%9A%E3%81%99%E3%82%8B%E6%8A%80/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/六角形グリッドで効率的に配線する技.jpg"&gt;Improving An Autorouter With A Hexagonal Gridから発見。画像もここから転載。
+プリント基板の配線を自動で行うツールはいくつかありますが、この記事で紹介しているものは一味違います。
+この記事では、自作の基板自動配線ツール「CuFlow」において、従来使われていた四角形のグリッドから、正六角形のセルを用いたレイアウトへとアルゴリズムを刷新した取り組みについて紹介されています。
+六角形グリッドを採用することで、どの隣接セルへも等距離で移動できるようになり、配線密度や経路選択の自由度が向上するという内容が述べられています。
+他の何かで、六角形グリッドを採用するものは何かあるだろうか・・？と思いました。</description>
+    </item>
     
     <item>
       <title>空中配線でRaspberry Pi Picoを作る</title>
@@ -125,19 +138,6 @@ Pyon Plotter と名付けました。
 2絵柄まで対応してます。
 まだ若干ミスってると思いますが、少なくとも致命的ではないはずです。これから頑張ります。https://t.co/a108jzqGLx https://t.co/cUwjUOeVvg
 &amp;mdash; 宇佐まり2 (@8_senkou2) October 2, 2026  </description>
-    </item>
-    
-    <item>
-      <title>電子コンサーティーナ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%83%8A/</link>
-      <pubDate>Tue, 06 Oct 2026 22:14:58 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%83%8A/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/電子コンサーティーナ.jpg"&gt;The Concertina Goes Electronicから発見。画像もここから転載。
-ロードセルは、加わった力や荷重の大きさを電気信号に変換して測定するためのセンサーです。
-この記事では、アイリッシュ音楽などで使われるアコーディオンに似た楽器「コンサーティーナ」を電子化した自作プロジェクトが紹介されています。 可動する蛇腹を取り除き、代わりに左右の筐体を固定してロードセルを配置することで、押し引きする手の圧力を感知してリアルタイムに音量を変化させる設計となっています。 制御にはTeensy 4.0を用い、メカニカルキーボード用のスイッチを採用しています。
-蛇腹の伸縮運動そのものをなくし、圧力測定だけで演奏感を再現しようとした発想が面白いと感じました。
- </description>
     </item>
     
   </channel>

@@ -5,9 +5,22 @@
     <description>Recent content in 基板 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 22 Nov 2024 00:16:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 00:29:17 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E5%9F%BA%E6%9D%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>六角形グリッドで効率的に配線する技</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E5%85%AD%E8%A7%92%E5%BD%A2%E3%82%B0%E3%83%AA%E3%83%83%E3%83%89%E3%81%A7%E5%8A%B9%E7%8E%87%E7%9A%84%E3%81%AB%E9%85%8D%E7%B7%9A%E3%81%99%E3%82%8B%E6%8A%80/</link>
+      <pubDate>Fri, 23 Oct 2026 00:29:17 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E5%85%AD%E8%A7%92%E5%BD%A2%E3%82%B0%E3%83%AA%E3%83%83%E3%83%89%E3%81%A7%E5%8A%B9%E7%8E%87%E7%9A%84%E3%81%AB%E9%85%8D%E7%B7%9A%E3%81%99%E3%82%8B%E6%8A%80/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/六角形グリッドで効率的に配線する技.jpg"&gt;Improving An Autorouter With A Hexagonal Gridから発見。画像もここから転載。
+プリント基板の配線を自動で行うツールはいくつかありますが、この記事で紹介しているものは一味違います。
+この記事では、自作の基板自動配線ツール「CuFlow」において、従来使われていた四角形のグリッドから、正六角形のセルを用いたレイアウトへとアルゴリズムを刷新した取り組みについて紹介されています。
+六角形グリッドを採用することで、どの隣接セルへも等距離で移動できるようになり、配線密度や経路選択の自由度が向上するという内容が述べられています。
+他の何かで、六角形グリッドを採用するものは何かあるだろうか・・？と思いました。</description>
+    </item>
     
     <item>
       <title>V-Cut入りの基板の動作チェックを一気に行う技</title>
