@@ -5,9 +5,22 @@
     <description>Recent content in ESP32-S3 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 18 Oct 2026 22:17:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 21:28:17 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/esp32-s3/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32-S3,ESP32-P4用のシンプルなトイシーケンサ</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32-s3esp32-p4%E7%94%A8%E3%81%AE%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E3%83%88%E3%82%A4%E3%82%B7%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%B5/</link>
+      <pubDate>Sun, 25 Oct 2026 21:28:17 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32-s3esp32-p4%E7%94%A8%E3%81%AE%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E3%83%88%E3%82%A4%E3%82%B7%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%B5/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32-S3,ESP32-P4用のシンプルなトイシーケンサ.jpg"&gt;A Tiny Toy Synth For Smaller Computersから発見。画像もここから転載。
+ESP32は、パワフルなマイコンでソフトウェア音源としてもそこそこの性能を発揮します。
+この記事では、ESP32-S3やESP32-P4といった低スペックなマイコン上で動作するトイシンセ・シーケンサーソフト「Beeper」が紹介されています。グラフィカルなUIや高度な曲制作機能よりも操作感や音作りの手軽さに特化しており、ウェブ版やMac版のほか、ディスプレイ付きのポータブルデバイスなどへ簡単に移植して遊べる点が特徴です。
+高機能なDAWを移植するのではなく、マイコンのスペックに合わせてキーボード操作に絞ったおもちゃ感覚のシンセとして割り切って実装している点が面白いと感じました。
+ </description>
+    </item>
     
     <item>
       <title>プログラマブルな目覚まし時計</title>
@@ -121,20 +134,6 @@ iPhoneの画面をスワイプするとPC上ではマウス操作として認識
 ESP32-S3はUSBケーブルでPCと接続されマウス・キーボードとしてふるまいます。iPhoneとは専用アプリを通じてBLEで通信します。
 USBデバイスとしても、BLEサーバーとしてもふるまうことが出来るESP32-S3を活用した面白いアイデアです。
  </description>
-    </item>
-    
-    <item>
-      <title>日本語入力をサポートしたミニマル開発ボード</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%85%A5%E5%8A%9B%E3%82%92%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%97%E3%81%9F%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AB%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</link>
-      <pubDate>Wed, 03 Dec 2025 22:19:15 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%85%A5%E5%8A%9B%E3%82%92%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%97%E3%81%9F%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AB%E9%96%8B%E7%99%BA%E3%83%9C%E3%83%BC%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/日本語入力をサポートしたミニマル開発ボード.jpg"&gt;Orangeputerから発見。画像もここから転載。
-マイコンの性能はどんどん良くなっており、黎明期のパソコンの性能を凌駕するほどとなっています。 これだけ性能が良ければ、かつてのパソコンで動いていたソフトウェアも動くのでは・・？ と思っています。
-しかし商業的にはそのようなことをする意味は薄く、エミュレータ以外の新しいパソコンライクな仕組みはあまり有名なものがありません。 そして、我々日本人としては、ぜひ日本語入力もサポートしてほしいものです。そうなるとさらに選択肢は狭まり・・というかそのようなもので継続的に開発されているプロジェクトは見たことがありません。
-しかし、ここにきてピコソフトが面白いガジェット「Orangeputer」を発表しました。 これはマイコン環境向けの軽量なOSやその開発環境をフルスクラッチで整備するプロジェクトのようです。
-先日このOrangeputerの第一弾としてのM5Stack CoreS3を利用したモジュールが販売されました。 これを使うことで、マイコン特有のミニマルな環境で日本語を用いたセルフプログラミングができるようです。
-最新のスマートフォンや小型のラップトップと比べると全く性能は劣りますが、電卓とパソコンの間のような不思議な立ち位置の文房具のようなガジェットが成立するのではないかと個人的に考えたりしています。</description>
     </item>
     
   </channel>

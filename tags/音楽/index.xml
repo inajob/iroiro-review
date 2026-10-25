@@ -5,9 +5,22 @@
     <description>Recent content in 音楽 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 06 Oct 2026 22:14:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 21:28:17 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%9F%B3%E6%A5%BD/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32-S3,ESP32-P4用のシンプルなトイシーケンサ</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32-s3esp32-p4%E7%94%A8%E3%81%AE%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E3%83%88%E3%82%A4%E3%82%B7%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%B5/</link>
+      <pubDate>Sun, 25 Oct 2026 21:28:17 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32-s3esp32-p4%E7%94%A8%E3%81%AE%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E3%83%88%E3%82%A4%E3%82%B7%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%B5/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32-S3,ESP32-P4用のシンプルなトイシーケンサ.jpg"&gt;A Tiny Toy Synth For Smaller Computersから発見。画像もここから転載。
+ESP32は、パワフルなマイコンでソフトウェア音源としてもそこそこの性能を発揮します。
+この記事では、ESP32-S3やESP32-P4といった低スペックなマイコン上で動作するトイシンセ・シーケンサーソフト「Beeper」が紹介されています。グラフィカルなUIや高度な曲制作機能よりも操作感や音作りの手軽さに特化しており、ウェブ版やMac版のほか、ディスプレイ付きのポータブルデバイスなどへ簡単に移植して遊べる点が特徴です。
+高機能なDAWを移植するのではなく、マイコンのスペックに合わせてキーボード操作に絞ったおもちゃ感覚のシンセとして割り切って実装している点が面白いと感じました。
+ </description>
+    </item>
     
     <item>
       <title>電子コンサーティーナ</title>
@@ -117,19 +130,6 @@ MIDI対応のパイプをたたく楽器の作例です。
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタで作られた筒をたたく方式のピアノ.jpg"&gt;3D Printing A Piano Actionから発見。画像もここから転載。
 3Dプリンタで作られた筒をたたく方式のピアノの作例です。 長さの違う筒をたたくと、長さに応じて違う音が鳴る性質を利用してピアノのような楽器を作成しています。
 鍵盤がハンマーを動かして筒をたたくわけですが、筒以外の場所でも様々な関係ない音が発生するため、それらに順番に対応していき、なかなか良い感じの演奏感の楽器に仕上げています。
- </description>
-    </item>
-    
-    <item>
-      <title>CH32V002でMODファイルを再生する</title>
-      <link>https://inajob.github.io/iroiro-review/post/ch32v002%E3%81%A7mod%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E5%86%8D%E7%94%9F%E3%81%99%E3%82%8B/</link>
-      <pubDate>Mon, 17 Nov 2025 23:15:41 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/ch32v002%E3%81%A7mod%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E5%86%8D%E7%94%9F%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32V002でMODファイルを再生する.jpg"&gt;10 Cent Microcontroller Makes Tracker Musicから発見。画像もここから転載。
-CH32V002でMODファイルを再生する作例です。 MODファイルというのは80年代から90年代初頭にかけて利用されていたAmiga向けの音楽フォーマットです。
-ピコピコ系のサウンドがとても魅力的です。
-追加の部品はほとんど必要なく、ソースコードも公開されている ので、手元にCH32マイコンがある方は試してみるのはどうでしょう？
  </description>
     </item>
     
