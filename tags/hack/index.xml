@@ -5,9 +5,24 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 18 Sep 2026 00:11:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 22:00:48 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>電子辞書のサブディスプレイで独自のゲームを動かす</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E8%BE%9E%E6%9B%B8%E3%81%AE%E3%82%B5%E3%83%96%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%81%A7%E7%8B%AC%E8%87%AA%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</link>
+      <pubDate>Wed, 28 Oct 2026 22:00:48 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E8%BE%9E%E6%9B%B8%E3%81%AE%E3%82%B5%E3%83%96%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%81%A7%E7%8B%AC%E8%87%AA%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/電子辞書のサブディスプレイで独自のゲームを動かす.jpg"&gt;momojiさんのPostから発見。画像もここから転載。
+電子辞書をHackしてLinuxを動作させるBrainux という取り組みがあります。 このPostではこのBrainuxの環境で、電子辞書のサブディスプレイを制御しゲームを動かす例を紹介しています。
+これを実現するための液晶の操作やタッチパネルの入力などは以下の記事にまとまっています
+ https://momoji-san.hateblo.jp/entry/2026/09/21/194153 https://momoji-san.hateblo.jp/entry/2026/09/27/214659  市販の電子辞書をここまで自由にHackできるのは興味深いです
+#Brainux でPW-G5200のサブディスプレイの表示とタップができるようになったのでモグラたたきゲームを作ってみた
+というか ChatGPTに作ってもらったｗhttps://t.co/Y0feZevRvwhttps://t.co/kTZaAphFvw pic.twitter.com/IbkEcKJnqB
+&amp;mdash; momoji (@XGT66860) October 13, 2026  </description>
+    </item>
     
     <item>
       <title>3Dプリントで角が浮き上がらなくなる工夫</title>
@@ -125,19 +140,6 @@
 チャージ機能を持たず緊急時に利用するためのバッテリーというのが販売されているようです。 これは「いざ」というときのもので、一度利用してしまうと再度充電することは出来ません。（この製品には無料の回収ラベルが添付されており、使い捨てた製品は返送され再利用するという仕組みのようです） この記事では、そのバッテリーを分解してその内部の構造を紹介しています。
 内部にはHT4928Sというモバイルバッテリー用のICが搭載されており、実はこのICにはリチウムイオンバッテリーの充電機能が搭載されているのです。 さらにこの記事ではこの本来「充電できない」バッテリーに特殊なUSBケーブルをつなげることで、このICの機能をうまく使い充電できることを確かめています。
 充電機能あるICを採用しながら、あえて充電できない製品として販売していることも興味深いですし、この昇圧・バッテリー保護機能を内蔵した充放電ICも便利そうです。</description>
-    </item>
-    
-    <item>
-      <title>3Dプリント成果物の中に部品を埋め込む際の工夫</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E6%88%90%E6%9E%9C%E7%89%A9%E3%81%AE%E4%B8%AD%E3%81%AB%E9%83%A8%E5%93%81%E3%82%92%E5%9F%8B%E3%82%81%E8%BE%BC%E3%82%80%E9%9A%9B%E3%81%AE%E5%B7%A5%E5%A4%AB/</link>
-      <pubDate>Mon, 11 May 2026 22:32:31 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E6%88%90%E6%9E%9C%E7%89%A9%E3%81%AE%E4%B8%AD%E3%81%AB%E9%83%A8%E5%93%81%E3%82%92%E5%9F%8B%E3%82%81%E8%BE%BC%E3%82%80%E9%9A%9B%E3%81%AE%E5%B7%A5%E5%A4%AB/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリント成果物の中に部品を埋め込む際の工夫.jpg"&gt;Use A Gap-Cap To Embed Hardware In Your Next 3D Printから発見。画像もここから転載。
-3Dプリントを造形の途中で停止し、中に何かを入れたのちに、造形を再開することで、成果物の中に部品を埋め込むという技法があります。
-この記事ではその技法を行う際に「Gap-Cap」と呼ばれる専用の「蓋」の部品を使う方法を紹介しています。
-この例ではストリップLEDを埋め込んでいますが、この部品を入れ込んだ後に、造形を再開したときに、部品の隙間にフィラメントが落ちてしまったり、そもそも部品とフィラメントがうまく接着しないといった問題があります。 Gap-Capはこの問題を解決するためのもので、要は3Dプリンタで作られた部品挿入部分の「蓋」です。
-Gap-Capがあることで、部品挿入後の造形をより確実に行うことが出来ます。 単純なテクニックですが、非常に効果的だと感じました。</description>
     </item>
     
   </channel>

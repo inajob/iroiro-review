@@ -1,0 +1,29 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>電子辞書 on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E9%9B%BB%E5%AD%90%E8%BE%9E%E6%9B%B8/</link>
+    <description>Recent content in 電子辞書 on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 28 Oct 2026 22:00:48 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E9%9B%BB%E5%AD%90%E8%BE%9E%E6%9B%B8/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>電子辞書のサブディスプレイで独自のゲームを動かす</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E8%BE%9E%E6%9B%B8%E3%81%AE%E3%82%B5%E3%83%96%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%81%A7%E7%8B%AC%E8%87%AA%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</link>
+      <pubDate>Wed, 28 Oct 2026 22:00:48 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E8%BE%9E%E6%9B%B8%E3%81%AE%E3%82%B5%E3%83%96%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%81%A7%E7%8B%AC%E8%87%AA%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/電子辞書のサブディスプレイで独自のゲームを動かす.jpg"&gt;momojiさんのPostから発見。画像もここから転載。
+電子辞書をHackしてLinuxを動作させるBrainux という取り組みがあります。 このPostではこのBrainuxの環境で、電子辞書のサブディスプレイを制御しゲームを動かす例を紹介しています。
+これを実現するための液晶の操作やタッチパネルの入力などは以下の記事にまとまっています
+ https://momoji-san.hateblo.jp/entry/2026/09/21/194153 https://momoji-san.hateblo.jp/entry/2026/09/27/214659  市販の電子辞書をここまで自由にHackできるのは興味深いです
+#Brainux でPW-G5200のサブディスプレイの表示とタップができるようになったのでモグラたたきゲームを作ってみた
+というか ChatGPTに作ってもらったｗhttps://t.co/Y0feZevRvwhttps://t.co/kTZaAphFvw pic.twitter.com/IbkEcKJnqB
+&amp;mdash; momoji (@XGT66860) October 13, 2026  </description>
+    </item>
+    
+  </channel>
+</rss>
+
