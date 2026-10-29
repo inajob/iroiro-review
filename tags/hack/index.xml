@@ -5,9 +5,22 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 28 Oct 2026 22:00:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 23:56:06 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2台のESP32で可視光通信するためのライブラリ</title>
+      <link>https://inajob.github.io/iroiro-review/post/2%E5%8F%B0%E3%81%AEesp32%E3%81%A7%E5%8F%AF%E8%A6%96%E5%85%89%E9%80%9A%E4%BF%A1%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA/</link>
+      <pubDate>Thu, 29 Oct 2026 23:56:06 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/2%E5%8F%B0%E3%81%AEesp32%E3%81%A7%E5%8F%AF%E8%A6%96%E5%85%89%E9%80%9A%E4%BF%A1%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/2台のESP32で可視光通信するためのライブラリ.jpg"&gt;Two Microcontrollers Talking, All It Needs Is An LEDから発見。画像もここから転載。
+LEDというのは逆バイアスをかけることで簡易的なフォトダイオードとしても動作する素子です。
+この記事では、2つのESP32マイコンの間で、1つのLEDを送信機と受信機の両方に使って通信を行う「PacketLED」および「SecurePair」というArduinoライブラリが紹介されています。LEDによる光通信でパケットのやり取りや暗号鍵の交換を行い、さらに暗号化されたデータ通信をESP-NowやLoRaなどへ引き継ぐ仕組みになっています。
+LEDを光センサとして利用するアイデア自体は古くから研究されているものですが、パケットのフレーミング、CRC、再送制御などを組み合わせて実用的なリンクに仕立て上げている点が面白いと感じました。
+ </description>
+    </item>
     
     <item>
       <title>電子辞書のサブディスプレイで独自のゲームを動かす</title>
@@ -128,18 +141,6 @@
 早速テストしてみた。
 面白い表現出来るぞ!!!!! https://t.co/efglIYT1GP pic.twitter.com/snrYNhqnOp
 &amp;mdash; Xenoah (@shuminchuuu) June 9, 2026  制約の多い積層式の3Dプリントですが、こういうテクニックを駆使することで、設計の自由度を高められるのは面白いです。</description>
-    </item>
-    
-    <item>
-      <title>チャージ機能を持たず緊急時に利用するためのバッテリー</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B8%E6%A9%9F%E8%83%BD%E3%82%92%E6%8C%81%E3%81%9F%E3%81%9A%E7%B7%8A%E6%80%A5%E6%99%82%E3%81%AB%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC/</link>
-      <pubDate>Thu, 21 May 2026 20:28:07 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B8%E6%A9%9F%E8%83%BD%E3%82%92%E6%8C%81%E3%81%9F%E3%81%9A%E7%B7%8A%E6%80%A5%E6%99%82%E3%81%AB%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/チャージ機能を持たず緊急時に利用するためのバッテリー.jpg"&gt;Teardown: ChargeTab Emergency Phone Chargerから発見。画像もここから転載。
-チャージ機能を持たず緊急時に利用するためのバッテリーというのが販売されているようです。 これは「いざ」というときのもので、一度利用してしまうと再度充電することは出来ません。（この製品には無料の回収ラベルが添付されており、使い捨てた製品は返送され再利用するという仕組みのようです） この記事では、そのバッテリーを分解してその内部の構造を紹介しています。
-内部にはHT4928Sというモバイルバッテリー用のICが搭載されており、実はこのICにはリチウムイオンバッテリーの充電機能が搭載されているのです。 さらにこの記事ではこの本来「充電できない」バッテリーに特殊なUSBケーブルをつなげることで、このICの機能をうまく使い充電できることを確かめています。
-充電機能あるICを採用しながら、あえて充電できない製品として販売していることも興味深いですし、この昇圧・バッテリー保護機能を内蔵した充放電ICも便利そうです。</description>
     </item>
     
   </channel>

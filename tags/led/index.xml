@@ -5,9 +5,22 @@
     <description>Recent content in LED on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 22 Apr 2025 23:07:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 23:56:06 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/led/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2台のESP32で可視光通信するためのライブラリ</title>
+      <link>https://inajob.github.io/iroiro-review/post/2%E5%8F%B0%E3%81%AEesp32%E3%81%A7%E5%8F%AF%E8%A6%96%E5%85%89%E9%80%9A%E4%BF%A1%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA/</link>
+      <pubDate>Thu, 29 Oct 2026 23:56:06 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/2%E5%8F%B0%E3%81%AEesp32%E3%81%A7%E5%8F%AF%E8%A6%96%E5%85%89%E9%80%9A%E4%BF%A1%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/2台のESP32で可視光通信するためのライブラリ.jpg"&gt;Two Microcontrollers Talking, All It Needs Is An LEDから発見。画像もここから転載。
+LEDというのは逆バイアスをかけることで簡易的なフォトダイオードとしても動作する素子です。
+この記事では、2つのESP32マイコンの間で、1つのLEDを送信機と受信機の両方に使って通信を行う「PacketLED」および「SecurePair」というArduinoライブラリが紹介されています。LEDによる光通信でパケットのやり取りや暗号鍵の交換を行い、さらに暗号化されたデータ通信をESP-NowやLoRaなどへ引き継ぐ仕組みになっています。
+LEDを光センサとして利用するアイデア自体は古くから研究されているものですが、パケットのフレーミング、CRC、再送制御などを組み合わせて実用的なリンクに仕立て上げている点が面白いと感じました。
+ </description>
+    </item>
     
     <item>
       <title>鉄道路線を模したLED搭載ガジェット</title>
@@ -118,21 +131,6 @@ BTF-LIGHTING WS2812B ECO... https://t.co/u9eJn7GnHk https://t.co/NTDAm22cwO
       <guid>https://inajob.github.io/iroiro-review/post/10x10%E3%81%AE%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BCled%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%82%B8%E3%83%A7%E3%82%B0%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AB%E3%81%A7%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8B%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/10x10のフルカラーLEDを搭載したジョグダイアルで操作する携帯ゲーム機.jpg"&gt;LEDBOY retro inspired LED console stuck in the 70 by LEDBOY on Tindieから発見。画像もここから転載。
 10x10のフルカラーLEDを搭載した、ジョグダイアルで操作する携帯ゲーム機の作例です。 コアとなるCPUはAttiny1614です。 3Dプリンタで作られた筐体がLEDの拡散板としてうまく機能しています。
- </description>
-    </item>
-    
-    <item>
-      <title>フルカラーマトリクスLEDを各面に搭載した6面体ガジェット</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%92%E5%90%84%E9%9D%A2%E3%81%AB%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F6%E9%9D%A2%E4%BD%93%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
-      <pubDate>Mon, 13 Sep 2021 12:00:37 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led%E3%82%92%E5%90%84%E9%9D%A2%E3%81%AB%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F6%E9%9D%A2%E4%BD%93%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/pikocube.jpg"&gt;Six Sided PCB LED Dice With WIFI &amp;amp; Gyroscope - PIKOCUBEから発見。画像もここから転載（CC BY-NC-SA By moekoe）。
-フルカラーLEDを各面に搭載した6面体ガジェットの作例です。
-マイコンや電源ボード、バッテリーは6面体の内側に収納されています。
-フルカラーLEDは以前紹介した2020サイズの「WS2812 2020」を利用しています。
-動画では、この6面体の組み立ての様子を詳細に紹介しており、アイロンを使ったリフローや、ホットエアーガンによるリフローなど、同人ハードウェアを扱う人にはおなじみの工程を見ることが出来ます。
-6面体の組み立て時には3Dプリンタで作られた治具をうまく使い、90度の角度で各ボードを固定してはんだ付けしています。
  </description>
     </item>
     

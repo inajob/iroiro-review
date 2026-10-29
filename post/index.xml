@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 28 Oct 2026 22:00:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 23:56:06 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2台のESP32で可視光通信するためのライブラリ</title>
+      <link>https://inajob.github.io/iroiro-review/post/2%E5%8F%B0%E3%81%AEesp32%E3%81%A7%E5%8F%AF%E8%A6%96%E5%85%89%E9%80%9A%E4%BF%A1%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA/</link>
+      <pubDate>Thu, 29 Oct 2026 23:56:06 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/2%E5%8F%B0%E3%81%AEesp32%E3%81%A7%E5%8F%AF%E8%A6%96%E5%85%89%E9%80%9A%E4%BF%A1%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/2台のESP32で可視光通信するためのライブラリ.jpg"&gt;Two Microcontrollers Talking, All It Needs Is An LEDから発見。画像もここから転載。
+LEDというのは逆バイアスをかけることで簡易的なフォトダイオードとしても動作する素子です。
+この記事では、2つのESP32マイコンの間で、1つのLEDを送信機と受信機の両方に使って通信を行う「PacketLED」および「SecurePair」というArduinoライブラリが紹介されています。LEDによる光通信でパケットのやり取りや暗号鍵の交換を行い、さらに暗号化されたデータ通信をESP-NowやLoRaなどへ引き継ぐ仕組みになっています。
+LEDを光センサとして利用するアイデア自体は古くから研究されているものですが、パケットのフレーミング、CRC、再送制御などを組み合わせて実用的なリンクに仕立て上げている点が面白いと感じました。
+ </description>
+    </item>
     
     <item>
       <title>電子辞書のサブディスプレイで独自のゲームを動かす</title>
@@ -127,18 +140,6 @@ OSD（On Screen Display）チップとは、画面上にメニューや文字情
 この記事では、プリグラマブルな目覚まし時計プロジェクト「CinderClock」が紹介されています。物理ボタンによる操作やモジュール化されたハードウェア構造を採用しており、座標指定による日の出・日の入り連動アラームやポモドーロタイマー、さらにはミニゲーム機能まで盛り込まれています。
 あなたならどんな機能を搭載しますか？
  </description>
-    </item>
-    
-    <item>
-      <title>安価なESP32ボードをPDA化するソフトウェア</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E4%BE%A1%E3%81%AAesp32%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92pda%E5%8C%96%E3%81%99%E3%82%8B%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2/</link>
-      <pubDate>Thu, 15 Oct 2026 21:54:28 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E4%BE%A1%E3%81%AAesp32%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92pda%E5%8C%96%E3%81%99%E3%82%8B%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/安価なESP32ボードをPDA化するソフトウェア.jpg"&gt;Cheap Yellow Display Dreams Of PDAから発見。画像もここから転載。
-PDA（Personal Digital Assistant）というのは、スマートフォンが普及する以前にスケジュール管理や住所録などを持ち歩くために使われていた小型の携帯情報端末のことです。
-この記事では、安価なESP32搭載ディスプレイモジュール「Cheap Yellow Display（CYD）」をPDA化するファームウェアプロジェクトが紹介されています。Palm OSの完全な移植ではなく、GopherブラウザやRSSリーダー、BASICインタプリタ、電卓などレトロな機能をESP32上に独自実装しており、Webベースのフラッシャーを使って短時間で試せる点が特徴です。
-手軽に入手できるハードウェアで往年のレトロ端末の雰囲気を再現しているのが面白いと感じました。</description>
     </item>
     
   </channel>

@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>フォトダイオード on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/%E3%83%95%E3%82%A9%E3%83%88%E3%83%80%E3%82%A4%E3%82%AA%E3%83%BC%E3%83%89/</link>
+    <description>Recent content in フォトダイオード on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Thu, 29 Oct 2026 23:56:06 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/%E3%83%95%E3%82%A9%E3%83%88%E3%83%80%E3%82%A4%E3%82%AA%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2台のESP32で可視光通信するためのライブラリ</title>
+      <link>https://inajob.github.io/iroiro-review/post/2%E5%8F%B0%E3%81%AEesp32%E3%81%A7%E5%8F%AF%E8%A6%96%E5%85%89%E9%80%9A%E4%BF%A1%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA/</link>
+      <pubDate>Thu, 29 Oct 2026 23:56:06 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/2%E5%8F%B0%E3%81%AEesp32%E3%81%A7%E5%8F%AF%E8%A6%96%E5%85%89%E9%80%9A%E4%BF%A1%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/2台のESP32で可視光通信するためのライブラリ.jpg"&gt;Two Microcontrollers Talking, All It Needs Is An LEDから発見。画像もここから転載。
+LEDというのは逆バイアスをかけることで簡易的なフォトダイオードとしても動作する素子です。
+この記事では、2つのESP32マイコンの間で、1つのLEDを送信機と受信機の両方に使って通信を行う「PacketLED」および「SecurePair」というArduinoライブラリが紹介されています。LEDによる光通信でパケットのやり取りや暗号鍵の交換を行い、さらに暗号化されたデータ通信をESP-NowやLoRaなどへ引き継ぐ仕組みになっています。
+LEDを光センサとして利用するアイデア自体は古くから研究されているものですが、パケットのフレーミング、CRC、再送制御などを組み合わせて実用的なリンクに仕立て上げている点が面白いと感じました。
+ </description>
+    </item>
+    
+  </channel>
+</rss>
+
