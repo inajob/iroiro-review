@@ -5,9 +5,22 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 29 Oct 2026 23:56:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 22:34:13 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>振動により天井にものを貼り付ける技</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%8C%AF%E5%8B%95%E3%81%AB%E3%82%88%E3%82%8A%E5%A4%A9%E4%BA%95%E3%81%AB%E3%82%82%E3%81%AE%E3%82%92%E8%B2%BC%E3%82%8A%E4%BB%98%E3%81%91%E3%82%8B%E6%8A%80/</link>
+      <pubDate>Thu, 05 Nov 2026 22:34:13 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%8C%AF%E5%8B%95%E3%81%AB%E3%82%88%E3%82%8A%E5%A4%A9%E4%BA%95%E3%81%AB%E3%82%82%E3%81%AE%E3%82%92%E8%B2%BC%E3%82%8A%E4%BB%98%E3%81%91%E3%82%8B%E6%8A%80/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/振動により天井にものを貼り付ける技.jpg"&gt;Using Vibration To Make Stuff Stick Contact-Free To Ceilingsから発見。画像もここから転載。
+マイクロ振動接着というのは、微細な振動によって物体の間に局所的な低圧領域や流体力学的効果を生み出し、物理的な接触なしに天井などに物を吸着させる技術です。
+この記事では、振動モーターを取り付けた柔軟な素材のカードなどが重力に逆らって天井に張り付く現象について紹介しています。振動によって生じる進行波が隙間の空気を押し出すことで負圧を生み出す仕組みや、半導体製造でのウェハ搬送や壁面移動ロボットへの応用について解説されています。
+微小振動による吸着メカニズムは興味深く、調べてみようと感じました
+ </description>
+    </item>
     
     <item>
       <title>2台のESP32で可視光通信するためのライブラリ</title>
@@ -125,22 +138,6 @@ LEDを光センサとして利用するアイデア自体は古くから研究�
 外側の二層のメッシュ構造や構造材の隙間の設計など、高電圧のリークを防ぎつつ実用的な形状に落とし込むなど、様々な工夫があるようです。
 蚊を撃退するためとはいえ、最終的に全身をメッシュと配線で覆われた非常に滑稽な見た目の装備になってしまっている点が面白いと感じました。
  </description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタを一時停止して透明な板を埋め込む技</title>
-      <link>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E4%B8%80%E6%99%82%E5%81%9C%E6%AD%A2%E3%81%97%E3%81%A6%E9%80%8F%E6%98%8E%E3%81%AA%E6%9D%BF%E3%82%92%E5%9F%8B%E3%82%81%E8%BE%BC%E3%82%80%E6%8A%80/</link>
-      <pubDate>Wed, 17 Jun 2026 23:41:07 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E4%B8%80%E6%99%82%E5%81%9C%E6%AD%A2%E3%81%97%E3%81%A6%E9%80%8F%E6%98%8E%E3%81%AA%E6%9D%BF%E3%82%92%E5%9F%8B%E3%82%81%E8%BE%BC%E3%82%80%E6%8A%80/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタを一時停止して透明な板を埋め込む技.jpg"&gt;tomo makabeさんのPostから発見。画像もここから転載。
-積層式の3Dプリンタでは、途中で出力を一時停止して、ナットや磁石を埋め込むテクニックがありますが、このPostではこの仕組みを応用して透明なアクリルパネルを埋め込む手法を紹介しています。
-出力を一時停止してナットや磁石を埋め込むテクニックがありますがそれの応用。透明な板を埋めてみました。後で接着する必要が無く簡単です。
-透明に限らず広い平面を素早く出力したい時にも使えるかも。 pic.twitter.com/pY5wMrIhjc
-&amp;mdash; tomo makabe (@mkbtm) June 9, 2026  また、この作例にインスパイヤされ、Xenoahさんは六角格子のパネルを埋め込んでいます。
-早速テストしてみた。
-面白い表現出来るぞ!!!!! https://t.co/efglIYT1GP pic.twitter.com/snrYNhqnOp
-&amp;mdash; Xenoah (@shuminchuuu) June 9, 2026  制約の多い積層式の3Dプリントですが、こういうテクニックを駆使することで、設計の自由度を高められるのは面白いです。</description>
     </item>
     
   </channel>

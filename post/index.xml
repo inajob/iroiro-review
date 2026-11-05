@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 04 Nov 2026 23:59:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 22:34:13 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>振動により天井にものを貼り付ける技</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E6%8C%AF%E5%8B%95%E3%81%AB%E3%82%88%E3%82%8A%E5%A4%A9%E4%BA%95%E3%81%AB%E3%82%82%E3%81%AE%E3%82%92%E8%B2%BC%E3%82%8A%E4%BB%98%E3%81%91%E3%82%8B%E6%8A%80/</link>
+      <pubDate>Thu, 05 Nov 2026 22:34:13 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E6%8C%AF%E5%8B%95%E3%81%AB%E3%82%88%E3%82%8A%E5%A4%A9%E4%BA%95%E3%81%AB%E3%82%82%E3%81%AE%E3%82%92%E8%B2%BC%E3%82%8A%E4%BB%98%E3%81%91%E3%82%8B%E6%8A%80/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/振動により天井にものを貼り付ける技.jpg"&gt;Using Vibration To Make Stuff Stick Contact-Free To Ceilingsから発見。画像もここから転載。
+マイクロ振動接着というのは、微細な振動によって物体の間に局所的な低圧領域や流体力学的効果を生み出し、物理的な接触なしに天井などに物を吸着させる技術です。
+この記事では、振動モーターを取り付けた柔軟な素材のカードなどが重力に逆らって天井に張り付く現象について紹介しています。振動によって生じる進行波が隙間の空気を押し出すことで負圧を生み出す仕組みや、半導体製造でのウェハ搬送や壁面移動ロボットへの応用について解説されています。
+微小振動による吸着メカニズムは興味深く、調べてみようと感じました
+ </description>
+    </item>
     
     <item>
       <title>信号機の情報をBLEで取得する</title>
@@ -128,19 +141,6 @@ ESP32は、パワフルなマイコンでソフトウェア音源としてもそ
 空中配線でRaspberry Pi Pico作ってみた
 こんなでも一応動きます(分かりにくいですがWS2812を駆動できてます) pic.twitter.com/kQflbVWsD3
 &amp;mdash; ElMaDragon (@EMakerDragon) October 10, 2026  </description>
-    </item>
-    
-    <item>
-      <title>RP2040をコアとしたモジュール式のマクロキーパッド</title>
-      <link>https://inajob.github.io/iroiro-review/post/rp2040%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E5%BC%8F%E3%81%AE%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%AD%E3%83%BC%E3%83%91%E3%83%83%E3%83%89/</link>
-      <pubDate>Tue, 20 Oct 2026 22:47:38 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/rp2040%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E5%BC%8F%E3%81%AE%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%AD%E3%83%BC%E3%83%91%E3%83%83%E3%83%89/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/RP2040をコアとしたモジュール式のマクロキーパッド.jpg"&gt;A Modular Macro Keypadから発見。画像もここから転載。
-マクロキーパッドというのは、ショートカットキーや連続入力をワンタッチで呼び出すための補助入力デバイスです。
-この記事では、3.5mmジャックを利用して物理的なキーやロータリーエンコーダを外部モジュール化し、低コストで柔軟なレイアウト拡張を実現した「suutari20」という自作マクロパッドが紹介されています。メイン基板にはRaspberry Pi Pico（RP2040）を使いQMKファームウェアで制御する仕組みで、配線の取り回しやケース設計をシンプルに保ちつつ最大18個の入力に対応できる構造です。
-身近で安価なオーディオジャックをインターフェースに流用するアイディアが面白いです。
- </description>
     </item>
     
   </channel>
