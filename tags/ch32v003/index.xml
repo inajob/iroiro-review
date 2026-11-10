@@ -5,9 +5,21 @@
     <description>Recent content in CH32V003 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 15 Apr 2026 21:36:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 21:48:33 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/ch32v003/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2キーのシンプルな携帯ゲーム機</title>
+      <link>https://inajob.github.io/iroiro-review/post/2%E3%82%AD%E3%83%BC%E3%81%AE%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
+      <pubDate>Tue, 10 Nov 2026 21:48:33 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/2%E3%82%AD%E3%83%BC%E3%81%AE%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/2キーのシンプルな携帯ゲーム機.jpg"&gt;tRexRunnerNanoから発見。画像もここから転載。
+CH32V003は、数10円という非常に低価格で購入できるオープンソース開発基盤向けの32bit RISC-Vマイコンです。
+この記事では、過去にATmega88で作られたキーホルダーサイズのChrome恐竜ゲーム機を、CH32V003を用いてリメイクした自作ハードウェア「tRexRunnerNano」を紹介しています。単にマイコンを変更しただけでなく、書き込み用ポゴピンパッドの追加やUSB Type-C化、回路修正による漏れ電流対策やボタン天面パーツの最適化など、自作基板における細かな改善ノウハウが詰め込まれています。
+旧作の反省点を回路や機構設計の更新によって丁寧に潰し込み、現代のパーツ構成で完成度を高めているアプローチが非常に魅力的だと感じました。</description>
+    </item>
     
     <item>
       <title>UIAPduinoのみで作られた超シンプルなゲーム</title>
@@ -124,17 +136,6 @@ CH32V003は非常に安価なICなので、安くでキーボードを作りた�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ロースペックなCH32V003で手書きの数字の認識を行う.jpg"&gt;BitNetMCU Slims Down TinyML Models - Electronics-Lab.comから発見。画像もここから転載。
 CH32V003はRAM2K、ROM16Kの非常に低スペックなマイコンですが、この環境で動作するニューラルネットワークの推論ライブラリがあるようです。
 手書き文字認識などを実現するためには、そこそこのスペックが必要かと思っていましたが、案外低スペックでも動作するものなんですね。</description>
-    </item>
-    
-    <item>
-      <title>CH32V003をコアとしたパソコン</title>
-      <link>https://inajob.github.io/iroiro-review/post/ch32v003%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/</link>
-      <pubDate>Fri, 14 Jun 2024 00:13:05 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/ch32v003%E3%82%92%E3%82%B3%E3%82%A2%E3%81%A8%E3%81%97%E3%81%9F%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/CH32V003をコアとしたパソコン.jpg"&gt;CH32V003 Makes For Dirt Cheap RISC-V Computerから発見。画像もここから転載。
-CH32V003をコアとしたシンプルなパソコンです。 画面出力、PS/2キーボード、スピーカーをサポートしており、低スペックでありながら最低限の動作はするようです。
-とはいえRAMが2Kしかないので画面は40×25文字の表示ができるという程度のものです。</description>
     </item>
     
   </channel>
