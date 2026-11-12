@@ -5,9 +5,20 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 10 Nov 2026 21:48:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 00:06:50 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2形態に変形するマトリクスLED</title>
+      <link>https://inajob.github.io/iroiro-review/post/2%E5%BD%A2%E6%85%8B%E3%81%AB%E5%A4%89%E5%BD%A2%E3%81%99%E3%82%8B%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led/</link>
+      <pubDate>Thu, 12 Nov 2026 00:06:50 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/2%E5%BD%A2%E6%85%8B%E3%81%AB%E5%A4%89%E5%BD%A2%E3%81%99%E3%82%8B%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/2形態に変形するマトリクスLED.jpg"&gt;@beavers_hive のポスト on X（2026-11-02 10:16） / Xから発見。画像もここから転載。
+横長のフルカラーマトリクスLEDかと思いきや、変形するという機構の付いた面白い作例です。
+表示する情報の種類に応じて形が変えられる というのが面白いし、自動で変形する仕掛けも意外性があって面白いです</description>
+    </item>
     
     <item>
       <title>2キーのシンプルな携帯ゲーム機</title>
@@ -124,19 +135,6 @@ LEDを光センサとして利用するアイデア自体は古くから研究�
 キーチェーン型の携帯ゲーム機は幼いころ遊んだことがありますが、今の技術で自作するとしたらどうなるでしょう？
 この記事では、Waveshare RP2040-Tinyと14×20のWS2812B RGB LEDマトリクスを組み合わせ、テトリスやスネークなど6つのゲームを遊べるようにしたハンドヘルド型のミニアーケードゲーム機「MatTris Arcade」を紹介しています。 カスタムPCBの設計から、ステンシルを使ったソルダーペーストの塗布、300点を超える表面実装部品の手作業による配置とリフロー、そして裏面実装前の動作テストに至るまでの具体的な製作プロセスがまとめられています。
 見た目が素敵で魅力的なゲーム機だと思いました。
- </description>
-    </item>
-    
-    <item>
-      <title>壁掛け式のペンプロッタ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%A3%81%E6%8E%9B%E3%81%91%E5%BC%8F%E3%81%AE%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</link>
-      <pubDate>Mon, 26 Oct 2026 22:13:05 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%A3%81%E6%8E%9B%E3%81%91%E5%BC%8F%E3%81%AE%E3%83%9A%E3%83%B3%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/壁掛け式のペンプロッタ.jpg"&gt;Sash: A Standalone A2 Polargraph Drawing Machineから発見。画像もここから転載。
-ポラグラフというのは、2つのステッピングモーターで吊るしたペンを引っ張り、壁面などに巨大な絵を描くプロッターのことです。
-この記事では、古い製図板をベースに構築されたスタンドアロンのA2ポラグラフ描画マシン「Sash」について紹介します。このマシンはPC常時接続を不要にし、Marlinファームウェアを搭載したMega＋RAMPS 1.4ボードとSDカード、専用のオフラインHTMLツール「Sash Studio」を組み合わせることで、写真やCADデータを手軽にGコードへ変換して描画できる点が特徴です。
-動画を見ると思った以上に細かい描画が実現できており、この方式に興味を持ちました。
  </description>
     </item>
     
