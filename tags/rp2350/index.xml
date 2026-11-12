@@ -5,9 +5,22 @@
     <description>Recent content in RP2350 on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 14 Jul 2026 21:56:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 21:28:54 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/rp2350/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>マイクロコントローラ向けのGUIを備えたOS「SylphideOS」</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E5%90%91%E3%81%91%E3%81%AEgui%E3%82%92%E5%82%99%E3%81%88%E3%81%9Fossylphideos/</link>
+      <pubDate>Thu, 12 Nov 2026 21:28:54 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E5%90%91%E3%81%91%E3%81%AEgui%E3%82%92%E5%82%99%E3%81%88%E3%81%9Fossylphideos/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/マイクロコントローラ向けのGUIを備えたOS「SylphideOS」.jpg"&gt;An Attempt At A Useful Desktop OS For Microcontrollersから発見。画像もここから転載。
+Sylphide OSというのは、MMUを持たないリソースの限られたマイクロコントローラ上で、80〜90年代のホームコンピュータのようなデスクトップ環境を実現するための汎用オペレーティングシステムです。
+この記事では、Linuxを動かせない安価な現代の高性能マイコン（ESP32-P4やRaspberry Pi Pico 2など）をターゲットに、FreeRTOSをベースとして独自のドライバやウィンドウマネージャを構築する「Sylphide OS」の設計思想や現状について紹介しています。
+見た目はClassic Macintoshっぽいですが独自の実装となっています
+マイコンの限界に挑戦しながらレトロなGUI環境をスクラッチで実装していくというアプローチは興味深く、私としてはこれが日本語対応してくれればなぁと感じています。</description>
+    </item>
     
     <item>
       <title>USBポートを2つ備えたRP2350開発ボード</title>
