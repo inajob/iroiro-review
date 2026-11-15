@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NTCサーミスタ on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/ntc%E3%82%B5%E3%83%BC%E3%83%9F%E3%82%B9%E3%82%BF/</link>
+    <description>Recent content in NTCサーミスタ on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sun, 15 Nov 2026 21:18:36 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/ntc%E3%82%B5%E3%83%BC%E3%83%9F%E3%82%B9%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>熱で点火し吹き消すと消える電子キャンドル</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%86%B1%E3%81%A7%E7%82%B9%E7%81%AB%E3%81%97%E5%90%B9%E3%81%8D%E6%B6%88%E3%81%99%E3%81%A8%E6%B6%88%E3%81%88%E3%82%8B%E9%9B%BB%E5%AD%90%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AB/</link>
+      <pubDate>Sun, 15 Nov 2026 21:18:36 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%86%B1%E3%81%A7%E7%82%B9%E7%81%AB%E3%81%97%E5%90%B9%E3%81%8D%E6%B6%88%E3%81%99%E3%81%A8%E6%B6%88%E3%81%88%E3%82%8B%E9%9B%BB%E5%AD%90%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/熱で点火し吹き消すと消える電子キャンドル.jpg"&gt;An Electronic Candle You Can Set On Fireから発見。画像もここから転載。
+NTCサーミスタというのは、温度が上がると電気抵抗が下がる特性を持つ感温素子（サーミスタの一種）で、温度変化を電気信号に変換するために広く使われている電子部品です。
+この記事では、NTCサーミスタとMOSFET、そしてLEDを組み合わせることで、実際に火を近づけて点火し、息を吹きかけて消火できる電子キャンドルについて紹介されています。
+温度変化に応じた抵抗値の変化というシンプルなアナログ特性を、回路の直感的なインタラクションに応用しているアプローチが面白いと感じました。
+ </description>
+    </item>
+    
+  </channel>
+</rss>
+

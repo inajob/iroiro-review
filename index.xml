@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 12 Nov 2026 21:28:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 21:18:36 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>熱で点火し吹き消すと消える電子キャンドル</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E7%86%B1%E3%81%A7%E7%82%B9%E7%81%AB%E3%81%97%E5%90%B9%E3%81%8D%E6%B6%88%E3%81%99%E3%81%A8%E6%B6%88%E3%81%88%E3%82%8B%E9%9B%BB%E5%AD%90%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AB/</link>
+      <pubDate>Sun, 15 Nov 2026 21:18:36 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E7%86%B1%E3%81%A7%E7%82%B9%E7%81%AB%E3%81%97%E5%90%B9%E3%81%8D%E6%B6%88%E3%81%99%E3%81%A8%E6%B6%88%E3%81%88%E3%82%8B%E9%9B%BB%E5%AD%90%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AB/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/熱で点火し吹き消すと消える電子キャンドル.jpg"&gt;An Electronic Candle You Can Set On Fireから発見。画像もここから転載。
+NTCサーミスタというのは、温度が上がると電気抵抗が下がる特性を持つ感温素子（サーミスタの一種）で、温度変化を電気信号に変換するために広く使われている電子部品です。
+この記事では、NTCサーミスタとMOSFET、そしてLEDを組み合わせることで、実際に火を近づけて点火し、息を吹きかけて消火できる電子キャンドルについて紹介されています。
+温度変化に応じた抵抗値の変化というシンプルなアナログ特性を、回路の直感的なインタラクションに応用しているアプローチが面白いと感じました。
+ </description>
+    </item>
     
     <item>
       <title>マイクロコントローラ向けのGUIを備えたOS「SylphideOS」</title>
@@ -121,21 +134,6 @@ LEDというのは逆バイアスをかけることで簡易的なフォトダ�
 この記事では、2つのESP32マイコンの間で、1つのLEDを送信機と受信機の両方に使って通信を行う「PacketLED」および「SecurePair」というArduinoライブラリが紹介されています。LEDによる光通信でパケットのやり取りや暗号鍵の交換を行い、さらに暗号化されたデータ通信をESP-NowやLoRaなどへ引き継ぐ仕組みになっています。
 LEDを光センサとして利用するアイデア自体は古くから研究されているものですが、パケットのフレーミング、CRC、再送制御などを組み合わせて実用的なリンクに仕立て上げている点が面白いと感じました。
  </description>
-    </item>
-    
-    <item>
-      <title>電子辞書のサブディスプレイで独自のゲームを動かす</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E8%BE%9E%E6%9B%B8%E3%81%AE%E3%82%B5%E3%83%96%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%81%A7%E7%8B%AC%E8%87%AA%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</link>
-      <pubDate>Wed, 28 Oct 2026 22:00:48 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E9%9B%BB%E5%AD%90%E8%BE%9E%E6%9B%B8%E3%81%AE%E3%82%B5%E3%83%96%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%81%A7%E7%8B%AC%E8%87%AA%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/電子辞書のサブディスプレイで独自のゲームを動かす.jpg"&gt;momojiさんのPostから発見。画像もここから転載。
-電子辞書をHackしてLinuxを動作させるBrainux という取り組みがあります。 このPostではこのBrainuxの環境で、電子辞書のサブディスプレイを制御しゲームを動かす例を紹介しています。
-これを実現するための液晶の操作やタッチパネルの入力などは以下の記事にまとまっています
- https://momoji-san.hateblo.jp/entry/2026/09/21/194153 https://momoji-san.hateblo.jp/entry/2026/09/27/214659  市販の電子辞書をここまで自由にHackできるのは興味深いです
-#Brainux でPW-G5200のサブディスプレイの表示とタップができるようになったのでモグラたたきゲームを作ってみた
-というか ChatGPTに作ってもらったｗhttps://t.co/Y0feZevRvwhttps://t.co/kTZaAphFvw pic.twitter.com/IbkEcKJnqB
-&amp;mdash; momoji (@XGT66860) October 13, 2026  </description>
     </item>
     
   </channel>
