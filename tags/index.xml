@@ -5,9 +5,36 @@
     <description>Recent content in Tags on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 15 Nov 2026 21:18:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 21:29:28 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2DCAD</title>
+      <link>https://inajob.github.io/iroiro-review/tags/2dcad/</link>
+      <pubDate>Mon, 16 Nov 2026 21:29:28 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/2dcad/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>CAD</title>
+      <link>https://inajob.github.io/iroiro-review/tags/cad/</link>
+      <pubDate>Mon, 16 Nov 2026 21:29:28 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/cad/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
+    
+    <item>
+      <title>レーザーカッター</title>
+      <link>https://inajob.github.io/iroiro-review/tags/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC/</link>
+      <pubDate>Mon, 16 Nov 2026 21:29:28 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/tags/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
+    </item>
     
     <item>
       <title>LED</title>
@@ -69,33 +96,6 @@
       <pubDate>Thu, 12 Nov 2026 00:06:50 +0000</pubDate>
       
       <guid>https://inajob.github.io/iroiro-review/tags/%E8%A1%A8%E7%A4%BA%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>CH32V003</title>
-      <link>https://inajob.github.io/iroiro-review/tags/ch32v003/</link>
-      <pubDate>Tue, 10 Nov 2026 21:48:33 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/ch32v003/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>3Dプリンタ</title>
-      <link>https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</link>
-      <pubDate>Sun, 08 Nov 2026 22:00:58 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
-    </item>
-    
-    <item>
-      <title>HACK</title>
-      <link>https://inajob.github.io/iroiro-review/tags/hack/</link>
-      <pubDate>Thu, 05 Nov 2026 22:34:13 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/tags/hack/</guid>
       <description>&lt;img src="https://inajob.github.io/iroiro-review"&gt;</description>
     </item>
     
