@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WASM on inajobのいろいろレビュー</title>
+    <link>https://inajob.github.io/iroiro-review/tags/wasm/</link>
+    <description>Recent content in WASM on inajobのいろいろレビュー</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Tue, 17 Nov 2026 21:00:30 +0000</lastBuildDate>
+    
+	<atom:link href="https://inajob.github.io/iroiro-review/tags/wasm/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32-S3用のWasmが動く小さなOS「KoaOS」</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32-s3%E7%94%A8%E3%81%AEwasm%E3%81%8C%E5%8B%95%E3%81%8F%E5%B0%8F%E3%81%95%E3%81%AAoskoaos/</link>
+      <pubDate>Tue, 17 Nov 2026 21:00:30 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32-s3%E7%94%A8%E3%81%AEwasm%E3%81%8C%E5%8B%95%E3%81%8F%E5%B0%8F%E3%81%95%E3%81%AAoskoaos/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32-S3用のWasmが動く小さなOS「KoaOS」.jpg"&gt;A Tiny OS For A Tiny Boardから発見。画像もここから転載。
+WebAssembly(Wasm)というのは特定のCPUアーキテクチャに依存せず、軽量かつ安全なサンドボックス上でプログラムを実行できるバイナリ形式のことです。
+この記事紹介されているのは、ESP32-S3を搭載したHeltecのボード向けに開発された、C言語のSDKやUNIX風のシェルを備えるヘッドレスな軽量環境「KoaOS」です。 さらGitHubのにリポジトリの方を見るとFreeRTOSを土台にしつつ、シリアル経由での操作やWasmによるアプリの動的追加、ケイパビリティベースの権限管理といったユニークな仕組みが実装されている点が詳しく解説されています。
+マイコンの上で動くこうした簡易的なランタイム環境やシェルの試みは、ファームウェアを丸ごと書き換えることなく安全に小規模デバイスの可能性を広げるアプローチとして面白いと感じました。</description>
+    </item>
+    
+  </channel>
+</rss>
+
