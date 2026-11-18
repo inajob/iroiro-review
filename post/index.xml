@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 17 Nov 2026 21:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 21:43:39 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PaperDIY Complete Kitを使ったハンドヘルドPC</title>
+      <link>https://inajob.github.io/iroiro-review/post/paperdiy-complete-kit%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%8F%E3%83%B3%E3%83%89%E3%83%98%E3%83%AB%E3%83%89pc/</link>
+      <pubDate>Wed, 18 Nov 2026 21:43:39 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/paperdiy-complete-kit%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%8F%E3%83%B3%E3%83%89%E3%83%98%E3%83%AB%E3%83%89pc/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/PaperDIY Complete Kitを使ったハンドヘルドPC.jpg"&gt;@0x7c0x80386 のポスト on X（2026-11-11 12:18） / Xから発見。画像もここから転載。
+PaperDIYというのは、M5Stack社が提供するESP32-S3R8マイコンと4.7インチの電子ペーパーを組み合わせた開発キットで、3Dプリント製のオープンソース筐体や電源管理チップ、microSDカードスロットなどを備えています。
+この記事では、このPaperDIYをベースとして自作PDA端末を構築するための設計や構成がGitHub上で公開されており、ハードウェアの配線やArduinoなどを用いたファームウェアの実装アプローチを確認することができます。
+市販の開発キットとオープンソースの設計を組み合わせることで、コンパクトな電子ペーパー端末を手軽に自作できる点が面白いと感じました。</description>
+    </item>
     
     <item>
       <title>ESP32-S3用のWasmが動く小さなOS「KoaOS」</title>
@@ -118,20 +130,6 @@ CH32V003は、数10円という非常に低価格で購入できるオープン�
 この記事では、振動モーターを取り付けた柔軟な素材のカードなどが重力に逆らって天井に張り付く現象について紹介しています。振動によって生じる進行波が隙間の空気を押し出すことで負圧を生み出す仕組みや、半導体製造でのウェハ搬送や壁面移動ロボットへの応用について解説されています。
 微小振動による吸着メカニズムは興味深く、調べてみようと感じました
  </description>
-    </item>
-    
-    <item>
-      <title>信号機の情報をBLEで取得する</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E4%BF%A1%E5%8F%B7%E6%A9%9F%E3%81%AE%E6%83%85%E5%A0%B1%E3%82%92ble%E3%81%A7%E5%8F%96%E5%BE%97%E3%81%99%E3%82%8B/</link>
-      <pubDate>Wed, 04 Nov 2026 23:59:54 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E4%BF%A1%E5%8F%B7%E6%A9%9F%E3%81%AE%E6%83%85%E5%A0%B1%E3%82%92ble%E3%81%A7%E5%8F%96%E5%BE%97%E3%81%99%E3%82%8B/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/信号機の情報をBLEで取得する.jpg"&gt;湯村 翼 Tsubasa YUMURA さんのPostから発見。画像もここから転載。
-スマートフォンのブラウザで動作するツールが開発されており、Android Chromeであれば、簡単に信号の情報を読み取れるようです。
-すべての信号機ではないようですが、そんなことが出来るとは思ってもみませんでした
-高度化PICS(BLE信号機)のBLE Advertise受信・可視化ソフトウェアをWeb Bluetoothを利用してWebアプリケーションで実装しました。 pic.twitter.com/jZgPMKnUeV
-&amp;mdash; 湯村 翼 Tsubasa YUMURA (@yumu19) November 1, 2026  こちらでデモサイトを公開してます。AndroidのChromeのみで動作します。https://t.co/yY3J45NAcA
-&amp;mdash; 湯村 翼 Tsubasa YUMURA (@yumu19) November 1, 2026  </description>
     </item>
     
   </channel>
