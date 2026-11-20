@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 18 Nov 2026 21:43:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 22:11:28 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESP32-P4で動作するデスクトップ付きのOS</title>
+      <link>https://inajob.github.io/iroiro-review/post/esp32-p4%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97%E4%BB%98%E3%81%8D%E3%81%AEos/</link>
+      <pubDate>Thu, 19 Nov 2026 22:11:28 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/esp32-p4%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%99%E3%82%8B%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97%E4%BB%98%E3%81%8D%E3%81%AEos/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/ESP32-P4で動作するデスクトップ付きのOS.jpg"&gt;A Desktop OS For The ESP32-P4から発見。画像もここから転載。
+ESP32-P4というのは、高性能なRISC-Vコアを搭載し、ディスプレイやカメラのインターフェースを備えた新しい高機能マイクロコントローラのことです。
+この記事では、このESP32-P4を搭載した開発ボード（Olimex ESP32-P4-PC）向けに開発されている、MS-DOSのようなシングルユーザーの軽量OS「BMDS」が紹介されています。HDMI出力やUSBキーボード・マウスなどを接続して単体のパソコンのように使え、ウィンドウマネージャーやシェル、内蔵のAngelScript開発環境、Doomなどのゲーム、さらにはシンセサイザーやSSHサーバーといった機能まで備えたユニークなプロジェクトとなっています。
+マイコンを単なる組み込み機器としてではなく、自己完結した小さなパソコン環境として仕立て上げるアプローチがとても面白いと感じました。</description>
+    </item>
     
     <item>
       <title>PaperDIY Complete Kitを使ったハンドヘルドPC</title>
@@ -117,19 +129,6 @@ CH32V003は、数10円という非常に低価格で購入できるオープン�
 3Dプリンタと電子工作は相性が良く、特に大きさにこだわりたいケースや複雑な形状のコントローラのようなものに適しています。
 この記事では、市販コントローラーの価格高騰を背景に、専用基板を使わずユニバーサル基板とRP2040-Zero、ジョイスティック、ボタン類、そして3Dプリント筐体を組み合わせて10ユーロ程度で自作されたゲームパッドが紹介されています。 内部にはナットを固定するためのインサートナットが用いられており、設定はファームウェアが提供するWebUI経由で手軽に行えるなど、手軽さと頑丈さを両立させた設計になっています。
 配線をプリント基板に頼らずプロトボードで完結させる割り切ったアプローチや、GP2040-CEを活用した手軽なビルド手順は自作入力デバイスの入門として非常に応用範囲が広い技術だと感じました。</description>
-    </item>
-    
-    <item>
-      <title>振動により天井にものを貼り付ける技</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E6%8C%AF%E5%8B%95%E3%81%AB%E3%82%88%E3%82%8A%E5%A4%A9%E4%BA%95%E3%81%AB%E3%82%82%E3%81%AE%E3%82%92%E8%B2%BC%E3%82%8A%E4%BB%98%E3%81%91%E3%82%8B%E6%8A%80/</link>
-      <pubDate>Thu, 05 Nov 2026 22:34:13 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E6%8C%AF%E5%8B%95%E3%81%AB%E3%82%88%E3%82%8A%E5%A4%A9%E4%BA%95%E3%81%AB%E3%82%82%E3%81%AE%E3%82%92%E8%B2%BC%E3%82%8A%E4%BB%98%E3%81%91%E3%82%8B%E6%8A%80/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/振動により天井にものを貼り付ける技.jpg"&gt;Using Vibration To Make Stuff Stick Contact-Free To Ceilingsから発見。画像もここから転載。
-マイクロ振動接着というのは、微細な振動によって物体の間に局所的な低圧領域や流体力学的効果を生み出し、物理的な接触なしに天井などに物を吸着させる技術です。
-この記事では、振動モーターを取り付けた柔軟な素材のカードなどが重力に逆らって天井に張り付く現象について紹介しています。振動によって生じる進行波が隙間の空気を押し出すことで負圧を生み出す仕組みや、半導体製造でのウェハ搬送や壁面移動ロボットへの応用について解説されています。
-微小振動による吸着メカニズムは興味深く、調べてみようと感じました
- </description>
     </item>
     
   </channel>
