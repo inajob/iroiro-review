@@ -5,9 +5,21 @@
     <description>Recent content in HACK on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 05 Nov 2026 22:34:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 21:27:56 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>トイカメラでDOOMを動かす</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%88%E3%82%A4%E3%82%AB%E3%83%A1%E3%83%A9%E3%81%A7doom%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</link>
+      <pubDate>Mon, 23 Nov 2026 21:27:56 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%88%E3%82%A4%E3%82%AB%E3%83%A1%E3%83%A9%E3%81%A7doom%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/トイカメラでDOOMを動かす.jpg"&gt;It’s DOOM, On A Toy Cameraから発見。画像もここから転載。
+最近の子ども向けトイカメラは安価でありながら処理能力が上がっており、画像処理やミニゲームなどを1チップでこなすSoCが搭載されています。かつてのPC向けCPUである486クラスに近い演算性能を持つものもあり、玩具という枠を超えたハードウェア構成になっています。
+この記事では、そうしたトイカメラのファームウェアを解析し、空き容量が限られるメモリ環境でDOOMを約30fpsで動かせるように仕立てています。よく使われるコードだけをRAMに残して残りをフラッシュに置く工夫や、自作の軽量シンセサイザーによる音楽再生、限られたボタンへの操作割り当てなど、実用的に遊べる形まで詰めているのが特徴で、詳しい実装やツール類は元記事とあわせて公開リポジトリを見るとわかりそうです。
+小さな割り込み処理や自前のループを組み合わせて、限られたリソースを引き出す工夫が面白いと感じました。</description>
+    </item>
     
     <item>
       <title>振動により天井にものを貼り付ける技</title>
@@ -123,20 +135,6 @@ LEDを光センサとして利用するアイデア自体は古くから研究�
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/3Dプリンタでクッキーを焼く挑戦.jpg"&gt;Cookies, Baked The 3D Printer Wayから発見。画像もここから転載。
 3Dプリンタのベッドは、100度程度まで加熱でき、また密閉型の3Dプリンタは、ある程度の保温性能を備えています。
 この記事ではそんな3Dプリンタの特徴を「オーブン」ととらえてクッキーを焼く実験を紹介しています。衛生面や機材への影響から推奨はされていませんが、プリンタの熱を調理に利用するという発想は面白いです
- </description>
-    </item>
-    
-    <item>
-      <title>体にまとうタイプの電気殺虫器</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E4%BD%93%E3%81%AB%E3%81%BE%E3%81%A8%E3%81%86%E3%82%BF%E3%82%A4%E3%83%97%E3%81%AE%E9%9B%BB%E6%B0%97%E6%AE%BA%E8%99%AB%E5%99%A8/</link>
-      <pubDate>Tue, 30 Jun 2026 21:55:00 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E4%BD%93%E3%81%AB%E3%81%BE%E3%81%A8%E3%81%86%E3%82%BF%E3%82%A4%E3%83%97%E3%81%AE%E9%9B%BB%E6%B0%97%E6%AE%BA%E8%99%AB%E5%99%A8/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/体にまとうタイプの電気殺虫器.jpg"&gt;Defeat Blood-Sucking Mosquitoes By Becoming The Bug Zapperから発見。画像もここから転載。
-電撃殺虫器というのは、高電圧を印加した電極に虫を接触させることで、そのショックにより駆除を行う機器のことです。
-この記事では、電撃殺虫器の仕組みを身にまとって蚊を退治するために、スタンガンの内部モジュールと金属メッシュ、熱曲げ加工したPVCプレートを組み合わせて人間が着用できる防護服型のデバイスを自作した事例を紹介しています。
-外側の二層のメッシュ構造や構造材の隙間の設計など、高電圧のリークを防ぎつつ実用的な形状に落とし込むなど、様々な工夫があるようです。
-蚊を撃退するためとはいえ、最終的に全身をメッシュと配線で覆われた非常に滑稽な見た目の装備になってしまっている点が面白いと感じました。
  </description>
     </item>
     

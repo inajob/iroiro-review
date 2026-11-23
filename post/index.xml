@@ -5,9 +5,21 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 19 Nov 2026 22:11:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 21:27:56 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>トイカメラでDOOMを動かす</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%88%E3%82%A4%E3%82%AB%E3%83%A1%E3%83%A9%E3%81%A7doom%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</link>
+      <pubDate>Mon, 23 Nov 2026 21:27:56 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%88%E3%82%A4%E3%82%AB%E3%83%A1%E3%83%A9%E3%81%A7doom%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/トイカメラでDOOMを動かす.jpg"&gt;It’s DOOM, On A Toy Cameraから発見。画像もここから転載。
+最近の子ども向けトイカメラは安価でありながら処理能力が上がっており、画像処理やミニゲームなどを1チップでこなすSoCが搭載されています。かつてのPC向けCPUである486クラスに近い演算性能を持つものもあり、玩具という枠を超えたハードウェア構成になっています。
+この記事では、そうしたトイカメラのファームウェアを解析し、空き容量が限られるメモリ環境でDOOMを約30fpsで動かせるように仕立てています。よく使われるコードだけをRAMに残して残りをフラッシュに置く工夫や、自作の軽量シンセサイザーによる音楽再生、限られたボタンへの操作割り当てなど、実用的に遊べる形まで詰めているのが特徴で、詳しい実装やツール類は元記事とあわせて公開リポジトリを見るとわかりそうです。
+小さな割り込み処理や自前のループを組み合わせて、限られたリソースを引き出す工夫が面白いと感じました。</description>
+    </item>
     
     <item>
       <title>ESP32-P4で動作するデスクトップ付きのOS</title>
@@ -117,18 +129,6 @@ CH32V003は、数10円という非常に低価格で購入できるオープン�
 この記事では、古いDVDプレーヤーから取り外した7セグメントLEDディスプレイを流用して、往年の名作ゲーム「スネーク」をプレイできるようにした工作を紹介しています。各セグメントをヘビの体のパーツに見立て、ディスプレイの配置をそのままグリッドとして活用するというユニークな発想が特徴です。
 敢えて特徴的な表示機を使うところに、ナンセンスさと面白さが感じられる作例です
  </description>
-    </item>
-    
-    <item>
-      <title>安価なモジュールと3Dプリンタを駆使した安いゲームコントローラ</title>
-      <link>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E4%BE%A1%E3%81%AA%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E9%A7%86%E4%BD%BF%E3%81%97%E3%81%9F%E5%AE%89%E3%81%84%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9/</link>
-      <pubDate>Sun, 08 Nov 2026 22:00:58 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/%E5%AE%89%E4%BE%A1%E3%81%AA%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%81%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E9%A7%86%E4%BD%BF%E3%81%97%E3%81%9F%E5%AE%89%E3%81%84%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/安価なモジュールと3Dプリンタを駆使した安いゲームコントローラ.jpg"&gt;The 10€ Gamepadから発見。画像もここから転載。
-3Dプリンタと電子工作は相性が良く、特に大きさにこだわりたいケースや複雑な形状のコントローラのようなものに適しています。
-この記事では、市販コントローラーの価格高騰を背景に、専用基板を使わずユニバーサル基板とRP2040-Zero、ジョイスティック、ボタン類、そして3Dプリント筐体を組み合わせて10ユーロ程度で自作されたゲームパッドが紹介されています。 内部にはナットを固定するためのインサートナットが用いられており、設定はファームウェアが提供するWebUI経由で手軽に行えるなど、手軽さと頑丈さを両立させた設計になっています。
-配線をプリント基板に頼らずプロトボードで完結させる割り切ったアプローチや、GP2040-CEを活用した手軽なビルド手順は自作入力デバイスの入門として非常に応用範囲が広い技術だと感じました。</description>
     </item>
     
   </channel>
