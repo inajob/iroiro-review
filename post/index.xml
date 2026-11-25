@@ -5,9 +5,24 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 24 Nov 2026 21:25:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 21:32:03 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>リング式XYプロッタ</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%83%AA%E3%83%B3%E3%82%B0%E5%BC%8Fxy%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</link>
+      <pubDate>Wed, 25 Nov 2026 21:32:03 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%83%AA%E3%83%B3%E3%82%B0%E5%BC%8Fxy%E3%83%97%E3%83%AD%E3%83%83%E3%82%BF/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/リング式XYプロッタ.jpg"&gt;プラレールの上を走るペンプロッタを、人間と一緒に作った話【前編】――作る話から発見。画像もここから転載。
+ペンプロッタでは、直交する2本のガイドレールとベルトでペンをXY方向に動かす構成が一般的ですが、ガイドの平行度や摩擦、ベルトのたわみなど、自作では意外と精度や剛性の詰めに手間がかかります。
+この記事では、プラレールの円環レールの上を2台の台車が走り、渡した1本の棒でペン位置を決めるユニークなペンプロッタの設計と製作の経緯がまとめられています。同心リング案などの比較や、手持ち部品と3Dプリンタを活かした現実的な構造への落とし込み、AIとの役割分担まで読めるので、気になる方は本文も読んでみてください。
+手に入りやすい既存のプラレールを機構のベースに据えて、工作の面倒さを避けつつ実用的な精度へ落とし込んでいく点が面白いと感じました。
+変なXYプロッタが作りたいという動機で少しずつ作っていた、リング式XYプロッタが完成しました！　※わりと耳障りな音が出ますので注意。
+紹介動画はOpus 5.5に作ってもらったものです。解説版の長い動画、解説記事のリンクはリプに貼る予定です。 pic.twitter.com/38C4SBtpa9
+&amp;mdash; Kohya Tech (@kohya_tech) November 15, 2026  </description>
+    </item>
     
     <item>
       <title>ESP32-S3で作られたX Window Systemのサーバー</title>
@@ -117,18 +132,6 @@ Sylphide OSというのは、MMUを持たないリソースの限られたマイ
       <description>&lt;img src="https://inajob.github.io/iroiro-review/img/2形態に変形するマトリクスLED.jpg"&gt;@beavers_hive のポスト on X（2026-11-02 10:16） / Xから発見。画像もここから転載。
 横長のフルカラーマトリクスLEDかと思いきや、変形するという機構の付いた面白い作例です。
 表示する情報の種類に応じて形が変えられる というのが面白いし、自動で変形する仕掛けも意外性があって面白いです</description>
-    </item>
-    
-    <item>
-      <title>2キーのシンプルな携帯ゲーム機</title>
-      <link>https://inajob.github.io/iroiro-review/post/2%E3%82%AD%E3%83%BC%E3%81%AE%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</link>
-      <pubDate>Tue, 10 Nov 2026 21:48:33 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/2%E3%82%AD%E3%83%BC%E3%81%AE%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E6%90%BA%E5%B8%AF%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/2キーのシンプルな携帯ゲーム機.jpg"&gt;tRexRunnerNanoから発見。画像もここから転載。
-CH32V003は、数10円という非常に低価格で購入できるオープンソース開発基盤向けの32bit RISC-Vマイコンです。
-この記事では、過去にATmega88で作られたキーホルダーサイズのChrome恐竜ゲーム機を、CH32V003を用いてリメイクした自作ハードウェア「tRexRunnerNano」を紹介しています。単にマイコンを変更しただけでなく、書き込み用ポゴピンパッドの追加やUSB Type-C化、回路修正による漏れ電流対策やボタン天面パーツの最適化など、自作基板における細かな改善ノウハウが詰め込まれています。
-旧作の反省点を回路や機構設計の更新によって丁寧に潰し込み、現代のパーツ構成で完成度を高めているアプローチが非常に魅力的だと感じました。</description>
     </item>
     
   </channel>
