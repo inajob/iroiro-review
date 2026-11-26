@@ -5,9 +5,22 @@
     <description>Recent content in Posts on inajobのいろいろレビュー</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 25 Nov 2026 21:32:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 22:33:06 +0000</lastBuildDate>
     
 	<atom:link href="https://inajob.github.io/iroiro-review/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>アヒル型のワンキーマクロデバイス</title>
+      <link>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%83%92%E3%83%AB%E5%9E%8B%E3%81%AE%E3%83%AF%E3%83%B3%E3%82%AD%E3%83%BC%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</link>
+      <pubDate>Thu, 26 Nov 2026 22:33:06 +0000</pubDate>
+      
+      <guid>https://inajob.github.io/iroiro-review/post/%E3%82%A2%E3%83%92%E3%83%AB%E5%9E%8B%E3%81%AE%E3%83%AF%E3%83%B3%E3%82%AD%E3%83%BC%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9/</guid>
+      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/アヒル型のワンキーマクロデバイス.jpg"&gt;MacroDuck - Smack him to control your PC!から発見。画像もここから転載。
+USB HIDという仕組みは、マイコンからキーボードやマウスの入力をPCへ送信する標準的なプロトコルですが、単なるキー押下だけでなく状態やタイミングの判定を組み合わせると入力の表現力を広げられます。
+この記事では、アヒル型の筐体を叩くことでPCのマクロ操作を実行するデバイス「MacroDuck」が紹介されています。シングルタップやダブルタップ、長押しといった入力の違いに加え、現在アクティブなアプリに応じた動作の切り替えや、叩いた際の鳴き声フィードバックなどを組み合わせた構成になっており、細かい配線や設定の工夫については元記事を確認するとわかります。
+物理的に叩くという直感的な操作と、アクティブウィンドウに応じたマクロの出し分けを組み合わせた点が面白いと感じました。
+ </description>
+    </item>
     
     <item>
       <title>リング式XYプロッタ</title>
@@ -121,17 +134,6 @@ Sylphide OSというのは、MMUを持たないリソースの限られたマイ
 この記事では、Linuxを動かせない安価な現代の高性能マイコン（ESP32-P4やRaspberry Pi Pico 2など）をターゲットに、FreeRTOSをベースとして独自のドライバやウィンドウマネージャを構築する「Sylphide OS」の設計思想や現状について紹介しています。
 見た目はClassic Macintoshっぽいですが独自の実装となっています
 マイコンの限界に挑戦しながらレトロなGUI環境をスクラッチで実装していくというアプローチは興味深く、私としてはこれが日本語対応してくれればなぁと感じています。</description>
-    </item>
-    
-    <item>
-      <title>2形態に変形するマトリクスLED</title>
-      <link>https://inajob.github.io/iroiro-review/post/2%E5%BD%A2%E6%85%8B%E3%81%AB%E5%A4%89%E5%BD%A2%E3%81%99%E3%82%8B%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led/</link>
-      <pubDate>Thu, 12 Nov 2026 00:06:50 +0000</pubDate>
-      
-      <guid>https://inajob.github.io/iroiro-review/post/2%E5%BD%A2%E6%85%8B%E3%81%AB%E5%A4%89%E5%BD%A2%E3%81%99%E3%82%8B%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9led/</guid>
-      <description>&lt;img src="https://inajob.github.io/iroiro-review/img/2形態に変形するマトリクスLED.jpg"&gt;@beavers_hive のポスト on X（2026-11-02 10:16） / Xから発見。画像もここから転載。
-横長のフルカラーマトリクスLEDかと思いきや、変形するという機構の付いた面白い作例です。
-表示する情報の種類に応じて形が変えられる というのが面白いし、自動で変形する仕掛けも意外性があって面白いです</description>
     </item>
     
   </channel>
